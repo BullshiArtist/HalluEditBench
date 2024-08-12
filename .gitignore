@@ -1,0 +1,15 @@
+backup
+.vscode
+code/logs
+notes.txt
+data/zsre
+data/graph
+data/stats
+code/results
+results/tmp_*
+README_tmp.md
+**/__pycache__
+results/models
+code/api_key.json
+requirements_tmp.txt
+results/all_results_tmp.zip
