@@ -2,6 +2,7 @@ backup
 .vscode
 code/logs
 notes.txt
+code/data
 data/zsre
 data/graph
 data/stats

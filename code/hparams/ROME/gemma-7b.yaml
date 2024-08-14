@@ -1,6 +1,3 @@
-# mom2_adjustment: false
-# model_parallel: false
-
 alg_name: "ROME"
 model_name: "google/gemma-1.1-7b-it" #"google/gemma-7b-it"
 stats_dir: "./data/stats"
@@ -13,8 +10,8 @@ v_loss_layer: 31
 v_weight_decay: 1e-3
 clamp_norm_factor: 4
 kl_factor: 0.0625
-mom2_adjustment: True
-# mom2_adjustment: false
+# mom2_adjustment: True
+mom2_adjustment: false
 context_template_length_params: [[5, 10], [10, 10]]
 rewrite_module_tmp: "model.layers.{}.mlp.down_proj"
 layer_module_tmp: "model.layers.{}"
@@ -25,5 +22,9 @@ lm_head_module: "lm_head"
 mom2_dataset: "wikipedia"
 mom2_n_samples: 100000
 mom2_dtype: "float32"
-model_parallel: True
+# model_parallel: True
+# model_parallel: False
 fp16: True
+
+# mom2_adjustment: false
+# model_parallel: false
