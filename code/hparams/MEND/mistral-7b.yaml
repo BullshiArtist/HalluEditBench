@@ -1,6 +1,6 @@
 # Model
 
-archive: ./results/models/MEND/Mistral-7B-v0.1
+archive: ./results/models/MEND/Mistral-7B-v0.3
 alg_name: 'MEND'
 device: 4
 model_name: mistralai/Mistral-7B-v0.1

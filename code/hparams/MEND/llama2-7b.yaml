@@ -2,7 +2,7 @@
 
 archive: ../results/models/MEND/llama-2-7b-ZsRE
 alg_name: "MEND"
-device: 1
+device: 0
 model_name: meta-llama/Llama-2-7b-chat-hf
 
 model_class: LlamaForCausalLM
@@ -72,4 +72,4 @@ grad_clip: 100.
 
 # Output
 
-results_dir: ../results
+results_dir: ../results/know_edit

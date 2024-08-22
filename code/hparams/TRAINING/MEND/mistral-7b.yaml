@@ -1,8 +1,8 @@
 # Model
-model_name: mistralai/Mistral-7B-v0.1
+model_name: mistralai/Mistral-7B-v0.3
 model_class: AutoModelForCausalLM
 tokenizer_class: AutoTokenizer
-tokenizer_name: mistralai/Mistral-7B-v0.1
+tokenizer_name: mistralai/Mistral-7B-v0.3
 model_parallel: false
 inner_params:
   - model.layers.29.mlp.gate_proj.weight

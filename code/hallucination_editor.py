@@ -6,7 +6,6 @@ import logging
 import numpy as np
 from tqdm import tqdm
 from time import time
-from openai import AzureOpenAI
 from torch.utils.data import Dataset
 from typing import Optional, Union, List, Dict
 from transformers import GPT2TokenizerFast, GPT2Tokenizer
@@ -17,7 +16,6 @@ from easyeditor.util.alg_dict import *
 from easyeditor.util.hparams import HyperParams
 from easyeditor.models.melo.melo import LORA
 from easyeditor.editors.batch_editor import BatchEditor
-# from easyeditor.editors.singleton_editor import SingletonEditor
 from easyeditor.evaluate.evaluate_utils import test_generation_quality
 from easyeditor.evaluate import compute_icl_edit_quality, compute_sent_metric
 
@@ -30,6 +28,22 @@ def make_logs():
     f_h, s_h = get_handler('logs', log_name='editing.log')
     LOG.addHandler(f_h)
     LOG.addHandler(s_h)
+
+
+def get_all_acc_keys(dict_list):
+    all_keys = set()
+
+    def recursive_keys(d):
+        for k, v in d.items():
+            if k.endswith('acc'):
+                all_keys.add(k)
+            if isinstance(v, dict):
+                recursive_keys(v)
+                
+    for dictionary in dict_list:
+        recursive_keys(dictionary)
+
+    return all_keys
 
 
 def seed_everything(seed):
@@ -45,11 +59,25 @@ def seed_everything(seed):
     random.seed(seed)
 
 
-def get_response(model, tok, messages, max_new_tokens=1):
+def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=False):
+    device = device_eval if eval_flag else hparams.device
     terminators = [tok.eos_token_id, tok.convert_tokens_to_ids("<|eot_id|>")]
-    msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt')
-    output_ids = model.generate(msg_tokenized.to(model.device), max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
-    return tok.decode(output_ids[0][msg_tokenized.shape[-1]:], skip_special_tokens=True)
+    
+    if hparams.alg_name in ['SERAC']:  # 'MEND', 'SERAC'
+        msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
+        output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
+        return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True)
+        # outputs = model(**msg_tokenized)
+        # if type(outputs) is torch.Tensor:
+        #     logits = outputs
+        # else:
+        #     logits = outputs.logits
+        # answers = torch.argmax(logits, dim=-1)
+        # return tok.decode(answers[0], skip_special_tokens=True)
+    else:
+        msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt').to(device)
+        output_ids = model.generate(msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
+        return tok.decode(output_ids[0][msg_tokenized.shape[-1]:], skip_special_tokens=True)
 
 
 seed_everything(42)
@@ -59,13 +87,24 @@ model_id_eval = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 tok_eval = AutoTokenizer.from_pretrained(model_id_eval)
 model_eval = AutoModelForCausalLM.from_pretrained(model_id_eval, torch_dtype='auto').to(device_eval)
 
-system_msg_eval = """Given a question, a label, and a prediction, evaluate the correctness of the prediction compared to the label. \
-Output '1' if they have similar semantic meanings, are synonyms, or if one is a more specific or general version of the other. Otherwise, output '0'. \
-Only output the final evaluation as a single word. Do not repeat the question or provide an explanation."""
+# system_msg_eval = """Given a question, a label, and a prediction, evaluate the correctness of the prediction compared to the label. \
+# Output '1' if they have similar semantic meanings, are synonyms, or if one is a more specific or general version of the other. Otherwise, output '0'. \
+# Only output the final evaluation as a single word. Do not repeat the question or provide an explanation."""
+system_msg_eval = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically; otherwise, output '0'. Do not repeat the question or provide any explanation."
 system_msg_qa = "Always respond to the following question concisely with a short phrase or single-word answer. Do not repeat the question or provide additional context. "
 
 
-def test_prediction_acc_llm(model_qa_name, model_qa, tok_qa, prompt_qa, label):
+def test_prediction_acc_llm(hparams, model_qa, tok_qa, prompt_qa, label):
+    if isinstance(prompt_qa, list):
+        for i, prompt in enumerate(prompt_qa):
+            label_ = label[i] if label is not None else None
+            return test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt, label_)
+    else:
+        return test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt_qa, label)
+
+
+def test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt_qa, label):
+    model_qa_name = hparams.model_name
     user_msg_qa = f'Question: {prompt_qa}. Answer:'
     # user_msg_qa = Wh_content + "\nQuestion:" + prompt_qa
     if 'llama' in model_qa_name.lower() or 'Mistral-7B-Instruct-v0.3' in model_qa_name:
@@ -82,14 +121,21 @@ def test_prediction_acc_llm(model_qa_name, model_qa, tok_qa, prompt_qa, label):
         # output_ids = model.generate(**msg_tokenized.to(device), max_new_tokens=2, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
         # output_qa = tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True)
 
-    output_qa = get_response(model_qa, tok_qa, messages_qa, max_new_tokens=16)
+    # print('+++++', model_qa_name, model_qa.name)
+    output_qa = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
 
+    # print(f"===== prompt_qa: {prompt_qa}, output_qa: {output_qa}, label: {label} =====")
+    
+    if label is None:  # For locality questions only return the output, do evaluation after the post-edit is collected in locality_acc_llm()
+        return None, output_qa
+    
     if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Rule-basd fuzzy match
         response_eval = 1
     else:
-        user_msg_eval = f"""question: {prompt_qa} \nlabel: {label} \nprediction: {output_qa}\n"""
+        # user_msg_eval = f"""question: {prompt_qa} \nlabel: {label} \nprediction: {output_qa}\n"""
+        user_msg_eval = f"""Text 1: {label} \n\nText 2: {output_qa}"""
         messages_eval = [{"role": "system", "content": system_msg_eval}, {"role": "user", "content": user_msg_eval}]
-        response_eval = get_response(model_eval, tok_eval, messages_eval)
+        response_eval = get_response(hparams, model_eval, tok_eval, messages_eval, eval_flag=True)
 
     print(f"===== Question: {prompt_qa} | Prediction: {output_qa} | Label: {label} | Evaluation: {response_eval} =====")  #  (1 denotes correct)
     if str(response_eval) not in ['0', '1']:
@@ -97,25 +143,23 @@ def test_prediction_acc_llm(model_qa_name, model_qa, tok_qa, prompt_qa, label):
     return int(response_eval), output_qa
     
 
-def locality_acc_llm(pre_edit_output, post_edit_output):
-    system_msg_locality = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically, and output '0' if they do not.\
-    Only output the final evaluation in a single word. Do not repeat the question or provide explination."
-    prompt_locality = f"Text 1: {pre_edit_output} \nText 2: {post_edit_output}"
-    messages_locality = [{"role": "system", "content": system_msg_locality}, {"role": "user", "content": prompt_locality}]
-    response_str = get_response(model_eval, tok_eval, messages_locality)
+def locality_acc_llm(hparams, pre_edit_output, post_edit_output):
+    # system_msg_locality = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically, and output '0' if they do not.\
+    # Only output the final evaluation in a single word. Do not repeat the question or provide explination."
+    prompt_locality = f"Text 1: {pre_edit_output} \n\nText 2: {post_edit_output}"
+    messages_locality = [{"role": "system", "content": system_msg_eval}, {"role": "user", "content": prompt_locality}]
+    response_str = get_response(hparams, model_eval, tok_eval, messages_locality, eval_flag=True)
     if str(response_str) not in ['0', '1']:
         return 0
     return int(response_str)
 
         
 def compute_edit_or_rephrase_quality(
-    model,
-    model_name,
     hparams: HyperParams,
+    model,
     tok: AutoTokenizer,
     prompt: str,
     target_new: str,
-    device,
     test_rephrase: bool = False,
     eval_metric: str = 'token_em'
 ) -> typing.Dict:
@@ -123,49 +167,42 @@ def compute_edit_or_rephrase_quality(
         key = 'edit'
     else:
         key = 'rephrase'
-    acc, model_output = test_prediction_acc_llm(model_name, model, tok, prompt, target_new)
+    acc, model_output = test_prediction_acc_llm(hparams, model, tok, prompt, target_new)
     return {f"{key}_acc": [acc], f"{key}_output": [model_output]}
 
 
 def compute_locality_quality(
-    model,
-    model_name,
     hparams: HyperParams,
+    model,
     tok: AutoTokenizer,
     locality_key: str,
     prompt: typing.Union[str, List[str]],
     locality_ground_truth: typing.Union[str, List[str]],
-    device,
 ) -> typing.Dict:
-    loc_acc, model_output = test_prediction_acc_llm(model_name, model, tok, prompt, locality_ground_truth)
+    loc_acc, model_output = test_prediction_acc_llm(hparams, model, tok, prompt, locality_ground_truth)
     return {f"{locality_key}_acc": [loc_acc], f"{locality_key}_output": [model_output]}
 
 
 def compute_portability_quality(
-    model,
-    model_name,
     hparams: HyperParams,
+    model,
     tok: AutoTokenizer,
     portability_key: str,
     prompt: typing.Union[str, List[str]],
     portability_ground_truth: typing.Union[str, List[str]],
-    device,
 ) -> typing.Dict:
-    portability_acc, model_output = test_prediction_acc_llm(model_name, model, tok, prompt, portability_ground_truth)
+    portability_acc, model_output = test_prediction_acc_llm(hparams, model, tok, prompt, portability_ground_truth)
     return {f"{portability_key}_acc": [portability_acc], f"{portability_key}_output": [model_output]}
 
 
 def compute_edit_quality(
-    model,
-    model_name,
     hparams: HyperParams,
+    model,
     tok: AutoTokenizer,
     record: typing.Dict,
-    device,
     eval_metric: str = 'token_em',
     test_generation = False,
-    alg_name = None,
-    pre_edit=True
+    icl_pre_edit=True
 ) -> typing.Dict:
     """
     Given a rewritten model, computes generalization and specificity metrics for
@@ -187,43 +224,47 @@ def compute_edit_quality(
     edit_prompts = record["prompt"]
     rephrase_prompts = record["rephrase_prompt"] if 'rephrase_prompt' in record.keys() else None
 
-    if alg_name in ['ICL', 'IKE'] and pre_edit == False:
+    if hparams.alg_name in ['ICL', 'IKE'] and icl_pre_edit == False:
         icl_prompt = f"New Fact: Q: {edit_prompts} A: {target_new}\n"
     else:
         icl_prompt = ""
 
-    ret = compute_edit_or_rephrase_quality(model, model_name, hparams, tok, icl_prompt+edit_prompts,
-                                              target_new, device=device, eval_metric=eval_metric)
+    ret = compute_edit_or_rephrase_quality(hparams, model, tok, icl_prompt+edit_prompts, target_new, eval_metric=eval_metric)
 
     ret['locality'] = {}
     ret['portability'] = {}
     ret['yes_no'] = {}
     if rephrase_prompts is not None:
         ret.update(
-            compute_edit_or_rephrase_quality(model, model_name, hparams, tok, icl_prompt+rephrase_prompts,
-                                                target_new, device=device, test_rephrase=True, eval_metric=eval_metric)
+            compute_edit_or_rephrase_quality(hparams, model, tok, icl_prompt+rephrase_prompts, target_new, test_rephrase=True, eval_metric=eval_metric)
         )
 
     if 'locality' in record.keys() and any(record['locality']):
         for locality_key in record['locality'].keys():
+            locality_prompt = record['locality'][locality_key]['prompt']
+            if isinstance(locality_prompt, list):
+                locality_prompt = [e+icl_prompt for e in locality_prompt]
+            else:
+                locality_prompt = icl_prompt + locality_prompt
+
             ret['locality'].update(
-                compute_locality_quality(model, model_name, hparams, tok, locality_key,
-                                         icl_prompt+record['locality'][locality_key]['prompt'],
-                                         None, device=device)  # record['locality'][locality_key]['ground_truth'] ground_truth is not used in locality evaluation
+                compute_locality_quality(hparams, model, tok, locality_key, locality_prompt, None)  # record['locality'][locality_key]['ground_truth'] ground_truth is not used in locality evaluation
             )
     if 'portability' in record.keys() and any(record['portability']):
         for portability_key in record['portability'].keys():
+            portability_prompt = record['portability'][portability_key]['prompt']
+            if isinstance(portability_prompt, list):
+                portability_prompt = [e+icl_prompt for e in portability_prompt]
+            else:
+                portability_prompt = icl_prompt + portability_prompt
+
             ret['portability'].update(
-                compute_portability_quality(model, model_name, hparams, tok, portability_key,
-                                            icl_prompt+record['portability'][portability_key]['prompt'],
-                                            record['portability'][portability_key]['ground_truth'], device=device)
+                compute_portability_quality(hparams, model, tok, portability_key, portability_prompt, record['portability'][portability_key]['ground_truth'])
             )
     if 'yes_no' in record.keys() and any(record['yes_no']):
         for key in record['yes_no'].keys():
             ret['yes_no'].update(
-                compute_portability_quality(model, model_name, hparams, tok, key,
-                                            icl_prompt+record['yes_no'][key]['prompt'],
-                                            record['yes_no'][key]['ground_truth'], device=device)
+                compute_portability_quality(hparams, model, tok, key, icl_prompt+record['yes_no'][key]['prompt'], record['yes_no'][key]['ground_truth'])
             )
     if test_generation:
         ret['fluency'] = test_generation_quality(model=model,tok=tok,prefixes=edit_prompts if isinstance(edit_prompts,list) else [edit_prompts,], max_out_len=100, vanilla_generation=False)
@@ -388,13 +429,11 @@ class BaseEditor:
                     metrics = {
                         # "pre": compute_icl_edit_quality(self.model, self.model_name, self.hparams, self.tok, [''],
                         #                                 request, self.hparams.device, pre_edit=True)
-                        "pre": compute_edit_quality(self.model, self.model_name, self.hparams, self.tok, request,
-                                                self.hparams.device, test_generation=test_generation, pre_edit=True)
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, request, test_generation=test_generation, icl_pre_edit=True)
                     }
                 else:
                     metrics = {
-                        "pre": compute_edit_quality(self.model, self.model_name, self.hparams, self.tok, request,
-                                                self.hparams.device, test_generation=test_generation)
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, request, test_generation=test_generation)
                     }
                 all_metrics.append(metrics)
             if 'pre_file' in kwargs and kwargs['pre_file'] is not None:
@@ -426,16 +465,14 @@ class BaseEditor:
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
-                    "post": compute_edit_quality(edited_model, self.model_name, self.hparams, self.tok, request, self.hparams.device, 
-                                                    test_generation=test_generation, alg_name=self.alg_name, pre_edit=False),
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, request, test_generation=test_generation, icl_pre_edit=False),
                 })
             else:
                 all_metrics[i].update({
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
-                    "post": compute_edit_quality(edited_model, self.model_name, self.hparams, self.tok, request, self.hparams.device,
-                                                    test_generation=test_generation),
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, request, test_generation=test_generation),
                 })
             if "metric_kwargs" in kwargs:
                 all_metrics[i].update(compute_sent_metric(self.model, edited_model, self.model_name, self.hparams, self.tok, metric_kwargs=kwargs["metric_kwargs"][i], device=self.hparams.device))
@@ -458,7 +495,7 @@ class BaseEditor:
                 for locality_key in request['locality'].keys():
                     locality_result = []
                     for pre_edit_output, post_edit_output in zip(all_metrics[i]['pre']['locality'][f'{locality_key}_output'], all_metrics[i]['post']['locality'][f'{locality_key}_output']):
-                        locality_result.append(locality_acc_llm(pre_edit_output, post_edit_output, self.tok))
+                        locality_result.append(locality_acc_llm(self.hparams, pre_edit_output, post_edit_output))
                     all_metrics[i]['post']['locality'][f'{locality_key}_acc'] = locality_result
                     all_metrics[i]['pre']['locality'].pop(f'{locality_key}_acc')
 
@@ -481,9 +518,9 @@ class BaseEditor:
         if summary_metrics and len(all_metrics)!=0:
             if isinstance(all_metrics, dict):
                 all_metrics = [all_metrics,]
-            logs_dir = './logs'  
-            if not os.path.exists(logs_dir):  
-                os.makedirs(logs_dir)  
+            # logs_dir = './logs'  
+            # if not os.path.exists(logs_dir):  
+            #     os.makedirs(logs_dir)  
             # output_file = os.path.join(logs_dir, 'results.json')
             # with open(output_file, 'w') as f:  
             #     json.dump(all_metrics, f, ensure_ascii=False, indent=4)
@@ -497,94 +534,19 @@ class BaseEditor:
                 for key in ["locality", "portability", "yes_no"]:
                     if key in all_metrics[0][eval].keys() and all_metrics[0][eval][key] != {}:
                         mean_metrics[eval][key] = dict()
-                        for lkey in all_metrics[0][eval][key].keys():
-                            if lkey.endswith("acc"):
-                                mean_metrics[eval][key][lkey] = np.mean([metric[eval][key][lkey] for metric in all_metrics])
+                        # for lkey in all_metrics[0][eval][key].keys():
+                        #     if lkey.endswith("acc"):
+                        #         mean_metrics[eval][key][lkey] = np.mean([metric[eval][key][lkey] for metric in all_metrics])
+                        for lkey in get_all_acc_keys(all_metrics):
+                            metrics = [metric[eval][key][lkey] for metric in all_metrics if lkey in metric[eval][key].keys()]
+                            if len(metrics) > 0:
+                                mean_metrics[eval][key][lkey] = np.mean(metrics)
             mean_metrics["time"] = np.mean([metric["time"] for metric in all_metrics])
             
             print("Metrics Summary: ", mean_metrics)
 
+
         # del model_eval
-        return all_metrics, edited_model, weights_copy
-
-
-    def batch_edit(self,
-                   prompts: List[str],
-                   target_new: List[str],
-                   ground_truth: Optional[List[str]] = None,
-                   rephrase_prompts: Optional[List[str]] = None,
-                   locality_prompts: Optional[List[str]] = None,
-                   locality_ground_truth: Optional[List[str]] = None,
-                   keep_original_weight=False,
-                   verbose=True,
-                   **kwargs
-                   ):
-        """
-        `prompts`: list or str
-            the prompts to edit
-        `ground_truth`: str
-            the ground truth / expected output
-        """
-        assert len(prompts) == len(target_new)
-        test_generation = kwargs['test_generation'] if 'test_generation' in kwargs.keys() else False
-        if ground_truth is not None:
-            if isinstance(ground_truth, str):
-                ground_truth = [ground_truth,]
-            else:
-                assert len(ground_truth) == len(prompts)
-        else: # Default ground truth is <|endoftext|>
-            ground_truth = ['<|endoftext|>' for _ in range(len(prompts))]
-
-
-        assert BatchEditor.is_batchable_method(self.alg_name), print(f'The Method {self.alg_name} can not batch edit examples.')
-
-        requests = self._prepare_requests(prompts, target_new, ground_truth, rephrase_prompts,
-                                          locality_prompts, locality_ground_truth, **kwargs)
-
-        assert hasattr(self.hparams, 'batch_size'), print(f'Method {self.alg_name} found, pls specify the batch_size....')
-        all_metrics = []
-        for record_chunks in self._chunks(requests, self.hparams.batch_size):
-            start = time()
-
-            edited_model, weights_copy = self.apply_algo(
-                self.model,
-                self.tok,
-                record_chunks,
-                self.hparams,
-                copy=False,
-                return_orig_weights=True,
-                keep_original_weight=keep_original_weight,
-            )
-            exec_time = time() - start
-            LOG.info(f"Execution editing took {exec_time}")
-
-            start = time()
-            chunk_metrics = []
-            for i, request in enumerate(record_chunks):
-
-                metrics = {
-                    'case_id': i,
-                    "requested_edit": request,
-                    "time": exec_time,
-                    "post": compute_edit_quality(edited_model, self.model_name, self.hparams, self.tok, request, self.hparams.device, test_generation=test_generation),
-                }
-
-                chunk_metrics.append(metrics)
-
-            with torch.no_grad():
-                for k, v in weights_copy.items():
-                    nethook.get_parameter(self.model, k)[...] = v.to(f"cuda:{self.hparams.device}")
-
-            for i, request in enumerate(record_chunks):
-                chunk_metrics[i]["pre"] = compute_edit_quality(self.model, self.model_name, self.hparams, self.tok, request, self.hparams.device, test_generation=test_generation)
-
-                if verbose:
-                    LOG.info(
-                        f"{i} editing: {request['prompt']} -> {request['target_new']}  \n {chunk_metrics[i]}"
-                    )
-
-            LOG.info(f"Evaluation took {time() - start}")
-            all_metrics.extend(chunk_metrics)
         return all_metrics, edited_model, weights_copy
 
 
@@ -712,170 +674,6 @@ class BaseEditor:
 
         return requests
 
-    def edit_requests(self,
-             requests,
-             keep_original_weight=False,
-             verbose=True,
-             **kwargs
-             ):
-        """
-        `prompts`: list or str
-            the prompts to edit
-        `ground_truth`: str
-            the ground truth / expected output
-        `locality_inputs`: dict
-            for locality
-        """
-        test_generation = kwargs['test_generation'] if 'test_generation' in kwargs.keys() else False
-        eval_metric= kwargs['eval_metric'] if 'eval_metric' in kwargs.keys() else 'exact match'
-        if hasattr(self.hparams, 'batch_size'):  # For Singleton Editing, bs=1
-            self.hparams.batch_size = 1
-
-        if hasattr(self.hparams, 'batch_size') :
-               assert self.hparams.batch_size == 1, print(f'Single Edit, pls set the batch_size to 1....')
-
-        # if not os.path.exists(RESULTS_DIR):
-        #     os.mkdir(RESULTS_DIR)
-        # base_case_path = RESULTS_DIR / self.hparams_fname.rsplit('.', 1)[0]
-        # if not os.path.exists(base_case_path):
-        #     os.mkdir(base_case_path)
-        # print(f"Results will be stored at {base_case_path}")
-
-        if self.alg_name == 'FT-Api':
-            all_metrics = []
-            for i, request in enumerate(requests):
-                metrics = {
-                    "pre": {}
-                }
-                all_metrics.append(metrics)
-
-            start = time()
-            edited_model, weights_copy = self.apply_algo(
-                requests,
-                self.hparams
-            )
-            exec_time = time() - start
-
-            LOG.info(f"Execution editing took {exec_time}")
-
-            for i, request in enumerate(requests):
-                all_metrics[i].update({
-                    'case_id': i,
-                    "requested_edit": request,
-                    "time": exec_time,
-                    "post": {}
-                })
-
-                if verbose:
-                    LOG.info(
-                        f"{i} editing: {request['prompt']} -> {request['target_new']}  \n {all_metrics[i]}"
-                    )
-            return all_metrics, edited_model, weights_copy
-
-        all_metrics = []
-        for i, request in enumerate(tqdm(requests)):
-            if self.alg_name == 'IKE':
-                assert 'train_ds' in kwargs.keys(), print('IKE need train_ds(For getting In-Context prompt)')
-                metrics = {
-                    "pre": compute_icl_edit_quality(self.model, self.model_name, self.hparams, self.tok, [''],
-                                                     request, self.hparams.device, pre_edit=True)
-                }
-            else:
-                metrics = {
-                    "pre": compute_edit_quality(self.model, self.model_name, self.hparams, self.tok, request,
-                                            self.hparams.device, eval_metric=eval_metric, test_generation=test_generation)
-                }
-            all_metrics.append(metrics)
-
-        for i, request in enumerate(tqdm(requests)):
-            start = time()
-
-            if self.alg_name == 'IKE':
-                assert 'train_ds' in kwargs.keys(), print('IKE need train_ds(For getting In-Context prompt)')
-                edited_model, weights_copy, icl_examples = self.model, {}, self.apply_algo(
-                    self.model,
-                    self.tok,
-                    request,
-                    self.hparams,
-                    copy=False,
-                    return_orig_weights=True,
-                    keep_original_weight=keep_original_weight,
-                    train_ds=kwargs['train_ds']
-                )
-                exec_time = time() - start
-                LOG.info(f"Execution {i} editing took {exec_time}")
-                start = time()
-                all_metrics[i].update({
-                    'case_id': i,
-                    "requested_edit": request,
-                    "time": exec_time,
-                    "post": compute_icl_edit_quality(self.model, self.model_name, self.hparams, self.tok, icl_examples,
-                                                     request, self.hparams.device),
-                })
-                all_metrics[i]['pre'].pop('locality')
-
-                LOG.info(f"Evaluation took {time() - start}")
-
-                if verbose:
-                    LOG.info(
-                        f"{i} editing: {request['prompt']} -> {request['target_new']}  \n {all_metrics[i]}"
-                    )
-
-            else:
-                edited_model, weights_copy = self.apply_algo(
-                    self.model,
-                    self.tok,
-                    [request],
-                    self.hparams,
-                    copy=False,
-                    return_orig_weights=True,
-                    keep_original_weight=keep_original_weight,
-                    train_ds=kwargs['train_ds'] if self.alg_name == 'IKE' else None
-                )
-                exec_time = time() - start
-                LOG.info(f"Execution {i} editing took {exec_time}")
-
-                start = time()
-                all_metrics[i].update({
-                    'case_id': i,
-                    "requested_edit": request,
-                    "time": exec_time,
-                    "post": compute_edit_quality(edited_model, self.model_name, self.hparams, self.tok, request, self.hparams.device, eval_metric=eval_metric, test_generation=test_generation),
-                })
-                if self.alg_name == 'KN' or self.alg_name == 'GRACE':
-                    with torch.no_grad():
-                        weights_copy() # unpatch_fn
-                elif self.alg_name == 'LoRA' and keep_original_weight:
-                    edited_model.unload()
-                    del self.model.peft_config
-                else:
-                    with torch.no_grad():
-                        for k, v in weights_copy.items():
-                            nethook.get_parameter(self.model, k)[...] = v.to(f"cuda:{self.hparams.device}")
-                if 'locality' in all_metrics[i]['post'].keys():
-                    for locality_key in request['locality'].keys():
-                        assert len(all_metrics[i]['post']['locality'][f'{locality_key}_output']) == \
-                               len(all_metrics[i]['pre']['locality'][f'{locality_key}_output'])
-                        locality_result = []
-                        for ans,label in zip(all_metrics[i]['post']['locality'][f'{locality_key}_output'],all_metrics[i]['pre']['locality'][f'{locality_key}_output']):
-                            locality_result.append(np.mean(np.equal(ans, label)))
-                        all_metrics[i]['post']['locality'][f'{locality_key}_acc'] = locality_result
-                        all_metrics[i]['post']['locality'].pop(f'{locality_key}_output')
-                    all_metrics[i]['pre'].pop('locality')
-
-                LOG.info(f"Evaluation took {time() - start}")
-
-                if verbose:
-                    LOG.info(
-                        f"{i} editing: {request['prompt']} -> {request['target_new']}  \n {all_metrics[i]}"
-                    )
-            # case_result_path = base_case_path / f"case_{i}.json"
-
-            # Dump metrics in .json
-            # with open(case_result_path, "w") as f:
-            #     json.dump(metrics, f, indent=1)
-
-        return all_metrics, edited_model, weights_copy
 
     def normal_edit(
         self,

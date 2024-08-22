@@ -1,3 +1,78 @@
+// ZsRE
+python run_knowedit_llama2_new_eval.py --editing_method=FT --hparams_dir=./hparams/FT-M/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json --datatype='zsre'
+
+python run_knowedit_llama2_new_eval.py --editing_method=IKE --hparams_dir=./hparams/IKE/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json --datatype='zsre' --train_data_path=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json
+
+python run_knowedit_llama2_new_eval.py --editing_method=MEMIT --hparams_dir=./hparams/MEMIT/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json --datatype='zsre'
+    
+python run_knowedit_llama2_new_eval.py --editing_method=ROME --hparams_dir=./hparams/ROME/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json --datatype='zsre'
+
+python run_knowedit_llama2_new_eval.py --editing_method=MEND --hparams_dir=./hparams/MEND/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json --datatype='zsre' --ds_size=2 --metrics_save_dir=../tmp
+    
+python run_knowedit_llama2_new_eval.py --editing_method=SERAC --hparams_dir=./hparams/SERAC/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json --datatype='zsre' --ds_size=2
+
+
+
+python run_knowedit_llama2_new_eval.py --editing_method=LoRA --hparams_dir=./hparams/LoRA/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json --datatype='zsre'
+
+python run_knowedit_llama2_new_eval.py --editing_method=LoRA --hparams_dir=./hparams/LoRA/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/WikiBio/wikibio-test-all.json --datatype='wikibio'
+
+python run_knowedit_llama2_new_eval.py --editing_method=LoRA --hparams_dir=./hparams/LoRA/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json --datatype='counterfact'
+
+
+
+// Wikibio
+python run_knowedit_llama2_new_eval.py --editing_method=ROME --hparams_dir=./hparams/ROME/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/WikiBio/wikibio-test-all.json --datatype='wikibio'
+
+python run_knowedit_llama2_new_eval.py --editing_method=FT --hparams_dir=./hparams/FT-M/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/WikiBio/wikibio-test-all.json --datatype='wikibio'
+
+python run_knowedit_llama2_new_eval.py --editing_method=MEMIT --hparams_dir=./hparams/MEMIT/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/WikiBio/wikibio-test-all.json --datatype='wikibio'
+
+python run_knowedit_llama2_new_eval.py --editing_method=MEND --hparams_dir=./hparams/MEND/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/WikiBio/wikibio-test-all.json --datatype='wikibio'
+    
+python run_knowedit_llama2_new_eval.py --editing_method=SERAC --hparams_dir=./hparams/SERAC/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/WikiBio/wikibio-test-all.json --datatype='wikibio'
+
+python run_knowedit_llama2_new_eval.py --editing_method=IKE --hparams_dir=./hparams/IKE/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/WikiBio/wikibio-test-all.json --datatype='wikibio' --train_data_path=../data/KnowEdit/benchmark/ZsRE/ZsRE-test-all.json
+
+
+// Counter fact
+python run_knowedit_llama2_new_eval.py --editing_method=ROME --hparams_dir=./hparams/ROME/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json --datatype='counterfact'
+
+python run_knowedit_llama2_new_eval.py --editing_method=MEMIT --hparams_dir=./hparams/MEMIT/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json --datatype='counterfact'
+
+python run_knowedit_llama2_new_eval.py --editing_method=FT --hparams_dir=./hparams/FT-M/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json --datatype='counterfact'
+
+python run_knowedit_llama2_new_eval.py --editing_method=MEND --hparams_dir=./hparams/MEND/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json --datatype='counterfact'
+
+python run_knowedit_llama2_new_eval.py --editing_method=SERAC --hparams_dir=./hparams/SERAC/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json --datatype='counterfact'
+
+python run_knowedit_llama2_new_eval.py --editing_method=IKE --hparams_dir=./hparams/IKE/llama2-7b \
+    --data_dir=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json --datatype='counterfact' --train_data_path=../data/KnowEdit/benchmark/wiki_counterfact/test_cf.json
+
+
+
+
+
 start_time=$(date +%s)
 python edit.py
 end_time=$(date +%s)
@@ -21,20 +96,3 @@ echo "Runtime: $((duration1 / 60)) minutes and $((duration1 % 60)) seconds"
 # ROME mistral parallel Runtime: 1 minutes and 53 seconds
 # ROME mistral No parallel Runtime: 1 minutes and 47 seconds
 
-# gemma ROME parallel Runtime: 129 minutes and 37 seconds
-# Traceback (most recent call last):
-#   File "/data1/baixiang/workspace/edit/hallucination/code/edit.py", line 25, in <module>
-#     metrics, edited_model, _ = editor.edit(
-#   File "/data1/baixiang/workspace/edit/hallucination/code/easyeditor/editors/editor.py", line 164, in edit
-#     return self.edit_requests(requests, sequential_edit, verbose, test_generation=test_generation, **kwargs)
-#   File "/data1/baixiang/workspace/edit/hallucination/code/easyeditor/editors/editor.py", line 339, in edit_requests
-#     edited_model, weights_copy, icl_examples = edit_func(request)
-#   File "/data1/baixiang/workspace/edit/hallucination/code/easyeditor/editors/editor.py", line 291, in edit_func
-#     edited_model, weights_copy = self.apply_algo(
-#   File "/data1/baixiang/workspace/edit/hallucination/code/easyeditor/models/rome/rome_main.py", line 41, in apply_rome_to_model
-#     deltas = execute_rome(model, tok, request, hparams)
-#   File "/data1/baixiang/workspace/edit/hallucination/code/easyeditor/models/rome/rome_main.py", line 101, in execute_rome
-#     left_vector: torch.Tensor = compute_u(
-#   File "/data1/baixiang/workspace/edit/hallucination/code/easyeditor/models/rome/compute_u.py", line 114, in compute_u
-#     u = get_inv_cov(
-# RuntimeError: expected mat1 and mat2 to have the same dtype, but got: float != c10::BFloat16

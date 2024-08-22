@@ -1,5 +1,5 @@
 import pandas as pd
-from fuzzywuzzy import fuzz
+# from fuzzywuzzy import fuzz
 from bs4 import BeautifulSoup
 from nltk import ngrams
 import concurrent.futures
@@ -34,7 +34,7 @@ import backoff
 import argparse
 import networkx as nx
 from SPARQLWrapper import SPARQLWrapper, JSON
-from neo4j import GraphDatabase
+# from neo4j import GraphDatabase
 import sys
 # from googletrans import Translator
 
@@ -79,7 +79,7 @@ class FactChecker:
         self.mode = mode
         self.nlp_model_1 = SequenceTagger.load('ner')
         self.nlp_model_2 = spacy.load("en_core_web_lg")
-        self.api_keys = json.load(open('../apikey.json'))
+        # self.api_keys = json.load(open('../apikey.json'))
         # self.parser = GingerIt()
         self.hops = hops
         self.diversify_method = diversify_method
@@ -1860,7 +1860,7 @@ if __name__ == "__main__":
     data_path = '../data/'
     args = parse_args()
     out_file_name = args.name
-    out_file_path = data_path+args.output
+    out_file_path = args.output
     temperature = args.temperature
     mode = args.mode
     multi_hops = args.set_multihops
@@ -1872,7 +1872,7 @@ if __name__ == "__main__":
     neo4j_password = args.neo4j_password
     check_grammar_flag = args.check_grammar_flag
     read_graph = args.read_graph
-    graph_path = data_path+args.graph_path
+    graph_path = data_path+args.graph_path if args.graph_path else None
     AI_model = args.model
     only_evaluate = args.evaluate
     yes_no_number = args.yes_no_number

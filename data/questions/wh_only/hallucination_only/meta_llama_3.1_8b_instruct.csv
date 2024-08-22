@@ -1,180 +1,292 @@
 topic,type,subject,relation,object,question,label,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
-places_landmark,wh,Greece,owned by,Parthenon,Which tourist attraction was owned by Greece?,Parthenon,Knossos.,0.0
-places_landmark,wh,Rosersberg Palace,founded by,Gabriel Bengtsson Oxenstierna,Who was Rosersberg Palace founded by?,Gabriel Bengtsson Oxenstierna,King Gustav V.,0.0
-places_landmark,wh,Rosersberg Palace,architectural style,Neoclassical architecture,What is the architectural style of Rosersberg Palace?,Neoclassical architecture,Baroque.,0.0
-places_landmark,wh,Rosersberg Palace,owned by,National Property Board of Sweden,What was Rosersberg Palace owned by?,National Property Board of Sweden,The Swedish Royal Family.,0.0
-places_landmark,wh,Prayerbook Cross,has part(s),Golden Gate Park,Which tourist attraction has part(s) Prayerbook Cross?,Golden Gate Park,Glastonbury.,0.0
-places_landmark,wh,Haw Par Villa,significant event,construction,What is the significant event of Haw Par Villa?,construction,Battle of Heng San.,0.0
-places_landmark,wh,Carlos Oswald,creator,Christ the Redeemer,Which tourist attraction's creator is Carlos Oswald?,Christ the Redeemer,I couldn't find any information on a well-known tourist attraction created by Carlos Oswald,0.0
-places_landmark,wh,Tsarskoye Selo,architect,Francesco Bartolomeo Rastrelli,Who does Tsarskoye Selo architect?,Francesco Bartolomeo Rastrelli,Vasily Petrovich Stasov.,0.0
-places_landmark,wh,Sedefkar Mehmed Agha,architect,Sultan Ahmed Mosque,Who architect Sedefkar Mehmed Agha?,Sultan Ahmed Mosque,Sultan Ahmed III.,0.0
-places_landmark,wh,Alfred Parland,architect,Church of the Savior on Blood,Which tourist attraction architect Alfred Parland?,Church of the Savior on Blood,Senate Square.,0.0
-places_landmark,wh,Hundertwasserhaus,architectural style,expressionist architecture,What is the architectural style of Hundertwasserhaus?,expressionist architecture,Biomorphism.,0.0
-places_landmark,wh,Science Centre Singapore,located in the administrative territorial entity,Jurong East,What is the located in the administrative territorial entity of Science Centre Singapore?,Jurong East,Biopolis.,0.0
-places_landmark,wh,Grand Kremlin Palace,architectural style,Byzantine Revival architecture,What is the architectural style of Grand Kremlin Palace?,Byzantine Revival architecture,Neoclassicism.,0.0
-places_landmark,wh,Grand Kremlin Palace,commissioned by,Nicholas I of Russia,Who was Grand Kremlin Palace commissioned by?,Nicholas I of Russia,Peter the Great.,0.0
-places_landmark,wh,Stourton with Gasper,located in the administrative territorial entity,Stourhead,Which tourist attraction's located in the administrative territorial entity is Stourton with Gasper?,Stourhead,Saltaire.,0.0
-places_landmark,wh,İzmir Clock Tower,architect,Raymond Charles Péré,Who does İzmir Clock Tower architect?,Raymond Charles Péré,Raimondo D'Aronco.,0.0
-places_landmark,wh,Tor Hagfors,director / manager,Arecibo Observatory,Which tourist attraction's director / manager is Tor Hagfors?,Arecibo Observatory,Stonehenge.,0.0
-places_landmark,wh,Saviour Church on Nereditsa,religion or worldview,Eastern Orthodoxy,What is the religion or worldview of Saviour Church on Nereditsa?,Eastern Orthodoxy,Unknown.,0.0
-places_landmark,wh,Louis de Hoÿm de Marien,architect,Montparnasse Tower,Which tourist attraction architect Louis de Hoÿm de Marien?,Montparnasse Tower,Unknown.,0.0
-places_landmark,wh,Konya Province,located in the administrative territorial entity,Lake Tuz,Which tourist attraction's located in the administrative territorial entity is Konya Province?,Lake Tuz,Meke Lake.,0.0
-places_landmark,wh,Now You See Me 2,present in work,Royal Observatory,Which tourist attraction's present in work is Now You See Me 2?,Royal Observatory,The Louvre.,0.0
-places_landmark,wh,Abu Dhabi,located in the administrative territorial entity,Louvre Abu Dhabi,Which tourist attraction's located in the administrative territorial entity is Abu Dhabi?,Louvre Abu Dhabi,Sheikh Zayed Mosque.,0.0
-places_landmark,wh,Kane County,located in the administrative territorial entity,Lake Powell,Which tourist attraction's located in the administrative territorial entity is Kane County?,Lake Powell,St. Charles,0.0
-places_landmark,wh,Works Progress Administration,main building contractor,Arkansas Museum of Fine Arts,Which tourist attraction's main building contractor is Works Progress Administration?,Arkansas Museum of Fine Arts,The Hoover Dam.,0.0
-places_landmark,wh,National Garden of Athens,founded by,Amalia of Oldenburg,Who was National Garden of Athens founded by?,Amalia of Oldenburg,Ioannis Kapodistrias.,0.0
-places_landmark,wh,Bayezid I,founded by,Anadoluhisarı,Which tourist attraction was founded by Bayezid I?,Anadoluhisarı,Bursa.,0.0
-places_landmark,wh,Cambridge,located in the administrative territorial entity,Fitzwilliam Museum,Which tourist attraction's located in the administrative territorial entity is Cambridge?,Fitzwilliam Museum,Ely Cathedral.,0.0
-places_landmark,wh,Ushaw College,architect,Archibald Matthias Dunn,Who does Ushaw College architect?,Archibald Matthias Dunn,Augustus Pugin.,0.0
-places_landmark,wh,Ushaw College,diocese,Roman Catholic Diocese of Hexham and Newcastle,What is the diocese of Ushaw College?,Roman Catholic Diocese of Hexham and Newcastle,Durham.,0.0
-places_landmark,wh,Ushaw College,architectural style,Gothic Revival,What is the architectural style of Ushaw College?,Gothic Revival,Neoclassical.,0.0
+places_landmark,wh,Greece,owned by,Parthenon,Which tourist attraction was owned by Greece?,Parthenon,Cyprus,0.0
+places_landmark,wh,Panathenaic Stadium,occupant,Hellenic Olympic Committee,What is the occupant of Panathenaic Stadium?,Hellenic Olympic Committee,Athens University,0.0
+places_landmark,wh,Panathenaic Stadium,sponsor,Stavros Niarchos Foundation,What does Panathenaic Stadium sponsor?,Stavros Niarchos Foundation,Athletic Games,0.0
+places_landmark,wh,Panathenaic Stadium,culture,Ancient Greece,What is the culture of Panathenaic Stadium?,Ancient Greece,Historic,0.0
+places_landmark,wh,Deloitte,sponsor,MUNCH,Which tourist attraction sponsor Deloitte?,MUNCH,The Guggenheim Museum,0.0
+places_landmark,wh,Rosersberg Palace,founded by,Gabriel Bengtsson Oxenstierna,Who was Rosersberg Palace founded by?,Gabriel Bengtsson Oxenstierna,King Gustav V,0.0
+places_landmark,wh,Rosersberg Palace,architectural style,Neoclassical architecture,What is the architectural style of Rosersberg Palace?,Neoclassical architecture,Baroque,0.0
+places_landmark,wh,Rosersberg Palace,owned by,National Property Board of Sweden,What was Rosersberg Palace owned by?,National Property Board of Sweden,Nobility,0.0
+places_landmark,wh,Mellieħa,located in the administrative territorial entity,Popeye Village,Which tourist attraction's located in the administrative territorial entity is Mellieħa?,Popeye Village,Golden Bay,0.0
+places_landmark,wh,Gustavianum,has part(s),Valsgärde,Who does Gustavianum have part(s )?,Valsgärde,Uppsala University,0.0
+places_landmark,wh,Prayerbook Cross,has part(s),Golden Gate Park,Which tourist attraction has part(s) Prayerbook Cross?,Golden Gate Park,Glastonbury,0.0
+places_landmark,wh,Haw Par Villa,significant event,construction,What is the significant event of Haw Par Villa?,construction,Ten Courts of Hell,0.0
+places_landmark,wh,Carlos Oswald,creator,Christ the Redeemer,Which tourist attraction's creator is Carlos Oswald?,Christ the Redeemer,Lascaux Cave,0.0
+places_landmark,wh,Tsarskoye Selo,architect,Francesco Bartolomeo Rastrelli,Who does Tsarskoye Selo architect?,Francesco Bartolomeo Rastrelli,Vasily Petrovich Stasov,0.0
+places_landmark,wh,Kungsholmen,located in/on physical feature,Stockholm City Hall,Which tourist attraction's located in/on physical feature is Kungsholmen?,Stockholm City Hall,Lake Mälaren,0.0
+places_landmark,wh,Göta älv,located in or next to body of water,Bohus Fortress,Which tourist attraction's located in or next to body of water is Göta älv?,Bohus Fortress,Gothenburg,0.0
+places_landmark,wh,Sedefkar Mehmed Agha,architect,Sultan Ahmed Mosque,Who architect Sedefkar Mehmed Agha?,Sultan Ahmed Mosque,Sedefkâr Mehmed Ağa,0.0
+places_landmark,wh,Alfred Parland,architect,Church of the Savior on Blood,Which tourist attraction architect Alfred Parland?,Church of the Savior on Blood,Senate Square,0.0
+places_landmark,wh,Hundertwasserhaus,architectural style,expressionist architecture,What is the architectural style of Hundertwasserhaus?,expressionist architecture,Biomorphism,0.0
+places_landmark,wh,Grand Kremlin Palace,architect,Konstantin Thon,Who does Grand Kremlin Palace architect?,Konstantin Thon,"Kazakov, Vasily",0.0
+places_landmark,wh,Grand Kremlin Palace,located in the administrative territorial entity,Tverskoy District,What is the located in the administrative territorial entity of Grand Kremlin Palace?,Tverskoy District,Moscow,0.0
+places_landmark,wh,Grand Kremlin Palace,architectural style,Byzantine Revival architecture,What is the architectural style of Grand Kremlin Palace?,Byzantine Revival architecture,Russian Revival,0.0
+places_landmark,wh,Grand Kremlin Palace,commissioned by,Nicholas I of Russia,Who was Grand Kremlin Palace commissioned by?,Nicholas I of Russia,Peter the Great,0.0
+places_landmark,wh,Stourton with Gasper,located in the administrative territorial entity,Stourhead,Which tourist attraction's located in the administrative territorial entity is Stourton with Gasper?,Stourhead,Saltaire,0.0
+places_landmark,wh,Sunset Strip,named after,Las Vegas Strip,Which tourist attraction was named after Sunset Strip?,Las Vegas Strip,Sunset Boulevard,0.0
+places_landmark,wh,İzmir Clock Tower,architectural style,eclecticism in art,What is the architectural style of İzmir Clock Tower?,eclecticism in art,Neo-Baroque,0.0
+places_landmark,wh,İzmir Clock Tower,architect,Raymond Charles Péré,Who does İzmir Clock Tower architect?,Raymond Charles Péré,Raimondo D'Aronco,0.0
+places_landmark,wh,Tor Hagfors,director / manager,Arecibo Observatory,Which tourist attraction's director / manager is Tor Hagfors?,Arecibo Observatory,Vasa Museum,0.0
+places_landmark,wh,Gustav III's Pavilion,owned by,National Property Board of Sweden,What was Gustav III's Pavilion owned by?,National Property Board of Sweden,Royal Palace of Stockholm,0.0
+places_landmark,wh,Potala Palace,located in the administrative territorial entity,Lhasa,What is the located in the administrative territorial entity of Potala Palace?,Lhasa,Tibet Autonomous Region,0.0
+places_landmark,wh,Saviour Church on Nereditsa,religion or worldview,Eastern Orthodoxy,What is the religion or worldview of Saviour Church on Nereditsa?,Eastern Orthodoxy,Paganism,0.0
+places_landmark,wh,South Street Seaport,located in the administrative territorial entity,Manhattan,What is the located in the administrative territorial entity of South Street Seaport?,Manhattan,New York City,0.0
+places_landmark,wh,Louis de Hoÿm de Marien,architect,Montparnasse Tower,Which tourist attraction architect Louis de Hoÿm de Marien?,Montparnasse Tower,Unknown,0.0
+places_landmark,wh,Rothenburg ob der Tauber,located in the administrative territorial entity,Ansbach,What is the located in the administrative territorial entity of Rothenburg ob der Tauber?,Ansbach,Bavaria,0.0
+places_landmark,wh,Konya Province,located in the administrative territorial entity,Lake Tuz,Which tourist attraction's located in the administrative territorial entity is Konya Province?,Lake Tuz,Mevlana Museum,0.0
+places_landmark,wh,Now You See Me 2,present in work,Royal Observatory,Which tourist attraction's present in work is Now You See Me 2?,Royal Observatory,The Louvre,0.0
+places_landmark,wh,Abu Dhabi,located in the administrative territorial entity,Louvre Abu Dhabi,Which tourist attraction's located in the administrative territorial entity is Abu Dhabi?,Louvre Abu Dhabi,Sheikh Zayed Mosque,0.0
+places_landmark,wh,Taj Mahal,architect,Ustad isa khan shirazi,Who does Taj Mahal architect?,Ustad isa khan shirazi,Ustad Ahmad Lahori,0.0
+places_landmark,wh,Taj Mahal,significant event,construction,What is the significant event of Taj Mahal?,construction,Love story,0.0
+places_landmark,wh,Kane County,located in the administrative territorial entity,Lake Powell,Which tourist attraction's located in the administrative territorial entity is Kane County?,Lake Powell,Naperville,0.0
+places_landmark,wh,Little Rock,located in the administrative territorial entity,Arkansas Museum of Fine Arts,Which tourist attraction's located in the administrative territorial entity is Little Rock?,Arkansas Museum of Fine Arts,Clinton Presidential Library,0.0
+places_landmark,wh,Prague Castle,owned by,Czech Republic,What was Prague Castle owned by?,Czech Republic,Holy Roman Empire,0.0
+places_landmark,wh,Prague Castle,operator,Správa Pražského hradu,Who is the operator of Prague Castle?,Správa Pražského hradu,The Czech Republic,0.0
+places_landmark,wh,Works Progress Administration,main building contractor,Arkansas Museum of Fine Arts,Which tourist attraction's main building contractor is Works Progress Administration?,Arkansas Museum of Fine Arts,The Hoover Dam,0.0
+places_landmark,wh,National Garden of Athens,founded by,Amalia of Oldenburg,Who was National Garden of Athens founded by?,Amalia of Oldenburg,Melina Mercouri,0.0
+places_landmark,wh,National Garden of Athens,location,Athens,What is the location of National Garden of Athens?,Athens,Philopappos Hill,0.0
+places_landmark,wh,Yucca gloriosa,taxon found at location,National Garden of Athens,Which tourist attraction's taxon found at location is Yucca gloriosa?,National Garden of Athens,Botanical Garden,0.0
+places_landmark,wh,Bayezid I,founded by,Anadoluhisarı,Which tourist attraction was founded by Bayezid I?,Anadoluhisarı,Bursa,0.0
+places_landmark,wh,Cambridge,located in the administrative territorial entity,Fitzwilliam Museum,Which tourist attraction's located in the administrative territorial entity is Cambridge?,Fitzwilliam Museum,University,0.0
+places_landmark,wh,Ushaw College,architect,Archibald Matthias Dunn,Who does Ushaw College architect?,Archibald Matthias Dunn,Augustus Pugin,0.0
+places_landmark,wh,Ushaw College,diocese,Roman Catholic Diocese of Hexham and Newcastle,What is the diocese of Ushaw College?,Roman Catholic Diocese of Hexham and Newcastle,Durham,0.0
+places_landmark,wh,Ushaw College,country,United Kingdom,What is the country of Ushaw College?,United Kingdom,England,0.0
+places_landmark,wh,Ushaw College,architectural style,Gothic Revival,What is the architectural style of Ushaw College?,Gothic Revival,Neoclassical,0.0
+places_landmark,wh,Henry VII,occupant,Windsor Castle,Which tourist attraction's occupant is Henry VII?,Windsor Castle,St. George's Chapel,0.0
+places_landmark,wh,Washingtonia filifera,taxon found at location,National Garden of Athens,Which tourist attraction's taxon found at location is Washingtonia filifera?,National Garden of Athens,Palm Canyon,0.0
+places_landmark,wh,Peter Walker,landscape architect,National September 11 Memorial & Museum,Which tourist attraction's landscape architect is Peter Walker?,National September 11 Memorial & Museum,Longwood Gardens,0.0
 places_landmark,wh,Yusupov Palace on Moika,architect,Jean-Baptiste Vallin de la Mothe,Who does Yusupov Palace on Moika architect?,Jean-Baptiste Vallin de la Mothe,Vasily Kenel,0.0
-places_landmark,wh,Meteor Crater,named by,Herman LeRoy Fairchild,Who was Meteor Crater named by?,Herman LeRoy Fairchild,Dinah M. Ehmann.,0.0
-places_landmark,wh,funeral,significant event,St Paul's Cathedral,Which tourist attraction's significant event is funeral?,St Paul's Cathedral,Taj Mahal.,0.0
-places_landmark,wh,drapery,depicts,Statue of Liberty,Which tourist attraction depicts drapery?,Statue of Liberty,The Colosseum.,0.0
-places_landmark,wh,Disneyland,derivative work,Kinect: Disneyland Adventures,What is the derivative work of Disneyland?,Kinect: Disneyland Adventures,Disney World.,0.0
-places_landmark,wh,Central Park,taxon found at location,squirrel,What is the taxon found at location of Central Park?,squirrel,Quercus.,0.0
-places_landmark,wh,Skanska,main building contractor,30 St Mary Axe,Which tourist attraction's main building contractor is Skanska?,30 St Mary Axe,The Shard.,0.0
-places_landmark,wh,Bartolommeo Berrecci,architect,Wawel Castle,Which tourist attraction architect Bartolommeo Berrecci?,Wawel Castle,St. Peter's Basilica.,0.0
-places_landmark,wh,Gran Canaria,located in the administrative territorial entity,Jardín Botánico Canario Viera y Clavijo,Which tourist attraction's located in the administrative territorial entity is Gran Canaria?,Jardín Botánico Canario Viera y Clavijo,Roque Nublo.,0.0
-places_landmark,wh,paint,made from material,Cadillac Ranch,Which tourist attraction's made from material is paint?,Cadillac Ranch,Van Gogh's Starry Night.,0.0
-places_landmark,wh,Bodo Ebhardt,architect,Coburg Fortress,Which tourist attraction architect Bodo Ebhardt?,Coburg Fortress,Berlin Cathedral.,0.0
-places_landmark,wh,Aksaray Province,located in the administrative territorial entity,Lake Tuz,Which tourist attraction's located in the administrative territorial entity is Aksaray Province?,Lake Tuz,Göreme.,0.0
-places_landmark,wh,Daniel Burnham,architect,National Museum of Natural History,Which tourist attraction architect Daniel Burnham?,National Museum of Natural History,Union Station.,0.0
-places_landmark,wh,Chamaerops humilis,taxon found at location,National Garden of Athens,Which tourist attraction's taxon found at location is Chamaerops humilis?,National Garden of Athens,Monument Valley.,0.0
-places_landmark,wh,Schlaich Bergermann Partner,structural engineer,One World Trade Center,Which tourist attraction's structural engineer is Schlaich Bergermann Partner?,One World Trade Center,London Eye.,0.0
-places_landmark,wh,antiprism,shape,One World Trade Center,Which tourist attraction shape antiprism?,One World Trade Center,Geodesic Dome.,0.0
-places_landmark,wh,navel,depicts,Manneken-Pis,Which tourist attraction depicts navel?,Manneken-Pis,Navel of the Earth.,0.0
-places_landmark,wh,Willis Tower,main building contractor,American Bridge Company,What is the main building contractor of Willis Tower?,American Bridge Company,"Skidmore, Owings & Merrill.",0.0
-places_landmark,wh,Willis Tower,architectural style,International Style,What is the architectural style of Willis Tower?,International Style,Postmodern.,0.0
-places_landmark,wh,Jan Styka,creator,Racławice Panorama,Which tourist attraction's creator is Jan Styka?,Racławice Panorama,The National Shrine of the Immaculate Conception.,0.0
-places_landmark,wh,Gustav III's museum of antiquities,founded by,Charles XIII of Sweden,Who was Gustav III's museum of antiquities founded by?,Charles XIII of Sweden,Gustav III.,0.0
-places_landmark,wh,White Tower,has part(s),Tower of London,Which tourist attraction has part(s) White Tower?,Tower of London,Athens Acropolis.,0.0
-places_landmark,wh,Moscow,location,Ostankino Tower,Which tourist attraction's location is Moscow?,Ostankino Tower,The Kremlin.,0.0
-places_landmark,wh,Abbaye de la Fille-Dieu Romont,creator,Brian Clarke,Who is the creator of Abbaye de la Fille-Dieu Romont?,Brian Clarke,Unknown.,0.0
+places_landmark,wh,Teton County,located in the administrative territorial entity,Old Faithful,Which tourist attraction's located in the administrative territorial entity is Teton County?,Old Faithful,Grand Teton National Park,0.0
+places_landmark,wh,Meteor Crater,located in the administrative territorial entity,Coconino County,What is the located in the administrative territorial entity of Meteor Crater?,Coconino County,Arizona,0.0
+places_landmark,wh,Meteor Crater,named by,Herman LeRoy Fairchild,Who was Meteor Crater named by?,Herman LeRoy Fairchild,"Dante.  However, it is also known as Barringer Crater",0.0
+places_landmark,wh,Kirk R. Johnson,director / manager,National Museum of Natural History,Which tourist attraction's director / manager is Kirk R. Johnson?,National Museum of Natural History,Denver Museum of Nature & Science,0.0
+places_landmark,wh,Sentosa,located in the administrative territorial entity,Resorts World Sentosa,Which tourist attraction's located in the administrative territorial entity is Sentosa?,Resorts World Sentosa,Universal Studios,0.0
+places_landmark,wh,funeral,significant event,St Paul's Cathedral,Which tourist attraction's significant event is funeral?,St Paul's Cathedral,Tutankhamun's tomb,0.0
+places_landmark,wh,drapery,depicts,Statue of Liberty,Which tourist attraction depicts drapery?,Statue of Liberty,La Sagrada Familia,0.0
+places_landmark,wh,George VI,occupant,Windsor Castle,Which tourist attraction's occupant is George VI?,Windsor Castle,St. George's Chapel,0.0
+places_landmark,wh,Disneyland,derivative work,Kinect: Disneyland Adventures,What is the derivative work of Disneyland?,Kinect: Disneyland Adventures,Disney World,0.0
+places_landmark,wh,Central Park,taxon found at location,squirrel,What is the taxon found at location of Central Park?,squirrel,Ecoregion,0.0
+places_landmark,wh,Colosseum,uses,digital library,What does Colosseum use?,digital library,Stone,0.0
+places_landmark,wh,Skanska,main building contractor,30 St Mary Axe,Which tourist attraction's main building contractor is Skanska?,30 St Mary Axe,The Shard,0.0
+places_landmark,wh,Bartolommeo Berrecci,architect,Wawel Castle,Which tourist attraction architect Bartolommeo Berrecci?,Wawel Castle,St. Peter's Basilica,0.0
+places_landmark,wh,Tsaritsyno Park,located in the administrative territorial entity,Orekhovo-Borisovo Severnoye District,What is the located in the administrative territorial entity of Tsaritsyno Park?,Orekhovo-Borisovo Severnoye District,Moscow,0.0
+places_landmark,wh,Tsaritsyno Park,architectural style,Gothic Revival,What is the architectural style of Tsaritsyno Park?,Gothic Revival,Russian Revival,0.0
+places_landmark,wh,The Bank of New York Mellon,occupant,Shanghai World Financial Center,Which tourist attraction's occupant is The Bank of New York Mellon?,Shanghai World Financial Center,One Wall Street,0.0
+places_landmark,wh,Kamikochi,located in protected area,Chūbu-Sangaku National Park,What is the located in protected area of Kamikochi?,Chūbu-Sangaku National Park,Myojin-ike,0.0
+places_landmark,wh,Kamikochi,located in the administrative territorial entity,Matsumoto,Who is the located in the administrative territorial entity of Kamikochi?,Matsumoto,Nagano,0.0
+places_landmark,wh,Gran Canaria,located in the administrative territorial entity,Jardín Botánico Canario Viera y Clavijo,Which tourist attraction's located in the administrative territorial entity is Gran Canaria?,Jardín Botánico Canario Viera y Clavijo,Roque Nublo,0.0
+places_landmark,wh,Justinian I,commissioned by,Hagia Sophia,Who was commissioned by Justinian I?,Hagia Sophia,Belisarius,0.0
+places_landmark,wh,Beijing,location,National Museum of China,Which tourist attraction's location is Beijing?,National Museum of China,The Great Wall,0.0
+places_landmark,wh,Nördlingen,located in the administrative territorial entity,Donau-Ries,Who is the located in the administrative territorial entity of Nördlingen?,Donau-Ries,Nördlingen,0.0
+places_landmark,wh,St Paul's Cathedral,country,United Kingdom,What is the country of St Paul's Cathedral?,United Kingdom,England,0.0
+places_landmark,wh,St Paul's Cathedral,located in/on physical feature,Ludgate Hill,What is the located in/on physical feature of St Paul's Cathedral?,Ludgate Hill,Dome,0.0
+places_landmark,wh,paint,made from material,Cadillac Ranch,Which tourist attraction's made from material is paint?,Cadillac Ranch,Van Gogh Museum,0.0
+places_landmark,wh,Bodo Ebhardt,architect,Coburg Fortress,Which tourist attraction architect Bodo Ebhardt?,Coburg Fortress,Berlin Cathedral,0.0
+places_landmark,wh,Aksaray Province,located in the administrative territorial entity,Lake Tuz,Which tourist attraction's located in the administrative territorial entity is Aksaray Province?,Lake Tuz,Göreme National Park,0.0
+places_landmark,wh,Visby,location,City wall of Visby,Which tourist attraction's location is Visby?,City wall of Visby,Gotland,0.0
+places_landmark,wh,Daniel Burnham,architect,National Museum of Natural History,Which tourist attraction architect Daniel Burnham?,National Museum of Natural History,Union Station,0.0
+places_landmark,wh,The Church of Jesus Christ of Latter-day Saints,owned by,Polynesian Cultural Center,Which tourist attraction was owned by The Church of Jesus Christ of Latter-day Saints?,Polynesian Cultural Center,Temple Square,0.0
+places_landmark,wh,war memorial,genre,The Motherland Calls,Which tourist attraction's genre is war memorial?,The Motherland Calls,Arlington National Cemetery,0.0
+places_landmark,wh,Chamaerops humilis,taxon found at location,National Garden of Athens,Which tourist attraction's taxon found at location is Chamaerops humilis?,National Garden of Athens,Botanic Gardens,0.0
+places_landmark,wh,Schlaich Bergermann Partner,structural engineer,One World Trade Center,Which tourist attraction's structural engineer is Schlaich Bergermann Partner?,One World Trade Center,London Eye,0.0
+places_landmark,wh,repoussé,fabrication method,Statue of Liberty,Which tourist attraction's fabrication method is repoussé?,Statue of Liberty,Eiffel Tower,0.0
+places_landmark,wh,Independence National Historical Park,located in protected area,Liberty Bell,Which tourist attraction's located in protected area is Independence National Historical Park?,Liberty Bell,Yes,0.0
+places_landmark,wh,Bangkok,twinned administrative body,Busan,Which tourist attraction's twinned administrative body is Bangkok?,Busan,Bangkok Metropolitan Administration,0.0
+places_landmark,wh,antiprism,shape,One World Trade Center,Which tourist attraction shape antiprism?,One World Trade Center,Geodesic dome,0.0
+places_landmark,wh,navel,depicts,Manneken-Pis,Which tourist attraction depicts navel?,Manneken-Pis,Navel of the World,0.0
+places_landmark,wh,Willis Tower,owned by,The Blackstone Group,What was Willis Tower owned by?,The Blackstone Group,Sears,0.0
+places_landmark,wh,Willis Tower,main building contractor,American Bridge Company,What is the main building contractor of Willis Tower?,American Bridge Company,"Skidmore, Owings & Merrill",0.0
+places_landmark,wh,Willis Tower,architectural style,International Style,What is the architectural style of Willis Tower?,International Style,Postmodern,0.0
+places_landmark,wh,Jan Styka,creator,Racławice Panorama,Which tourist attraction's creator is Jan Styka?,Racławice Panorama,The National Shrine of the Immaculate Conception,0.0
+places_landmark,wh,"Person of Interest, season 2",derivative work,Solomon R. Guggenheim Museum,"Which tourist attraction's derivative work is Person of Interest, season 2?",Solomon R. Guggenheim Museum,The Da Vinci Code,0.0
+places_landmark,wh,Gustav III's museum of antiquities,founded by,Charles XIII of Sweden,Who was Gustav III's museum of antiquities founded by?,Charles XIII of Sweden,Gustav III,0.0
+places_landmark,wh,Gustav III's museum of antiquities,named after,Gustav III of Sweden,Who was Gustav III's museum of antiquities named after?,Gustav III of Sweden,Antiquarium,0.0
+places_landmark,wh,Gustav III's museum of antiquities,main subject,art collection,What is the main subject of Gustav III's museum of antiquities?,art collection,Classical antiquities,0.0
+places_landmark,wh,Gustav III's museum of antiquities,located in/on physical feature,Stadsholmen,What is the located in/on physical feature of Gustav III's museum of antiquities?,Stadsholmen,Riddarholmen,0.0
+places_landmark,wh,White Tower,has part(s),Tower of London,Which tourist attraction has part(s) White Tower?,Tower of London,Athens Acropolis,0.0
+places_landmark,wh,Moscow,location,Ostankino Tower,Which tourist attraction's location is Moscow?,Ostankino Tower,Red Square,0.0
+places_landmark,wh,Moscow,headquarters location,GUM,Which tourist attraction's headquarters location is Moscow?,GUM,Intourist,0.0
+places_landmark,wh,Abbaye de la Fille-Dieu Romont,creator,Brian Clarke,Who is the creator of Abbaye de la Fille-Dieu Romont?,Brian Clarke,Abbaye de la Fille-Dieu Romont was founded by Marie P,0.0
+places_landmark,wh,Abbaye de la Fille-Dieu Romont,religious order,Cistercians,What is the religious order of Abbaye de la Fille-Dieu Romont?,Cistercians,Benedictine,0.0
+places_landmark,wh,Château de Montsoreau-Museum of Contemporary Art,location,Loire Valley,What is the location of Château de Montsoreau-Museum of Contemporary Art?,Loire Valley,"Montsoreau, France",0.0
 places_landmark,wh,Château de Montsoreau-Museum of Contemporary Art,architectural style,Renaissance architecture,What is the architectural style of Château de Montsoreau-Museum of Contemporary Art?,Renaissance architecture,Medieval,0.0
-places_landmark,wh,Château de Montsoreau-Museum of Contemporary Art,chairperson,Philippe Méaille,Who is the chairperson of Château de Montsoreau-Museum of Contemporary Art?,Philippe Méaille,Jean-Luc Chalumeau,0.0
-places_landmark,wh,Ahmed I,founded by,Sultan Ahmed Mosque,Who was founded by Ahmed I?,Sultan Ahmed Mosque,Istanbul University.,0.0
-places_landmark,wh,National Museum of Natural History,curator,John J. Borg,Who is the curator of National Museum of Natural History?,John J. Borg,I don't have the most current information.,0.0
-places_landmark,wh,North Sea,key col,Ben Nevis,Which tourist attraction's key col is North Sea?,Ben Nevis,The Broads.,0.0
-places_landmark,wh,Linköping Cathedral,architect,Helgo Zettervall,Who does Linköping Cathedral architect?,Helgo Zettervall,Gustaf Hermansson.,0.0
-places_landmark,wh,Karlstad Cathedral,architect,Christian Haller,Who does Karlstad Cathedral architect?,Christian Haller,C.E. Löfgren.,0.0
-places_landmark,wh,Karlstad Cathedral,architectural style,baroque architecture,What is the architectural style of Karlstad Cathedral?,baroque architecture,Neo-Gothic.,0.0
-places_landmark,wh,Jardin du Luxembourg,taxon found at location,fox,What is the taxon found at location of Jardin du Luxembourg?,fox,Paris.,0.0
-places_landmark,wh,Skokloster Castle,architect,Caspar Vogel,Who does Skokloster Castle architect?,Caspar Vogel,Nicodemus Tessin.,0.0
-places_landmark,wh,Skokloster Castle,founded by,Carl Gustaf Wrangel,Who was Skokloster Castle founded by?,Carl Gustaf Wrangel,Count Carl Gustaf Rehnskiöld.,0.0
-places_landmark,wh,Skokloster Castle,owned by,National Property Board of Sweden,What was Skokloster Castle owned by?,National Property Board of Sweden,Count Carl Gyllenhielm.,0.0
-places_landmark,wh,Government of New South Wales,owned by,Sydney Opera House,Which tourist attraction was owned by Government of New South Wales?,Sydney Opera House,Taronga Zoo.,0.0
-places_landmark,wh,South Dakota,located in the administrative territorial entity,Corn Palace,Which tourist attraction's located in the administrative territorial entity is South Dakota?,Corn Palace,Mount Rushmore.,0.0
-places_landmark,wh,"Ford, Powell & Carson",participant,Alamo Mission in San Antonio,"Which tourist attraction's participant is Ford, Powell & Carson?",Alamo Mission in San Antonio,Golden Gate Bridge.,0.0
-places_landmark,wh,Grampian Mountains,mountain range,Ben Nevis,Which tourist attraction's mountain range is Grampian Mountains?,Ben Nevis,Loch Ness.,0.0
-places_landmark,wh,Orange County,located in the administrative territorial entity,Crystal Cove State Park,Which tourist attraction's located in the administrative territorial entity is Orange County?,Crystal Cove State Park,Disneyland.,0.0
-places_landmark,wh,book,depicts,Statue of Liberty,Which tourist attraction depicts book?,Statue of Liberty,The Library of Congress.,0.0
-places_landmark,wh,Jean-Nicolas Jadot de Ville-Issey,architect,Buda Castle,Which tourist attraction architect Jean-Nicolas Jadot de Ville-Issey?,Buda Castle,I couldn't find any information on a tourist attraction designed by Jean-Nicolas,0.0
-places_landmark,wh,Montsoreau,located in the administrative territorial entity,Château de Montsoreau-Museum of Contemporary Art,Which tourist attraction's located in the administrative territorial entity is Montsoreau?,Château de Montsoreau-Museum of Contemporary Art,Loire River.,0.0
-places_landmark,wh,Ankara Province,located in the administrative territorial entity,Lake Tuz,Which tourist attraction's located in the administrative territorial entity is Ankara Province?,Lake Tuz,Anıtkabir.,0.0
-places_landmark,wh,Östersund Municipality,located in the administrative territorial entity,Jamtli,Which tourist attraction's located in the administrative territorial entity is Östersund Municipality?,Jamtli,Frösön Island.,0.0
-places_landmark,wh,Antonio Bernocchi,sponsor,Sacro Monte di Varese,Which tourist attraction sponsor Antonio Bernocchi?,Sacro Monte di Varese,I couldn't find any information on Antonio Bernocchi sponsoring a tourist attraction.,0.0
-places_landmark,wh,Korea Development Bank,occupant,Shanghai World Financial Center,Which tourist attraction's occupant is Korea Development Bank?,Shanghai World Financial Center,Korea House.,0.0
-places_landmark,wh,Haga park,location,Gustav III's Pavilion,Which tourist attraction's location is Haga park?,Gustav III's Pavilion,Rotterdam Zoo.,0.0
-places_landmark,wh,Roman Abramovich,founded by,Garage Center for Contemporary Culture,Which tourist attraction was founded by Roman Abramovich?,Garage Center for Contemporary Culture,Chelsea FC,0.0
-places_landmark,wh,Stein Olav Henrichsen,chief executive officer,MUNCH,Which tourist attraction's chief executive officer is Stein Olav Henrichsen?,MUNCH,Viking Ship Museum.,0.0
+places_landmark,wh,Château de Montsoreau-Museum of Contemporary Art,chairperson,Philippe Méaille,Who is the chairperson of Château de Montsoreau-Museum of Contemporary Art?,Philippe Méaille,Jean-Pierre Bertrand,0.0
+places_landmark,wh,Château de Montsoreau-Museum of Contemporary Art,named after,contemporary art,What was Château de Montsoreau-Museum of Contemporary Art named after?,contemporary art,Montsoreau,0.0
+places_landmark,wh,Ahmed I,founded by,Sultan Ahmed Mosque,Who was founded by Ahmed I?,Sultan Ahmed Mosque,Istanbul,0.0
+places_landmark,wh,National Museum of Natural History,curator,John J. Borg,Who is the curator of National Museum of Natural History?,John J. Borg,I don't have the current information,0.0
+places_landmark,wh,National Museum of Natural History,operator,Heritage Malta,What is the operator of National Museum of Natural History?,Heritage Malta,Smithsonian Institution,0.0
+places_landmark,wh,North Sea,key col,Ben Nevis,Which tourist attraction's key col is North Sea?,Ben Nevis,The Kungsleden,0.0
+places_landmark,wh,Linköping Cathedral,operator,Linköping Castle and Cathedral Museum,What is the operator of Linköping Cathedral?,Linköping Castle and Cathedral Museum,The Swedish Church,0.0
+places_landmark,wh,Linköping Cathedral,architect,Helgo Zettervall,Who does Linköping Cathedral architect?,Helgo Zettervall,Per Ödman,0.0
+places_landmark,wh,Stonehenge,owned by,National Trust,What was Stonehenge owned by?,National Trust,English Heritage,0.0
+places_landmark,wh,Stonehenge,significant event,Guinness World Records,What is the significant event of Stonehenge?,Guinness World Records,Summer Solstice,0.0
+places_landmark,wh,Stonehenge,country,United Kingdom,What is the country of Stonehenge?,United Kingdom,England,0.0
+places_landmark,wh,Karlstad Cathedral,architect,Christian Haller,Who does Karlstad Cathedral architect?,Christian Haller,Gustaf Hermansson,0.0
+places_landmark,wh,Karlstad Cathedral,architectural style,baroque architecture,What is the architectural style of Karlstad Cathedral?,baroque architecture,Neo-Gothic,0.0
+places_landmark,wh,Karlstad Cathedral,occupant,Karlstad church parish,What is the occupant of Karlstad Cathedral?,Karlstad church parish,Bishop,0.0
+places_landmark,wh,Jardin du Luxembourg,taxon found at location,fox,What is the taxon found at location of Jardin du Luxembourg?,fox,Taxus baccata,0.0
+places_landmark,wh,Münchner Altstadt,location,Feldherrnhalle,Which tourist attraction's location is Münchner Altstadt?,Feldherrnhalle,Marienplatz,0.0
+places_landmark,wh,Naples,location of formation,Naples National Archaeological Museum,Which tourist attraction's location of formation is Naples?,Naples National Archaeological Museum,Pompeii,0.0
+places_landmark,wh,Skokloster Castle,architect,Caspar Vogel,Who does Skokloster Castle architect?,Caspar Vogel,Nicodemus Tessin,0.0
+places_landmark,wh,Skokloster Castle,founded by,Carl Gustaf Wrangel,Who was Skokloster Castle founded by?,Carl Gustaf Wrangel,Count Carl Gustaf Rehnsköld,0.0
+places_landmark,wh,Skokloster Castle,owned by,National Property Board of Sweden,What was Skokloster Castle owned by?,National Property Board of Sweden,Count Carl Gustaf Rehnsköld,0.0
+places_landmark,wh,Government of New South Wales,owned by,Sydney Opera House,Which tourist attraction was owned by Government of New South Wales?,Sydney Opera House,Taronga Zoo,0.0
+places_landmark,wh,George IV of the United Kingdom,occupant,Windsor Castle,Which tourist attraction's occupant is George IV of the United Kingdom?,Windsor Castle,King's State Apartments,0.0
+places_landmark,wh,South Dakota,located in the administrative territorial entity,Corn Palace,Which tourist attraction's located in the administrative territorial entity is South Dakota?,Corn Palace,Mount Rushmore,0.0
+places_landmark,wh,"Ford, Powell & Carson",participant,Alamo Mission in San Antonio,"Which tourist attraction's participant is Ford, Powell & Carson?",Alamo Mission in San Antonio,Golden Gate Bridge,0.0
+places_landmark,wh,Hawaiian Volcano Observatory,volcano observatory,Diamond Head,Which tourist attraction's volcano observatory is Hawaiian Volcano Observatory?,Diamond Head,Hawaii Volcanoes National Park,0.0
+places_landmark,wh,Grampian Mountains,mountain range,Ben Nevis,Which tourist attraction's mountain range is Grampian Mountains?,Ben Nevis,Scotland,0.0
+places_landmark,wh,Orange County,located in the administrative territorial entity,Crystal Cove State Park,Which tourist attraction's located in the administrative territorial entity is Orange County?,Crystal Cove State Park,Disneyland,0.0
+places_landmark,wh,book,depicts,Statue of Liberty,Which tourist attraction depicts book?,Statue of Liberty,Bibliotheca,0.0
+places_landmark,wh,Pinus canariensis,taxon found at location,National Garden of Athens,Which tourist attraction's taxon found at location is Pinus canariensis?,National Garden of Athens,Teide National Park,0.0
+places_landmark,wh,Girolamo Cassar,architect,National Museum of Archaeology,Which tourist attraction architect Girolamo Cassar?,National Museum of Archaeology,Fort St. Elmo,0.0
+places_landmark,wh,Leander,named after,Maiden's Tower,Which tourist attraction was named after Leander?,Maiden's Tower,Leander Bridge,0.0
+places_landmark,wh,Dresden Zoo,legal form,Gesellschaft mit beschränkter Haftung,What is the legal form of Dresden Zoo?,Gesellschaft mit beschränkter Haftung,Non-profit,0.0
+places_landmark,wh,Dresden Zoo,located in the administrative territorial entity,Dresden,What is the located in the administrative territorial entity of Dresden Zoo?,Dresden,Saxony,0.0
+places_landmark,wh,Jean-Nicolas Jadot de Ville-Issey,architect,Buda Castle,Which tourist attraction architect Jean-Nicolas Jadot de Ville-Issey?,Buda Castle,Château de Chantilly,0.0
+places_landmark,wh,Ankara Province,located in the administrative territorial entity,Lake Tuz,Which tourist attraction's located in the administrative territorial entity is Ankara Province?,Lake Tuz,Anıtkabir,0.0
+places_landmark,wh,Östersund Municipality,located in the administrative territorial entity,Jamtli,Which tourist attraction's located in the administrative territorial entity is Östersund Municipality?,Jamtli,Frösön Island,0.0
+places_landmark,wh,mercury,inspired by,Cloud Gate,Which tourist attraction was inspired by mercury?,Cloud Gate,Mercury Park,0.0
+places_landmark,wh,Antonio Bernocchi,sponsor,Sacro Monte di Varese,Which tourist attraction sponsor Antonio Bernocchi?,Sacro Monte di Varese,Uffizi Gallery,0.0
+places_landmark,wh,Disney's Blizzard Beach,has part(s),Walt Disney World Resort,Which tourist attraction has part(s) Disney's Blizzard Beach?,Walt Disney World Resort,Typhoon Lagoon,0.0
+places_landmark,wh,Korea Development Bank,occupant,Shanghai World Financial Center,Which tourist attraction's occupant is Korea Development Bank?,Shanghai World Financial Center,Bosingak Bell Tower,0.0
+places_landmark,wh,Haga park,location,Gustav III's Pavilion,Which tourist attraction's location is Haga park?,Gustav III's Pavilion,Rotterdam,0.0
+places_landmark,wh,Burj Khalifa,named after,Khalifa bin Zayed Al Nahyan,Who was Burj Khalifa named after?,Khalifa bin Zayed Al Nahyan,Sheikh Khalifa,0.0
+places_landmark,wh,Burj Khalifa,significant event,construction,What is the significant event of Burj Khalifa?,construction,Opening,0.0
+places_landmark,wh,Royal Mile,location,Camera Obscura,Which tourist attraction's location is Royal Mile?,Camera Obscura,Edinburgh,0.0
+places_landmark,wh,Roman Abramovich,founded by,Garage Center for Contemporary Culture,Which tourist attraction was founded by Roman Abramovich?,Garage Center for Contemporary Culture,Chelsea FC's Stamford Bridge Stadium's museum was founded by Roman Abramovich,0.0
+places_landmark,wh,California Academy of Sciences,has part(s),Golden Gate Park,Which tourist attraction has part(s) California Academy of Sciences?,Golden Gate Park,Steinhart Aquarium,0.0
+places_landmark,wh,Stein Olav Henrichsen,chief executive officer,MUNCH,Which tourist attraction's chief executive officer is Stein Olav Henrichsen?,MUNCH,Viking Ship Museum,0.0
 places_landmark,wh,"Santa Rosa Island, Florida",located in the administrative territorial entity,Pensacola Beach,"Which tourist attraction's located in the administrative territorial entity is Santa Rosa Island, Florida?",Pensacola Beach,Gulf Breeze Zoo,0.0
-places_landmark,wh,Oahu,located in/on physical feature,Diamond Head,Which tourist attraction's located in/on physical feature is Oahu?,Diamond Head,Pearl Harbor.,0.0
-places_landmark,wh,Detroit,located in the administrative territorial entity,Museum of Contemporary Art Detroit,Which tourist attraction's located in the administrative territorial entity is Detroit?,Museum of Contemporary Art Detroit,Henry Ford Museum.,0.0
-places_landmark,wh,Luigi Canonica,architect,Villa Menafoglio Litta Panza,Which tourist attraction architect Luigi Canonica?,Villa Menafoglio Litta Panza,St. Petersburg Stock Exchange Building.,0.0
-places_landmark,wh,Cloud Gate,genre,public art,What is the genre of Cloud Gate?,public art,Contemporary dance.,0.0
-places_landmark,wh,Balboa Park,architect,Katherine Olivia Sessions,Who does Balboa Park architect?,Katherine Olivia Sessions,Bertram Goodhue.,0.0
+places_landmark,wh,Epidavros Municipality,located in the administrative territorial entity,Ancient Theatre of Epidaurus,Which tourist attraction's located in the administrative territorial entity is Epidavros Municipality?,Ancient Theatre of Epidaurus,Ancient Epidaurus,0.0
+places_landmark,wh,Detroit,located in the administrative territorial entity,Museum of Contemporary Art Detroit,Which tourist attraction's located in the administrative territorial entity is Detroit?,Museum of Contemporary Art Detroit,Henry Ford Museum,0.0
+places_landmark,wh,County Kerry,located in the administrative territorial entity,Carrauntoohil,Which tourist attraction's located in the administrative territorial entity is County Kerry?,Carrauntoohil,Ring of Kerry,0.0
+places_landmark,wh,Luigi Canonica,architect,Villa Menafoglio Litta Panza,Which tourist attraction architect Luigi Canonica?,Villa Menafoglio Litta Panza,Baths of Caracalla,0.0
+places_landmark,wh,Cloud Gate,inspired by,mercury,What was Cloud Gate inspired by?,mercury,Anish Kapoor,0.0
+places_landmark,wh,Cloud Gate,location,Millennium Park,What is the location of Cloud Gate?,Millennium Park,Chicago,0.0
+places_landmark,wh,Cloud Gate,genre,public art,What is the genre of Cloud Gate?,public art,Contemporary dance,0.0
+places_landmark,wh,Balboa Park,architect,Katherine Olivia Sessions,Who does Balboa Park architect?,Katherine Olivia Sessions,Bertram Goodhue,0.0
 places_landmark,wh,Roly Keating,director / manager,British Library,Which tourist attraction's director / manager is Roly Keating?,British Library,BBC,0.0
-places_landmark,wh,Fondo per l'Ambiente Italiano,owned by,Villa Menafoglio Litta Panza,Which tourist attraction was owned by Fondo per l'Ambiente Italiano?,Villa Menafoglio Litta Panza,The Cinque Terre.,0.0
-places_landmark,wh,Stockholm Municipality,headquarters location,Thiel Gallery,Which tourist attraction's headquarters location is Stockholm Municipality?,Thiel Gallery,Viking Line.,0.0
-places_landmark,wh,Stockholm Municipality,owned by,Stockholm City Hall,Which tourist attraction was owned by Stockholm Municipality?,Stockholm City Hall,Skansen.,0.0
-places_landmark,wh,Ictinus,architect,Parthenon,Which tourist attraction architect Ictinus?,Parthenon,Hephaestus.,0.0
-places_landmark,wh,Ulriksdal Palace,architect,Hans Jacob Kristler,Who does Ulriksdal Palace architect?,Hans Jacob Kristler,Nicodemus Tessin.,0.0
-places_landmark,wh,Ulriksdal Palace,named after,Prince Ulrik,Who was Ulriksdal Palace named after?,Prince Ulrik,Ulrika Eleonora.,0.0
-places_landmark,wh,Ulriksdal Palace,owned by,National Property Board of Sweden,What was Ulriksdal Palace owned by?,National Property Board of Sweden,The Swedish Royal Family.,0.0
-places_landmark,wh,Ulriksdal Palace,made from material,natural stone,What is the made from material of Ulriksdal Palace?,natural stone,Wood.,0.0
-places_landmark,wh,Roman Forum,located in the administrative territorial entity,Rome,What is the located in the administrative territorial entity of Roman Forum?,Rome,Archaeological site.,0.0
-places_landmark,wh,Dömitz Fortress,significant event,construction,What is the significant event of Dömitz Fortress?,construction,Surrender.,0.0
-places_landmark,wh,classicism,architectural style,Kazan Cathedral,Which tourist attraction's architectural style is classicism?,Kazan Cathedral,The White House.,0.0
-places_landmark,wh,St Mark's Basilica,architect,Domenico I Contarini,Who does St Mark's Basilica architect?,Domenico I Contarini,Mauro Codussi.,0.0
-places_landmark,wh,St Mark's Basilica,has part(s),St Mark's Campanile,What does St Mark's Basilica have part(s )?,St Mark's Campanile,Pigeonholes.,0.0
-places_landmark,wh,Viñales Valley,heritage designation,UNESCO World Heritage Site,What is the heritage designation of Viñales Valley?,UNESCO World Heritage Site,Cultural.,0.0
-places_landmark,wh,Mariefred,location,Gripsholm Castle,Which tourist attraction's location is Mariefred?,Gripsholm Castle,Drottningholm Palace.,0.0
-places_landmark,wh,bulletproof glass,made from material,One World Trade Center,Which tourist attraction's made from material is bulletproof glass?,One World Trade Center,The Louvre.,0.0
-places_landmark,wh,Harburg,located in the administrative territorial entity,Harburg Castle,Which tourist attraction's located in the administrative territorial entity is Harburg?,Harburg Castle,Elbphilharmonie.,0.0
-places_landmark,wh,Philippe Méaille,chairperson,Château de Montsoreau-Museum of Contemporary Art,Which tourist attraction's chairperson is Philippe Méaille?,Château de Montsoreau-Museum of Contemporary Art,Musée national d'Art Moderne.,0.0
-places_landmark,wh,Cologne Cathedral,diocese,Roman Catholic Archdiocese of Cologne,What is the diocese of Cologne Cathedral?,Roman Catholic Archdiocese of Cologne,Cologne.,0.0
-places_landmark,wh,Charles François de Mondion,architect,National Museum of Natural History,Which tourist attraction architect Charles François de Mondion?,National Museum of Natural History,Cité de Damas.,0.0
-places_landmark,wh,National Portrait Gallery of Sweden,occupant,Gripsholm Castle,Which tourist attraction's occupant is National Portrait Gallery of Sweden?,Gripsholm Castle,Riddarhuset.,0.0
-places_landmark,wh,Saint-Germain-l'Auxerrois,located in the administrative territorial entity,Pont Neuf,Which tourist attraction's located in the administrative territorial entity is Saint-Germain-l'Auxerrois?,Pont Neuf,Notre-Dame Cathedral.,0.0
-places_landmark,wh,Garage Center for Contemporary Culture,architect,Rem Koolhaas,Who does Garage Center for Contemporary Culture architect?,Rem Koolhaas,Shigeru Ban.,0.0
-places_landmark,wh,"Bavarian Administration of State-Owned Palaces, Gardens and Lakes",owned by,Coburg Fortress,"Which tourist attraction was owned by Bavarian Administration of State-Owned Palaces, Gardens and Lakes?",Coburg Fortress,Neuschwanstein.,0.0
-places_landmark,wh,Greenwich,located in the administrative territorial entity,Royal Observatory,Which tourist attraction's located in the administrative territorial entity is Greenwich?,Royal Observatory,The Cutty Sark.,0.0
-places_landmark,wh,Surabaya,twinned administrative body,Busan,Which tourist attraction's twinned administrative body is Surabaya?,Busan,Makassar.,0.0
-places_landmark,wh,Jiří Janda,founded by,Prague Zoo,Which tourist attraction was founded by Jiří Janda?,Prague Zoo,Wallenstein Garden.,0.0
-places_landmark,wh,Lambeth,located in the administrative territorial entity,London Eye,Which tourist attraction's located in the administrative territorial entity is Lambeth?,London Eye,The British Museum.,0.0
-places_landmark,wh,Commerzbank AG,occupant,Shanghai World Financial Center,Which tourist attraction's occupant is Commerzbank AG?,Shanghai World Financial Center,Main Tower.,0.0
-places_landmark,wh,avenue du Maine,located on street,Montparnasse Tower,Which tourist attraction's located on street is avenue du Maine?,Montparnasse Tower,Eiffel Tower.,0.0
-places_landmark,wh,Charles Follen McKim,architect,National Museum of Natural History,Which tourist attraction architect Charles Follen McKim?,National Museum of Natural History,Pennsylvania Station.,0.0
-places_landmark,wh,Yıldız Palace,architect,Raimondo Tommaso D'Aronco,Who does Yıldız Palace architect?,Raimondo Tommaso D'Aronco,Nikolai Vasilyevich Rastorguev,0.0
-places_landmark,wh,Drottningholm Palace,commissioned by,Hedvig Eleonora of Holstein-Gottorp,Who was Drottningholm Palace commissioned by?,Hedvig Eleonora of Holstein-Gottorp,Queen Christina.,0.0
-places_landmark,wh,Drottningholm Palace,architect,Nicodemus Tessin the Elder,Who does Drottningholm Palace architect?,Nicodemus Tessin the Elder,Nicolai Eigtved.,0.0
-places_landmark,wh,Jakob Nielsen,structural engineer,Varberg Fortress,Which tourist attraction's structural engineer is Jakob Nielsen?,Varberg Fortress,Sydney Opera House.,0.0
-places_landmark,wh,Kenneth Murray,founded by,"Nigerian National Museum, Lagos",Which tourist attraction was founded by Kenneth Murray?,"Nigerian National Museum, Lagos",Madame Tussauds.,0.0
-places_landmark,wh,English Heritage,owned by,Fountains Abbey,Which tourist attraction was owned by English Heritage?,Fountains Abbey,Stonehenge.,0.0
-places_landmark,wh,Strand,located on street,Somerset House,Which tourist attraction's located on street is Strand?,Somerset House,Trafalgar Square.,0.0
-places_landmark,wh,Museum of the Masovian Nobility in Ciechanów,closed on,Monday,When did Museum of the Masovian Nobility in Ciechanów close on?,Monday,I don't have information on that.,0.0
-places_landmark,wh,Museum of the Masovian Nobility in Ciechanów,activity policy in this place,smoking ban,What is the activity policy in this place of Museum of the Masovian Nobility in Ciechanów?,smoking ban,Unknown.,0.0
-places_landmark,wh,John McShain,main building contractor,The Pentagon,Which tourist attraction's main building contractor is John McShain?,The Pentagon,Washington Monument.,0.0
-places_landmark,wh,Circular Quay,located on street,Sydney Opera House,Which tourist attraction's located on street is Circular Quay?,Sydney Opera House,Sydney.,0.0
-places_landmark,wh,Royal Observatory,architect,Christopher Wren,Who does Royal Observatory architect?,Christopher Wren,George Biddell Airy.,0.0
-places_landmark,wh,17th arrondissement of Paris,located in the administrative territorial entity,Hyatt Regency Paris Etoile,Which tourist attraction's located in the administrative territorial entity is 17th arrondissement of Paris?,Hyatt Regency Paris Etoile,Palais des Congrès.,0.0
-places_landmark,wh,Humboldt County,located in the administrative territorial entity,Redwood National and State Parks,Which tourist attraction's located in the administrative territorial entity is Humboldt County?,Redwood National and State Parks,Mendocino Headlands State Park.,0.0
-places_landmark,wh,Egyptian Revival architecture,architectural style,Washington Monument,Which tourist attraction's architectural style is Egyptian Revival architecture?,Washington Monument,The Statue of Liberty.,0.0
-places_landmark,wh,Leskovac,twinned administrative body,Petra,Which tourist attraction's twinned administrative body is Leskovac?,Petra,Niš.,0.0
-places_landmark,wh,Helsinki Parish Union,owned by,Helsinki Cathedral,Which tourist attraction was owned by Helsinki Parish Union?,Helsinki Cathedral,Suomenlinna.,0.0
-places_landmark,wh,University of Central Florida,operator,Arecibo Observatory,Which tourist attraction's operator is University of Central Florida?,Arecibo Observatory,Kennedy Space Center Visitor Complex.,0.0
-places_landmark,wh,Domvs Romana,located in the administrative territorial entity,Mdina,What is the located in the administrative territorial entity of Domvs Romana?,Mdina,Romania.,0.0
-places_landmark,wh,neoclassicism,movement,Statue of Liberty,Which tourist attraction's movement is neoclassicism?,Statue of Liberty,The Louvre.,0.0
-places_landmark,wh,neoclassicism,culture,Mole Antonelliana,Which tourist attraction's culture is neoclassicism?,Mole Antonelliana,The White House.,0.0
+places_landmark,wh,Fondo per l'Ambiente Italiano,owned by,Villa Menafoglio Litta Panza,Which tourist attraction was owned by Fondo per l'Ambiente Italiano?,Villa Menafoglio Litta Panza,Villa Taranto,0.0
+places_landmark,wh,Stockholm Municipality,headquarters location,Thiel Gallery,Which tourist attraction's headquarters location is Stockholm Municipality?,Thiel Gallery,Scandinavian Tourism Board,0.0
+places_landmark,wh,Stockholm Municipality,owned by,Stockholm City Hall,Which tourist attraction was owned by Stockholm Municipality?,Stockholm City Hall,Skansen,0.0
+places_landmark,wh,Ictinus,architect,Parthenon,Which tourist attraction architect Ictinus?,Parthenon,Hephaesteion,0.0
+places_landmark,wh,Ulriksdal Palace,architect,Hans Jacob Kristler,Who does Ulriksdal Palace architect?,Hans Jacob Kristler,Nicodemus Tessin,0.0
+places_landmark,wh,Ulriksdal Palace,named after,Prince Ulrik,Who was Ulriksdal Palace named after?,Prince Ulrik,Ulrika Eleonora,0.0
+places_landmark,wh,Ulriksdal Palace,owned by,National Property Board of Sweden,What was Ulriksdal Palace owned by?,National Property Board of Sweden,Drottningholm's estate,0.0
+places_landmark,wh,Ulriksdal Palace,made from material,natural stone,What is the made from material of Ulriksdal Palace?,natural stone,Wood,0.0
+places_landmark,wh,Roman Forum,located in the administrative territorial entity,Rome,What is the located in the administrative territorial entity of Roman Forum?,Rome,Archaeological site,0.0
+places_landmark,wh,Dömitz Fortress,significant event,construction,What is the significant event of Dömitz Fortress?,construction,Surrender of German forces,0.0
+places_landmark,wh,classicism,architectural style,Kazan Cathedral,Which tourist attraction's architectural style is classicism?,Kazan Cathedral,The White House,0.0
+places_landmark,wh,St Mark's Basilica,architect,Domenico I Contarini,Who does St Mark's Basilica architect?,Domenico I Contarini,Vitruvius,0.0
+places_landmark,wh,St Mark's Basilica,has part(s),St Mark's Campanile,What does St Mark's Basilica have part(s )?,St Mark's Campanile,Pigeonholes,0.0
+places_landmark,wh,Mariefred,location,Gripsholm Castle,Which tourist attraction's location is Mariefred?,Gripsholm Castle,Drottningholm Palace,0.0
+places_landmark,wh,Altare della Patria,architect,Giuseppe Sacconi,Who does Altare della Patria architect?,Giuseppe Sacconi,Giacomo Della Porta,0.0
+places_landmark,wh,Altare della Patria,owned by,Ministry of Culture,What was Altare della Patria owned by?,Ministry of Culture,Italian government,0.0
+places_landmark,wh,bulletproof glass,made from material,One World Trade Center,Which tourist attraction's made from material is bulletproof glass?,One World Trade Center,The Louvre,0.0
+places_landmark,wh,Harburg,located in the administrative territorial entity,Harburg Castle,Which tourist attraction's located in the administrative territorial entity is Harburg?,Harburg Castle,Elbphilharmonie,0.0
+places_landmark,wh,Philippe Méaille,chairperson,Château de Montsoreau-Museum of Contemporary Art,Which tourist attraction's chairperson is Philippe Méaille?,Château de Montsoreau-Museum of Contemporary Art,Musée national d'Art Moderne,0.0
+places_landmark,wh,Charles François de Mondion,architect,National Museum of Natural History,Which tourist attraction architect Charles François de Mondion?,National Museum of Natural History,Bey Hamam,0.0
+places_landmark,wh,Mount Ararat,mountain range,Armenian Highlands,What is the mountain range of Mount Ararat?,Armenian Highlands,Ararat Mountains,0.0
+places_landmark,wh,National Portrait Gallery of Sweden,occupant,Gripsholm Castle,Which tourist attraction's occupant is National Portrait Gallery of Sweden?,Gripsholm Castle,Drottningholm Palace,0.0
+places_landmark,wh,Bosporus,located in or next to body of water,Maiden's Tower,Which tourist attraction's located in or next to body of water is Bosporus?,Maiden's Tower,Istanbul,0.0
+places_landmark,wh,Saint-Germain-l'Auxerrois,located in the administrative territorial entity,Pont Neuf,Which tourist attraction's located in the administrative territorial entity is Saint-Germain-l'Auxerrois?,Pont Neuf,Notre-Dame Cathedral,0.0
+places_landmark,wh,Garage Center for Contemporary Culture,located in the administrative territorial entity,Moscow,What is the located in the administrative territorial entity of Garage Center for Contemporary Culture?,Moscow,Russia,0.0
+places_landmark,wh,Garage Center for Contemporary Culture,architect,Rem Koolhaas,Who does Garage Center for Contemporary Culture architect?,Rem Koolhaas,Shigeru Ban,0.0
+places_landmark,wh,"Bavarian Administration of State-Owned Palaces, Gardens and Lakes",owned by,Coburg Fortress,"Which tourist attraction was owned by Bavarian Administration of State-Owned Palaces, Gardens and Lakes?",Coburg Fortress,Neuschwanstein,0.0
+places_landmark,wh,Daniel Libeskind,architect,One World Trade Center,Which tourist attraction architect Daniel Libeskind?,One World Trade Center,Jewish Museum,0.0
+places_landmark,wh,Justus Vingboons,architect,Swedish House of Nobility,Which tourist attraction architect Justus Vingboons?,Swedish House of Nobility,Amsterdam City Hall,0.0
+places_landmark,wh,Greenwich,located in the administrative territorial entity,Royal Observatory,Which tourist attraction's located in the administrative territorial entity is Greenwich?,Royal Observatory,The National Maritime Museum,0.0
+places_landmark,wh,Surabaya,twinned administrative body,Busan,Which tourist attraction's twinned administrative body is Surabaya?,Busan,Makassar,0.0
+places_landmark,wh,Lambeth,located in the administrative territorial entity,London Eye,Which tourist attraction's located in the administrative territorial entity is Lambeth?,London Eye,The British Museum,0.0
+places_landmark,wh,Commerzbank AG,occupant,Shanghai World Financial Center,Which tourist attraction's occupant is Commerzbank AG?,Shanghai World Financial Center,Main Tower,0.0
+places_landmark,wh,Mount Faber,located in the administrative territorial entity,Bukit Merah,Who is the located in the administrative territorial entity of Mount Faber?,Bukit Merah,Singapore,0.0
+places_landmark,wh,avenue du Maine,located on street,Montparnasse Tower,Which tourist attraction's located on street is avenue du Maine?,Montparnasse Tower,Eiffel Tower,0.0
+places_landmark,wh,Charles Follen McKim,architect,National Museum of Natural History,Which tourist attraction architect Charles Follen McKim?,National Museum of Natural History,Penn Station,0.0
+places_landmark,wh,Yıldız Palace,architect,Raimondo Tommaso D'Aronco,Who does Yıldız Palace architect?,Raimondo Tommaso D'Aronco,Nikolai Vasilyevich Nikolaev,0.0
+places_landmark,wh,Yıldız Palace,located in the administrative territorial entity,Istanbul,What is the located in the administrative territorial entity of Yıldız Palace?,Istanbul,Beyoğlu,0.0
+places_landmark,wh,Drottningholm Palace,commissioned by,Hedvig Eleonora of Holstein-Gottorp,Who was Drottningholm Palace commissioned by?,Hedvig Eleonora of Holstein-Gottorp,Queen Christina,0.0
+places_landmark,wh,Drottningholm Palace,owned by,National Property Board of Sweden,What was Drottningholm Palace owned by?,National Property Board of Sweden,The Swedish royal family,0.0
+places_landmark,wh,Jakob Nielsen,structural engineer,Varberg Fortress,Which tourist attraction's structural engineer is Jakob Nielsen?,Varberg Fortress,Sydney Opera House,0.0
+places_landmark,wh,Kenneth Murray,founded by,"Nigerian National Museum, Lagos",Which tourist attraction was founded by Kenneth Murray?,"Nigerian National Museum, Lagos",Madame Tussauds,0.0
+places_landmark,wh,concert hall,field of work,Sydney Opera House,Which tourist attraction's field of work is concert hall?,Sydney Opera House,Symphony,0.0
+places_landmark,wh,English Heritage,owned by,Fountains Abbey,Which tourist attraction was owned by English Heritage?,Fountains Abbey,Stonehenge,0.0
+places_landmark,wh,Strand,located on street,Somerset House,Which tourist attraction's located on street is Strand?,Somerset House,Trafalgar Square,0.0
+places_landmark,wh,Museum of the Masovian Nobility in Ciechanów,closed on,Monday,When did Museum of the Masovian Nobility in Ciechanów close on?,Monday,1999,0.0
+places_landmark,wh,Museum of the Masovian Nobility in Ciechanów,has part(s),Castle of the Masovian Dukes in Ciechanów,What does Museum of the Masovian Nobility in Ciechanów have part(s )?,Castle of the Masovian Dukes in Ciechanów,Armory,0.0
+places_landmark,wh,Museum of the Masovian Nobility in Ciechanów,activity policy in this place,smoking ban,What is the activity policy in this place of Museum of the Masovian Nobility in Ciechanów?,smoking ban,Unknown,0.0
+places_landmark,wh,John McShain,main building contractor,The Pentagon,Which tourist attraction's main building contractor is John McShain?,The Pentagon,Washington Monument,0.0
+places_landmark,wh,Royal Observatory,architect,Christopher Wren,Who does Royal Observatory architect?,Christopher Wren,George Biddell Airy,0.0
+places_landmark,wh,Royal Observatory,present in work,Now You See Me 2,What is the present in work of Royal Observatory?,Now You See Me 2,Timekeeping,0.0
+places_landmark,wh,17th arrondissement of Paris,located in the administrative territorial entity,Hyatt Regency Paris Etoile,Which tourist attraction's located in the administrative territorial entity is 17th arrondissement of Paris?,Hyatt Regency Paris Etoile,Palais des Congrès,0.0
+places_landmark,wh,dome,has part(s),St Paul's Cathedral,Which tourist attraction has part(s) dome?,St Paul's Cathedral,The Pantheon,0.0
+places_landmark,wh,Mount Fuji,located in protected area,Fuji-Hakone-Izu National Park,What is the located in protected area of Mount Fuji?,Fuji-Hakone-Izu National Park,Subashiri,0.0
+places_landmark,wh,Humboldt County,located in the administrative territorial entity,Redwood National and State Parks,Which tourist attraction's located in the administrative territorial entity is Humboldt County?,Redwood National and State Parks,Mendocino Headlands,0.0
+places_landmark,wh,Leskovac,twinned administrative body,Petra,Which tourist attraction's twinned administrative body is Leskovac?,Petra,Leskovac is twinned with  Kruševac,0.0
+places_landmark,wh,Helsinki Parish Union,owned by,Helsinki Cathedral,Which tourist attraction was owned by Helsinki Parish Union?,Helsinki Cathedral,Suomenlinna,0.0
+places_landmark,wh,University of Central Florida,operator,Arecibo Observatory,Which tourist attraction's operator is University of Central Florida?,Arecibo Observatory,Kennedy Space Center Visitor Complex,0.0
+places_landmark,wh,Domvs Romana,located in the administrative territorial entity,Mdina,What is the located in the administrative territorial entity of Domvs Romana?,Mdina,Romania,0.0
+places_landmark,wh,Domvs Romana,maintained by,Heritage Malta,What was Domvs Romana maintained by?,Heritage Malta,Roman Museum,0.0
+places_landmark,wh,Domvs Romana,country,Malta,What is the country of Domvs Romana?,Malta,Romania,0.0
+places_landmark,wh,neoclassicism,movement,Statue of Liberty,Which tourist attraction's movement is neoclassicism?,Statue of Liberty,The Louvre,0.0
+places_landmark,wh,neoclassicism,culture,Mole Antonelliana,Which tourist attraction's culture is neoclassicism?,Mole Antonelliana,The White House,0.0
+places_landmark,wh,gneiss,made from material,Washington Monument,Which tourist attraction's made from material is gneiss?,Washington Monument,Stonehenge,0.0
 places_landmark,wh,Tendai,religion or worldview,Sensō-ji,Which tourist attraction's religion or worldview is Tendai?,Sensō-ji,Mount Fuji,0.0
-places_landmark,wh,Qinghai,located in the administrative territorial entity,Great Wall of China,Which tourist attraction's located in the administrative territorial entity is Qinghai?,Great Wall of China,Tibetan Plateau.,0.0
-places_landmark,wh,Belém Tower,located in the administrative territorial entity,Belém,What is the located in the administrative territorial entity of Belém Tower?,Belém,Lisbon.,0.0
-places_landmark,wh,Belém Tower,architect,Francisco de Arruda,Who does Belém Tower architect?,Francisco de Arruda,Vasco Fernandes.,0.0
-places_landmark,wh,Platz der Republik,located on street,Reichstag building,Which tourist attraction's located on street is Platz der Republik?,Reichstag building,Brandenburg Gate.,0.0
-places_landmark,wh,transport,significant event,Statue of Liberty,Which tourist attraction's significant event is transport?,Statue of Liberty,Canal.,0.0
-places_landmark,wh,sand,made from material,Dune of Pilat,Which tourist attraction's made from material is sand?,Dune of Pilat,The Great Pyramid of Giza.,0.0
-places_landmark,wh,Centro de Arte Moderna Gulbenkian,director / manager,Benjamin Weil,Who is the director / manager of Centro de Arte Moderna Gulbenkian?,Benjamin Weil,I couldn't find the information.,0.0
-places_landmark,wh,Easter Monday,closed on,Castle of the Masovian Dukes in Ciechanów,Which tourist attraction closed on Easter Monday?,Castle of the Masovian Dukes in Ciechanów,The London Zoo.,0.0
-places_landmark,wh,Moscow Planetarium,architect,Michael Osipovich Barshch,Who does Moscow Planetarium architect?,Michael Osipovich Barshch,Konstantin Melnikov.,0.0
-places_landmark,wh,Easter,closed on,Castle of the Masovian Dukes in Ciechanów,Which tourist attraction closed on Easter?,Castle of the Masovian Dukes in Ciechanów,The Great Wall of China.,0.0
-places_landmark,wh,Frank Lloyd Wright,architect,Solomon R. Guggenheim Museum,Which tourist attraction architect Frank Lloyd Wright?,Solomon R. Guggenheim Museum,Fallingwater.,0.0
-places_landmark,wh,Hermitage Museum,architect,Francesco Bartolomeo Rastrelli,Who does Hermitage Museum architect?,Francesco Bartolomeo Rastrelli,Vasily Petrovich Stasov.,0.0
+places_landmark,wh,Qinghai,located in the administrative territorial entity,Great Wall of China,Which tourist attraction's located in the administrative territorial entity is Qinghai?,Great Wall of China,Tibetan Plateau,0.0
+places_landmark,wh,Belém Tower,located in the administrative territorial entity,Belém,What is the located in the administrative territorial entity of Belém Tower?,Belém,Lisbon,0.0
+places_landmark,wh,Belém Tower,architect,Francisco de Arruda,Who does Belém Tower architect?,Francisco de Arruda,Vasco Fernandes,0.0
+places_landmark,wh,Helgeandsholmen,located in/on physical feature,Museum of Medieval Stockholm,Which tourist attraction's located in/on physical feature is Helgeandsholmen?,Museum of Medieval Stockholm,Stockholm Palace,0.0
+places_landmark,wh,Platz der Republik,located on street,Reichstag building,Which tourist attraction's located on street is Platz der Republik?,Reichstag building,Bundestag,0.0
+places_landmark,wh,transport,significant event,Statue of Liberty,Which tourist attraction's significant event is transport?,Statue of Liberty,London Underground,0.0
+places_landmark,wh,sand,made from material,Dune of Pilat,Which tourist attraction's made from material is sand?,Dune of Pilat,The Great Pyramid of Giza,0.0
+places_landmark,wh,Centro de Arte Moderna Gulbenkian,director / manager,Benjamin Weil,Who is the director / manager of Centro de Arte Moderna Gulbenkian?,Benjamin Weil,Maria Inês Almeida,0.0
+places_landmark,wh,Easter Monday,closed on,Castle of the Masovian Dukes in Ciechanów,Which tourist attraction closed on Easter Monday?,Castle of the Masovian Dukes in Ciechanów,The London Zoo,0.0
+places_landmark,wh,Moscow Planetarium,located in the administrative territorial entity,Presnensky District,What is the located in the administrative territorial entity of Moscow Planetarium?,Presnensky District,Russia,0.0
+places_landmark,wh,Moscow Planetarium,architect,Michael Osipovich Barshch,Who does Moscow Planetarium architect?,Michael Osipovich Barshch,Vladimir Gelfreikh,0.0
+places_landmark,wh,Easter,closed on,Castle of the Masovian Dukes in Ciechanów,Which tourist attraction closed on Easter?,Castle of the Masovian Dukes in Ciechanów,The Great Wall of China,0.0
+places_landmark,wh,Frank Lloyd Wright,architect,Solomon R. Guggenheim Museum,Which tourist attraction architect Frank Lloyd Wright?,Solomon R. Guggenheim Museum,Fallingwater,0.0
+places_landmark,wh,Hermitage Museum,architect,Francesco Bartolomeo Rastrelli,Who does Hermitage Museum architect?,Francesco Bartolomeo Rastrelli,Vasily Petrovich Stasov,0.0
 places_landmark,wh,Hermitage Museum,director / manager,Mikhail Piotrovsky,Who is the director / manager of Hermitage Museum?,Mikhail Piotrovsky,Maria Gruzinskaya,0.0
-places_landmark,wh,Strängnäs Cathedral,made from material,brick,What is the made from material of Strängnäs Cathedral?,brick,Limestone.,0.0
-places_landmark,wh,Gateway Arch,architectural style,high-tech architecture,What is the architectural style of Gateway Arch?,high-tech architecture,Rondo-Cubist.,0.0
-places_landmark,wh,Falun,location,Falun Mine Museum,Which tourist attraction's location is Falun?,Falun Mine Museum,Dalarna Palace.,0.0
-places_landmark,wh,Palace Embankment,located on street,Hermitage Museum,Which tourist attraction's located on street is Palace Embankment?,Hermitage Museum,The Kremlin.,0.0
-places_landmark,wh,demolition,cause of destruction,Bohus Fortress,Which tourist attraction's cause of destruction is demolition?,Bohus Fortress,Buckingham Palace.,0.0
-places_landmark,wh,Linnanmäki,owned by,Children's Day Foundation,What was Linnanmäki owned by?,Children's Day Foundation,City of Helsinki.,0.0
+places_landmark,wh,Königsberg Cathedral,Christian liturgical rite,Lutheranism,What is the Christian liturgical rite of Königsberg Cathedral?,Lutheranism,Missal of Königsberg,0.0
+places_landmark,wh,Strängnäs Cathedral,made from material,brick,What is the made from material of Strängnäs Cathedral?,brick,Limestone,0.0
+places_landmark,wh,Gateway Arch,located in protected area,Gateway Arch National Park,What is the located in protected area of Gateway Arch?,Gateway Arch National Park,Museum,0.0
+places_landmark,wh,Gateway Arch,heritage designation,National Historic Landmark,What is the heritage designation of Gateway Arch?,National Historic Landmark,National Monument,0.0
+places_landmark,wh,Gateway Arch,architectural style,high-tech architecture,What is the architectural style of Gateway Arch?,high-tech architecture,Rondo-Cubist,0.0
+places_landmark,wh,Falun,location,Falun Mine Museum,Which tourist attraction's location is Falun?,Falun Mine Museum,Dalarna,0.0
+places_landmark,wh,Palace Embankment,located on street,Hermitage Museum,Which tourist attraction's located on street is Palace Embankment?,Hermitage Museum,Winter Palace,0.0
+places_landmark,wh,Antwerp Zoo,located in the administrative territorial entity,Antwerp,What is the located in the administrative territorial entity of Antwerp Zoo?,Antwerp,Belgium,0.0
+places_landmark,wh,demolition,cause of destruction,Bohus Fortress,Which tourist attraction's cause of destruction is demolition?,Bohus Fortress,The Berlin Wall,0.0
+places_landmark,wh,Linnanmäki,owned by,Children's Day Foundation,What was Linnanmäki owned by?,Children's Day Foundation,Helsinki City,0.0
 places_landmark,wh,Petronas Towers,structural engineer,Thornton Tomasetti,Who is the structural engineer of Petronas Towers?,Thornton Tomasetti,César Pelli,0.0
-places_landmark,wh,Petronas Towers,main building contractor,Hazama Ando Corporation,What is the main building contractor of Petronas Towers?,Hazama Ando Corporation,Perbadanan Usahawan Nasional Bhd.,0.0
-places_landmark,wh,World War II,significant event,Palace Armoury,Which tourist attraction's significant event is World War II?,Palace Armoury,Pearl Harbor.,0.0
-places_landmark,wh,Santa Fe,located in the administrative territorial entity,Palace of the Governors,Which tourist attraction's located in the administrative territorial entity is Santa Fe?,Palace of the Governors,Cathedral.,0.0
-places_landmark,wh,Hornblower & Marshall,architect,National Museum of Natural History,Which tourist attraction architect Hornblower & Marshall?,National Museum of Natural History,Las Vegas Strip.,0.0
-places_landmark,wh,Fort Canning Hill,named after,"Charles Canning, 1st Earl Canning",Who was Fort Canning Hill named after?,"Charles Canning, 1st Earl Canning",Colonel William Canning,0.0
-places_landmark,wh,Colen Campbell,architect,Stourhead,Which tourist attraction architect Colen Campbell?,Stourhead,Bath Abbey.,0.0
-places_landmark,wh,Ancient Egypt,time period,The Great Sphinx,Which tourist attraction's time period is Ancient Egypt?,The Great Sphinx,Pyramids.,0.0
-places_landmark,wh,Ferdinand I of the Two Sicilies,founded by,Naples National Archaeological Museum,Which tourist attraction was founded by Ferdinand I of the Two Sicilies?,Naples National Archaeological Museum,Royal Palace of Caserta.,0.0
-places_landmark,wh,Jurong East,located in the administrative territorial entity,Science Centre Singapore,Which tourist attraction's located in the administrative territorial entity is Jurong East?,Science Centre Singapore,Jurong Bird Park.,0.0
-places_landmark,wh,Carlos J. Gradin,director of archaeological fieldwork,Cueva de las Manos,Which tourist attraction's director of archaeological fieldwork is Carlos J. Gradin?,Cueva de las Manos,Machu Picchu.,0.0
-places_landmark,wh,Montparnasse – Bienvenüe,adjacent building,Montparnasse Tower,Which tourist attraction's adjacent building is Montparnasse – Bienvenüe?,Montparnasse Tower,Bibliothèque nationale de France.,0.0
-places_landmark,wh,Southbank Centre,movement,brutalism,What is the movement of Southbank Centre?,brutalism,Southbank Centre Unwrapped.,0.0
-places_landmark,wh,Mecca,head of government,Khalid bin Faisal Al Saud,Who is the head of government of Mecca?,Khalid bin Faisal Al Saud,Governor.,0.0
-places_landmark,wh,Paolo Giulierini,director / manager,Naples National Archaeological Museum,Which tourist attraction's director / manager is Paolo Giulierini?,Naples National Archaeological Museum,Uffizi Gallery.,0.0
-places_landmark,wh,Theater Confidencen,architect,Carl Fredrik Adelcrantz,Who does Theater Confidencen architect?,Carl Fredrik Adelcrantz,Hans Scharoun,0.0
-places_landmark,wh,MUNCH,architect,Juan Herreros,Who does MUNCH architect?,Juan Herreros,Nordic,0.0
-places_landmark,wh,MUNCH,chief executive officer,Stein Olav Henrichsen,Who is the chief executive officer of MUNCH?,Stein Olav Henrichsen,"I couldn't find any information on a company called ""MUNCH"".",0.0
-places_landmark,wh,Smithsonian Marine Station at Fort Pierce,has part(s),National Museum of Natural History,Which tourist attraction has part(s) Smithsonian Marine Station at Fort Pierce?,National Museum of Natural History,Indian River Lagoon.,0.0
+places_landmark,wh,Petronas Towers,main building contractor,Hazama Ando Corporation,What is the main building contractor of Petronas Towers?,Hazama Ando Corporation,Pertubuhan Usahawan Melayu (PUMM),0.0
+places_landmark,wh,World War II,significant event,Palace Armoury,Which tourist attraction's significant event is World War II?,Palace Armoury,Pearl Harbor,0.0
+places_landmark,wh,Henry II of England,occupant,Windsor Castle,Which tourist attraction's occupant is Henry II of England?,Windsor Castle,Fontevraud Abbey,0.0
+places_landmark,wh,Santa Fe,located in the administrative territorial entity,Palace of the Governors,Which tourist attraction's located in the administrative territorial entity is Santa Fe?,Palace of the Governors,New Mexico,0.0
+places_landmark,wh,Hornblower & Marshall,architect,National Museum of Natural History,Which tourist attraction architect Hornblower & Marshall?,National Museum of Natural History,Las Vegas Strip,0.0
+places_landmark,wh,Fort Canning Hill,named after,"Charles Canning, 1st Earl Canning",Who was Fort Canning Hill named after?,"Charles Canning, 1st Earl Canning",Sir Stamford Raffles,0.0
+places_landmark,wh,Pierre de Chelles,architect,Notre-Dame de Paris,Which tourist attraction architect Pierre de Chelles?,Notre-Dame de Paris,Notre Dame,0.0
+places_landmark,wh,contemporary art,main subject,Villa Menafoglio Litta Panza,Which tourist attraction's main subject is contemporary art?,Villa Menafoglio Litta Panza,Museum of Modern Art,0.0
+places_landmark,wh,contemporary art,named after,Château de Montsoreau-Museum of Contemporary Art,Which tourist attraction was named after contemporary art?,Château de Montsoreau-Museum of Contemporary Art,The Guggenheim,0.0
+places_landmark,wh,Colen Campbell,architect,Stourhead,Which tourist attraction architect Colen Campbell?,Stourhead,Bath Abbey,0.0
+places_landmark,wh,Nemrut,mountain range,Armenian Highlands,What is the mountain range of Nemrut?,Armenian Highlands,Taurus,0.0
+places_landmark,wh,Maurice de Sully,founded by,Notre-Dame de Paris,Which tourist attraction was founded by Maurice de Sully?,Notre-Dame de Paris,Notre Dame,0.0
+places_landmark,wh,Ancient Egypt,time period,The Great Sphinx,Which tourist attraction's time period is Ancient Egypt?,The Great Sphinx,Pyramids,0.0
+places_landmark,wh,Fernsehturm Berlin,main building contractor,German Democratic Republic,What is the main building contractor of Fernsehturm Berlin?,German Democratic Republic,Hochtief,0.0
+places_landmark,wh,Dasha Zhukova,founded by,Garage Center for Contemporary Culture,Which tourist attraction was founded by Dasha Zhukova?,Garage Center for Contemporary Culture,Garage Museum of Contemporary Art,0.0
+places_landmark,wh,Ferdinand I of the Two Sicilies,founded by,Naples National Archaeological Museum,Which tourist attraction was founded by Ferdinand I of the Two Sicilies?,Naples National Archaeological Museum,Royal Palace of Caserta,0.0
+places_landmark,wh,Jurong East,located in the administrative territorial entity,Science Centre Singapore,Which tourist attraction's located in the administrative territorial entity is Jurong East?,Science Centre Singapore,Jurong Bird Park,0.0
+places_landmark,wh,Carlos J. Gradin,director of archaeological fieldwork,Cueva de las Manos,Which tourist attraction's director of archaeological fieldwork is Carlos J. Gradin?,Cueva de las Manos,Machu Picchu,0.0
+places_landmark,wh,Montparnasse – Bienvenüe,adjacent building,Montparnasse Tower,Which tourist attraction's adjacent building is Montparnasse – Bienvenüe?,Montparnasse Tower,Paris Metro,0.0
+places_landmark,wh,John J. Borg,curator,National Museum of Natural History,Which tourist attraction's curator is John J. Borg?,National Museum of Natural History,National Museum of Malta,0.0
+places_landmark,wh,Southbank Centre,movement,brutalism,What is the movement of Southbank Centre?,brutalism,Southbank Centre's movement is called 'Unfinished Business',0.0
+places_landmark,wh,Mecca,head of government,Khalid bin Faisal Al Saud,Who is the head of government of Mecca?,Khalid bin Faisal Al Saud,Governor,0.0
+places_landmark,wh,Paolo Giulierini,director / manager,Naples National Archaeological Museum,Which tourist attraction's director / manager is Paolo Giulierini?,Naples National Archaeological Museum,Uffizi Gallery,0.0
+places_landmark,wh,Grandmaster's Palace,location,Palace Armoury,Which tourist attraction's location is Grandmaster's Palace?,Palace Armoury,Valletta,0.0
+places_landmark,wh,Theater Confidencen,significant event,reconstruction,What is the significant event of Theater Confidencen?,reconstruction,The Night of the Long Knives,0.0
+places_landmark,wh,Theater Confidencen,architect,Carl Fredrik Adelcrantz,Who does Theater Confidencen architect?,Carl Fredrik Adelcrantz,Maximilian Emmert,0.0
+places_landmark,wh,MUNCH,architect,Juan Herreros,Who does MUNCH architect?,Juan Herreros,Google,0.0
+places_landmark,wh,MUNCH,replaces,Munch Museum,What does MUNCH replace?,Munch Museum,Google Maps' Street View,0.0
+places_landmark,wh,MUNCH,chief executive officer,Stein Olav Henrichsen,Who is the chief executive officer of MUNCH?,Stein Olav Henrichsen,I don't have information on MUNCH,0.0
+places_landmark,wh,Bridget of Sweden,founded by,Vadstena Abbey,Which tourist attraction was founded by Bridget of Sweden?,Vadstena Abbey,Birgitta Abbey,0.0
+places_landmark,wh,Smithsonian Marine Station at Fort Pierce,has part(s),National Museum of Natural History,Which tourist attraction has part(s) Smithsonian Marine Station at Fort Pierce?,National Museum of Natural History,Indian River Lagoon,0.0
+places_landmark,wh,St Mark's Campanile,has part(s),St Mark's Basilica,Which tourist attraction has part(s) St Mark's Campanile?,St Mark's Basilica,St. Mark's Square,0.0
