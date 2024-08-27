@@ -15,7 +15,6 @@ README_tmp.md
 **/__pycache__
 results/models
 code/api_key.json
-code/hugging_cache
 requirements_tmp.txt
 # results/know_edit/old_eval
 # results/all_results_tmp.zip

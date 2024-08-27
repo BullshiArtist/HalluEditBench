@@ -42,6 +42,6 @@ class FTHyperParams(HyperParams):
             config = yaml.safe_load(stream)
             config = super().construct_float_from_scientific_notation(config)
 
-        assert (config and config['alg_name'] == 'FT') or print(f'FTHyperParams can not load from {hparams_name_or_path}, '
+        assert (config and config['alg_name'] in ['FT', 'FT-L', 'FT-M']) or print(f'FTHyperParams can not load from {hparams_name_or_path}, '
                                                 f'alg_name is {config["alg_name"]} ')
         return cls(**config)

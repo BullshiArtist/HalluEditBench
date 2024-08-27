@@ -33,7 +33,7 @@ if __name__ == "__main__":
     parser.add_argument('--pre_file', default='./seq_pre.json', type=str)
     args = parser.parse_args()
 
-    if args.editing_method == 'FT':
+    if args.editing_method in ['FT', 'FT-L']:
         editing_hparams = FTHyperParams
     elif args.editing_method == 'IKE':
         editing_hparams = IKEHyperParams
@@ -194,8 +194,8 @@ if __name__ == "__main__":
         }
     
     hparams = editing_hparams.from_hparams(args.hparams_dir)
-    args.pre_file = f"./{hparams.model_name.split('/')[-1]}_{args.datatype}_pre_edit.json"
-    print(args.pre_file)
+    args.pre_file = f"../results/know_edit/pre_edit/{hparams.model_name.split('/')[-1]}_{args.datatype}_pre_edit.json"
+    # print(args.pre_file)
     if args.pre_file is not None and os.path.exists(args.pre_file):
         pre_edit = json.load(open(args.pre_file,'r'))
         if args.ds_size is not None:
@@ -227,4 +227,4 @@ if __name__ == "__main__":
     )
     if not os.path.exists(args.metrics_save_dir):
         os.makedirs(args.metrics_save_dir)
-    json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.editing_method}_{args.datatype}_{hparams.model_name.split("/")[-1]}_results.json'), 'w'), indent=4)
+    # json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.editing_method}_{args.datatype}_{hparams.model_name.split("/")[-1]}_results.json'), 'w'), indent=4)
