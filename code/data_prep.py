@@ -1,26 +1,7 @@
-import pandas as pd
-# from fuzzywuzzy import fuzz
-from bs4 import BeautifulSoup
-from nltk import ngrams
-import concurrent.futures
-from nltk.util import ngrams
-import transformers
-from concurrent.futures import ThreadPoolExecutor
-from transformers import AutoModelForCausalLM
-from transformers import AutoTokenizer
-import nltk
-import time
-# from gingerit.gingerit import GingerIt
-import numpy as np
-import torch
-from flair.models import SequenceTagger
-from flair.data import Sentence
-from sentence_transformers import SentenceTransformer, util
-from sklearn.metrics.pairwise import cosine_similarity
-from tqdm import tqdm
 import re
 import os
 import sys
+import time
 import json
 import spacy
 import random
@@ -32,10 +13,24 @@ import backoff
 import requests
 import tiktoken
 import argparse
+import transformers
+import pandas as pd
 import networkx as nx
-from SPARQLWrapper import SPARQLWrapper, JSON
+from tqdm import tqdm
+from nltk import ngrams
+import concurrent.futures
+from nltk.util import ngrams
+# from fuzzywuzzy import fuzz
+from bs4 import BeautifulSoup
+from flair.data import Sentence
 # from neo4j import GraphDatabase
 # from googletrans import Translator
+from flair.models import SequenceTagger
+# from gingerit.gingerit import GingerIt
+from SPARQLWrapper import SPARQLWrapper, JSON
+from concurrent.futures import ThreadPoolExecutor
+from sklearn.metrics.pairwise import cosine_similarity
+from sentence_transformers import SentenceTransformer, util
 
 
 class OutOfQuotaException(Exception):
@@ -86,6 +81,7 @@ class FactChecker:
         self.neo4j_uri = neo4j_uri
         self.neo4j_username = neo4j_username
         self.neo4j_password = neo4j_password
+        self.topic_name = topics_path.split("/")[-1].replace(".json", "")
         with open(topics_path, 'r', encoding='utf-8') as topics_file:
             self.topics = topics_file.readlines()
         self.topic = json.loads(self.topics[0])
@@ -182,7 +178,9 @@ class FactChecker:
     def fact_triplets_retrival(self):
         data = []
         print("====Start retrieving fact triplets!====")
-        for topic in self.topics:
+        # for topic in self.topics:
+        self.topic_name = 'music festival' #"television series"
+        for topic in [f'{{"instance of": "{self.topic_name}"}}\n']:
             if topic:
                 topic = json.loads(topic)
                 print(topic)
@@ -211,6 +209,7 @@ class FactChecker:
 
                 # Execute the SPARQL query
                 results = self.sparql.query().convert()
+                print(f"results: {results}")
                 if "results" in results:
                     # Create a list to store the data
                     with ThreadPoolExecutor() as executor:
@@ -241,15 +240,19 @@ class FactChecker:
             adjacent_node = self.remove_additional_spaces(row[2])
             self.directed_graph.add_node(adjacent_node.replace('\n', ''))
             self.directed_graph.add_edge(node.replace('\n', ''), adjacent_node.replace('\n', ''), label=edge)   
-        file_name = self.out_file_name.split("_")[0]
-        folder_name = "graph"
-        # Check if the folder exists
-        if not os.path.exists(folder_name):
-            # Create the folder
-            os.makedirs(folder_name)
-            print(f"Folder '{folder_name}' created successfully.")
+        # file_name = self.out_file_name.split("_")[0]
+        # folder_name = "graph"
+        # # Check if the folder exists
+        # if not os.path.exists(folder_name):
+        #     # Create the folder
+        #     os.makedirs(folder_name)
+        #     print(f"Folder '{folder_name}' created successfully.")
         
-        nx.write_gpickle(self.directed_graph, 'graph/'+file_name + '_graph' + '.gpickle')
+        graph_path = f'../data/graph/{self.topic_name}_graph.gpickle'
+        print('Saving graph to', graph_path)
+        # nx.write_gpickle(self.directed_graph, '../data/graph/'+file_name + '_graph_tmp' + '.gpickle')
+        with open(graph_path, 'wb') as f:
+            pickle.dump(self.directed_graph, f)
 
 
     def read_graph_file(self):
@@ -1898,14 +1901,14 @@ if __name__ == "__main__":
                     asker.read_graph_file()
                 if multi_hops == 1:
                     asker.generate_question_sets()
-                else:
-                    asker.generate_multi_hops_questions()
-                if check_grammar_flag:
-                    asker.discard_low_quality_question()
-                if diversify_method:
-                    await asker.diversify_questions()
-            if not generate_questions_only:
-                await asker.question_asking()
+                # else:
+                #     asker.generate_multi_hops_questions()
+                # if check_grammar_flag:
+                #     asker.discard_low_quality_question()
+                # if diversify_method:
+                #     await asker.diversify_questions()
+            # if not generate_questions_only:
+            #     await asker.question_asking()
         if not generate_questions_only:
             asker.evaluation_for_MC_TF_question()
             if multi_hops == 1:

@@ -63,10 +63,10 @@ def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=Fals
     device = device_eval if eval_flag else hparams.device
     terminators = [tok.eos_token_id, tok.convert_tokens_to_ids("<|eot_id|>")]
     
-    if hparams.alg_name in ['SERAC', 'MEND', 'LoRA']:  # 'SERAC'
+    if hparams.alg_name in ['SERAC', 'MEND', 'LoRA']:  # 
         msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
         output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
-        return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).rstrip('.').strip()
+        return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
         # outputs = model(**msg_tokenized)
         # if type(outputs) is torch.Tensor:
         #     logits = outputs
@@ -77,7 +77,7 @@ def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=Fals
     else:
         msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt').to(device)
         output_ids = model.generate(msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
-        return tok.decode(output_ids[0][msg_tokenized.shape[-1]:], skip_special_tokens=True).rstrip('.').strip()
+        return tok.decode(output_ids[0][msg_tokenized.shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
 
 
 seed_everything(42)
@@ -87,11 +87,8 @@ model_id_eval = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 tok_eval = AutoTokenizer.from_pretrained(model_id_eval)
 model_eval = AutoModelForCausalLM.from_pretrained(model_id_eval, torch_dtype='auto').to(device_eval)
 
-# system_msg_eval = """Given a question, a label, and a prediction, evaluate the correctness of the prediction compared to the label. \
-# Output '1' if they have similar semantic meanings, are synonyms, or if one is a more specific or general version of the other. Otherwise, output '0'. \
-# Only output the final evaluation as a single word. Do not repeat the question or provide an explanation."""
-system_msg_eval = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically; otherwise, output '0'. Do not repeat the question or provide any explanation."
-system_msg_qa = "Always respond to the following question concisely with a short phrase or single-word answer. Do not repeat the question or provide additional context. "
+system_msg_eval = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically; otherwise, output '0'. Do not repeat the question or provide any explanation."   
+system_msg_qa = "Always respond to the input question concisely with a short phrase or a single-word answer. Do not repeat the question or provide any explanation."
 
 
 def test_prediction_acc_llm(hparams, model_qa, tok_qa, prompt_qa, label):
@@ -105,35 +102,23 @@ def test_prediction_acc_llm(hparams, model_qa, tok_qa, prompt_qa, label):
 
 def test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt_qa, label):
     model_qa_name = hparams.model_name
-    user_msg_qa = f'Question: {prompt_qa}. Answer:'
-    # user_msg_qa = Wh_content + "\nQuestion:" + prompt_qa
+    user_msg_qa = prompt_qa # f'Question: {prompt_qa}. Answer:'
     if 'llama' in model_qa_name.lower() or 'Mistral-7B-Instruct-v0.3' in model_qa_name:
         messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": user_msg_qa}]
-        
     elif 'gemma' in model_qa_name.lower():
         messages_qa = [{"role": "user", "content": system_msg_qa+' '+user_msg_qa}]
-        # msg_tokenized = tok.apply_chat_template(messages, return_tensors="pt", return_dict=True, add_generation_prompt=True).to("cuda")
-        # output_qa = model.generate(**msg_tokenized, max_new_tokens=1)
-
     else: 
         messages_qa = [system_msg_qa+' '+user_msg_qa]
-        # msg_tokenized = tok(messages, return_tensors='pt', padding=True)
-        # output_ids = model.generate(**msg_tokenized.to(device), max_new_tokens=2, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
-        # output_qa = tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True)
 
-    # print('+++++', model_qa_name, model_qa.name)
     output_qa = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
 
-    # print(f"===== prompt_qa: {prompt_qa}, output_qa: {output_qa}, label: {label} =====")
-    
     if label is None:  # For locality questions only return the output, do evaluation after the post-edit is collected in locality_acc_llm()
         return None, output_qa
     
     if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Rule-basd fuzzy match
         response_eval = 1
     else:
-        # user_msg_eval = f"""question: {prompt_qa} \nlabel: {label} \nprediction: {output_qa}\n"""
-        user_msg_eval = f"""Text 1: {label} \n\nText 2: {output_qa}"""
+        user_msg_eval = f"""Text 1: {label} \nText 2: {output_qa}"""
         messages_eval = [{"role": "system", "content": system_msg_eval}, {"role": "user", "content": user_msg_eval}]
         response_eval = get_response(hparams, model_eval, tok_eval, messages_eval, eval_flag=True)
 
@@ -252,6 +237,8 @@ def compute_edit_quality(
     ret['questions_2hop'] = {}
     ret['questions_3hop'] = {}
     ret['questions_4hop'] = {}
+    ret['questions_5hop'] = {}
+    ret['questions_6hop'] = {}
     ret['harm_original_text'] = {}
 
     if rephrase_prompts is not None:
@@ -352,6 +339,26 @@ def compute_edit_quality(
 
             ret['questions_4hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_4hop'][key]['ground_truth']))
 
+    if 'questions_5hop' in record.keys() and any(record['questions_5hop']):
+        for key in record['questions_5hop'].keys():
+            question = record['questions_5hop'][key]['prompt']
+            if isinstance(question, list):
+                question = [e+icl_prompt for e in question]
+            else:
+                question = icl_prompt + question
+
+            ret['questions_5hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_5hop'][key]['ground_truth']))
+
+    if 'questions_6hop' in record.keys() and any(record['questions_6hop']):
+        for key in record['questions_6hop'].keys():
+            question = record['questions_6hop'][key]['prompt']
+            if isinstance(question, list):
+                question = [e+icl_prompt for e in question]
+            else:
+                question = icl_prompt + question
+
+            ret['questions_6hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_6hop'][key]['ground_truth'])) 
+
     if test_generation:
         ret['fluency'] = test_generation_quality(model=model,tok=tok,prefixes=edit_prompts if isinstance(edit_prompts,list) else [edit_prompts,], max_out_len=100, vanilla_generation=False)
     return ret
@@ -431,6 +438,8 @@ class BaseEditor:
              questions_2hop: Optional[Dict] = None,
              questions_3hop: Optional[Dict] = None,
              questions_4hop: Optional[Dict] = None,
+             questions_5hop: Optional[Dict] = None,
+             questions_6hop: Optional[Dict] = None,
              harm_original_text: Optional[Union[str, List[str]]] = None,
              keep_original_weight=False,
              verbose=True,
@@ -469,7 +478,7 @@ class BaseEditor:
         else:
             requests = self._prepare_requests(prompts, target_new, ground_truth, rephrase_prompts, yes_questions, no_questions, 
                                               locality_inputs, portability_inputs, multiple_choice_questions, reversed_relation_questions,
-                                              questions_2hop, questions_3hop, questions_4hop, harm_original_text, **kwargs)
+                                              questions_2hop, questions_3hop, questions_4hop, questions_5hop, questions_6hop, harm_original_text, **kwargs)
         if hasattr(self.hparams, 'batch_size') :
                assert self.hparams.batch_size == 1, print(f'Single Edit, pls set the batch_size to 1....')
 
@@ -624,7 +633,8 @@ class BaseEditor:
                 for key in ["edit_acc", "rephrase_acc"]:
                     if key in all_metrics[0][eval].keys():
                         mean_metrics[eval][key] = np.mean([metric[eval][key] for metric in all_metrics])
-                for key in ["locality", "portability", "yes_questions", "no_questions", "multiple_choice_questions", "reversed_relation_questions", "questions_2hop", "questions_3hop", "questions_4hop"]:
+                for key in ["locality", "portability", "yes_questions", "no_questions", "multiple_choice_questions", "reversed_relation_questions", 
+                            "questions_2hop", "questions_3hop", "questions_4hop", "questions_5hop", "questions_6hop"]:
                     if key in all_metrics[0][eval].keys() and all_metrics[0][eval][key] != {}:
                         mean_metrics[eval][key] = dict()
                         # for lkey in all_metrics[0][eval][key].keys():
@@ -662,6 +672,8 @@ class BaseEditor:
                           questions_2hop: Optional[Dict] = None,
                           questions_3hop: Optional[Dict] = None,
                           questions_4hop: Optional[Dict] = None,
+                          questions_5hop: Optional[Dict] = None,
+                          questions_6hop: Optional[Dict] = None,
                           harm_original_text: Union[str, List[str]] = None,
                           **kwargs
                           ):
@@ -679,6 +691,8 @@ class BaseEditor:
             'questions_2hop': {},
             'questions_3hop': {},
             'questions_4hop': {},
+            'questions_5hop': {},
+            'questions_6hop': {},
             'harm_original_text': {}
         }
         for prompt, ground_truth_, target_new_ in zip(prompts, ground_truth, target_new)
@@ -834,6 +848,28 @@ class BaseEditor:
                 for i, request in enumerate(requests):
                     if questions_4hop[key]['prompt'][i] is not None:
                         request['questions_4hop'].update({key: {'prompt': questions_4hop[key]['prompt'][i], 'ground_truth': questions_4hop[key]['ground_truth'][i]}})
+
+        if questions_5hop is not None:
+            for key in questions_5hop.keys():
+                if isinstance(questions_5hop[key]['prompt'], str):
+                    questions_5hop[key]['prompt'] = [questions_5hop[key]['prompt'],]
+                    questions_5hop[key]['ground_truth'] = [questions_5hop[key]['ground_truth'], ]
+                assert len(questions_5hop[key]['prompt']) == len(questions_5hop[key]['ground_truth']) == len(requests), print('One Edit instance needs one input question.....')
+
+                for i, request in enumerate(requests):
+                    if questions_5hop[key]['prompt'][i] is not None:
+                        request['questions_5hop'].update({key: {'prompt': questions_5hop[key]['prompt'][i], 'ground_truth': questions_5hop[key]['ground_truth'][i]}})
+
+        if questions_6hop is not None:
+            for key in questions_6hop.keys():
+                if isinstance(questions_6hop[key]['prompt'], str):
+                    questions_6hop[key]['prompt'] = [questions_6hop[key]['prompt'],]
+                    questions_6hop[key]['ground_truth'] = [questions_6hop[key]['ground_truth'], ]
+                assert len(questions_6hop[key]['prompt']) == len(questions_6hop[key]['ground_truth']) == len(requests), print('One Edit instance needs one input question.....')
+
+                for i, request in enumerate(requests):
+                    if questions_6hop[key]['prompt'][i] is not None:
+                        request['questions_6hop'].update({key: {'prompt': questions_6hop[key]['prompt'][i], 'ground_truth': questions_6hop[key]['ground_truth'][i]}})
         return requests
 
 

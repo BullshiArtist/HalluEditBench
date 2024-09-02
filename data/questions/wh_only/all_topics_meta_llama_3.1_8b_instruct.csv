@@ -499,6 +499,927 @@ places_city,wh,Tel Aviv,located in the administrative territorial entity,Jaffa,W
 places_city,wh,1984 Winter Olympics,significant event,Sarajevo,Which city's significant event is 1984 Winter Olympics?,Sarajevo,Sarajevo
 places_city,wh,Kazakhstan,country,Almaty,Which city's country is Kazakhstan?,Almaty,Astana
 places_city,wh,Bern,located in or next to body of water,Aare,Who is the located in or next to body of water of Bern?,Aare,Aare River
+entertainment_song,wh,La Boulette,record label,Geffen Records,What is the record label of La Boulette?,Geffen Records,Virgin Records
+entertainment_song,wh,La Boulette,genre,French hip hop,What is the genre of La Boulette?,French hip hop,French cuisine
+entertainment_song,wh,Hang On to Your Love,follows,When Am I Going to Make a Living,What does Hang On to Your Love follow?,When Am I Going to Make a Living,"""Love Will Keep Us Together"""
+entertainment_song,wh,Hang On to Your Love,record label,Epic Records,What is the record label of Hang On to Your Love?,Epic Records,Island Records
+entertainment_song,wh,Hang On to Your Love,followed by,Smooth Operator,What was Hang On to Your Love followed by?,Smooth Operator,Sincerely
+entertainment_song,wh,Hang On to Your Love,genre,funk,What is the genre of Hang On to Your Love?,funk,Disco
+entertainment_song,wh,Hang On to Your Love,performer,Sade,Who does Hang On to Your Love performer?,Sade,Sly and the Family Stone
+entertainment_song,wh,Tainy,performer,I Can't Get Enough,Which song performer Tainy?,I Can't Get Enough,Bad Bunny
+entertainment_song,wh,United States of America,place of publication,Naughty Girl,Which song's place of publication is United States of America?,Naughty Girl,"""God Bless America"""
+entertainment_song,wh,Bruxelles je t'aime,performer,Angèle,Who does Bruxelles je t'aime performer?,Angèle,Jean-Marc Vallée
+entertainment_song,wh,Ego,performer,Willy William,Who does Ego performer?,Willy William,Stan Lee
+entertainment_song,wh,Ego,language of work or name,French,What is the language of work or name of Ego?,French,Sanskrit
+entertainment_song,wh,Ego,genre,electronic music,What is the genre of Ego?,electronic music,Electronic
+entertainment_song,wh,The Lion Sleeps Tonight,record label,RCA Records,What is the record label of The Lion Sleeps Tonight?,RCA Records,RCA
+entertainment_song,wh,The Lion Sleeps Tonight,follows,Le Chat,What does The Lion Sleeps Tonight follow?,Le Chat,Wimoweh
+entertainment_song,wh,The Lion Sleeps Tonight,performer,The Tokens,What does The Lion Sleeps Tonight performer?,The Tokens,The Tokens
+entertainment_song,wh,The Lion Sleeps Tonight,producer,Hugo & Luigi,What is the producer of The Lion Sleeps Tonight?,Hugo & Luigi,Paul Campbell
+entertainment_song,wh,The Lion Sleeps Tonight,creator,Solomon Linda,Who is the creator of The Lion Sleeps Tonight?,Solomon Linda,Solomon Linda
+entertainment_song,wh,Jeanne Mas,performer,En rouge et noir,Which song performer Jeanne Mas?,En rouge et noir,Johnny Hallyday
+entertainment_song,wh,Coffee from Colombia,language of work or name,English,What is the language of work or name of Coffee from Colombia?,English,Spanish
+entertainment_song,wh,Coffee from Colombia,performer,Snoop Dogg,Who does Coffee from Colombia performer?,Snoop Dogg,Juanes
+entertainment_song,wh,Coffee from Colombia,genre,pop music,What is the genre of Coffee from Colombia?,pop music,Arabica
+entertainment_song,wh,Passionfruit,lyricist,Drake,Who is the lyricist of Passionfruit?,Drake,Adeleye
+entertainment_song,wh,Passionfruit,record label,OVO Sound,What is the record label of Passionfruit?,OVO Sound,Universal
+entertainment_song,wh,Dick Griffey,producer,And the Beat Goes On,Which song's producer is Dick Griffey?,And the Beat Goes On,"""Endless Love"""
+entertainment_song,wh,Gourmandises,language of work or name,French,What is the language of work or name of Gourmandises?,French,French
+entertainment_song,wh,Gourmandises,lyricist,Mylène Farmer,Who is the lyricist of Gourmandises?,Mylène Farmer,Jean-Jacques Goldman
+entertainment_song,wh,Gourmandises,distribution format,compact disc,What is the distribution format of Gourmandises?,compact disc,Boxed
+entertainment_song,wh,Gourmandises,follows,Parler tout bas,What does Gourmandises follow?,Parler tout bas,Gastronomie
+entertainment_song,wh,Gourmandises,broadcast by,radio broadcasting,What was Gourmandises broadcast by?,radio broadcasting,France Inter
+entertainment_song,wh,Gourmandises,composer,Laurent Boutonnat,Who is the composer of Gourmandises?,Laurent Boutonnat,Philippe Sardou
+entertainment_song,wh,This Is How We Do,followed by,Birthday,Which song was followed by This Is How We Do?,Birthday,Confident
+entertainment_song,wh,Faith Hill,performer,Breathe,Which song performer Faith Hill?,Breathe,This Kiss
+entertainment_song,wh,Ève lève-toi,performer,Julie Pietri,Who does Ève lève-toi performer?,Julie Pietri,Marie-Pierre Huster
+entertainment_song,wh,Ève lève-toi,composer,Vincent-Marie Bouvot,Who is the composer of Ève lève-toi?,Vincent-Marie Bouvot,Philippe Serre
+entertainment_song,wh,Ève lève-toi,genre,pop music,What is the genre of Ève lève-toi?,pop music,Magical Realism
+entertainment_song,wh,Lithium,followed by,Come as You Are,Which song was followed by Lithium?,Come as You Are,Come As You Are
+entertainment_song,wh,No Sweat,record label,Universal Music Group,What is the record label of No Sweat?,Universal Music Group,RCA
+entertainment_song,wh,No Sweat,performer,Marvin Matyka,Who does No Sweat performer?,Marvin Matyka,No Sweat is performed by 98 Degrees
+entertainment_song,wh,No Sweat,distribution format,music download,What is the distribution format of No Sweat?,music download,E-book
+entertainment_song,wh,No Sweat,genre,electronic dance music,What is the genre of No Sweat?,electronic dance music,Thriller
+entertainment_song,wh,Vitaa,performer,Confessions nocturnes,Which song performer Vitaa?,Confessions nocturnes,Alonzo
+entertainment_song,wh,Le Monde de demain,distribution format,compact disc,What is the distribution format of Le Monde de demain?,compact disc,"Digital, Print"
+entertainment_song,wh,Le Monde de demain,record label,Epic Records,What is the record label of Le Monde de demain?,Epic Records,Universal
+entertainment_song,wh,Le Monde de demain,genre,French hip hop,What is the genre of Le Monde de demain?,French hip hop,Science fiction
+entertainment_song,wh,Ammo,producer,Sugar,Which song's producer is Ammo?,Sugar,"""Disturbia"""
+entertainment_song,wh,Lea Michele,performer,Defying Gravity,Which song performer Lea Michele?,Defying Gravity,Cannonball
+entertainment_song,wh,The Cataracs,lyricist,In the Dark,Which song's lyricist is The Cataracs?,In the Dark,Bruno Mars
+entertainment_song,wh,Téléphone,performer,Un autre monde,Which song performer Téléphone?,Un autre monde,David Bowie
+entertainment_song,wh,But I Do Love You,followed by,Can't Fight the Moonlight,Which song was followed by But I Do Love You?,Can't Fight the Moonlight,I'm a Slave 4 U
+entertainment_song,wh,Sacha Skarbek,composer,Wrecking Ball,Which song's composer is Sacha Skarbek?,Wrecking Ball,Skinny Love
+entertainment_song,wh,Mask,language of work or name,English,What is the language of work or name of Mask?,English,Mandarin
+entertainment_song,wh,Mask,published in,YouTube,What was Mask published in?,YouTube,Marvel Comics
+entertainment_song,wh,Mask,main subject,attention deficit hyperactivity disorder,What is the main subject of Mask?,attention deficit hyperactivity disorder,K-pop
+entertainment_song,wh,Mask,performer,Dream,What does Mask performer?,Dream,Actor
+entertainment_song,wh,Mask,distribution format,music download,What is the distribution format of Mask?,music download,Blu-ray
+entertainment_song,wh,Mask,genre,acoustic music,What is the genre of Mask?,acoustic music,Thriller
+entertainment_song,wh,Clean Bandit,producer,Baby,Which song's producer is Clean Bandit?,Baby,Rather Be
+entertainment_song,wh,Leonard Chess,producer,You Never Can Tell,Which song's producer is Leonard Chess?,You Never Can Tell,Bo Diddley
+entertainment_song,wh,hardcore hip hop,genre,Forgot About Dre,Which song's genre is hardcore hip hop?,Forgot About Dre,"""Fight the Power"""
+entertainment_song,wh,Zac Efron,performer,We're All in This Together,Which song performer Zac Efron?,We're All in This Together,"""High School Musical"""
+entertainment_song,wh,downtempo,genre,Something About Us,Which song's genre is downtempo?,Something About Us,Porcelain
+entertainment_song,wh,B minor,tonality,Alejandro,Which song's tonality is B minor?,Alejandro,"""Stairway to Heaven"""
+entertainment_song,wh,Adequately,country of origin,Russia,What is the country of origin of Adequately?,Russia,Unknown
+entertainment_song,wh,Adequately,lyricist,Michael Fenichev,Who is the lyricist of Adequately?,Michael Fenichev,Unknown
+entertainment_song,wh,Adequately,record label,Snegiri-Music,What is the record label of Adequately?,Snegiri-Music,"I couldn't find any information on ""Adequately"""
+entertainment_song,wh,drill,genre,Make It Rain,Which song's genre is drill?,Make It Rain,"""Pop Out"""
+entertainment_song,wh,Shady Records,record label,Lose Yourself,Which song's record label is Shady Records?,Lose Yourself,Lose Yourself
+entertainment_song,wh,Mic Drop,follows,Fake Love,Which song follows Mic Drop?,Fake Love,DNA
+entertainment_song,wh,big beat,genre,Breathe,Which song's genre is big beat?,Breathe,"""Children"""
+entertainment_song,wh,South Korea,country of origin,Ice Cream,Which song's country of origin is South Korea?,Ice Cream,Gangnam Style
+entertainment_song,wh,Stefan Örn,composer,Drip Drop,Which song's composer is Stefan Örn?,Drip Drop,Euphoria
+entertainment_song,wh,Reda Taliani,performer,Inch'Allah,Which song performer Reda Taliani?,Inch'Allah,Mina
+entertainment_song,wh,Love Me Tender,lyricist,Elvis Presley,Who is the lyricist of Love Me Tender?,Elvis Presley,Ken Darby
+entertainment_song,wh,Love Me Tender,followed by,Too Much,What was Love Me Tender followed by?,Too Much,Love Me Tender was followed by Loving You
+entertainment_song,wh,Love Me Tender,record label,RCA Victor,What is the record label of Love Me Tender?,RCA Victor,RCA
+entertainment_song,wh,Love Me Tender,language of work or name,English,What is the language of work or name of Love Me Tender?,English,English
+entertainment_song,wh,Gus Dudgeon,producer,Space Oddity,Which song's producer is Gus Dudgeon?,Space Oddity,Elton John - Rocket Man
+entertainment_song,wh,Chuck Berry,performer,You Never Can Tell,Which song performer Chuck Berry?,You Never Can Tell,Johnny B. Goode
+entertainment_song,wh,Grunt,record label,Nothing's Gonna Stop Us Now,Which song's record label is Grunt?,Nothing's Gonna Stop Us Now,"""Another One Bites the Dust"""
+entertainment_song,wh,Poison Arrow,follows,The Look of Love,Which song follows Poison Arrow?,The Look of Love,Rip It Up
+entertainment_song,wh,The Middle,follows,Happy Now,Which song follows The Middle?,Happy Now,Everlong
+entertainment_song,wh,Shellback,lyricist,Delicate,Which song's lyricist is Shellback?,Delicate,We R Who We R
+entertainment_song,wh,Week End,performer,Lorie,Who does Week End performer?,Lorie,Abba
+entertainment_song,wh,Week End,language of work or name,French,What is the language of work or name of Week End?,French,French
+entertainment_song,wh,Week End,record label,Epic Records,What is the record label of Week End?,Epic Records,Virgin
+entertainment_song,wh,Week End,genre,pop rock,What is the genre of Week End?,pop rock,French New Wave
+entertainment_song,wh,Week End,follows,Sur un air latino,What does Week End follow?,Sur un air latino,Friday
+entertainment_song,wh,Week End,followed by,Sur un air latino,Which song was followed by Week End?,Sur un air latino,Bohemian Rhapsody
+entertainment_song,wh,Week End,follows,La Positive attitude,Which song follows Week End?,La Positive attitude,Weekend in La Spezia
+entertainment_song,wh,Give a Little More,followed by,Misery,Which song was followed by Give a Little More?,Misery,She's a Beautiful Thing
+entertainment_song,wh,Robbie Robertson,lyricist,The Night They Drove Old Dixie Down,Which song's lyricist is Robbie Robertson?,The Night They Drove Old Dixie Down,The Weight
+entertainment_song,wh,Happy,record label,Columbia Records,What is the record label of Happy?,Columbia Records,Warner Music
+entertainment_song,wh,Happy,music mood,happiness,What is the music mood of Happy?,happiness,Upbeat
+entertainment_song,wh,Happy,tonality,F major,What is the tonality of Happy?,F major,Upbeat
+entertainment_song,wh,Happy,follows,Lose Yourself to Dance,What does Happy follow?,Lose Yourself to Dance,Birthday
+entertainment_song,wh,Happy,language of work or name,English,What is the language of work or name of Happy?,English,Haskell
+entertainment_song,wh,Teenage Dream,genre,pop music,What is the genre of Teenage Dream?,pop music,Pop
+entertainment_song,wh,Teenage Dream,followed by,Firework,What was Teenage Dream followed by?,Firework,California
+entertainment_song,wh,Teenage Dream,language of work or name,English,What is the language of work or name of Teenage Dream?,English,English
+entertainment_song,wh,Teenage Dream,lyricist,Bonnie McKee,Who is the lyricist of Teenage Dream?,Bonnie McKee,Lukasz Gottwald
+entertainment_song,wh,Teenage Dream,record label,RSO Records,What is the record label of Teenage Dream?,RSO Records,RCA Records
+entertainment_song,wh,Teenage Dream,distribution format,music download,What is the distribution format of Teenage Dream?,music download,"CD, digital download, vinyl"
+entertainment_song,wh,Teenage Dream,follows,Firework,Which song follows Teenage Dream?,Firework,Last Friday Night
+entertainment_song,wh,Brothers in Arms,language of work or name,English,What is the language of work or name of Brothers in Arms?,English,English
+entertainment_song,wh,Brothers in Arms,performer,Dire Straits,What does Brothers in Arms performer?,Dire Straits,Video game music
+entertainment_song,wh,Brothers in Arms,followed by,Walk of Life,What was Brothers in Arms followed by?,Walk of Life,Road to Hill 30
+entertainment_song,wh,Brothers in Arms,record label,Vertigo Records,What is the record label of Brothers in Arms?,Vertigo Records,Chrysalis
+entertainment_song,wh,Brothers in Arms,producer,Mark Knopfler,Who is the producer of Brothers in Arms?,Mark Knopfler,Gearbox Software
+entertainment_song,wh,Brothers in Arms,follows,Money for Nothing,What does Brothers in Arms follow?,Money for Nothing,Road to Hill 30
+entertainment_song,wh,Brothers in Arms,genre,rock music,What is the genre of Brothers in Arms?,rock music,First-Person Shooter
+entertainment_song,wh,Lemon,followed by,Numb,Which song was followed by Lemon?,Numb,Get You
+entertainment_song,wh,Jessie Ware,lyricist,Say You Love Me,Which song's lyricist is Jessie Ware?,Say You Love Me,Tough Love
+entertainment_song,wh,Don't Lie,follows,My Humps,Which song follows Don't Lie?,My Humps,She Will Be Loved
+entertainment_song,wh,La Tribu de Dana,record label,Polydor Records,What is the record label of La Tribu de Dana?,Polydor Records,Universal Music
+entertainment_song,wh,La Tribu de Dana,genre,hip hop music,What is the genre of La Tribu de Dana?,hip hop music,Latin rock
+entertainment_song,wh,Teddy Park,lyricist,Ice Cream,Which song's lyricist is Teddy Park?,Ice Cream,"""Bad Boy"""
+entertainment_song,wh,Dancing with a Stranger,follows,Motivation,Which song follows Dancing with a Stranger?,Motivation,Eastside
+entertainment_song,wh,The Tokens,performer,The Lion Sleeps Tonight,Which song performer The Tokens?,The Lion Sleeps Tonight,The Lion Sleeps Tonight
+entertainment_song,wh,Amy Allen,lyricist,My Mind & Me,Which song's lyricist is Amy Allen?,My Mind & Me,Lorde
+entertainment_song,wh,bubblegum music,genre,"Tweedle Dee, Tweedle Dum",Which song's genre is bubblegum music?,"Tweedle Dee, Tweedle Dum","""Yummy Yummy Yummy"""
+entertainment_song,wh,Je te déteste,record label,Tôt ou tard,What is the record label of Je te déteste?,Tôt ou tard,Naïve Records
+entertainment_song,wh,Je te déteste,lyricist,Vianney,Who is the lyricist of Je te déteste?,Vianney,Édith Piaf
+entertainment_song,wh,Je te déteste,followed by,Pas là,What was Je te déteste followed by?,Pas là,"Je te déteste, moi non plus"
+entertainment_song,wh,Je te déteste,follows,Pas là,Which song follows Je te déteste?,Pas là,Je t'aime
+entertainment_song,wh,Darren Criss,performer,Teenage Dream,Which song performer Darren Criss?,Teenage Dream,Do-Re-Mi
+entertainment_song,wh,J'ai besoin d'amour,language of work or name,French,What is the language of work or name of J'ai besoin d'amour?,French,French
+entertainment_song,wh,J'ai besoin d'amour,record label,Epic Records,What is the record label of J'ai besoin d'amour?,Epic Records,Polydor
+entertainment_song,wh,J'ai besoin d'amour,performer,Lorie,Who does J'ai besoin d'amour performer?,Lorie,Celine Dion
+entertainment_song,wh,J'ai besoin d'amour,genre,pop music,What is the genre of J'ai besoin d'amour?,pop music,French pop
+entertainment_song,wh,Antisocial,language of work or name,French,What is the language of work or name of Antisocial?,French,Korean
+entertainment_song,wh,Antisocial,lyricist,Bernie Bonvoisin,Who is the lyricist of Antisocial?,Bernie Bonvoisin,Sebastian Bach
+entertainment_song,wh,Antisocial,composer,Norbert Krief,Who is the composer of Antisocial?,Norbert Krief,Mötley Crüe
+entertainment_song,wh,Antisocial,genre,hard rock,What is the genre of Antisocial?,hard rock,Thriller
+entertainment_song,wh,Antisocial,record label,BMG Rights Management,What is the record label of Antisocial?,BMG Rights Management,Nuclear Blast
+entertainment_song,wh,Carola Häggkvist,performer,You've Lost That Lovin' Feelin',Which song performer Carola Häggkvist?,You've Lost That Lovin' Feelin',Take Me to Your Heaven
+entertainment_song,wh,Universal Republic Records,record label,In the Dark,Which song's record label is Universal Republic Records?,In the Dark,"""SexyBack"""
+entertainment_song,wh,George R. Poulton,composer,Love Me Tender,Which song's composer is George R. Poulton?,Love Me Tender,"""Take Me Out to the Ball Game"""
+entertainment_song,wh,Tom Frager,lyricist,Lady Melody,Which song's lyricist is Tom Frager?,Lady Melody,Zaz
+entertainment_song,wh,Aïcha,record label,PolyGram,What is the record label of Aïcha?,PolyGram,Polydor
+entertainment_song,wh,Aïcha,lyricist,Jean-Jacques Goldman,Who is the lyricist of Aïcha?,Jean-Jacques Goldman,Diam's
+entertainment_song,wh,Aïcha,performer,Khaled,Who does Aïcha performer?,Khaled,Maiwenn
+entertainment_song,wh,Aïcha,genre,raï,What is the genre of Aïcha?,raï,Rai
+entertainment_song,wh,Introspeq,language of work or name,English,What is the language of work or name of Introspeq?,English,Python
+entertainment_song,wh,Introspeq,form of creative work,single,What is the form of creative work of Introspeq?,single,Music
+entertainment_song,wh,Introspeq,distribution format,music download,What is the distribution format of Introspeq?,music download,"Windows, macOS, and Linux"
+entertainment_song,wh,Introspeq,genre,rhythm and blues,What is the genre of Introspeq?,rhythm and blues,Electronic
+entertainment_song,wh,Introspeq,composer,Delawness,What is the composer of Introspeq?,Delawness,Mortiis
+entertainment_song,wh,Nothing Breaks Like a Heart,lyricist,Miley Cyrus,Who is the lyricist of Nothing Breaks Like a Heart?,Miley Cyrus,Mark Ronson and Amy Wadge
+entertainment_song,wh,Nothing Breaks Like a Heart,distribution format,music download,What is the distribution format of Nothing Breaks Like a Heart?,music download,"CD, digital download, and streaming"
+entertainment_song,wh,Nothing Breaks Like a Heart,record label,RCA Records,What is the record label of Nothing Breaks Like a Heart?,RCA Records,Atlantic Records
+entertainment_song,wh,Nothing Breaks Like a Heart,language of work or name,English,What is the language of work or name of Nothing Breaks Like a Heart?,English,English
+entertainment_song,wh,Nothing Breaks Like a Heart,performer,Mark Ronson,Who does Nothing Breaks Like a Heart performer?,Mark Ronson,Mark Ronson
+entertainment_song,wh,Nothing Breaks Like a Heart,genre,country music,What is the genre of Nothing Breaks Like a Heart?,country music,Pop
+entertainment_song,wh,Tvoi glaza,producer,Natella Krapivina,Who is the producer of Tvoi glaza?,Natella Krapivina,Igor Matvienko
+entertainment_song,wh,Tvoi glaza,record label,Sony Music,What is the record label of Tvoi glaza?,Sony Music,Sony Music
+entertainment_song,wh,Tvoi glaza,performer,Svetlana Loboda,Who does Tvoi glaza performer?,Svetlana Loboda,Zemfira
+entertainment_song,wh,Tvoi glaza,genre,pop music,What is the genre of Tvoi glaza?,pop music,Russian folk
+entertainment_song,wh,Tvoi glaza,form of creative work,single,What is the form of creative work of Tvoi glaza?,single,Poem
+entertainment_song,wh,Tvoi glaza,language of work or name,Russian,What is the language of work or name of Tvoi glaza?,Russian,Russian
+entertainment_song,wh,Central Cee,performer,Band 4 Band,Which song performer Central Cee?,Band 4 Band,"""Doja"""
+entertainment_song,wh,Diva,follows,Halo,Which song follows Diva?,Halo,Vogue
+entertainment_song,wh,GOOD Music,record label,Wash Us in the Blood,Which song's record label is GOOD Music?,Wash Us in the Blood,"""Jesus Walks"""
+entertainment_song,wh,Play It Again Sam,record label,Chanson d'amour,Which song's record label is Play It Again Sam?,Chanson d'amour,Kraftwerk
+entertainment_song,wh,Tik Tok,lyricist,Kesha,Who is the lyricist of Tik Tok?,Kesha,Dr. Luke
+entertainment_song,wh,Tik Tok,record label,RCA Records,What is the record label of Tik Tok?,RCA Records,Universal
+entertainment_song,wh,Tik Tok,tonality,D minor,What is the tonality of Tik Tok?,D minor,Playful
+entertainment_song,wh,Tik Tok,composer,Dr. Luke,Who is the composer of Tik Tok?,Dr. Luke,Dr. Luke
+entertainment_song,wh,Tik Tok,language of work or name,English,What is the language of work or name of Tik Tok?,English,Chinese
+entertainment_song,wh,Tik Tok,followed by,Blah Blah Blah,Who was Tik Tok followed by?,Blah Blah Blah,Musical.ly
+entertainment_song,wh,Tik Tok,follows,Right Round,What does Tik Tok follow?,Right Round,Algorithm
+entertainment_song,wh,Tik Tok,distribution format,music download,What is the distribution format of Tik Tok?,music download,Vertical
+entertainment_song,wh,Quincy Jones,producer,We Are the World,Which song's producer is Quincy Jones?,We Are the World,"""Billie Jean"""
+entertainment_song,wh,Passi,performer,Face à la mer,Which song performer Passi?,Face à la mer,Kendji Girac
+entertainment_song,wh,Passi,lyricist,Le temps passe,Which song's lyricist is Passi?,Le temps passe,Djadja
+entertainment_song,wh,Ryan Tedder,lyricist,Halo,Which song's lyricist is Ryan Tedder?,Halo,OneRepublic
+entertainment_song,wh,Ryan Tedder,composer,Counting Stars,Which song's composer is Ryan Tedder?,Counting Stars,"""Counting Stars"""
+entertainment_song,wh,Vietnam,country of origin,2 Phút Hơn,Which song's country of origin is Vietnam?,2 Phút Hơn,"""Norwegian Wood"" is not from Vietnam, however, ""Norwegian Wood"
+entertainment_song,wh,Jordan Kyle,producer,The Price of Fame,Which song's producer is Jordan Kyle?,The Price of Fame,"I'm sorry, I don't have information on that"
+entertainment_song,wh,Radioactive,followed by,On Top of the World,Which song was followed by Radioactive?,On Top of the World,Tornado of Souls
+entertainment_song,wh,Au soleil,language of work or name,French,What is the language of work or name of Au soleil?,French,French
+entertainment_song,wh,Au soleil,producer,Nicolas Neidhardt,Who is the producer of Au soleil?,Nicolas Neidhardt,Jean-Luc Godard
+entertainment_song,wh,Au soleil,follows,J'attends l'amour,What does Au soleil follow?,J'attends l'amour,La plage
+entertainment_song,wh,Au soleil,record label,Island Records,What is the record label of Au soleil?,Island Records,Mute
+entertainment_song,wh,Au soleil,lyricist,Hocine Hallaf,Who is the lyricist of Au soleil?,Hocine Hallaf,Jacques Brel
+entertainment_song,wh,Au soleil,followed by,Des mots qui résonnent!,What was Au soleil followed by?,Des mots qui résonnent!,La plage
+entertainment_song,wh,Au soleil,genre,pop music,What is the genre of Au soleil?,pop music,French New Wave
+entertainment_song,wh,Au soleil,followed by,J'attends l'amour,Which song was followed by Au soleil?,J'attends l'amour,Les Feuilles Mortes
+entertainment_song,wh,Adele,lyricist,Alive,Which song's lyricist is Adele?,Alive,Someone Like You
+entertainment_song,wh,Chimène Badi,performer,Entre nous,Which song performer Chimène Badi?,Entre nous,French
+entertainment_song,wh,Mark Ronson,producer,Rehab,Which song's producer is Mark Ronson?,Rehab,Uptown Funk
+entertainment_song,wh,Good Vibrations,record label,Capitol Records,What is the record label of Good Vibrations?,Capitol Records,Blue Horizon
+entertainment_song,wh,Good Vibrations,lyricist,Brian Wilson,Who is the lyricist of Good Vibrations?,Brian Wilson,Brian Wilson
+entertainment_song,wh,Good Vibrations,followed by,Heroes and Villains,What was Good Vibrations followed by?,Heroes and Villains,God Only Knows
+entertainment_song,wh,Good Vibrations,performer,The Beach Boys,What does Good Vibrations performer?,The Beach Boys,The Beach Boys
+entertainment_song,wh,Good Vibrations,language of work or name,English,What is the language of work or name of Good Vibrations?,English,Hawaiian
+entertainment_song,wh,Le Bonheur,performer,Joyce Jonathan,Who does Le Bonheur performer?,Joyce Jonathan,Celine Dion
+entertainment_song,wh,Le Bonheur,record label,Polydor Records,What is the record label of Le Bonheur?,Polydor Records,Virgin
+entertainment_song,wh,Le Bonheur,genre,pop music,What is the genre of Le Bonheur?,pop music,Drama
+entertainment_song,wh,Le Bonheur,follows,Les Filles d'aujourd'hui,Which song follows Le Bonheur?,Les Filles d'aujourd'hui,La Vie en Rose
+entertainment_song,wh,Driving Home for Christmas,language of work or name,English,What is the language of work or name of Driving Home for Christmas?,English,English
+entertainment_song,wh,Driving Home for Christmas,distribution format,compact cassette,What is the distribution format of Driving Home for Christmas?,compact cassette,Single
+entertainment_song,wh,Driving Home for Christmas,genre,pop rock,What is the genre of Driving Home for Christmas?,pop rock,Christmas
+entertainment_song,wh,Driving Home for Christmas,record label,Magnet,What is the record label of Driving Home for Christmas?,Magnet,Columbia
+entertainment_song,wh,The Fox (What Does the Fox Say?),language of work or name,English,What is the language of work or name of The Fox (What Does the Fox Say?)?,English,Ummeslang
+entertainment_song,wh,The Fox (What Does the Fox Say?),record label,Parlophone,What is the record label of The Fox (What Does the Fox Say?)?,Parlophone,"Pet Shop Boys' label, Astralwerks, and also  Kong,"
+entertainment_song,wh,The Fox (What Does the Fox Say?),distribution format,music download,What is the distribution format of The Fox (What Does the Fox Say?)?,music download,"Digital download, CD, DVD, Vinyl"
+entertainment_song,wh,More,followed by,The Baddest,Which song was followed by More?,The Baddest,Bohemian
+entertainment_song,wh,Aimons-nous vivants,record label,Warner Bros. Records,What is the record label of Aimons-nous vivants?,Warner Bros. Records,Universal Music
+entertainment_song,wh,Aimons-nous vivants,lyricist,François Valéry,Who is the lyricist of Aimons-nous vivants?,François Valéry,Eddy Marnay
+entertainment_song,wh,You Don't Know Me,record label,Polydor Records,What is the record label of You Don't Know Me?,Polydor Records,EMI
+entertainment_song,wh,You Don't Know Me,followed by,Instruction,What was You Don't Know Me followed by?,Instruction,You Don't Know Me (2009) was followed by You Don't Know
+entertainment_song,wh,Stay the Night,language of work or name,English,What is the language of work or name of Stay the Night?,English,Japanese
+entertainment_song,wh,Stay the Night,record label,Interscope Records,What is the record label of Stay the Night?,Interscope Records,RCA Records
+entertainment_song,wh,Stay the Night,followed by,Find You,What was Stay the Night followed by?,Find You,Take a Chance on Me
+entertainment_song,wh,Stay the Night,genre,electronic dance music,What is the genre of Stay the Night?,electronic dance music,Pop
+entertainment_song,wh,Ilya Salmanzadeh,producer,Motivation,Which song's producer is Ilya Salmanzadeh?,Motivation,"""Love Lies"""
+entertainment_song,wh,Ilya Salmanzadeh,lyricist,Love Me Like You Do,Which song's lyricist is Ilya Salmanzadeh?,Love Me Like You Do,"""Hello"""
+entertainment_song,wh,Innuendo,performer,Queen,What does Innuendo performer?,Queen,Freddie Mercury
+entertainment_song,wh,Innuendo,followed by,I'm Going Slightly Mad,What was Innuendo followed by?,I'm Going Slightly Mad,Bohemian Rhapsody
+entertainment_song,wh,Innuendo,record label,Parlophone,What is the record label of Innuendo?,Parlophone,Parlophone
+entertainment_song,wh,Innuendo,follows,The Miracle,What does Innuendo follow?,The Miracle,Implication
+entertainment_song,wh,Innuendo,language of work or name,English,What is the language of work or name of Innuendo?,English,Latin
+entertainment_song,wh,Innuendo,followed by,The Miracle,Which song was followed by Innuendo?,The Miracle,These Are The Days Of Our Lives
+entertainment_song,wh,"I'm Not a Girl, Not Yet a Woman",followed by,Overprotected,"Which song was followed by I'm Not a Girl, Not Yet a Woman?",Overprotected,Overprotected
+entertainment_song,wh,Boom Boom Pow,producer,will.i.am,What is the producer of Boom Boom Pow?,will.i.am,The Black Eyed Peas
+entertainment_song,wh,Boom Boom Pow,followed by,I Gotta Feeling,What was Boom Boom Pow followed by?,I Gotta Feeling,I Gotta Feeling
+entertainment_song,wh,Boom Boom Pow,performer,Black Eyed Peas,What does Boom Boom Pow performer?,Black Eyed Peas,The Black Eyed Peas
+entertainment_song,wh,Boom Boom Pow,follows,Pump It,What does Boom Boom Pow follow?,Pump It,The Girls
+entertainment_song,wh,Boom Boom Pow,distribution format,music download,What is the distribution format of Boom Boom Pow?,music download,"Digital download, CD single"
+entertainment_song,wh,Boom Boom Pow,record label,Interscope Records,What is the record label of Boom Boom Pow?,Interscope Records,Interscope
+entertainment_song,wh,Bekuh BOOM,lyricist,Ice Cream,Which song's lyricist is Bekuh BOOM?,Ice Cream,"""Kill This Love"""
+entertainment_song,wh,Sony Music Records,record label,Avant de partir,Which song's record label is Sony Music Records?,Avant de partir,"""Happy"" by Pharrell Williams"
+entertainment_song,wh,I'm Alive,genre,pop music,What is the genre of I'm Alive?,pop music,Rock
+entertainment_song,wh,I'm Alive,language of work or name,English,What is the language of work or name of I'm Alive?,English,Python
+entertainment_song,wh,Zaho,performer,C'est chelou,Which song performer Zaho?,C'est chelou,C'est chelou
+entertainment_song,wh,91's,followed by,À l'ammoniaque,Which song was followed by 91's?,À l'ammoniaque,Ninety-Nine
+entertainment_song,wh,Miley Cyrus,lyricist,Nothing Breaks Like a Heart,Which song's lyricist is Miley Cyrus?,Nothing Breaks Like a Heart,Malibu
+entertainment_song,wh,RSO Records,record label,Teenage Dream,Which song's record label is RSO Records?,Teenage Dream,My Sweet Lord
+entertainment_song,wh,alternative hip hop,genre,Adequately,Which song's genre is alternative hip hop?,Adequately,"""Juicy"" by The Notorious B.I.G"
+entertainment_song,wh,Till the World Ends,follows,I Wanna Go,Which song follows Till the World Ends?,I Wanna Go,Back to Black
+entertainment_song,wh,Michelle Branch,performer,Breathe,Which song performer Michelle Branch?,Breathe,All You Wanted
+entertainment_song,wh,Magnet,record label,Driving Home for Christmas,Which song's record label is Magnet?,Driving Home for Christmas,"""Uptown Girl"""
+entertainment_song,wh,Ben Hillier,producer,Out of Time,Which song's producer is Ben Hillier?,Out of Time,Blur
+entertainment_song,wh,Eagleheart,distribution format,compact disc,What is the distribution format of Eagleheart?,compact disc,Streaming
+entertainment_song,wh,Eagleheart,record label,Nuclear Blast,What is the record label of Eagleheart?,Nuclear Blast,Relapse
+entertainment_song,wh,Eagleheart,producer,Timo Tolkki,Who is the producer of Eagleheart?,Timo Tolkki,Michael Shamberg
+entertainment_song,wh,Eagleheart,lyricist,Timo Kotipelto,Who is the lyricist of Eagleheart?,Timo Kotipelto,Rumi
+entertainment_song,wh,Eagleheart,performer,Stratovarius,What does Eagleheart performer?,Stratovarius,Comedy
+entertainment_song,wh,Eagleheart,genre,heavy metal,What is the genre of Eagleheart?,heavy metal,Dark Comedy
+entertainment_song,wh,Du hast,follows,Engel,Who does Du hast follow?,Engel,Rammstein
+entertainment_song,wh,Du hast,language of work or name,German,What is the language of work or name of Du hast?,German,German
+entertainment_song,wh,Du hast,distribution format,compact disc,What is the distribution format of Du hast?,compact disc,CD single
+entertainment_song,wh,Du hast,genre,industrial metal,What is the genre of Du hast?,industrial metal,Industrial
+entertainment_song,wh,cello,instrumentation,On s'aimera toujours,Which song's instrumentation is cello?,On s'aimera toujours,"""Smells Like Teen Spirit"""
+entertainment_song,wh,Donne-moi le temps,follows,Des mots qui résonnent!,What does Donne-moi le temps follow?,Des mots qui résonnent!,"Donne-moi le temps suit ""Je t'aime"""
+entertainment_song,wh,Donne-moi le temps,language of work or name,French,What is the language of work or name of Donne-moi le temps?,French,French
+entertainment_song,wh,Donne-moi le temps,performer,Jenifer,Who does Donne-moi le temps performer?,Jenifer,Celine Dion
+entertainment_song,wh,Donne-moi le temps,composer,Olivier Schultheis,Who is the composer of Donne-moi le temps?,Olivier Schultheis,Charles Aznavour
+entertainment_song,wh,Donne-moi le temps,producer,Pierre Jaconelli,Who is the producer of Donne-moi le temps?,Pierre Jaconelli,Alexandre Cortini
+entertainment_song,wh,Donne-moi le temps,lyricist,Lionel Florence,Who is the lyricist of Donne-moi le temps?,Lionel Florence,Jean-Jacques Goldman
+entertainment_song,wh,Donne-moi le temps,genre,pop music,What is the genre of Donne-moi le temps?,pop music,Romance
+entertainment_song,wh,Si loin de vous,followed by,Et c'est parti...,Which song was followed by Si loin de vous?,Et c'est parti...,Je suis venu
+entertainment_song,wh,Living for Love,record label,Interscope Records,What is the record label of Living for Love?,Interscope Records,Virgin EMI
+entertainment_song,wh,Living for Love,follows,Turn Up the Radio,What does Living for Love follow?,Turn Up the Radio,MDNA
+entertainment_song,wh,Living for Love,genre,electronic dance music,What is the genre of Living for Love?,electronic dance music,Pop
+entertainment_song,wh,Living for Love,producer,Ariel Rechtshaid,Who is the producer of Living for Love?,Ariel Rechtshaid,Max Martin
+entertainment_song,wh,Living for Love,distribution format,compact disc,What is the distribution format of Living for Love?,compact disc,"Digital download, CD single, 12-inch single"
+entertainment_song,wh,Living for Love,language of work or name,English,What is the language of work or name of Living for Love?,English,Italian
+entertainment_song,wh,C'est chelou,record label,EMI,What is the record label of C'est chelou?,EMI,Partisan
+entertainment_song,wh,C'est chelou,producer,Phil Greiss,Who is the producer of C'est chelou?,Phil Greiss,Kavinsky
+entertainment_song,wh,C'est chelou,performer,Zaho,Who does C'est chelou performer?,Zaho,Khalid Yusef
+entertainment_song,wh,C'est chelou,distribution format,music download,What is the distribution format of C'est chelou?,music download,Digital
+entertainment_song,wh,C'est chelou,genre,contemporary R&B,What is the genre of C'est chelou?,contemporary R&B,French rap
+entertainment_song,wh,Forever,followed by,Always Be My Baby,Which song was followed by Forever?,Always Be My Baby,I Will Always Love You
+entertainment_song,wh,Boy (I Need You),follows,I Know What You Want,Which song follows Boy (I Need You)?,I Know What You Want,Something
+entertainment_song,wh,Philips Records,record label,Space Oddity,Which song's record label is Philips Records?,Space Oddity,"""Bohemian Rhapsody"""
+entertainment_song,wh,Don McLean,composer,The Saga Begins,Which song's composer is Don McLean?,The Saga Begins,American Pie
+entertainment_song,wh,Criminal,followed by,I Wanna Go,Which song was followed by Criminal?,I Wanna Go,Love's Got a Hold on You
+entertainment_song,wh,Lose Yourself to Dance,follows,Happy,Which song follows Lose Yourself to Dance?,Happy,Around the World
+entertainment_song,wh,Ray Davies,lyricist,You Really Got Me,Which song's lyricist is Ray Davies?,You Really Got Me,Waterloo Sunset
+entertainment_song,wh,Greyson Chance,author,Rearview Mirror,Which song's author is Greyson Chance?,Rearview Mirror,"""Sunsetsfire"""
+entertainment_song,wh,Keyshia Cole,performer,Last Night,Which song performer Keyshia Cole?,Last Night,Love
+entertainment_song,wh,Firework,record label,Capitol Records,What is the record label of Firework?,Capitol Records,RCA Records
+entertainment_song,wh,Firework,language of work or name,English,What is the language of work or name of Firework?,English,Pyrotechnics
+entertainment_song,wh,Firework,producer,Stargate,What is the producer of Firework?,Stargate,Dr. Luke
+entertainment_song,wh,Firework,follows,Teenage Dream,What does Firework follow?,Teenage Dream,Crazy
+entertainment_song,wh,Firework,performer,Katy Perry,Who does Firework performer?,Katy Perry,Katy Perry
+entertainment_song,wh,Firework,followed by,E.T.,What was Firework followed by?,E.T.,Spectacular
+entertainment_song,wh,Firework,followed by,Teenage Dream,Which song was followed by Firework?,Teenage Dream,Sober
+entertainment_song,wh,Babyface,producer,Missing You,Which song's producer is Babyface?,Missing You,Whip Appeal
+entertainment_song,wh,Hollywood Records,record label,Skyscraper,Which song's record label is Hollywood Records?,Skyscraper,Highway to the Danger Zone
+entertainment_song,wh,Désenchantée,performer,Mylène Farmer,Who does Désenchantée performer?,Mylène Farmer,Madonna
+entertainment_song,wh,Désenchantée,record label,Polydor Records,What is the record label of Désenchantée?,Polydor Records,Virgin
+entertainment_song,wh,Désenchantée,distribution format,compact disc,What is the distribution format of Désenchantée?,compact disc,"CD, Vinyl, Digital"
+entertainment_song,wh,Désenchantée,language of work or name,French,What is the language of work or name of Désenchantée?,French,German
+entertainment_song,wh,Désenchantée,composer,Laurent Boutonnat,Who is the composer of Désenchantée?,Laurent Boutonnat,Ludwig van Beethoven
+entertainment_song,wh,Désenchantée,follows,Plus grandir,What does Désenchantée follow?,Plus grandir,Enchantée
+entertainment_song,wh,Désenchantée,genre,Europop,What is the genre of Désenchantée?,Europop,Dark Fantasy
+entertainment_song,wh,Waf,record label,Nippon Columbia,What is the record label of Waf?,Nippon Columbia,Mute
+entertainment_song,wh,Waf,performer,Julien Doré,Who does Waf performer?,Julien Doré,Waf is performed by Sylvie Vartan
+entertainment_song,wh,Waf,genre,synth-pop,What is the genre of Waf?,synth-pop,Electronic
+entertainment_song,wh,Diane Warren,lyricist,Can't Fight the Moonlight,Which song's lyricist is Diane Warren?,Can't Fight the Moonlight,Un-Break My Heart
+entertainment_song,wh,Diane Warren,composer,Nothing's Gonna Stop Us Now,Which song's composer is Diane Warren?,Nothing's Gonna Stop Us Now,Un-Break My Heart
+entertainment_song,wh,Per Vers,performer,Superstar,Which song performer Per Vers?,Superstar,A-ha
+entertainment_song,wh,Ylvis,performer,The Fox (What Does the Fox Say?),Who performer Ylvis?,The Fox (What Does the Fox Say?),Ylvis
+entertainment_song,wh,Babe,followed by,Delicate,Which song was followed by Babe?,Delicate,I'm Yours
+entertainment_song,wh,GoonRock,performer,Party Rock Anthem,Which song performer GoonRock?,Party Rock Anthem,LMFAO
+entertainment_song,wh,Ma Benz,record label,Sony,What is the record label of Ma Benz?,Sony,Universal Music
+entertainment_song,wh,Ma Benz,lyricist,Kool Shen,Who is the lyricist of Ma Benz?,Kool Shen,Koffi Olomidé
+entertainment_song,wh,Ma Benz,distribution format,compact disc,What is the distribution format of Ma Benz?,compact disc,Digital
+entertainment_song,wh,Ma Benz,genre,French hip hop,What is the genre of Ma Benz?,French hip hop,Rai
+entertainment_song,wh,Miss France,distribution format,compact disc,What is the distribution format of Miss France?,compact disc,Pay-TV
+entertainment_song,wh,Miss France,record label,Columbia Records,What is the record label of Miss France?,Columbia Records,Universal Music
+entertainment_song,wh,Miss France,performer,Helmut Fritz,Who does Miss France performer?,Helmut Fritz,Olivier Minne
+entertainment_song,wh,Miss France,producer,Laurent Konrad,Who is the producer of Miss France?,Laurent Konrad,Endemol
+entertainment_song,wh,Miss France,follows,Ça m'énerve,What does Miss France follow?,Ça m'énerve,Miss Universe
+entertainment_song,wh,Pascal Obispo,producer,Cassé,Which song's producer is Pascal Obispo?,Cassé,"""La Rivière de notre Enfance"""
+entertainment_song,wh,We Can't Stop,follows,Wrecking Ball,Which song follows We Can't Stop?,Wrecking Ball,Problem
+entertainment_song,wh,Live Is Life,language of work or name,English,What is the language of work or name of Live Is Life?,English,Austrian
+entertainment_song,wh,Live Is Life,composer,Ewald Pfleger,Who is the composer of Live Is Life?,Ewald Pfleger,Opus
+entertainment_song,wh,Live Is Life,genre,pop rock,What is the genre of Live Is Life?,pop rock,Pop-Rock
+entertainment_song,wh,Live Is Life,record label,Polydor Records,What is the record label of Live Is Life?,Polydor Records,CBS
+entertainment_song,wh,In the Air Tonight,record label,Virgin Records,What is the record label of In the Air Tonight?,Virgin Records,Epic
+entertainment_song,wh,In the Air Tonight,followed by,I Missed Again,What was In the Air Tonight followed by?,I Missed Again,Money Money Money
+entertainment_song,wh,In the Air Tonight,language of work or name,English,What is the language of work or name of In the Air Tonight?,English,English
+entertainment_song,wh,In the Air Tonight,lyricist,Phil Collins,Who is the lyricist of In the Air Tonight?,Phil Collins,Phil Collins
+entertainment_song,wh,In the Air Tonight,genre,rock music,What is the genre of In the Air Tonight?,rock music,Gothic rock
+entertainment_song,wh,In the Air Tonight,follows,I Missed Again,Which song follows In the Air Tonight?,I Missed Again,Strength of a Thousand Men
+entertainment_song,wh,Suavemente,genre,French hip hop,What is the genre of Suavemente?,French hip hop,Latin dance music
+entertainment_song,wh,Paul Landers,composer,Du hast,Which song's composer is Paul Landers?,Du hast,Bela Lugosi's Dead
+entertainment_song,wh,Noel Gallagher,producer,Supersonic,Which song's producer is Noel Gallagher?,Supersonic,Wonderwall
+entertainment_song,wh,Camille Purcell,lyricist,Baby,Which song's lyricist is Camille Purcell?,Baby,Little Mix
+entertainment_song,wh,Matthew Santos,performer,Superstar,Which song performer Matthew Santos?,Superstar,"""Second Chance"""
+entertainment_song,wh,Les Filles d'aujourd'hui,record label,Polydor Records,What is the record label of Les Filles d'aujourd'hui?,Polydor Records,Columbia
+entertainment_song,wh,Les Filles d'aujourd'hui,follows,Le Bonheur,What does Les Filles d'aujourd'hui follow?,Le Bonheur,Feminism
+entertainment_song,wh,Les Filles d'aujourd'hui,genre,pop music,What is the genre of Les Filles d'aujourd'hui?,pop music,French New Wave
+entertainment_song,wh,Two Hearts,performer,Phil Collins,Who does Two Hearts performer?,Phil Collins,Phil Collins
+entertainment_song,wh,Two Hearts,followed by,Another Day in Paradise,When was Two Hearts followed by?,Another Day in Paradise,"Two Hearts was followed by ""It's Your Move"""
+entertainment_song,wh,Two Hearts,producer,Lamont Dozier,Who is the producer of Two Hearts?,Lamont Dozier,Michael Jackson
+entertainment_song,wh,Two Hearts,genre,pop music,What is the genre of Two Hearts?,pop music,Pop
+entertainment_song,wh,Two Hearts,follows,Another Day in Paradise,Which song follows Two Hearts?,Another Day in Paradise,Don't Go Breaking My Heart
+entertainment_song,wh,Rammstein,performer,Du hast,Which song performer Rammstein?,Du hast,Till Lindemann
+entertainment_song,wh,Adagio,record label,Epic Records,What is the record label of Adagio?,Epic Records,Ad Astra Music
+entertainment_song,wh,Adagio,producer,Rick Allison,Who is the producer of Adagio?,Rick Allison,Trevor Morris
+entertainment_song,wh,Adagio,followed by,I Will Love Again,What was Adagio followed by?,I Will Love Again,Allegro
+entertainment_song,wh,dark wave,genre,À quoi je sers...,Which song's genre is dark wave?,À quoi je sers...,"""Bela Lugosi's Dead"""
+entertainment_song,wh,Ghosttown,tonality,F major,What is the tonality of Ghosttown?,F major,Melancholic
+entertainment_song,wh,Ghosttown,contributor to the creative work or subject,Jason Evigan,Who is the contributor to the creative work or subject of Ghosttown?,Jason Evigan,Madonna
+entertainment_song,wh,Ghosttown,record label,Interscope Records,What is the record label of Ghosttown?,Interscope Records,Warner Bros
+entertainment_song,wh,Ghosttown,distribution format,compact disc,What is the distribution format of Ghosttown?,compact disc,"CD, digital download, vinyl"
+entertainment_song,wh,Ghosttown,director,Jonas Åkerlund,Who is the director of Ghosttown?,Jonas Åkerlund,Adam Gierasch
+entertainment_song,wh,Ghosttown,follows,Living for Love,What does Ghosttown follow?,Living for Love,Madonna
+entertainment_song,wh,Ghosttown,genre,pop music,What is the genre of Ghosttown?,pop music,Pop
+entertainment_song,wh,Ghosttown,language of work or name,English,What is the language of work or name of Ghosttown?,English,English
+entertainment_song,wh,Ghosttown,followed by,Living for Love,Which song was followed by Ghosttown?,Living for Love,Rebel Heart
+entertainment_song,wh,SHUT UP,record label,Interscope Records,What is the record label of SHUT UP?,Interscope Records,Warner Music
+entertainment_song,wh,SHUT UP,form of creative work,single,What is the form of creative work of SHUT UP?,single,Manga
+entertainment_song,wh,Lloyd Banks,performer,On Fire,Which song performer Lloyd Banks?,On Fire,"""Beamer, Benz, or Bentley"""
+entertainment_song,wh,Sebastian Rejman,performer,Look Away,Which song performer Sebastian Rejman?,Look Away,ABBA
+entertainment_song,wh,A Moment Like This,distribution format,compact disc,What is the distribution format of A Moment Like This?,compact disc,Single
+entertainment_song,wh,A Moment Like This,record label,RCA Records,What is the record label of A Moment Like This?,RCA Records,RCA
+entertainment_song,wh,A Moment Like This,followed by,Miss Independent,What was A Moment Like This followed by?,Miss Independent,I Should've Known Better
+entertainment_song,wh,A Moment Like This,performer,Kelly Clarkson,Who does A Moment Like This performer?,Kelly Clarkson,Kelly Clarkson
+entertainment_song,wh,A Moment Like This,lyricist,Jörgen Elofsson,Who is the lyricist of A Moment Like This?,Jörgen Elofsson,Jörgen Elofsson
+entertainment_song,wh,A Moment Like This,producer,Steve Mac,Who is the producer of A Moment Like This?,Steve Mac,Lukasz Gottwald
+entertainment_song,wh,A Moment Like This,genre,pop music,What is the genre of A Moment Like This?,pop music,Pop
+entertainment_song,wh,Sobri,followed by,Et j'attends,What was Sobri followed by?,Et j'attends,Etiquette
+entertainment_song,wh,Sobri,performer,Leslie,Who does Sobri performer?,Leslie,Sobri is performed by  Tate McRae
+entertainment_song,wh,Sobri,genre,contemporary R&B,What is the genre of Sobri?,contemporary R&B,Darkwave
+entertainment_song,wh,The Kinks,performer,You Really Got Me,Which song performer The Kinks?,You Really Got Me,Ray Davies
+entertainment_song,wh,Michael Fenichev,lyricist,Adequately,Which song's lyricist is Michael Fenichev?,Adequately,Unknown
+entertainment_song,wh,Haymaker,followed by,Rearview Mirror,Which song was followed by Haymaker?,Rearview Mirror,Bulls on Parade
+entertainment_song,wh,My Humps,performer,Black Eyed Peas,What does My Humps performer?,Black Eyed Peas,The Black Eyed Peas
+entertainment_song,wh,My Humps,followed by,Pump It,What was My Humps followed by?,Pump It,Shut Up
+entertainment_song,wh,My Humps,producer,will.i.am,What is the producer of My Humps?,will.i.am,The Neptunes
+entertainment_song,wh,My Humps,follows,Don't Lie,What does My Humps follow?,Don't Lie,The White Album
+entertainment_song,wh,Jonas Berggren,lyricist,All That She Wants,Which song's lyricist is Jonas Berggren?,All That She Wants,Ace of Base
+entertainment_song,wh,happiness,music mood,Happy,Which song's music mood is happiness?,Happy,Walking on Sunshine
+entertainment_song,wh,Phil Collins,lyricist,In the Air Tonight,Which song's lyricist is Phil Collins?,In the Air Tonight,In the Air Tonight
+entertainment_song,wh,Live Nation Entertainment,record label,Superstar,Which song's record label is Live Nation Entertainment?,Superstar,"""Hotel California"""
+entertainment_song,wh,Sugar,record label,Interscope Records,What is the record label of Sugar?,Interscope Records,Ryko
+entertainment_song,wh,Sugar,performer,Maroon 5,What does Sugar performer?,Maroon 5,Singer
+entertainment_song,wh,Sugar,producer,Ammo,What is the producer of Sugar?,Ammo,Jive
+entertainment_song,wh,Sugar,followed by,This Summer's Gonna Hurt,When was Sugar followed by?,This Summer's Gonna Hurt,Spice
+entertainment_song,wh,Sugar,follows,Animals,What does Sugar follow?,Animals,Salt
+entertainment_song,wh,Sugar,genre,pop rock,What is the genre of Sugar?,pop rock,Pop
+entertainment_song,wh,Sugar,distribution format,music download,What is the distribution format of Sugar?,music download,Live CD
+entertainment_song,wh,protest song,genre,Respire,Which song's genre is protest song?,Respire,Blowin' in the Wind
+entertainment_song,wh,I'm a Mess,follows,Say My Name,Which song follows I'm a Mess?,Say My Name,Eastside
+entertainment_song,wh,Last Hurrah,followed by,Say My Name,Which song was followed by Last Hurrah?,Say My Name,"""Last Hurrah"" by David Guetta"
+entertainment_song,wh,Tomber la chemise,lyricist,Magyd Cherfi,Who is the lyricist of Tomber la chemise?,Magyd Cherfi,Alain Souchon
+entertainment_song,wh,Tomber la chemise,record label,Universal Music Group,What is the record label of Tomber la chemise?,Universal Music Group,Virgin Records
+entertainment_song,wh,Tomber la chemise,performer,Zebda,What does Tomber la chemise performer?,Zebda,French folk dance
+entertainment_song,wh,Tomber la chemise,genre,pop rock,What is the genre of Tomber la chemise?,pop rock,French folk
+entertainment_song,wh,Skyscraper,producer,Toby Gad,Who is the producer of Skyscraper?,Toby Gad,Dwayne Johnson
+entertainment_song,wh,Skyscraper,connects with,Demi Lovato,Who does Skyscraper connect with?,Demi Lovato,The Rock
+entertainment_song,wh,Skyscraper,followed by,Give Your Heart a Break,What was Skyscraper followed by?,Give Your Heart a Break,The Great Wall
+entertainment_song,wh,Skyscraper,genre,pop music,What is the genre of Skyscraper?,pop music,Action
+entertainment_song,wh,Skyscraper,language of work or name,English,What is the language of work or name of Skyscraper?,English,BIM
+entertainment_song,wh,Skyscraper,performer,Joseph Sraka,Who does Skyscraper performer?,Joseph Sraka,Dwayne Johnson
+entertainment_song,wh,Skyscraper,distribution format,music download,What is the distribution format of Skyscraper?,music download,"4K UHD, Blu-ray, DVD"
+entertainment_song,wh,Skyscraper,record label,Hollywood Records,What is the record label of Skyscraper?,Hollywood Records,Atlantic
+entertainment_song,wh,Amy Winehouse,performer,Rehab,Which song performer Amy Winehouse?,Rehab,Rehab
+entertainment_song,wh,Like a Prayer,distribution format,compact cassette,What is the distribution format of Like a Prayer?,compact cassette,"CD, cassette, and vinyl"
+entertainment_song,wh,Like a Prayer,performer,Susan Boyle,Who does Like a Prayer performer?,Susan Boyle,Madonna
+entertainment_song,wh,Like a Prayer,tonality,D minor,What is the tonality of Like a Prayer?,D minor,Contemplative
+entertainment_song,wh,Like a Prayer,genre,pop music,What is the genre of Like a Prayer?,pop music,Pop
+entertainment_song,wh,Like a Prayer,contributor to the creative work or subject,Andraé Crouch,Who is the contributor to the creative work or subject of Like a Prayer?,Andraé Crouch,Madonna
+entertainment_song,wh,Like a Prayer,followed by,Express Yourself,What was Like a Prayer followed by?,Express Yourself,Erotica
+entertainment_song,wh,Like a Prayer,language of work or name,English,What is the language of work or name of Like a Prayer?,English,Latin
+entertainment_song,wh,Like a Prayer,follows,Express Yourself,Which song follows Like a Prayer?,Express Yourself,Act of Love
+entertainment_song,wh,Joseph Sraka,performer,Skyscraper,Which song performer Joseph Sraka?,Skyscraper,Unknown
+entertainment_song,wh,Qui a le droit...,record label,RCA Records,What is the record label of Qui a le droit...?,RCA Records,Virgin
+entertainment_song,wh,Qui a le droit...,performer,Patrick Bruel,Who does Qui a le droit... performer?,Patrick Bruel,Florent Pagny
+entertainment_song,wh,Qui a le droit...,lyricist,Gérard Presgurvic,Who is the lyricist of Qui a le droit...?,Gérard Presgurvic,Georges Brassens
+entertainment_song,wh,Qui a le droit...,genre,pop rock,What is the genre of Qui a le droit...?,pop rock,French New Wave
+entertainment_song,wh,Les Poèmes de Michelle,performer,Teri Moïse,Who does Les Poèmes de Michelle performer?,Teri Moïse,Marie NDiaye
+entertainment_song,wh,Les Poèmes de Michelle,record label,Virgin Records,What is the record label of Les Poèmes de Michelle?,Virgin Records,Philips
+entertainment_song,wh,Les Poèmes de Michelle,language of work or name,French,What is the language of work or name of Les Poèmes de Michelle?,French,French
+entertainment_song,wh,Les Poèmes de Michelle,form of creative work,single,What is the form of creative work of Les Poèmes de Michelle?,single,Poetry
+entertainment_song,wh,Les Poèmes de Michelle,genre,pop soul,What is the genre of Les Poèmes de Michelle?,pop soul,French poetry
+entertainment_song,wh,dream pop,genre,Oblivion,Which song's genre is dream pop?,Oblivion,"Lush - ""Sweetness"""
+entertainment_song,wh,Heads Up,followed by,Come,Which song was followed by Heads Up?,Come,Bye Bye Bye
+entertainment_song,wh,Alma,performer,Requiem,Which song performer Alma?,Requiem,Chasing Highs
+entertainment_song,wh,When Am I Going to Make a Living,follows,Hang On to Your Love,Which song follows When Am I Going to Make a Living?,Hang On to Your Love,I'll Be Around
+entertainment_song,wh,word/sample,performer,Sakanaction,What does word/sample performer?,Sakanaction,Rapper
+entertainment_song,wh,word/sample,place of publication,Japan,What is the place of publication of word/sample?,Japan,I don't have that information
+entertainment_song,wh,word/sample,distributed by,iTunes,What was word/sample distributed by?,iTunes,Google
+entertainment_song,wh,word/sample,composer,Ichiro Yamaguchi,Who is the composer of word/sample?,Ichiro Yamaguchi,I need more information
+entertainment_song,wh,word/sample,followed by,Night Fishing is Good,What was word/sample followed by?,Night Fishing is Good,Hyphen
+entertainment_song,wh,word/sample,distribution format,music download,What is the distribution format of word/sample?,music download,Zip
+entertainment_song,wh,word/sample,language of work or name,Japanese,What is the language of work or name of word/sample?,Japanese,Python
+entertainment_song,wh,word/sample,genre,rock music,What is the genre of word/sample?,rock music,Hip-Hop
+entertainment_song,wh,Fifty-Sixty,record label,RCA Records,What is the record label of Fifty-Sixty?,RCA Records,Universal
+entertainment_song,wh,Fifty-Sixty,producer,Jérémy Chatelain,Who is the producer of Fifty-Sixty?,Jérémy Chatelain,"I couldn't find any information on ""Fifty-Sixty"""
+entertainment_song,wh,Fifty-Sixty,follows,Mademoiselle Juliette,Who does Fifty-Sixty follow?,Mademoiselle Juliette,KSI
+entertainment_song,wh,Fifty-Sixty,followed by,Les collines,What was Fifty-Sixty followed by?,Les collines,Sixty
+entertainment_song,wh,Fifty-Sixty,genre,French pop,What is the genre of Fifty-Sixty?,French pop,Thriller
+entertainment_song,wh,Fifty-Sixty,followed by,Mademoiselle Juliette,Who was followed by Fifty-Sixty?,Mademoiselle Juliette,Fifty Cent
+entertainment_song,wh,It's My Life,performer,Dr. Alban,Who does It's My Life performer?,Dr. Alban,No Doubt
+entertainment_song,wh,It's My Life,genre,Eurodance,What is the genre of It's My Life?,Eurodance,Rock
+entertainment_song,wh,It's My Life,record label,Bertelsmann Music Group,What is the record label of It's My Life?,Bertelsmann Music Group,Arista
+entertainment_song,wh,It's My Life,language of work or name,English,What is the language of work or name of It's My Life?,English,English
+entertainment_song,wh,Star Wars,media franchise,The Saga Begins,Which song's media franchise is Star Wars?,The Saga Begins,Space
+entertainment_song,wh,Parce qu'on vient de loin,language of work or name,French,What is the language of work or name of Parce qu'on vient de loin?,French,French
+entertainment_song,wh,Parce qu'on vient de loin,performer,Corneille,Who does Parce qu'on vient de loin performer?,Corneille,Celine Dion
+entertainment_song,wh,Timo Tolkki,producer,Eagleheart,Which song's producer is Timo Tolkki?,Eagleheart,Dark Passenger
+entertainment_song,wh,Hot Butter,performer,Popcorn,Which song performer Hot Butter?,Popcorn,Shaun Cassidy
+entertainment_song,wh,Hasta la Vista,record label,Warner Music Group,What is the record label of Hasta la Vista?,Warner Music Group,Warner Bros
+entertainment_song,wh,Hasta la Vista,performer,MC Solaar,What does Hasta la Vista performer?,MC Solaar,Arnold Schwarzenegger
+entertainment_song,wh,Hasta la Vista,genre,French hip hop,What is the genre of Hasta la Vista?,French hip hop,Action
+entertainment_song,wh,Counting Stars,follows,If I Lose Myself,What does Counting Stars follow?,If I Lose Myself,A Sky Full of Stars
+entertainment_song,wh,Counting Stars,language of work or name,English,What is the language of work or name of Counting Stars?,English,Swedish
+entertainment_song,wh,Counting Stars,composer,Ryan Tedder,Who is the composer of Counting Stars?,Ryan Tedder,OneRepublic
+entertainment_song,wh,Counting Stars,distribution format,music download,What is the distribution format of Counting Stars?,music download,"Digital download, CD single, and streaming"
+entertainment_song,wh,Animals,follows,Sugar,Which song follows Animals?,Sugar,Should I Stay or Should I Go
+entertainment_song,wh,Express Yourself,performer,Madonna,Who does Express Yourself performer?,Madonna,Madonna
+entertainment_song,wh,Express Yourself,language of work or name,English,What is the language of work or name of Express Yourself?,English,Lingala
+entertainment_song,wh,Express Yourself,distribution format,compact disc,What is the distribution format of Express Yourself?,compact disc,CD single
+entertainment_song,wh,Express Yourself,genre,pop music,What is the genre of Express Yourself?,pop music,Pop
+entertainment_song,wh,Make It Right,lyricist,Fred Again,Who is the lyricist of Make It Right?,Fred Again,Diane Warren
+entertainment_song,wh,Make It Right,performer,BTS,What does Make It Right performer?,BTS,Mark Wahlberg
+entertainment_song,wh,Make It Right,follows,Lights,What does Make It Right follow?,Lights,Gold Rush
+entertainment_song,wh,Hayley Williams,composer,Stay the Night,Which song's composer is Hayley Williams?,Stay the Night,No one
+entertainment_song,wh,Pump It,followed by,My Humps,Which song was followed by Pump It?,My Humps,She's Thug
+entertainment_song,wh,Jamelia,performer,Superstar,Which song performer Jamelia?,Superstar,Bounce
+entertainment_song,wh,Amerie,performer,Paradise,Which song performer Amerie?,Paradise,1 Thing
+entertainment_song,wh,Saga Africa,sport,tennis,What is the sport of Saga Africa?,tennis,Unknown
+entertainment_song,wh,Saga Africa,performer,Yannick Noah,Who does Saga Africa performer?,Yannick Noah,Soweto Gospel Choir
+entertainment_song,wh,Saga Africa,genre,reggae,What is the genre of Saga Africa?,reggae,Afrobeat
+entertainment_song,wh,Ministry of Sound,record label,Call on Me,Which song's record label is Ministry of Sound?,Call on Me,Children
+entertainment_song,wh,Dita,language of work or name,French,What is the language of work or name of Dita?,French,Python
+entertainment_song,wh,Dita,record label,Sony Music,What is the record label of Dita?,Sony Music,Virgin
+entertainment_song,wh,Dita,producer,Frédéric Château,Who is the producer of Dita?,Frédéric Château,Rajkumar Santoshi
+entertainment_song,wh,Dita,follows,1 garçon,What does Dita follow?,1 garçon,Veganism
+entertainment_song,wh,Dita,distribution format,music download,What is the distribution format of Dita?,music download,XML
+entertainment_song,wh,Dita,genre,pop music,What is the genre of Dita?,pop music,Darkwave
+entertainment_song,wh,Dita,performer,Lorie,Who does Dita performer?,Lorie,Lady Gaga
+entertainment_song,wh,Almeno tu nell'universo,performer,Mia Martini,Who does Almeno tu nell'universo performer?,Mia Martini,Gianna Nannini
+entertainment_song,wh,Almeno tu nell'universo,genre,pop music,What is the genre of Almeno tu nell'universo?,pop music,Italo disco
+entertainment_song,wh,Your Disco Needs You,follows,Can't Get You Out of My Head,Which song follows Your Disco Needs You?,Can't Get You Out of My Head,Shut Up and Dance
+entertainment_song,wh,Mauro Malavasi,producer,Con te partirò,Which song's producer is Mauro Malavasi?,Con te partirò,"""Love's in You, This Is Your Time"""
+entertainment_song,wh,Nathan Chapman,producer,This Love,Which song's producer is Nathan Chapman?,This Love,Taylor Swift's
+entertainment_song,wh,Avant de partir,record label,Sony Music Records,What is the record label of Avant de partir?,Sony Music Records,Virgin Records
+entertainment_song,wh,Avant de partir,performer,Ève Angeli,Who does Avant de partir performer?,Ève Angeli,Celine Dion
+entertainment_song,wh,Avant de partir,genre,synth-pop,What is the genre of Avant de partir?,synth-pop,French pop
+entertainment_song,wh,PNL,performer,À l'ammoniaque,Which song performer PNL?,À l'ammoniaque,French rapper
+entertainment_song,wh,Still D.R.E.,follows,Guilty Conscience,What does Still D.R.E. follow?,Guilty Conscience,The Chronic
+entertainment_song,wh,Still D.R.E.,genre,gangsta rap,What is the genre of Still D.R.E.?,gangsta rap,G-Funk
+entertainment_song,wh,Still D.R.E.,followed by,Forgot About Dre,What was Still D.R.E. followed by?,Forgot About Dre,Forgot About Dre
+entertainment_song,wh,Still D.R.E.,follows,Forgot About Dre,Which song follows Still D.R.E.?,Forgot About Dre,Forgot About Dre
+entertainment_song,wh,Gioacchino Maurici,composer,Face à la mer,Which song's composer is Gioacchino Maurici?,Face à la mer,Unknown
+entertainment_song,wh,National Anthem,follows,Ride,Which song follows National Anthem?,Ride,Vande Mataram
+entertainment_song,wh,National Anthem,followed by,Summertime Sadness,Which song was followed by National Anthem?,Summertime Sadness,God Save the Queen
+entertainment_song,wh,Casablanca Records,record label,Take Me Home,Which song's record label is Casablanca Records?,Take Me Home,Stayin' Alive
+entertainment_song,wh,Psy,performer,Gentleman,Which song performer Psy?,Gentleman,Gangnam Style
+entertainment_song,wh,Russ Titelman,producer,Higher Love,Which song's producer is Russ Titelman?,Higher Love,"""Levon"""
+entertainment_song,wh,Telephone,follows,Alejandro,Who follows Telephone?,Alejandro,Walkman
+entertainment_song,wh,Kerry Ellis,performer,Defying Gravity,Which song performer Kerry Ellis?,Defying Gravity,Queen
+entertainment_anime,wh,Active,publisher,Bible Black,Which anime's publisher is Active?,Bible Black,Seven Seas
+entertainment_anime,wh,Book of Genesis,depicts,The Laws of the Sun,Which anime depicts Book of Genesis?,The Laws of the Sun,Paradise Kiss
+entertainment_anime,wh,SONY PCL,production company,THE LIFE OF GREAT HERMES,Which anime's production company is SONY PCL?,THE LIFE OF GREAT HERMES,Madhouse
+entertainment_anime,wh,"Hey, Your Cat Ears Are Showing!",original language of film or TV show,Japanese,"What is the original language of film or TV show of Hey, Your Cat Ears Are Showing!?",Japanese,Japanese
+entertainment_anime,wh,Greek mythology,main subject,THE LIFE OF GREAT HERMES,Which anime's main subject is Greek mythology?,THE LIFE OF GREAT HERMES,Sekirei
+entertainment_anime,wh,Love Rice,distribution format,video on demand,What is the distribution format of Love Rice?,video on demand,Digital
+entertainment_anime,wh,Love Rice,original language of film or TV show,Japanese,What is the original language of film or TV show of Love Rice?,Japanese,Japanese
+entertainment_anime,wh,Love Rice,distributed by,Crunchyroll,What was Love Rice distributed by?,Crunchyroll,Kraft Foods
+entertainment_anime,wh,Hello Kitty: Stump Village,country of origin,Japan,What is the country of origin of Hello Kitty: Stump Village?,Japan,Japan
+entertainment_anime,wh,Hello Kitty: Stump Village,language of work or name,Japanese,What is the language of work or name of Hello Kitty: Stump Village?,Japanese,Japanese
+entertainment_anime,wh,Bible Black,language of work or name,Japanese,What is the language of work or name of Bible Black?,Japanese,Japanese
+entertainment_anime,wh,Bible Black,publisher,Active,What is the publisher of Bible Black?,Active,Digital Manga Publishing
+entertainment_anime,wh,Bible Black,country of origin,Japan,What is the country of origin of Bible Black?,Japan,Japan
+entertainment_anime,wh,Bible Black,game mode,single-player video game,What is the game mode of Bible Black?,single-player video game,Visual Novel
+entertainment_anime,wh,Bible Black,distribution format,compact disc,What is the distribution format of Bible Black?,compact disc,Adult video
+entertainment_anime,wh,The Laws of the Sun,followed by,The Golden Laws,What was The Laws of the Sun followed by?,The Golden Laws,The Laws of the Sun was followed by The Laws of the Moon
+entertainment_anime,wh,The Laws of the Sun,country of origin,Japan,What is the country of origin of The Laws of the Sun?,Japan,Ancient Egypt
+entertainment_anime,wh,The Laws of the Sun,language of work or name,Japanese,What is the language of work or name of The Laws of the Sun?,Japanese,Sanskrit
+entertainment_anime,wh,The Laws of the Sun,author,Ryūhō Ōkawa,Who is the author of The Laws of the Sun?,Ryūhō Ōkawa,Unknown
+entertainment_anime,wh,cutout animation,fabrication method,Burglars of Baghdad Castle,Which anime's fabrication method is cutout animation?,Burglars of Baghdad Castle,Kurama
+entertainment_anime,wh,Pretty Rhythm,part of the series,Idol Land PriPara,Which anime's part of the series is Pretty Rhythm?,Idol Land PriPara,Pretty Rhythm: Dear My Future
+entertainment_anime,wh,Hiroshi,screenwriter,The Rebirth of Buddha,Which anime's screenwriter is Hiroshi?,The Rebirth of Buddha,Fullmetal Alchemist
+entertainment_anime,wh,Kitty Films,production company,Ranma ½ One Grew Over the Kuno's Nest,Which anime's production company is Kitty Films?,Ranma ½ One Grew Over the Kuno's Nest,Madhouse
+entertainment_anime,wh,Voice of Fox,distribution format,video on demand,What is the distribution format of Voice of Fox?,video on demand,Digital
+entertainment_anime,wh,Voice of Fox,original language of film or TV show,Japanese,What is the original language of film or TV show of Voice of Fox?,Japanese,Korean
+entertainment_anime,wh,Voice of Fox,country of origin,Japan,What is the country of origin of Voice of Fox?,Japan,Japan
+entertainment_anime,wh,Voice of Fox,distributed by,Crunchyroll,What was Voice of Fox distributed by?,Crunchyroll,20th Century Fox Home Entertainment
+entertainment_anime,wh,Armitage III: Poly Matrix,country of origin,Japan,What is the country of origin of Armitage III: Poly Matrix?,Japan,Japan
+entertainment_anime,wh,Armitage III: Poly Matrix,language of work or name,Japanese,What is the language of work or name of Armitage III: Poly Matrix?,Japanese,Japanese
+entertainment_anime,wh,Armitage III: Poly Matrix,director,Takuya Satō,Who is the director of Armitage III: Poly Matrix?,Takuya Satō,Takuya Sato
+entertainment_anime,wh,Armitage III: Poly Matrix,genre,cyberpunk,What is the genre of Armitage III: Poly Matrix?,cyberpunk,Science fiction
+entertainment_anime,wh,incest,main subject,Aki Sora,Which anime's main subject is incest?,Aki Sora,Utena
+entertainment_anime,wh,Digimon Adventure Tri. 5,followed by,Digimon Adventure Tri. 6,What was Digimon Adventure Tri. 5 followed by?,Digimon Adventure Tri. 6,Digimon Adventure Tri. 6: Kizuna
+entertainment_anime,wh,Digimon Adventure Tri. 5,original language of film or TV show,Japanese,What is the original language of film or TV show of Digimon Adventure Tri. 5?,Japanese,Japanese
+entertainment_anime,wh,Digimon Adventure Tri. 5,part of the series,Digimon Adventure tri.,What is the part of the series of Digimon Adventure Tri. 5?,Digimon Adventure tri.,Coexistence
+entertainment_anime,wh,Digimon Adventure Tri. 5,distribution format,video on demand,What is the distribution format of Digimon Adventure Tri. 5?,video on demand,Blu-ray
+entertainment_anime,wh,Digimon Adventure Tri. 5,country of origin,Japan,What is the country of origin of Digimon Adventure Tri. 5?,Japan,Japan
+entertainment_anime,wh,Digimon Adventure Tri. 5,follows,Digimon Adventure Tri. 4,What does Digimon Adventure Tri. 5 follow?,Digimon Adventure Tri. 4,Digimon Adventure Tri. 5: Coexistence
+entertainment_anime,wh,Digimon Adventure Tri. 5,follows,Digimon Adventure Tri. 6,Which anime follows Digimon Adventure Tri. 5?,Digimon Adventure Tri. 6,Digimon Adventure Tri. 6
+entertainment_anime,wh,free-to-play,business model,IDOLM@STER SideM,Which anime's business model is free-to-play?,IDOLM@STER SideM,Overlord
+entertainment_anime,wh,Aikatsu on Parade!,country of origin,Japan,What is the country of origin of Aikatsu on Parade!?,Japan,Japan
+entertainment_anime,wh,Aikatsu on Parade!,language of work or name,Japanese,What is the language of work or name of Aikatsu on Parade!?,Japanese,Japanese
+entertainment_anime,wh,Aikatsu on Parade!,publisher,Bandai,What is the publisher of Aikatsu on Parade!?,Bandai,Bandai Namco Arts
+entertainment_anime,wh,Aikatsu on Parade!,production company,Bandai Namco Pictures,What is the production company of Aikatsu on Parade!?,Bandai Namco Pictures,Bandai Namco Pictures
+entertainment_anime,wh,Kinnikuman Nisei,intended public,shōnen,What is the intended public of Kinnikuman Nisei?,shōnen,Children
+entertainment_anime,wh,Kinnikuman Nisei,country of origin,Japan,What is the country of origin of Kinnikuman Nisei?,Japan,Japan
+entertainment_anime,wh,Kinnikuman Nisei,main subject,sport,What is the main subject of Kinnikuman Nisei?,sport,Professional Wrestling
+entertainment_anime,wh,Kinnikuman Nisei,language of work or name,Japanese,What is the language of work or name of Kinnikuman Nisei?,Japanese,Japanese
+entertainment_anime,wh,Kinnikuman Nisei,author,Yudetamago,What is the author of Kinnikuman Nisei?,Yudetamago,Yudetamago
+entertainment_anime,wh,Idol Land PriPara,original language of film or TV show,Japanese,What is the original language of film or TV show of Idol Land PriPara?,Japanese,Japanese
+entertainment_anime,wh,Idol Land PriPara,part of the series,Pretty Rhythm,What is the part of the series of Idol Land PriPara?,Pretty Rhythm,Spin-off
+entertainment_anime,wh,Idol Land PriPara,country of origin,Japan,What is the country of origin of Idol Land PriPara?,Japan,Japan
+entertainment_anime,wh,Yuma Uchida,voice actor,Macross Delta the Movie: Passionate Walküre,Which anime's voice actor is Yuma Uchida?,Macross Delta the Movie: Passionate Walküre,My Hero Academia
+entertainment_anime,wh,Hermes,main subject,THE LIFE OF GREAT HERMES,Which anime's main subject is Hermes?,THE LIFE OF GREAT HERMES,Hermes in a Pack
+entertainment_anime,wh,Sōbi Yamamoto,director,This Boy Suffers from Crystallization,Which anime's director is Sōbi Yamamoto?,This Boy Suffers from Crystallization,Kemono Jihen
+entertainment_anime,wh,Yoshitsugu Matsuoka,voice actor,Hitorijime My Hero,Which anime's voice actor is Yoshitsugu Matsuoka?,Hitorijime My Hero,Re:Zero
+entertainment_anime,wh,"Papa Datte, Shitai",country of origin,Japan,"What is the country of origin of Papa Datte, Shitai?",Japan,Japan
+entertainment_anime,wh,"Papa Datte, Shitai",language of work or name,Japanese,"What is the language of work or name of Papa Datte, Shitai?",Japanese,Japanese
+entertainment_anime,wh,"Papa Datte, Shitai",genre,yaoi,"What is the genre of Papa Datte, Shitai?",yaoi,Romance
+entertainment_anime,wh,Jankenman,country of origin,Japan,What is the country of origin of Jankenman?,Japan,Japan
+entertainment_anime,wh,Jankenman,genre,action game,What is the genre of Jankenman?,action game,Mecha
+entertainment_anime,wh,Jankenman,platform,Game Boy,What is the platform of Jankenman?,Game Boy,Rock-Paper-Scissors
+entertainment_anime,wh,Masaru Sato,art director,The Rebirth of Buddha,Which anime's art director is Masaru Sato?,The Rebirth of Buddha,Fullmetal Alchemist
+entertainment_anime,wh,Atlantis,depicts,The Laws of the Sun,Which anime depicts Atlantis?,The Laws of the Sun,Nadia
+entertainment_anime,wh,Double Decker! Doug & Kirill,original language of film or TV show,Japanese,What is the original language of film or TV show of Double Decker! Doug & Kirill?,Japanese,Japanese
+entertainment_anime,wh,Double Decker! Doug & Kirill,distribution format,video on demand,What is the distribution format of Double Decker! Doug & Kirill?,video on demand,"Digital, DVD"
+entertainment_anime,wh,Double Decker! Doug & Kirill,character designer,Masakazu Katsura,Who is the character designer of Double Decker! Doug & Kirill?,Masakazu Katsura,Kazue Yamamoto
+entertainment_anime,wh,Double Decker! Doug & Kirill,distributed by,Crunchyroll,What was Double Decker! Doug & Kirill distributed by?,Crunchyroll,Majesco
+entertainment_anime,wh,Double Decker! Doug & Kirill,country of origin,Japan,What is the country of origin of Double Decker! Doug & Kirill?,Japan,Russia
+entertainment_anime,wh,Hiroyuki Yoshino,voice actor,The Rebirth of Buddha,Which anime's voice actor is Hiroyuki Yoshino?,The Rebirth of Buddha,Fullmetal Alchemist
+entertainment_anime,wh,Digimon Adventure Tri. 2,follows,Digimon Adventure Tri. 3,Which anime follows Digimon Adventure Tri. 2?,Digimon Adventure Tri. 3,Digimon Adventure Tri. 3: Kokoro no Haken
+entertainment_anime,wh,Rinshi!! Ekoda-chan,language of work or name,Japanese,What is the language of work or name of Rinshi!! Ekoda-chan?,Japanese,Japanese
+entertainment_anime,wh,Yūsei Oda,voice actor,The Rebirth of Buddha,Which anime's voice actor is Yūsei Oda?,The Rebirth of Buddha,Jujutsu Kaisen
+entertainment_anime,wh,Tatsuya Kushida,art director,THE LIFE OF GREAT HERMES,Which anime's art director is Tatsuya Kushida?,THE LIFE OF GREAT HERMES,Gankutsuou
+entertainment_anime,wh,Keitarō Motonaga,director,Digimon Adventure Tri. 3,Which anime's director is Keitarō Motonaga?,Digimon Adventure Tri. 3,Kamisama Hajimemashita
+entertainment_anime,wh,Austin Tindle,voice actor,Hitorijime My Hero,Which anime's voice actor is Austin Tindle?,Hitorijime My Hero,Attack on Titan
+entertainment_anime,wh,Reina Ueda,voice actor,Tesagure! Bukatsu-mono,Which anime's voice actor is Reina Ueda?,Tesagure! Bukatsu-mono,Kemono Jihen
+entertainment_anime,wh,Kiratto Pri Chan,production company,Tatsunoko Production,What is the production company of Kiratto Pri Chan?,Tatsunoko Production,Sanrio
+entertainment_anime,wh,Kiratto Pri Chan,language of work or name,Japanese,What is the language of work or name of Kiratto Pri Chan?,Japanese,Japanese
+entertainment_anime,wh,Kiratto Pri Chan,country of origin,Japan,What is the country of origin of Kiratto Pri Chan?,Japan,Japan
+entertainment_anime,wh,Kiratto Pri Chan,followed by,Pretty All Friends Selection,What was Kiratto Pri Chan followed by?,Pretty All Friends Selection,Kiratto Pri Chan: Kira Kira My Pretty Partner
+entertainment_anime,wh,Kiratto Pri Chan,developer,Syn Sophia,Who is the developer of Kiratto Pri Chan?,Syn Sophia,Sanrio
+entertainment_anime,wh,Kiratto Pri Chan,publisher,T-ARTS,What is the publisher of Kiratto Pri Chan?,T-ARTS,Sanrio
+entertainment_anime,wh,Kiratto Pri Chan,director,Hiroshi Ikehata,Who is the director of Kiratto Pri Chan?,Hiroshi Ikehata,Tatsuya Ishihara
+entertainment_anime,wh,David Matranga,voice actor,Hitorijime My Hero,Which anime's voice actor is David Matranga?,Hitorijime My Hero,Soul Eater
+entertainment_anime,wh,J-pop,genre,Chain Chronicle,Which anime's genre is J-pop?,Chain Chronicle,K-On
+entertainment_anime,wh,Junji Nishimura,director,Ranma ½ One Grew Over the Kuno's Nest,Which anime's director is Junji Nishimura?,Ranma ½ One Grew Over the Kuno's Nest,Dragon Ball
+entertainment_anime,wh,Hiroshi Ikehata,director,Kiratto Pri Chan,Which anime's director is Hiroshi Ikehata?,Kiratto Pri Chan,Golgo 13
+entertainment_anime,wh,Asami Seto,voice actor,Macross Delta the Movie: Passionate Walküre,Which anime's voice actor is Asami Seto?,Macross Delta the Movie: Passionate Walküre,KonoSuba
+entertainment_anime,wh,Kiitaro's Yokai Picture Diary,distributed by,Crunchyroll,What was Kiitaro's Yokai Picture Diary distributed by?,Crunchyroll,Shogakukan
+entertainment_anime,wh,Kiitaro's Yokai Picture Diary,distribution format,video on demand,What is the distribution format of Kiitaro's Yokai Picture Diary?,video on demand,Manga
+entertainment_anime,wh,Kenji Akabane,voice actor,The Rebirth of Buddha,Which anime's voice actor is Kenji Akabane?,The Rebirth of Buddha,Non Non Biyori
+entertainment_anime,wh,Keifuku-san,original language of film or TV show,Japanese,What is the original language of film or TV show of Keifuku-san?,Japanese,Japanese
+entertainment_anime,wh,Keifuku-san,original broadcaster,Tokyo Metropolitan Television,What is the original broadcaster of Keifuku-san?,Tokyo Metropolitan Television,NHK
+entertainment_anime,wh,Keifuku-san,country of origin,Japan,What is the country of origin of Keifuku-san?,Japan,Japan
+entertainment_anime,wh,Digimon Adventure Tri. 4,followed by,Digimon Adventure Tri. 3,Which anime was followed by Digimon Adventure Tri. 4?,Digimon Adventure Tri. 3,Digimon Adventure
+entertainment_anime,wh,Digimon Adventure Tri. 4,follows,Digimon Adventure Tri. 5,Which anime follows Digimon Adventure Tri. 4?,Digimon Adventure Tri. 5,Digimon Adventure Tri. 6
+entertainment_anime,wh,Satelight,production company,Macross Delta the Movie: Passionate Walküre,Which anime's production company is Satelight?,Macross Delta the Movie: Passionate Walküre,Macross
+entertainment_anime,wh,Tomohisa Hashizume,voice actor,The Rebirth of Buddha,Which anime's voice actor is Tomohisa Hashizume?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,Hiromu Miyazaki,voice actor,The Rebirth of Buddha,Which anime's voice actor is Hiromu Miyazaki?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,Toshiki Masuda,voice actor,Hitorijime My Hero,Which anime's voice actor is Toshiki Masuda?,Hitorijime My Hero,Haikyuu
+entertainment_anime,wh,Makita Keiharu,author,Rescue Me!,Which anime's author is Makita Keiharu?,Rescue Me!,Kagerou
+entertainment_anime,wh,Doraemon: Nobita and the Green Giant Legend,original language of film or TV show,Japanese,What is the original language of film or TV show of Doraemon: Nobita and the Green Giant Legend?,Japanese,Japanese
+entertainment_anime,wh,Doraemon: Nobita and the Green Giant Legend,main subject,house cat,What is the main subject of Doraemon: Nobita and the Green Giant Legend?,house cat,Nobita
+entertainment_anime,wh,Doraemon: Nobita and the Green Giant Legend,country of origin,Japan,What is the country of origin of Doraemon: Nobita and the Green Giant Legend?,Japan,Japan
+entertainment_anime,wh,Doraemon: Nobita and the Green Giant Legend,distributed by,Toho,What was Doraemon: Nobita and the Green Giant Legend distributed by?,Toho,Toho
+entertainment_anime,wh,Doraemon: Nobita and the Green Giant Legend,film editor,Toshihiko Kojima,Who is the film editor of Doraemon: Nobita and the Green Giant Legend?,Toshihiko Kojima,Toshio Henmi
+entertainment_anime,wh,Doraemon: Nobita and the Green Giant Legend,screenwriter,Hiroshi Ōnogi,Who is the screenwriter of Doraemon: Nobita and the Green Giant Legend?,Hiroshi Ōnogi,Fujiko Fujio
+entertainment_anime,wh,Doraemon: Nobita and the Green Giant Legend,director,Ayumu Watanabe,Who is the director of Doraemon: Nobita and the Green Giant Legend?,Ayumu Watanabe,Yukiyo Teramoto
+entertainment_anime,wh,Yasuhiro Takato,voice actor,The Rebirth of Buddha,Which anime's voice actor is Yasuhiro Takato?,The Rebirth of Buddha,Gundam
+entertainment_anime,wh,Masahiro Itosugi,author,Aki Sora,Which anime's author is Masahiro Itosugi?,Aki Sora,Kemono Jihen
+entertainment_anime,wh,Ehrgeiz,original language of film or TV show,Japanese,What is the original language of film or TV show of Ehrgeiz?,Japanese,Japanese
+entertainment_anime,wh,Ehrgeiz,country of origin,Japan,What is the country of origin of Ehrgeiz?,Japan,Japan
+entertainment_anime,wh,Ehrgeiz,genre,mecha,What is the genre of Ehrgeiz?,mecha,3D Fighting
+entertainment_anime,wh,Power DoLLS: Detachment of Limited Line Service,genre,turn-based tactics,What is the genre of Power DoLLS: Detachment of Limited Line Service?,turn-based tactics,Visual Novel
+entertainment_anime,wh,Kiyono Yasuno,voice actor,Macross Delta the Movie: Passionate Walküre,Which anime's voice actor is Kiyono Yasuno?,Macross Delta the Movie: Passionate Walküre,Kemono Jihen
+entertainment_anime,wh,Greco-Roman mysteries,main subject,THE LIFE OF GREAT HERMES,Which anime's main subject is Greco-Roman mysteries?,THE LIFE OF GREAT HERMES,Mystery Train
+entertainment_anime,wh,Burglars of Baghdad Castle,based on,The Thief of Bagdad,What was Burglars of Baghdad Castle based on?,The Thief of Bagdad,Aladdin
+entertainment_anime,wh,Burglars of Baghdad Castle,color,black-and-white,What is the color of Burglars of Baghdad Castle?,black-and-white,Green
+entertainment_anime,wh,Burglars of Baghdad Castle,country of origin,Japan,What is the country of origin of Burglars of Baghdad Castle?,Japan,Iraq
+entertainment_anime,wh,Burglars of Baghdad Castle,fabrication method,cutout animation,What is the fabrication method of Burglars of Baghdad Castle?,cutout animation,Inlay
+entertainment_anime,wh,Holo no Graffiti,country of origin,Japan,What is the country of origin of Holo no Graffiti?,Japan,Japan
+entertainment_anime,wh,Holo no Graffiti,distributed by,Google,What was Holo no Graffiti distributed by?,Google,Sega
+entertainment_anime,wh,Holo no Graffiti,language of work or name,Japanese,What is the language of work or name of Holo no Graffiti?,Japanese,Japanese
+entertainment_anime,wh,Holo no Graffiti,publisher,Hololive Production,What is the publisher of Holo no Graffiti?,Hololive Production,Kodansha
+entertainment_anime,wh,Holo no Graffiti,original broadcaster,Bilibili,What is the original broadcaster of Holo no Graffiti?,Bilibili,NHK
+entertainment_anime,wh,Holo no Graffiti,genre,parody,What is the genre of Holo no Graffiti?,parody,Mystery
+entertainment_anime,wh,Holo no Graffiti,main subject,VTuber,What is the main subject of Holo no Graffiti?,VTuber,Anime
+entertainment_anime,wh,Atsushi Kisaichi,voice actor,The Rebirth of Buddha,Which anime's voice actor is Atsushi Kisaichi?,The Rebirth of Buddha,Gundam
+entertainment_anime,wh,contemporary history,main subject,The Rebirth of Buddha,Which anime's main subject is contemporary history?,The Rebirth of Buddha,March Comes in Like a Lion
+entertainment_anime,wh,Shigeru Chiba,voice actor,The Rebirth of Buddha,Which anime's voice actor is Shigeru Chiba?,The Rebirth of Buddha,Dragon Ball
+entertainment_anime,wh,Crimson Wolf,country of origin,Japan,What is the country of origin of Crimson Wolf?,Japan,Japan
+entertainment_anime,wh,Crimson Wolf,director,Shōichi Masuo,Who is the director of Crimson Wolf?,Shōichi Masuo,Unknown
+entertainment_anime,wh,Crimson Wolf,language of work or name,Japanese,What is the language of work or name of Crimson Wolf?,Japanese,Japanese
+entertainment_anime,wh,Satsuki Yukino,voice actor,The Rebirth of Buddha,Which anime's voice actor is Satsuki Yukino?,The Rebirth of Buddha,Fullmetal Alchemist
+entertainment_anime,wh,Running Boy: Star Soldier no Himitsu,country of origin,Japan,What is the country of origin of Running Boy: Star Soldier no Himitsu?,Japan,Japan
+entertainment_anime,wh,Running Boy: Star Soldier no Himitsu,original language of film or TV show,Japanese,What is the original language of film or TV show of Running Boy: Star Soldier no Himitsu?,Japanese,Japanese
+entertainment_anime,wh,Peeping Life,distribution format,video on demand,What is the distribution format of Peeping Life?,video on demand,Web series
+entertainment_anime,wh,Peeping Life,distributed by,Crunchyroll,What was Peeping Life distributed by?,Crunchyroll,Production I.G
+entertainment_anime,wh,Peeping Life,original language of film or TV show,Japanese,What is the original language of film or TV show of Peeping Life?,Japanese,Japanese
+entertainment_anime,wh,Satomi Akesaka,voice actor,Tesagure! Bukatsu-mono,Which anime's voice actor is Satomi Akesaka?,Tesagure! Bukatsu-mono,Clannad
+entertainment_anime,wh,Ancient Greece,main subject,THE LIFE OF GREAT HERMES,Which anime's main subject is Ancient Greece?,THE LIFE OF GREAT HERMES,Hades
+entertainment_anime,wh,The Buddha,main subject,The Rebirth of Buddha,Which anime's main subject is The Buddha?,The Rebirth of Buddha,Naruto
+entertainment_anime,wh,The Buddha,depicts,The Laws of the Sun,Which anime depicts The Buddha?,The Laws of the Sun,Naruto
+entertainment_anime,wh,JK-Meshi!,original language of film or TV show,Japanese,What is the original language of film or TV show of JK-Meshi!?,Japanese,Japanese
+entertainment_anime,wh,JK-Meshi!,distribution format,video on demand,What is the distribution format of JK-Meshi!?,video on demand,Digital
+entertainment_anime,wh,JK-Meshi!,distributed by,Crunchyroll,What was JK-Meshi! distributed by?,Crunchyroll,Nintendo
+entertainment_anime,wh,Mu,depicts,The Laws of the Sun,Which anime depicts Mu?,The Laws of the Sun,Fullmetal Alchemist
+entertainment_anime,wh,Inca Empire,depicts,The Laws of the Sun,Which anime depicts Inca Empire?,The Laws of the Sun,Granblue Fantasy
+entertainment_anime,wh,Bandai,publisher,Aikatsu on Parade!,Which anime's publisher is Bandai?,Aikatsu on Parade!,Dragon Ball
+entertainment_anime,wh,Aya Uchida,performer,Chain Chronicle,Which anime performer Aya Uchida?,Chain Chronicle,K-On!
+entertainment_anime,wh,The Rebirth of Buddha,original language of film or TV show,Japanese,What is the original language of film or TV show of The Rebirth of Buddha?,Japanese,Mandarin
+entertainment_anime,wh,The Rebirth of Buddha,country of origin,Japan,What is the country of origin of The Rebirth of Buddha?,Japan,Thailand
+entertainment_anime,wh,The Rebirth of Buddha,production company,Group TAC,What is the production company of The Rebirth of Buddha?,Group TAC,China Film Group
+entertainment_anime,wh,The Rebirth of Buddha,creator,IRH Press,What is the creator of The Rebirth of Buddha?,IRH Press,Unknown
+entertainment_anime,wh,The Rebirth of Buddha,director,Takaaki Ishiyama,Who is the director of The Rebirth of Buddha?,Takaaki Ishiyama,Unknown
+entertainment_anime,wh,The Rebirth of Buddha,based on,The Rebirth of Buddha,What was The Rebirth of Buddha based on?,The Rebirth of Buddha,Indian mythology
+entertainment_anime,wh,The Rebirth of Buddha,screenwriter,Hiroshi,Who is the screenwriter of The Rebirth of Buddha?,Hiroshi,Unknown
+entertainment_anime,wh,The Rebirth of Buddha,executive producer,Ryūhō Ōkawa,Who is the executive producer of The Rebirth of Buddha?,Ryūhō Ōkawa,Unknown
+entertainment_anime,wh,The Rebirth of Buddha,art director,Masaru Sato,Who is the art director of The Rebirth of Buddha?,Masaru Sato,Tetsuya Nishida
+entertainment_anime,wh,The Rebirth of Buddha,distributed by,Toei Company,What was The Rebirth of Buddha distributed by?,Toei Company,MGM
+entertainment_anime,wh,The Rebirth of Buddha,character designer,Masami Suda,Who is the character designer of The Rebirth of Buddha?,Masami Suda,Kazuo Koike
+entertainment_anime,wh,The Rebirth of Buddha,based on,The Rebirth of Buddha,Which anime was based on The Rebirth of Buddha?,The Rebirth of Buddha,Naruto
+entertainment_anime,wh,Tōko Aoyama,voice actor,The Rebirth of Buddha,Which anime's voice actor is Tōko Aoyama?,The Rebirth of Buddha,K-On!
+entertainment_anime,wh,Aki Sora,country of origin,Japan,What is the country of origin of Aki Sora?,Japan,Japan
+entertainment_anime,wh,Aki Sora,language of work or name,Japanese,What is the language of work or name of Aki Sora?,Japanese,Japanese
+entertainment_anime,wh,Aki Sora,author,Masahiro Itosugi,Who is the author of Aki Sora?,Masahiro Itosugi,Kei Saiki
+entertainment_anime,wh,Zukkoke Knight - Don De La Mancha,country of origin,Japan,What is the country of origin of Zukkoke Knight - Don De La Mancha?,Japan,Japan
+entertainment_anime,wh,Zukkoke Knight - Don De La Mancha,original language of film or TV show,Japanese,What is the original language of film or TV show of Zukkoke Knight - Don De La Mancha?,Japanese,Japanese
+entertainment_anime,wh,Tomomichi Nishimura,voice actor,The Rebirth of Buddha,Which anime's voice actor is Tomomichi Nishimura?,The Rebirth of Buddha,Dragon Ball
+entertainment_anime,wh,ecchi,genre,Aki Sora,Which anime's genre is ecchi?,Aki Sora,Highschool DxD
+entertainment_anime,wh,Tabimachi Late Show,country of origin,Japan,What is the country of origin of Tabimachi Late Show?,Japan,Japan
+entertainment_anime,wh,Tabimachi Late Show,distributed by,Crunchyroll,What was Tabimachi Late Show distributed by?,Crunchyroll,Toei Company
+entertainment_anime,wh,Tabimachi Late Show,distribution format,video on demand,What is the distribution format of Tabimachi Late Show?,video on demand,Streaming
+entertainment_anime,wh,Tabimachi Late Show,original language of film or TV show,Japanese,What is the original language of film or TV show of Tabimachi Late Show?,Japanese,Japanese
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,country of origin,Japan,What is the country of origin of THE LIFE OF GREAT HERMES?,Japan,Egypt
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,language of work or name,Japanese,What is the language of work or name of THE LIFE OF GREAT HERMES?,Japanese,Demotic
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,art director,Tatsuya Kushida,Who is the art director of THE LIFE OF GREAT HERMES?,Tatsuya Kushida,H.R. Giger
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,distributed by,Toei Company,What was THE LIFE OF GREAT HERMES distributed by?,Toei Company,L. W. Rogers
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,executive producer,Ryūhō Ōkawa,Who is the executive producer of THE LIFE OF GREAT HERMES?,Ryūhō Ōkawa,"I'm sorry, I do not have information on the executive producer of THE LIFE"
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,production company,SONY PCL,What is the production company of THE LIFE OF GREAT HERMES?,SONY PCL,BBC
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,director,Tetsuo Imazawa,Who is the director of THE LIFE OF GREAT HERMES?,Tetsuo Imazawa,Unknown
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,creator,IRH Press,What is the creator of THE LIFE OF GREAT HERMES?,IRH Press,Corbin
+entertainment_anime,wh,THE LIFE OF GREAT HERMES,genre,historical film,What is the genre of THE LIFE OF GREAT HERMES?,historical film,Alchemical
+entertainment_anime,wh,Yasunori Masutani,voice actor,The Rebirth of Buddha,Which anime's voice actor is Yasunori Masutani?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,Group TAC,production company,The Rebirth of Buddha,Which anime's production company is Group TAC?,The Rebirth of Buddha,Gundam
+entertainment_anime,wh,Fukusuke,director,Ryūichi Yokoyama,Who is the director of Fukusuke?,Ryūichi Yokoyama,Kiyoshi Kurosawa
+entertainment_anime,wh,Takaaki Ishiyama,director,The Rebirth of Buddha,Which anime's director is Takaaki Ishiyama?,The Rebirth of Buddha,Golgo 13
+entertainment_anime,wh,Shin-ichiro Miki,voice actor,The Rebirth of Buddha,Which anime's voice actor is Shin-ichiro Miki?,The Rebirth of Buddha,Gundam
+entertainment_anime,wh,Classical Chinese,original language of film or TV show,To Be Hero,Which anime's original language of film or TV show is Classical Chinese?,To Be Hero,Journey to the West
+entertainment_anime,wh,mobile phone,platform,W Wish,Which anime's platform is mobile phone?,W Wish,Digimon
+entertainment_anime,wh,Ranma ½,based on,Ranma ½ One Grew Over the Kuno's Nest,Which anime was based on Ranma ½?,Ranma ½ One Grew Over the Kuno's Nest,Naruto
+entertainment_anime,wh,Chain Chronicle,country of origin,Japan,What is the country of origin of Chain Chronicle?,Japan,Japan
+entertainment_anime,wh,Chain Chronicle,publisher,Sega,What is the publisher of Chain Chronicle?,Sega,Delightworks
+entertainment_anime,wh,Chain Chronicle,distribution format,video on demand,What is the distribution format of Chain Chronicle?,video on demand,"Mobile, PC"
+entertainment_anime,wh,Chain Chronicle,developer,Sega Interactive,What is the developer of Chain Chronicle?,Sega Interactive,Delightworks
+entertainment_anime,wh,Chain Chronicle,input device,touchscreen,What is the input device of Chain Chronicle?,touchscreen,Touchscreen
+entertainment_anime,wh,Chain Chronicle,performer,Aya Uchida,Who does Chain Chronicle performer?,Aya Uchida,Kana Hanazawa
+entertainment_anime,wh,Chain Chronicle,genre,J-pop,What is the genre of Chain Chronicle?,J-pop,RPG
+entertainment_anime,wh,Aiko Hibi,voice actor,The Rebirth of Buddha,Which anime's voice actor is Aiko Hibi?,The Rebirth of Buddha,Kemono Friends
+entertainment_anime,wh,Shōji Kawamori,director,Macross Delta the Movie: Passionate Walküre,Which anime's director is Shōji Kawamori?,Macross Delta the Movie: Passionate Walküre,Macross
+entertainment_anime,wh,Hisayo Yanai,voice actor,The Rebirth of Buddha,Which anime's voice actor is Hisayo Yanai?,The Rebirth of Buddha,K-On!
+entertainment_anime,wh,PlayStation 2,platform,W Wish,Which anime's platform is PlayStation 2?,W Wish,Kingdom Hearts
+entertainment_anime,wh,Nozomi Nishida,voice actor,Macross Delta the Movie: Passionate Walküre,Which anime's voice actor is Nozomi Nishida?,Macross Delta the Movie: Passionate Walküre,Kemono Jihen
+entertainment_anime,wh,This Boy Suffers from Crystallization,language of work or name,Japanese,What is the language of work or name of This Boy Suffers from Crystallization?,Japanese,Japanese
+entertainment_anime,wh,This Boy Suffers from Crystallization,country of origin,Japan,What is the country of origin of This Boy Suffers from Crystallization?,Japan,Japan
+entertainment_anime,wh,This Boy Suffers from Crystallization,distribution format,video on demand,What is the distribution format of This Boy Suffers from Crystallization?,video on demand,Digital
+entertainment_anime,wh,This Boy Suffers from Crystallization,director,Sōbi Yamamoto,Who is the director of This Boy Suffers from Crystallization?,Sōbi Yamamoto,Tetsu Maeda
+entertainment_anime,wh,This Boy Suffers from Crystallization,distributed by,Crunchyroll,What was This Boy Suffers from Crystallization distributed by?,Crunchyroll,Self-released
+entertainment_anime,wh,dating sim,genre,Gakuen Handsome,Which anime's genre is dating sim?,Gakuen Handsome,Clannad
+entertainment_anime,wh,Gakuen Handsome,country of origin,Japan,What is the country of origin of Gakuen Handsome?,Japan,Japan
+entertainment_anime,wh,Gakuen Handsome,distributed by,Crunchyroll,What was Gakuen Handsome distributed by?,Crunchyroll,DMM Pictures
+entertainment_anime,wh,Gakuen Handsome,original language of film or TV show,Japanese,What is the original language of film or TV show of Gakuen Handsome?,Japanese,Japanese
+entertainment_anime,wh,Gakuen Handsome,distribution format,video on demand,What is the distribution format of Gakuen Handsome?,video on demand,Visual novel
+entertainment_anime,wh,Gakuen Handsome,genre,dating sim,What is the genre of Gakuen Handsome?,dating sim,Boys' Love
+entertainment_anime,wh,Game Boy,platform,Jankenman,Which anime's platform is Game Boy?,Jankenman,Pokémon
+entertainment_anime,wh,Jun Ōtomo,composer,Tesagure! Bukatsu-mono,Which anime's composer is Jun Ōtomo?,Tesagure! Bukatsu-mono,Gankutsuou
+entertainment_anime,wh,Kōhei Fukuhara,voice actor,The Rebirth of Buddha,Which anime's voice actor is Kōhei Fukuhara?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,IDOLM@STER SideM,character designer,Haruko Iizuka,Who is the character designer of IDOLM@STER SideM?,Haruko Iizuka,Rika Nakase
+entertainment_anime,wh,IDOLM@STER SideM,input device,touchscreen,What is the input device of IDOLM@STER SideM?,touchscreen,Vocaloid
+entertainment_anime,wh,IDOLM@STER SideM,distribution format,video on demand,What is the distribution format of IDOLM@STER SideM?,video on demand,"Mobile, PC, and Console"
+entertainment_anime,wh,IDOLM@STER SideM,business model,free-to-play,What is the business model of IDOLM@STER SideM?,free-to-play,Gacha
+entertainment_anime,wh,PrincessSoft,distributed by,W Wish,Which anime was distributed by PrincessSoft?,W Wish,Kanon
+entertainment_anime,wh,Banjō Ginga,voice actor,The Rebirth of Buddha,Which anime's voice actor is Banjō Ginga?,The Rebirth of Buddha,Mobile Suit Gundam
+entertainment_anime,wh,Demon Beast Invasion,original language of film or TV show,Japanese,What is the original language of film or TV show of Demon Beast Invasion?,Japanese,Japanese
+entertainment_anime,wh,Demon Beast Invasion,country of origin,Japan,What is the country of origin of Demon Beast Invasion?,Japan,Japan
+entertainment_anime,wh,Demon Beast Invasion,author,Toshio Maeda,Who is the author of Demon Beast Invasion?,Toshio Maeda,Tatsurō Inamoto
+entertainment_anime,wh,Demon Beast Invasion,genre,henta,What is the genre of Demon Beast Invasion?,henta,Dark Fantasy
+entertainment_anime,wh,Doamaiger D,original language of film or TV show,Japanese,What is the original language of film or TV show of Doamaiger D?,Japanese,Japanese
+entertainment_anime,wh,Doamaiger D,distribution format,video on demand,What is the distribution format of Doamaiger D?,video on demand,Digital download
+entertainment_anime,wh,Doamaiger D,distributed by,Crunchyroll,What was Doamaiger D distributed by?,Crunchyroll,Sega
+entertainment_anime,wh,Pretty All Friends Selection,followed by,Kiratto Pri Chan,Who was followed by Pretty All Friends Selection?,Kiratto Pri Chan,Maki Goto
+entertainment_anime,wh,IMAGICA,publisher,Cat Soup Theater,Which anime's publisher is IMAGICA?,Cat Soup Theater,Gundam
+entertainment_anime,wh,Shunzō Miyasaka,voice actor,The Rebirth of Buddha,Which anime's voice actor is Shunzō Miyasaka?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,Chizuna Nakajima,author,Tenshi no Drop,Which anime's author is Chizuna Nakajima?,Tenshi no Drop,Kemono Jihen
+entertainment_anime,wh,Schick x Evangelion,country of origin,Japan,What is the country of origin of Schick x Evangelion?,Japan,Japan
+entertainment_anime,wh,Schick x Evangelion,original language of film or TV show,Japanese,What is the original language of film or TV show of Schick x Evangelion?,Japanese,Japanese
+entertainment_anime,wh,Schick x Evangelion,media franchise,Neon Genesis Evangelion,What is the media franchise of Schick x Evangelion?,Neon Genesis Evangelion,Collaboration
+entertainment_anime,wh,Schick x Evangelion,voice actor,Fumihiko Tachiki,Who is the voice actor of Schick x Evangelion?,Fumihiko Tachiki,Mamoru Miyano
+entertainment_anime,wh,Nippon Columbia,publisher,Cat Soup Theater,Which anime's publisher is Nippon Columbia?,Cat Soup Theater,Ginga Eiyuu Densetsu
+entertainment_anime,wh,Motohiro Katou,author,Q.E.D.,Which anime's author is Motohiro Katou?,Q.E.D.,Gantz
+entertainment_anime,wh,Tatsunoko Production,production company,Kiratto Pri Chan,Which anime's production company is Tatsunoko Production?,Kiratto Pri Chan,Gatchaman
+entertainment_anime,wh,Ryōtarō Okiayu,voice actor,The Rebirth of Buddha,Which anime's voice actor is Ryōtarō Okiayu?,The Rebirth of Buddha,Gundam
+entertainment_anime,wh,Double Hard,distributed by,Crunchyroll,What was Double Hard distributed by?,Crunchyroll,Apogee Software
+entertainment_anime,wh,Double Hard,distribution format,video on demand,What is the distribution format of Double Hard?,video on demand,CD
+entertainment_anime,wh,PlayStation Portable,platform,Bible Black,Which anime's platform is PlayStation Portable?,Bible Black,God of War: Ghost of Sparta
+entertainment_anime,wh,Horror News,distribution format,video on demand,What is the distribution format of Horror News?,video on demand,Digital
+entertainment_anime,wh,Horror News,distributed by,Crunchyroll,What was Horror News distributed by?,Crunchyroll,Wizard Entertainment
+entertainment_anime,wh,Don't Lose!! Evil Corps!,original language of film or TV show,Japanese,What is the original language of film or TV show of Don't Lose!! Evil Corps!?,Japanese,Japanese
+entertainment_anime,wh,Don't Lose!! Evil Corps!,distributed by,Crunchyroll,What was Don't Lose!! Evil Corps! distributed by?,Crunchyroll,Capcom
+entertainment_anime,wh,Don't Lose!! Evil Corps!,distribution format,video on demand,What is the distribution format of Don't Lose!! Evil Corps!?,video on demand,Visual novel
+entertainment_anime,wh,Digimon Adventure Tri. 6,original language of film or TV show,Japanese,What is the original language of film or TV show of Digimon Adventure Tri. 6?,Japanese,Japanese
+entertainment_anime,wh,Digimon Adventure Tri. 6,country of origin,Japan,What is the country of origin of Digimon Adventure Tri. 6?,Japan,Japan
+entertainment_anime,wh,Digimon Adventure Tri. 6,distribution format,video on demand,What is the distribution format of Digimon Adventure Tri. 6?,video on demand,Blu-ray
+entertainment_anime,wh,Digimon Adventure Tri. 6,follows,Digimon Adventure Tri. 5,What does Digimon Adventure Tri. 6 follow?,Digimon Adventure Tri. 5,Danganronpa
+entertainment_anime,wh,Digimon Adventure Tri. 6,part of the series,Digimon Adventure tri.,What is the part of the series of Digimon Adventure Tri. 6?,Digimon Adventure tri.,Kocchi wo Mitsukete
+entertainment_anime,wh,Digimon Adventure Tri. 6,followed by,Digimon Adventure Tri. 5,Which anime was followed by Digimon Adventure Tri. 6?,Digimon Adventure Tri. 5,Digimon Adventure
+entertainment_anime,wh,Zhiyi,depicts,The Laws of the Sun,Which anime depicts Zhiyi?,The Laws of the Sun,Jujutsu Kaisen
+entertainment_anime,wh,Dynit,distributed by,Ranma ½ One Grew Over the Kuno's Nest,Which anime was distributed by Dynit?,Ranma ½ One Grew Over the Kuno's Nest,Knights of Sidonia
+entertainment_anime,wh,Bandai Namco Pictures,production company,Aikatsu on Parade!,Which anime's production company is Bandai Namco Pictures?,Aikatsu on Parade!,Mobile Suit Gundam
+entertainment_anime,wh,Syn Sophia,developer,Kiratto Pri Chan,Which anime's developer is Syn Sophia?,Kiratto Pri Chan,Genshiken
+entertainment_anime,wh,Buddha,main subject,The Rebirth of Buddha,Which anime's main subject is Buddha?,The Rebirth of Buddha,Naruto
+entertainment_anime,wh,Ryūichi Yokoyama,director,Fukusuke,Which anime's director is Ryūichi Yokoyama?,Fukusuke,Gankutsuou
+entertainment_anime,wh,Kogado Studio,publisher,Power DoLLS: Detachment of Limited Line Service,Which anime's publisher is Kogado Studio?,Power DoLLS: Detachment of Limited Line Service,Key
+entertainment_anime,wh,Macross Delta,based on,Macross Delta the Movie: Passionate Walküre,Which anime was based on Macross Delta?,Macross Delta the Movie: Passionate Walküre,Macross Frontier
+entertainment_anime,wh,Shinnosuke Tachibana,voice actor,Hitorijime My Hero,Which anime's voice actor is Shinnosuke Tachibana?,Hitorijime My Hero,Demon Slayer
+entertainment_anime,wh,Kurokan,country of origin,Japan,What is the country of origin of Kurokan?,Japan,Japan
+entertainment_anime,wh,Kurokan,language of work or name,Japanese,What is the language of work or name of Kurokan?,Japanese,Japanese
+entertainment_anime,wh,Kurokan,distributed by,Crunchyroll,What was Kurokan distributed by?,Crunchyroll,Sega
+entertainment_anime,wh,Kurokan,distribution format,video on demand,What is the distribution format of Kurokan?,video on demand,Shogi
+entertainment_anime,wh,The Thief of Bagdad,based on,Burglars of Baghdad Castle,Which anime was based on The Thief of Bagdad?,Burglars of Baghdad Castle,Aladdin
+entertainment_anime,wh,Cat Soup Theater,country of origin,Japan,What is the country of origin of Cat Soup Theater?,Japan,Japan
+entertainment_anime,wh,Cat Soup Theater,language of work or name,Japanese,What is the language of work or name of Cat Soup Theater?,Japanese,Japanese
+entertainment_anime,wh,YōYō no Neko Tsumami,original language of film or TV show,Japanese,What is the original language of film or TV show of YōYō no Neko Tsumami?,Japanese,Japanese
+entertainment_anime,wh,YōYō no Neko Tsumami,country of origin,Japan,What is the country of origin of YōYō no Neko Tsumami?,Japan,Japan
+entertainment_anime,wh,Tomohisa Asō,voice actor,The Rebirth of Buddha,Which anime's voice actor is Tomohisa Asō?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,turn-based tactics,genre,Power DoLLS: Detachment of Limited Line Service,Which anime's genre is turn-based tactics?,Power DoLLS: Detachment of Limited Line Service,Tactics
+entertainment_anime,wh,Ako Mayama,voice actor,The Rebirth of Buddha,Which anime's voice actor is Ako Mayama?,The Rebirth of Buddha,Kemono Jihen
+entertainment_anime,wh,Hitorijime My Hero,country of origin,Japan,What is the country of origin of Hitorijime My Hero?,Japan,Japan
+entertainment_anime,wh,Hitorijime My Hero,genre,yaoi,What is the genre of Hitorijime My Hero?,yaoi,BL (Boys' Love)
+entertainment_anime,wh,Miki Itō,voice actor,The Rebirth of Buddha,Which anime's voice actor is Miki Itō?,The Rebirth of Buddha,Sailor Moon
+entertainment_anime,wh,Mami Nishikawa,voice actor,The Rebirth of Buddha,Which anime's voice actor is Mami Nishikawa?,The Rebirth of Buddha,Sailor Moon
+entertainment_anime,wh,reincarnation,main subject,The Rebirth of Buddha,Which anime's main subject is reincarnation?,The Rebirth of Buddha,Soul Eater
+entertainment_anime,wh,Minori Suzuki,voice actor,Macross Delta the Movie: Passionate Walküre,Which anime's voice actor is Minori Suzuki?,Macross Delta the Movie: Passionate Walküre,Kemono Jihen
+entertainment_anime,wh,Masami Suda,character designer,The Rebirth of Buddha,Which anime's character designer is Masami Suda?,The Rebirth of Buddha,KanColle
+entertainment_anime,wh,alien invasion,main subject,To Be Hero,Which anime's main subject is alien invasion?,To Be Hero,Gurren Lagann
+entertainment_anime,wh,Five Numbers!,original language of film or TV show,Japanese,What is the original language of film or TV show of Five Numbers!?,Japanese,Japanese
+entertainment_anime,wh,CLOCKUP,publisher,Euphoria,Which anime's publisher is CLOCKUP?,Euphoria,Gundam
+entertainment_anime,wh,Ryoko Shiraishi,voice actor,The Rebirth of Buddha,Which anime's voice actor is Ryoko Shiraishi?,The Rebirth of Buddha,K-On!
+entertainment_anime,wh,Hirohiko Kakegawa,voice actor,The Rebirth of Buddha,Which anime's voice actor is Hirohiko Kakegawa?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,Taito,distributed by,W Wish,Which anime was distributed by Taito?,W Wish,Golgo 13
+entertainment_anime,wh,computer keyboard,input device,Euphoria,Which anime's input device is computer keyboard?,Euphoria,Steins;Gate
+entertainment_anime,wh,This Boy Is a Professional Wizard,language of work or name,Japanese,What is the language of work or name of This Boy Is a Professional Wizard?,Japanese,English
+entertainment_anime,wh,This Boy Is a Professional Wizard,distributed by,Crunchyroll,What was This Boy Is a Professional Wizard distributed by?,Crunchyroll,Scholastic
+entertainment_anime,wh,This Boy Is a Professional Wizard,distribution format,video on demand,What is the distribution format of This Boy Is a Professional Wizard?,video on demand,Hardcover
+entertainment_anime,wh,This Boy Is a Professional Wizard,country of origin,Japan,What is the country of origin of This Boy Is a Professional Wizard?,Japan,United States
+entertainment_anime,wh,Tesagure! Bukatsu-mono,composer,Jun Ōtomo,Who is the composer of Tesagure! Bukatsu-mono?,Jun Ōtomo,Takeshi Abo
+entertainment_anime,wh,Tesagure! Bukatsu-mono,country of origin,Japan,What is the country of origin of Tesagure! Bukatsu-mono?,Japan,Japan
+entertainment_anime,wh,Tesagure! Bukatsu-mono,distribution format,video on demand,What is the distribution format of Tesagure! Bukatsu-mono?,video on demand,Light novels
+entertainment_anime,wh,Tesagure! Bukatsu-mono,distributed by,Crunchyroll,What was Tesagure! Bukatsu-mono distributed by?,Crunchyroll,MBS
+entertainment_anime,wh,To Be Heroine,followed by,To Be Hero,Which anime was followed by To Be Heroine?,To Be Hero,To Be Hero
+entertainment_anime,wh,Haruko Iizuka,character designer,IDOLM@STER SideM,Which anime's character designer is Haruko Iizuka?,IDOLM@STER SideM,Kill la Kill
+entertainment_anime,wh,Hiroki Yasumoto,voice actor,The Rebirth of Buddha,Which anime's voice actor is Hiroki Yasumoto?,The Rebirth of Buddha,Soul Eater
+entertainment_anime,wh,To Be Hero,language of work or name,Japanese,What is the language of work or name of To Be Hero?,Japanese,Japanese
+entertainment_anime,wh,To Be Hero,original language of film or TV show,Classical Chinese,What is the original language of film or TV show of To Be Hero?,Classical Chinese,Japanese
+entertainment_anime,wh,To Be Hero,country of origin,Japan,What is the country of origin of To Be Hero?,Japan,Japan
+entertainment_anime,wh,To Be Hero,followed by,To Be Heroine,What was To Be Hero followed by?,To Be Heroine,To Be Hero Hero
+entertainment_anime,wh,To Be Hero,main subject,alien invasion,What is the main subject of To Be Hero?,alien invasion,Superhero parody
+entertainment_anime,wh,To Be Hero,distributed by,Crunchyroll,What was To Be Hero distributed by?,Crunchyroll,MVM Films
+entertainment_anime,wh,To Be Hero,genre,comedy,What is the genre of To Be Hero?,comedy,Superhero
+entertainment_anime,wh,To Be Hero,distribution format,video on demand,What is the distribution format of To Be Hero?,video on demand,TV series
+entertainment_anime,wh,Tenshi no Drop,intended public,shōnen,What is the intended public of Tenshi no Drop?,shōnen,Young adults
+entertainment_anime,wh,Tenshi no Drop,language of work or name,Japanese,What is the language of work or name of Tenshi no Drop?,Japanese,Japanese
+entertainment_anime,wh,Tenshi no Drop,country of origin,Japan,What is the country of origin of Tenshi no Drop?,Japan,Japan
+entertainment_anime,wh,Tenshi no Drop,author,Chizuna Nakajima,Who is the author of Tenshi no Drop?,Chizuna Nakajima,Yoru Sumino
+entertainment_anime,wh,Sega,publisher,Chain Chronicle,Which anime's publisher is Sega?,Chain Chronicle,Sega Sammy Holdings
+entertainment_anime,wh,Rika Komatsu,voice actor,The Rebirth of Buddha,Which anime's voice actor is Rika Komatsu?,The Rebirth of Buddha,Kemono Jihen
+entertainment_anime,wh,silent film,genre,Burglars of Baghdad Castle,Which anime's genre is silent film?,Burglars of Baghdad Castle,Kaiba
+entertainment_anime,wh,Chō Supercar Gattiger,follows,The Great Grape Ape Show,What does Chō Supercar Gattiger follow?,The Great Grape Ape Show,Anime
+entertainment_anime,wh,Chō Supercar Gattiger,original broadcaster,TV Tokyo,What is the original broadcaster of Chō Supercar Gattiger?,TV Tokyo,TV Asahi
+entertainment_anime,wh,Chō Supercar Gattiger,language of work or name,Japanese,What is the language of work or name of Chō Supercar Gattiger?,Japanese,Japanese
+entertainment_anime,wh,Chō Supercar Gattiger,country of origin,Japan,What is the country of origin of Chō Supercar Gattiger?,Japan,Japan
+entertainment_anime,wh,Q.E.D.,country of origin,Japan,What is the country of origin of Q.E.D.?,Japan,Germany
+entertainment_anime,wh,Q.E.D.,intended public,shōnen,What is the intended public of Q.E.D.?,shōnen,Mathematicians
+entertainment_anime,wh,Q.E.D.,language of work or name,Japanese,What is the language of work or name of Q.E.D.?,Japanese,Latin
+entertainment_anime,wh,Q.E.D.,genre,detective fiction,What is the genre of Q.E.D.?,detective fiction,Mystery
+entertainment_anime,wh,Q.E.D.,author,Motohiro Katou,Who is the author of Q.E.D.?,Motohiro Katou,Oscar Wilde
+entertainment_anime,wh,Tomoaki Maeno,voice actor,Hitorijime My Hero,Which anime's voice actor is Tomoaki Maeno?,Hitorijime My Hero,Date A Live
+entertainment_anime,wh,Tokyo Metropolitan Television,original broadcaster,Keifuku-san,Which anime's original broadcaster is Tokyo Metropolitan Television?,Keifuku-san,Gankutsuou
+entertainment_anime,wh,Takehito Koyasu,voice actor,The Rebirth of Buddha,Which anime's voice actor is Takehito Koyasu?,The Rebirth of Buddha,Fullmetal Alchemist
+entertainment_anime,wh,Mina Kubota,composer,Macross Delta the Movie: Passionate Walküre,Which anime's composer is Mina Kubota?,Macross Delta the Movie: Passionate Walküre,Kemonozume
+entertainment_anime,wh,Ryūhō Ōkawa,author,The Laws of the Sun,Which anime's author is Ryūhō Ōkawa?,The Laws of the Sun,Mahou Shoujo of the End
+entertainment_anime,wh,Ranma ½ One Grew Over the Kuno's Nest,country of origin,Japan,What is the country of origin of Ranma ½ One Grew Over the Kuno's Nest?,Japan,Japan
+entertainment_anime,wh,Ranma ½ One Grew Over the Kuno's Nest,based on,Ranma ½,What was Ranma ½ One Grew Over the Kuno's Nest based on?,Ranma ½,Japanese folklore
+entertainment_anime,wh,Ranma ½ One Grew Over the Kuno's Nest,director,Junji Nishimura,Who is the director of Ranma ½ One Grew Over the Kuno's Nest?,Junji Nishimura,Koji Masunari
+entertainment_anime,wh,Ranma ½ One Grew Over the Kuno's Nest,main subject,high school student,What is the main subject of Ranma ½ One Grew Over the Kuno's Nest?,high school student,Akane's pregnancy
+entertainment_anime,wh,Ranma ½ One Grew Over the Kuno's Nest,distributed by,Dynit,What was Ranma ½ One Grew Over the Kuno's Nest distributed by?,Dynit,Viz Media
+entertainment_anime,wh,Ranma ½ One Grew Over the Kuno's Nest,original language of film or TV show,Japanese,What is the original language of film or TV show of Ranma ½ One Grew Over the Kuno's Nest?,Japanese,Japanese
+entertainment_anime,wh,Misako Tomioka,voice actor,The Rebirth of Buddha,Which anime's voice actor is Misako Tomioka?,The Rebirth of Buddha,K-On!
+entertainment_anime,wh,Saeko Suzuki,composer,Macross Delta the Movie: Passionate Walküre,Which anime's composer is Saeko Suzuki?,Macross Delta the Movie: Passionate Walküre,Gankutsuou
+entertainment_anime,wh,Sumi Shimamoto,voice actor,The Rebirth of Buddha,Which anime's voice actor is Sumi Shimamoto?,The Rebirth of Buddha,Nausicaa
+entertainment_anime,wh,Tetsuo Imazawa,director,THE LIFE OF GREAT HERMES,Which anime's director is Tetsuo Imazawa?,THE LIFE OF GREAT HERMES,Golgo 13
+entertainment_anime,wh,Macross Delta the Movie: Passionate Walküre,production company,Satelight,What is the production company of Macross Delta the Movie: Passionate Walküre?,Satelight,Studio Nue
+entertainment_anime,wh,Macross Delta the Movie: Passionate Walküre,language of work or name,Japanese,What is the language of work or name of Macross Delta the Movie: Passionate Walküre?,Japanese,Zentradi
+entertainment_anime,wh,Macross Delta the Movie: Passionate Walküre,form of creative work,feature film,What is the form of creative work of Macross Delta the Movie: Passionate Walküre?,feature film,Anime
+entertainment_anime,wh,Macross Delta the Movie: Passionate Walküre,director,Shōji Kawamori,Who is the director of Macross Delta the Movie: Passionate Walküre?,Shōji Kawamori,Kazuhisa Takahashi
+entertainment_anime,wh,Macross Delta the Movie: Passionate Walküre,genre,mecha,What is the genre of Macross Delta the Movie: Passionate Walküre?,mecha,Science Fiction
+entertainment_anime,wh,Macross Delta the Movie: Passionate Walküre,country of origin,Japan,What is the country of origin of Macross Delta the Movie: Passionate Walküre?,Japan,Japan
+entertainment_anime,wh,Macross Delta the Movie: Passionate Walküre,based on,Macross Delta,What was Macross Delta the Movie: Passionate Walküre based on?,Macross Delta,Macross franchise
+entertainment_anime,wh,Giovanni's Island,distributed by,Warner Bros.,What was Giovanni's Island distributed by?,Warner Bros.,Manga Entertainment
+entertainment_anime,wh,Giovanni's Island,production company,Production I.G,What is the production company of Giovanni's Island?,Production I.G,Production I.G
+entertainment_anime,wh,Giovanni's Island,producer,Mitsuhisa Ishikawa,Who is the producer of Giovanni's Island?,Mitsuhisa Ishikawa,Yoshiaki Kawajiri
+entertainment_anime,wh,Giovanni's Island,screenwriter,Yoshiki Sakurai,Who is the screenwriter of Giovanni's Island?,Yoshiki Sakurai,Yoshihiro Takahashi
+entertainment_anime,wh,Giovanni's Island,country of origin,Japan,What is the country of origin of Giovanni's Island?,Japan,Japan
+entertainment_anime,wh,Giovanni's Island,director,Mizuho Nishikubo,Who is the director of Giovanni's Island?,Mizuho Nishikubo,Toru Takahashi
+entertainment_anime,wh,T-ARTS,publisher,Kiratto Pri Chan,Which anime's publisher is T-ARTS?,Kiratto Pri Chan,T-ARTS is a subsidiary of Aniplex
+entertainment_anime,wh,detective fiction,genre,Q.E.D.,Which anime's genre is detective fiction?,Q.E.D.,Death Note
+entertainment_anime,wh,Madoka Akita,voice actor,The Rebirth of Buddha,Which anime's voice actor is Madoka Akita?,The Rebirth of Buddha,Kemono Friends
+entertainment_anime,wh,Rescue Me!,intended public,shōnen,What is the intended public of Rescue Me!?,shōnen,Young adults
+entertainment_anime,wh,Rescue Me!,author,Makita Keiharu,Who is the author of Rescue Me!?,Makita Keiharu,Osamu Tezuka
+entertainment_anime,wh,VHS,distribution format,Cat Soup Theater,Which anime's distribution format is VHS?,Cat Soup Theater,Urusei Yatsura
+entertainment_anime,wh,action game,genre,Jankenman,Which anime's genre is action game?,Jankenman,Sword Art Online
+entertainment_anime,wh,Asuka Nishi,voice actor,Tesagure! Bukatsu-mono,Which anime's voice actor is Asuka Nishi?,Tesagure! Bukatsu-mono,K-On!
+entertainment_anime,wh,Harlock Saga,composer,Kaoru Wada,Who is the composer of Harlock Saga?,Kaoru Wada,Hiroshi Miyagawa
+entertainment_anime,wh,Harlock Saga,distributed by,Netflix,What was Harlock Saga distributed by?,Netflix,Bandai Visual
+entertainment_anime,wh,Harlock Saga,original language of film or TV show,Japanese,What is the original language of film or TV show of Harlock Saga?,Japanese,Japanese
+entertainment_anime,wh,Harlock Saga,country of origin,Japan,What is the country of origin of Harlock Saga?,Japan,Japan
+entertainment_anime,wh,Harlock Saga,distribution format,video on demand,What is the distribution format of Harlock Saga?,video on demand,OVA
+entertainment_anime,wh,Harlock Saga,director,Yoshio Takeuchi,Who is the director of Harlock Saga?,Yoshio Takeuchi,Rintaro
+entertainment_anime,wh,W Wish,country of origin,Japan,What is the country of origin of W Wish?,Japan,South Korea
+entertainment_anime,wh,W Wish,language of work or name,Japanese,What is the language of work or name of W Wish?,Japanese,Wish is in Chinese
+entertainment_anime,wh,W Wish,distribution format,DVD,What is the distribution format of W Wish?,DVD,Digital
+entertainment_anime,wh,W Wish,game mode,single-player video game,What is the game mode of W Wish?,single-player video game,Battle Royale
+entertainment_anime,wh,Norifusa Mita,author,Kurokan,Which anime's author is Norifusa Mita?,Kurokan,Golgo 13
+entertainment_anime,wh,Toshio Maeda,author,Demon Beast Invasion,Which anime's author is Toshio Maeda?,Demon Beast Invasion,Urotsukidōji
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,country of origin,Japan,What is the country of origin of Lupin the 3rd vs Detective Conan?,Japan,Japan
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,production company,TMS Entertainment,What is the production company of Lupin the 3rd vs Detective Conan?,TMS Entertainment,TMS Entertainment
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,original language of film or TV show,Japanese,What is the original language of film or TV show of Lupin the 3rd vs Detective Conan?,Japanese,Japanese
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,form of creative work,feature film,What is the form of creative work of Lupin the 3rd vs Detective Conan?,feature film,Anime
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,intended public,shōnen,What is the intended public of Lupin the 3rd vs Detective Conan?,shōnen,Children
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,voice actor,Kanichi Kurita,Who is the voice actor of Lupin the 3rd vs Detective Conan?,Kanichi Kurita,Kazuhiko Inoue
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,director,Hajime Kamegaki,Who is the director of Lupin the 3rd vs Detective Conan?,Hajime Kamegaki,Hideaki Oba
+entertainment_anime,wh,Lupin the 3rd vs Detective Conan,screenwriter,Atsushi Maekawa,Who is the screenwriter of Lupin the 3rd vs Detective Conan?,Atsushi Maekawa,Toshio Yoshida
+entertainment_anime,wh,Kowarekake no Orgel,director,Keiichiro Kawaguchi,Who is the director of Kowarekake no Orgel?,Keiichiro Kawaguchi,Tatsuyuki Nagai
+entertainment_anime,wh,Kowarekake no Orgel,original language of film or TV show,Japanese,What is the original language of film or TV show of Kowarekake no Orgel?,Japanese,Japanese
+entertainment_anime,wh,Nao Tōyama,voice actor,Macross Delta the Movie: Passionate Walküre,Which anime's voice actor is Nao Tōyama?,Macross Delta the Movie: Passionate Walküre,Kemono Jihen
+entertainment_anime,wh,Ayaka Ōhashi,voice actor,Tesagure! Bukatsu-mono,Which anime's voice actor is Ayaka Ōhashi?,Tesagure! Bukatsu-mono,Kaguya-sama: Love is War
+entertainment_anime,wh,Lupin VIII,production company,TMS Entertainment,What is the production company of Lupin VIII?,TMS Entertainment,Tiger Aspect Productions
+entertainment_anime,wh,Lupin VIII,country of origin,Japan,What is the country of origin of Lupin VIII?,Japan,France
+entertainment_anime,wh,Lupin VIII,language of work or name,Japanese,What is the language of work or name of Lupin VIII?,Japanese,French
+entertainment_anime,wh,Lupin VIII,director,Rintaro,Who is the director of Lupin VIII?,Rintaro,I couldn't find any information on Lupin VIII
+entertainment_anime,wh,Sega Interactive,developer,Chain Chronicle,Which anime's developer is Sega Interactive?,Chain Chronicle,Yakuza
+entertainment_anime,wh,Takeshi Mori,voice actor,The Rebirth of Buddha,Which anime's voice actor is Takeshi Mori?,The Rebirth of Buddha,Gundam
+entertainment_anime,wh,Euphoria,language of work or name,Japanese,What is the language of work or name of Euphoria?,Japanese,Hindi
+entertainment_anime,wh,Euphoria,input device,computer keyboard,What is the input device of Euphoria?,computer keyboard,Controller
+entertainment_anime,wh,Euphoria,game mode,single-player video game,What is the game mode of Euphoria?,single-player video game,Multiplayer
+entertainment_anime,wh,Euphoria,distribution format,DVD,What is the distribution format of Euphoria?,DVD,Streaming
+entertainment_anime,wh,Euphoria,publisher,CLOCKUP,What is the publisher of Euphoria?,CLOCKUP,Hachette
+entertainment_anime,wh,Euphoria,country of origin,Japan,What is the country of origin of Euphoria?,Japan,United States
+entertainment_anime,wh,The Golden Laws,followed by,The Laws of the Sun,Which anime was followed by The Golden Laws?,The Laws of the Sun,Planetes
+entertainment_anime,wh,Daisuke Matsubara,voice actor,The Rebirth of Buddha,Which anime's voice actor is Daisuke Matsubara?,The Rebirth of Buddha,Gintama
+entertainment_anime,wh,Pan de Peace!,distribution format,video on demand,What is the distribution format of Pan de Peace!?,video on demand,BD/DVD
+entertainment_anime,wh,Pan de Peace!,language of work or name,Japanese,What is the language of work or name of Pan de Peace!?,Japanese,Japanese
+entertainment_anime,wh,Pan de Peace!,country of origin,Japan,What is the country of origin of Pan de Peace!?,Japan,Japan
+entertainment_anime,wh,Pan de Peace!,distributed by,Crunchyroll,What was Pan de Peace! distributed by?,Crunchyroll,Glico
+entertainment_anime,wh,The Black Cat,color,black-and-white,What is the color of The Black Cat?,black-and-white,Black
+entertainment_anime,wh,The Black Cat,country of origin,Japan,What is the country of origin of The Black Cat?,Japan,France
+entertainment_anime,wh,The Black Cat,original language of film or TV show,Japanese,What is the original language of film or TV show of The Black Cat?,Japanese,Hungarian
+entertainment_anime,wh,The Black Cat,genre,animated film,What is the genre of The Black Cat?,animated film,Gothic
+entertainment_anime,wh,Digimon Adventure Tri. 3,country of origin,Japan,What is the country of origin of Digimon Adventure Tri. 3?,Japan,Japan
+entertainment_anime,wh,Digimon Adventure Tri. 3,distribution format,video on demand,What is the distribution format of Digimon Adventure Tri. 3?,video on demand,Blu-ray
+entertainment_anime,wh,Digimon Adventure Tri. 3,part of the series,Digimon Adventure tri.,What is the part of the series of Digimon Adventure Tri. 3?,Digimon Adventure tri.,Coexistence
+entertainment_anime,wh,Digimon Adventure Tri. 3,director,Keitarō Motonaga,Who is the director of Digimon Adventure Tri. 3?,Keitarō Motonaga,Yukio Kaizawa
+entertainment_anime,wh,Digimon Adventure Tri. 3,original language of film or TV show,Japanese,What is the original language of film or TV show of Digimon Adventure Tri. 3?,Japanese,Japanese
+entertainment_anime,wh,Digimon Adventure Tri. 3,follows,Digimon Adventure Tri. 2,What does Digimon Adventure Tri. 3 follow?,Digimon Adventure Tri. 2,Digimon Adventure Tri. 2
+entertainment_anime,wh,Digimon Adventure Tri. 3,followed by,Digimon Adventure Tri. 4,What was Digimon Adventure Tri. 3 followed by?,Digimon Adventure Tri. 4,Digimon Adventure Tri. 4
+entertainment_anime,wh,Hiroko Ushida,voice actor,The Rebirth of Buddha,Which anime's voice actor is Hiroko Ushida?,The Rebirth of Buddha,Sailor Moon
+entertainment_anime,wh,DOS,platform,Power DoLLS: Detachment of Limited Line Service,Which anime's platform is DOS?,Power DoLLS: Detachment of Limited Line Service,Danganronpa
+entertainment_anime,wh,Karin Ogino,voice actor,Tesagure! Bukatsu-mono,Which anime's voice actor is Karin Ogino?,Tesagure! Bukatsu-mono,Kemono Jihen
+entertainment_anime,wh,compact disc,distribution format,Bible Black,Which anime's distribution format is compact disc?,Bible Black,CD
+entertainment_anime,wh,Makiko Ohmoto,voice actor,The Rebirth of Buddha,Which anime's voice actor is Makiko Ohmoto?,The Rebirth of Buddha,Naruto
 human_actor,wh,Jennifer Lynch,child,David Lynch,Whose child is Jennifer Lynch?,David Lynch,David Lynch
 human_actor,wh,Susan Blanchard,spouse,Henry Fonda,Whose spouse is Susan Blanchard?,Henry Fonda,John Kerry
 human_actor,wh,Aoi Yūki,educated at,Waseda University,What was Aoi Yūki educated at?,Waseda University,Tokyo Gakugei University
@@ -1499,6 +2420,506 @@ art_sculpture,wh,"Gmina Słubice, Lubusz Voivodeship",donated by,Wikipedia Monum
 art_sculpture,wh,Ludovico Ludovisi,named after,Juno Ludovisi,Who was named after Ludovico Ludovisi?,Juno Ludovisi,"Ludovico II, Holy Roman Emperor"
 art_sculpture,wh,De Hoanne,creator,Willem Valk,Who is the creator of De Hoanne?,Willem Valk,Johan de Meester
 art_sculpture,wh,De Hoanne,depicts,rooster,What does De Hoanne depict?,rooster,The Last Judgment
+entertainment_music_genre,wh,folk music,named after,folk metal,Which music genre was named after folk music?,folk metal,Folkrock
+entertainment_music_genre,wh,folk music,influenced by,folk rock,Which music genre was influenced by folk music?,folk rock,Rock
+entertainment_music_genre,wh,El-B,significant person,dubstep,Which music genre's significant person is El-B?,dubstep,Drum and Bass
+entertainment_music_genre,wh,swamp rock,derivative work,rockabilly,Which music genre's derivative work is swamp rock?,rockabilly,Blues
+entertainment_music_genre,wh,Erik Satie,significant person,furniture music,Which music genre's significant person is Erik Satie?,furniture music,Impressionism
+entertainment_music_genre,wh,funk,based on,rhythm and blues,What was funk based on?,rhythm and blues,Soul and R&B
+entertainment_music_genre,wh,funk,influenced by,acid jazz,Which music genre was influenced by funk?,acid jazz,Hip-Hop
+entertainment_music_genre,wh,drone,named after,drone music,Which music genre was named after drone?,drone music,Drone metal
+entertainment_music_genre,wh,breakbeat,country of origin,United Kingdom,What is the country of origin of breakbeat?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,consumerism,inspired by,vaporwave,Which music genre was inspired by consumerism?,vaporwave,Yacht Rock
+entertainment_music_genre,wh,Zed Bias,significant person,dubstep,Which music genre's significant person is Zed Bias?,dubstep,UK Garage
+entertainment_music_genre,wh,music of Israel,country,Israel,What is the country of music of Israel?,Israel,Folk
+entertainment_music_genre,wh,Tristan Murail,significant person,spectral music,Which music genre's significant person is Tristan Murail?,spectral music,Musique concrète
+entertainment_music_genre,wh,jazz,practiced by,jazz musician,What was jazz practiced by?,jazz musician,African Americans
+entertainment_music_genre,wh,overture,followed by,allemande,What was overture followed by?,allemande,Symphony
+entertainment_music_genre,wh,Turkey,country of origin,Turkish folk music,Which music genre's country of origin is Turkey?,Turkish folk music,Arabesque
+entertainment_music_genre,wh,Turkey,country,music of Turkey,Which music genre's country is Turkey?,music of Turkey,Turkish music
+entertainment_music_genre,wh,rocksteady,country of origin,Jamaica,What is the country of origin of rocksteady?,Jamaica,Jamaica
+entertainment_music_genre,wh,rocksteady,based on,ska,What was rocksteady based on?,ska,Skiffle
+entertainment_music_genre,wh,England,country of origin,black metal,Which music genre's country of origin is England?,black metal,Rock
+entertainment_music_genre,wh,Psalms,notable work,psalm,Which music genre's notable work is Psalms?,psalm,Classical
+entertainment_music_genre,wh,church musician,practiced by,church music,Which music genre was practiced by church musician?,church music,Gregorian
+entertainment_music_genre,wh,lo-fi music,influenced by,bedroom pop,Which music genre was influenced by lo-fi music?,bedroom pop,Chillhop
+entertainment_music_genre,wh,post-punk,country of origin,United Kingdom,What is the country of origin of post-punk?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,post-punk,influenced by,electronic body music,Which music genre was influenced by post-punk?,electronic body music,Gothic rock
+entertainment_music_genre,wh,speed metal,country of origin,United Kingdom,What is the country of origin of speed metal?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,Baroque music,followed by,Classical period,What was Baroque music followed by?,Classical period,Classical
+entertainment_music_genre,wh,Baroque music,follows,Renaissance music,What does Baroque music follow?,Renaissance music,Renaissance
+entertainment_music_genre,wh,Baroque music,follows,Classical period,Which music genre follows Baroque music?,Classical period,Classical
+entertainment_music_genre,wh,Baroque music,influenced by,baroque pop,Which music genre was influenced by Baroque music?,baroque pop,Classical
+entertainment_music_genre,wh,toccata,language of work or name,Italian,What is the language of work or name of toccata?,Italian,Italian
+entertainment_music_genre,wh,norteño,country of origin,Mexico,What is the country of origin of norteño?,Mexico,Mexico
+entertainment_music_genre,wh,sardana,location,Catalonia,What is the location of sardana?,Catalonia,Catalonia
+entertainment_music_genre,wh,church choir,practiced by,church music,Which music genre was practiced by church choir?,church music,Classical
+entertainment_music_genre,wh,music of Peru,country,Peru,What is the country of music of Peru?,Peru,Folk
+entertainment_music_genre,wh,Cuba,country,music of Cuba,Which music genre's country is Cuba?,music of Cuba,Son
+entertainment_music_genre,wh,amapiano,country of origin,South Africa,What is the country of origin of amapiano?,South Africa,South Africa
+entertainment_music_genre,wh,swing music,movement,neoclassicism,What is the movement of swing music?,neoclassicism,Jazz
+entertainment_music_genre,wh,swing music,said to be the same as,big band music,Which music genre said to be the same as swing music?,big band music,Jazz
+entertainment_music_genre,wh,swing music,inspired by,new jack swing,Which music genre was inspired by swing music?,new jack swing,Bebop
+entertainment_music_genre,wh,swing music,influenced by,Western swing,Which music genre was influenced by swing music?,Western swing,Jazz
+entertainment_music_genre,wh,poem,form of creative work,estampie,Which music genre's form of creative work is poem?,estampie,Spoken Word
+entertainment_music_genre,wh,garage house,based on,kuduro,Which music genre was based on garage house?,kuduro,Deep house
+entertainment_music_genre,wh,Carnival,named after,carnival song,Which music genre was named after Carnival?,carnival song,Calypso
+entertainment_music_genre,wh,progressive rock,influenced by,classical music,What was progressive rock influenced by?,classical music,Classical music
+entertainment_music_genre,wh,progressive rock,country of origin,United Kingdom,What is the country of origin of progressive rock?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,Hokkien pop,country of origin,Taiwan,What is the country of origin of Hokkien pop?,Taiwan,Taiwan
+entertainment_music_genre,wh,Hokkien pop,based on,enka,What was Hokkien pop based on?,enka,Cantonese pop
+entertainment_music_genre,wh,Ghana,country of origin,highlife,Which music genre's country of origin is Ghana?,highlife,Highlife
+entertainment_music_genre,wh,rockabilly,derivative work,swamp rock,What is the derivative work of rockabilly?,swamp rock,Rock and roll
+entertainment_music_genre,wh,Bangla,language of work or name,Rabindra Sangeet,Which music genre's language of work or name is Bangla?,Rabindra Sangeet,Bengali music
+entertainment_music_genre,wh,industrial music,country of origin,United Kingdom,What is the country of origin of industrial music?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,industrial music,influenced by,electronic body music,Which music genre was influenced by industrial music?,electronic body music,Electronic
+entertainment_music_genre,wh,Neue Deutsche Welle,country of origin,Germany,What is the country of origin of Neue Deutsche Welle?,Germany,Germany
+entertainment_music_genre,wh,banda music,country of origin,Mexico,What is the country of origin of banda music?,Mexico,Mexico
+entertainment_music_genre,wh,bikutsi,country of origin,Cameroon,What is the country of origin of bikutsi?,Cameroon,Cameroon
+entertainment_music_genre,wh,Artwork,significant person,dubstep,Which music genre's significant person is Artwork?,dubstep,Electronic
+entertainment_music_genre,wh,reggae,country of origin,Jamaica,What is the country of origin of reggae?,Jamaica,Jamaica
+entertainment_music_genre,wh,gqom,country of origin,South Africa,What is the country of origin of gqom?,South Africa,South Africa
+entertainment_music_genre,wh,country rap,influenced by,country music,What was country rap influenced by?,country music,Southern hip-hop
+entertainment_music_genre,wh,Durban,location of creation,gqom,Which music genre's location of creation is Durban?,gqom,Kwaito
+entertainment_music_genre,wh,estampie,form of creative work,poem,What is the form of creative work of estampie?,poem,Medieval dance
+entertainment_music_genre,wh,rock band,practiced by,rock music,Which music genre was practiced by rock band?,rock music,Rock
+entertainment_music_genre,wh,dub music,country of origin,Jamaica,What is the country of origin of dub music?,Jamaica,Jamaica
+entertainment_music_genre,wh,dub music,named after,dubstep,Which music genre was named after dub music?,dubstep,Dancehall
+entertainment_music_genre,wh,Gregory I,named after,Gregorian chant,Which music genre was named after Gregory I?,Gregorian chant,Gregorian
+entertainment_music_genre,wh,music of Iran,country of origin,Iran,What is the country of origin of music of Iran?,Iran,Persia
+entertainment_music_genre,wh,steelpan,uses,steel band music,Which music genre uses steelpan?,steel band music,Calypso
+entertainment_music_genre,wh,heavy metal,named after,folk metal,Which music genre was named after heavy metal?,folk metal,Hardcore
+entertainment_music_genre,wh,Minnesang,practiced by,Minnesänger,What was Minnesang practiced by?,Minnesänger,Minnesingers
+entertainment_music_genre,wh,rapper,practiced by,rapping,Which music genre was practiced by rapper?,rapping,Hip-Hop
+entertainment_music_genre,wh,visual kei,country of origin,Japan,What is the country of origin of visual kei?,Japan,Japan
+entertainment_music_genre,wh,blues,influenced by,blues rock,Which music genre was influenced by blues?,blues rock,Rock
+entertainment_music_genre,wh,blues,based on,country music,Which music genre was based on blues?,country music,Rock
+entertainment_music_genre,wh,dubstep,named after,dub music,What was dubstep named after?,dub music,Dub
+entertainment_music_genre,wh,dubstep,country of origin,United Kingdom,What is the country of origin of dubstep?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,dubstep,based on,UK garage,What was dubstep based on?,UK garage,UK garage and drum and bass
+entertainment_music_genre,wh,dubstep,influenced by,grime,Which music genre was influenced by dubstep?,grime,Trap
+entertainment_music_genre,wh,country rock,influenced by,country music,What was country rock influenced by?,country music,"Blues, folk, and rock"
+entertainment_music_genre,wh,Arnold Schoenberg,discoverer or inventor,twelve-tone technique,Which music genre's discoverer or inventor is Arnold Schoenberg?,twelve-tone technique,Atonality
+entertainment_music_genre,wh,Hindustani classical music,has part(s),Indian classical music,Which music genre has part(s) Hindustani classical music?,Indian classical music,Fusion
+entertainment_music_genre,wh,traditional folk music,has characteristic,oral tradition,What does traditional folk music have characteristic?,oral tradition,Oral tradition
+entertainment_music_genre,wh,traditional folk music,practiced by,traditional folk singer,What was traditional folk music practiced by?,traditional folk singer,Peasants
+entertainment_music_genre,wh,traditional folk music,influenced by,folk punk,Which music genre was influenced by traditional folk music?,folk punk,Bluegrass
+entertainment_music_genre,wh,drill,location of creation,Chicago,What is the location of creation of drill?,Chicago,New Orleans
+entertainment_music_genre,wh,hands up,based on,nightcore,Which music genre was based on hands up?,nightcore,Eurodance
+entertainment_music_genre,wh,G-funk,discoverer or inventor,Above the Law,What is the discoverer or inventor of G-funk?,Above the Law,Dr. Dre
+entertainment_music_genre,wh,gwo ka,location of creation,Guadeloupe,What is the location of creation of gwo ka?,Guadeloupe,Guadeloupe
+entertainment_music_genre,wh,Eurodance,based on,nightcore,Which music genre was based on Eurodance?,nightcore,Bounce
+entertainment_music_genre,wh,culture of Japan,culture,music of Japan,Which music genre's culture is culture of Japan?,music of Japan,J-Pop
+entertainment_music_genre,wh,culture of Japan,inspired by,vaporwave,Which music genre was inspired by culture of Japan?,vaporwave,J-Pop
+entertainment_music_genre,wh,descant,said to be the same as,soprano,What did descant say to be the same as?,soprano,A third
+entertainment_music_genre,wh,villotta,studied in,ethnomusicology,What was villotta studied in?,ethnomusicology,Music
+entertainment_music_genre,wh,hard rock,influenced by,heavy metal,Which music genre was influenced by hard rock?,heavy metal,Heavy metal
+entertainment_music_genre,wh,guaracha,country of origin,Cuba,What is the country of origin of guaracha?,Cuba,Cuba
+entertainment_music_genre,wh,habanera,country of origin,Cuba,What is the country of origin of habanera?,Cuba,Cuba
+entertainment_music_genre,wh,noel,said to be the same as,Christmas carol,Which music genre said to be the same as noel?,Christmas carol,Christmas
+entertainment_music_genre,wh,chorale,has part(s),choral music,Which music genre has part(s) chorale?,choral music,Classical
+entertainment_music_genre,wh,Latin pop,has part(s),Latin ballad,What does Latin pop have part(s )?,Latin ballad,"Salsa, Rumba, Merengue"
+entertainment_music_genre,wh,riot grrrl,political ideology,feminism,What is the political ideology of riot grrrl?,feminism,Feminist
+entertainment_music_genre,wh,oral tradition,has characteristic,traditional folk music,Which music genre has characteristic oral tradition?,traditional folk music,Folk
+entertainment_music_genre,wh,Viceroyalty of Peru,country of origin,huayno,Which music genre's country of origin is Viceroyalty of Peru?,huayno,Criollo
+entertainment_music_genre,wh,The Bronx,location of creation,Latin hip hop,Which music genre's location of creation is The Bronx?,Latin hip hop,Hip-Hop
+entertainment_music_genre,wh,ragga,country of origin,Jamaica,What is the country of origin of ragga?,Jamaica,Jamaica
+entertainment_music_genre,wh,ca trù,country of origin,Vietnam,What is the country of origin of ca trù?,Vietnam,Vietnam
+entertainment_music_genre,wh,timba,country of origin,Cuba,What is the country of origin of timba?,Cuba,Cuba
+entertainment_music_genre,wh,pansori,country of origin,Korea,What is the country of origin of pansori?,Korea,Korea
+entertainment_music_genre,wh,pansori,country,South Korea,What is the country of pansori?,South Korea,Korea
+entertainment_music_genre,wh,divertissement,said to be the same as,divertimento,Which music genre said to be the same as divertissement?,divertimento,Variété
+entertainment_music_genre,wh,Christianity,religion or worldview,Christian hymn,Which music genre's religion or worldview is Christianity?,Christian hymn,Gospel
+entertainment_music_genre,wh,bard song,practiced by,singer-songwriter,What was bard song practiced by?,singer-songwriter,Viking
+entertainment_music_genre,wh,folk rock,influenced by,folk music,What was folk rock influenced by?,folk music,"Blues, Country"
+entertainment_music_genre,wh,steel band music,uses,steelpan,What does steel band music use?,steelpan,Steel drums
+entertainment_music_genre,wh,Detroit,location of creation,ghettotech,Which music genre's location of creation is Detroit?,ghettotech,Motown
+entertainment_music_genre,wh,rock and roll,based on,pop music,Which music genre was based on rock and roll?,pop music,Rockabilly
+entertainment_music_genre,wh,zouk,country of origin,French West Indies,What is the country of origin of zouk?,French West Indies,Martinique
+entertainment_music_genre,wh,zouk,derivative work,kuduro,What is the derivative work of zouk?,kuduro,Samba-Rock
+entertainment_music_genre,wh,zouk,based on,kuduro,Which music genre was based on zouk?,kuduro,Zouktronica
+entertainment_music_genre,wh,hyperpop,influenced by,bubblegum music,What was hyperpop influenced by?,bubblegum music,Experimental and avant-garde music
+entertainment_music_genre,wh,hyperpop,has characteristic,eclecticism,What does hyperpop have characteristic?,eclecticism,Experimentation
+entertainment_music_genre,wh,music,has part(s),musical theater,Which music genre has part(s) music?,musical theater,Jazz
+entertainment_music_genre,wh,baroque pop,influenced by,Baroque music,What was baroque pop influenced by?,Baroque music,"Psychedelia, folk, and classical music"
+entertainment_music_genre,wh,Rhoma Irama,model item,dangdut,Which music genre's model item is Rhoma Irama?,dangdut,Dangdut
+entertainment_music_genre,wh,sertanejo,country of origin,Brazil,What is the country of origin of sertanejo?,Brazil,Brazil
+entertainment_music_genre,wh,sertanejo,named after,Sertão,What was sertanejo named after?,Sertão,Sertanejo music originated in the Brazilian countryside
+entertainment_music_genre,wh,coda,has part(s),fugue,Which music genre has part(s) coda?,fugue,Classical
+entertainment_music_genre,wh,vocal coach,practiced by,opera,Which music genre was practiced by vocal coach?,opera,Opera
+entertainment_music_genre,wh,space rock,country of origin,United Kingdom,What is the country of origin of space rock?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,intermezzo,language of work or name,Italian,What is the language of work or name of intermezzo?,Italian,Latin
+entertainment_music_genre,wh,bel canto,language of work or name,Italian,What is the language of work or name of bel canto?,Italian,Italian
+entertainment_music_genre,wh,kizomba,country of origin,Angola,What is the country of origin of kizomba?,Angola,Angola
+entertainment_music_genre,wh,Arcangelo Corelli,uses,jig,Which music genre uses Arcangelo Corelli?,jig,Baroque
+entertainment_music_genre,wh,hymn,practiced by,hymnwriter,What was hymn practiced by?,hymnwriter,Ancient Greeks
+entertainment_music_genre,wh,hymn,studied in,hymnology,What was hymn studied in?,hymnology,Music
+entertainment_music_genre,wh,red dirt,based on,country music,Which music genre was based on red dirt?,country music,Red Dirt
+entertainment_music_genre,wh,guitar,has part(s),conjunto,Which music genre has part(s) guitar?,conjunto,Rock
+entertainment_music_genre,wh,sea shanty,practiced by,sailor,What was sea shanty practiced by?,sailor,Sailors
+entertainment_music_genre,wh,Krautrock,country of origin,Germany,What is the country of origin of Krautrock?,Germany,Germany
+entertainment_music_genre,wh,Krautrock,influenced by,electronic body music,Which music genre was influenced by Krautrock?,electronic body music,Post-punk
+entertainment_music_genre,wh,Cajun music,based on,country music,Which music genre was based on Cajun music?,country music,Zydeco
+entertainment_music_genre,wh,Southern United States,location,trap music,Which music genre's location is Southern United States?,trap music,Blues
+entertainment_music_genre,wh,Oran,location of creation,raï,Which music genre's location of creation is Oran?,raï,Raï
+entertainment_music_genre,wh,snare drum,has part(s),conjunto,Which music genre has part(s) snare drum?,conjunto,Drum and Bass
+entertainment_music_genre,wh,Iraq,country,dabke,Which music genre's country is Iraq?,dabke,Middle Eastern
+entertainment_music_genre,wh,intelligent dance music,country of origin,United Kingdom,What is the country of origin of intelligent dance music?,United Kingdom,Netherlands
+entertainment_music_genre,wh,Afrika Bambaataa,significant person,hip hop music,Which music genre's significant person is Afrika Bambaataa?,hip hop music,Hip-Hop
+entertainment_music_genre,wh,light music,said to be the same as,salon music,What did light music say to be the same as?,salon music,Easy listening
+entertainment_music_genre,wh,light music,said to be the same as,salon music,Which music genre said to be the same as light music?,salon music,Easy listening
+entertainment_music_genre,wh,Celtic nations,country of origin,Celtic rock,Which music genre's country of origin is Celtic nations?,Celtic rock,Celtic music
+entertainment_music_genre,wh,Venezuela,country,music of Venezuela,Which music genre's country is Venezuela?,music of Venezuela,Joropo
+entertainment_music_genre,wh,London,location of formation,punk rock,Which music genre's location of formation is London?,punk rock,UK Garage
+entertainment_music_genre,wh,alternative pop,country of origin,United Kingdom,What is the country of origin of alternative pop?,United Kingdom,United States
+entertainment_music_genre,wh,DJ Kool Herc,significant person,hip hop music,Which music genre's significant person is DJ Kool Herc?,hip hop music,Hip-Hop
+entertainment_music_genre,wh,J-Wave,named after,J-pop,Which music genre was named after J-Wave?,J-pop,J-Pop
+entertainment_music_genre,wh,highlife,country of origin,Ghana,What is the country of origin of highlife?,Ghana,Ghana
+entertainment_music_genre,wh,highlife,location,Greater Accra Region,What is the location of highlife?,Greater Accra Region,West Africa
+entertainment_music_genre,wh,singer-songwriter music,practiced by,singer-songwriter,What was singer-songwriter music practiced by?,singer-songwriter,Folk artists
+entertainment_music_genre,wh,funk carioca,country of origin,Brazil,What is the country of origin of funk carioca?,Brazil,Brazil
+entertainment_music_genre,wh,Shinto,religion or worldview,Kagura,Which music genre's religion or worldview is Shinto?,Kagura,J-Pop
+entertainment_music_genre,wh,Benga music,country of origin,Kenya,What is the country of origin of Benga music?,Kenya,Angola
+entertainment_music_genre,wh,big beat,country of origin,United Kingdom,What is the country of origin of big beat?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,Manhattan,location,Tin Pan Alley,Which music genre's location is Manhattan?,Tin Pan Alley,Jazz
+entertainment_music_genre,wh,African-American music,based on,hip hop music,Which music genre was based on African-American music?,hip hop music,Blues
+entertainment_music_genre,wh,Korean hip hop,country of origin,South Korea,What is the country of origin of Korean hip hop?,South Korea,South Korea
+entertainment_music_genre,wh,Argentina,country,music of Argentina,Which music genre's country is Argentina?,music of Argentina,Tango
+entertainment_music_genre,wh,Romantic music,followed by,modern classical music,What was Romantic music followed by?,modern classical music,Classical
+entertainment_music_genre,wh,Romantic music,follows,Classical period,What does Romantic music follow?,Classical period,Classical
+entertainment_music_genre,wh,Romantic music,followed by,Classical period,Which music genre was followed by Romantic music?,Classical period,Classical
+entertainment_music_genre,wh,Romantic music,follows,modern classical music,Which music genre follows Romantic music?,modern classical music,Impressionism
+entertainment_music_genre,wh,Latin,language of work or name,Gregorian chant,Which music genre's language of work or name is Latin?,Gregorian chant,Classical
+entertainment_music_genre,wh,psalm,notable work,Psalms,What is the notable work of psalm?,Psalms,Psalm 23
+entertainment_music_genre,wh,ballata,movement,ars nova,What is the movement of ballata?,ars nova,Lento
+entertainment_music_genre,wh,techno,influenced by,tech house,Which music genre was influenced by techno?,tech house,Trance
+entertainment_music_genre,wh,techno,based on,kuduro,Which music genre was based on techno?,kuduro,Trance
+entertainment_music_genre,wh,bossa nova,country of origin,Brazil,What is the country of origin of bossa nova?,Brazil,Brazil
+entertainment_music_genre,wh,math rock,named after,mathematics,What was math rock named after?,mathematics,Rock music
+entertainment_music_genre,wh,imitation,uses,fugue,Which music genre uses imitation?,fugue,Jazz
+entertainment_music_genre,wh,lounge music,country of origin,United Kingdom,What is the country of origin of lounge music?,United Kingdom,United States
+entertainment_music_genre,wh,trip hop,country of origin,United Kingdom,What is the country of origin of trip hop?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,Latin ballad,has part(s),Latin pop,Which music genre has part(s) Latin ballad?,Latin pop,Latin music
+entertainment_music_genre,wh,Japan,location,music of Japan,Which music genre's location is Japan?,music of Japan,J-Pop
+entertainment_music_genre,wh,troubadour,named after,troubadoric poetry,Which music genre was named after troubadour?,troubadoric poetry,"Troubadour music is not a genre, but the term ""troubad"
+entertainment_music_genre,wh,singer,practiced by,vocal music,Which music genre was practiced by singer?,vocal music,Rock
+entertainment_music_genre,wh,disco,influenced by,acid jazz,Which music genre was influenced by disco?,acid jazz,House
+entertainment_music_genre,wh,corrido,country of origin,Mexico,What is the country of origin of corrido?,Mexico,Mexico
+entertainment_music_genre,wh,Vietnam,country of origin,ca trù,Which music genre's country of origin is Vietnam?,ca trù,Ca tru
+entertainment_music_genre,wh,Saint-Pierre,location of creation,biguine,Which music genre's location of creation is Saint-Pierre?,biguine,Zouk
+entertainment_music_genre,wh,eclecticism,has characteristic,hyperpop,Which music genre has characteristic eclecticism?,hyperpop,Electronic
+entertainment_music_genre,wh,overtone singing,uses,harmonic,What does overtone singing use?,harmonic,Multiple vocal cords
+entertainment_music_genre,wh,gigue,based on,jig,What was gigue based on?,jig,French dance
+entertainment_music_genre,wh,ethnomusicology,studied in,villotta,Which music genre was studied in ethnomusicology?,villotta,Traditional
+entertainment_music_genre,wh,vaudeville,said to be the same as,music hall,Which music genre said to be the same as vaudeville?,music hall,Musical Theater
+entertainment_music_genre,wh,Republic of the Congo,country of origin,soukous,Which music genre's country of origin is Republic of the Congo?,soukous,Rumba
+entertainment_music_genre,wh,Carnatic music,country of origin,Karnataka,What is the country of origin of Carnatic music?,Karnataka,India
+entertainment_music_genre,wh,Carnatic music,has part(s),Indian classical music,Which music genre has part(s) Carnatic music?,Indian classical music,Film music
+entertainment_music_genre,wh,tone row,uses,twelve-tone technique,Which music genre uses tone row?,twelve-tone technique,Serialism
+entertainment_music_genre,wh,conga,country of origin,Cuba,What is the country of origin of conga?,Cuba,Cuba
+entertainment_music_genre,wh,conga,has part(s),conjunto,Which music genre has part(s) conga?,conjunto,Latin
+entertainment_music_genre,wh,Senegal,country of origin,mbalax,Which music genre's country of origin is Senegal?,mbalax,Mbalax
+entertainment_music_genre,wh,Benga,significant person,dubstep,Which music genre's significant person is Benga?,dubstep,Dubstep
+entertainment_music_genre,wh,self-reference,uses,hyperpop,Which music genre uses self-reference?,hyperpop,Meta-Music
+entertainment_music_genre,wh,music hall,said to be the same as,vaudeville,What did music hall say to be the same as?,vaudeville,Variety
+entertainment_music_genre,wh,music hall,country of origin,United Kingdom,What is the country of origin of music hall?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,Paean (god),named after,paean,Which music genre was named after Paean (god)?,paean,Pagan
+entertainment_music_genre,wh,bongo flava,country of origin,Tanzania,What is the country of origin of bongo flava?,Tanzania,Tanzania
+entertainment_music_genre,wh,musical theater,has part(s),music,What does musical theater have part(s )?,music,"Music, Dance, Acting"
+entertainment_music_genre,wh,Spain,location,fandango,Which music genre's location is Spain?,fandango,Flamenco
+entertainment_music_genre,wh,Spain,country,music of Spain,Which music genre's country is Spain?,music of Spain,Flamenco
+entertainment_music_genre,wh,psychedelic rock,influenced by,stoner rock,Which music genre was influenced by psychedelic rock?,stoner rock,Electronic
+entertainment_music_genre,wh,Latvia,country of origin,daina,Which music genre's country of origin is Latvia?,daina,Baltic folk
+entertainment_music_genre,wh,Plastician,significant person,dubstep,Which music genre's significant person is Plastician?,dubstep,Dubstep
+entertainment_music_genre,wh,music of Mexico,location,Mexico,What is the location of music of Mexico?,Mexico,Latin America
+entertainment_music_genre,wh,Russian romance,has part(s),Russian music,Which music genre has part(s) Russian romance?,Russian music,Classical
+entertainment_music_genre,wh,Greater Accra Region,location,highlife,Which music genre's location is Greater Accra Region?,highlife,Highlife
+entertainment_music_genre,wh,frevo,country of origin,Brazil,What is the country of origin of frevo?,Brazil,Brazil
+entertainment_music_genre,wh,forró,country of origin,Brazil,What is the country of origin of forró?,Brazil,Brazil
+entertainment_music_genre,wh,ars nova,movement,ballata,Which music genre's movement is ars nova?,ballata,Classical
+entertainment_music_genre,wh,Celtic rock,country of origin,Celtic nations,What is the country of origin of Celtic rock?,Celtic nations,Ireland
+entertainment_music_genre,wh,child,intended public,children's music,Which music genre's intended public is child?,children's music,Children's music
+entertainment_music_genre,wh,choro,country of origin,Brazil,What is the country of origin of choro?,Brazil,Brazil
+entertainment_music_genre,wh,elevator music,inspired by,vaporwave,Which music genre was inspired by elevator music?,vaporwave,Easy Listening
+entertainment_music_genre,wh,The Gambia,country of origin,mbalax,Which music genre's country of origin is The Gambia?,mbalax,Afrobeat
+entertainment_music_genre,wh,trot,country of origin,South Korea,What is the country of origin of trot?,South Korea,Korea
+entertainment_music_genre,wh,glam metal,influenced by,glam rock,What was glam metal influenced by?,glam rock,"Hard rock, punk"
+entertainment_music_genre,wh,glam metal,followed by,glam rock,Which music genre was followed by glam metal?,glam rock,Hard rock
+entertainment_music_genre,wh,glam metal,influenced by,visual kei,Which music genre was influenced by glam metal?,visual kei,Nu metal
+entertainment_music_genre,wh,Democratic Republic of the Congo,country of origin,soukous,Which music genre's country of origin is Democratic Republic of the Congo?,soukous,Rumba
+entertainment_music_genre,wh,tango music,based on,tango,What was tango music based on?,tango,Uruguayan and Argentine folk music
+entertainment_music_genre,wh,country musician,practiced by,country music,Which music genre was practiced by country musician?,country music,Country
+entertainment_music_genre,wh,noh,country of origin,Japan,What is the country of origin of noh?,Japan,Japan
+entertainment_music_genre,wh,tejano music,based on,country music,Which music genre was based on tejano music?,country music,Norteño
+entertainment_music_genre,wh,mugham,country of origin,Azerbaijan,What is the country of origin of mugham?,Azerbaijan,Azerbaijan
+entertainment_music_genre,wh,polka,country of origin,Bohemia,What is the country of origin of polka?,Bohemia,Czech
+entertainment_music_genre,wh,Guyana,country of origin,chutney music,Which music genre's country of origin is Guyana?,chutney music,Chutney
+entertainment_music_genre,wh,Belize,country of origin,punta,Which music genre's country of origin is Belize?,punta,Garifuna
+entertainment_music_genre,wh,axé,country of origin,Brazil,What is the country of origin of axé?,Brazil,Brazil
+entertainment_music_genre,wh,fandango,country of origin,Brazil,What is the country of origin of fandango?,Brazil,Spain
+entertainment_music_genre,wh,fandango,language of work or name,Spanish,What is the language of work or name of fandango?,Spanish,Spanish
+entertainment_music_genre,wh,dancehall,country of origin,Jamaica,What is the country of origin of dancehall?,Jamaica,Jamaica
+entertainment_music_genre,wh,Pará,location of creation,carimbó,Which music genre's location of creation is Pará?,carimbó,Forró
+entertainment_music_genre,wh,bachata,country of origin,Dominican Republic,What is the country of origin of bachata?,Dominican Republic,Dominican Republic
+entertainment_music_genre,wh,soca music,country of origin,Trinidad and Tobago,What is the country of origin of soca music?,Trinidad and Tobago,Trinidad and Tobago
+entertainment_music_genre,wh,soca music,based on,kuduro,Which music genre was based on soca music?,kuduro,Zouk
+entertainment_music_genre,wh,Motown,named after,Motown,What was Motown named after?,Motown,Berry Gordy's house
+entertainment_music_genre,wh,Motown,named after,Motown,Which music genre was named after Motown?,Motown,Soul
+entertainment_music_genre,wh,rapping,practiced by,rapper,What was rapping practiced by?,rapper,African slaves
+entertainment_music_genre,wh,jig,culture,Celtic art,What is the culture of jig?,Celtic art,Irish
+entertainment_music_genre,wh,jig,based on,gigue,Which music genre was based on jig?,gigue,Celtic
+entertainment_music_genre,wh,Indian harmonium,instrumentation,qawwali,Which music genre's instrumentation is Indian harmonium?,qawwali,Qawwali
+entertainment_music_genre,wh,carimbó,country of origin,Brazil,What is the country of origin of carimbó?,Brazil,Paraguay
+entertainment_music_genre,wh,salon music,said to be the same as,light music,What did salon music say to be the same as?,light music,Yacht rock
+entertainment_music_genre,wh,salon music,said to be the same as,light music,Which music genre said to be the same as salon music?,light music,Chamber music
+entertainment_music_genre,wh,Renaissance music,followed by,Baroque music,What was Renaissance music followed by?,Baroque music,Baroque
+entertainment_music_genre,wh,Renaissance music,follows,Baroque music,Which music genre follows Renaissance music?,Baroque music,Baroque
+entertainment_music_genre,wh,Siti Nurhaliza,model item,dangdut,Which music genre's model item is Siti Nurhaliza?,dangdut,Pop
+entertainment_music_genre,wh,allemande,followed by,overture,Which music genre was followed by allemande?,overture,Baroque
+entertainment_music_genre,wh,British Raj,country of origin,Rabindra Sangeet,Which music genre's country of origin is British Raj?,Rabindra Sangeet,Bhangra
+entertainment_music_genre,wh,broken beat,country of origin,United Kingdom,What is the country of origin of broken beat?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,cantata,language of work or name,Italian,What is the language of work or name of cantata?,Italian,Latin
+entertainment_music_genre,wh,Afro house,country of origin,South Africa,What is the country of origin of Afro house?,South Africa,South Africa
+entertainment_music_genre,wh,Russian folk music,has part(s),Russian music,Which music genre has part(s) Russian folk music?,Russian music,Neoclassical
+entertainment_music_genre,wh,religious poetry,genre,psalm,Which music genre's genre is religious poetry?,psalm,Gospel
+entertainment_music_genre,wh,modern classical music,follows,Romantic music,What does modern classical music follow?,Romantic music,Serialism
+entertainment_music_genre,wh,modern classical music,followed by,contemporary classical music,What was modern classical music followed by?,contemporary classical music,Minimalism
+entertainment_music_genre,wh,modern classical music,follows,contemporary classical music,Which music genre follows modern classical music?,contemporary classical music,Neoclassical
+entertainment_music_genre,wh,modern classical music,followed by,Romantic music,Which music genre was followed by modern classical music?,Romantic music,Romantic
+entertainment_music_genre,wh,alcohol consumption,named after,drinking song,Which music genre was named after alcohol consumption?,drinking song,Jazz
+entertainment_music_genre,wh,bubblegum music,influenced by,hyperpop,Which music genre was influenced by bubblegum music?,hyperpop,Pop-Punk
+entertainment_music_genre,wh,deep house,significant person,Larry Heard,Who is the significant person of deep house?,Larry Heard,Frankie Knuckles
+entertainment_music_genre,wh,Thai pop,country of origin,Thailand,What is the country of origin of Thai pop?,Thailand,Thailand
+entertainment_music_genre,wh,Northeast Region,location,forró,Which music genre's location is Northeast Region?,forró,Bluegrass
+entertainment_music_genre,wh,Above the Law,discoverer or inventor,G-funk,Which music genre's discoverer or inventor is Above the Law?,G-funk,G-Funk
+entertainment_music_genre,wh,accordion,has part(s),conjunto,Which music genre has part(s) accordion?,conjunto,Polka
+entertainment_music_genre,wh,music of Japan,location,Japan,What is the location of music of Japan?,Japan,Tokyo
+entertainment_music_genre,wh,music of Japan,culture,culture of Japan,What is the culture of music of Japan?,culture of Japan,Enka
+entertainment_music_genre,wh,Korean rock,country of origin,South Korea,What is the country of origin of Korean rock?,South Korea,South Korea
+entertainment_music_genre,wh,jota,language of work or name,Spanish,What is the language of work or name of jota?,Spanish,Java
+entertainment_music_genre,wh,Kingdom of France,location,ars nova,Which music genre's location is Kingdom of France?,ars nova,French House
+entertainment_music_genre,wh,opera,named after,rock opera,Which music genre was named after opera?,rock opera,Operatic
+entertainment_music_genre,wh,trance,country of origin,Germany,What is the country of origin of trance?,Germany,Germany
+entertainment_music_genre,wh,theme,uses,fugue,Which music genre uses theme?,fugue,Film scores
+entertainment_music_genre,wh,bourrée,language of work or name,French,What is the language of work or name of bourrée?,French,French
+entertainment_music_genre,wh,city,named after,city pop,Which music genre was named after city?,city pop,Jazz
+entertainment_music_genre,wh,new wave,named after,vaporwave,Which music genre was named after new wave?,vaporwave,Synthpop
+entertainment_music_genre,wh,Cape Verde,country of origin,morna,Which music genre's country of origin is Cape Verde?,morna,Morna
+entertainment_music_genre,wh,mandolin,instrumentation,bluegrass music,Which music genre's instrumentation is mandolin?,bluegrass music,Bluegrass
+entertainment_music_genre,wh,protest song,main subject,protest,What is the main subject of protest song?,protest,Social justice
+entertainment_music_genre,wh,dynamic range compression,uses,hyperpop,Which music genre uses dynamic range compression?,hyperpop,Electronic
+entertainment_music_genre,wh,pop singer,practiced by,pop music,Which music genre was practiced by pop singer?,pop music,Pop
+entertainment_music_genre,wh,shoegaze,country of origin,United Kingdom,What is the country of origin of shoegaze?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,hip hop music,based on,African-American music,What was hip hop music based on?,African-American music,African-American culture
+entertainment_music_genre,wh,children's music,intended public,child,What is the intended public of children's music?,child,Children
+entertainment_music_genre,wh,South Africa,country,music of South Africa,Which music genre's country is South Africa?,music of South Africa,Kwaito
+entertainment_music_genre,wh,Suriname,country of origin,chutney music,Which music genre's country of origin is Suriname?,chutney music,Kaseko
+entertainment_music_genre,wh,harmonic,uses,overtone singing,Which music genre uses harmonic?,overtone singing,Classical
+entertainment_music_genre,wh,Russian chanson,country of origin,Russia,What is the country of origin of Russian chanson?,Russia,France
+entertainment_music_genre,wh,bluegrass music,discoverer or inventor,Bill Monroe,Who is the discoverer or inventor of bluegrass music?,Bill Monroe,Bill Monroe
+entertainment_music_genre,wh,pantomime,country of origin,United Kingdom,What is the country of origin of pantomime?,United Kingdom,France
+entertainment_music_genre,wh,Antonio Vivaldi,uses,jig,Which music genre uses Antonio Vivaldi?,jig,Baroque
+entertainment_music_genre,wh,merengue,country of origin,Dominican Republic,What is the country of origin of merengue?,Dominican Republic,Dominican
+entertainment_music_genre,wh,voice,instrumentation,qawwali,Which music genre's instrumentation is voice?,qawwali,Vocal
+entertainment_music_genre,wh,calypso,country of origin,Trinidad and Tobago,What is the country of origin of calypso?,Trinidad and Tobago,Trinidad
+entertainment_music_genre,wh,tech house,influenced by,techno,What was tech house influenced by?,techno,Deep house
+entertainment_music_genre,wh,Pakistan,country of origin,qawwali,Which music genre's country of origin is Pakistan?,qawwali,Bhangra
+entertainment_music_genre,wh,Pakistan,country,music of Pakistan,Which music genre's country is Pakistan?,music of Pakistan,Bhangra
+entertainment_music_genre,wh,choir director,practiced by,choral music,Which music genre was practiced by choir director?,choral music,Choral
+entertainment_music_genre,wh,chiptune,country of origin,Japan,What is the country of origin of chiptune?,Japan,Japan
+entertainment_music_genre,wh,New Mexico music,based on,country music,Which music genre was based on New Mexico music?,country music,Norteño
+entertainment_music_genre,wh,medieval music,covered period,Middle Ages,What is the covered period of medieval music?,Middle Ages,500-1450
+entertainment_music_genre,wh,lovers rock,country of origin,United Kingdom,What is the country of origin of lovers rock?,United Kingdom,Jamaica
+entertainment_music_genre,wh,singing,has cause,vocal music,Which music genre has cause singing?,vocal music,Opera
+entertainment_music_genre,wh,raï,location of creation,Oran,What is the location of creation of raï?,Oran,Algeria
+entertainment_music_genre,wh,raï,country of origin,Algeria,What is the country of origin of raï?,Algeria,Algeria
+entertainment_music_genre,wh,UK rap,country of origin,United Kingdom,What is the country of origin of UK rap?,United Kingdom,England
+entertainment_music_genre,wh,Tin Pan Alley,location,Manhattan,What is the location of Tin Pan Alley?,Manhattan,New York City
+entertainment_music_genre,wh,jazz rap,influenced by,jazz,What was jazz rap influenced by?,jazz,Hip-hop
+entertainment_music_genre,wh,electronic keyboard,has part(s),conjunto,Which music genre has part(s) electronic keyboard?,conjunto,Electronic
+entertainment_music_genre,wh,traditional bluegrass,has part(s),bluegrass music,Which music genre has part(s) traditional bluegrass?,bluegrass music,Americana
+entertainment_music_genre,wh,progressive bluegrass,has part(s),bluegrass music,Which music genre has part(s) progressive bluegrass?,bluegrass music,Bluegrass
+entertainment_music_genre,wh,glam rock,country of origin,United Kingdom,What is the country of origin of glam rock?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,glam rock,followed by,glam metal,What was glam rock followed by?,glam metal,Punk
+entertainment_music_genre,wh,India,country,music of India,Which music genre's country is India?,music of India,Bhangra
+entertainment_music_genre,wh,Honduras,country of origin,punta,Which music genre's country of origin is Honduras?,punta,Punta
+entertainment_music_genre,wh,Britpop,country of origin,United Kingdom,What is the country of origin of Britpop?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,nagauta,uses,Shamisen,Who does nagauta use?,Shamisen,Shamisen
+entertainment_music_genre,wh,divertimento,said to be the same as,divertissement,What did divertimento say to be the same as?,divertissement,Aria
+entertainment_music_genre,wh,mathematics,named after,math rock,Which music genre was named after mathematics?,math rock,Math rock
+entertainment_music_genre,wh,Epicus Doomicus Metallicus,named after,doom metal,Which music genre was named after Epicus Doomicus Metallicus?,doom metal,Doom
+entertainment_music_genre,wh,Java,location of creation,gamelan,Which music genre's location of creation is Java?,gamelan,Kroncong
+entertainment_music_genre,wh,Paraná,location,fandango,Which music genre's location is Paraná?,fandango,Forró
+entertainment_music_genre,wh,kayōkyoku,country of origin,Japan,What is the country of origin of kayōkyoku?,Japan,Japan
+entertainment_music_genre,wh,kayōkyoku,influenced by,J-pop,Which music genre was influenced by kayōkyoku?,J-pop,J-Pop
+entertainment_music_genre,wh,Bali,location of creation,gamelan,Which music genre's location of creation is Bali?,gamelan,Gamelan
+entertainment_music_genre,wh,beat music,country of origin,United Kingdom,What is the country of origin of beat music?,United Kingdom,United States
+entertainment_music_genre,wh,Bill Monroe,discoverer or inventor,bluegrass music,Which music genre's discoverer or inventor is Bill Monroe?,bluegrass music,Bluegrass
+entertainment_music_genre,wh,Bohemia,country of origin,polka,Which music genre's country of origin is Bohemia?,polka,Czechoslovakia
+entertainment_music_genre,wh,sailor,practiced by,sea shanty,Which music genre was practiced by sailor?,sea shanty,Sea shanty
+entertainment_music_genre,wh,Germany,country,music of Germany,Which music genre's country is Germany?,music of Germany,Krautrock
+entertainment_music_genre,wh,Karnataka,country of origin,Carnatic music,Which music genre's country of origin is Karnataka?,Carnatic music,Carnatic
+entertainment_music_genre,wh,Algeria,country of origin,raï,Which music genre's country of origin is Algeria?,raï,Raï
+entertainment_music_genre,wh,vaporwave,named after,new wave,What was vaporwave named after?,new wave,Japanese VHS tapes
+entertainment_music_genre,wh,music of Indonesia,country,Indonesia,What is the country of music of Indonesia?,Indonesia,Gamelan
+entertainment_music_genre,wh,música popular brasileira,country of origin,Brazil,What is the country of origin of música popular brasileira?,Brazil,Brazil
+entertainment_music_genre,wh,lambada,country of origin,Brazil,What is the country of origin of lambada?,Brazil,Brazil
+entertainment_music_genre,wh,kroncong,country of origin,Indonesia,What is the country of origin of kroncong?,Indonesia,Indonesia
+entertainment_music_genre,wh,downtempo,country of origin,United Kingdom,What is the country of origin of downtempo?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,old-time music,based on,country music,Which music genre was based on old-time music?,country music,Bluegrass
+entertainment_music_genre,wh,Gregorian chant,language of work or name,Latin,What is the language of work or name of Gregorian chant?,Latin,Latin
+entertainment_music_genre,wh,Gregorian chant,named after,Gregory I,Who was Gregorian chant named after?,Gregory I,Pope Gregory
+entertainment_music_genre,wh,rhythm and blues,based on,funk,Which music genre was based on rhythm and blues?,funk,Rock and roll
+entertainment_music_genre,wh,trova,country of origin,Cuba,What is the country of origin of trova?,Cuba,Cuba
+entertainment_music_genre,wh,Latin trap,country of origin,Puerto Rico,What is the country of origin of Latin trap?,Puerto Rico,Puerto Rico
+entertainment_music_genre,wh,Latin trap,language of work or name,Spanish,What is the language of work or name of Latin trap?,Spanish,Reggaeton
+entertainment_music_genre,wh,Northern Italy,location,ars nova,Which music genre's location is Northern Italy?,ars nova,Musica d'insieme
+entertainment_music_genre,wh,indie pop,country of origin,United Kingdom,What is the country of origin of indie pop?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,morin khuur,country of origin,Mongolia,What is the country of origin of morin khuur?,Mongolia,Mongolia
+entertainment_music_genre,wh,Veracruz,location,fandango,Which music genre's location is Veracruz?,fandango,Son Jarocho
+entertainment_music_genre,wh,gamelan,country of origin,Indonesia,What is the country of origin of gamelan?,Indonesia,Indonesia
+entertainment_music_genre,wh,gamelan,practiced by,gamelan,What was gamelan practiced by?,gamelan,Indonesians
+entertainment_music_genre,wh,gamelan,practiced by,gamelan,Which music genre was practiced by gamelan?,gamelan,Traditional Indonesian
+entertainment_music_genre,wh,State of Palestine,country,dabke,Which music genre's country is State of Palestine?,dabke,Arabesque
+entertainment_music_genre,wh,music of Cuba,country,Cuba,What is the country of music of Cuba?,Cuba,Son
+entertainment_music_genre,wh,feminism,political ideology,riot grrrl,Which music genre's political ideology is feminism?,riot grrrl,Riot Grrrl
+entertainment_music_genre,wh,grime,country of origin,United Kingdom,What is the country of origin of grime?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,opera singer,practiced by,opera,Which music genre was practiced by opera singer?,opera,Classical
+entertainment_music_genre,wh,electronic body music,named by,Ralf Hütter,Who was electronic body music named by?,Ralf Hütter,Daniel Miller
+entertainment_music_genre,wh,mento,country of origin,Jamaica,What is the country of origin of mento?,Jamaica,Jamaica
+entertainment_music_genre,wh,porro,country of origin,Colombia,What is the country of origin of porro?,Colombia,Colombia
+entertainment_music_genre,wh,chanson,named after,song,What was chanson named after?,song,French song
+entertainment_music_genre,wh,chanson,language of work or name,French,What is the language of work or name of chanson?,French,French
+entertainment_music_genre,wh,contemporary classical music,follows,modern classical music,What does contemporary classical music follow?,modern classical music,Serialism
+entertainment_music_genre,wh,contemporary classical music,followed by,modern classical music,Which music genre was followed by contemporary classical music?,modern classical music,Romantic
+entertainment_music_genre,wh,Kagura,country of origin,Japan,What is the country of origin of Kagura?,Japan,Japan
+entertainment_music_genre,wh,cha-cha-chá,country of origin,Cuba,What is the country of origin of cha-cha-chá?,Cuba,Cuba
+entertainment_music_genre,wh,twelve-tone technique,discoverer or inventor,Arnold Schoenberg,Who is the discoverer or inventor of twelve-tone technique?,Arnold Schoenberg,Arnold Schoenberg
+entertainment_music_genre,wh,twelve-tone technique,uses,tone row,What does twelve-tone technique use?,tone row,Serialism
+entertainment_music_genre,wh,dholak,instrumentation,qawwali,Which music genre's instrumentation is dholak?,qawwali,Indian classical
+entertainment_music_genre,wh,tropicália,country of origin,Brazil,What is the country of origin of tropicália?,Brazil,Brazil
+entertainment_music_genre,wh,jungle,country of origin,United Kingdom,What is the country of origin of jungle?,United Kingdom,India
+entertainment_music_genre,wh,jungle,influenced by,grime,Which music genre was influenced by jungle?,grime,Drum and Bass
+entertainment_music_genre,wh,banjo,instrumentation,bluegrass music,Which music genre's instrumentation is banjo?,bluegrass music,Bluegrass
+entertainment_music_genre,wh,Harlem Renaissance,movement,stride piano,Which music genre's movement is Harlem Renaissance?,stride piano,Jazz
+entertainment_music_genre,wh,music of Azerbaijan,country,Azerbaijan,What is the country of music of Azerbaijan?,Azerbaijan,Mugham
+entertainment_music_genre,wh,Western swing,influenced by,swing music,What was Western swing influenced by?,swing music,"Jazz, blues, and country"
+entertainment_music_genre,wh,Jean-Philippe Rameau,uses,jig,Which music genre uses Jean-Philippe Rameau?,jig,Baroque
+entertainment_music_genre,wh,choir,instrumentation,choral music,Which music genre's instrumentation is choir?,choral music,Classical
+entertainment_music_genre,wh,traditional folk singer,practiced by,traditional folk music,Which music genre was practiced by traditional folk singer?,traditional folk music,Folk
+entertainment_music_genre,wh,oi!,country of origin,United Kingdom,What is the country of origin of oi!?,United Kingdom,Greece
+entertainment_music_genre,wh,Taiwan,country of origin,Hokkien pop,Which music genre's country of origin is Taiwan?,Hokkien pop,Taiwanese folk music
+entertainment_music_genre,wh,choral music,instrumentation,choir,What is the instrumentation of choral music?,choir,Vocal
+entertainment_music_genre,wh,choral music,practiced by,choir director,What was choral music practiced by?,choir director,Churches
+entertainment_music_genre,wh,choral music,has part(s),chorale,What does choral music have part(s )?,chorale,Vocal
+entertainment_music_genre,wh,enka,country of origin,Japan,What is the country of origin of enka?,Japan,Japan
+entertainment_music_genre,wh,enka,based on,Hokkien pop,Which music genre was based on enka?,Hokkien pop,Kayōkyoku
+entertainment_music_genre,wh,samba,country of origin,Brazil,What is the country of origin of samba?,Brazil,Brazil
+entertainment_music_genre,wh,protest,main subject,protest song,Which music genre's main subject is protest?,protest song,Protest music
+entertainment_music_genre,wh,clausula,said to be the same as,cadence,What did clausula say to be the same as?,cadence,"""Quod erat demonstrandum"""
+entertainment_music_genre,wh,electronica,influenced by,trip hop,Which music genre was influenced by electronica?,trip hop,House
+entertainment_music_genre,wh,music of Africa,has part(s),music of North Africa,What does music of Africa have part(s )?,music of North Africa,Polyrhythms
+entertainment_music_genre,wh,drum kit,has part(s),conjunto,Which music genre has part(s) drum kit?,conjunto,Rock
+entertainment_music_genre,wh,doom metal,country of origin,United Kingdom,What is the country of origin of doom metal?,United Kingdom,England
+entertainment_music_genre,wh,doom metal,named after,Epicus Doomicus Metallicus,What was doom metal named after?,Epicus Doomicus Metallicus,"Black Sabbath's song ""Black Doom"""
+entertainment_music_genre,wh,doom metal,influenced by,stoner rock,Which music genre was influenced by doom metal?,stoner rock,Sludge
+entertainment_music_genre,wh,rock opera,named after,opera,What was rock opera named after?,opera,Tommy
+entertainment_music_genre,wh,Celtic art,culture,jig,Which music genre's culture is Celtic art?,jig,Folk
+entertainment_music_genre,wh,music of Venezuela,country,Venezuela,What is the country of music of Venezuela?,Venezuela,Joropo
+entertainment_music_genre,wh,jōruri,uses,Shamisen,Who does jōruri use?,Shamisen,Shamisen
+entertainment_music_genre,wh,Classical period,follows,Baroque music,What does Classical period follow?,Baroque music,Baroque
+entertainment_music_genre,wh,Classical period,followed by,Romantic music,What was Classical period followed by?,Romantic music,Romantic
+entertainment_music_genre,wh,Classical period,followed by,Baroque music,Which music genre was followed by Classical period?,Baroque music,Baroque
+entertainment_music_genre,wh,Classical period,follows,Romantic music,Which music genre follows Classical period?,Romantic music,Romantic
+entertainment_music_genre,wh,gagok,country,South Korea,What is the country of gagok?,South Korea,Unknown
+entertainment_music_genre,wh,gagok,country of origin,Korea,What is the country of origin of gagok?,Korea,Korea
+entertainment_music_genre,wh,tango,based on,tango music,Which music genre was based on tango?,tango music,Bossa Nova
+entertainment_music_genre,wh,Russian Empire,country of origin,Russian romance,Which music genre's country of origin is Russian Empire?,Russian romance,Romanticism
+entertainment_music_genre,wh,Japanese rock,country of origin,Japan,What is the country of origin of Japanese rock?,Japan,Japan
+entertainment_music_genre,wh,Japanese rock,influenced by,visual kei,Which music genre was influenced by Japanese rock?,visual kei,Visual Kei
+entertainment_music_genre,wh,Ireland,country,music of Ireland,Which music genre's country is Ireland?,music of Ireland,Celtic
+entertainment_music_genre,wh,instrumental music,has cause,musical instrument,What does instrumental music have cause?,musical instrument,Emotions
+entertainment_music_genre,wh,Greece,country,music of Greece,Which music genre's country is Greece?,music of Greece,Laika
+entertainment_music_genre,wh,cadence,said to be the same as,clausula,Which music genre said to be the same as cadence?,clausula,Marching
+entertainment_music_genre,wh,Black Sabbath,influenced by,doom metal,Which music genre was influenced by Black Sabbath?,doom metal,Heavy Metal
+entertainment_music_genre,wh,bass guitar,has part(s),conjunto,Which music genre has part(s) bass guitar?,conjunto,Rock
+entertainment_music_genre,wh,folk punk,country of origin,United Kingdom,What is the country of origin of folk punk?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,ranchera,country of origin,Mexico,What is the country of origin of ranchera?,Mexico,Mexico
+entertainment_music_genre,wh,early music,followed by,Baroque music,What was early music followed by?,Baroque music,Classical
+entertainment_music_genre,wh,distortion,uses,hyperpop,Which music genre uses distortion?,hyperpop,Rock
+entertainment_music_genre,wh,vocal music,has cause,singing,What does vocal music have cause?,singing,Vibrations
+entertainment_music_genre,wh,vocal music,practiced by,singer,What was vocal music practiced by?,singer,Ancient civilizations
+entertainment_music_genre,wh,neoclassicism,movement,swing music,Which music genre's movement is neoclassicism?,swing music,Classical
+entertainment_music_genre,wh,fugue,has part(s),coda,What does fugue have part(s )?,coda,Multiple
+entertainment_music_genre,wh,carol,country of origin,Kingdom of England,What is the country of origin of carol?,Kingdom of England,England
+entertainment_music_genre,wh,alcoholic beverage,named after,drinking song,Which music genre was named after alcoholic beverage?,drinking song,Jazz
+entertainment_music_genre,wh,Peru,country,music of Peru,Which music genre's country is Peru?,music of Peru,Fusion
+entertainment_music_genre,wh,Byzantine Empire,culture,Byzantine music,Which music genre's culture is Byzantine Empire?,Byzantine music,Byzantine Music
+entertainment_music_genre,wh,Latin hip hop,location of creation,The Bronx,What is the location of creation of Latin hip hop?,The Bronx,New York City
+entertainment_music_genre,wh,furniture music,significant person,Erik Satie,Who is the significant person of furniture music?,Erik Satie,Tim Hecker
+entertainment_music_genre,wh,gothic metal,country of origin,United Kingdom,What is the country of origin of gothic metal?,United Kingdom,Netherlands
+entertainment_music_genre,wh,happy hardcore,based on,nightcore,Which music genre was based on happy hardcore?,nightcore,Uplifting trance
+entertainment_music_genre,wh,synthwave,country of origin,United Kingdom,What is the country of origin of synthwave?,United Kingdom,France
+entertainment_music_genre,wh,big band music,said to be the same as,swing music,What did big band music say to be the same as?,swing music,Swing
+entertainment_music_genre,wh,gagaku,country of origin,Japan,What is the country of origin of gagaku?,Japan,Japan
+entertainment_music_genre,wh,dark wave,influenced by,visual kei,Which music genre was influenced by dark wave?,visual kei,Industrial
+entertainment_music_genre,wh,house music,location of creation,Chicago,What is the location of creation of house music?,Chicago,Chicago
+entertainment_music_genre,wh,blues rock,influenced by,blues,What was blues rock influenced by?,blues,Delta blues
+entertainment_music_genre,wh,blues rock,influenced by,heavy metal,Which music genre was influenced by blues rock?,heavy metal,Southern rock
+entertainment_music_genre,wh,roots reggae,country of origin,Jamaica,What is the country of origin of roots reggae?,Jamaica,Jamaica
+entertainment_music_genre,wh,drone metal,influenced by,drone music,What was drone metal influenced by?,drone music,"Noise, doom, and ambient music"
+entertainment_music_genre,wh,bolero,country of origin,Cuba,What is the country of origin of bolero?,Cuba,Cuba
+entertainment_music_genre,wh,bolero,country,Mexico,What is the country of bolero?,Mexico,Cuba
+entertainment_music_genre,wh,Grandmaster Flash,significant person,hip hop music,Which music genre's significant person is Grandmaster Flash?,hip hop music,Hip-Hop
+entertainment_music_genre,wh,acid jazz,country of origin,United Kingdom,What is the country of origin of acid jazz?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,Rabindra Sangeet,country of origin,British Raj,What is the country of origin of Rabindra Sangeet?,British Raj,India
+entertainment_music_genre,wh,Rabindra Sangeet,language of work or name,Bangla,What is the language of work or name of Rabindra Sangeet?,Bangla,Bengali
+entertainment_music_genre,wh,metal music,influenced by,trap metal,Which music genre was influenced by metal music?,trap metal,Industrial
+entertainment_music_genre,wh,Mary Anne Hobbs,significant person,dubstep,Which music genre's significant person is Mary Anne Hobbs?,dubstep,Electronic
+entertainment_music_genre,wh,Italy,country,music of Italy,Which music genre's country is Italy?,music of Italy,Opera
+entertainment_music_genre,wh,saxophone,has part(s),conjunto,Which music genre has part(s) saxophone?,conjunto,Jazz
+entertainment_music_genre,wh,Panama,country of origin,cumbia,Which music genre's country of origin is Panama?,cumbia,Salsa
+entertainment_music_genre,wh,Gérard Grisey,significant person,spectral music,Which music genre's significant person is Gérard Grisey?,spectral music,Minimalism
+entertainment_music_genre,wh,UK garage,country of origin,United Kingdom,What is the country of origin of UK garage?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,UK garage,based on,dubstep,Which music genre was based on UK garage?,dubstep,Dubstep
+entertainment_music_genre,wh,UK garage,influenced by,grime,Which music genre was influenced by UK garage?,grime,Dubstep
+entertainment_music_genre,wh,tabla,instrumentation,qawwali,Which music genre's instrumentation is tabla?,qawwali,Indian classical
+entertainment_music_genre,wh,K-pop,country of origin,South Korea,What is the country of origin of K-pop?,South Korea,South Korea
+entertainment_music_genre,wh,reggaeton,country of origin,Puerto Rico,What is the country of origin of reggaeton?,Puerto Rico,Puerto Rico
+entertainment_music_genre,wh,stride piano,movement,Harlem Renaissance,What is the movement of stride piano?,Harlem Renaissance,Impressionistic
+entertainment_music_genre,wh,country music,practiced by,country musician,What was country music practiced by?,country musician,Appalachian people
+entertainment_music_genre,wh,kuduro,country of origin,Angola,What is the country of origin of kuduro?,Angola,Angola
+entertainment_music_genre,wh,musical instrument,has cause,instrumental music,Which music genre has cause musical instrument?,instrumental music,Electronic
+entertainment_music_genre,wh,no wave,location of creation,New York City,What is the location of creation of no wave?,New York City,New York City
+entertainment_music_genre,wh,Claude Debussy,uses,jig,Which music genre uses Claude Debussy?,jig,Impressionism
+entertainment_music_genre,wh,ragtime,uses,piano,What does ragtime use?,piano,Piano
+entertainment_music_genre,wh,Catalonia,location,sardana,Which music genre's location is Catalonia?,sardana,Rumba
+entertainment_music_genre,wh,art rock,country of origin,United Kingdom,What is the country of origin of art rock?,United Kingdom,United Kingdom
+entertainment_music_genre,wh,Christmas tradition,has characteristic,Christmas music,Which music genre has characteristic Christmas tradition?,Christmas music,Classical
+entertainment_music_genre,wh,Texas country music,based on,country music,Which music genre was based on Texas country music?,country music,Red Dirt
+entertainment_music_genre,wh,music of Germany,country,Germany,What is the country of music of Germany?,Germany,Krautrock
+entertainment_music_genre,wh,Middle Ages,covered period,medieval music,Which music genre's covered period is Middle Ages?,medieval music,Troubadour
+entertainment_music_genre,wh,city pop,country of origin,Japan,What is the country of origin of city pop?,Japan,Japan
+entertainment_music_genre,wh,city pop,named after,city,What was city pop named after?,city,Urban
+entertainment_music_genre,wh,ska,based on,rocksteady,Which music genre was based on ska?,rocksteady,Rocksteady
+entertainment_music_genre,wh,Johann Sebastian Bach,uses,jig,Which music genre uses Johann Sebastian Bach?,jig,Classical
+entertainment_music_genre,wh,music of South Africa,country,South Africa,What is the country of music of South Africa?,South Africa,Afrobeat
+entertainment_music_genre,wh,pop music,practiced by,pop singer,What was pop music practiced by?,pop singer,Youth
+entertainment_music_genre,wh,pop music,based on,rock and roll,What was pop music based on?,rock and roll,Rock and roll
+entertainment_music_genre,wh,pop music,inspired by,new jack swing,Which music genre was inspired by pop music?,new jack swing,Dance
+entertainment_music_genre,wh,soul,influenced by,acid jazz,Which music genre was influenced by soul?,acid jazz,Funk
+entertainment_music_genre,wh,soul,inspired by,new jack swing,Which music genre was inspired by soul?,new jack swing,Funk
+entertainment_music_genre,wh,Israel,country,music of Israel,Which music genre's country is Israel?,music of Israel,Mizrahi
+entertainment_music_genre,wh,turntablism,named after,phonograph,What was turntablism named after?,phonograph,Turntables
+entertainment_music_genre,wh,Azerbaijan,country,music of Azerbaijan,Which music genre's country is Azerbaijan?,music of Azerbaijan,Mugham
+entertainment_music_genre,wh,Azerbaijan,country of origin,mugham,Which music genre's country of origin is Azerbaijan?,mugham,Mugham
+entertainment_music_genre,wh,trap metal,influenced by,metal music,What was trap metal influenced by?,metal music,Hip-Hop
+entertainment_music_genre,wh,rock musician,practiced by,rock music,Which music genre was practiced by rock musician?,rock music,Rock
+entertainment_music_genre,wh,tanpura,instrumentation,qawwali,Which music genre's instrumentation is tanpura?,qawwali,Indian classical
+entertainment_music_genre,wh,New York City,location of formation,punk rock,Which music genre's location of formation is New York City?,punk rock,Hip-Hop
+entertainment_music_genre,wh,New York City,location of creation,no wave,Which music genre's location of creation is New York City?,no wave,Hip-Hop
+entertainment_music_genre,wh,kwaito,country of origin,South Africa,What is the country of origin of kwaito?,South Africa,South Africa
+entertainment_music_genre,wh,J-pop,country of origin,Japan,What is the country of origin of J-pop?,Japan,Japan
 art_literary,wh,Cassandra Clare,author,City of Bones,Which literary work's author is Cassandra Clare?,City of Bones,Mortal Instruments
 art_literary,wh,The Vampire Lestat,publisher,Alfred A. Knopf,Who is the publisher of The Vampire Lestat?,Alfred A. Knopf,Penguin
 art_literary,wh,The Vampire Lestat,follows,Interview with the Vampire,What does The Vampire Lestat follow?,Interview with the Vampire,The Queen of the Damned
