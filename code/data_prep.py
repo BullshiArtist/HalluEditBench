@@ -179,7 +179,7 @@ class FactChecker:
         data = []
         print("====Start retrieving fact triplets!====")
         # for topic in self.topics:
-        self.topic_name = 'music festival' #"television series"
+        self.topic_name = 'anime' #"television series"
         for topic in [f'{{"instance of": "{self.topic_name}"}}\n']:
             if topic:
                 topic = json.loads(topic)
@@ -230,29 +230,30 @@ class FactChecker:
         condition2 = self.fact_triplets.apply(lambda row: any(val.startswith('http') for val in row.values), axis=1)
         
         self.fact_triplets = self.fact_triplets[~(condition1 | condition2)]  
+        self.fact_triplets.to_csv(f'../data/questions/triplets/new_{self.topic_name}.csv', index=False)
         # Create a directed graph
-        self.directed_graph = nx.DiGraph()
-        for index, row in self.fact_triplets.iterrows():
-            node = row[0]
-            node = self.remove_additional_spaces(node)
-            self.directed_graph.add_node(node.replace('\n', ''))
-            edge = self.remove_additional_spaces(row[1])
-            adjacent_node = self.remove_additional_spaces(row[2])
-            self.directed_graph.add_node(adjacent_node.replace('\n', ''))
-            self.directed_graph.add_edge(node.replace('\n', ''), adjacent_node.replace('\n', ''), label=edge)   
-        # file_name = self.out_file_name.split("_")[0]
-        # folder_name = "graph"
-        # # Check if the folder exists
-        # if not os.path.exists(folder_name):
-        #     # Create the folder
-        #     os.makedirs(folder_name)
-        #     print(f"Folder '{folder_name}' created successfully.")
+        # self.directed_graph = nx.DiGraph()
+        # for index, row in self.fact_triplets.iterrows():
+        #     node = row[0]
+        #     node = self.remove_additional_spaces(node)
+        #     self.directed_graph.add_node(node.replace('\n', ''))
+        #     edge = self.remove_additional_spaces(row[1])
+        #     adjacent_node = self.remove_additional_spaces(row[2])
+        #     self.directed_graph.add_node(adjacent_node.replace('\n', ''))
+        #     self.directed_graph.add_edge(node.replace('\n', ''), adjacent_node.replace('\n', ''), label=edge)   
+        # # file_name = self.out_file_name.split("_")[0]
+        # # folder_name = "graph"
+        # # # Check if the folder exists
+        # # if not os.path.exists(folder_name):
+        # #     # Create the folder
+        # #     os.makedirs(folder_name)
+        # #     print(f"Folder '{folder_name}' created successfully.")
         
-        graph_path = f'../data/graph/{self.topic_name}_graph.gpickle'
-        print('Saving graph to', graph_path)
-        # nx.write_gpickle(self.directed_graph, '../data/graph/'+file_name + '_graph_tmp' + '.gpickle')
-        with open(graph_path, 'wb') as f:
-            pickle.dump(self.directed_graph, f)
+        # graph_path = f'../data/graph/{self.topic_name}_graph.gpickle'
+        # print('Saving graph to', graph_path)
+        # # nx.write_gpickle(self.directed_graph, '../data/graph/'+file_name + '_graph_tmp' + '.gpickle')
+        # with open(graph_path, 'wb') as f:
+        #     pickle.dump(self.directed_graph, f)
 
 
     def read_graph_file(self):
@@ -409,7 +410,7 @@ class FactChecker:
         return question_answer_pair
 
 
-    def wh_question_generation(self, subject, relation, object, multi_hops=1, query_subject = False):
+    def wh_question_generation(self, subject, relation, object, multi_hops=1, query_subject=False):
         object_type1 = None
         object_type2 = None
         object_type = None
@@ -417,7 +418,7 @@ class FactChecker:
         convert_dict1 = {
             "PER": "PERSON",
             "LOC": "GPE"
-            }
+        }
 
         ####### method 1
         sentence = Sentence(object)
@@ -727,137 +728,161 @@ class FactChecker:
         wh_flag = False
         MC_flag = False
         YN_flag = False
-        for node in tqdm(tmp_list[:self.limit_nodes]):            
-            if wh_flag and MC_flag and YN_flag:
-                break
-            relation_query_object = []
-            relation_query_subject = []
-            duplicate_relation_query_object = []
-            duplicate_relation_query_subject = []
+
+        remove_pairs, all_pairs = set(), []
+        for node in self.directed_graph.nodes():
             for _, target, edge_data in self.directed_graph.out_edges(node, data=True):
-                label = edge_data['label']
-                if label in relation_query_object:
-                    duplicate_relation_query_object.append(label)
+                relation = edge_data['label']
+                if (node, relation) in all_pairs:
+                    remove_pairs.add((node, relation))
                 else:
-                    relation_query_object.append(label)
+                    all_pairs.append((node, relation))
             for _, target, edge_data in self.directed_graph.in_edges(node, data=True):
-                label = edge_data['label']
-                if label in relation_query_subject:
-                    duplicate_relation_query_subject.append(label)
+                relation = edge_data['label']
+                if (node, relation) in all_pairs:
+                    remove_pairs.add((node, relation))
                 else:
-                    relation_query_subject.append(label)
+                    all_pairs.append((node, relation))
+        print(f"all_pairs length: {len(all_pairs)}, remove_pairs length: {len(remove_pairs)}")
+        
+        for node in tqdm(tmp_list[:]):  # self.limit_nodes          
+            # if wh_flag and MC_flag and YN_flag:
+            #     break
+            # relation_query_object = []
+            # relation_query_subject = []
+            # duplicate_relation_query_object = []
+            # duplicate_relation_query_subject = []
+            # for _, target, edge_data in self.directed_graph.out_edges(node, data=True):
+                # label = edge_data['label']
+                # if label in relation_query_object:
+                #     duplicate_relation_query_object.append(label)
+                # else:
+                #     relation_query_object.append(label)
+            # for _, target, edge_data in self.directed_graph.in_edges(node, data=True):
+                # label = edge_data['label']
+                # if label in relation_query_subject:
+                #     duplicate_relation_query_subject.append(label)
+                # else:
+                #     relation_query_subject.append(label)
+                    
             for _, target, edge_data in self.directed_graph.out_edges(node, data=True):
-                label = edge_data['label']
+                label = edge_data['label']  # label = relation
                 if label in remove_relation:
                     continue
-                if label not in duplicate_relation_query_object:
+                # if label not in duplicate_relation_query_object:
+                if (node, label) not in remove_pairs:
                     if not wh_flag:
                         wh_question = self.wh_question_generation(node, label, target)
                         if wh_question:
                             wh_question_set.append(wh_question)
                             # self.question_set.append(wh_question)
-                if len(wh_question_set) >= self.wh_number:
-                    wh_flag = True
-                if not YN_flag:
-                    yes_no_question = self.yes_no_question_generation(node, label, target, "Yes")
-                    if yes_no_question:
-                        yes_no_question_set.append(yes_no_question)
-                        # self.question_set.append(yes_no_question)
-                if len(yes_no_question_set) >= self.yes_no_number:
-                    YN_flag = True
-                disturb_nodes = []
+                # if len(wh_question_set) >= self.wh_number:
+                #     wh_flag = True
+                # if not YN_flag:
+                #     yes_no_question = self.yes_no_question_generation(node, label, target, "Yes")
+                #     if yes_no_question:
+                #         yes_no_question_set.append(yes_no_question)
+                #         # self.question_set.append(yes_no_question)
+                # if len(yes_no_question_set) >= self.yes_no_number:
+                #     YN_flag = True
+                # disturb_nodes = []
                 count = 0
                 outedges = [v for u, v, attr in self.directed_graph.out_edges(node, data=True) if attr['label'] == label]
 
-                if len(relation_set[label]) >= 4:
-                    flag = 0
-                    while count < 3 and flag < 100:
-                        random_edge = random.choice(relation_set[label])
-                        random_node = random_edge[1]
-                        if random_node not in disturb_nodes and random_node != target and random_node not in outedges and random_node != node:
-                            disturb_nodes.append(random_node)
-                            count += 1
-                        flag += 1
-                    if count > 0:
-                        disturb_node = random.choice(disturb_nodes)
-                        if not YN_flag:
-                            yes_no_question = self.yes_no_question_generation(node, label, disturb_node, "No")
-                            if yes_no_question:
-                                yes_no_question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
-                                # self.question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
-                    if len(yes_no_question_set) >= self.yes_no_number:
-                        YN_flag = True
+                # if len(relation_set[label]) >= 4:
+                #     flag = 0
+                #     while count < 3 and flag < 100:
+                #         random_edge = random.choice(relation_set[label])
+                #         random_node = random_edge[1]
+                #         if random_node not in disturb_nodes and random_node != target and random_node not in outedges and random_node != node:
+                #             disturb_nodes.append(random_node)
+                #             count += 1
+                #         flag += 1
+                #     if count > 0:
+                #         disturb_node = random.choice(disturb_nodes)
+                #         if not YN_flag:
+                #             yes_no_question = self.yes_no_question_generation(node, label, disturb_node, "No")
+                #             if yes_no_question:
+                #                 yes_no_question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
+                #                 # self.question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
+                #     if len(yes_no_question_set) >= self.yes_no_number:
+                #         YN_flag = True
                 
-                    if count >= 3:
-                        if not MC_flag:
-                            MC_question = self.MC_question_generation(node, label, target, disturb_nodes[0], disturb_nodes[1], disturb_nodes[2])
-                            if MC_question:
-                                MC_question_set.append(MC_question)
-                                # self.question_set.append(MC_question)
-                    if len(MC_question_set) >= self.MC_number:
-                        MC_flag = True
-                elif len(relation_set[label]) >=2:
-                    flag = 0
-                    while count < 1 and flag < 100:
-                        random_edge = random.choice(relation_set[label])
-                        random_node = random_edge[1]
-                        if random_node not in outedges:
-                            disturb_nodes.append(random_node)
-                            count += 1
-                        flag += 1
-                    if count > 0:
-                        disturb_node = disturb_nodes[0]
-                        if not YN_flag:
-                            yes_no_question = self.yes_no_question_generation(node, label, disturb_node, "No")
-                            if yes_no_question:
-                                yes_no_question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
-                                # self.question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
-                    if len(yes_no_question_set) >= self.yes_no_number:
-                        YN_flag = True
+                #     if count >= 3:
+                #         if not MC_flag:
+                #             MC_question = self.MC_question_generation(node, label, target, disturb_nodes[0], disturb_nodes[1], disturb_nodes[2])
+                #             if MC_question:
+                #                 MC_question_set.append(MC_question)
+                #                 # self.question_set.append(MC_question)
+                #     if len(MC_question_set) >= self.MC_number:
+                #         MC_flag = True
 
-            for target, _, edge_data in self.directed_graph.in_edges(node, data=True):
-                label = edge_data['label']
-                if label in remove_relation:
-                    continue
-                if label not in duplicate_relation_query_subject:
-                    if not wh_flag:
-                        wh_question = self.wh_question_generation(node, label, target, query_subject=True)
-                        if wh_question:
-                            wh_question_set.append(wh_question)
-                            # self.question_set.append(wh_question)
-                if len(wh_question_set) >= self.wh_number:
-                    wh_flag = True
+                # elif len(relation_set[label]) >=2:
+                #     flag = 0
+                #     while count < 1 and flag < 100:
+                #         random_edge = random.choice(relation_set[label])
+                #         random_node = random_edge[1]
+                #         if random_node not in outedges:
+                #             disturb_nodes.append(random_node)
+                #             count += 1
+                #         flag += 1
+                #     if count > 0:
+                #         disturb_node = disturb_nodes[0]
+                #         if not YN_flag:
+                #             yes_no_question = self.yes_no_question_generation(node, label, disturb_node, "No")
+                #             if yes_no_question:
+                #                 yes_no_question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
+                #                 # self.question_set.append(self.yes_no_question_generation(node, label, disturb_node, "No"))
+                #     if len(yes_no_question_set) >= self.yes_no_number:
+                #         YN_flag = True
+
+            # for target, _, edge_data in self.directed_graph.in_edges(node, data=True):
+            #     label = edge_data['label']
+            #     if label in remove_relation:
+            #         continue
+            #     # if label not in duplicate_relation_query_subject:
+            #     if (node, label) not in remove_pairs:
+            #         if not wh_flag:
+            #             wh_question = self.wh_question_generation(node, label, target, query_subject=True)
+            #             if wh_question:
+            #                 wh_question_set.append(wh_question)
+            #                 # self.question_set.append(wh_question)
+                # if len(wh_question_set) >= len(all_pairs) - len(remove_pairs): # self.wh_number:  # generate all wh questions
+                #     wh_flag = True
                 disturb_nodes = []
                 count = 0
                 inedges = [u for u, v, attr in self.directed_graph.in_edges(node, data=True) if attr['label'] == label]
                 
-                if len(relation_set[label]) >= 4:
-                    flag = 0
-                    while count < 3 and flag < 100:
-                        random_edge = random.choice(relation_set[label])
-                        random_node = random_edge[0]
-                        if random_node not in disturb_nodes and random_node != target and random_node not in inedges and random_node != node:
-                            disturb_nodes.append(random_node)
-                            count += 1
-                        flag += 1
-                    if count >= 3:
-                        if not MC_flag:
-                            MC_question = self.MC_question_generation(node, label, target, disturb_nodes[0], disturb_nodes[1], disturb_nodes[2], query_subject=True)
-                            if MC_question:
-                                MC_question_set.append(MC_question)
-                                # self.question_set.append(MC_question)
-                    if len(MC_question_set) >= self.MC_number:
-                        MC_flag = True
-        self.question_set = yes_no_question_set + MC_question_set + wh_question_set
-        if not self.check_grammar_flag and not self.diversify_method:
-            local_out_file_name = self.out_file_name.replace("topic_","")#.split("_")[0] 
-            with open(self.out_file_path + local_out_file_name + "_questions.json", "w", encoding='utf-8') as json_file:
-                for record in tqdm(self.question_set, desc="Saving questions", unit="question"):
-                    if record['type'] == "MC":
-                        record["question"] = record['question'].split("\t\t")[0] + "        " + record['question'].split("\t\t")[-1]
-                    json_string = json.dumps(record)
-                    json_file.write(json_string + "\n")
-                    count += 1
+                # if len(relation_set[label]) >= 4:
+                    # flag = 0
+                    # while count < 3 and flag < 100:
+                    #     random_edge = random.choice(relation_set[label])
+                    #     random_node = random_edge[0]
+                    #     if random_node not in disturb_nodes and random_node != target and random_node not in inedges and random_node != node:
+                    #         disturb_nodes.append(random_node)
+                    #         count += 1
+                    #     flag += 1
+                    # if count >= 3:
+                    #     if not MC_flag:
+                    #         MC_question = self.MC_question_generation(node, label, target, disturb_nodes[0], disturb_nodes[1], disturb_nodes[2], query_subject=True)
+                    #         if MC_question:
+                    #             MC_question_set.append(MC_question)
+                    #             # self.question_set.append(MC_question)
+                    # if len(MC_question_set) >= self.MC_number:
+                    #     MC_flag = True
+
+        self.question_set = wh_question_set  # yes_no_question_set + MC_question_set + 
+        # if not self.check_grammar_flag and not self.diversify_method:
+        #     local_out_file_name = self.out_file_name.replace("topic_","")#.split("_")[0] 
+        #     with open(self.out_file_path + local_out_file_name + "_questions.json", "w", encoding='utf-8') as json_file:
+        #         for record in tqdm(self.question_set, desc="Saving questions", unit="question"):
+        #             if record['type'] == "MC":
+        #                 record["question"] = record['question'].split("\t\t")[0] + "        " + record['question'].split("\t\t")[-1]
+        #             json_string = json.dumps(record)
+        #             json_file.write(json_string + "\n")
+        #             count += 1
+        df = pd.DataFrame(wh_question_set)
+        df[['subject', 'relation', 'object', 'question']].to_csv(f"{self.out_file_path}/{self.out_file_name}_questions.csv", index=False)
         print("====Finished generating questions!====")
         return self.question_set
     
@@ -1842,9 +1867,9 @@ def parse_args():
         help="Only check the final performance of the given chatbot")
     parser.add_argument("--limit_nodes", type=int, default=5000,
         help="The maximun number of nodes traversed for generating questions")
-    parser.add_argument("--yes_no_number", type=int, default=500,
+    parser.add_argument("--yes_no_number", type=int, default=0,
         help="The number of generated yes_no questions")
-    parser.add_argument("--MC_number", type=int, default=500,
+    parser.add_argument("--MC_number", type=int, default=0,
         help="The number of generated MC questions")
     parser.add_argument("--wh_number", type=int, default=500,
         help="The number of generated wh_questions")
@@ -1895,8 +1920,8 @@ if __name__ == "__main__":
                 if not read_graph:
                     asker.fact_triplets_retrival()
                     asker.graph_creating()
-                    if visualise:
-                        asker.visualise_fact_graph()
+                    # if visualise:
+                    #     asker.visualise_fact_graph()
                 else:
                     asker.read_graph_file()
                 if multi_hops == 1:
@@ -1909,15 +1934,15 @@ if __name__ == "__main__":
                 #     await asker.diversify_questions()
             # if not generate_questions_only:
             #     await asker.question_asking()
-        if not generate_questions_only:
-            asker.evaluation_for_MC_TF_question()
-            if multi_hops == 1:
-                print("====Start evaluating AI conversational model's performance on wh-questions!====")
-                # asker.Levenshtein_distance_evaluation()
-                # asker.N_grams_evaluation()
-                # asker.Word_embeddings_evaluation()
-                asker.Sentence_transformer_evaluation()
-                # await asker.ChatGPT_evaluation()
-                print("====Finished evaluating AI conversational model's performance on wh-questions!====")
+        # if not generate_questions_only:
+        #     asker.evaluation_for_MC_TF_question()
+        #     if multi_hops == 1:
+        #         print("====Start evaluating AI conversational model's performance on wh-questions!====")
+        #         # asker.Levenshtein_distance_evaluation()
+        #         # asker.N_grams_evaluation()
+        #         # asker.Word_embeddings_evaluation()
+        #         asker.Sentence_transformer_evaluation()
+        #         # await asker.ChatGPT_evaluation()
+        #         print("====Finished evaluating AI conversational model's performance on wh-questions!====")
 
     asyncio.run(main())

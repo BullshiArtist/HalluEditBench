@@ -63,7 +63,7 @@ def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=Fals
     device = device_eval if eval_flag else hparams.device
     terminators = [tok.eos_token_id, tok.convert_tokens_to_ids("<|eot_id|>")]
     
-    if hparams.alg_name in ['SERAC', 'MEND', 'LoRA']:  # 
+    if hparams and hparams.alg_name in ['SERAC', 'MEND', 'LoRA']:  # 
         msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
         output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
         return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
@@ -80,27 +80,41 @@ def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=Fals
         return tok.decode(output_ids[0][msg_tokenized.shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
 
 
+system_msg_eval = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically; otherwise, output '0'. Do not repeat the question or provide any explanation."   
+system_msg_qa = "Always respond to the input question concisely with a short phrase or a single-word answer. Do not repeat the question or provide any explanation."
+
 seed_everything(42)
-device_eval = 'cuda:7'
+device_eval = 'cuda:2'
 # Model for evaluating the correctness of the prediction compared to the label
 model_id_eval = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 tok_eval = AutoTokenizer.from_pretrained(model_id_eval)
 model_eval = AutoModelForCausalLM.from_pretrained(model_id_eval, torch_dtype='auto').to(device_eval)
 
-system_msg_eval = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically; otherwise, output '0'. Do not repeat the question or provide any explanation."   
-system_msg_qa = "Always respond to the input question concisely with a short phrase or a single-word answer. Do not repeat the question or provide any explanation."
+
+def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label):
+    if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Rule-based fuzzy match
+        response_eval = 1
+    else:
+        user_msg_eval = f"""Text 1: {label} \nText 2: {output_qa}"""
+        messages_eval = [{"role": "system", "content": system_msg_eval}, {"role": "user", "content": user_msg_eval}]
+        response_eval = get_response(hparams, model_eval, tok_eval, messages_eval, eval_flag=True)
+
+    print(f"===== Question: {prompt_qa} | Prediction: {output_qa} | Label: {label} | Evaluation: {response_eval} =====")  #  (1 denotes correct)
+    if str(response_eval) not in ['0', '1']:
+        response_eval = 0
+    return int(response_eval), output_qa
 
 
-def test_prediction_acc_llm(hparams, model_qa, tok_qa, prompt_qa, label):
+def test_prediction_acc(hparams, model_qa, tok_qa, prompt_qa, label):
     if isinstance(prompt_qa, list):
         for i, prompt in enumerate(prompt_qa):
             label_ = label[i] if label is not None else None
-            return test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt, label_)
+            return test_prediction_acc_single(hparams, model_qa, tok_qa, prompt, label_)
     else:
-        return test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt_qa, label)
+        return test_prediction_acc_single(hparams, model_qa, tok_qa, prompt_qa, label)
 
 
-def test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt_qa, label):
+def test_prediction_acc_single(hparams, model_qa, tok_qa, prompt_qa, label):
     model_qa_name = hparams.model_name
     user_msg_qa = prompt_qa # f'Question: {prompt_qa}. Answer:'
     if 'llama' in model_qa_name.lower() or 'Mistral-7B-Instruct-v0.3' in model_qa_name:
@@ -115,28 +129,34 @@ def test_prediction_acc_llm_single(hparams, model_qa, tok_qa, prompt_qa, label):
     if label is None:  # For locality questions only return the output, do evaluation after the post-edit is collected in locality_acc_llm()
         return None, output_qa
     
-    if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Rule-basd fuzzy match
-        response_eval = 1
-    else:
-        user_msg_eval = f"""Text 1: {label} \nText 2: {output_qa}"""
-        messages_eval = [{"role": "system", "content": system_msg_eval}, {"role": "user", "content": user_msg_eval}]
-        response_eval = get_response(hparams, model_eval, tok_eval, messages_eval, eval_flag=True)
+    return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label)
 
-    print(f"===== Question: {prompt_qa} | Prediction: {output_qa} | Label: {label} | Evaluation: {response_eval} =====")  #  (1 denotes correct)
-    if str(response_eval) not in ['0', '1']:
-        response_eval = 0
-    return int(response_eval), output_qa
-    
 
-def locality_acc_llm(hparams, pre_edit_output, post_edit_output):
-    # system_msg_locality = "Given two texts, labeled as Text 1 and Text 2, output '1' if they match each other semantically, and output '0' if they do not.\
-    # Only output the final evaluation in a single word. Do not repeat the question or provide explination."
-    prompt_locality = f"Text 1: {pre_edit_output} \n\nText 2: {post_edit_output}"
-    messages_locality = [{"role": "system", "content": system_msg_eval}, {"role": "user", "content": prompt_locality}]
-    response_str = get_response(hparams, model_eval, tok_eval, messages_locality, eval_flag=True)
-    if str(response_str) not in ['0', '1']:
-        return 0
-    return int(response_str)
+def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, prompt_qa, label):
+    acc_ls = []
+    output_qa_ls = []
+    # questions_follow_up = ["Are you sure? Answer Yes or No." for _ in range(10)]
+    questions_follow_up = [f"The correct answer should be {label}, right? Answer Yes or No." for _ in range(10)]
+        # "The answer is wrong. Think again and give the correct answer."
+
+    # questions_follow_up = ["Really?"]
+    # answers_follow_up = ['Yes', label, 'No']
+    messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
+    current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
+    eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label)
+    acc_ls.append(eval_acc)
+    output_qa_ls.append(current_output)
+
+    for question in questions_follow_up:
+        messages_qa.append({"role": "assistant", "content": current_output})
+        messages_qa.append({"role": "user", "content": question})
+        current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
+        # print(f"Question: {question} Follow-up response: {current_output}")
+        eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, "Yes")
+        acc_ls.append(eval_acc)
+        output_qa_ls.append(current_output)
+        
+    return acc_ls, output_qa_ls
 
         
 def compute_edit_or_rephrase_quality(
@@ -146,41 +166,22 @@ def compute_edit_or_rephrase_quality(
     prompt: str,
     target_new: str,
     test_rephrase: bool = False,
-    eval_metric: str = 'token_em'
+    eval_metric: str = 'token_em',
+    multi_turn: bool = False,
 ) -> typing.Dict:
     if not test_rephrase:
         key = 'edit'
     else:
         key = 'rephrase'
-    acc, model_output = test_prediction_acc_llm(hparams, model, tok, prompt, target_new)
-    return {f"{key}_acc": [acc], f"{key}_output": [model_output]}
+    if multi_turn:
+        acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, prompt, target_new)
+        return {f"{key}_acc": [acc_ls[0]], f"{key}_output": [output_ls[0]], f"{key}_acc_multi_turn": acc_ls, f"{key}_output_multi_turn": output_ls}
+    else:   
+        acc, model_output = test_prediction_acc(hparams, model, tok, prompt, target_new)
+        return {f"{key}_acc": [acc], f"{key}_output": [model_output]}
 
 
-def compute_locality_quality(
-    hparams: HyperParams,
-    model,
-    tok: AutoTokenizer,
-    locality_key: str,
-    prompt: typing.Union[str, List[str]],
-    locality_ground_truth: typing.Union[str, List[str]],
-) -> typing.Dict:
-    loc_acc, model_output = test_prediction_acc_llm(hparams, model, tok, prompt, locality_ground_truth)
-    return {f"{locality_key}_acc": [loc_acc], f"{locality_key}_output": [model_output]}
-
-
-def compute_portability_quality(
-    hparams: HyperParams,
-    model,
-    tok: AutoTokenizer,
-    portability_key: str,
-    prompt: typing.Union[str, List[str]],
-    portability_ground_truth: typing.Union[str, List[str]],
-) -> typing.Dict:
-    portability_acc, model_output = test_prediction_acc_llm(hparams, model, tok, prompt, portability_ground_truth)
-    return {f"{portability_key}_acc": [portability_acc], f"{portability_key}_output": [model_output]}
-
-
-def compute_other_questions_quality(
+def compute_general_quality(
     hparams: HyperParams,
     model,
     tok: AutoTokenizer,
@@ -188,8 +189,8 @@ def compute_other_questions_quality(
     prompt: typing.Union[str, List[str]],
     question_ground_truth: typing.Union[str, List[str]],
 ) -> typing.Dict:
-    portability_acc, model_output = test_prediction_acc_llm(hparams, model, tok, prompt, question_ground_truth)
-    return {f"{question_key}_acc": [portability_acc], f"{question_key}_output": [model_output]}
+    acc, model_output = test_prediction_acc(hparams, model, tok, prompt, question_ground_truth)
+    return {f"{question_key}_acc": [acc], f"{question_key}_output": [model_output]}
 
 
 def compute_edit_quality(
@@ -199,7 +200,8 @@ def compute_edit_quality(
     record: typing.Dict,
     eval_metric: str = 'token_em',
     test_generation = False,
-    icl_pre_edit=True
+    icl_pre_edit=True,
+    multi_turn=False
 ) -> typing.Dict:
     """
     Given a rewritten model, computes generalization and specificity metrics for
@@ -226,7 +228,7 @@ def compute_edit_quality(
     else:
         icl_prompt = ""
 
-    ret = compute_edit_or_rephrase_quality(hparams, model, tok, icl_prompt+edit_prompts, target_new, eval_metric=eval_metric)
+    ret = compute_edit_or_rephrase_quality(hparams, model, tok, icl_prompt+edit_prompts, target_new, eval_metric=eval_metric, multi_turn=multi_turn)
 
     ret['locality'] = {}
     ret['portability'] = {}
@@ -243,7 +245,7 @@ def compute_edit_quality(
 
     if rephrase_prompts is not None:
         ret.update(
-            compute_edit_or_rephrase_quality(hparams, model, tok, icl_prompt+rephrase_prompts, target_new, test_rephrase=True, eval_metric=eval_metric)
+            compute_edit_or_rephrase_quality(hparams, model, tok, icl_prompt+rephrase_prompts, target_new, test_rephrase=True, eval_metric=eval_metric, multi_turn=multi_turn)
         )
 
     if 'locality' in record.keys() and any(record['locality']):
@@ -255,8 +257,9 @@ def compute_edit_quality(
                 locality_prompt = icl_prompt + locality_prompt
 
             ret['locality'].update(
-                compute_locality_quality(hparams, model, tok, locality_key, locality_prompt, None)  # record['locality'][locality_key]['ground_truth'] ground_truth is not used in locality evaluation
+                compute_general_quality(hparams, model, tok, locality_key, locality_prompt, None)  # record['locality'][locality_key]['ground_truth'] ground_truth is not used in locality evaluation
             )
+
     if 'portability' in record.keys() and any(record['portability']):
         for portability_key in record['portability'].keys():
             portability_prompt = record['portability'][portability_key]['prompt']
@@ -265,9 +268,7 @@ def compute_edit_quality(
             else:
                 portability_prompt = icl_prompt + portability_prompt
 
-            ret['portability'].update(
-                compute_portability_quality(hparams, model, tok, portability_key, portability_prompt, record['portability'][portability_key]['ground_truth'])
-            )
+            ret['portability'].update(compute_general_quality(hparams, model, tok, portability_key, portability_prompt, record['portability'][portability_key]['ground_truth']))
     
     if 'yes_questions' in record.keys() and any(record['yes_questions']):
         for key in record['yes_questions'].keys():
@@ -277,7 +278,7 @@ def compute_edit_quality(
             else:
                 yes_question = icl_prompt + yes_question
 
-            ret['yes_questions'].update(compute_other_questions_quality(hparams, model, tok, key, yes_question, record['yes_questions'][key]['ground_truth']))
+            ret['yes_questions'].update(compute_general_quality(hparams, model, tok, key, yes_question, record['yes_questions'][key]['ground_truth']))
 
     if 'no_questions' in record.keys() and any(record['no_questions']):
         for key in record['no_questions'].keys():
@@ -287,7 +288,7 @@ def compute_edit_quality(
             else:
                 no_question = icl_prompt + no_question
 
-            ret['no_questions'].update(compute_other_questions_quality(hparams, model, tok, key, no_question, record['no_questions'][key]['ground_truth']))
+            ret['no_questions'].update(compute_general_quality(hparams, model, tok, key, no_question, record['no_questions'][key]['ground_truth']))
 
     if 'multiple_choice_questions' in record.keys() and any(record['multiple_choice_questions']):
         for key in record['multiple_choice_questions'].keys():
@@ -297,7 +298,7 @@ def compute_edit_quality(
             else:
                 multiple_choice_question = icl_prompt + multiple_choice_question
 
-            ret['multiple_choice_questions'].update(compute_other_questions_quality(hparams, model, tok, key, multiple_choice_question, record['multiple_choice_questions'][key]['ground_truth']))
+            ret['multiple_choice_questions'].update(compute_general_quality(hparams, model, tok, key, multiple_choice_question, record['multiple_choice_questions'][key]['ground_truth']))
 
     if 'reversed_relation_questions' in record.keys() and any(record['reversed_relation_questions']):
         for key in record['reversed_relation_questions'].keys():
@@ -307,7 +308,7 @@ def compute_edit_quality(
             else:
                 reversed_relation_question = icl_prompt + reversed_relation_question
 
-            ret['reversed_relation_questions'].update(compute_other_questions_quality(hparams, model, tok, key, reversed_relation_question, record['reversed_relation_questions'][key]['ground_truth']))
+            ret['reversed_relation_questions'].update(compute_general_quality(hparams, model, tok, key, reversed_relation_question, record['reversed_relation_questions'][key]['ground_truth']))
 
     if 'questions_2hop' in record.keys() and any(record['questions_2hop']):
         for key in record['questions_2hop'].keys():
@@ -317,7 +318,7 @@ def compute_edit_quality(
             else:
                 question = icl_prompt + question
 
-            ret['questions_2hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_2hop'][key]['ground_truth']))
+            ret['questions_2hop'].update(compute_general_quality(hparams, model, tok, key, question, record['questions_2hop'][key]['ground_truth']))
 
     if 'questions_3hop' in record.keys() and any(record['questions_3hop']):
         for key in record['questions_3hop'].keys():
@@ -327,7 +328,7 @@ def compute_edit_quality(
             else:
                 question = icl_prompt + question
 
-            ret['questions_3hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_3hop'][key]['ground_truth']))
+            ret['questions_3hop'].update(compute_general_quality(hparams, model, tok, key, question, record['questions_3hop'][key]['ground_truth']))
 
     if 'questions_4hop' in record.keys() and any(record['questions_4hop']):
         for key in record['questions_4hop'].keys():
@@ -337,7 +338,7 @@ def compute_edit_quality(
             else:
                 question = icl_prompt + question
 
-            ret['questions_4hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_4hop'][key]['ground_truth']))
+            ret['questions_4hop'].update(compute_general_quality(hparams, model, tok, key, question, record['questions_4hop'][key]['ground_truth']))
 
     if 'questions_5hop' in record.keys() and any(record['questions_5hop']):
         for key in record['questions_5hop'].keys():
@@ -347,7 +348,7 @@ def compute_edit_quality(
             else:
                 question = icl_prompt + question
 
-            ret['questions_5hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_5hop'][key]['ground_truth']))
+            ret['questions_5hop'].update(compute_general_quality(hparams, model, tok, key, question, record['questions_5hop'][key]['ground_truth']))
 
     if 'questions_6hop' in record.keys() and any(record['questions_6hop']):
         for key in record['questions_6hop'].keys():
@@ -357,7 +358,7 @@ def compute_edit_quality(
             else:
                 question = icl_prompt + question
 
-            ret['questions_6hop'].update(compute_other_questions_quality(hparams, model, tok, key, question, record['questions_6hop'][key]['ground_truth'])) 
+            ret['questions_6hop'].update(compute_general_quality(hparams, model, tok, key, question, record['questions_6hop'][key]['ground_truth'])) 
 
     if test_generation:
         ret['fluency'] = test_generation_quality(model=model,tok=tok,prefixes=edit_prompts if isinstance(edit_prompts,list) else [edit_prompts,], max_out_len=100, vanilla_generation=False)
@@ -444,6 +445,7 @@ class BaseEditor:
              keep_original_weight=False,
              verbose=True,
              summary_metrics=False, 
+             multi_turn=False,
              **kwargs
              ):
         """
@@ -531,11 +533,11 @@ class BaseEditor:
                     metrics = {
                         # "pre": compute_icl_edit_quality(self.model, self.model_name, self.hparams, self.tok, [''],
                         #                                 request, self.hparams.device, pre_edit=True)
-                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, request, test_generation=test_generation, icl_pre_edit=True)
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, request, test_generation=test_generation, icl_pre_edit=True, multi_turn=multi_turn)
                     }
                 else:
                     metrics = {
-                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, request, test_generation=test_generation)
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, request, test_generation=test_generation, multi_turn=multi_turn)
                     }
                 all_metrics.append(metrics)
             if 'pre_file' in kwargs and kwargs['pre_file'] is not None:
@@ -567,14 +569,14 @@ class BaseEditor:
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
-                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, request, test_generation=test_generation, icl_pre_edit=False),
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, request, test_generation=test_generation, icl_pre_edit=False, multi_turn=multi_turn),
                 })
             else:
                 all_metrics[i].update({
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
-                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, request, test_generation=test_generation),
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, request, test_generation=test_generation, multi_turn=multi_turn),
                 })
             if "metric_kwargs" in kwargs:
                 all_metrics[i].update(compute_sent_metric(self.model, edited_model, self.model_name, self.hparams, self.tok, metric_kwargs=kwargs["metric_kwargs"][i], device=self.hparams.device))
@@ -596,10 +598,15 @@ class BaseEditor:
             if 'locality' in all_metrics[i]['post'].keys():
                 for locality_key in request['locality'].keys():
                     locality_result = []
-                    for pre_edit_output, post_edit_output in zip(all_metrics[i]['pre']['locality'][f'{locality_key}_output'], all_metrics[i]['post']['locality'][f'{locality_key}_output']):
-                        locality_result.append(locality_acc_llm(self.hparams, pre_edit_output, post_edit_output))
+                    for question, pre_edit_output, post_edit_output in zip(all_metrics[i]['requested_edit']['locality']['locality']['prompt'], 
+                                                                 all_metrics[i]['pre']['locality'][f'{locality_key}_output'], 
+                                                                 all_metrics[i]['post']['locality'][f'{locality_key}_output']):
+                        acc, _ = evaluate_response(self.hparams, model_eval, tok_eval, question, pre_edit_output, post_edit_output)
+                        locality_result.append(acc)
+                        # locality_result.append(locality_acc_llm(self.hparams, pre_edit_output, post_edit_output))
                     all_metrics[i]['post']['locality'][f'{locality_key}_acc'] = locality_result
                     all_metrics[i]['pre']['locality'].pop(f'{locality_key}_acc')
+                    
 
             LOG.info(f"Evaluation took {time() - start}")
 

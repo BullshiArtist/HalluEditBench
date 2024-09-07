@@ -10,13 +10,16 @@ data/zsre
 data/graph
 data/stats
 code/results
+data/KnowEdit
 # results/tmp_*
 README_tmp.md
 **/__pycache__
 results/models
 code/api_key.json
+data/questions_old
 requirements_tmp.txt
 questions/all_3_types
+data/questions/old_3_types
 # results/know_edit/old_eval
 # results/all_results_tmp.zip
 # results/know_edit/IKE/embedding
