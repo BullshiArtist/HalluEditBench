@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
+technology_software,Tintin in Tibet,game mode,single-player video game,single-player video game,What is the game mode of Tintin in Tibet?,Side-scroller,0.0
+technology_software,News Channel,publisher,Nintendo,Nintendo,What is the publisher of News Channel?,Independent,0.0
+technology_software,Tintin in Tibet,producer,Bruno Bonnell,Bruno Bonnell,Who is the producer of Tintin in Tibet?,Edmond Vermeulen,0.0
+technology_software,Juno,headquarters location,New York City,New York City,What is the headquarters location of Juno?,Cambridge,0.0
+technology_software,Bun,programmed in,Zig,Zig,What was Bun programmed in?,Python,0.0
+technology_software,Relic Hunters Zero,country of origin,Brazil,Brazil,What is the country of origin of Relic Hunters Zero?,Canada,0.0
+technology_software,"Nothing, Forever",inspired by,Rabbits,Rabbits,"What was Nothing, Forever inspired by?","The film ""Nothing, Forever"" was inspired by the 1990s internet",0.0
+technology_software,News Channel,country of origin,Japan,Japan,What is the country of origin of News Channel?,United States,0.0
+technology_software,Snes9x,programmed in,C++,C++,What was Snes9x programmed in?,C and assembly,0.0
+technology_software,Ben and Ed,country of origin,Germany,Germany,What is the country of origin of Ben and Ed?,United Kingdom,0.0
+technology_software,Google Arts & Culture,creator,Google,Google,What is the creator of Google Arts & Culture?,Amritha Iyengar,0.0
+technology_software,Napster,chief executive officer,Mike Davis,Mike Davis,Who is the chief executive officer of Napster?,Hillman,0.0
+technology_software,Mitsurugi Kamui Hikae,genre,hack and slash,hack and slash,What is the genre of Mitsurugi Kamui Hikae?,Action,0.0
+technology_software,age,programmed in,Go,Go,What was age programmed in?,Python,0.0
+technology_software,KuGou,platform,iOS,iOS,What is the platform of KuGou?,Music streaming,0.0
+technology_software,pnpm,operating system,cross-platform,cross-platform,What is the operating system of pnpm?,Linux,0.0
+technology_software,Ring Runner: Flight of the Sages,publisher,Triple.B.Titles,Triple.B.Titles,What is the publisher of Ring Runner: Flight of the Sages?,New Normal Games,0.0
+technology_software,Java,has characteristic,Turing completeness,Turing completeness,What does Java have characteristic?,Object-oriented,0.0
+technology_software,Way of the Red,game mode,single-player video game,single-player video game,What is the game mode of Way of the Red?,Co-op,0.0
+technology_software,NIKO: Through The Dream,software engine,Unreal Engine 3,Unreal Engine 3,What is the software engine of NIKO: Through The Dream?,Unity,0.0
+technology_software,The Hat Man: Shadow Ward,distributed by,Steam,Steam,What was The Hat Man: Shadow Ward distributed by?,Lionsgate,0.0
+technology_software,Contraption Maker,language of work or name,English,English,What is the language of work or name of Contraption Maker?,Scratch,0.0
+technology_software,Tower Wars,developer,SuperVillain Studios,SuperVillain Studios,What is the developer of Tower Wars?,Airtight Games,0.0
+technology_software,Deep Dungeons of Doom,distributed by,Steam,Steam,What was Deep Dungeons of Doom distributed by?,Dyna Mic,0.0
+technology_software,TILA App,significant person,Édgar Vivar Villanueva,Édgar Vivar Villanueva,Who is the significant person of TILA App?,Raghav Baldev,0.0
+technology_software,Chuchel,software engine,Adobe Flash,Adobe Flash,What is the software engine of Chuchel?,CryEngine,0.0
+technology_software,Java Database Connectivity,platform,Java Virtual Machine,Java Virtual Machine,What is the platform of Java Database Connectivity?,Java Database Connectivity (JDBC),0.0
+technology_software,Bun,influenced by,JavaScript,JavaScript,What was Bun influenced by?,Python,0.0
+technology_software,Deep Dungeons of Doom,publisher,Bossa Studios,Bossa Studios,What is the publisher of Deep Dungeons of Doom?,Apogee,0.0
+technology_software,Encarta,platform,Microsoft Windows,Microsoft Windows,What is the platform of Encarta?,CD-ROM,0.0
+technology_software,Private Internet Access,copyright license,MIT License,MIT License,What is the copyright license of Private Internet Access?,GPLv3,0.0
+technology_software,Super Puzzle Platformer Deluxe,language of work or name,English,English,What is the language of work or name of Super Puzzle Platformer Deluxe?,Python,0.0
+technology_software,Keras,copyright license,MIT License,MIT License,What is the copyright license of Keras?,Apache-2.0,0.0
+technology_software,Gigantic Army,game mode,single-player video game,single-player video game,What is the game mode of Gigantic Army?,Local co-op,0.0
+technology_software,Soda Dungeon,game mode,single-player video game,single-player video game,What is the game mode of Soda Dungeon?,Roguelike,0.0
+technology_software,Delve Deeper,has characteristic,indie game,indie game,What does Delve Deeper have characteristic?,Exploration,0.0
+technology_software,NetEase Cloud Music,headquarters location,Beijing,Beijing,What is the headquarters location of NetEase Cloud Music?,"Hangzhou, China",0.0
+technology_software,Close Combat: Modern Tactics,platform,Microsoft Windows,Microsoft Windows,What is the platform of Close Combat: Modern Tactics?,Turn-based strategy,0.0
+technology_software,Uber,platform,iOS,iOS,What is the platform of Uber?,Ride-hailing,0.0
+technology_software,Command: Aces of the Deep,platform,Microsoft Windows,Microsoft Windows,What is the platform of Command: Aces of the Deep?,"PC, Amiga, and MS-DOS",0.0
+technology_software,f.lux,platform,x86,x86,What is the platform of f.lux?,Screen color adjustment,0.0
+technology_software,Inoreader,programmed in,PHP,PHP,What was Inoreader programmed in?,Python,0.0
+technology_software,The Adventure Pals,distribution format,digital distribution,digital distribution,What is the distribution format of The Adventure Pals?,"Digital, Physical",0.0
+technology_software,Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood,platform,Microsoft Windows,Microsoft Windows,What is the platform of Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood?,Point-and-click adventure,0.0
+technology_software,Backblaze,platform,Microsoft Windows,Microsoft Windows,What is the platform of Backblaze?,Cloud Backup,0.0
+technology_software,Google+,replaced by,Google Currents,Google Currents,What was Google+ replaced by?,Allo and Duo,0.0
+technology_software,News Channel,genre,journalism,journalism,What is the genre of News Channel?,Informational,0.0
+technology_software,Zen,developer,Yandex,Yandex,What is the developer of Zen?,Pazera,0.0
+technology_software,Pixel Game Maker MV,distributed by,Steam,Steam,What was Pixel Game Maker MV distributed by?,Degica,0.0
+technology_software,Ben and Ed,genre,platform game,platform game,What is the genre of Ben and Ed?,Dark comedy,0.0
+technology_software,Contraption Maker,has characteristic,indie game,indie game,What does Contraption Maker have characteristic?,Inventive,0.0
+technology_software,Chuchel,has characteristic,indie game,indie game,What does Chuchel have characteristic?,Quirky,0.0
+technology_software,Delve Deeper,platform,Microsoft Windows,Microsoft Windows,What is the platform of Delve Deeper?,Tabletop RPG,0.0
+technology_software,Wound Care Simulation,output device,smartglasses,smartglasses,What is the output device of Wound Care Simulation?,Monitor,0.0
+technology_software,Two Worlds II Castle Defense,game mode,single-player video game,single-player video game,What is the game mode of Two Worlds II Castle Defense?,Tower Defense,0.0
+technology_software,Everyday Genius: SquareLogic,language of work or name,English,English,What is the language of work or name of Everyday Genius: SquareLogic?,Python,0.0
+technology_software,Adobe InDesign,follows,Adobe PageMaker,Adobe PageMaker,What does Adobe InDesign follow?,Cascading Style Sheets (CSS),0.0
+technology_software,Battlezone 98 Redux,has characteristic,indie game,indie game,What does Battlezone 98 Redux have characteristic?,3D tank combat,0.0
+technology_software,KuGou,publisher,Tencent Music,Tencent Music,What is the publisher of KuGou?,NetEase,0.0
+technology_software,GNOME Shell,programmed in,C,C,What was GNOME Shell programmed in?,Vala,0.0
+technology_software,Hyprland,programmed in,C++,C++,What was Hyprland programmed in?,Rust,0.0
+technology_software,Gitter,copyright license,MIT License,MIT License,What is the copyright license of Gitter?,Apache-2.0,0.0
+technology_software,Vulkan,follows,OpenGL,OpenGL,What does Vulkan follow?,Open Standards,0.0
+technology_software,1000minds,country,New Zealand,New Zealand,What is the country of 1000minds?,Finland,0.0
+technology_software,FSlint,programmed in,Python,Python,What was FSlint programmed in?,Perl,0.0
+technology_software,Deep Dungeons of Doom,language of work or name,English,English,What is the language of work or name of Deep Dungeons of Doom?,ADVENT,0.0
+technology_software,The Old City: Leviathan,platform,Microsoft Windows,Microsoft Windows,What is the platform of The Old City: Leviathan?,"PC, PlayStation, Xbox, Nintendo Switch",0.0
+technology_software,Webtoon,industry,webcomic,webcomic,What is the industry of Webtoon?,Entertainment,0.0
+technology_software,Aleph One,platform,Classic Mac OS,Classic Mac OS,What is the platform of Aleph One?,Bungie,0.0
+technology_software,libev,operating system,Linux,Linux,What is the operating system of libev?,Cross-platform,0.0
+technology_software,Metasploit,developer,Rapid7,Rapid7,What is the developer of Metasploit?,HDM (H.D. Moore),0.0
+technology_software,Two Worlds II Castle Defense,developer,Reality Pump Studios,Reality Pump Studios,What is the developer of Two Worlds II Castle Defense?,TopWare Interactive,0.0
+technology_software,Paint the Town Red,distribution format,digital distribution,digital distribution,What is the distribution format of Paint the Town Red?,Free-to-play,0.0
+technology_software,MobileCoin,based on,Monero,Monero,Who was MobileCoin based on?,Satoshi Nakamoto,0.0
+technology_software,Cladun X2,has characteristic,indie game,indie game,What does Cladun X2 have characteristic?,Retro-style,0.0
+technology_software,ispc,developer,Intel,Intel,What is the developer of ispc?,Jim Cuninghame,0.0
+technology_software,TeachAIDS,founded by,Clifford Nass,Clifford Nass,Who was TeachAIDS founded by?,Pamela Ling,0.0
+technology_software,Houseparty,developer,Epic Games,Epic Games,What is the developer of Houseparty?,Brendan Iribe,0.0
+technology_software,Archeblade,platform,Microsoft Windows,Microsoft Windows,What is the platform of Archeblade?,Action Fighting Game,0.0
+technology_software,JDiskReport,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of JDiskReport?,Java,0.0
+technology_software,Proton Mail,owned by,Proton,Proton,What was Proton Mail owned by?,CERN,0.0
+technology_software,Webtoon,distributed by,Google Play,Google Play,What was Webtoon distributed by?,Naver,0.0
+technology_software,Oh My Zsh,programmed in,shell script,shell script,What was Oh My Zsh programmed in?,Ruby,0.0
+technology_software,Strawberry,named after,strawberry,strawberry,What was Strawberry named after?,Elvis Presley,0.0
+technology_software,stalonetray,named after,Stand-alone shell,Stand-alone shell,What was stalonetray named after?,Stalonetray was named after Staloneterm,0.0
+technology_software,DiDi,industry,transportation industry,transportation industry,What is the industry of DiDi?,Ride-hailing,0.0
+technology_software,TeamSense Inc,headquarters location,Everett,Everett,Who is the headquarters location of TeamSense Inc?,I don't have information on TeamSense Inc,0.0
+technology_software,Niconico,distributed by,Google Play,Google Play,What was Niconico distributed by?,Dwango,0.0
+technology_software,Amazon Kindle,named after,Michael Patrick Cronan,Michael Patrick Cronan,Who was Amazon Kindle named after?,"William Shakespeare's play ""The Tempest"" character",0.0
+technology_software,Everyday Genius: SquareLogic,platform,Microsoft Windows,Microsoft Windows,What is the platform of Everyday Genius: SquareLogic?,Math-based puzzle game,0.0
+technology_software,Adventure Game Studio,copyright license,Artistic License,Artistic License,What is the copyright license of Adventure Game Studio?,GPLv2,0.0
+technology_software,Ben and Ed,software engine,Unreal Engine 4,Unreal Engine 4,What is the software engine of Ben and Ed?,Source Filmmaker,0.0
+technology_software,DiDi,platform,iOS,iOS,What is the platform of DiDi?,Ride-hailing,0.0
+technology_software,Strawberry,GUI toolkit or framework,Qt,Qt,What is the GUI toolkit or framework of Strawberry?,Tkinter,0.0
+technology_software,Alex the Allegator 4,language of work or name,English,English,What is the language of work or name of Alex the Allegator 4?,Python,0.0
+technology_software,The Marvellous Miss Take,has characteristic,indie game,indie game,What does The Marvellous Miss Take have characteristic?,Whimsical,0.0
+technology_software,Google Street View,owned by,Google,Google,What was Google Street View owned by?,Alphabet,0.0
+technology_software,GameSpy,industry,video game,video game,What is the industry of GameSpy?,Gaming,0.0
+technology_software,Deep Dungeons of Doom,game mode,single-player video game,single-player video game,What is the game mode of Deep Dungeons of Doom?,Roguelike,0.0
+technology_software,The Adventures of Tintin: The Secret of the Unicorn,input device,touchscreen,touchscreen,What is the input device of The Adventures of Tintin: The Secret of the Unicorn?,Wii MotionPlus,0.0

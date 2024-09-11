@@ -3,11 +3,11 @@
 archive: ../results/models/MEND/llama-3-8b-ZsRE
 alg_name: "MEND"
 device: 1
-model_name: meta-llama/Meta-Llama-3-8B-Instruct
+model_name: meta-llama/Meta-Llama-3.1-8B-Instruct
 
 model_class: LlamaForCausalLM
 tokenizer_class: LlamaTokenizer
-tokenizer_name: meta-llama/Meta-Llama-3-8B-Instruct
+tokenizer_name: meta-llama/Meta-Llama-3.1-8B-Instruct
 model_parallel: false
 inner_params:
 - model.layers.29.mlp.gate_proj.weight

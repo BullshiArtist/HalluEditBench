@@ -15,11 +15,14 @@ data/KnowEdit
 README_tmp.md
 **/__pycache__
 results/models
+data/triplet
 code/api_key.json
 data/questions_old
 requirements_tmp.txt
 questions/all_3_types
+data/questions/unfiltered
 data/questions/old_3_types
+data/questions/hallucination_all
 # results/know_edit/old_eval
 # results/all_results_tmp.zip
 # results/know_edit/IKE/embedding

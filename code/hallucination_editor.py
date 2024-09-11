@@ -13,8 +13,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, LlamaTokenizer
 from easyeditor.util import nethook
 from easyeditor.util.globals import *
 from easyeditor.util.alg_dict import *
-from easyeditor.util.hparams import HyperParams
 from easyeditor.models.melo.melo import LORA
+from easyeditor.util.hparams import HyperParams
 from easyeditor.editors.batch_editor import BatchEditor
 from easyeditor.evaluate.evaluate_utils import test_generation_quality
 from easyeditor.evaluate import compute_icl_edit_quality, compute_sent_metric
@@ -84,7 +84,7 @@ system_msg_eval = "Given two texts, labeled as Text 1 and Text 2, output '1' if 
 system_msg_qa = "Always respond to the input question concisely with a short phrase or a single-word answer. Do not repeat the question or provide any explanation."
 
 seed_everything(42)
-device_eval = 'cuda:2'
+device_eval = 'cuda:0'
 # Model for evaluating the correctness of the prediction compared to the label
 model_id_eval = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 tok_eval = AutoTokenizer.from_pretrained(model_id_eval)
@@ -114,7 +114,7 @@ def test_prediction_acc(hparams, model_qa, tok_qa, prompt_qa, label):
         return test_prediction_acc_single(hparams, model_qa, tok_qa, prompt_qa, label)
 
 
-def test_prediction_acc_single(hparams, model_qa, tok_qa, prompt_qa, label):
+def test_prediction_acc_single(hparams, model_qa, tok_qa, prompt_qa, label, system_msg_qa=system_msg_qa):
     model_qa_name = hparams.model_name
     user_msg_qa = prompt_qa # f'Question: {prompt_qa}. Answer:'
     if 'llama' in model_qa_name.lower() or 'Mistral-7B-Instruct-v0.3' in model_qa_name:
@@ -130,6 +130,17 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, prompt_qa, label):
         return None, output_qa
     
     return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label)
+
+
+def compute_multiple_choice_quality(hparams, model_qa, tok_qa, question_key, prompt_qa, label):
+    system_msg_multiple_choice = "Always respond to the multiple-choice question by selecting from the provided options. Only output the choice letter (A, B, C, or D)."
+    if isinstance(prompt_qa, list):
+        for i, prompt in enumerate(prompt_qa):
+            label_ = label[i] if label is not None else None
+            acc, model_output = test_prediction_acc_single(hparams, model_qa, tok_qa, prompt, label_, system_msg_multiple_choice)
+    else:
+        acc, model_output = test_prediction_acc_single(hparams, model_qa, tok_qa, prompt_qa, label, system_msg_multiple_choice)
+    return {f"{question_key}_acc": [acc], f"{question_key}_output": [model_output]}
 
 
 def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, prompt_qa, label):
@@ -169,11 +180,11 @@ def compute_edit_or_rephrase_quality(
     eval_metric: str = 'token_em',
     multi_turn: bool = False,
 ) -> typing.Dict:
-    if not test_rephrase:
-        key = 'edit'
-    else:
+    if test_rephrase:
         key = 'rephrase'
-    if multi_turn:
+    else:
+        key = 'edit'
+    if multi_turn and key == 'edit':  # test multi-turn for the efficacy questions
         acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, prompt, target_new)
         return {f"{key}_acc": [acc_ls[0]], f"{key}_output": [output_ls[0]], f"{key}_acc_multi_turn": acc_ls, f"{key}_output_multi_turn": output_ls}
     else:   
@@ -298,7 +309,7 @@ def compute_edit_quality(
             else:
                 multiple_choice_question = icl_prompt + multiple_choice_question
 
-            ret['multiple_choice_questions'].update(compute_general_quality(hparams, model, tok, key, multiple_choice_question, record['multiple_choice_questions'][key]['ground_truth']))
+            ret['multiple_choice_questions'].update(compute_multiple_choice_quality(hparams, model, tok, key, multiple_choice_question, record['multiple_choice_questions'][key]['ground_truth']))
 
     if 'reversed_relation_questions' in record.keys() and any(record['reversed_relation_questions']):
         for key in record['reversed_relation_questions'].keys():

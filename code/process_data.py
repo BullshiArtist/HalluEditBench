@@ -87,44 +87,6 @@ def process_result(result):
         "objectLabel": object_label
     }
     
-    
-# def get_topic_size(topic):
-#     query = f"""
-#     SELECT ?subjectLabel ?relation ?objectLabel WHERE {{
-#       ?subject wdt:P31 wd:{topic}.
-#       ?subject ?relation ?object.
-#       ?subject wikibase:identifiers ?subject_identifierCount.
-#       ?object wikibase:identifiers ?object_identifierCount.
-#       FILTER (?subject_identifierCount >= 8 && ?object_identifierCount >= 5) .  
-#       SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
-#     }}
-#     LIMIT 5000
-#     """
-#     # filters the results to include only subjects and objects with a minimum number of identifiers (8 for subjects and 5 for objects).
-#     sparql.setQuery(query)
-#     sparql.setReturnFormat(JSON)
-    
-#     retry_count = 0
-#     delay = 1  # Start with a 1-second delay
-#     while retry_count < 5:
-#         try:
-#             # Execute the SPARQL query
-#             results = sparql.query().convert()
-#             count = len(results['results']['bindings'])
-#             print(f"Topic {topic} size: {count}")
-#             break
-#         except HTTPError as e:
-#             if e.code == 429:  # Too Many Requests
-#                 print(f"Rate limit exceeded. Retrying in {delay} seconds...")
-#                 time.sleep(delay)
-#                 # delay *= 2  # Exponential backoff
-#                 retry_count += 1
-#             else:
-#                 print(f"HTTP error occurred for {topic}: {e}")
-#                 break
-#         except Exception as e:
-#             print(f"Error querying for {topic}: {str(e)}")
-
 
 def get_topic_size(topics):
     for topic in topics:
@@ -144,7 +106,7 @@ def get_topic_size(topics):
                 FILTER (?subject_identifierCount >= 8 && ?object_identifierCount >= 5) .  
                 SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
             }
-            LIMIT 5000
+            LIMIT 8000
             """
             query = query_part1 + query_part2 + query_part3 + query_part5
             sparql.setQuery(query)

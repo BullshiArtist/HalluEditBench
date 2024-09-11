@@ -1,0 +1,101 @@
+topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
+places_landmark,Solovetsky Monastery,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Solovetsky Monastery?,Saint Zosimus,0.0
+places_landmark,Vatican City,driving side,right,What is the driving side of Vatican City?,Left,0.0
+places_landmark,Alcatraz Island,significant place,San Francisco,What is the significant place of Alcatraz Island?,Former prison,0.0
+places_landmark,Pantheon,architectural style,ancient Roman architecture,What is the architectural style of Pantheon?,Roman Classical,0.0
+places_landmark,Piazza di Spagna,located in the administrative territorial entity,Rome,What is the located in the administrative territorial entity of Piazza di Spagna?,Italy,0.0
+places_landmark,Mount Rushmore National Memorial,fabrication method,carving,What is the fabrication method of Mount Rushmore National Memorial?,Hemispherical blasting,0.0
+places_landmark,Otrar,located in the administrative territorial entity,Turkistan Region,What is the located in the administrative territorial entity of Otrar?,Otrar District,0.0
+places_landmark,Hoover Dam,owned by,Federal Government of the United States,What was Hoover Dam owned by?,Bureau of Reclamation,0.0
+places_landmark,Ankara Castle,architectural style,Byzantine architecture,What is the architectural style of Ankara Castle?,Romanesque,0.0
+places_landmark,Yellowstone National Park,distributed by,Google Play,What was Yellowstone National Park distributed by?,Ansel Adams,0.0
+places_landmark,Drottningholm Palace,commissioned by,Hedvig Eleonora of Holstein-Gottorp,Who was Drottningholm Palace commissioned by?,Queen Christina,0.0
+places_landmark,Alcazaba of Málaga,architectural style,Moorish architecture,What is the architectural style of Alcazaba of Málaga?,Nazarite,0.0
+places_landmark,Dormition Cathedral,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Dormition Cathedral?,Theotokos,0.0
+places_landmark,Damavand,located in the administrative territorial entity,Amol County,What is the located in the administrative territorial entity of Damavand?,Damavand County,0.0
+places_landmark,Karlsborg Fortress,location,Karlsborg,What is the location of Karlsborg Fortress?,Sweden,0.0
+places_landmark,Vatican City,house publication,Acta Apostolicae Sedis,What is the house publication of Vatican City?,L'Osservatore Romano,0.0
+places_landmark,Statue of Liberty,location,Liberty Island,What is the location of Statue of Liberty?,New York Harbor,0.0
+places_landmark,Downing Street,located in the administrative territorial entity,City of Westminster,What is the located in the administrative territorial entity of Downing Street?,10 Downing Street,0.0
+places_landmark,Tsarskoye Selo,architect,Francesco Bartolomeo Rastrelli,Who does Tsarskoye Selo architect?,Vasily Petrovich Stasov,0.0
+places_landmark,The Church of the Dormition of the Mother of God,parent organization,Optina Pustyn,Who is the parent organization of The Church of the Dormition of the Mother of God?,Greek Orthodox Church,0.0
+places_landmark,Salle Favart,architect,Louis Bernier,Who does Salle Favart architect?,Pierre Rousseau,0.0
+places_landmark,Saviour Church on Nereditsa,diocese,Novgorod Eparchy,What is the diocese of Saviour Church on Nereditsa?,St. Saviour Church on Nereditsa is a diocese of the,0.0
+places_landmark,Tsaritsyno Park + palace,located in the administrative territorial entity,Orekhovo-Borisovo Severnoye District,What is the located in the administrative territorial entity of Tsaritsyno Park + palace?,Moscow,0.0
+places_landmark,Apollo Victoria Theatre,located in the administrative territorial entity,City of Westminster,What is the located in the administrative territorial entity of Apollo Victoria Theatre?,London,0.0
+places_landmark,Statue of Liberty,influenced by,Colossus of Rhodes,What was Statue of Liberty influenced by?,Roman goddess Libertas,0.0
+places_landmark,Disneyland,has part(s),Storybook Land Canal Boats,What does Disneyland have part(s )?,Resorts,0.0
+places_landmark,Stonehenge,significant event,Guinness World Records,What is the significant event of Stonehenge?,Summer Solstice,0.0
+places_landmark,Statue of Liberty,fabrication method,repoussé,What is the fabrication method of Statue of Liberty?,Copper sheeting,0.0
+places_landmark,Cabo San Lucas,twinned administrative body,Newport Beach,What is the twinned administrative body of Cabo San Lucas?,Los Cabos,0.0
+places_landmark,National Museum of Natural History,owned by,Heritage Malta,What was National Museum of Natural History owned by?,Smithsonian Institution,0.0
+places_landmark,Tyresö Palace,owned by,Nordic Museum,What was Tyresö Palace owned by?,Swedish royal family,0.0
+places_landmark,Ben Nevis,country,United Kingdom,What is the country of Ben Nevis?,Scotland,0.0
+places_landmark,Sutton Hoo,maintained by,National Trust,What was Sutton Hoo maintained by?,Anglo-Saxon kings,0.0
+places_landmark,Trump Tower,operator,The Trump Organization,What is the operator of Trump Tower?,Donald Trump,0.0
+places_landmark,Huldah Gates,country,Israel,What is the country of Huldah Gates?,Canada,0.0
+places_landmark,Grand Central Terminal,adjacent station,Yonkers station,What is the adjacent station of Grand Central Terminal?,Penn Station,0.0
+places_landmark,Willis Tower,named after,Willis Group,What was Willis Tower named after?,Sears,0.0
+places_landmark,Lugnaquilla,origin of the watercourse,River Slaney,What is the origin of the watercourse of Lugnaquilla?,The Derry River,0.0
+places_landmark,Huldah Gates,located in the administrative territorial entity,Jerusalem,What is the located in the administrative territorial entity of Huldah Gates?,Belize City,0.0
+places_landmark,London Eye,structural engineer,Arup,What is the structural engineer of London Eye?,BuroHappold,0.0
+places_landmark,"Nigerian National Museum, Lagos",headquarters location,Lagos,"What is the headquarters location of Nigerian National Museum, Lagos?",Onikan,0.0
+places_landmark,Asian-African Conference Museum,main subject,history,What is the main subject of Asian-African Conference Museum?,Non-Aligned Movement,0.0
+places_landmark,Church of St Helen,country,United Kingdom,What is the country of Church of St Helen?,Cyprus,0.0
+places_landmark,Penningby Castle,location,Parish Länna,What is the location of Penningby Castle?,Sweden,0.0
+places_landmark,Liberty Bell,manufacturer,Whitechapel Bell Foundry,What is the manufacturer of Liberty Bell?,Pass and Stow,0.0
+places_landmark,MUNCH,architect,Juan Herreros,Who does MUNCH architect?,Google,0.0
+places_landmark,Warwick Castle,described by source,Sketchfab,What is the described by source of Warwick Castle?,The Times,0.0
+places_landmark,Church of St Helen,located in the administrative territorial entity,Woodbastwick,What is the located in the administrative territorial entity of Church of St Helen?,Birmingham,0.0
+places_landmark,Tullgarn Palace,founded by,Magnus Julius De la Gardie,Who was Tullgarn Palace founded by?,King Gustav IV Adolf,0.0
+places_landmark,Cathedral of the Savior in his Epiphany of Zaragoza,named after,Jesus,Who was Cathedral of the Savior in his Epiphany of Zaragoza named after?,Saint Mary,0.0
+places_landmark,Dung Gate,described by source,Encyclopædia Britannica Online,What is the described by source of Dung Gate?,2nd Chronicles,0.0
+places_landmark,Old Melbourne Gaol,location,Melbourne central business district,What is the location of Old Melbourne Gaol?,"Melbourne, Australia",0.0
+places_landmark,Batu Caves,located in the administrative territorial entity,Gombak,What is the located in the administrative territorial entity of Batu Caves?,Selangor,0.0
+places_landmark,Cathedral of the Archangel,architect,Aloisio the New,Who does Cathedral of the Archangel architect?,Barma,0.0
+places_landmark,Mariinsky Theatre,architect,Alberto Cavos,Who does Mariinsky Theatre architect?,Vasily Kenel,0.0
+places_landmark,The Pentagon,shape,pentagonal prism,What does The Pentagon shape?,Five-sided building,0.0
+places_landmark,Cotton Merchants' Gate,follows,Ablution Gate,What does Cotton Merchants' Gate follow?,Roman Wall,0.0
+places_landmark,Colosseum,uses,digital library,What does Colosseum use?,Stone,0.0
+places_landmark,Sultan Ahmed Mosque,heritage designation,World Heritage Site,What is the heritage designation of Sultan Ahmed Mosque?,Cultural,0.0
+places_landmark,Stourhead,occupant,Henry Hoare,Who is the occupant of Stourhead?,The National Trust,0.0
+places_landmark,Zwinger,commissioned by,Augustus II the Strong,Who was Zwinger commissioned by?,Augustus the Strong,0.0
+places_landmark,Danevirke,significant event,Second Schleswig War,What is the significant event of Danevirke?,Viking invasion,0.0
+places_landmark,Cotton Merchants' Gate,location,Old City of Jerusalem,What is the location of Cotton Merchants' Gate?,"York, England",0.0
+places_landmark,Empire State Building,structural engineer,Homer G. Balcom,Who is the structural engineer of Empire State Building?,William F. Lamb,0.0
+places_landmark,Castle of Eger,architectural style,Romanesque architecture,What is the architectural style of Castle of Eger?,Gothic-Renaissance,0.0
+places_landmark,Sistine Chapel,architect,Baccio Pontelli,Who does Sistine Chapel architect?,Donato Bramante,0.0
+places_landmark,Mälsåker House,architectural style,baroque architecture,What is the architectural style of Mälsåker House?,National Romantic,0.0
+places_landmark,Gate of the Chain,followed by,Ablution Gate,What was Gate of the Chain followed by?,Gate of the Chain was followed by the Gate of the Moat,0.0
+places_landmark,Stirling Castle,country,United Kingdom,What is the country of Stirling Castle?,Scotland,0.0
+places_landmark,Central Park,taxon found at location,squirrel,What is the taxon found at location of Central Park?,Eukarya,0.0
+places_landmark,Gawanmeh Gate,follows,Gate of the Inspector,What does Gawanmeh Gate follow?,Ayyubid architecture,0.0
+places_landmark,Statue of Liberty,architect,Eugène Viollet-le-Duc,Who does Statue of Liberty architect?,Frédéric Auguste Bartholdi,0.0
+places_landmark,Statue of Liberty,inspired by,Colossus of Rhodes,What was Statue of Liberty inspired by?,Roman goddess Libertas,0.0
+places_landmark,White House,has part(s),Oval Office,What does White House have part(s )?,West Wing,0.0
+places_landmark,Topkapı Palace,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Topkapı Palace?,Ottoman,0.0
+places_landmark,Karlstad Cathedral,architectural style,baroque architecture,What is the architectural style of Karlstad Cathedral?,Neo-Gothic,0.0
+places_landmark,Miho no Matsubara,located in the administrative territorial entity,Shimizu-ku,Who is the located in the administrative territorial entity of Miho no Matsubara?,Shizuoka,0.0
+places_landmark,Basilica of Our Lady of the Pillar,Christian liturgical rite,Roman Rite,What is the Christian liturgical rite of Basilica of Our Lady of the Pillar?,Sarum Rite,0.0
+places_landmark,Rila Monastery,founded by,John of Rila,Who was Rila Monastery founded by?,Saint Ivan of Rila,0.0
+places_landmark,Detsky Mir,stock exchange,Moscow Exchange,What is the stock exchange of Detsky Mir?,There is no stock exchange for Detsky Mir,0.0
+places_landmark,Sinharaja Forest Reserve,located in the administrative territorial entity,Southern Province,What is the located in the administrative territorial entity of Sinharaja Forest Reserve?,Sri Lanka,0.0
+places_landmark,Shiga Highlands,located in the administrative territorial entity,Yamanouchi,Who is the located in the administrative territorial entity of Shiga Highlands?,Hikone,0.0
+places_landmark,Pont Neuf,owned by,municipality of Paris,What was Pont Neuf owned by?,King Henry IV,0.0
+places_landmark,Gustav III's museum of antiquities,located in/on physical feature,Stadsholmen,What is the located in/on physical feature of Gustav III's museum of antiquities?,Slottsbacken,0.0
+places_landmark,Sistine Chapel,diocese,Diocese of Rome,What is the diocese of Sistine Chapel?,Vatican City,0.0
+places_landmark,Santa Maria sopra Minerva,replaces,Temple of Serapis,What does Santa Maria sopra Minerva replace?,Basilica of St. Mary in Trastevere,0.0
+places_landmark,Hack Green Secret Nuclear Bunker,operator,Royal Air Force,What is the operator of Hack Green Secret Nuclear Bunker?,Hack Green Secret Nuclear Bunker is operated by Cheshire East Council,0.0
+places_landmark,RAF Museum London,commemorates,Royal Air Force,What does RAF Museum London commemorate?,British aviation history,0.0
+places_landmark,Smallest House in Great Britain,located in the administrative territorial entity,Conwy,What is the located in the administrative territorial entity of Smallest House in Great Britain?,Criccieth,0.0
+places_landmark,Ulriksdal Palace,architect,Hans Jacob Kristler,Who does Ulriksdal Palace architect?,Nicodemus Tessin,0.0
+places_landmark,Fort Canning Hill,named after,"Charles Canning, 1st Earl Canning",Who was Fort Canning Hill named after?,"Sir Stamford Raffles' friend, Thomas Stamford Raffles' friend, William C",0.0
+places_landmark,Tankerton Castle,legal form,charity,What is the legal form of Tankerton Castle?,Private residence,0.0
+places_landmark,National Museum of Natural History,described by source,The National Museum of Natural History : 75 years in the Natural History Building,What is the described by source of National Museum of Natural History?,Smithsonian,0.0
+places_landmark,Tokyo Disneyland,operator,The Oriental Land Company,What is the operator of Tokyo Disneyland?,The Walt Disney Company,0.0
+places_landmark,Gyeongbokgung,closed on,Tuesday,When did Gyeongbokgung close on?,2022,0.0
+places_landmark,Montparnasse Tower,architectural style,International Style,What is the architectural style of Montparnasse Tower?,High-tech,0.0
+places_landmark,Royal Armoury,location,Stockholm Palace,What is the location of Royal Armoury?,Leeds,0.0
+places_landmark,Helsinki Cathedral,located in the administrative territorial entity,Helsinki,What is the located in the administrative territorial entity of Helsinki Cathedral?,Uusimaa,0.0
+places_landmark,Villa Menafoglio Litta Panza,located in the administrative territorial entity,Varese,What is the located in the administrative territorial entity of Villa Menafoglio Litta Panza?,Angera,0.0
+places_landmark,Kazan Cathedral,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Kazan Cathedral?,Vasily Petrovich Stasov,0.0

@@ -1,0 +1,101 @@
+topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
+business_brand,VBites,owned by,Heather Mills,Who was VBites owned by?,Julian Hearn,0.0
+business_brand,Inc & Co Group,chief executive officer,Jack Mason,Who is the chief executive officer of Inc & Co Group?,I'm not aware of the current CEO of Inc & Co Group,0.0
+business_brand,Hard Rock Cafe,owned by,Seminole Tribe of Florida,What was Hard Rock Cafe owned by?,Anschutz,0.0
+business_brand,HEMA,industry,retail,What is the industry of HEMA?,Historical European Martial Arts,0.0
+business_brand,Isuzu,location of formation,Tokyo,What is the location of formation of Isuzu?,Japan,0.0
+business_brand,Yuzusoft,headquarters location,Osaka,What is the headquarters location of Yuzusoft?,"Tokyo, Japan",0.0
+business_brand,OKKO,industry,petroleum industry,What is the industry of OKKO?,Retail,0.0
+business_brand,Exeed,parent organization,Chery,What is the parent organization of Exeed?,Tatweer Petroleum,0.0
+business_brand,Billa,parent organization,REWE Group,What is the parent organization of Billa?,Delhaize,0.0
+business_brand,Redmi,operating system,MIUI,What is the operating system of Redmi?,Android,0.0
+business_brand,congstar,legal form,Gesellschaft mit beschränkter Haftung,What is the legal form of congstar?,Telecommunications company,0.0
+business_brand,Cannondale Bicycle Corporation,legal form,subsidiary,What is the legal form of Cannondale Bicycle Corporation?,Private company,0.0
+business_brand,Exide,industry,energy industry,What is the industry of Exide?,Batteries,0.0
+business_brand,Tiger Sugar,headquarters location,Xitun District,What is the headquarters location of Tiger Sugar?,"Taipei, Taiwan",0.0
+business_brand,Ugmonk,described by source,The Verge,What is the described by source of Ugmonk?,Founder,0.0
+business_brand,TDK,headquarters location,Minato,What is the headquarters location of TDK?,"Tokyo, Japan",0.0
+business_brand,Ziaja,headquarters location,Gdańsk,What is the headquarters location of Ziaja?,Poland,0.0
+business_brand,Bell Resources,founded by,Mark Avery,Who was Bell Resources founded by?,John W. Kluge,0.0
+business_brand,Promercium,legal form,private limited company,What is the legal form of Promercium?,Societas Europaea,0.0
+business_brand,Quorn,headquarters location,Stokesley,What is the headquarters location of Quorn?,Melton Mowbray,0.0
+business_brand,knot,country,Japan,What is the country of knot?,Scotland,0.0
+business_brand,Harry's,platform,iOS,What is the platform of Harry's?,Subscription-based razors,0.0
+business_brand,Elgato,owned by,Corsair Gaming,What was Elgato owned by?,Corrvel,0.0
+business_brand,Meet Fresh,country,Taiwan,What is the country of Meet Fresh?,China,0.0
+business_brand,Petzone,legal form,private limited company,What is the legal form of Petzone?,Private company,0.0
+business_brand,ThinkPad,CPU,Xeon,What does ThinkPad CPU?,Intel or AMD,0.0
+business_brand,Tablo,country,Canada,What is the country of Tablo?,South Korea,0.0
+business_brand,Orangina,founded by,Jean-Claude Beton,Who was Orangina founded by?,Pierre Chappaz,0.0
+business_brand,Raspberry Pi,has part(s),Raspberry Pi 4 Model B,What does Raspberry Pi have part(s )?,Microprocessor,0.0
+business_brand,Elf Aquitaine,industry,petroleum industry,What is the industry of Elf Aquitaine?,Energy,0.0
+business_brand,Key,industry,video game industry,What is the industry of Key?,Music,0.0
+business_brand,Oakpont,location of formation,Canberra,What is the location of formation of Oakpont?,I couldn't find any information on Oakpont,0.0
+business_brand,SThree,industry,human resource management,What is the industry of SThree?,Recruitment,0.0
+business_brand,DAIWA,owned by,Daiwa Seiko Corporation,What was DAIWA owned by?,Masaya Suzuki,0.0
+business_brand,Det Nye,publisher,Egmont Publishing Norway,What is the publisher of Det Nye?,Aftenposten,0.0
+business_brand,Tablo,industry,electronics,What is the industry of Tablo?,Technology,0.0
+business_brand,Lambretta,significant person,Pierluigi Torre,Who is the significant person of Lambretta?,Fratelli Lambretta,0.0
+business_brand,La Vie Claire,founded by,Henri-Charles Geffroy,Who was La Vie Claire founded by?,Bernard Hinault,0.0
+business_brand,Softhouse Chara,industry,video game industry,What is the industry of Softhouse Chara?,Software development,0.0
+business_brand,Leaf,owned by,Aquaplus,What was Leaf owned by?,Nintendo,0.0
+business_brand,Quorn,industry,food processing,What is the industry of Quorn?,Meat alternatives,0.0
+business_brand,Ampex,legal form,subsidiary,What is the legal form of Ampex?,Private,0.0
+business_brand,Grundig,founded by,Max Grundig,Who was Grundig founded by?,Albert Grundig,0.0
+business_brand,Vox,owned by,Korg,What was Vox owned by?,AOL (America Online),0.0
+business_brand,ZETA DIVISION,sport,esports,What is the sport of ZETA DIVISION?,Cyberfootball,0.0
+business_brand,Yangwang,owned by,BYD Auto,What was Yangwang owned by?,Chinese conglomerate,0.0
+business_brand,Pyrex,described by source,Journal of Chemical Education,What is the described by source of Pyrex?,Borosilicate,0.0
+business_brand,Alexander McQueen,chief executive officer,Emmanuel Gintzburger,Who is the chief executive officer of Alexander McQueen?,Sara Battaglia,0.0
+business_brand,HEMA,location of formation,Amsterdam,What is the location of formation of HEMA?,Human eye,0.0
+business_brand,Jetour,parent organization,Chery,What is the parent organization of Jetour?,Geely,0.0
+business_brand,Zagat,parent organization,The Infatuation,What is the parent organization of Zagat?,Google,0.0
+business_brand,Malibu,owned by,Pernod Ricard,Who was Malibu owned by?,Fred Cole,0.0
+business_brand,Giant Bicycles,industry,bicycle industry,What is the industry of Giant Bicycles?,Bicycles,0.0
+business_brand,ASPESI,field of work,clothing,What is the field of work of ASPESI?,Environmental consulting,0.0
+business_brand,Vox,industry,musical instrument making,What is the industry of Vox?,Media,0.0
+business_brand,Aeon,stock exchange,Tokyo Stock Exchange,What is the stock exchange of Aeon?,I couldn't find any information on the stock exchange of Aeon,0.0
+business_brand,Lambretta,headquarters location,Lambrate,What is the headquarters location of Lambretta?,"Pontedera, Italy",0.0
+business_brand,Jetour,owned by,Chery,What was Jetour owned by?,Geely,0.0
+business_brand,3M,legal form,public company,What is the legal form of 3M?,Minnesota corporation,0.0
+business_brand,Spotify,developer,Spotify Technology,What is the developer of Spotify?,Daniel Ek,0.0
+business_brand,Triumph Motorcycles Ltd,industry,automotive industry,What is the industry of Triumph Motorcycles Ltd?,Motorcycle manufacturing,0.0
+business_brand,August,country,Japan,What is the country of August?,Romania,0.0
+business_brand,JanSport,headquarters location,San Leandro,What is the headquarters location of JanSport?,"Seattle, Washington",0.0
+business_brand,Ampex,founded by,Alexander M. Poniatoff,Who was Ampex founded by?,Alan D. Blumlein and  Alan L. Dixon,0.0
+business_brand,Atari,headquarters location,California,What is the headquarters location of Atari?,Netherlands,0.0
+business_brand,Tropicana Products,location of formation,Palmetto,What is the location of formation of Tropicana Products?,"Homestead, Florida",0.0
+business_brand,Elgato,headquarters location,Munich,What is the headquarters location of Elgato?,"Berlin, Germany",0.0
+business_brand,Listerine,manufacturer,Johnson & Johnson,What is the manufacturer of Listerine?,Pfizer,0.0
+business_brand,Bell Resources,director / manager,Mark Avery,Who is the director / manager of Bell Resources?,I couldn't find any information on Bell Resources,0.0
+business_brand,Globis,country,Japan,What is the country of Globis?,Non-existent,0.0
+business_brand,Alexander McQueen,parent organization,Kering,What is the parent organization of Alexander McQueen?,Vivienne Westwood,0.0
+business_brand,BetterMe,industry,software industry,What is the industry of BetterMe?,Health and wellness,0.0
+business_brand,Vilebrequin,industry,retail,What is the industry of Vilebrequin?,Swimwear,0.0
+business_brand,Lump of Sugar,language of work or name,Japanese,What is the language of work or name of Lump of Sugar?,Python,0.0
+business_brand,Lump of Sugar,industry,video game industry,What is the industry of Lump of Sugar?,Food,0.0
+business_brand,Anker,stock exchange,Shenzhen Stock Exchange,What is the stock exchange of Anker?,No public stock exchange,0.0
+business_brand,Key,owned by,Visual Arts,What was Key owned by?,Vine,0.0
+business_brand,Vilebrequin,headquarters location,Geneva,What is the headquarters location of Vilebrequin?,"Saint-Tropez, France",0.0
+business_brand,Oakpont,headquarters location,Canberra,What is the headquarters location of Oakpont?,I couldn't find any information on Oakpont,0.0
+business_brand,Air Jordan,industry,fashion,What is the industry of Air Jordan?,Sportswear,0.0
+business_brand,Conoco,industry,petroleum industry,What is the industry of Conoco?,Energy,0.0
+business_brand,Maxell,parent organization,Hitachi,What is the parent organization of Maxell?,Maxell International Corporation,0.0
+business_brand,Keytruda,therapeutic area,melanoma,What is the therapeutic area of Keytruda?,Oncology,0.0
+business_brand,OFRA Cosmetics,headquarters location,Pompano Beach,What is the headquarters location of OFRA Cosmetics?,New York City,0.0
+business_brand,Microsoft Surface,manufacturer,Pegatron,What is the manufacturer of Microsoft Surface?,Microsoft,0.0
+business_brand,Oakpont,director / manager,Brenton Avery,Who is the director / manager of Oakpont?,I don't have information on Oakpont,0.0
+business_brand,Arri,location of formation,Munich,What is the location of formation of Arri?,Arri is a river in Spain,0.0
+business_brand,Arkose,headquarters location,Paris,What is the headquarters location of Arkose?,San Francisco,0.0
+business_brand,fraenk,platform,iOS,What is the platform of fraenk?,"I couldn't find any information on ""fraenk""",0.0
+business_brand,Toshiba,owned by,Mitsui Group,What was Toshiba owned by?,Japanese government,0.0
+business_brand,Globis,chief executive officer,Yoshito Hori,Who is the chief executive officer of Globis?,Arisa Cox,0.0
+business_brand,Google Play,publisher,Google,What is the publisher of Google Play?,Alphabet,0.0
+business_brand,Triumph Motorcycles Ltd,significant person,Digby Jones,Who is the significant person of Triumph Motorcycles Ltd?,John Bloor,0.0
+business_brand,Whirlpool,country,Japan,What is the country of Whirlpool?,United States,0.0
+business_brand,Det Nye,genre,fashion magazine,What is the genre of Det Nye?,Dark ambient,0.0
+business_brand,FlixTrain,owned by,FlixBus,What was FlixTrain owned by?,FlixMobility,0.0
+business_brand,Braun,location of formation,Frankfurt,What is the location of formation of Braun?,Germany,0.0
+business_brand,Tamagotchi,platform,Nintendo DS,What is the platform of Tamagotchi?,Handheld,0.0
+business_brand,Writers Guild of America,headquarters location,New York City,What is the headquarters location of Writers Guild of America?,Los Angeles,0.0
+business_brand,Toshiba,headquarters location,Minato,What is the headquarters location of Toshiba?,"Tokyo, Japan",0.0

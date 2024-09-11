@@ -1481,8 +1481,8 @@ class FactChecker:
                             generate_ids = alpaca_model.generate(inputs.input_ids, max_length=500)
                             to_be_translated_smp['output'] = alpaca_tokenizer.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0].replace(current_prompt, "")
                         elif self.AI_model == "Llama":
-                            llama_model = transformers.AutoModelForCausalLM.from_pretrained("meta-llama/Meta-Llama-3-8B-Instruct").to(self.device)
-                            tok = transformers.AutoTokenizer.from_pretrained("meta-llama/Meta-Llama-3-8B-Instruct")   
+                            llama_model = transformers.AutoModelForCausalLM.from_pretrained("meta-llama/Meta-Llama-3.1-8B-Instruct").to(self.device)
+                            tok = transformers.AutoTokenizer.from_pretrained("meta-llama/Meta-Llama-3.1-8B-Instruct")   
                             inputs = tok(current_prompt, return_tensors="pt").to(self.device)
                             generate_ids = llama_model.generate(inputs.input_ids, max_length=500)
                             to_be_translated_smp['output'] = tok.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0].replace(current_prompt, "")
