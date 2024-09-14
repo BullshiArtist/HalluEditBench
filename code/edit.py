@@ -17,8 +17,9 @@ if __name__ == "__main__":
     parser.add_argument('--hparams_dir', default='./hparams/ROME/llama3-8b', type=str)
     parser.add_argument('--dataset_dir', default='../data/questions/hallucination', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
-    # parser.add_argument('--eval_model_device', default='cuda:0')
-    # parser.add_argument('--eval_model', default='meta-llama/Meta-Llama-3.1-8B-Instruct')
+    parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
+    parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
+    parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
     parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
 
@@ -53,7 +54,11 @@ if __name__ == "__main__":
 
     for topic_name in topic_name_ls:
         if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json'):
-            continue
+            print(f'Result {topic_name}_{editing_method}.json already exists')
+            if args.overwrite_result:
+                print(f'Overwriting result {topic_name}_{editing_method}.json\n')
+            else:
+                continue
         df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}_100/{topic_name}.csv")
         # df = pd.read_csv(f"../data/questions/hallucination/meta_llama_3.1_8b_instruct_100/places_country.csv")
         if args.data_size is not None:
@@ -94,6 +99,8 @@ if __name__ == "__main__":
             questions_6hop=q_and_a_6hop,
             summary_metrics=True,
             keep_original_weight=True,
+            eval_model_id=args.model_eval,
+            device_eval=f'cuda:{args.device_eval}',
             # multi_turn=True,
             # test_generation=True,
         )
