@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+technology_software,libev,operating system,Linux,Linux,What is the operating system of libev?,libev does not have an operating system. It's a network I/,0.0
+technology_software,Power DoLLS: Detachment of Limited Line Service,genre,turn-based tactics,turn-based tactics,What is the genre of Power DoLLS: Detachment of Limited Line Service?,Visual Novel,0.0
+technology_software,TVer,country,Japan,Japan,What is the country of TVer?,Russia,0.0
+technology_software,TransOcean: The Shipping Company,distributed by,Steam,Steam,What was TransOcean: The Shipping Company distributed by?,Atari (1980),0.0
+technology_software,VOICEVOX,copyright license,freeware,freeware,What is the copyright license of VOICEVOX?,Permissive (MIT),0.0
+technology_software,Ben and Ed,game mode,single-player video game,single-player video game,What is the game mode of Ben and Ed?,Adventure,0.0
+technology_software,Bun,influenced by,JavaScript,JavaScript,What was Bun influenced by?,"Pop Art, Dada, and Surrealism",0.0
+technology_software,"Nothing, Forever",inspired by,Rabbits,Rabbits,"What was Nothing, Forever inspired by?",Film noir,0.0
+technology_software,Chuchel,distribution format,digital distribution,digital distribution,What is the distribution format of Chuchel?,"PC, Mac, Switch, PS4, XB1, iOS, Android",0.0
+technology_software,Battlezone 98 Redux,has characteristic,indie game,indie game,What does Battlezone 98 Redux have characteristic?,"3D, Tank Combat, Redux Version",0.0
+technology_software,Zuora,headquarters location,Foster City,Foster City,What is the headquarters location of Zuora?,"San Mateo, CA",0.0
+technology_software,Java,has characteristic,Turing completeness,Turing completeness,What does Java have characteristic?,"Object-oriented, Compiled, Platform-independent, Wide-sp",0.0
+technology_software,Kinect,named after,kinetics,kinetics,What was Kinect named after?,Orca,0.0
+technology_software,Xiaohongshu,legal form,public company,public company,What is the legal form of Xiaohongshu?,Limited Liability Company (LLC),0.0
+technology_software,Real World Racing,distributed by,Steam,Steam,What was Real World Racing distributed by?,Accolade (1994)  (Note: The game,0.0
+technology_software,Bob Came in Pieces,distribution format,digital distribution,digital distribution,What is the distribution format of Bob Came in Pieces?,Ebook & Paperback,0.0
+technology_software,Battlezone 98 Redux,developer,Big Boat Interactive,Big Boat Interactive,What is the developer of Battlezone 98 Redux?,Rebellion,0.0
+technology_software,Kahoot!,headquarters location,Oslo,Oslo,What is the headquarters location of Kahoot!?,Norway,0.0
+technology_software,TILA App,industry,well-being,well-being,What is the industry of TILA App?,Finance,0.0
+technology_software,Fortix 2,distribution format,digital distribution,digital distribution,What is the distribution format of Fortix 2?,Digital (Steam),0.0
+technology_software,critical care nursing simulation,software engine,Unity,Unity,What is the software engine of critical care nursing simulation?,SimMan  (SimMan is a high-fidelity patient sim,0.0
+technology_software,Ring Runner: Flight of the Sages,has characteristic,indie game,indie game,What does Ring Runner: Flight of the Sages have characteristic?,"Sci-fi, Strategy, Card Game",0.0
+technology_software,age,programmed in,Go,Go,What was age programmed in?,Age is not programmed in anything. It's a natural concept related to,0.0
+technology_software,p0f,operating system,Linux,Linux,What is the operating system of p0f?,p0f doesn't have an operating system as it's a network,0.0
+technology_software,DBeaver,uses,Java Database Connectivity,Java Database Connectivity,What does DBeaver use?,"SQL, Database Connectors",0.0
+technology_software,Bird,stock exchange,OTC Markets Group,OTC Markets Group,What is the stock exchange of Bird?,N/A (Bird is a private company),0.0
+technology_software,Relic Hunters Zero,country of origin,Brazil,Brazil,What is the country of origin of Relic Hunters Zero?,Japan,0.0
+technology_software,Small World 2,distribution format,digital distribution,digital distribution,What is the distribution format of Small World 2?,Digital (Steam),0.0
+technology_software,Wolfram Language,used by,Mathematica,Mathematica,What was Wolfram Language used by?,"Researchers, engineers, students, and developers",0.0
+technology_software,News Channel,language of work or name,Japanese,Japanese,What is the language of work or name of News Channel?,"English (for work) and various (for news channels, depending on the region",0.0
+technology_software,Way of the Red,game mode,single-player video game,single-player video game,What is the game mode of Way of the Red?,"""PvP""",0.0
+technology_software,Mitsurugi Kamui Hikae,distribution format,digital distribution,digital distribution,What is the distribution format of Mitsurugi Kamui Hikae?,Blu-ray/DVD,0.0
+technology_software,FAAC,writable file format,Advanced Audio Coding,Advanced Audio Coding,What is the writable file format of FAAC?,WAV,0.0
+technology_software,Tintin in Tibet,game mode,single-player video game,single-player video game,What is the game mode of Tintin in Tibet?,Adventure,0.0
+technology_software,Deep Dungeons of Doom,game mode,single-player video game,single-player video game,What is the game mode of Deep Dungeons of Doom?,"""Arcade""",0.0
+technology_software,f.lux,language of work or name,English,English,What is the language of work or name of f.lux?,f.lux: Language not applicable (software),0.0
+technology_software,NoxPlayer,copyright license,adware,adware,What is the copyright license of NoxPlayer?,GNU General Public License (GPL),0.0
+technology_software,Ring Runner: Flight of the Sages,developer,Triple.B.Titles,Triple.B.Titles,What is the developer of Ring Runner: Flight of the Sages?,Ubisoft Montreal,0.0
+technology_software,"Zedge, Inc",stock exchange,NYSE American,NYSE American,"What is the stock exchange of Zedge, Inc?",NASDAQ (Zedge's ticker symbol is ZDGE),0.0
+technology_software,TransOcean: The Shipping Company,country of origin,Germany,Germany,What is the country of origin of TransOcean: The Shipping Company?,Switzerland,0.0
+technology_software,Hieroglyphika,game mode,single-player video game,single-player video game,What is the game mode of Hieroglyphika?,Puzzle,0.0
+technology_software,MyOffice,input device,touchscreen,touchscreen,What is the input device of MyOffice?,"Keyboard, Mouse, Scanner (depends on the setup)",0.0
+technology_software,Deep Dungeons of Doom,developer,Bossa Studios,Bossa Studios,What is the developer of Deep Dungeons of Doom?,Cre Cre  (Note: Cre Cre is a game development studio based in,0.0
+technology_software,Adventure Game Studio,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of Adventure Game Studio?,Adventure Game Studio uses its own custom engine,0.0
+technology_software,Mitsurugi Kamui Hikae,genre,hack and slash,hack and slash,What is the genre of Mitsurugi Kamui Hikae?,"Action, Fantasy, Seinen",0.0
+technology_software,The Adventures of Tintin: The Secret of the Unicorn,input device,touchscreen,touchscreen,What is the input device of The Adventures of Tintin: The Secret of the Unicorn?,Gamepad/Controller,0.0
+technology_software,JDiskReport,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of JDiskReport?,Java (platform-independent),0.0
+technology_software,Chuchel,game mode,single-player video game,single-player video game,What is the game mode of Chuchel?,Puzzle,0.0
+technology_software,Wartile,has characteristic,indie game,indie game,What does Wartile have characteristic?,"Tactics, Turn-based, Miniatures",0.0
+technology_software,Two Worlds II Castle Defense,developer,Reality Pump Studios,Reality Pump Studios,What is the developer of Two Worlds II Castle Defense?,Toplitz Productions,0.0
+technology_software,Singularity,operating system,Linux,Linux,What is the operating system of Singularity?,Singularity's OS isn't explicitly stated,0.0
+technology_software,GetResponse,headquarters location,Gdańsk,Gdańsk,What is the headquarters location of GetResponse?,Poland,0.0
+technology_software,Uber,industry,information technology,information technology,What is the industry of Uber?,Transportation,0.0
+technology_software,Way of the Red,language of work or name,English,English,What is the language of work or name of Way of the Red?,Way of the Red (also known as Leng in some sources) is a,0.0
+technology_software,DiDi,headquarters location,Beijing,Beijing,What is the headquarters location of DiDi?,China,0.0
+technology_software,Super Puzzle Platformer Deluxe,software engine,Microsoft XNA,Microsoft XNA,What is the software engine of Super Puzzle Platformer Deluxe?,Unity,0.0
+technology_software,NIKO: Through The Dream,has characteristic,indie game,indie game,What does NIKO: Through The Dream have characteristic?,"Ambient, Experimental",0.0
+technology_software,MicroStrategy,founded by,Michael J. Saylor,Michael J. Saylor,Who was MicroStrategy founded by?,Michael Saylor,0.0
+technology_software,TeachAIDS,founded by,Clifford Nass,Clifford Nass,Who was TeachAIDS founded by?,"Dan Hinote, David Harding, and Paul H. Wender",0.0
+technology_software,Kahoot!,industry,educational technology,educational technology,What is the industry of Kahoot!?,Education (or Gamification),0.0
+technology_software,News Channel,distributed by,Nintendo,Nintendo,What was News Channel distributed by?,CNN (Cable News Network),0.0
+technology_software,News Channel,owned by,Nintendo,Nintendo,What was News Channel owned by?,Fox Corporation,0.0
+technology_software,QuarkXPress,writable file format,EPUB,EPUB,What is the writable file format of QuarkXPress?,QuarkXPress uses .qxd and .qxp file formats,0.0
+technology_software,Google Arts & Culture,owned by,Google,Google,What was Google Arts & Culture owned by?,Alphabet Inc,0.0
+technology_software,QuarkXPress,developer,"Quark, Inc.","Quark, Inc.",What is the developer of QuarkXPress?,Quark Inc,0.0
+technology_software,Ben and Ed,distributed by,Steam,Steam,What was Ben and Ed distributed by?,Bags,0.0
+technology_software,runc,operating system,Linux,Linux,What is the operating system of runc?,Container runtime engine (runc) does not have an operating system. It',0.0
+technology_software,Forecast Channel,developer,Nintendo,Nintendo,What is the developer of Forecast Channel?,AccuWeather,0.0
+technology_software,REBOL,programmed in,C,C,What was REBOL programmed in?,REBOL was programmed in REBOL,0.0
+technology_software,Tintin in Tibet,developer,Infogrames,Infogrames,What is the developer of Tintin in Tibet?,Hergé,0.0
+technology_software,Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood,developer,"LCG Entertainment, Inc.","LCG Entertainment, Inc.",What is the developer of Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood?,Telltale Games,0.0
+technology_software,Way of the Red,has characteristic,indie game,indie game,What does Way of the Red have characteristic?,Intense,0.0
+technology_software,Cladun X2,has characteristic,indie game,indie game,What does Cladun X2 have characteristic?,"RPG, Multiplayer, 2D Side-scroller",0.0
+technology_software,Contraption Maker,distributed by,Steam,Steam,What was Contraption Maker distributed by?,Capybara Games,0.0
+technology_software,Alex the Allegator 4,genre,platform game,platform game,What is the genre of Alex the Allegator 4?,Adventure,0.0
+technology_software,Open 3D Engine,replaces,Amazon Lumberyard,Amazon Lumberyard,What does Open 3D Engine replace?,Replaces proprietary game engines or custom solutions for game development,0.0
+technology_software,Ben and Ed,genre,platform game,platform game,What is the genre of Ben and Ed?,Comedy,0.0
+technology_software,Ben and Ed,distribution format,digital distribution,digital distribution,What is the distribution format of Ben and Ed?,CSV,0.0
+technology_software,Zen,location,Russia,Russia,What is the location of Zen?,"Zen is a philosophy or school of Mahayana Buddhism, not a",0.0
+technology_software,Mailchimp,chief executive officer,Ben Chestnut,Ben Chestnut,Who is the chief executive officer of Mailchimp?,Dan Kurzius,0.0
+technology_software,Ring Runner: Flight of the Sages,publisher,Triple.B.Titles,Triple.B.Titles,What is the publisher of Ring Runner: Flight of the Sages?,Tor Books,0.0
+technology_software,Everyday Genius: SquareLogic,game mode,single-player video game,single-player video game,What is the game mode of Everyday Genius: SquareLogic?,Puzzle,0.0
+technology_software,Two Worlds II Castle Defense,game mode,single-player video game,single-player video game,What is the game mode of Two Worlds II Castle Defense?,Castle Defense,0.0
+technology_software,Google+,creator,Google,Google,What is the creator of Google+?,Vic Gundotra,0.0
+technology_software,Zen,owned by,VK,VK,What was Zen owned by?,Zen (the company) was owned by Google,0.0
+technology_software,Oh My Zsh,programmed in,shell script,shell script,What was Oh My Zsh programmed in?,Shell (Bash),0.0
+technology_software,Wound Care Simulation,output device,smartglasses,smartglasses,What is the output device of Wound Care Simulation?,Projector,0.0
+technology_software,Mango TV,distributed by,Google Play,Google Play,What was Mango TV distributed by?,Phoenix Satellite Television,0.0
+technology_software,FAAC,programmed in,C,C,What was FAAC programmed in?,Fortran,0.0
+technology_software,Deep Dungeons of Doom,language of work or name,English,English,What is the language of work or name of Deep Dungeons of Doom?,"Deep Dungeons of Doom is a game, not a language. It",0.0
+technology_software,Streamlabs,owned by,Logitech,Logitech,What was Streamlabs owned by?,Twitch Interactive (Amazon),0.0
+technology_software,"Nothing, Forever",based on,Seinfeld,Seinfeld,"Who was Nothing, Forever based on?","""Narnia"" (The Chronicles of Narnia)",0.0
+technology_software,Open 3D Engine,distribution format,digital distribution,digital distribution,What is the distribution format of Open 3D Engine?,Open 3D Engine uses a C++ library distribution format,0.0
+technology_software,EiskaltDC++,GUI toolkit or framework,Qt,Qt,What is the GUI toolkit or framework of EiskaltDC++?,wxWidgets,0.0
+technology_software,Bob Came in Pieces,game mode,single-player video game,single-player video game,What is the game mode of Bob Came in Pieces?,Puzzle,0.0
+technology_software,News Channel,input device,Wii Remote,Wii Remote,What is the input device of News Channel?,Microphone,0.0
+technology_software,Google Arts & Culture,used by,National Portrait Gallery,National Portrait Gallery,What was Google Arts & Culture used by?,"Museums, galleries, archives, and cultural institutions",0.0
+technology_software,MicroStrategy,chief executive officer,Michael J. Saylor,Michael J. Saylor,Who is the chief executive officer of MicroStrategy?,Michael Saylor,0.0
+technology_software,SentiOne,chief executive officer,Kamil Bargiel,Kamil Bargiel,Who is the chief executive officer of SentiOne?,Piotr Krauze,0.0
+technology_software,Gigantic Army,has characteristic,indie game,indie game,What does Gigantic Army have characteristic?,Size,0.0

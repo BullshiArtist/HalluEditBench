@@ -1,101 +1,101 @@
 topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
-human_entrepreneur,Jorge Alessandri,member of political party,independent politician,What is the member of political party of Jorge Alessandri?,Liberal,0.0
-human_entrepreneur,Moritz Hochschild,occupation,entrepreneur,What is the occupation of Moritz Hochschild?,Chemist,0.0
-human_entrepreneur,Petro Poroshenko,significant event,Panama Papers,What is the significant event of Petro Poroshenko?,Ukrainian President,0.0
-human_entrepreneur,Franz Xaver von Ballestrem,place of birth,Pławniowice,What is the place of birth of Franz Xaver von Ballestrem?,Münster,0.0
-human_entrepreneur,Werner Nachmann,place of death,Karlsruhe,What is the place of death of Werner Nachmann?,Munich,0.0
-human_entrepreneur,Eduard Schulte,place of birth,Düsseldorf,What is the place of birth of Eduard Schulte?,Königsberg,0.0
-human_entrepreneur,Joseph Anton von Maffei,place of burial,Alter Südfriedhof,Who is the place of burial of Joseph Anton von Maffei?,Naples,0.0
-human_entrepreneur,Edmund Rumpler,academic major,mechanical engineering,What is the academic major of Edmund Rumpler?,Aeronautical Engineering,0.0
-human_entrepreneur,José Lello,member of political party,Socialist Party,What is the member of political party of José Lello?,Liberal,0.0
-human_entrepreneur,Henry Ford,place of death,Dearborn,What is the place of death of Henry Ford?,Fair Lane,0.0
-human_entrepreneur,Walter Cramer,place of death,Berlin,What is the place of death of Walter Cramer?,Dachau,0.0
-human_entrepreneur,Wendelin Wiedeking,educated at,RWTH Aachen University,What was Wendelin Wiedeking educated at?,Technical University of Munich,0.0
-human_entrepreneur,J. P. Morgan,father,Junius Spencer Morgan,Who is the father of J. P. Morgan?,Junius Morgan,0.0
-human_entrepreneur,Paul Pleiger,significant person,Oswald Pohl,Who is the significant person of Paul Pleiger?,Hans Merkle,0.0
-human_entrepreneur,Richard Lenel,place of birth,Mannheim,What is the place of birth of Richard Lenel?,Germany,0.0
-human_entrepreneur,Adolf Magnus d'Hoym,described by source,Allgemeine Deutsche Biographie,What is the described by source of Adolf Magnus d'Hoym?,German,0.0
-human_entrepreneur,Otto Beisheim,place of birth,Velbert,Who is the place of birth of Otto Beisheim?,Koblenz,0.0
-human_entrepreneur,"Emich, 5th Prince of Leiningen",member of political party,Nazi Party,"What is the member of political party of Emich, 5th Prince of Leiningen?",Christian Democrat Union,0.0
-human_entrepreneur,Otto Krebs,spouse,Frieda Hodapp,Who is the spouse of Otto Krebs?,Jenny O'Reilly,0.0
-human_entrepreneur,Karl Amson Joel,occupation,entrepreneur,What is the occupation of Karl Amson Joel?,Diamond merchant,0.0
-human_entrepreneur,Robert Boehringer,country of citizenship,Germany,What is the country of citizenship of Robert Boehringer?,Switzerland,0.0
-human_entrepreneur,Carl Hahn,father,Carl Hahn Sr.,Who is the father of Carl Hahn?,Willy Hahn,0.0
-human_entrepreneur,Wendelin Wiedeking,place of birth,Ahlen,What is the place of birth of Wendelin Wiedeking?,Böblingen,0.0
-human_entrepreneur,Jochen Zeitz,place of birth,Mannheim,What is the place of birth of Jochen Zeitz?,Germany,0.0
-human_entrepreneur,Friedrich Jahn,occupation,entrepreneur,What is the occupation of Friedrich Jahn?,Philosopher,0.0
-human_entrepreneur,Henry Clay Frick,residence,New York City,What is the residence of Henry Clay Frick?,Clayton,0.0
-human_entrepreneur,Bob Falkenburg,handedness,right-handedness,What is the handedness of Bob Falkenburg?,Ambidextrous,0.0
-human_entrepreneur,Carl Heinrich Theodor Knorr,place of death,Heilbronn,What is the place of death of Carl Heinrich Theodor Knorr?,Stuttgart,0.0
-human_entrepreneur,Tom Enders,place of birth,Bruchertseifen,What is the place of birth of Tom Enders?,Germany,0.0
-human_entrepreneur,Keith R. Kernspecht,place of birth,Grömitz,What is the place of birth of Keith R. Kernspecht?,Germany,0.0
-human_entrepreneur,Werner Nachmann,place of birth,Karlsruhe,What is the place of birth of Werner Nachmann?,Berlin,0.0
-human_entrepreneur,Jenna Jameson,educated at,Bonanza High School,What was Jenna Jameson educated at?,University of California,0.0
-human_entrepreneur,Roland Mack,given name,Roland,Who is the given name of Roland Mack?,Robert,0.0
-human_entrepreneur,Kazimierz Sabbat,member of political party,independent politician,What is the member of political party of Kazimierz Sabbat?,National Movement,0.0
-human_entrepreneur,Ulla Weigerstorfer,victory,Miss World,What is the victory of Ulla Weigerstorfer?,European Junior Champion,0.0
-human_entrepreneur,Josef Sablatnig,member of political party,Nazi Party,What is the member of political party of Josef Sablatnig?,Austrian People's Party,0.0
-human_entrepreneur,Barbara Uthmann,field of work,bobbin lace making,What is the field of work of Barbara Uthmann?,Mathematics,0.0
-human_entrepreneur,Karl Godulla,child,Johanna von Schaffgotsch,Who is the child of Karl Godulla?,Karl Theodor Godulla's daughter was  Baroness  von der Hey,0.0
-human_entrepreneur,Friedrich Mandl,place of death,Vienna,What is the place of death of Friedrich Mandl?,Auschwitz,0.0
-human_entrepreneur,Theo Albrecht,conflict,World War II,What is the conflict of Theo Albrecht?,Family feud,0.0
+human_entrepreneur,Hans Imhoff,occupation,entrepreneur,What is the occupation of Hans Imhoff?,Chocolate maker,0.0
+human_entrepreneur,Adolph von Hansemann,father,David Hansemann,Who is the father of Adolph von Hansemann?,Johann Heinrich von Hansemann,0.0
+human_entrepreneur,Michael Braungart,place of birth,Schwäbisch Gmünd,What is the place of birth of Michael Braungart?,Germany,0.0
+human_entrepreneur,Roland Mack,place of birth,Freiburg im Breisgau,What is the place of birth of Roland Mack?,Germany,0.0
+human_entrepreneur,Carl Paul Goerz,occupation,entrepreneur,What is the occupation of Carl Paul Goerz?,Photographer,0.0
+human_entrepreneur,Adolf Rosenberger,place of death,California,What is the place of death of Adolf Rosenberger?,Theresienstadt,0.0
+human_entrepreneur,Otto Krebs,cause of death,cancer,What is the cause of death of Otto Krebs?,Execution,0.0
+human_entrepreneur,Peter Voigtländer,noble title,knight,What is the noble title of Peter Voigtländer?,Baron,0.0
+human_entrepreneur,Jenna Jameson,family name,Jameson,Who is the family name of Jenna Jameson?,Massoli,0.0
+human_entrepreneur,Sebastián Piñera,spouse,Cecilia Morel,Who is the spouse of Sebastián Piñera?,Macarena Pinochet,0.0
+human_entrepreneur,William Boeing,place of death,Puget Sound,What is the place of death of William Boeing?,"St. Helena, California",0.0
 human_entrepreneur,William Ralph Merton,place of birth,Frankfurt,What is the place of birth of William Ralph Merton?,London,0.0
-human_entrepreneur,Anders Behring Breivik,described by source,Great Norwegian Encyclopedia,What is the described by source of Anders Behring Breivik?,Christian,0.0
-human_entrepreneur,Artur Fischer,place of death,Waldachtal,What is the place of death of Artur Fischer?,Pfullingen,0.0
-human_entrepreneur,Conrad Dietrich Magirus,described by source,Allgemeine Deutsche Biographie,What is the described by source of Conrad Dietrich Magirus?,Firefighting,0.0
-human_entrepreneur,Franz Seldte,place of burial,Saint Lawrence church in Rottach-Egern,What is the place of burial of Franz Seldte?,Berlin,0.0
-human_entrepreneur,John Munro Longyear,place of birth,Lansing,What is the place of birth of John Munro Longyear?,New York,0.0
-human_entrepreneur,Karl Nessler,manner of death,natural causes,What is the manner of death of Karl Nessler?,Suicide,0.0
-human_entrepreneur,Jakob Fugger,given name,Jakob,Who is the given name of Jakob Fugger?,Hans,0.0
-human_entrepreneur,Nikita Mikhalkov,instrument,voice,What is the instrument of Nikita Mikhalkov?,Cello,0.0
-human_entrepreneur,Jackie Stewart,country of citizenship,United Kingdom,What is the country of citizenship of Jackie Stewart?,Scotland,0.0
-human_entrepreneur,Paul Achleitner,place of birth,Linz,What is the place of birth of Paul Achleitner?,Munich,0.0
-human_entrepreneur,Corny Littmann,work location,Hamburg,What is the work location of Corny Littmann?,Germany,0.0
-human_entrepreneur,Georg Winter,academic degree,Doctor of Laws,What is the academic degree of Georg Winter?,Ph.D,0.0
-human_entrepreneur,Otto Fahr,given name,Otto,Who is the given name of Otto Fahr?,Friedrich,0.0
-human_entrepreneur,Michael Braungart,employer,Erasmus University Rotterdam,What is the employer of Michael Braungart?,BASF,0.0
-human_entrepreneur,Denis Thatcher,conflict,World War II,What is the conflict of Denis Thatcher?,Alcoholism,0.0
-human_entrepreneur,J. P. Morgan,notable work,The Morgan Library & Museum,What is the notable work of J. P. Morgan?,Financial Reforms,0.0
-human_entrepreneur,"Prince Bernhard, Margrave of Baden",mother,"Princess Valerie, Margravine of Baden","Who is the mother of Prince Bernhard, Margrave of Baden?",Princess Leopoldine of Baden,0.0
-human_entrepreneur,Christian von Stetten,educated at,University of Mannheim,What was Christian von Stetten educated at?,University of Ingolstadt,0.0
-human_entrepreneur,Jackie Stewart,given name,John,Who is the given name of Jackie Stewart?,Jack,0.0
+human_entrepreneur,Ludwig Opel,place of death,Eastern Front,What is the place of death of Ludwig Opel?,Rüdesheim am Rhein,0.0
+human_entrepreneur,Victor Mayer,residence,Pforzheim,What is the residence of Victor Mayer?,Germany,0.0
+human_entrepreneur,Margarete Steiff,manner of death,natural causes,What is the manner of death of Margarete Steiff?,Drowning,0.0
+human_entrepreneur,Christine Kaufmann,place of burial,Eure,What is the place of burial of Christine Kaufmann?,Munich,0.0
+human_entrepreneur,Adolf Magnus d'Hoym,spouse,Anna Constantia von Brockdorff,Who is the spouse of Adolf Magnus d'Hoym?,Anna Elisabeth von Promnitz,0.0
+human_entrepreneur,Albert Ballin,occupation,entrepreneur,What is the occupation of Albert Ballin?,Shipping magnate,0.0
+human_entrepreneur,Otto Krebs,manner of death,natural causes,What is the manner of death of Otto Krebs?,Execution,0.0
 human_entrepreneur,Heinrich Schliemann,significant event,circumnavigation,What is the significant event of Heinrich Schliemann?,Discovery of Troy,0.0
-human_entrepreneur,Anton Magnis,father,Wilhelm von Magnis,Who is the father of Anton Magnis?,I couldn't find any information on Anton Magnis,0.0
-human_entrepreneur,Jan Gustafsson,country of citizenship,Germany,What is the country of citizenship of Jan Gustafsson?,Sweden,0.0
-human_entrepreneur,Mohamed Sheikh,member of political party,Conservative Party,What is the member of political party of Mohamed Sheikh?,Jubbaland Party,0.0
-human_entrepreneur,50 Cent,employer,Interscope Records,What is the employer of 50 Cent?,G-Unit Records,0.0
-human_entrepreneur,James Simon,religion or worldview,Judaism,What is the religion or worldview of James Simon?,Agnostic,0.0
-human_entrepreneur,Heinrich Koppers,field of work,business,What is the field of work of Heinrich Koppers?,Metallurgy,0.0
-human_entrepreneur,Karl Nessler,given name,Karl,Who is the given name of Karl Nessler?,Julius,0.0
-human_entrepreneur,Toto Wolff,spouse,Susie Wolff,Who is the spouse of Toto Wolff?,Catharina,0.0
-human_entrepreneur,Hans Imhoff,given name,Hans,Who is the given name of Hans Imhoff?,Hermann,0.0
-human_entrepreneur,Tom Enders,academic major,economics,What is the academic major of Tom Enders?,Aeronautical Engineering,0.0
-human_entrepreneur,August Kappler,described by source,Allgemeine Deutsche Biographie,What is the described by source of August Kappler?,German,0.0
-human_entrepreneur,Kurt von Kleefeld,place of birth,Kassel,What is the place of birth of Kurt von Kleefeld?,Berlin,0.0
-human_entrepreneur,Heinrich Schliemann,spouse,Sofia Schliemann,Who is the spouse of Heinrich Schliemann?,Sophie Tristram,0.0
-human_entrepreneur,Friedrich Egermann,described by source,Biographisches Lexikon des Kaiserthums Oesterreich,What is the described by source of Friedrich Egermann?,Novel,0.0
-human_entrepreneur,Brewster Kahle,place of birth,New York City,What is the place of birth of Brewster Kahle?,Berkeley,0.0
-human_entrepreneur,Anton Freissler,occupation,entrepreneur,What is the occupation of Anton Freissler?,Austrian footballer,0.0
-human_entrepreneur,"Christian Kraft, 5th Prince of Hohenlohe-Öhringen, 2nd Duke of Ujest",member of political party,Free Conservative Party,"What is the member of political party of Christian Kraft, 5th Prince of Hohenlohe-Öhringen, 2nd Duke of Ujest?",Christian Democrat,0.0
-human_entrepreneur,Lasse Virén,head coach,Rolf Haikkola,Who is the head coach of Lasse Virén?,Not available,0.0
-human_entrepreneur,Max Levchin,employer,Google,What is the employer of Max Levchin?,AffirmX,0.0
-human_entrepreneur,Adolf Rosenberger,significant event,incarceration,What is the significant event of Adolf Rosenberger?,Founder of the Rosenberger Group,0.0
-human_entrepreneur,Jimmy Wales,religion or worldview,irreligion,What is the religion or worldview of Jimmy Wales?,Agnostic,0.0
-human_entrepreneur,Charles Pfizer,child,Alice Bachofen-Echt,Who is the child of Charles Pfizer?,Charles Pfizer's son was Charles Pfizer Jr,0.0
-human_entrepreneur,Bill Gates,present in work,iSteve,What is the present in work of Bill Gates?,Philanthropy,0.0
-human_entrepreneur,Anton Magnis,member of political party,Centre Party,What is the member of political party of Anton Magnis?,Socialist,0.0
-human_entrepreneur,Thomas Edison,father,Samuel Ogden Edison,Who is the father of Thomas Edison?,Samuel Edison,0.0
-human_entrepreneur,Franz Xaver von Ballestrem,father,Carl Wolfgang von Ballestrem,Who is the father of Franz Xaver von Ballestrem?,Franz Xaver von Ballestrem's father was Franz Xaver von B,0.0
-human_entrepreneur,Carl Hahn,employer,Westsächsische Hochschule Zwickau - University of Applied Sciences,What is the employer of Carl Hahn?,Volkswagen,0.0
-human_entrepreneur,"Prince Friedrich Wilhelm, 7th Prince of Wied",occupation,entrepreneur,"What is the occupation of Prince Friedrich Wilhelm, 7th Prince of Wied?",Military officer,0.0
-human_entrepreneur,Hugo Sholto von Douglas,place of birth,Aschersleben,What is the place of birth of Hugo Sholto von Douglas?,Scotland,0.0
-human_entrepreneur,Edmund Rumpler,educated at,TU Wien,What was Edmund Rumpler educated at?,Technical University of Munich,0.0
+human_entrepreneur,Udo Proksch,place of birth,Rostock,What is the place of birth of Udo Proksch?,Germany,0.0
+human_entrepreneur,Herbert Hainer,sport,association football,What is the sport of Herbert Hainer?,Table tennis,0.0
+human_entrepreneur,James Simon,country of citizenship,Germany,What is the country of citizenship of James Simon?,British,0.0
+human_entrepreneur,Lothar von Faber,father,Georg Leonhard Faber,Who is the father of Lothar von Faber?,Johann Conrad Faber,0.0
+human_entrepreneur,Carl Vincent Krogmann,father,Richard Carl Krogmann,Who is the father of Carl Vincent Krogmann?,Hermann Krogmann,0.0
+human_entrepreneur,Hans Imhoff,country of citizenship,Germany,What is the country of citizenship of Hans Imhoff?,Switzerland,0.0
+human_entrepreneur,Kurt von Kleefeld,country of citizenship,Germany,What is the country of citizenship of Kurt von Kleefeld?,Canada,0.0
+human_entrepreneur,John Jacob Astor I,spouse,Sarah Todd,Who is the spouse of John Jacob Astor I?,Sarah Johnson,0.0
+human_entrepreneur,Jimmy Wales,employer,Fandom,What is the employer of Jimmy Wales?,Wikipedia,0.0
+human_entrepreneur,Denis Thatcher,place of burial,Royal Hospital Chelsea,What is the place of burial of Denis Thatcher?,Hastings Cemetery,0.0
+human_entrepreneur,"Emich, 5th Prince of Leiningen",father,"Ernst Leopold, 4th Prince of Leiningen","Who is the father of Emich, 5th Prince of Leiningen?","Emich Carl, 3rd Prince of Leiningen",0.0
+human_entrepreneur,Kazimierz Sabbat,spouse,Anna Sabbat,Who is the spouse of Kazimierz Sabbat?,Maria Danuta,0.0
+human_entrepreneur,Jakob Fugger,mother,Barbara Fugger,Who is the mother of Jakob Fugger?,Sibilla Fugger,0.0
+human_entrepreneur,Robert Boehringer,country of citizenship,Germany,What is the country of citizenship of Robert Boehringer?,Switzerland,0.0
 human_entrepreneur,Albert Ballin,country of citizenship,Hamburg,What is the country of citizenship of Albert Ballin?,Germany,0.0
-human_entrepreneur,Walter Cramer,cause of death,hanging,What is the cause of death of Walter Cramer?,Lynching,0.0
-human_entrepreneur,Francis Mer,place of death,Bourg-la-Reine,Who is the place of death of Francis Mer?,Paris,0.0
-human_entrepreneur,Bob Falkenburg,country for sport,Brazil,What is the country for sport of Bob Falkenburg?,United States,0.0
-human_entrepreneur,Kazimierz Sabbat,place of birth,Kielce,What is the place of birth of Kazimierz Sabbat?,Lwów,0.0
-human_entrepreneur,Arnold Schwarzenegger,influenced by,Yury Vlasov,Who was Arnold Schwarzenegger influenced by?,Joe Weider,0.0
+human_entrepreneur,Christoph Franz,place of birth,Frankfurt,What is the place of birth of Christoph Franz?,Germany,0.0
+human_entrepreneur,Nikita Mikhalkov,father,Sergey Mikhalkov,Who is the father of Nikita Mikhalkov?,Sergei Mikhalkov,0.0
+human_entrepreneur,Walter Cramer,work location,Leipzig,What is the work location of Walter Cramer?,Hannover,0.0
+human_entrepreneur,Berthold Beitz,spouse,Else Beitz,Who is the spouse of Berthold Beitz?,Hildegard Beitz,0.0
+human_entrepreneur,Steve Coast,employer,TomTom,What is the employer of Steve Coast?,Groundspeak,0.0
+human_entrepreneur,Brewster Kahle,residence,San Francisco,What is the residence of Brewster Kahle?,The Internet Archive,0.0
+human_entrepreneur,Sebastián Piñera,religion or worldview,Catholicism,What is the religion or worldview of Sebastián Piñera?,Evangelical Christianity,0.0
+human_entrepreneur,Ernst August Geitner,country of citizenship,Germany,What is the country of citizenship of Ernst August Geitner?,Austria,0.0
+human_entrepreneur,Joachim Milberg,employer,Technical University of Munich,What is the employer of Joachim Milberg?,Siemens,0.0
+human_entrepreneur,Dieter Zetsche,unmarried partner,Désirée Nosbusch,Who is the unmarried partner of Dieter Zetsche?,Christine Hohmann-Dennhardt,0.0
+human_entrepreneur,Max Levchin,residence,Chicago,What is the residence of Max Levchin?,San Francisco,0.0
+human_entrepreneur,Henry Ford,sport,auto racing,What is the sport of Henry Ford?,Golf,0.0
+human_entrepreneur,J. P. Morgan,notable work,The Morgan Library & Museum,What is the notable work of J. P. Morgan?,Financial Reforms,0.0
+human_entrepreneur,James Wilson,religion or worldview,Quakers,What is the religion or worldview of James Wilson?,Deism,0.0
+human_entrepreneur,"Prince Bernhard, Margrave of Baden",occupation,entrepreneur,"What is the occupation of Prince Bernhard, Margrave of Baden?",Military,0.0
+human_entrepreneur,Seth Bullock,place of birth,Amherstburg,What is the place of birth of Seth Bullock?,Canada,0.0
+human_entrepreneur,William Norris,place of birth,Red Cloud,What is the place of birth of William Norris?,Ireland,0.0
+human_entrepreneur,Conrad Dietrich Magirus,place of death,Ulm,What is the place of death of Conrad Dietrich Magirus?,Stuttgart,0.0
+human_entrepreneur,Robert Boehringer,work location,Geneva,What is the work location of Robert Boehringer?,Switzerland,0.0
+human_entrepreneur,Karel Schwarzenberg,place of birth,Prague,What is the place of birth of Karel Schwarzenberg?,Vienna,0.0
+human_entrepreneur,"Emich, 5th Prince of Leiningen",spouse,Princess Feodore of Hohenlohe-Langenburg,"Who is the spouse of Emich, 5th Prince of Leiningen?",Victoria Feodorovna,0.0
+human_entrepreneur,Herbert Hainer,place of birth,Moosthenning,What is the place of birth of Herbert Hainer?,Germany,0.0
+human_entrepreneur,Carl Hahn,family name,Hahn,Who is the family name of Carl Hahn?,Volkswagen,0.0
+human_entrepreneur,Anton Magnis,work location,Berlin,What is the work location of Anton Magnis?,Germany,0.0
 human_entrepreneur,Konstantin Stanislavski,manner of death,natural causes,What is the manner of death of Konstantin Stanislavski?,Stroke,0.0
-human_entrepreneur,John Jacob Astor I,occupation,entrepreneur,What is the occupation of John Jacob Astor I?,Merchant,0.0
-human_entrepreneur,Otto Fahr,member of political party,Nazi Party,What is the member of political party of Otto Fahr?,CDU,0.0
+human_entrepreneur,Johann Kremenezky,occupation,entrepreneur,What is the occupation of Johann Kremenezky?,Austrian footballer,0.0
+human_entrepreneur,John Rabe,place of death,Berlin,What is the place of death of John Rabe?,Nanjing,0.0
+human_entrepreneur,Franz Seldte,place of burial,Saint Lawrence church in Rottach-Egern,What is the place of burial of Franz Seldte?,Berlin,0.0
+human_entrepreneur,Jason Lee,place of birth,Orange,What is the place of birth of Jason Lee?,Hawaiian,0.0
+human_entrepreneur,"Christian Kraft, 5th Prince of Hohenlohe-Öhringen, 2nd Duke of Ujest",mother,Pauline Prinzessin von Fürstenberg,"Who is the mother of Christian Kraft, 5th Prince of Hohenlohe-Öhringen, 2nd Duke of Ujest?",Countess Franziska Kinsky,0.0
+human_entrepreneur,50 Cent,writing language,English,What is the writing language of 50 Cent?,Street,0.0
+human_entrepreneur,Horst Lippmann,genre,jazz,What is the genre of Horst Lippmann?,Photographer,0.0
+human_entrepreneur,Joseph Rosemeyer,place of burial,Melaten-Friedhof,Who is the place of burial of Joseph Rosemeyer?,St. Louis Cemetery No. 1,0.0
+human_entrepreneur,"Prince Friedrich Wilhelm, 7th Prince of Wied",spouse,Princess Guda of Waldeck and Pyrmont,"Who is the spouse of Prince Friedrich Wilhelm, 7th Prince of Wied?",Pauline Yorck,0.0
+human_entrepreneur,Eduard Schulte,place of birth,Düsseldorf,What is the place of birth of Eduard Schulte?,Königsberg,0.0
+human_entrepreneur,Henry Kissinger,place of burial,Arlington National Cemetery,What is the place of burial of Henry Kissinger?,"Cremated, ashes scattered",0.0
+human_entrepreneur,Corny Littmann,work location,Hamburg,What is the work location of Corny Littmann?,Germany,0.0
+human_entrepreneur,Albert Ballin,field of work,international trade,What is the field of work of Albert Ballin?,Shipping,0.0
+human_entrepreneur,Michael Jackson,copyright representative,"Broadcast Music, Inc.",What is the copyright representative of Michael Jackson?,Sony Music Entertainment,0.0
+human_entrepreneur,Hans Georg Klamroth,father,Kurt Klamroth,Who is the father of Hans Georg Klamroth?,Friedrich Klamroth,0.0
+human_entrepreneur,Otto Fahr,place of birth,Bad Cannstatt,What is the place of birth of Otto Fahr?,Germany,0.0
+human_entrepreneur,Adolf Rosenberger,significant event,incarceration,What is the significant event of Adolf Rosenberger?,Founder of the Rosenberger Group,0.0
+human_entrepreneur,Charles Pfizer,place of death,Rhode Island,What is the place of death of Charles Pfizer?,New York City,0.0
+human_entrepreneur,Klaus-Peter Müller,affiliation,Commerzbank AG,What is the affiliation of Klaus-Peter Müller?,VfL Wolfsburg,0.0
+human_entrepreneur,Herbert Quandt,member of political party,Nazi Party,What is the member of political party of Herbert Quandt?,CDU,0.0
+human_entrepreneur,Kurt von Kleefeld,member of political party,German Democratic Party,What is the member of political party of Kurt von Kleefeld?,Liberal,0.0
+human_entrepreneur,Johann Gottlob Nathusius,place of death,Haldensleben,Who is the place of death of Johann Gottlob Nathusius?,Dresden,0.0
+human_entrepreneur,Elisabeth Gürtler,place of birth,Vienna,What is the place of birth of Elisabeth Gürtler?,Zurich,0.0
+human_entrepreneur,Bill Lawrence,genre,jazz,What is the genre of Bill Lawrence?,Comedy,0.0
+human_entrepreneur,Carl Kellner,place of birth,Hirzenhain,What is the place of birth of Carl Kellner?,Vienna,0.0
+human_entrepreneur,Bill Gates,sport,contract bridge,What is the sport of Bill Gates?,Golf,0.0
+human_entrepreneur,"Christian Kraft, 5th Prince of Hohenlohe-Öhringen, 2nd Duke of Ujest",place of birth,Öhringen,"What is the place of birth of Christian Kraft, 5th Prince of Hohenlohe-Öhringen, 2nd Duke of Ujest?",Vienna,0.0
+human_entrepreneur,Christine Kaufmann,country of citizenship,Germany,What is the country of citizenship of Christine Kaufmann?,Austria,0.0
+human_entrepreneur,"Hans Heinrich XI, 2nd Prince of Pless, Count of Hochberg",member of political party,Free Conservative Party,"What is the member of political party of Hans Heinrich XI, 2nd Prince of Pless, Count of Hochberg?",German Conservative Party,0.0
+human_entrepreneur,Herbert Felix,significant event,military recruitment,What is the significant event of Herbert Felix?,Heinrich Himmler's double,0.0
+human_entrepreneur,Carl Heinrich Theodor Knorr,place of death,Heilbronn,What is the place of death of Carl Heinrich Theodor Knorr?,Stuttgart,0.0
+human_entrepreneur,Karel Schwarzenberg,religion or worldview,Catholic Church,What is the religion or worldview of Karel Schwarzenberg?,Agnostic,0.0
+human_entrepreneur,Claus Josef Riedel,father,Walter Riedel,Who is the father of Claus Josef Riedel?,Claus Riedel,0.0
+human_entrepreneur,Armen Sarkissian,spouse,Nouneh Sarkissian,Who is the spouse of Armen Sarkissian?,Nina Garagashian,0.0
+human_entrepreneur,Margarete Steiff,place of burial,Giengen an der Brenz,Who is the place of burial of Margarete Steiff?,Ulm Minster,0.0
+human_entrepreneur,Otto Fahr,sport,swimming,What is the sport of Otto Fahr?,Fistball,0.0
+human_entrepreneur,Bill Gates,official podcast,Unconfuse Me,What is the official podcast of Bill Gates?,How to Avoid a Climate Disaster,0.0
+human_entrepreneur,Anton Magnis,country of citizenship,German Reich,What is the country of citizenship of Anton Magnis?,Austria,0.0
+human_entrepreneur,Denis Thatcher,military branch,British Army,What is the military branch of Denis Thatcher?,Royal Air Force,0.0
+human_entrepreneur,Hans Georg Klamroth,place of birth,Halberstadt,What is the place of birth of Hans Georg Klamroth?,Germany,0.0

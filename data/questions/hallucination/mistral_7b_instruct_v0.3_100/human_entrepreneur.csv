@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+human_entrepreneur,John Munro Longyear,place of birth,Lansing,Lansing,What is the place of birth of John Munro Longyear?,Norway,0.0
+human_entrepreneur,Clancy Brown,father,Bud Brown,Bud Brown,Who is the father of Clancy Brown?,William Brown,0.0
+human_entrepreneur,Henry Clay Frick,residence,New York City,New York City,What is the residence of Henry Clay Frick?,Frick House (Pittsburgh),0.0
+human_entrepreneur,Herbert Hainer,occupation,entrepreneur,entrepreneur,What is the occupation of Herbert Hainer?,CEO (former),0.0
+human_entrepreneur,Paul Mauser,sex or gender,male,male,What is the sex or gender of Paul Mauser?,Not specified,0.0
+human_entrepreneur,Udo Proksch,place of birth,Rostock,Rostock,What is the place of birth of Udo Proksch?,Austria,0.0
+human_entrepreneur,Otto Fahr,sex or gender,male,male,What is the sex or gender of Otto Fahr?,"Otto Fahr is a fictional character, and therefore does not have a gender",0.0
+human_entrepreneur,Jenna Jameson,eye color,blue,blue,What is the eye color of Jenna Jameson?,Brown,0.0
+human_entrepreneur,Nikita Mikhalkov,instrument,voice,voice,What is the instrument of Nikita Mikhalkov?,Film director,0.0
+human_entrepreneur,Peter Voigtländer,sex or gender,male,male,What is the sex or gender of Peter Voigtländer?,Not specified in the provided information,0.0
+human_entrepreneur,John Jacob Astor I,place of death,Manhattan,Manhattan,What is the place of death of John Jacob Astor I?,New York,0.0
+human_entrepreneur,Adolf Magnus d'Hoym,place of death,Racibórz,Racibórz,What is the place of death of Adolf Magnus d'Hoym?,Dresden,0.0
+human_entrepreneur,Lothar von Faber,place of death,Stein,Stein,Who is the place of death of Lothar von Faber?,Erlangen,0.0
+human_entrepreneur,Waldemar Petersen,employer,Technical University of Darmstadt,Technical University of Darmstadt,What is the employer of Waldemar Petersen?,Employer (of Waldemar Petersen) is Unspecified,0.0
+human_entrepreneur,Karel Schwarzenberg,place of death,Vienna,Vienna,What is the place of death of Karel Schwarzenberg?,Prague,0.0
+human_entrepreneur,Christoph Franz,sex or gender,male,male,What is the sex or gender of Christoph Franz?,Not specified (or relevant),0.0
+human_entrepreneur,Christian von Stetten,sex or gender,male,male,What is the sex or gender of Christian von Stetten?,Not specified in the provided information,0.0
+human_entrepreneur,Karlheinz Steinmüller,place of birth,Klingenthal,Klingenthal,What is the place of birth of Karlheinz Steinmüller?,Germany,0.0
+human_entrepreneur,Konrad Gobel,sex or gender,male,male,What is the sex or gender of Konrad Gobel?,"Not specified (Konrad Gobel is a person, not a character",0.0
+human_entrepreneur,Georg Winter,place of birth,Hamburg,Hamburg,What is the place of birth of Georg Winter?,Germany,0.0
+human_entrepreneur,Brewster Kahle,sex or gender,male,male,What is the sex or gender of Brewster Kahle?,Not specified (or known publicly),0.0
+human_entrepreneur,Friedrich Bayer,place of birth,Barmen,Barmen,What is the place of birth of Friedrich Bayer?,Bavaria,0.0
+human_entrepreneur,Wilhelm Keppler,work location,Berlin,Berlin,What is the work location of Wilhelm Keppler?,Vienna,0.0
+human_entrepreneur,Anton Magnis,country of citizenship,German Reich,German Reich,What is the country of citizenship of Anton Magnis?,Czech Republic,0.0
+human_entrepreneur,Henry Kissinger,subject has role,centenarian,centenarian,What is the subject has role of Henry Kissinger?,Diplomat,0.0
+human_entrepreneur,"Hans Heinrich XI, 2nd Prince of Pless, Count of Hochberg",father,"Hans Heinrich X von Hochberg, 1st Prince of Pless","Hans Heinrich X von Hochberg, 1st Prince of Pless","Who is the father of Hans Heinrich XI, 2nd Prince of Pless, Count of Hochberg?","Hans Heinrich's father is Hans Heinrich X, 1st Prince of P",0.0
+human_entrepreneur,Walter Cramer,work location,Leipzig,Leipzig,What is the work location of Walter Cramer?,Office,0.0
+human_entrepreneur,Tom Enders,place of birth,Bruchertseifen,Bruchertseifen,What is the place of birth of Tom Enders?,Germany,0.0
+human_entrepreneur,John Rabe,place of birth,Hamburg,Hamburg,What is the place of birth of John Rabe?,Germany,0.0
+human_entrepreneur,Corny Littmann,sport,association football,association football,What is the sport of Corny Littmann?,No data found,0.0
+human_entrepreneur,Bernd Pischetsrieder,affiliation,Volkswagen,Volkswagen,What is the affiliation of Bernd Pischetsrieder?,BMW,0.0
+human_entrepreneur,Adolph von Hansemann,place of burial,Alter St.-Matthäus-Kirchhof Berlin,Alter St.-Matthäus-Kirchhof Berlin,What is the place of burial of Adolph von Hansemann?,"Montmartre Cemetery, Paris",0.0
+human_entrepreneur,Michael Jackson,manner of death,homicide,homicide,What is the manner of death of Michael Jackson?,Cardiac arrest,0.0
+human_entrepreneur,Max Otte,academic degree,doctorate,doctorate,What is the academic degree of Max Otte?,Master's Degree,0.0
+human_entrepreneur,"Maximilian Karl, 6th Prince of Thurn and Taxis",place of death,Regensburg,Regensburg,"What is the place of death of Maximilian Karl, 6th Prince of Thurn and Taxis?","San Simeon, California",0.0
+human_entrepreneur,Friedrich Bayer,place of death,Würzburg,Würzburg,What is the place of death of Friedrich Bayer?,"Barmen, Germany",0.0
+human_entrepreneur,Vince McMahon,partner in business or sport,George Cannon,George Cannon,Who is the partner in business or sport of Vince McMahon?,Shane McMahon,0.0
+human_entrepreneur,Konstantin Stanislavski,genre,theatre,theatre,What is the genre of Konstantin Stanislavski?,"Stanislavski is not a genre, he is a Russian actor, director",0.0
+human_entrepreneur,lhaj Adam Opel,work location,Rüsselsheim am Main,Rüsselsheim am Main,What is the work location of lhaj Adam Opel?,"Germany (Germany is the home country of Adam Opel AG, the",0.0
+human_entrepreneur,Friedbert Pflüger,employer,King's College London,King's College London,What is the employer of Friedbert Pflüger?,BMW Group,0.0
+human_entrepreneur,John Bradshaw Layfield,place of birth,Sweetwater,Sweetwater,What is the place of birth of John Bradshaw Layfield?,Canada,0.0
+human_entrepreneur,Horst Lippmann,place of death,Frankfurt,Frankfurt,What is the place of death of Horst Lippmann?,Crete,0.0
+human_entrepreneur,Bruno Tesch,place of birth,Berlin,Berlin,What is the place of birth of Bruno Tesch?,Germany,0.0
+human_entrepreneur,Walter Cramer,place of death,Berlin,Berlin,What is the place of death of Walter Cramer?,Hospital (St. Vincent's Medical Center),0.0
+human_entrepreneur,Albert Böhler,place of birth,Frankfurt,Frankfurt,What is the place of birth of Albert Böhler?,Austria,0.0
+human_entrepreneur,Steve Coast,employer,TomTom,TomTom,What is the employer of Steve Coast?,OpenStreetMap Foundation (Founder),0.0
+human_entrepreneur,Simon von Lämel,sex or gender,male,male,What is the sex or gender of Simon von Lämel?,Not specified in the provided information,0.0
+human_entrepreneur,Ludwig Opel,place of death,Eastern Front,Eastern Front,What is the place of death of Ludwig Opel?,Rüsselsheim,0.0
+human_entrepreneur,William Boeing,place of death,Puget Sound,Puget Sound,What is the place of death of William Boeing?,Bellevue (WA),0.0
+human_entrepreneur,Anton Schlecker,occupation,entrepreneur,entrepreneur,What is the occupation of Anton Schlecker?,Grocer (founder of Schlecker supermarkets),0.0
+human_entrepreneur,Bill Gates,affiliation,Bill & Melinda Gates Foundation,Bill & Melinda Gates Foundation,What is the affiliation of Bill Gates?,Microsoft,0.0
+human_entrepreneur,Heinz Nixdorf,place of burial,Paderborn,Paderborn,What is the place of burial of Heinz Nixdorf?,Ploennies,0.0
+human_entrepreneur,Sebastián Piñera,place of birth,Santiago,Santiago,What is the place of birth of Sebastián Piñera?,Chile,0.0
+human_entrepreneur,Guido Henckel von Donnersmarck,spouse,La Païva,La Païva,What is the spouse of Guido Henckel von Donnersmarck?,Tina Baz  (Note: Tina Baz is the wife,0.0
+human_entrepreneur,Friedrich Engelhorn,sex or gender,male,male,What is the sex or gender of Friedrich Engelhorn?,Not specified (or known) in the provided information,0.0
+human_entrepreneur,"Emich, 5th Prince of Leiningen",spouse,Princess Feodore of Hohenlohe-Langenburg,Princess Feodore of Hohenlohe-Langenburg,"Who is the spouse of Emich, 5th Prince of Leiningen?",Not provided (as no specific spouse was mentioned in the question),0.0
+human_entrepreneur,Joachim Milberg,work location,Munich,Munich,What is the work location of Joachim Milberg?,Office (assuming based on typical job titles),0.0
+human_entrepreneur,Thomas Haffa,country of citizenship,Germany,Germany,What is the country of citizenship of Thomas Haffa?,Austria,0.0
+human_entrepreneur,William Ralph Merton,country of citizenship,Germany,Germany,What is the country of citizenship of William Ralph Merton?,United States,0.0
+human_entrepreneur,Herbert Hainer,sport,association football,association football,What is the sport of Herbert Hainer?,Tennis,0.0
+human_entrepreneur,Henry Morgenthau,place of birth,Mannheim,Mannheim,What is the place of birth of Henry Morgenthau?,Germany,0.0
+human_entrepreneur,Horst Lippmann,genre,jazz,jazz,What is the genre of Horst Lippmann?,Photography,0.0
+human_entrepreneur,Carl Vincent Krogmann,place of birth,Hamburg,Hamburg,What is the place of birth of Carl Vincent Krogmann?,Germany,0.0
+human_entrepreneur,James Goodnight,sex or gender,male,male,What is the sex or gender of James Goodnight?,Not specified in the provided information,0.0
+human_entrepreneur,Albert Ballin,field of work,international trade,international trade,What is the field of work of Albert Ballin?,Shipping,0.0
+human_entrepreneur,Willy Bogner,unmarried partner,Barbara Henneberger,Barbara Henneberger,Who is the unmarried partner of Willy Bogner?,Ingrid  (Note: Ingrid Beisheim is the unmar,0.0
+human_entrepreneur,Heinrich Hiesinger,affiliation,thyssenkrupp AG,thyssenkrupp AG,What is the affiliation of Heinrich Hiesinger?,Thyssenkrupp (CEO),0.0
+human_entrepreneur,Margarete Steiff,place of birth,Giengen an der Brenz,Giengen an der Brenz,Who is the place of birth of Margarete Steiff?,Germany,0.0
+human_entrepreneur,Julius Pintsch,place of death,Fürstenwalde,Fürstenwalde,What is the place of death of Julius Pintsch?,Vienna,0.0
+human_entrepreneur,Herbert Hainer,place of birth,Moosthenning,Moosthenning,What is the place of birth of Herbert Hainer?,Germany,0.0
+human_entrepreneur,50 Cent,employer,Interscope Records,Interscope Records,What is the employer of 50 Cent?,"G-Unit Films & Television, Glacéau (Vitaminwater",0.0
+human_entrepreneur,Armen Sarkissian,member of political party,independent politician,independent politician,What is the member of political party of Armen Sarkissian?,Republican Party of Armenia (RPA) (until 2018,0.0
+human_entrepreneur,Bill Lawrence,place of birth,Wahn,Wahn,What is the place of birth of Bill Lawrence?,Connecticut,0.0
+human_entrepreneur,Bill Gates,present in work,iSteve,iSteve,What is the present in work of Bill Gates?,Innovation,0.0
+human_entrepreneur,Jenna Jameson,noble title,queen,queen,What is the noble title of Jenna Jameson?,"None (Jenna Jameson is a former adult film actress, not a",0.0
+human_entrepreneur,Rudolf August Oetker,place of death,Hamburg,Hamburg,What is the place of death of Rudolf August Oetker?,"Uelzen, Germany",0.0
+human_entrepreneur,Jason Lee,sport,skateboarding,skateboarding,What is the sport of Jason Lee?,Surfing,0.0
+human_entrepreneur,Rupert Murdoch,religion or worldview,Catholicism,Catholicism,What is the religion or worldview of Rupert Murdoch?,Not specified publicly,0.0
+human_entrepreneur,John Rabe,employer,Siemens,Siemens,What is the employer of John Rabe?,"German Businessman (SS-Hauptsturmführer, but in relation",0.0
+human_entrepreneur,Barbara Uthmann,occupation,entrepreneur,entrepreneur,What is the occupation of Barbara Uthmann?,Lawyer,0.0
+human_entrepreneur,Marco Polo,place of death,Venice,Venice,What is the place of death of Marco Polo?,Constantinople,0.0
+human_entrepreneur,Larry Page,influenced by,Terry Winograd,Terry Winograd,Who was Larry Page influenced by?,"Westley Cherry, Vinton Cerf, and Steve Jobs",0.0
+human_entrepreneur,Juan Trippe,sex or gender,male,male,What is the sex or gender of Juan Trippe?,Not specified in the provided information,0.0
+human_entrepreneur,Christian von Stetten,work location,Berlin,Berlin,What is the work location of Christian von Stetten?,Germany,0.0
+human_entrepreneur,Christine Kaufmann,spouse,Tony Curtis,Tony Curtis,Who is the spouse of Christine Kaufmann?,Not provided (as of my last update),0.0
+human_entrepreneur,Heinz Nixdorf,member of political party,Nazi Party,Nazi Party,What is the member of political party of Heinz Nixdorf?,CDU (Christlich Demokratische Union),0.0
+human_entrepreneur,Carl Heinrich Theodor Knorr,place of death,Heilbronn,Heilbronn,What is the place of death of Carl Heinrich Theodor Knorr?,Leipzig,0.0
+human_entrepreneur,Heinz Dürr,country of citizenship,Germany,Germany,What is the country of citizenship of Heinz Dürr?,Switzerland,0.0
+human_entrepreneur,Craig McCaw,place of birth,Centralia,Centralia,What is the place of birth of Craig McCaw?,Tacoma,0.0
+human_entrepreneur,Carl Heinrich Theodor Knorr,country of citizenship,Duchy of Brunswick,Duchy of Brunswick,What is the country of citizenship of Carl Heinrich Theodor Knorr?,Germany,0.0
+human_entrepreneur,Otto Krebs,place of birth,Wiesbaden,Wiesbaden,What is the place of birth of Otto Krebs?,Germany,0.0
+human_entrepreneur,Alois Scholz,place of birth,Bielsko-Biała,Bielsko-Biała,What is the place of birth of Alois Scholz?,Germany,0.0
+human_entrepreneur,Wilhelm Keppler,member of political party,Nazi Party,Nazi Party,What is the member of political party of Wilhelm Keppler?,Christian Democratic Union (CDU),0.0
+human_entrepreneur,Johann Kremenezky,occupation,entrepreneur,entrepreneur,What is the occupation of Johann Kremenezky?,Engineer,0.0
+human_entrepreneur,Bill Gates,sport,contract bridge,contract bridge,What is the sport of Bill Gates?,Tennis,0.0
+human_entrepreneur,Gordon Bajnai,academic degree,doctorate,doctorate,What is the academic degree of Gordon Bajnai?,Master's degree,0.0
+human_entrepreneur,Heinz Dürr,place of death,Berlin,Berlin,What is the place of death of Heinz Dürr?,Switzerland,0.0
+human_entrepreneur,Carl Kellner,manner of death,natural causes,natural causes,What is the manner of death of Carl Kellner?,Drowned,0.0
+human_entrepreneur,Wilhelm Keppler,place of birth,Heidelberg,Heidelberg,What is the place of birth of Wilhelm Keppler?,Austria,0.0
+human_entrepreneur,Ralph H. Baer,conflict,World War II,World War II,What is the conflict of Ralph H. Baer?,Invention of TV games (Magnavox Odyssey),0.0

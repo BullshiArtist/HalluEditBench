@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+entertainment_anime,Holo no Graffiti,main subject,VTuber,VTuber,What is the main subject of Holo no Graffiti?,Graffiti (Holo),0.0
+entertainment_anime,Lupin VIII,country of origin,Japan,Japan,What is the country of origin of Lupin VIII?,France,0.0
+entertainment_anime,The Black Cat,genre,animated film,animated film,What is the genre of The Black Cat?,Gothic,0.0
+entertainment_anime,Euphoria,developer,CLOCKUP,CLOCKUP,What is the developer of Euphoria?,Sucker Punch Productions,0.0
+entertainment_anime,Peeping Life,distributed by,Crunchyroll,Crunchyroll,What was Peeping Life distributed by?,Peeping Life was distributed by Channel 4 (UK),0.0
+entertainment_anime,Holo no Graffiti,producer,Hololive Production,Hololive Production,What is the producer of Holo no Graffiti?,A-1 Pictures,0.0
+entertainment_anime,Aikatsu on Parade!,production company,Bandai Namco Pictures,Bandai Namco Pictures,What is the production company of Aikatsu on Parade!?,Sunrise,0.0
+entertainment_anime,Kinnikuman Nisei,main subject,sport,sport,What is the main subject of Kinnikuman Nisei?,Kinnikuman Nisei's main subject is professional wrestling,0.0
+entertainment_anime,Power DoLLS: Detachment of Limited Line Service,genre,turn-based tactics,turn-based tactics,What is the genre of Power DoLLS: Detachment of Limited Line Service?,Visual Novel,0.0
+entertainment_anime,JK-Meshi!,distribution format,video on demand,video on demand,What is the distribution format of JK-Meshi!?,.json,0.0
+entertainment_anime,Giovanni's Island,screenwriter,Yoshiki Sakurai,Yoshiki Sakurai,Who is the screenwriter of Giovanni's Island?,Miho Maruo,0.0
+entertainment_anime,Cat Soup Theater,language of work or name,Japanese,Japanese,What is the language of work or name of Cat Soup Theater?,Cat Soup Theater language isn't specified,0.0
+entertainment_anime,This Boy Is a Professional Wizard,distributed by,Crunchyroll,Crunchyroll,What was This Boy Is a Professional Wizard distributed by?,Scholastic Books,0.0
+entertainment_anime,Schick x Evangelion,voice actor,Fumihiko Tachiki,Fumihiko Tachiki,Who is the voice actor of Schick x Evangelion?,Hideaki Anno (creator of Evangelion) voices Schick,0.0
+entertainment_anime,The Rebirth of Buddha,distributed by,Toei Company,Toei Company,What was The Rebirth of Buddha distributed by?,Netflix,0.0
+entertainment_anime,Kinnikuman Nisei,author,Yudetamago,Yudetamago,What is the author of Kinnikuman Nisei?,Yoshinobu Yamada,0.0
+entertainment_anime,W Wish,language of work or name,Japanese,Japanese,What is the language of work or name of W Wish?,"Wish is an app, not a language",0.0
+entertainment_anime,Idol Land PriPara,part of the series,Pretty Rhythm,Pretty Rhythm,What is the part of the series of Idol Land PriPara?,Episode,0.0
+entertainment_anime,Giovanni's Island,distributed by,Warner Bros.,Warner Bros.,What was Giovanni's Island distributed by?,GKids,0.0
+entertainment_anime,Tabimachi Late Show,distributed by,Crunchyroll,Crunchyroll,What was Tabimachi Late Show distributed by?,Fuji TV,0.0
+entertainment_anime,The Rebirth of Buddha,original language of film or TV show,Japanese,Japanese,What is the original language of film or TV show of The Rebirth of Buddha?,Sanskrit (in original texts),0.0
+entertainment_anime,Rescue Me!,intended public,shōnen,shōnen,What is the intended public of Rescue Me!?,Children,0.0
+entertainment_anime,Schick x Evangelion,media franchise,Neon Genesis Evangelion,Neon Genesis Evangelion,What is the media franchise of Schick x Evangelion?,"Schick x Evangelion is a collaboration, not a media franchise",0.0
+entertainment_anime,Euphoria,language of work or name,Japanese,Japanese,What is the language of work or name of Euphoria?,English (language of work) Euphoria (name of TV show,0.0
+entertainment_anime,Lupin VIII,director,Rintaro,Rintaro,Who is the director of Lupin VIII?,Not specified (as of my last update),0.0
+entertainment_anime,Armitage III: Poly Matrix,genre,cyberpunk,cyberpunk,What is the genre of Armitage III: Poly Matrix?,Sci-fi,0.0
+entertainment_anime,Holo no Graffiti,production company,Hololive Production,Hololive Production,What is the production company of Holo no Graffiti?,Liden Films,0.0
+entertainment_anime,This Boy Suffers from Crystallization,distribution format,video on demand,video on demand,What is the distribution format of This Boy Suffers from Crystallization?,Manga (Webcomic),0.0
+entertainment_anime,Kiratto Pri Chan,followed by,Pretty All Friends Selection,Pretty All Friends Selection,What was Kiratto Pri Chan followed by?,"Kiratto Pri Chan was followed by ""Kiratto Pri Para.""",0.0
+entertainment_anime,Peeping Life,original language of film or TV show,Japanese,Japanese,What is the original language of film or TV show of Peeping Life?,Korean,0.0
+entertainment_anime,Kurokan,distributed by,Crunchyroll,Crunchyroll,What was Kurokan distributed by?,Mitsubishi Heavy Industries,0.0
+entertainment_anime,The Laws of the Sun,author,Ryūhō Ōkawa,Ryūhō Ōkawa,Who is the author of The Laws of the Sun?,Isaac Asimov,0.0
+entertainment_anime,Burglars of Baghdad Castle,based on,The Thief of Bagdad,The Thief of Bagdad,What was Burglars of Baghdad Castle based on?,"""Arabian Nights""",0.0
+entertainment_anime,Horror News,distributed by,Crunchyroll,Crunchyroll,What was Horror News distributed by?,Email,0.0
+entertainment_anime,Kurokan,distribution format,video on demand,video on demand,What is the distribution format of Kurokan?,PDF,0.0
+entertainment_anime,Double Decker! Doug & Kirill,character designer,Masakazu Katsura,Masakazu Katsura,Who is the character designer of Double Decker! Doug & Kirill?,Shingo Adachi,0.0
+entertainment_anime,Ranma ½ One Grew Over the Kuno's Nest,director,Junji Nishimura,Junji Nishimura,Who is the director of Ranma ½ One Grew Over the Kuno's Nest?,Hideki Kakinuma,0.0
+entertainment_anime,Chain Chronicle,distribution format,video on demand,video on demand,What is the distribution format of Chain Chronicle?,Digital (Mobile),0.0
+entertainment_anime,Love Rice,distribution format,video on demand,video on demand,What is the distribution format of Love Rice?,Bag,0.0
+entertainment_anime,THE LIFE OF GREAT HERMES,creator,IRH Press,IRH Press,What is the creator of THE LIFE OF GREAT HERMES?,Hermes Trismegistus (traditional) or Iambl,0.0
+entertainment_anime,The Rebirth of Buddha,creator,IRH Press,IRH Press,What is the creator of The Rebirth of Buddha?,Hokusai (Katsushika Hokusai),0.0
+entertainment_anime,Crimson Wolf,language of work or name,Japanese,Japanese,What is the language of work or name of Crimson Wolf?,Crimson Wolf's language and name depend on the specific series or media it,0.0
+entertainment_anime,IDOLM@STER SideM,input device,touchscreen,touchscreen,What is the input device of IDOLM@STER SideM?,"Keyboard, Mouse, Controller (depending on the platform)",0.0
+entertainment_anime,The Rebirth of Buddha,art director,Masaru Sato,Masaru Sato,Who is the art director of The Rebirth of Buddha?,Not specified publicly,0.0
+entertainment_anime,This Boy Is a Professional Wizard,distribution format,video on demand,video on demand,What is the distribution format of This Boy Is a Professional Wizard?,Anime,0.0
+entertainment_anime,Ranma ½ One Grew Over the Kuno's Nest,based on,Ranma ½,Ranma ½,What was Ranma ½ One Grew Over the Kuno's Nest based on?,Manga,0.0
+entertainment_anime,Digimon Adventure Tri. 6,part of the series,Digimon Adventure tri.,Digimon Adventure tri.,What is the part of the series of Digimon Adventure Tri. 6?,Six,0.0
+entertainment_anime,Digimon Adventure Tri. 3,distribution format,video on demand,video on demand,What is the distribution format of Digimon Adventure Tri. 3?,Blu-ray/DVD,0.0
+entertainment_anime,Giovanni's Island,production company,Production I.G,Production I.G,What is the production company of Giovanni's Island?,Science SARL,0.0
+entertainment_anime,Digimon Adventure Tri. 3,part of the series,Digimon Adventure tri.,Digimon Adventure tri.,What is the part of the series of Digimon Adventure Tri. 3?,Sixth,0.0
+entertainment_anime,Euphoria,input device,computer keyboard,computer keyboard,What is the input device of Euphoria?,"Interface (not specific to Euphoria, as it's a",0.0
+entertainment_anime,Tabimachi Late Show,distribution format,video on demand,video on demand,What is the distribution format of Tabimachi Late Show?,Anime,0.0
+entertainment_anime,Holo no Graffiti,publisher,Hololive Production,Hololive Production,What is the publisher of Holo no Graffiti?,Kodansha,0.0
+entertainment_anime,Digimon Adventure Tri. 3,follows,Digimon Adventure Tri. 2,Digimon Adventure Tri. 2,What does Digimon Adventure Tri. 3 follow?,Digimon Adventure Tri. 3 follows Digimon Adventure Tri,0.0
+entertainment_anime,Giovanni's Island,producer,Mitsuhisa Ishikawa,Mitsuhisa Ishikawa,Who is the producer of Giovanni's Island?,Makoto Shinkai,0.0
+entertainment_anime,Horror News,distribution format,video on demand,video on demand,What is the distribution format of Horror News?,PDF,0.0
+entertainment_anime,THE LIFE OF GREAT HERMES,executive producer,Ryūhō Ōkawa,Ryūhō Ōkawa,Who is the executive producer of THE LIFE OF GREAT HERMES?,Not specified in the question,0.0
+entertainment_anime,Pan de Peace!,country of origin,Japan,Japan,What is the country of origin of Pan de Peace!?,Mexico,0.0
+entertainment_anime,Giovanni's Island,director,Mizuho Nishikubo,Mizuho Nishikubo,Who is the director of Giovanni's Island?,"Mizushima, Mizuho",0.0
+entertainment_anime,Chain Chronicle,developer,Sega Interactive,Sega Interactive,What is the developer of Chain Chronicle?,Square Enix,0.0
+entertainment_anime,Aki Sora,language of work or name,Japanese,Japanese,What is the language of work or name of Aki Sora?,Visual Novel (medium) | Aki Sora (character),0.0
+entertainment_anime,Pan de Peace!,language of work or name,Japanese,Japanese,What is the language of work or name of Pan de Peace!?,Spanish (Pan de Paz),0.0
+entertainment_anime,The Laws of the Sun,country of origin,Japan,Japan,What is the country of origin of The Laws of the Sun?,Spain,0.0
+entertainment_anime,Jankenman,genre,action game,action game,What is the genre of Jankenman?,Anime,0.0
+entertainment_anime,Harlock Saga,director,Yoshio Takeuchi,Yoshio Takeuchi,Who is the director of Harlock Saga?,Shinji Aramaki,0.0
+entertainment_anime,Doamaiger D,distribution format,video on demand,video on demand,What is the distribution format of Doamaiger D?,Blu-ray/DVD,0.0
+entertainment_anime,The Black Cat,country of origin,Japan,Japan,What is the country of origin of The Black Cat?,Edgar Allan Poe (author),0.0
+entertainment_anime,Bible Black,game mode,single-player video game,single-player video game,What is the game mode of Bible Black?,Visual Novel,0.0
+entertainment_anime,Cat Soup Theater,country of origin,Japan,Japan,What is the country of origin of Cat Soup Theater?,Vietnam,0.0
+entertainment_anime,Euphoria,distribution format,DVD,DVD,What is the distribution format of Euphoria?,Series (TV),0.0
+entertainment_anime,Tesagure! Bukatsu-mono,composer,Jun Ōtomo,Jun Ōtomo,Who is the composer of Tesagure! Bukatsu-mono?,Yuki Kajiura,0.0
+entertainment_anime,Doraemon: Nobita and the Green Giant Legend,main subject,house cat,house cat,What is the main subject of Doraemon: Nobita and the Green Giant Legend?,Doraemon: Nobita and the Green Giant Legend's main subject,0.0
+entertainment_anime,Ehrgeiz,genre,mecha,mecha,What is the genre of Ehrgeiz?,Action,0.0
+entertainment_anime,Aki Sora,author,Masahiro Itosugi,Masahiro Itosugi,Who is the author of Aki Sora?,Aoi Nakamura,0.0
+entertainment_anime,Digimon Adventure Tri. 5,part of the series,Digimon Adventure tri.,Digimon Adventure tri.,What is the part of the series of Digimon Adventure Tri. 5?,Six,0.0
+entertainment_anime,Bible Black,publisher,Active,Active,What is the publisher of Bible Black?,ADVANCED Media Works,0.0
+entertainment_anime,Doraemon: Nobita and the Green Giant Legend,screenwriter,Hiroshi Ōnogi,Hiroshi Ōnogi,Who is the screenwriter of Doraemon: Nobita and the Green Giant Legend?,Hiroshi Nishikiori,0.0
+entertainment_anime,THE LIFE OF GREAT HERMES,country of origin,Japan,Japan,What is the country of origin of THE LIFE OF GREAT HERMES?,Egypt,0.0
+entertainment_anime,Q.E.D.,author,Motohiro Katou,Motohiro Katou,Who is the author of Q.E.D.?,John Derbyshire,0.0
+entertainment_anime,W Wish,country of origin,Japan,Japan,What is the country of origin of W Wish?,South Korea,0.0
+entertainment_anime,Gakuen Handsome,genre,dating sim,dating sim,What is the genre of Gakuen Handsome?,"Romance, Comedy, School Life, Shounen-Ai",0.0
+entertainment_anime,The Laws of the Sun,followed by,The Golden Laws,The Golden Laws,What was The Laws of the Sun followed by?,The Codex Juris Civilis (Justinian Code),0.0
+entertainment_anime,Chō Supercar Gattiger,follows,The Great Grape Ape Show,The Great Grape Ape Show,What does Chō Supercar Gattiger follow?,Anime,0.0
+entertainment_anime,The Rebirth of Buddha,director,Takaaki Ishiyama,Takaaki Ishiyama,Who is the director of The Rebirth of Buddha?,K. R. Mohanan,0.0
+entertainment_anime,Lupin the 3rd vs Detective Conan,director,Hajime Kamegaki,Hajime Kamegaki,Who is the director of Lupin the 3rd vs Detective Conan?,Takuya Igarashi,0.0
+entertainment_anime,W Wish,game mode,single-player video game,single-player video game,What is the game mode of W Wish?,Wish does not have a specific game mode. It's a wish-,0.0
+entertainment_anime,Holo no Graffiti,genre,parody,parody,What is the genre of Holo no Graffiti?,Visual Novel,0.0
+entertainment_anime,Love Rice,distributed by,Crunchyroll,Crunchyroll,What was Love Rice distributed by?,Love Rice was distributed by Loving Foods,0.0
+entertainment_anime,Voice of Fox,distributed by,Crunchyroll,Crunchyroll,What was Voice of Fox distributed by?,Bandai Namco Entertainment,0.0
+entertainment_anime,Double Decker! Doug & Kirill,distributed by,Crunchyroll,Crunchyroll,What was Double Decker! Doug & Kirill distributed by?,Funimation,0.0
+entertainment_anime,To Be Hero,distributed by,Crunchyroll,Crunchyroll,What was To Be Hero distributed by?,Netflix,0.0
+entertainment_anime,Don't Lose!! Evil Corps!,distribution format,video on demand,video on demand,What is the distribution format of Don't Lose!! Evil Corps!?,Digital (Steam),0.0
+entertainment_anime,Q.E.D.,country of origin,Japan,Japan,What is the country of origin of Q.E.D.?,France,0.0
+entertainment_anime,The Rebirth of Buddha,production company,Group TAC,Group TAC,What is the production company of The Rebirth of Buddha?,CJ Entertainment & Co,0.0
+entertainment_anime,The Black Cat,original language of film or TV show,Japanese,Japanese,What is the original language of film or TV show of The Black Cat?,Italian,0.0
+entertainment_anime,To Be Hero,followed by,To Be Heroine,To Be Heroine,What was To Be Hero followed by?,To Be Hero was followed by To Be Hero 2,0.0
+entertainment_anime,Zukkoke Knight - Don De La Mancha,language of work or name,Japanese,Japanese,What is the language of work or name of Zukkoke Knight - Don De La Mancha?,Spanish (Don Quixote de la Mancha),0.0
+entertainment_anime,W Wish,original language of film or TV show,Japanese,Japanese,What is the original language of film or TV show of W Wish?,Korean,0.0
+entertainment_anime,Lupin the 3rd vs Detective Conan,screenwriter,Atsushi Maekawa,Atsushi Maekawa,Who is the screenwriter of Lupin the 3rd vs Detective Conan?,Takeshi Yoshioka,0.0
+entertainment_anime,Lupin the 3rd vs Detective Conan,intended public,shōnen,shōnen,What is the intended public of Lupin the 3rd vs Detective Conan?,Anime fans,0.0

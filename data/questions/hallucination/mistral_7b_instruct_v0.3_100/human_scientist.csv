@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+human_scientist,Berthold Vogl,sex or gender,male,male,What is the sex or gender of Berthold Vogl?,Not specified in the provided information,0.0
+human_scientist,Benjamin Constant,sex or gender,male,male,What is the sex or gender of Benjamin Constant?,"Not applicable (Benjamin Constant was a historical figure, not a living person",0.0
+human_scientist,Boris Vladimirtsov,sex or gender,male,male,What is the sex or gender of Boris Vladimirtsov?,Not specified in the provided information,0.0
+human_scientist,Boris Petrovich Komrakow,place of birth,Ivano-Frankivsk,Ivano-Frankivsk,What is the place of birth of Boris Petrovich Komrakow?,Russia,0.0
+human_scientist,Leonhard Euler,medical condition,blindness,blindness,What is the medical condition of Leonhard Euler?,Deceased (died 1783),0.0
+human_scientist,Hugh H. Young,member of political party,Democratic Party,Democratic Party,What is the member of political party of Hugh H. Young?,Republican,0.0
+human_scientist,Anna Heer,partner in business or sport,Marie Heim-Vögtlin,Marie Heim-Vögtlin,Who is the partner in business or sport of Anna Heer?,Kader Abderhamane,0.0
+human_scientist,Francesco Redi,place of birth,Arezzo,Arezzo,What is the place of birth of Francesco Redi?,Florence,0.0
+human_scientist,Leonardo da Vinci,country of citizenship,Republic of Florence,Republic of Florence,What is the country of citizenship of Leonardo da Vinci?,Italy,0.0
+human_scientist,Charles K. Kao,doctoral advisor,Harold Barlow,Harold Barlow,Who is the doctoral advisor of Charles K. Kao?,Ellis Silvio  (Note: This is the name of the,0.0
+human_scientist,Gregory Goodwin Pincus,place of birth,Woodbine,Woodbine,What is the place of birth of Gregory Goodwin Pincus?,United States,0.0
+human_scientist,Étienne-Jules Marey,place of death,Paris,Paris,What is the place of death of Étienne-Jules Marey?,Algiers,0.0
+human_scientist,Lawrence Summers,spouse,Elisa New,Elisa New,Who is the spouse of Lawrence Summers?,Elaine Chao,0.0
+human_scientist,Karl Friedrich Wilhelm Peters,place of death,Königsberg,Königsberg,What is the place of death of Karl Friedrich Wilhelm Peters?,Tahiti,0.0
+human_scientist,Sergei Izotov,field of work,aircraft industry,aircraft industry,What is the field of work of Sergei Izotov?,Physics,0.0
+human_scientist,Semyon Lavochkin,conflict,Eastern Front,Eastern Front,What is the conflict of Semyon Lavochkin?,Lavochkin's conflict (in the context of space history) refers to,0.0
+human_scientist,Robert Winston,employer,Imperial College London,Imperial College London,What is the employer of Robert Winston?,BBC (British Broadcasting Corporation),0.0
+human_scientist,Hans Jenny,sex or gender,male,male,What is the sex or gender of Hans Jenny?,Not specified (or known),0.0
+human_scientist,Carl Dorno,sex or gender,male,male,What is the sex or gender of Carl Dorno?,Not specified in the provided context,0.0
+human_scientist,Alberto Granado,second family name in Spanish name,Romero,Romero,Who is the second family name in Spanish name of Alberto Granado?,Granado,0.0
+human_scientist,Ben Goldacre,employer,University of Oxford,University of Oxford,What is the employer of Ben Goldacre?,The Guardian (UK),0.0
+human_scientist,Alfred Jante,sex or gender,male,male,What is the sex or gender of Alfred Jante?,"Alfred Jante is a fictional character, and therefore does not have a sex",0.0
+human_scientist,Janko Ferk,sex or gender,male,male,What is the sex or gender of Janko Ferk?,Not specified in the provided information,0.0
+human_scientist,Étienne Pariset,place of birth,Grand,Grand,What is the place of birth of Étienne Pariset?,France,0.0
+human_scientist,Luboš Kohoutek,place of death,Bergedorf,Bergedorf,What is the place of death of Luboš Kohoutek?,Prague,0.0
+human_scientist,Émile Coué,place of death,Nancy,Nancy,Who is the place of death of Émile Coué?,"Saint-Maurice-sur-Aveyron, France",0.0
+human_scientist,Tytus Maksymilian Huber,field of work,mechanical engineering,mechanical engineering,What is the field of work of Tytus Maksymilian Huber?,Architecture,0.0
+human_scientist,Franz-Josef Ulm,sex or gender,male,male,What is the sex or gender of Franz-Josef Ulm?,"Not specified (Franz-Josef Ulm is a person, not",0.0
+human_scientist,Paul Dirac,residence,United Kingdom,United Kingdom,What is the residence of Paul Dirac?,Cambridge (UK),0.0
+human_scientist,Galileo Galilei,medical condition,blindness,blindness,What is the medical condition of Galileo Galilei?,Deceased (died in 1642),0.0
+human_scientist,Andreas Vogel,field of work,digital humanities,digital humanities,What is the field of work of Andreas Vogel?,Computer Science,0.0
+human_scientist,Émile Coué,sex or gender,male,male,What is the sex or gender of Émile Coué?,Not specified,0.0
+human_scientist,Yury Pobedonostsev,field of work,rocket science,rocket science,What is the field of work of Yury Pobedonostsev?,Politics,0.0
+human_scientist,Otto Immisch,sex or gender,male,male,What is the sex or gender of Otto Immisch?,Not specified,0.0
+human_scientist,Stuart Hameroff,influenced by,Roger Penrose,Roger Penrose,Who was Stuart Hameroff influenced by?,"Penrose, Turing",0.0
+human_scientist,Valery Zorkin,professorship,full professor,full professor,What is the professorship of Valery Zorkin?,Judge (Chairman of the Constitutional Court of Russia),0.0
+human_scientist,Bernhard Siegert,sex or gender,male,male,What is the sex or gender of Bernhard Siegert?,Not specified in the provided information,0.0
+human_scientist,August Dupré,sex or gender,male,male,What is the sex or gender of August Dupré?,Not specified in the provided context,0.0
+human_scientist,William Perry,work location,Stanford,Stanford,What is the work location of William Perry?,Pentagon,0.0
+human_scientist,Leonardo da Vinci,place of death,Clos Lucé,Clos Lucé,Who is the place of death of Leonardo da Vinci?,"Closley  (Answer: Amboise, France)",0.0
+human_scientist,Wilhelm Schäperclaus,member of political party,Nazi Party,Nazi Party,What is the member of political party of Wilhelm Schäperclaus?,SPD (Social Democratic Party),0.0
+human_scientist,Alberto Granado,place of death,Havana,Havana,What is the place of death of Alberto Granado?,"Tierra del Fuego, Argentina",0.0
+human_scientist,Ben Goldacre,work location,Oxford,Oxford,What is the work location of Ben Goldacre?,UCL (University College London),0.0
+human_scientist,Óscar Ichazo,place of birth,Bolivia,Bolivia,What is the place of birth of Óscar Ichazo?,Chile,0.0
+human_scientist,Leonardo da Vinci,place of burial,Château d'Amboise,Château d'Amboise,Who is the place of burial of Leonardo da Vinci?,"Church of Santa Croce, Florence",0.0
+human_scientist,Andreas Böhm,place of birth,Darmstadt,Darmstadt,What is the place of birth of Andreas Böhm?,Austria,0.0
+human_scientist,Harrison Schmitt,place of birth,Santa Rita,Santa Rita,What is the place of birth of Harrison Schmitt?,New Mexico,0.0
+human_scientist,Karl Wien,country of citizenship,German Reich,German Reich,What is the country of citizenship of Karl Wien?,Austria,0.0
+human_scientist,Elias Chacour,sex or gender,male,male,What is the sex or gender of Elias Chacour?,Not specified in the provided information,0.0
+human_scientist,Sheldon Glashow,notable work,string theory,string theory,What is the notable work of Sheldon Glashow?,Standard Model of particle physics,0.0
+human_scientist,Hunayn ibn Ishaq,country of citizenship,Abbasid Caliphate,Abbasid Caliphate,What is the country of citizenship of Hunayn ibn Ishaq?,Persia,0.0
+human_scientist,Vitaly Ginzburg,place of burial,Novodevichy Cemetery,Novodevichy Cemetery,What is the place of burial of Vitaly Ginzburg?,Moscow,0.0
+human_scientist,Jacques Curie,employer,University of Montpellier,University of Montpellier,What is the employer of Jacques Curie?,Compagnie de Saint-Gobain,0.0
+human_scientist,Jan Baptist van Helmont,sex or gender,male,male,What is the sex or gender of Jan Baptist van Helmont?,Not specified (Jan Baptist van Helmont was a 17th-,0.0
+human_scientist,Galileo Galilei,notable work,Galilean transformation,Galilean transformation,What is the notable work of Galileo Galilei?,"""Sidereus Nuncius""",0.0
+human_scientist,Edward Waring,sex or gender,male,male,What is the sex or gender of Edward Waring?,"Not specified (Edward Waring was a mathematician, not a",0.0
+human_scientist,Maurice Bucaille,place of birth,Pont-l'Évêque,Pont-l'Évêque,What is the place of birth of Maurice Bucaille?,France,0.0
+human_scientist,Jim Simons,doctoral advisor,Bertram Kostant,Bertram Kostant,Who is the doctoral advisor of Jim Simons?,Robert Solow,0.0
+human_scientist,Robert Dilts,residence,Santa Cruz,Santa Cruz,What is the residence of Robert Dilts?,"San Diego, USA",0.0
+human_scientist,Andrea M. Ghez,doctoral advisor,Gerald Neugebauer,Gerald Neugebauer,Who is the doctoral advisor of Andrea M. Ghez?,Charles Townes,0.0
+human_scientist,Louis de Jaucourt,sex or gender,male,male,What is the sex or gender of Louis de Jaucourt?,Not specified (Louis de Jaucourt was a French Encyclopedist,0.0
+human_scientist,Paul Dirac,doctoral advisor,Ralph H. Fowwlerr,Ralph H. Fowwlerr,Who is the doctoral advisor of Paul Dirac?,Paul Ehrenfest,0.0
+human_scientist,Jacques Curie,father,Eugène Curie,Eugène Curie,Who is the father of Jacques Curie?,Pierre Curie,0.0
+human_scientist,Vladimir Shukhov,sex or gender,male,male,What is the sex or gender of Vladimir Shukhov?,Not specified in the provided information,0.0
+human_scientist,Abraham von Humbert,country of citizenship,Germany,Germany,What is the country of citizenship of Abraham von Humbert?,Austria,0.0
+human_scientist,Christiaan Snouck,doctoral advisor,Michael Jan de Goeje,Michael Jan de Goeje,Who is the doctoral advisor of Christiaan Snouck?,Herman van der Weele,0.0
+human_scientist,Annie Scott Dill Maunder,place of birth,Strabane,Strabane,What is the place of birth of Annie Scott Dill Maunder?,England,0.0
+human_scientist,Vaclav Smil,sex or gender,male,male,What is the sex or gender of Vaclav Smil?,Not specified,0.0
+human_scientist,Vitaly Ginzburg,employer,Lebedev Physical Institute,Lebedev Physical Institute,What is the employer of Vitaly Ginzburg?,Academician (Scientist),0.0
+human_scientist,Yury Pobedonostsev,place of death,Baku,Baku,What is the place of death of Yury Pobedonostsev?,Saint Petersburg,0.0
+human_scientist,Nikolai Pirogov,field of work,medicine,medicine,What is the field of work of Nikolai Pirogov?,Surgery,0.0
+human_scientist,Hugh H. Young,sex or gender,male,male,What is the sex or gender of Hugh H. Young?,"Not specified (Hugh H. Young is a historical figure, and information about",0.0
+human_scientist,Sheldon Glashow,place of birth,New York City,New York City,What is the place of birth of Sheldon Glashow?,Brooklyn,0.0
+human_scientist,Alberto Granado,field of work,biochemistry,biochemistry,What is the field of work of Alberto Granado?,Medicine,0.0
+human_scientist,Francesco Redi,sex or gender,male,male,What is the sex or gender of Francesco Redi?,Not specified (Francesco Redi was a 17th-century,0.0
+human_scientist,Clay Shirky,field of work,Internet culture,Internet culture,What is the field of work of Clay Shirky?,Information Science/Media Studies,0.0
+human_scientist,Alain Badiou,father,Raymond Badiou,Raymond Badiou,Who is the father of Alain Badiou?,Marcel Badiou,0.0
+human_scientist,Andre Geim,spouse,Irina Grigorieva,Irina Grigorieva,Who is the spouse of Andre Geim?,Barbara Geim,0.0
+human_scientist,Karl Wien,father,Wilhelm Wien,Wilhelm Wien,Who is the father of Karl Wien?,Gustav Wien,0.0
+human_scientist,John Howard Northrop,manner of death,suicide,suicide,What is the manner of death of John Howard Northrop?,Natural causes,0.0
+human_scientist,Lazare Carnot,place of burial,Panthéon,Panthéon,What is the place of burial of Lazare Carnot?,"Pantheon, Paris",0.0
+human_scientist,Telford Taylor,military branch,United States Army,United States Army,What is the military branch of Telford Taylor?,Lawyer,0.0
+human_scientist,Galileo Galilei,place of death,Arcetri,Arcetri,What is the place of death of Galileo Galilei?,"Arcis-thedii (Arco, Italy)",0.0
+human_scientist,Gregory Goodwin Pincus,residence,Northborough,Northborough,What is the residence of Gregory Goodwin Pincus?,"Home (or Massachusetts, where he lived and worked)",0.0
+human_scientist,John Paul Wild,field of work,radio astronomy,radio astronomy,What is the field of work of John Paul Wild?,Wild is a marine biologist,0.0
+human_scientist,Konstantin Tsiolkovskii,place of birth,Izhevskoe,Izhevskoe,Who is the place of birth of Konstantin Tsiolkovskii?,Russia,0.0
+human_scientist,Hamza Hakimzade Niyazi,writing language,Uzbek,Uzbek,What is the writing language of Hamza Hakimzade Niyazi?,Azerbaijani,0.0
+human_scientist,Louis de Jaucourt,place of death,Compiègne,Compiègne,What is the place of death of Louis de Jaucourt?,Strasbourg,0.0
+human_scientist,Alfred Jante,employer,TU Dresden,TU Dresden,What is the employer of Alfred Jante?,"Jante's employer is not specified in the ""Repetition"" novel",0.0
+human_scientist,Richard Smalley,manner of death,natural causes,natural causes,What is the manner of death of Richard Smalley?,Leukemia,0.0
+human_scientist,Catherine Coleman,place of birth,Charleston,Charleston,What is the place of birth of Catherine Coleman?,"Montgomery, Alabama",0.0
+human_scientist,Anatoli Blagonravov,field of work,mechanics,mechanics,What is the field of work of Anatoli Blagonravov?,Physics,0.0
+human_scientist,Martin Karplus,doctoral advisor,Linus Pauling,Linus Pauling,Who is the doctoral advisor of Martin Karplus?,John Pople,0.0
+human_scientist,Isaac Beeckman,doctoral advisor,Rudolph Snellius,Rudolph Snellius,Who is the doctoral advisor of Isaac Beeckman?,Tycho Brahe,0.0
+human_scientist,Buckminster Fuller,movement,high-tech architecture,high-tech architecture,What is the movement of Buckminster Fuller?,Dymaxion,0.0
+human_scientist,Benedikt Buchner,sex or gender,male,male,What is the sex or gender of Benedikt Buchner?,"Not specified (Benedikt Buchner is a person, not a character with",0.0
+human_scientist,Semyon Lavochkin,employer,NPO Lavochkin,NPO Lavochkin,What is the employer of Semyon Lavochkin?,Lavochkin (1895-1960) was a,0.0
+human_scientist,Vitaly Ginzburg,doctoral advisor,Igor Tamm,Igor Tamm,Who is the doctoral advisor of Vitaly Ginzburg?,Landau,0.0
+human_scientist,Julius Axelrod,place of burial,Judean Memorial Gardens,Judean Memorial Gardens,What is the place of burial of Julius Axelrod?,Mount Hebron Cemetery,0.0
+human_scientist,Galileo Galilei,father,Yeico Cáceres,Yeico Cáceres,Who is the father of Galileo Galilei?,Vincenzo Galilei,0.0

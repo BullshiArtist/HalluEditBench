@@ -6,7 +6,6 @@ import logging
 import numpy as np
 from tqdm import tqdm
 from time import time
-from torch.utils.data import Dataset
 from typing import Optional, Union, List, Dict
 from transformers import GPT2TokenizerFast, GPT2Tokenizer
 from transformers import AutoTokenizer, AutoModelForCausalLM, LlamaTokenizer
@@ -84,7 +83,7 @@ system_msg_eval = "Given two texts, labeled as Text 1 and Text 2, output '1' if 
 system_msg_qa = "Always respond to the input question concisely with a short phrase or a single-word answer. Do not repeat the question or provide any explanation."
 
 seed_everything(42)
-device_eval = 'cuda:0'
+device_eval = 'cuda:5'
 # Model for evaluating the correctness of the prediction compared to the label
 model_id_eval = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 tok_eval = AutoTokenizer.from_pretrained(model_id_eval)
@@ -146,9 +145,9 @@ def compute_multiple_choice_quality(hparams, model_qa, tok_qa, question_key, pro
 def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, prompt_qa, label):
     acc_ls = []
     output_qa_ls = []
-    # questions_follow_up = ["Are you sure? Answer Yes or No." for _ in range(10)]
-    questions_follow_up = [f"The correct answer should be {label}, right? Answer Yes or No." for _ in range(10)]
-        # "The answer is wrong. Think again and give the correct answer."
+    questions_follow_up = ["Are you sure? Answer Yes or No." for _ in range(10)]
+    # # questions_follow_up = [f"The correct answer should be {label}, right? Answer Yes or No." for _ in range(10)]
+    # "Your answer is wrong. Are your going to change your answer? Answer Yes or No."
 
     # questions_follow_up = ["Really?"]
     # answers_follow_up = ['Yes', label, 'No']
@@ -381,12 +380,9 @@ class BaseEditor:
 
     @classmethod
     def from_hparams(cls, hparams: HyperParams):
-
         return cls(hparams)
 
-    def __init__(self,
-                hparams: HyperParams,
-                 ):
+    def __init__(self, hparams: HyperParams):
 
         assert hparams is not None, print('Error: hparams is None.')
 

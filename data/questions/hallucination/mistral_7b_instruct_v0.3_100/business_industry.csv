@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+business_industry,tobacco industry,uses,nicotine marketing,nicotine marketing,What does tobacco industry use?,"Plants (specifically, Nicotiana tabacum or Nicotiana",0.0
+business_industry,hospitality industry,said to be the same as,horeca,horeca,What did hospitality industry say to be the same as?,Service,0.0
+business_industry,passenger transport,object class of occurrence,passenger,passenger,What is the object class of occurrence of passenger transport?,Vehicle,0.0
+business_industry,water transport,practiced by,sailor,sailor,What was water transport practiced by?,"Rivers, Canals, Ships",0.0
+business_industry,brewing,practiced by,brewer,brewer,What was brewing practiced by?,Brewing was practiced by humans,0.0
+business_industry,plumbing,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of plumbing?,Pipework (or plumbing system),0.0
+business_industry,health care industry,said to be the same as,human health activities,human health activities,What did health care industry say to be the same as?,"""Business""",0.0
+business_industry,floristry,practiced by,florist,florist,What was floristry practiced by?,People,0.0
+business_industry,Colgate-Palmolive Company,industry,personal care product,personal care product,What is the industry of Colgate-Palmolive Company?,Consumer Goods,0.0
+business_industry,publishing,said to be the same as,publishing industry,publishing industry,What did publishing say to be the same as?,Content,0.0
+business_industry,industrial engineering,practiced by,industrial engineer,industrial engineer,What was industrial engineering practiced by?,Individuals,0.0
+business_industry,fur trade,object class of occurrence,fur,fur,What is the object class of occurrence of fur trade?,"Animal, Artifact",0.0
+business_industry,furniture construction,practiced by,furniture maker,furniture maker,What was furniture construction practiced by?,Craftsmen,0.0
+business_industry,rail transport,uses,railway,railway,What does rail transport use?,Tracks,0.0
+business_industry,chemical industry,has part(s),company,company,What does chemical industry have part(s )?,"Plants, equipment, raw materials, chemicals, and labor",0.0
+business_industry,dairy industry,field of work,dairying,dairying,What is the field of work of dairy industry?,Agriculture,0.0
+business_industry,animal breeding,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of animal breeding?,Natural selection,0.0
+business_industry,food processing,made from material,raw food,raw food,What is the made from material of food processing?,"Stainless steel, glass, plastic, and metal",0.0
+business_industry,technology,described by source,The Verge,The Verge,What is the described by source of technology?,Sourced from human ingenuity,0.0
+business_industry,plant breeding,practiced by,plant breeder,plant breeder,What was plant breeding practiced by?,Farmers,0.0
+business_industry,home industry,uses,putting-out system,putting-out system,What does home industry use?,"Various materials, tools, and technologies",0.0
+business_industry,architecture,studied in,architectural theory,architectural theory,What was architecture studied in?,School or university,0.0
+business_industry,agricultural technology,practiced by,agricultural engineer,agricultural engineer,What was agricultural technology practiced by?,Farmers,0.0
+business_industry,architecture,uses,architectural engineering,architectural engineering,What does architecture use?,"Materials, design principles, and technology",0.0
+business_industry,plumbing,location of discovery,Crete,Crete,What is the location of discovery of plumbing?,Mesopotamia,0.0
+business_industry,brewing,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of brewing?,Malted barley,0.0
+business_industry,coining,uses,die,die,What does coining use?,Metal,0.0
+business_industry,publishing,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of publishing?,Publisher,0.0
+business_industry,architecture,has characteristic,architectural style,architectural style,What does architecture have characteristic?,"Design, Functionality, Aesthetics, Materials, Structure,",0.0
+business_industry,human resource management,field of work,performance management,performance management,What is the field of work of human resource management?,Human Resource Management,0.0
+business_industry,upholstery,uses,antimacassar,antimacassar,What does upholstery use?,Fabric,0.0
+business_industry,electronics,practiced by,electrical engineer,electrical engineer,What was electronics practiced by?,Engineers,0.0
+business_industry,spice trade,object class of occurrence,spice,spice,What is the object class of occurrence of spice trade?,Territorial,0.0
+business_industry,brewing,industry,stimulant foodstuff,stimulant foodstuff,What is the industry of brewing?,Food & Beverage,0.0
+business_industry,screen printing,has part(s),sensitization,sensitization,What does screen printing have part(s )?,"Screen, stencil, squeegee, ink, emulsion, photo",0.0
+business_industry,technology,is the study of,technique,technique,What does technology be the study of?,Science and engineering,0.0
+business_industry,architectural engineering,practiced by,architectural engineer,architectural engineer,What was architectural engineering practiced by?,Individuals (or firms),0.0
+business_industry,human resource management,practiced by,human resource manager,human resource manager,What was human resource management practiced by?,Organizations,0.0
+business_industry,coal industry,described by source,The SAGE Encyclopedia of Cancer and Society,The SAGE Encyclopedia of Cancer and Society,What is the described by source of coal industry?,Fossil fuel,0.0
+business_industry,tobacco industry,significant event,settlement,settlement,What is the significant event of tobacco industry?,"Regulation (e.g., tobacco control acts, smoking bans)",0.0
+business_industry,life sciences,said to be the same as,biology,biology,What did life sciences say to be the same as?,Genes and DNA are similar,0.0
+business_industry,cartography,history of topic,history of cartography,history of cartography,What is the history of topic of cartography?,Ancient,0.0
+business_industry,artificial intelligence,has characteristic,artificiality,artificiality,What does artificial intelligence have characteristic?,"Intelligence, learning, adaptability, problem-solving, data processing",0.0
+business_industry,furniture industry,has part(s),furniture construction,furniture construction,What does furniture industry have part(s )?,"Materials, Designs, Manufacturing Equipment, Labor, Distribution Networks",0.0
+business_industry,ferrous metallurgy,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of ferrous metallurgy?,Iron ore,0.0
+business_industry,winemaking,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of winemaking?,Grape,0.0
+business_industry,health care,has characteristic,health care quality,health care quality,What does health care have characteristic?,"Services, care, and insurance",0.0
+business_industry,plumbing,country of origin,Egypt,Egypt,What is the country of origin of plumbing?,Mesopotamia,0.0
+business_industry,plumbing,practiced by,plumber,plumber,What was plumbing practiced by?,Romans,0.0
+business_industry,health care industry,field of work,health care,health care,What is the field of work of health care industry?,Healthcare,0.0
+business_industry,musical instrument making,has part(s),lutherie,lutherie,What does musical instrument making have part(s )?,"Woodworking, metalworking, design, craftsmanship, tuning,",0.0
+business_industry,metallurgy,said to be the same as,metal industry,metal industry,What did metallurgy say to be the same as?,Elements,0.0
+business_industry,mechanical engineering,practiced by,mechanical engineer,mechanical engineer,What was mechanical engineering practiced by?,Individuals (or Engineers),0.0
+business_industry,book industry,said to be the same as,book publishing,book publishing,What did book industry say to be the same as?,Digital revolution,0.0
+business_industry,fishing,practiced by,fisher,fisher,What was fishing practiced by?,Humans,0.0
+business_industry,biotechnology industry,has part(s),biotechnologist,biotechnologist,What does biotechnology industry have part(s )?,"Laboratories, Researchers, Genetic Engineers, Bioinformatic",0.0
+business_industry,plant breeding,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of plant breeding?,Natural or artificial selection,0.0
+business_industry,waste management,said to be the same as,"waste collection, treatment and disposal activities; materials recovery","waste collection, treatment and disposal activities; materials recovery",What did waste management say to be the same as?,Recycling,0.0
+business_industry,social media,uses,Internet,Internet,What does social media use?,"People use social media for communication, sharing, networking, and entertainment",0.0
+business_industry,road construction,uses,roadworks,roadworks,What does road construction use?,"Equipment, materials, and labor",0.0
+business_industry,landscape architecture,practiced by,landscape architect,landscape architect,What was landscape architecture practiced by?,Individuals (or firms),0.0
+business_industry,web development,practiced by,web developer,web developer,What was web development practiced by?,"Individuals, Companies, or Organizations",0.0
+business_industry,recycling,practiced by,Rag-picker,Rag-picker,What was recycling practiced by?,Humans,0.0
+business_industry,artificial intelligence,model item,machine learning,machine learning,What is the model item of artificial intelligence?,Artifact (or system),0.0
+business_industry,screen printing,time period,Song dynasty,Song dynasty,What is the time period of screen printing?,Instantaneous (exposure) & Variable (drying time),0.0
+business_industry,Colgate-Palmolive Company,headquarters location,New York City,New York City,What is the headquarters location of Colgate-Palmolive Company?,"New York, USA",0.0
+business_industry,public utility,studied in,economics,economics,What was public utility studied in?,Engineering,0.0
+business_industry,biomedical engineering,practiced by,biomedical engineer,biomedical engineer,What was biomedical engineering practiced by?,Practiced by humans,0.0
+business_industry,organic agriculture,uses,organic fertilizer,organic fertilizer,What does organic agriculture use?,Organic agriculture uses natural methods,0.0
+business_industry,upholstery,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of upholstery?,Fabric,0.0
+business_industry,geodesy,practiced by,geodesist,geodesist,What was geodesy practiced by?,Surveyors,0.0
+business_industry,software industry,has characteristic,software development,software development,What does software industry have characteristic?,"Innovation, Technology, Dynamic, Global, Competitive",0.0
+business_industry,academic publishing,has part(s),academic journal,academic journal,What does academic publishing have part(s )?,"Author(s), Editor(s), Reviewer(s), Publisher,",0.0
+business_industry,television,history of topic,history of television,history of television,What is the history of topic of television?,Invention,0.0
+business_industry,financial audit,practiced by,statutory auditor,statutory auditor,What was financial audit practiced by?,Accountants,0.0
+business_industry,insurance,practiced by,insurance broker,insurance broker,What was insurance practiced by?,Underwriting,0.0
+business_industry,waste management,practiced by,garbage collector,garbage collector,What was waste management practiced by?,Ancient civilizations,0.0
+business_industry,foundry,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of foundry?,Molder,0.0
+business_industry,leather crafting,practiced by,leatherworker,leatherworker,What was leather crafting practiced by?,Artisans,0.0
+business_industry,logistics,practiced by,logistician,logistician,What was logistics practiced by?,Ancient civilizations,0.0
+business_industry,furniture industry,practiced by,furniture maker,furniture maker,What was furniture industry practiced by?,Craftsmanship,0.0
+business_industry,pest control,has part(s),bird control,bird control,What does pest control have part(s )?,"Equipment, chemicals, protective gear",0.0
+business_industry,extraction of petroleum,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of extraction of petroleum?,Driller,0.0
+business_industry,telephony,described by source,Enciclopedia universal ilustrada europeo-americana (1908-1930),Enciclopedia universal ilustrada europeo-americana (1908-1930),What is the described by source of telephony?,Circuit-switched,0.0
+business_industry,retail,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of retail?,Market,0.0
+business_industry,research,said to be the same as,study,study,What did research say to be the same as?,Identical,0.0
+business_industry,sustainability,has part(s),renewable energy,renewable energy,What does sustainability have part(s )?,"Three parts: Environment, Society, Economy (often referred to as the",0.0
+business_industry,drugstore,operator,druggist,druggist,What is the operator of drugstore?,Retailer,0.0
+business_industry,stationery,has part(s),writing surface,writing surface,What does stationery have part(s )?,"Pens, paper, envelopes, etc",0.0
+business_industry,animal breeding,practiced by,animal breeder,animal breeder,What was animal breeding practiced by?,Humans,0.0
+business_industry,logistics,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of logistics?,The source of logistics is typically a system or a process,0.0
+business_industry,technology,practiced by,technologist,technologist,What was technology practiced by?,Invented,0.0
+business_industry,metallurgy,practiced by,metallurgist,metallurgist,What was metallurgy practiced by?,Humans,0.0
+business_industry,money creation,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of money creation?,Central Bank,0.0
+business_industry,electronics,has part(s),electronic circuit,electronic circuit,What does electronics have part(s )?,"Resistor, Capacitor, Inductor, Diode, Trans",0.0
+business_industry,research,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of research?,Primary,0.0
+business_industry,research,practiced by,researcher,researcher,What was research practiced by?,Research was practiced by scientists,0.0
+business_industry,voice acting,practiced by,voice actor,voice actor,What was voice acting practiced by?,Actors,0.0
+business_industry,lithography,practiced by,lithographer,lithographer,What was lithography practiced by?,Printers,0.0
+business_industry,hospitality industry,practiced by,bellhop,bellhop,What was hospitality industry practiced by?,Humans,0.0

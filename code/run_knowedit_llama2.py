@@ -26,14 +26,14 @@ if __name__ == "__main__":
     parser.add_argument('--hparams_dir', required=True, type=str)
     parser.add_argument('--data_dir', required=True, type=str)
     parser.add_argument('--ds_size', default=None, type=int)
-    parser.add_argument('--metrics_save_dir', default='../results/know_edit', type=str)
+    parser.add_argument('--metrics_save_dir', default='../results/know_edit/old_eval', type=str)
     parser.add_argument('--datatype', default=None,type=str)
     parser.add_argument('--train_data_path', type=str)
     parser.add_argument('--pre_file', default='./seq_pre.json', type=str)
 
     args = parser.parse_args()
 
-    if args.editing_method == 'FT':
+    if args.editing_method in ['FT', 'FT-L']:
         editing_hparams = FTHyperParams
     elif args.editing_method == 'IKE':
         editing_hparams = IKEHyperParams
@@ -194,7 +194,7 @@ if __name__ == "__main__":
         }
     
     hparams = editing_hparams.from_hparams(args.hparams_dir)
-    args.pre_file = f"../results/know_edit/pre_edit/{hparams.model_name.split('/')[-1]}_{args.datatype}_pre_edit.json"
+    args.pre_file = f"../results/know_edit/old_eval/pre_edit/{hparams.model_name.split('/')[-1]}_{args.datatype}_pre_edit.json"
     print(args.pre_file)
     if args.pre_file is not None and os.path.exists(args.pre_file):
         pre_edit = json.load(open(args.pre_file,'r'))

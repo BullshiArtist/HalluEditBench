@@ -1,0 +1,35 @@
+topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
+health_medication,antibiotic,has characteristic,antibiotic resistance,What does antibiotic have characteristic?,Effective against bacteria,0.0
+health_medication,ginseng,described by source,Encyclopædia Britannica 11th edition,What is the described by source of ginseng?,Root,0.0
+health_medication,botulinum toxin type A,subject has role,acetylcholine release inhibitors,What is the subject has role of botulinum toxin type A?,"Cosmetic treatment, Muscle relaxation, or Botox treatment",0.0
+health_medication,corticotropin,encoded by,POMC,What was corticotropin encoded by?,ACTH (Adrenocorticotropic hormone) gene,0.0
+health_medication,immunoglobulin G,subject has role,immunologic factor,What is the subject has role of immunoglobulin G?,Antibody,0.0
+health_medication,industrial bromelain,has part(s),stem bromelain,What does industrial bromelain have part(s )?,Enzymes,0.0
+health_medication,Serpin family A member 1,molecular function,protein binding,What is the molecular function of Serpin family A member 1?,Inhibits serine proteases,0.0
+health_medication,Serpin family A member 1,subject has role,Trypsin inhibitor,What is the subject has role of Serpin family A member 1?,Protein,0.0
+health_medication,botulinum toxin Type B,subject has role,acetylcholine release inhibitors,What is the subject has role of botulinum toxin Type B?,Neuromuscular blocking,0.0
+health_medication,tranylcypromine,significant drug interaction,procarbazine,What is the significant drug interaction of tranylcypromine?,MAOI inhibition,0.0
+health_medication,laureth,described by source,English Wiktionary,What is the described by source of laureth?,Synthetic,0.0
+health_medication,insulin,subject has role,anti-diabetic medication,What is the subject has role of insulin?,Glucose,0.0
+health_medication,insulin,has part(s),insulin B chain,What does insulin have part(s )?,"Molecule, Amino acids, Peptide bonds, H",0.0
+health_medication,dalteparin,manufacturer,Pfizer,What is the manufacturer of dalteparin?,Sanofi,0.0
+health_medication,fish oil,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of fish oil?,Fish,0.0
+health_medication,cajeput oil,described by source,Encyclopædia Britannica 11th edition,What is the described by source of cajeput oil?,Melaleuca,0.0
+health_medication,onasemnogene abeparvovec,manufacturer,Novartis,What is the manufacturer of onasemnogene abeparvovec?,BioMarin Pharmaceutical,0.0
+health_medication,candicidin,produced by,Streptomyces griseus,What was candicidin produced by?,Merck,0.0
+health_medication,phosphatidyl serine,has part(s),carbon,What does phosphatidyl serine have part(s )?,"Phosphatidyl serine has a phosphate group, a fat",0.0
+health_medication,xenon-133,subject has role,radiopharmaceutical,What is the subject has role of xenon-133?,"Xenon-133 is a radioisotope, so its",0.0
+health_medication,chlorine,discoverer or inventor,Carl Wilhelm Scheele,Who is the discoverer or inventor of chlorine?,Carl Scheele,0.0
+health_medication,calcium,discoverer or inventor,Humphry Davy,Who is the discoverer or inventor of calcium?,"Antoine Lavoisier, not a discoverer but a namer",0.0
+health_medication,calcium,named after,lime,What was calcium named after?,Chalk,0.0
+health_medication,calcium,subject has role,essential medicine,What is the subject has role of calcium?,Bone,0.0
+health_medication,chlorine,named after,green,What was chlorine named after?,"Chlorine, element 17, was named after the Greek word '",0.0
+health_medication,Hepatitis B vaccine,discoverer or inventor,Baruch Samuel Blumberg,Who is the discoverer or inventor of Hepatitis B vaccine?,Baruch S. Blumberg,0.0
+health_medication,digestive enzyme,subject has role,digestion,What is the subject has role of digestive enzyme?,Pancreas,0.0
+health_medication,hand sanitizer,has part(s),ethanol,What does hand sanitizer have part(s )?,"Alcohol, water, and glycerol (often)",0.0
+health_medication,polio vaccine,location of creation,University of Pittsburgh,What is the location of creation of polio vaccine?,"Jonas Salk Institute, USA",0.0
+health_medication,oxygen therapy,uses,dioxygen,What does oxygen therapy use?,Respiratory equipment,0.0
+health_medication,varicella vaccine,developer,Michiaki Takahashi,Who is the developer of varicella vaccine?,Merck,0.0
+health_medication,caffeine citrate,subject has role,stimulant,What is the subject has role of caffeine citrate?,Treatment (for seizures),0.0
+health_medication,hepatitis A vaccine,brand,Twinrix,What is the brand of hepatitis A vaccine?,"""Havrix"" or ""Vaqta"" (depending on",0.0
+health_medication,copper IUD,subject has role,essential medicine,What is the subject has role of copper IUD?,Copper,0.0

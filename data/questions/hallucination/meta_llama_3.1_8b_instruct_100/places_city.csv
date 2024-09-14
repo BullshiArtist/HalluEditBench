@@ -1,101 +1,101 @@
 topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
-places_city,Nowe Miasto nad Pilicą,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Nowe Miasto nad Pilicą?,Jan Długosz,0.0
-places_city,Qaanaaq,located in the administrative territorial entity,Avannaata,What is the located in the administrative territorial entity of Qaanaaq?,Qaanaaq Municipality,0.0
-places_city,Ararat,associated electoral district,Ripon,What is the associated electoral district of Ararat?,Henty,0.0
-places_city,Hong Kong,history of topic,history of Hong Kong,What is the history of topic of Hong Kong?,Ancient Chinese port,0.0
-places_city,Brekstad,official language,Bokmål,What is the official language of Brekstad?,Norwegian,0.0
-places_city,Joensuu,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Joensuu?,Akseli Gallen-Kallela,0.0
-places_city,Or Yehuda,located in the administrative territorial entity,Tel Aviv District,What is the located in the administrative territorial entity of Or Yehuda?,Israel,0.0
-places_city,Varanasi,located in the administrative territorial entity,Varanasi district,What is the located in the administrative territorial entity of Varanasi?,Uttar Pradesh,0.0
-places_city,Hereford,twinned administrative body,Dillenburg,What is the twinned administrative body of Hereford?,"Hereford is twinned with:   - Hereford, USA  - Here",0.0
-places_city,Nacaome,located in the administrative territorial entity,Valle Department,What is the located in the administrative territorial entity of Nacaome?,La Paz Zonte,0.0
-places_city,Tskhinvali,named after,Carpinus,What was Tskhinvali named after?,Tskhinvali was named after the Tskhinvali River,0.0
-places_city,Wrexham County Borough,located in/on physical feature,Great Britain,What is the located in/on physical feature of Wrexham County Borough?,River Dee,0.0
-places_city,Hořice,located in the administrative territorial entity,Jičín District,What is the located in the administrative territorial entity of Hořice?,Hořice District,0.0
-places_city,Banana,located in the administrative territorial entity,Kongo Central,What is the located in the administrative territorial entity of Banana?,Banana Republic,0.0
-places_city,Batna,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Batna?,Roger Fisher,0.0
-places_city,Luang Prabang,twinned administrative body,Chengdu,What is the twinned administrative body of Luang Prabang?,Luang Prabang Municipality,0.0
-places_city,Zakroczym,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Zakroczym?,Jan Zamoyski,0.0
-places_city,Cox's Bazar,located in the administrative territorial entity,Cox's Bazar Sadar Upazila,What is the located in the administrative territorial entity of Cox's Bazar?,Cox's Bazar District,0.0
-places_city,Ravenna,located in/on physical feature,Romagna,What is the located in/on physical feature of Ravenna?,Mosaics,0.0
-places_city,Roermond,located in or next to body of water,Rur,What is the located in or next to body of water of Roermond?,Meuse,0.0
-places_city,Westport,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Westport?,River Bandon,0.0
-places_city,St Asaph,country,United Kingdom,What is the country of St Asaph?,Wales,0.0
-places_city,Skoczów,located in or next to body of water,Vistula,What is the located in or next to body of water of Skoczów?,Oder River,0.0
-places_city,Dover,located in the administrative territorial entity,Morris County,What is the located in the administrative territorial entity of Dover?,Dover Castle,0.0
-places_city,Santa Cruz de La Palma,twinned administrative body,Buenos Aires,What is the twinned administrative body of Santa Cruz de La Palma?,Los Llanos de Aridane,0.0
-places_city,San Lorenzo,office held by head of government,mayor,What is the office held by head of government of San Lorenzo?,President,0.0
-places_city,Grabow,located in the administrative territorial entity,Ludwigslust-Parchim District,What is the located in the administrative territorial entity of Grabow?,Grabow (Uckermark),0.0
-places_city,Darwin,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Darwin?,Finches,0.0
-places_city,Aitape,located in the administrative territorial entity,Sandaun Province,What is the located in the administrative territorial entity of Aitape?,Aitape-Lumi District,0.0
-places_city,Grójec,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Grójec?,Jan Zamoyski,0.0
-places_city,Leova,twinned administrative body,Vetrișoaia,What is the twinned administrative body of Leova?,Fălești,0.0
-places_city,Bardia,country,Libya,What is the country of Bardia?,Nepal,0.0
-places_city,Ramnagar,located in the administrative territorial entity,Varanasi district,What is the located in the administrative territorial entity of Ramnagar?,Katihar district,0.0
-places_city,Guliston,country,Uzbekistan,What is the country of Guliston?,Tajikistan,0.0
-places_city,Newport,located in time zone,Greenwich Mean Time,What is the located in time zone of Newport?,Eastern Time Zone,0.0
-places_city,Lokoja,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Lokoja?,Benue,0.0
-places_city,el-Kharga Town,located in the administrative territorial entity,New Valley Governorate,What is the located in the administrative territorial entity of el-Kharga Town?,El-Kharga Governorate,0.0
-places_city,Napier,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Napier?,Logarithms,0.0
-places_city,Escuintla,patron saint,Immaculate Conception of Mary,What is the patron saint of Escuintla?,San José,0.0
-places_city,Tarnobrzeg,located in the administrative territorial entity,Subcarpathian Voivodeship,What is the located in the administrative territorial entity of Tarnobrzeg?,Tarnobrzeg County,0.0
-places_city,Hayes,country,Jamaica,What is the country of Hayes?,England,0.0
-places_city,Lastoursville,named after,François Rigail de Lastours,Who was Lastoursville named after?,Jean-Baptiste Lastours,0.0
-places_city,Cupertino,located in the administrative territorial entity,Santa Clara County,What is the located in the administrative territorial entity of Cupertino?,Apple Headquarters,0.0
-places_city,Rishton,official language,Uzbek,What is the official language of Rishton?,I'm not aware of any information about Rishton having an official language,0.0
-places_city,Cardiff,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Cardiff?,Roman,0.0
-places_city,Pełczyce,located in the administrative territorial entity,Gmina Pełczyce,Who is the located in the administrative territorial entity of Pełczyce?,Pełczyce Górne,0.0
-places_city,Winchester,located in the administrative territorial entity,City of Winchester,What is the located in the administrative territorial entity of Winchester?,Hampshire,0.0
-places_city,Lublin,head of government,Krzysztof Żuk,Who is the head of government of Lublin?,Mayor,0.0
-places_city,Bratislava,connects with,European route E65,What does Bratislava connect with?,Vienna and Budapest,0.0
-places_city,Tudela,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Tudela?,Alfonso I of Aragon,0.0
-places_city,Buta,located in the administrative territorial entity,Bas-Uele,Who is the located in the administrative territorial entity of Buta?,Ituri Province,0.0
-places_city,Gümüşhane,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Gümüşhane?,Turkey,0.0
-places_city,Newry,twinned administrative body,Kirovsk,What is the twinned administrative body of Newry?,Newry and Mourne District Council,0.0
-places_city,Urbano Noris,located in the administrative territorial entity,Holguín Province,What is the located in the administrative territorial entity of Urbano Noris?,"Urbano Noris, Venezuela",0.0
-places_city,Bisztynek,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Bisztynek?,Polish historian,0.0
-places_city,Guantánamo,located in the administrative territorial entity,Guantánamo Province,What is the located in the administrative territorial entity of Guantánamo?,Guantánamo Bay,0.0
-places_city,Chalkida,follows,Chalcis,What does Chalkida follow?,Euripus Strait,0.0
-places_city,Naples,head of government,Gaetano Manfredi,Who is the head of government of Naples?,The Mayor,0.0
-places_city,Maradi,head of government,Mamane Oumarou,Who is the head of government of Maradi?,Governor,0.0
-places_city,El-Obeid,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of El-Obeid?,Abd al-Rahman al-Sadiq,0.0
-places_city,Voorburg,located in the administrative territorial entity,Leidschendam-Voorburg,What is the located in the administrative territorial entity of Voorburg?,South Holland,0.0
-places_city,Otavalo,founded by,Sebastián de Belalcázar,Who was Otavalo founded by?,Indigenous people,0.0
-places_city,Podor,twinned administrative body,Trappes,What is the twinned administrative body of Podor?,Louga,0.0
-places_city,Rwamagana,located in the administrative territorial entity,Eastern Province,What is the located in the administrative territorial entity of Rwamagana?,Rwamagana District,0.0
-places_city,Antilla,located in the administrative territorial entity,Holguín Province,What is the located in the administrative territorial entity of Antilla?,Holguin,0.0
-places_city,Brześć Kujawski,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Brześć Kujawski?,Poland,0.0
-places_city,Dungarpur,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Dungarpur?,Rajputana,0.0
-places_city,Singapore,present in work,Civilization V,What is the present in work of Singapore?,HDB,0.0
-places_city,Nelson,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Nelson?,Horatio Nelson,0.0
+places_city,City of Westminster,head of government,Nickie Aiken,Who is the head of government of City of Westminster?,The Mayor of London,0.0
 places_city,Banpo,located in the administrative territorial entity,Xi'an,What is the located in the administrative territorial entity of Banpo?,Banpo District,0.0
-places_city,Mango,country,Togo,What is the country of Mango?,Philippines,0.0
-places_city,Tainan,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Tainan?,King Wang of Zhou,0.0
-places_city,Balrampur,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Balrampur?,Gomti River,0.0
-places_city,Trikala,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Trikala?,Greek mythology,0.0
-places_city,Aasiaat,located in the administrative territorial entity,Qeqertalik,What is the located in the administrative territorial entity of Aasiaat?,Qasigiannguit,0.0
-places_city,Wolbórz,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Wolbórz?,Gniezno Book,0.0
-places_city,Bydgoszcz,head of government,Rafał Bruski,Who is the head of government of Bydgoszcz?,Mayor,0.0
-places_city,Abu Dhabi,has characteristic,capital city,What does Abu Dhabi have characteristic?,Luxury,0.0
-places_city,Asyut,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Asyut?,Egyptian,0.0
-places_city,Douglas,twinned administrative body,Ballymoney,What is the twinned administrative body of Douglas?,"Douglas, Isle of Man",0.0
-places_city,Sharuna,country,Egypt,What is the country of Sharuna?,Unrecognized,0.0
-places_city,Seleucia Pieria,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Seleucia Pieria?,Strabo,0.0
-places_city,Torzym,located in the administrative territorial entity,Gmina Torzym,Who is the located in the administrative territorial entity of Torzym?,Gorzów County,0.0
-places_city,Marijampolė,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Marijampolė?,Lithuania,0.0
-places_city,Bilaspur,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Bilaspur?,Renuka Lake,0.0
-places_city,Dholpur,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Dholpur?,Chambal River,0.0
-places_city,San Pedro Sula,located in the administrative territorial entity,Cortés Department,What is the located in the administrative territorial entity of San Pedro Sula?,Honduras,0.0
-places_city,Coatzacoalcos,twinned administrative body,Villahermosa,What is the twinned administrative body of Coatzacoalcos?,Coatzacoalcos is twinned with  Coatzacoalcos is,0.0
-places_city,Garfield,located in the administrative territorial entity,Whitman County,What is the located in the administrative territorial entity of Garfield?,Garfield County,0.0
-places_city,Aswan,Köppen climate classification,desert climate,What is the Köppen climate classification of Aswan?,BWh,0.0
-places_city,Amecameca de Juárez,located in the administrative territorial entity,Amecameca Municipality,What is the located in the administrative territorial entity of Amecameca de Juárez?,State of Mexico,0.0
-places_city,Gandia,patron saint,"Francis Borgia, 4th Duke of Gandía",Who is the patron saint of Gandia?,Saint Vincent Ferrer,0.0
-places_city,Port Maria La luz,country,Jamaica,What is the country of Port Maria La luz?,Dominican Republic,0.0
-places_city,Lodève,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Lodève?,Languedoc,0.0
-places_city,Puerto Baquerizo Moreno,founded by,José de Villamil,Who was Puerto Baquerizo Moreno founded by?,Juan José Flores,0.0
+places_city,Shkodër,replaces,Scodra,What does Shkodër replace?,Scanderbeg,0.0
+places_city,el-Kharga Town,located in the administrative territorial entity,New Valley Governorate,What is the located in the administrative territorial entity of el-Kharga Town?,El-Kharga Governorate,0.0
+places_city,Huarmey,located in the administrative territorial entity,Ancash Department,What is the located in the administrative territorial entity of Huarmey?,Huarmey Valley,0.0
+places_city,Bormla,patron saint,Immaculate Conception of Mary,What is the patron saint of Bormla?,St. Nicholas,0.0
+places_city,Elche,patron saint,Assumption of Mary,Who is the patron saint of Elche?,Santa Maria Magdalena,0.0
+places_city,Arad,country,Israel,What is the country of Arad?,Romania,0.0
+places_city,Paraná,located in the administrative territorial entity,Paraná Department,What is the located in the administrative territorial entity of Paraná?,Curitiba,0.0
+places_city,Sandia,country,Peru,What is the country of Sandia?,Chile,0.0
+places_city,Serres,located in the administrative territorial entity,Serres Municipality,What is the located in the administrative territorial entity of Serres?,Serres Prefecture,0.0
+places_city,Zanzibar City,located in the administrative territorial entity,Mjini Magharibi Region,What is the located in the administrative territorial entity of Zanzibar City?,Zanzibar,0.0
+places_city,Livorno,located in or next to body of water,Ligurian Sea,What is the located in or next to body of water of Livorno?,Tyrrhenian Sea,0.0
+places_city,Mahd adh Dhahab,country,Saudi Arabia,What is the country of Mahd adh Dhahab?,Yemen,0.0
+places_city,Çorlu,Köppen climate classification,Mediterranean climate,What is the Köppen climate classification of Çorlu?,Cfa,0.0
+places_city,Patterson,located in the administrative territorial entity,St. Mary Parish,What is the located in the administrative territorial entity of Patterson?,Stanislaus County,0.0
+places_city,Portsmouth,patron saint,Thomas Becket,Who is the patron saint of Portsmouth?,St. Wilfrid,0.0
+places_city,Cholet,head of government,Gilles Bourdouleix,Who is the head of government of Cholet?,Mayor,0.0
+places_city,Massenya,country,Chad,What is the country of Massenya?,Unrecognized,0.0
+places_city,Bokhtar,located in the administrative territorial entity,Khatlon Province,What is the located in the administrative territorial entity of Bokhtar?,Khorugh,0.0
+places_city,Havelse,located in the administrative territorial entity,Garbsen,Who is the located in the administrative territorial entity of Havelse?,Hannover,0.0
+places_city,Sadat City,located in the administrative territorial entity,Monufia Governorate,What is the located in the administrative territorial entity of Sadat City?,Qalyubia Governorate,0.0
+places_city,Cumilla,located in the administrative territorial entity,Cumilla District,What is the located in the administrative territorial entity of Cumilla?,Brahmanbaria,0.0
+places_city,Sangmélima,located in the administrative territorial entity,Dja-et-Lobo,What is the located in the administrative territorial entity of Sangmélima?,South Region,0.0
+places_city,Masaya,located in the administrative territorial entity,Masaya Department,What is the located in the administrative territorial entity of Masaya?,Masaya Volcano,0.0
+places_city,Wodonga,associated electoral district,Benambra,What is the associated electoral district of Wodonga?,Murray Valley,0.0
+places_city,Buchanan,located in the administrative territorial entity,Grand Bassa County,What is the located in the administrative territorial entity of Buchanan?,Buchanan County,0.0
+places_city,Sur,country,Oman,What is the country of Sur?,Sri Lanka,0.0
+places_city,Christchurch,named after,Christ Church,What was Christchurch named after?,"Christchurch, New Zealand, was named after Christchurch, England",0.0
+places_city,Jorf,country,Morocco,What is the country of Jorf?,Unknown,0.0
+places_city,Sandnessjøen,located in the administrative territorial entity,Alstahaug Municipality,What is the located in the administrative territorial entity of Sandnessjøen?,Altafjord,0.0
+places_city,Middletown,located in or next to body of water,Connecticut River,What is the located in or next to body of water of Middletown?,Creek,0.0
+places_city,Bata,located in the administrative territorial entity,Litoral,What is the located in the administrative territorial entity of Bata?,Equatorial Guinea,0.0
+places_city,Almere,head of government,Franc Weerwind,Who is the head of government of Almere?,Boris van Breugel,0.0
+places_city,Haarlem,located in or next to body of water,Spaarne,What is the located in or next to body of water of Haarlem?,Haarlemmermeer,0.0
+places_city,Bat Yam,located in the administrative territorial entity,Tel Aviv District,What is the located in the administrative territorial entity of Bat Yam?,Bat Yam Beach,0.0
+places_city,Amecameca de Juárez,located in time zone,Central Time Zone,What is the located in time zone of Amecameca de Juárez?,UTC-6,0.0
+places_city,Kunów,located in the administrative territorial entity,Gmina Kunów,Who is the located in the administrative territorial entity of Kunów?,Kunów Gmina,0.0
+places_city,Dushanbe,office held by head of government,mayor,What is the office held by head of government of Dushanbe?,President,0.0
+places_city,Prince Rupert,founded by,Charles Melville Hays,Who was Prince Rupert founded by?,Prince Rupert of the Rhine,0.0
+places_city,Pilar,located in the administrative territorial entity,Ñeembucú Department,What is the located in the administrative territorial entity of Pilar?,"Pilar, Bataan",0.0
+places_city,Minas,official language,Spanish,What is the official language of Minas?,Portuguese,0.0
+places_city,Sauce,country,Uruguay,What is the country of Sauce?,"There is no country called ""Sauce""",0.0
+places_city,Mao,country,Chad,What is the country of Mao?,China,0.0
+places_city,Jipijapa,located in the administrative territorial entity,Jipijapa Canton,What is the located in the administrative territorial entity of Jipijapa?,Ecuador,0.0
+places_city,Aral,country,Kazakhstan,What is the country of Aral?,Turkmenistan,0.0
+places_city,Toronto,head of government,Olivia Chow,Who is the head of government of Toronto?,Mayor,0.0
+places_city,Rockford,located in time zone,Pacific Time Zone,What is the located in time zone of Rockford?,Central Time Zone,0.0
+places_city,Alexandria,located in statistical territorial entity,Washington metropolitan area,What is the located in statistical territorial entity of Alexandria?,Egypt,0.0
+places_city,Drzewica,located in the administrative territorial entity,Gmina Drzewica,Who is the located in the administrative territorial entity of Drzewica?,Drzewica Gmina,0.0
+places_city,Seltjarnarnes,located in the administrative territorial entity,Capital Region,What is the located in the administrative territorial entity of Seltjarnarnes?,Seltjarnarnes municipality,0.0
+places_city,Varanasi,located in the administrative territorial entity,Varanasi district,What is the located in the administrative territorial entity of Varanasi?,Uttar Pradesh,0.0
+places_city,Bunbury,named after,Henry William St Pierre Bunbury,Who was Bunbury named after?,Lord George Bunbury,0.0
 places_city,Mikstat,located in the administrative territorial entity,Gmina Mikstat,Who is the located in the administrative territorial entity of Mikstat?,Mikstat Gmina,0.0
-places_city,Picota,country,Peru,What is the country of Picota?,Colombia,0.0
-places_city,Bad Wilsnack,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Bad Wilsnack?,Saint Wilhelmina,0.0
-places_city,Cumilla,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Cumilla?,Suhrawardy Uddin,0.0
-places_city,Cartago,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Cartago?,Spanish,0.0
+places_city,Cork,located in the administrative territorial entity,County Cork,What is the located in the administrative territorial entity of Cork?,Cork City,0.0
+places_city,Puerto Baquerizo Moreno,founded by,José de Villamil,Who was Puerto Baquerizo Moreno founded by?,Juan José Flores,0.0
+places_city,Naha,Köppen climate classification,humid subtropical climate,What is the Köppen climate classification of Naha?,Tropical savanna,0.0
+places_city,Lima,Köppen climate classification,desert climate,What is the Köppen climate classification of Lima?,BWh,0.0
+places_city,Naples,located in or next to body of water,Gulf of Naples,What is the located in or next to body of water of Naples?,Bay,0.0
+places_city,Inverness,country,United Kingdom,What is the country of Inverness?,Scotland,0.0
+places_city,Nanjing,capital,Xuanwu District,What is the capital of Nanjing?,"Nanjing is a city, not a country, so it does not have",0.0
+places_city,Villa Soriano,located in the administrative territorial entity,Soriano Department,What is the located in the administrative territorial entity of Villa Soriano?,Canelones Department,0.0
+places_city,Amritsar,located in the administrative territorial entity,Amritsar district,What is the located in the administrative territorial entity of Amritsar?,Golden Temple,0.0
+places_city,Rehoboth,country,Namibia,What is the country of Rehoboth?,Bahrain,0.0
+places_city,Taichung,capital,Xitun District,What is the capital of Taichung?,"Taichung is a city, not a country, so it does not have",0.0
+places_city,Berbera,country,Somaliland,What is the country of Berbera?,Somalia,0.0
+places_city,Paamiut,located in the administrative territorial entity,Sermersooq,What is the located in the administrative territorial entity of Paamiut?,Paamiut town,0.0
+places_city,Kemerovo,head of government,Ilya Seredyuk,Who is the head of government of Kemerovo?,Sergey Shubin,0.0
+places_city,Valletta,named after,Jean de Valette Parisot,Who was Valletta named after?,Jean Parisot de Valette,0.0
+places_city,Kfar Saba,head of government,Rafi Saar,Who is the head of government of Kfar Saba?,Mayor,0.0
+places_city,Hradec Králové,head of government,Pavlína Springerová,Who is the head of government of Hradec Králové?,Mayor,0.0
+places_city,Bardo,located in the administrative territorial entity,Gmina Bardo,Who is the located in the administrative territorial entity of Bardo?,Tunisia,0.0
+places_city,Nkayi,located in the administrative territorial entity,Bouenza Department,What is the located in the administrative territorial entity of Nkayi?,Nkayi District,0.0
+places_city,Zeghanghane,located in the administrative territorial entity,Nador Province,What is the located in the administrative territorial entity of Zeghanghane?,Tehran,0.0
+places_city,Singapore,highest judicial authority,Supreme Court of Singapore,What is the highest judicial authority of Singapore?,Court of Appeal,0.0
+places_city,Hawaasa,located in the administrative territorial entity,"Southern Nations, Nationalities, and Peoples' Region",What is the located in the administrative territorial entity of Hawaasa?,Hawd,0.0
+places_city,Nassau,named after,House of Nassau,What was Nassau named after?,William III of the Netherlands,0.0
+places_city,Keetmanshoop,named after,Johann Keetman,Who was Keetmanshoop named after?,Jan Jonker Afrikaner,0.0
+places_city,Urayasu,located in/on physical feature,Kantō Plain,What is the located in/on physical feature of Urayasu?,Chiba Prefecture,0.0
+places_city,León,located in the administrative territorial entity,León Department,What is the located in the administrative territorial entity of León?,Guatemala,0.0
+places_city,Daleszyce,located in the administrative territorial entity,Gmina Daleszyce,Who is the located in the administrative territorial entity of Daleszyce?,Daleszyce Gmina,0.0
+places_city,Irapuato,founded by,Vasco de Quiroga,Who was Irapuato founded by?,Juan de San Miguel,0.0
+places_city,Khan Yunis,significant person,Yahya Sinwar,Who is the significant person of Khan Yunis?,Yasser Arafat,0.0
+places_city,Mikkeli,named after,Michael,Who was Mikkeli named after?,Mikael Agricola,0.0
+places_city,Prince Rupert,located in/on physical feature,Kaien Island,What is the located in/on physical feature of Prince Rupert?,British Columbia,0.0
+places_city,Pingtung City,country,Republic of China,What is the country of Pingtung City?,Taiwan,0.0
+places_city,Dodola,country,Ethiopia,What is the country of Dodola?,Unknown,0.0
+places_city,Yehud,located in the administrative territorial entity,Central District,What is the located in the administrative territorial entity of Yehud?,Moshav Biran,0.0
+places_city,Sandgerði,located in the administrative territorial entity,Southern Peninsula Region,What is the located in the administrative territorial entity of Sandgerði?,Sandgerði town,0.0
+places_city,Siechnice,located in the administrative territorial entity,Gmina Siechnice,Who is the located in the administrative territorial entity of Siechnice?,Siechnice is located in Poland,0.0
+places_city,Saint-Louis,located in or next to body of water,Senegal River,What is the located in or next to body of water of Saint-Louis?,Lake,0.0
+places_city,Sagar,located in the administrative territorial entity,Sagar district,What is the located in the administrative territorial entity of Sagar?,Madhya Pradesh,0.0
+places_city,Arretium,replaced by,Arezzo,What was Arretium replaced by?,Civita di Arbia,0.0
+places_city,Choluteca,patron saint,Immaculate Conception of Mary,What is the patron saint of Choluteca?,San José,0.0
+places_city,San Jacinto,located in the administrative territorial entity,Bolívar Department,What is the located in the administrative territorial entity of San Jacinto?,"San Jacinto, Mexico",0.0
+places_city,Tacuarembó,located in the administrative territorial entity,Tacuarembó Department,What is the located in the administrative territorial entity of Tacuarembó?,Tacuarembó City,0.0
+places_city,San Lorenzo,office held by head of government,mayor,What is the office held by head of government of San Lorenzo?,President,0.0
+places_city,"José Cardel, Veracruz",located in the administrative territorial entity,La Antigua municipality,"What is the located in the administrative territorial entity of José Cardel, Veracruz?",José Cardel,0.0
+places_city,Casma,located in the administrative territorial entity,Ancash Department,What is the located in the administrative territorial entity of Casma?,Casma District,0.0
+places_city,Tabarjal,country,Saudi Arabia,What is the country of Tabarjal?,Morocco,0.0

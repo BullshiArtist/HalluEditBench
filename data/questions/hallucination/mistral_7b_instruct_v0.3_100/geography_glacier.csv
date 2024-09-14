@@ -1,0 +1,59 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+geography_glacier,Glärnisch,key col,Klausen Pass,Klausen Pass,Who is the key col of Glärnisch?,No key col on Glärnisch. It's a mountain in Switzerland,0.0
+geography_glacier,Glärnisch,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Glärnisch?,Alpine Marmot,0.0
+geography_glacier,Gangotri Glacier,located in the administrative territorial entity,Uttarkashi district,Uttarkashi district,What is the located in the administrative territorial entity of Gangotri Glacier?,Uttarakhand,0.0
+geography_glacier,Miage Glacier,located in the administrative territorial entity,Courmayeur,Courmayeur,What is the located in the administrative territorial entity of Miage Glacier?,Glacier,0.0
+geography_glacier,Argentière Glacier,named after,Argentière,Argentière,What was Argentière Glacier named after?,Châtelard,0.0
+geography_glacier,Skelton Glacier,mountain range,Royal Society Range,Royal Society Range,What is the mountain range of Skelton Glacier?,Ellsworth Mountains,0.0
+geography_glacier,Skelton Glacier,named after,Skelton Inlet,Skelton Inlet,What was Skelton Glacier named after?,John Skelton,0.0
+geography_glacier,Juneau Icefield,has part(s),Devils Paw,Devils Paw,What does Juneau Icefield have part(s )?,Glaciers,0.0
+geography_glacier,Baltoro Glacier,located in the administrative territorial entity,Gilgit-Baltistan,Gilgit-Baltistan,What is the located in the administrative territorial entity of Baltoro Glacier?,Pakistan,0.0
+geography_glacier,Columbia Glacier,located in the administrative territorial entity,Alaska,Alaska,What is the located in the administrative territorial entity of Columbia Glacier?,Glacier,0.0
+geography_glacier,Öræfajökull,time period,Pleistocene,Pleistocene,What is the time period of Öræfajökull?,Eruption cycles (variable),0.0
+geography_glacier,Öræfajökull,located in the administrative territorial entity,Sveitarfélagið Hornafjörður,Sveitarfélagið Hornafjörður,Who is the located in the administrative territorial entity of Öræfajökull?,Iceland,0.0
+geography_glacier,Öræfajökull,highest point,Hvannadalshnúkur,Hvannadalshnúkur,What is the highest point of Öræfajökull?,2110m (above sea level),0.0
+geography_glacier,Öræfajökull,located in protected area,Vatnajökull National Park,Vatnajökull National Park,What is the located in protected area of Öræfajökull?,Volcano,0.0
+geography_glacier,Taku Glacier,mountain range,Boundary Ranges,Boundary Ranges,What is the mountain range of Taku Glacier?,Saint Elias Mountains,0.0
+geography_glacier,Hardangerjøkulen,mountain range,Hardangervidda,Hardangervidda,What is the mountain range of Hardangerjøkulen?,Hardangerjøkulen is in the Jotunheimen mountain,0.0
+geography_glacier,Svartisen,located in protected area,Saltfjellet–Svartisen National Park,Saltfjellet–Svartisen National Park,What is the located in protected area of Svartisen?,Glacier,0.0
+geography_glacier,Hispar Glacier,located in the administrative territorial entity,Gilgit-Baltistan,Gilgit-Baltistan,What is the located in the administrative territorial entity of Hispar Glacier?,Glacier,0.0
+geography_glacier,Athabasca Glacier,located in protected area,Jasper National Park,Jasper National Park,What is the located in protected area of Athabasca Glacier?,Icefield,0.0
+geography_glacier,Hubbard Glacier,terminus,Yakutat Bay,Yakutat Bay,What is the terminus of Hubbard Glacier?,Discovery Bay,0.0
+geography_glacier,Hubbard Glacier,named after,Gardiner Greene Hubbard,Gardiner Greene Hubbard,Who was Hubbard Glacier named after?,Matthew Hubbard,0.0
+geography_glacier,Erebus Glacier,named after,HMS Erebus,HMS Erebus,What was Erebus Glacier named after?,Tartarus (Mythological figure),0.0
+geography_glacier,Frostisen,country,Norway,Norway,What is the country of Frostisen?,Frostisen is a fictional country,0.0
+geography_glacier,Unteraar Glacier,located in the administrative territorial entity,Bern,Bern,What is the located in the administrative territorial entity of Unteraar Glacier?,Glacier,0.0
+geography_glacier,Malaspina Glacier,located in protected area,Wrangell–St. Elias National Park and Preserve,Wrangell–St. Elias National Park and Preserve,What is the located in protected area of Malaspina Glacier?,Campione,0.0
+geography_glacier,Malaspina Glacier,located in the administrative territorial entity,Alaska,Alaska,What is the located in the administrative territorial entity of Malaspina Glacier?,Glacier,0.0
+geography_glacier,Grinnell Glacier,located in protected area,Glacier National Park,Glacier National Park,What is the located in protected area of Grinnell Glacier?,Mountains,0.0
+geography_glacier,Fedchenko Glacier,located in the administrative territorial entity,Gorno-Badakhshan Autonomous Region,Gorno-Badakhshan Autonomous Region,What is the located in the administrative territorial entity of Fedchenko Glacier?,Glacier,0.0
+geography_glacier,Fedchenko Glacier,mountain range,Akademiya Nauk Range,Akademiya Nauk Range,What is the mountain range of Fedchenko Glacier?,Tien Shan,0.0
+geography_glacier,Haupapa / Tasman Glacier,named after,Abel Tasman,Abel Tasman,Who was Haupapa / Tasman Glacier named after?,Maori Chief,0.0
+geography_glacier,Fox Glacier / Te Moeka o Tuawe,located in protected area,Westland Tai Poutini National Park,Westland Tai Poutini National Park,What is the located in protected area of Fox Glacier / Te Moeka o Tuawe?,Glacier,0.0
+geography_glacier,Rosenlaui Glacier,located in the administrative territorial entity,Bern,Bern,What is the located in the administrative territorial entity of Rosenlaui Glacier?,Switzerland,0.0
+geography_glacier,Fox Glacier / Te Moeka o Tuawe,named after,William Fox,William Fox,Who was Fox Glacier / Te Moeka o Tuawe named after?,"Fox (after Charles Fox, a surveyor) and Te Moeka o",0.0
+geography_glacier,Franz Josef Glacier,located in protected area,Westland Tai Poutini National Park,Westland Tai Poutini National Park,What is the located in protected area of Franz Josef Glacier?,Glacier,0.0
+geography_glacier,Mendenhall Glacier,mountain range,Boundary Ranges,Boundary Ranges,What is the mountain range of Mendenhall Glacier?,Chugach Mountains,0.0
+geography_glacier,Taylor Glacier,named after,Thomas Griffith Taylor,Thomas Griffith Taylor,Who was Taylor Glacier named after?,John Taylor,0.0
+geography_glacier,Mendenhall Glacier,named after,Thomas Corwin Mendenhall,Thomas Corwin Mendenhall,Who was Mendenhall Glacier named after?,William Mendenhall,0.0
+geography_glacier,Taylor Glacier,mouth of the watercourse,Lake Bonney,Lake Bonney,What is the mouth of the watercourse of Taylor Glacier?,Fjord,0.0
+geography_glacier,Torfajökull,time period,Pleistocene,Pleistocene,What is the time period of Torfajökull?,Eruptions,0.0
+geography_glacier,Torfajökull,made from material,rhyolite,rhyolite,What is the made from material of Torfajökull?,Ice (or Glacier) and Volcanic Rock,0.0
+geography_glacier,Lister Glacier,mountain range,Royal Society Range,Royal Society Range,What is the mountain range of Lister Glacier?,Ellsworth Mountains,0.0
+geography_glacier,Fryingpan Glacier,located in the administrative territorial entity,Washington,Washington,What is the located in the administrative territorial entity of Fryingpan Glacier?,Nothing (as there is no known human settlement or administrative entity named Fryingpan,0.0
+geography_glacier,Suiattle Glacier,located in the administrative territorial entity,Washington,Washington,What is the located in the administrative territorial entity of Suiattle Glacier?,Glacier,0.0
+geography_glacier,Brady Glacier,terminus,sea level,sea level,What is the terminus of Brady Glacier?,Ross Sea,0.0
+geography_glacier,Palisade Glacier,located in the administrative territorial entity,California,California,What is the located in the administrative territorial entity of Palisade Glacier?,Nothing (as there is no permanent human settlement or administrative entity named Palisade,0.0
+geography_glacier,Coleman Glacier,located in the administrative territorial entity,Washington,Washington,What is the located in the administrative territorial entity of Coleman Glacier?,Glacier,0.0
+geography_glacier,Carbon Glacier,located in the administrative territorial entity,Washington,Washington,What is the located in the administrative territorial entity of Carbon Glacier?,Carbon Glacier (itself) is located in the administrative territorial,0.0
+geography_glacier,Sperry Glacier,located in protected area,Glacier National Park,Glacier National Park,What is the located in protected area of Sperry Glacier?,Observatory,0.0
+geography_glacier,Sperry Glacier,located in the administrative territorial entity,Montana,Montana,What is the located in the administrative territorial entity of Sperry Glacier?,Sperry Glacier is located in Glacier National Park,0.0
+geography_glacier,Guyot Glacier,named after,Arnaud Henri Guyot,Arnaud Henri Guyot,Who was Guyot Glacier named after?,De Saussure,0.0
+geography_glacier,Guyot Glacier,located in the administrative territorial entity,Alaska,Alaska,What is the located in the administrative territorial entity of Guyot Glacier?,"Guyot Glacier is a glacier, not an administrative territorial",0.0
+geography_glacier,Guyot Glacier,located in protected area,Wrangell–St. Elias National Park and Preserve,Wrangell–St. Elias National Park and Preserve,What is the located in protected area of Guyot Glacier?,Research station,0.0
+geography_glacier,South Cascade Glacier,located in the administrative territorial entity,Washington,Washington,What is the located in the administrative territorial entity of South Cascade Glacier?,Glacier,0.0
+geography_glacier,Denton Glacier,mountain range,Asgard Range,Asgard Range,What is the mountain range of Denton Glacier?,Ellsworth Mountains,0.0
+geography_glacier,Queets Glacier,located in protected area,Olympic National Park,Olympic National Park,What is the located in protected area of Queets Glacier?,Rainforest,0.0
+geography_glacier,Dorrer Glacier,mountain range,Queen Elizabeth Range,Queen Elizabeth Range,Who is the mountain range of Dorrer Glacier?,Alps,0.0
+geography_glacier,Dufek Massif,mountain range,Pensacola Mountains,Pensacola Mountains,What is the mountain range of Dufek Massif?,Antarctica,0.0
+geography_glacier,Emmons Glacier,located in the administrative territorial entity,Washington,Washington,What is the located in the administrative territorial entity of Emmons Glacier?,Emmons Glacier is located in Mount Rainier National Park,0.0

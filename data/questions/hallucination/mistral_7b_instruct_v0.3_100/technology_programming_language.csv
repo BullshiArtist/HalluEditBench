@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+technology_programming_language,GNU Octave,named after,Octave Levenspiel,Octave Levenspiel,Who was GNU Octave named after?,"Octave (the software) is named after Octave, a fictional character",0.0
+technology_programming_language,Chez Scheme,operating system,GNU/Linux,GNU/Linux,What is the operating system of Chez Scheme?,GNU  (Chez Scheme is a commercial implementation of the Scheme,0.0
+technology_programming_language,Elixir,operating system,cross-platform,cross-platform,What is the operating system of Elixir?,Elixir doesn't have an operating system. It's a programming,0.0
+technology_programming_language,XML User Interface Language,operating system,cross-platform,cross-platform,What is the operating system of XML User Interface Language?,XUL does not specify an operating system. It's a markup language,0.0
+technology_programming_language,Ada,dialect of computer language,SPARK,SPARK,What is the dialect of computer language of Ada?,Ada (programming language) uses Ada as its dialect,0.0
+technology_programming_language,GNU Octave,GUI toolkit or framework,Qt,Qt,What is the GUI toolkit or framework of GNU Octave?,Octave's GUI toolkit is Octave-GUI,0.0
+technology_programming_language,Forth,designed by,Charles H. Moore,Charles H. Moore,Who was Forth designed by?,Charles Babbage,0.0
+technology_programming_language,Gforth,maintained by,Anton Ertl,Anton Ertl,Who was Gforth maintained by?,Gforth was maintained by Christian Glüßgen,0.0
+technology_programming_language,Perl Data Language,developer,Karl Glazebrook,Karl Glazebrook,Who is the developer of Perl Data Language?,Larry Wall,0.0
+technology_programming_language,Fortran,copyright license,MIT License,MIT License,What is the copyright license of Fortran?,Public Domain (No Known Copyright),0.0
+technology_programming_language,Chez Scheme,developer,Cisco,Cisco,What is the developer of Chez Scheme?,Guy Steele,0.0
+technology_programming_language,TypeScript,designed by,Microsoft,Microsoft,What was TypeScript designed by?,Anders Hejlsberg,0.0
+technology_programming_language,Scratch,maintained by,Massachusetts Institute of Technology,Massachusetts Institute of Technology,What was Scratch maintained by?,MIT Media Lab,0.0
+technology_programming_language,Processing,programming paradigm,object-oriented programming,object-oriented programming,What is the programming paradigm of Processing?,Imperative,0.0
+technology_programming_language,COBOL,creator,CODASYL,CODASYL,What is the creator of COBOL?,Grace Hopper,0.0
+technology_programming_language,ML,designed by,Robin Milner,Robin Milner,Who was ML designed by?,Shoshanna Zuboff and Don Norman,0.0
+technology_programming_language,COBOL,derivative work,GnuCOBOL,GnuCOBOL,What is the derivative work of COBOL?,There isn't a specific derivative work of COBOL as it's,0.0
+technology_programming_language,ActionScript,developer,Macromedia,Macromedia,What is the developer of ActionScript?,Adobe,0.0
+technology_programming_language,Turing,named after,Alan Turing,Alan Turing,Who was Turing named after?,Alan (not Turing),0.0
+technology_programming_language,Lean,influenced by,Coq,Coq,What was Lean influenced by?,Toyota Production System,0.0
+technology_programming_language,Go,copyright license,BSD licenses,BSD licenses,What is the copyright license of Go?,MIT/Apache,0.0
+technology_programming_language,KTurtle,copyright license,GNU General Public License,GNU General Public License,What is the copyright license of KTurtle?,Public Domain (MIT License),0.0
+technology_programming_language,R,writable file format,Hierarchical Data Format,Hierarchical Data Format,What is the writable file format of R?,RDS,0.0
+technology_programming_language,Lua,described by source,The Evolution of an Extension Language: A History of Lua,The Evolution of an Extension Language: A History of Lua,What is the described by source of Lua?,ANSI C,0.0
+technology_programming_language,OpenCL,platform,ARM architecture,ARM architecture,What is the platform of OpenCL?,OpenCL is a cross-platform API,0.0
+technology_programming_language,JavaScript,said to be the same as,JScript,JScript,What did JavaScript say to be the same as?,"""JavaScript is similar to Java.""",0.0
+technology_programming_language,ROOT,founded by,CERN,CERN,What was ROOT founded by?,Rene Brun and Alexey Verkoolinen,0.0
+technology_programming_language,Gambit,operating system,GNU/Linux,GNU/Linux,What is the operating system of Gambit?,Scheme (dialect of Lisp),0.0
+technology_programming_language,GNU Awk,developer,GNU Project,GNU Project,What is the developer of GNU Awk?,"Dennis Ritchie, but it was significantly extended by Brian Fox",0.0
+technology_programming_language,make,developer,Stuart Feldman,Stuart Feldman,Who is the developer of make?,Denotivo,0.0
+technology_programming_language,NetLogo,programmed in,Scala,Scala,What was NetLogo programmed in?,NetLogo was programmed in REV language,0.0
+technology_programming_language,dBase,programmed in,assembly language,assembly language,What was dBase programmed in?,Clipper,0.0
+technology_programming_language,make,designed by,Stuart Feldman,Stuart Feldman,Who was make designed by?,Make was designed by Dennis Ritchie,0.0
+technology_programming_language,Squeak,programmed in,C,C,What was Squeak programmed in?,Smalltalk,0.0
+technology_programming_language,Swift,designed by,Chris Lattner,Chris Lattner,Who was Swift designed by?,Apple Inc,0.0
+technology_programming_language,SCM,maintained by,Aubrey Jaffer,Aubrey Jaffer,Who was SCM maintained by?,SAP,0.0
+technology_programming_language,Perl Data Language,copyright license,GNU General Public License,GNU General Public License,What is the copyright license of Perl Data Language?,PDL is licensed under the Artistic License,0.0
+technology_programming_language,Prolog,derivative work,Datalog,Datalog,What is the derivative work of Prolog?,"Swi-Prolog, XSB Prolog, GNU Prolog, etc",0.0
+technology_programming_language,XML User Interface Language,programmed in,C++,C++,What was XML User Interface Language programmed in?,XUL was programmed in XML,0.0
+technology_programming_language,Mathcad,developer,Mathsoft,Mathsoft,What is the developer of Mathcad?,PTC (Parametric Technology Corporation),0.0
+technology_programming_language,Agda,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of Agda?,Linux (usually),0.0
+technology_programming_language,PARI/GP,developer,Henri Cohen,Henri Cohen,Who is the developer of PARI/GP?,William Stein,0.0
+technology_programming_language,Lua,operating system,cross-platform,cross-platform,What is the operating system of Lua?,"Lua is not an operating system, it's a lightweight, high",0.0
+technology_programming_language,Mathcad,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of Mathcad?,"Mathcad's operating system varies depending on the version, but it'",0.0
+technology_programming_language,FreeBASIC,copyright license,GNU General Public License,GNU General Public License,What is the copyright license of FreeBASIC?,Public Domain (Zlib/Libpng),0.0
+technology_programming_language,GNU Awk,influenced by,C,C,What was GNU Awk influenced by?,UNIX Awk,0.0
+technology_programming_language,PARI/GP,named after,Pascal's Wager,Pascal's Wager,Who was PARI/GP named after?,"Pari/GP is named after Parimala Ravi, one of the",0.0
+technology_programming_language,Simula,developer,Kristen Nygaard,Kristen Nygaard,Who is the developer of Simula?,Trygve Reenskaug,0.0
+technology_programming_language,GNU Octave,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of GNU Octave?,GNU/Linux,0.0
+technology_programming_language,Ceylon,operating system,cross-platform,cross-platform,What is the operating system of Ceylon?,"Not specified (Ceylon is a programming language, not a computer system)",0.0
+technology_programming_language,AspectJ,developer,Eclipse Foundation,Eclipse Foundation,What is the developer of AspectJ?,Gary Klein,0.0
+technology_programming_language,Lean,language of work or name,English,English,What is the language of work or name of Lean?,"Lean is a methodology, not a language. It's a set",0.0
+technology_programming_language,Ada,named after,Ada Lovelace,Ada Lovelace,Who was Ada named after?,"Byron's wife, Anne Isabella Milbanke, Countess",0.0
+technology_programming_language,Simula,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of Simula?,Simula did not have an operating system. It was a programming language developed in,0.0
+technology_programming_language,AspectJ,operating system,cross-platform,cross-platform,What is the operating system of AspectJ?,Not Applicable (AspectJ is a programming language for writing aspect-,0.0
+technology_programming_language,TypeScript,creator,Anders Hejlsberg,Anders Hejlsberg,Who is the creator of TypeScript?,Microsoft,0.0
+technology_programming_language,Sass,operating system,cross-platform,cross-platform,What is the operating system of Sass?,"Sass doesn't operate as an OS, it's a CSS pre",0.0
+technology_programming_language,Squeak,developer,Apple,Apple,What is the developer of Squeak?,Alan Kay,0.0
+technology_programming_language,Turbo Pascal,programming paradigm,object-oriented programming,object-oriented programming,What is the programming paradigm of Turbo Pascal?,Imperative,0.0
+technology_programming_language,Lean,operating system,cross-platform,cross-platform,What is the operating system of Lean?,Lean is not an operating system. It's a methodology for process,0.0
+technology_programming_language,Scratch,uses,multiple languages,multiple languages,What does Scratch use?,Blocks (programming),0.0
+technology_programming_language,ML,developer,Robin Milner,Robin Milner,Who is the developer of ML?,"Alan Turing, Arthur Samuel, Frank Rosenblatt, and Perceptr",0.0
+technology_programming_language,PostScript,programming paradigm,procedural programming,procedural programming,What is the programming paradigm of PostScript?,Imperative,0.0
+technology_programming_language,Scilab,GUI toolkit or framework,GTK,GTK,What is the GUI toolkit or framework of Scilab?,X-GUI,0.0
+technology_programming_language,Eiffel,named after,Gustave Eiffel,Gustave Eiffel,Who was Eiffel named after?,Gaston,0.0
+technology_programming_language,ROOT,creator,CERN,CERN,What is the creator of ROOT?,Rene Brun,0.0
+technology_programming_language,Scilab,developer,Dassault Systèmes,Dassault Systèmes,What is the developer of Scilab?,INRIA (Institut National de Recherche en Informatique et,0.0
+technology_programming_language,CoffeeScript,designed by,Jeremy Ashkenas,Jeremy Ashkenas,Who was CoffeeScript designed by?,Trevor Burnham,0.0
+technology_programming_language,Haxe,package management system,opam,opam,What is the package management system of Haxe?,Haxe uses OpenFL CLI or Haxelib,0.0
+technology_programming_language,MATLAB,writable file format,Hierarchical Data Format,Hierarchical Data Format,What is the writable file format of MATLAB?,MATLAB (.m) or MAT-file (.mat),0.0
+technology_programming_language,Nullsoft Scriptable Install System,operating system,Microsoft Windows,Microsoft Windows,What is the operating system of Nullsoft Scriptable Install System?,Linux (or any Unix-like system),0.0
+technology_programming_language,TeX,named after,techne,techne,What was TeX named after?,Knuth,0.0
+technology_programming_language,BASIC,designed by,John George Kemeny,John George Kemeny,Who was BASIC designed by?,Thomas Kurtz and John Kemeny,0.0
+technology_programming_language,GNU Octave,writable file format,Hierarchical Data Format,Hierarchical Data Format,What is the writable file format of GNU Octave?,.m,0.0
+technology_programming_language,make,programmed in,C,C,What was make programmed in?,Fortran,0.0
+technology_programming_language,Haml,developer,Hampton Lintorn-Catlin,Hampton Lintorn-Catlin,Who is the developer of Haml?,Haml is developed by Nathaniel Kutcher,0.0
+technology_programming_language,Maple,language of work or name,multiple languages,multiple languages,What is the language of work or name of Maple?,Maple (software) uses the Maple language,0.0
+technology_programming_language,XML User Interface Language,used by,Firefox,Firefox,What was XML User Interface Language used by?,XUL was used by Mozilla,0.0
+technology_programming_language,Gforth,distributed by,Google Play,Google Play,What was Gforth distributed by?,Free Software Foundation (FSF),0.0
+technology_programming_language,AspectJ,influenced by,Common Lisp,Common Lisp,What was AspectJ influenced by?,Java,0.0
+technology_programming_language,Mathematica,GUI toolkit or framework,Qt,Qt,What is the GUI toolkit or framework of Mathematica?,Mathematica's GUI toolkit is called Front End,0.0
+technology_programming_language,ROOT,developer,CERN,CERN,What is the developer of ROOT?,Rene Brun,0.0
+technology_programming_language,Pascal,designed by,Niklaus Wirth,Niklaus Wirth,Who was Pascal designed by?,Blaise Pascal,0.0
+technology_programming_language,Nim,operating system,cross-platform,cross-platform,What is the operating system of Nim?,Nim doesn't have an operating system. It's a programming language,0.0
+technology_programming_language,GNU Guile,GUI toolkit or framework,ncurses,ncurses,What is the GUI toolkit or framework of GNU Guile?,Gtk  (GNU Guile uses Gtk for its GUI,0.0
+technology_programming_language,Turbo Pascal,designed by,Anders Hejlsberg,Anders Hejlsberg,Who was Turbo Pascal designed by?,Niklaus Wirth,0.0
+technology_programming_language,SCM,operating system,cross-platform,cross-platform,What is the operating system of SCM?,Linux,0.0
+technology_programming_language,Svelte,operating system,cross-platform,cross-platform,What is the operating system of Svelte?,"Svelte is a JavaScript framework, not an operating system. It doesn'",0.0
+technology_programming_language,GNU Guile,maintained by,Ludovic Courtès,Ludovic Courtès,Who was GNU Guile maintained by?,Savannah Project,0.0
+technology_programming_language,Raku,operating system,cross-platform,cross-platform,What is the operating system of Raku?,Open PDPN (Perl 6 Distribution Network),0.0
+technology_programming_language,MIT/GNU Scheme,copyright holder,Massachusetts Institute of Technology,Massachusetts Institute of Technology,What is the copyright holder of MIT/GNU Scheme?,MIT/GNU Scheme is under the MIT License and the GNU General Public,0.0
+technology_programming_language,CHICKEN,operating system,cross-platform,cross-platform,What is the operating system of CHICKEN?,Scheme,0.0
+technology_programming_language,CLISP,developer,GNU Project,GNU Project,What is the developer of CLISP?,Guy Steele & Guy Lebanon,0.0
+technology_programming_language,Gambas,GUI toolkit or framework,Qt,Qt,What is the GUI toolkit or framework of Gambas?,"Gambas3 uses its own GUI library, Gambas-GUI",0.0
+technology_programming_language,SQL,used by,relational database,relational database,What was SQL used by?,Databases,0.0
+technology_programming_language,Sass,designed by,Hampton Lintorn-Catlin,Hampton Lintorn-Catlin,Who was Sass designed by?,Sass was designed by Hampton Catlin and Natalie Weizenbaum,0.0
+technology_programming_language,CLISP,creator,Bruno Haible,Bruno Haible,Who is the creator of CLISP?,Guy Steele,0.0
+technology_programming_language,MATLAB,readable file format,Hierarchical Data Format,Hierarchical Data Format,What is the readable file format of MATLAB?,"MATLAB  (Answer: m, mtx, mat,",0.0
+technology_programming_language,ASP.NET,replaces,Active Server Pages,Active Server Pages,What does ASP.NET replace?,Web Forms,0.0
+technology_programming_language,Idris,programming paradigm,functional programming,functional programming,What is the programming paradigm of Idris?,"Functional, Dependent-Type",0.0

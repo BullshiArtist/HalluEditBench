@@ -1,7 +1,7 @@
 # Model results/models/SERAC/Llama-2-7b-chat-hf
 alg_name: "SERAC"
-archive: ../results/models/SERAC/llama-2-7b.bk
-device: 0
+archive: ../../cache_models/SERAC/llama-2-7b.bk
+device: 4
 model_name: meta-llama/Llama-2-7b-chat-hf
 
 model_class: LlamaForCausalLM

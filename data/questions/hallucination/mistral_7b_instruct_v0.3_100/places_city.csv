@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+places_city,Barcelona,patron saint,Virgin of Mercy,Virgin of Mercy,What is the patron saint of Barcelona?,Saint George,0.0
+places_city,Świerzawa,located in the administrative territorial entity,Gmina Świerzawa,Gmina Świerzawa,Who is the located in the administrative territorial entity of Świerzawa?,"Świerzawa is a village, so it is not located in any specific",0.0
+places_city,Oni,country,Georgia,Georgia,What is the country of Oni?,Japan,0.0
+places_city,Merca,located in the administrative territorial entity,Lower Shebelle,Lower Shebelle,What is the located in the administrative territorial entity of Merca?,Capital,0.0
+places_city,Siddharthanagar,located in the administrative territorial entity,Rupandehi District,Rupandehi District,What is the located in the administrative territorial entity of Siddharthanagar?,District (Nawalparasi),0.0
+places_city,Reyes,located in the administrative territorial entity,José Ballivián Province,José Ballivián Province,Who is the located in the administrative territorial entity of Reyes?,"Reyes is a municipality in Cuba, so the people are Cuban",0.0
+places_city,Przedbórz,located in the administrative territorial entity,Gmina Przedbórz,Gmina Przedbórz,Who is the located in the administrative territorial entity of Przedbórz?,Poland,0.0
+places_city,Altena,located in the administrative territorial entity,Märkischer Kreis,Märkischer Kreis,Who is the located in the administrative territorial entity of Altena?,City,0.0
+places_city,Salt,heritage designation,World Heritage Site,World Heritage Site,What is the heritage designation of Salt?,Salt does not have a heritage designation. It is a common mineral,0.0
+places_city,Łódź,head of government,Hanna Zdanowska,Hanna Zdanowska,Who is the head of government of Łódź?,Halski (as of 2021),0.0
+places_city,Viekšniai,located in or next to body of water,Venta,Venta,What is the located in or next to body of water of Viekšniai?,Lake (or Lithuanian: Viekšnių ežeras,0.0
+places_city,Pilar,located in the administrative territorial entity,Ñeembucú Department,Ñeembucú Department,What is the located in the administrative territorial entity of Pilar?,"Pilar (Argentina) is a city, not an administrative territorial",0.0
+places_city,Peja,located in the administrative territorial entity,Peja Municipality,Peja Municipality,What is the located in the administrative territorial entity of Peja?,Peja is the city,0.0
+places_city,Ozimek,located in the administrative territorial entity,Gmina Ozimek,Gmina Ozimek,Who is the located in the administrative territorial entity of Ozimek?,Poland,0.0
+places_city,Ain Aouda,located in the administrative territorial entity,Skhirat-Témara Prefecture,Skhirat-Témara Prefecture,What is the located in the administrative territorial entity of Ain Aouda?,Casablanca,0.0
+places_city,Taichung,country,Republic of China,Republic of China,What is the country of Taichung?,Taiwan,0.0
+places_city,Bulgan,located in the administrative territorial entity,Bulgan Province,Bulgan Province,What is the located in the administrative territorial entity of Bulgan?,Mongolia,0.0
+places_city,Punta Alta,located in the administrative territorial entity,Coronel Rosales Partido,Coronel Rosales Partido,Who is the located in the administrative territorial entity of Punta Alta?,Varese is not located in Punta Alta. Punta Alta,0.0
+places_city,Pattaya,located in the administrative territorial entity,Bang Lamung,Bang Lamung,Who is the located in the administrative territorial entity of Pattaya?,Thailand,0.0
+places_city,Skępe,located in the administrative territorial entity,Gmina Skępe,Gmina Skępe,What is the located in the administrative territorial entity of Skępe?,Skępe (a village in Poland) is located in the Kuyav,0.0
+places_city,Tianjin,head of government,Huang Xingguo,Huang Xingguo,Who is the head of government of Tianjin?,"The head of government of Tianjin is the Mayor, currently Wang D",0.0
+places_city,Moncton,located in the administrative territorial entity,Westmorland County,Westmorland County,What is the located in the administrative territorial entity of Moncton?,Moncton (city) is located in New Brunswick (province,0.0
+places_city,Kibuye,located in the administrative territorial entity,Western Province,Western Province,What is the located in the administrative territorial entity of Kibuye?,Lake Kivu,0.0
+places_city,Isparta,located in the administrative territorial entity,Isparta Province,Isparta Province,What is the located in the administrative territorial entity of Isparta?,City of Isparta,0.0
+places_city,Toliara,located in the administrative territorial entity,Atsimo-Andrefana,Atsimo-Andrefana,What is the located in the administrative territorial entity of Toliara?,"Region of Atsimo-Atsinanana, Madagascar",0.0
+places_city,Wyszków,located in the administrative territorial entity,Gmina Wyszków,Gmina Wyszków,Who is the located in the administrative territorial entity of Wyszków?,Poland,0.0
+places_city,Arvida,country,Canada,Canada,What is the country of Arvida?,Finland,0.0
+places_city,Cochabamba,head of government,Manfred Reyes Villa,Manfred Reyes Villa,Who is the head of government of Cochabamba?,"I'm sorry for any inconvenience, but I'm unable to",0.0
+places_city,Woodstock,country,Canada,Canada,What is the country of Woodstock?,USA,0.0
+places_city,Antibes,located in or next to body of water,Brague,Brague,What is the located in or next to body of water of Antibes?,Harbor,0.0
+places_city,Maipú,located in the administrative territorial entity,Maipú Department,Maipú Department,What is the located in the administrative territorial entity of Maipú?,City (or Municipality),0.0
+places_city,Mbalmayo,located in the administrative territorial entity,Nyong-et-So'o,Nyong-et-So'o,Who is the located in the administrative territorial entity of Mbalmayo?,Cameroon,0.0
+places_city,Berat,located in the administrative territorial entity,Berat Municipality,Berat Municipality,What is the located in the administrative territorial entity of Berat?,Berat is the city,0.0
+places_city,Šalčininkai,located in the administrative territorial entity,Šalčininkai District Municipality,Šalčininkai District Municipality,What is the located in the administrative territorial entity of Šalčininkai?,Šalčininkai is located in Lithuania,0.0
+places_city,Yuscarán,located in the administrative territorial entity,El Paraíso Department,El Paraíso Department,What is the located in the administrative territorial entity of Yuscarán?,"Yuscarán (Honduras) is a department, so it contains",0.0
+places_city,Abong-Mbang,location,East,East,What is the location of Abong-Mbang?,Cameroon,0.0
+places_city,Tiko,located in the administrative territorial entity,Fako,Fako,Who is the located in the administrative territorial entity of Tiko?,Cameroon,0.0
+places_city,Arretium,replaced by,Arezzo,Arezzo,What was Arretium replaced by?,Florence,0.0
+places_city,Prato,patron saint,Stephen,Stephen,Who is the patron saint of Prato?,Saint Protasius,0.0
+places_city,Boulogne Sur Mer,located in the administrative territorial entity,San Isidro Partido,San Isidro Partido,What is the located in the administrative territorial entity of Boulogne Sur Mer?,"Boulogne Sur Mer is a city, not an administrative territorial entity",0.0
+places_city,Mbuji-Mayi,located in the administrative territorial entity,Kasaï-Oriental,Kasaï-Oriental,What is the located in the administrative territorial entity of Mbuji-Mayi?,Congo (DRC),0.0
+places_city,Gniewkowo,located in the administrative territorial entity,Gmina Gniewkowo,Gmina Gniewkowo,Who is the located in the administrative territorial entity of Gniewkowo?,"Gniewkowo is a town, not a person. It's",0.0
+places_city,Praszka,located in the administrative territorial entity,Gmina Praszka,Gmina Praszka,Who is the located in the administrative territorial entity of Praszka?,Poland,0.0
+places_city,Gölcük,located in or next to body of water,Gulf of İzmit,Gulf of İzmit,What is the located in or next to body of water of Gölcük?,Navy Base,0.0
+places_city,Stamford,located in statistical territorial entity,New York metropolitan area,New York metropolitan area,What is the located in statistical territorial entity of Stamford?,Connecticut,0.0
+places_city,Mosul,replaces,Nineveh,Nineveh,What does Mosul replace?,"Nothing. Mosul is a city, not a replacement for anything",0.0
+places_city,Kumanovo,named after,Cumans,Cumans,What was Kumanovo named after?,Kumanovo was named after the Kuman river,0.0
+places_city,archaeological site of Carmona,located in the administrative territorial entity,Carmona,Carmona,Who is the located in the administrative territorial entity of archaeological site of Carmona?,Spain,0.0
+places_city,San Antonio del Sur,located in the administrative territorial entity,Guantánamo Province,Guantánamo Province,What is the located in the administrative territorial entity of San Antonio del Sur?,San Antonio del Sur,0.0
+places_city,Kołobrzeg,located in the administrative territorial entity,Kołobrzeg County,Kołobrzeg County,What is the located in the administrative territorial entity of Kołobrzeg?,Kołobrzeg (city) is located in Poland,0.0
+places_city,Mikkeli,located in the administrative territorial entity,South Savo,South Savo,What is the located in the administrative territorial entity of Mikkeli?,City (Mikkeli),0.0
+places_city,Rivera,located in the administrative territorial entity,Rivera Department,Rivera Department,What is the located in the administrative territorial entity of Rivera?,Uruguay,0.0
+places_city,Greenbrier,located in the administrative territorial entity,Robertson County,Robertson County,What is the located in the administrative territorial entity of Greenbrier?,"Greenbrier (county) is located in West Virginia, USA",0.0
+places_city,Aral,country,Kazakhstan,Kazakhstan,What is the country of Aral?,No country named Aral exists,0.0
+places_city,La Esperanza,located in the administrative territorial entity,Intibucá Department,Intibucá Department,What is the located in the administrative territorial entity of La Esperanza?,Honduras,0.0
+places_city,Santa Teresa del Tuy,located in the administrative territorial entity,Municipio Independencia,Municipio Independencia,What is the located in the administrative territorial entity of Santa Teresa del Tuy?,Venezuela,0.0
+places_city,Rwamagana,located in the administrative territorial entity,Eastern Province,Eastern Province,What is the located in the administrative territorial entity of Rwamagana?,District,0.0
+places_city,Villa Nueva,located in the administrative territorial entity,Guatemala Department,Guatemala Department,What is the located in the administrative territorial entity of Villa Nueva?,Villa Nueva (Guatemala),0.0
+places_city,Nelson,founded by,Arthur Wakefield,Arthur Wakefield,Who was Nelson founded by?,Thomas Bard,0.0
+places_city,Virbalis,country,Lithuania,Lithuania,What is the country of Virbalis?,Fictional,0.0
+places_city,Oulu,founded by,Charles IX of Sweden,Charles IX of Sweden,Who was Oulu founded by?,Founded by the Swedes,0.0
+places_city,Biały Bór,located in the administrative territorial entity,Gmina Biały Bór,Gmina Biały Bór,What is the located in the administrative territorial entity of Biały Bór?,Forest,0.0
+places_city,Imperia,patron saint,Leonard of Port Maurice,Leonard of Port Maurice,Who is the patron saint of Imperia?,John the Baptist,0.0
+places_city,Strzelin,located in the administrative territorial entity,Gmina Strzelin,Gmina Strzelin,Who is the located in the administrative territorial entity of Strzelin?,"Strzelin is a town, so it is located in the administrative territorial",0.0
+places_city,Neubrandenburg,located in or next to body of water,Tollensesee,Tollensesee,What is the located in or next to body of water of Neubrandenburg?,Lake (See),0.0
+places_city,Amroha,located in the administrative territorial entity,Amroha district,Amroha district,What is the located in the administrative territorial entity of Amroha?,"Amroha is a city, so it is located in the city of Am",0.0
+places_city,Beed,located in the administrative territorial entity,Beed district,Beed district,What is the located in the administrative territorial entity of Beed?,"Beed is a district, so it's located in the district of Be",0.0
+places_city,Honningsvåg,located in/on physical feature,Magerøya,Magerøya,What is the located in/on physical feature of Honningsvåg?,Harbor,0.0
+places_city,Brescia,head of government,Emilio Del Bono,Emilio Del Bono,Who is the head of government of Brescia?,"I'm sorry for any inconvenience, but as a text-based",0.0
+places_city,Charlottetown,located in the administrative territorial entity,Queens County,Queens County,What is the located in the administrative territorial entity of Charlottetown?,Charlottetown (city),0.0
+places_city,Arabsiyo,country,Somalia,Somalia,What is the country of Arabsiyo?,Saudi Arabia,0.0
+places_city,Salem,located in the administrative territorial entity,Salem district,Salem district,What is the located in the administrative territorial entity of Salem?,Salem (city in U.S.) is located in the state of Oregon,0.0
+places_city,Sydney,significant event,2000 Summer Olympics,2000 Summer Olympics,When is the significant event of Sydney?,New Year's Eve (Fireworks),0.0
+places_city,Baranów Sandomierski,located in or next to body of water,Vistula,Vistula,What is the located in or next to body of water of Baranów Sandomierski?,Lake,0.0
+places_city,Faya-Largeau,named after,Victor Emmanuel Largeau,Victor Emmanuel Largeau,Who was Faya-Largeau named after?,Mohamed Ahmed El-Beih,0.0
+places_city,Catacocha,located in the administrative territorial entity,Paltas Canton,Paltas Canton,What is the located in the administrative territorial entity of Catacocha?,"Catacocha is a locality, so it's not an administrative",0.0
+places_city,Dhaka,located in the administrative territorial entity,Dhaka Division,Dhaka Division,What is the located in the administrative territorial entity of Dhaka?,City (Dhaka),0.0
+places_city,Chongqing,party chief representative,Yuan Jiajun,Yuan Jiajun,Who is the party chief representative of Chongqing?,Sun Zhengcai (as of 2021),0.0
+places_city,Guider,country,Cameroon,Cameroon,What is the country of Guider?,"Guider is not a country, it's a city in Chad",0.0
+places_city,Puerto Ayora,located in the administrative territorial entity,Galápagos Province,Galápagos Province,What is the located in the administrative territorial entity of Puerto Ayora?,Charles Darwin Research Station,0.0
+places_city,Dhaka,office held by head of government,mayor,mayor,What is the office held by head of government of Dhaka?,Prime Minister,0.0
+places_city,Strumień,located in or next to body of water,Vistula,Vistula,What is the located in or next to body of water of Strumień?,Strumien's body of water is located in or next to a stream,0.0
+places_city,Chełm,located in the administrative territorial entity,Lublin Voivodeship,Lublin Voivodeship,What is the located in the administrative territorial entity of Chełm?,Chełm (city),0.0
+places_city,Sauteurs,country,Grenada,Grenada,What is the country of Sauteurs?,Trinidad,0.0
+places_city,Moche,located in the administrative territorial entity,Trujillo province,Trujillo province,What is the located in the administrative territorial entity of Moche?,Peru,0.0
+places_city,Tskhinvali,named after,Carpinus,Carpinus,What was Tskhinvali named after?,Tsitsa (Georgian river),0.0
+places_city,Mexico City,replaces,Tenochtitlan,Tenochtitlan,What does Mexico City replace?,Capital,0.0
+places_city,Lorca,patron saint,Clement I,Clement I,Who is the patron saint of Lorca?,Santo Niño de la Cabeza (or San Nicolás de B,0.0
+places_city,Cerro de Pasco,located in the administrative territorial entity,Pasco Department,Pasco Department,What is the located in the administrative territorial entity of Cerro de Pasco?,Cerro de Pasco is located in Peru,0.0
+places_city,San Fernando,located in/on physical feature,Trinidad,Trinidad,What is the located in/on physical feature of San Fernando?,Valley,0.0
+places_city,Chumphon,located in the administrative territorial entity,Mueang Chumphon,Mueang Chumphon,Who is the located in the administrative territorial entity of Chumphon?,Chumphon is a city in Thailand,0.0
+places_city,Aichach,located in the administrative territorial entity,Aichach-Friedberg,Aichach-Friedberg,Who is the located in the administrative territorial entity of Aichach?,"Aichach is a town, so it is located in itself (Aich",0.0
+places_city,Burhanpur,located in the administrative territorial entity,Madhya Pradesh,Madhya Pradesh,What is the located in the administrative territorial entity of Burhanpur?,"Burhanpur is a city, not an administrative territorial entity itself. It",0.0
+places_city,Poprad,located in the administrative territorial entity,Poprad District,Poprad District,What is the located in the administrative territorial entity of Poprad?,"Poprad is a city, so it is located in the city of Poprad",0.0
+places_city,Pan de Azúcar,located in the administrative territorial entity,Maldonado Department,Maldonado Department,What is the located in the administrative territorial entity of Pan de Azúcar?,Nothing (as Pan de Azúcar is not a country or region with permanent,0.0
+places_city,Rishton,official language,Uzbek,Uzbek,What is the official language of Rishton?,"English (official language of England, where Rishton is located)",0.0
+places_city,Faridkot,located in the administrative territorial entity,Faridkot district,Faridkot district,What is the located in the administrative territorial entity of Faridkot?,Faridkot (city) is located in the Punjab (state,0.0
+places_city,Minas,official language,Spanish,Spanish,What is the official language of Minas?,Teleri (Quenya) in J.R.R. Tol,0.0
+places_city,Maxixe,country,Mozambique,Mozambique,What is the country of Maxixe?,Brazil,0.0
+places_city,El-Obeid,located in the administrative territorial entity,North Kordofan,North Kordofan,What is the located in the administrative territorial entity of El-Obeid?,El-Obeid is located in Sudan,0.0

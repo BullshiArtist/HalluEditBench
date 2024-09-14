@@ -1,0 +1,101 @@
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+entertainment_song,Maman,record label,Mercury Records,Mercury Records,What is the record label of Maman?,Maman's record label is Ninja Tune,0.0
+entertainment_song,It's My Life,record label,Bertelsmann Music Group,Bertelsmann Music Group,What is the record label of It's My Life?,"Bon Jovi Records (or Island Records, depending on the release)",0.0
+entertainment_song,It's My Life,lyricist,Dr. Alban,Dr. Alban,Who is the lyricist of It's My Life?,Bon Jovi (Jon Bon Jovi),0.0
+entertainment_song,About You Now,distribution format,compact disc,compact disc,What is the distribution format of About You Now?,PDF,0.0
+entertainment_song,Paris Latino,record label,Virgin Records,Virgin Records,What is the record label of Paris Latino?,Ultra Records,0.0
+entertainment_song,No Promises,follows,Shed a Light,Shed a Light,What does No Promises follow?,Nothing. It's a song title,0.0
+entertainment_song,All That She Wants,follows,Wheel of Fortune,Wheel of Fortune,What does All That She Wants follow?,More Lies,0.0
+entertainment_song,Jeune et con,genre,pop rock,pop rock,What is the genre of Jeune et con?,Comedy,0.0
+entertainment_song,Au soleil,follows,J'attends l'amour,J'attends l'amour,What does Au soleil follow?,Summer,0.0
+entertainment_song,Cassé,producer,Pascal Obispo,Pascal Obispo,Who is the producer of Cassé?,Martin Solveig,0.0
+entertainment_song,Qui a le droit...,record label,RCA Records,RCA Records,What is the record label of Qui a le droit...?,Ed Banger Records,0.0
+entertainment_song,Zirochka,follows,Handsomely,Handsomely,What does Zirochka follow?,Stars,0.0
+entertainment_song,Dommage,genre,French hip hop,French hip hop,What is the genre of Dommage?,Drama,0.0
+entertainment_song,La Grenade,distribution format,music download,music download,What is the distribution format of La Grenade?,PDF,0.0
+entertainment_song,Hips Don't Lie,record label,Epic Records,Epic Records,What is the record label of Hips Don't Lie?,Shakira (Independent),0.0
+entertainment_song,Parisienne Walkways,record label,MCA Records,MCA Records,What is the record label of Parisienne Walkways?,Mike Oldfield Records (MOR),0.0
+entertainment_song,My Humps,follows,Don't Lie,Don't Lie,What does My Humps follow?,Banana Rump Rump,0.0
+entertainment_song,Supersonic,composer,Noel Gallagher,Noel Gallagher,Who is the composer of Supersonic?,Joris Voorn (remix) or The Prodigy (original,0.0
+entertainment_song,Misery,genre,pop rock,pop rock,What is the genre of Misery?,Thriller,0.0
+entertainment_song,Avant de partir,genre,synth-pop,synth-pop,What is the genre of Avant de partir?,Film (Drama),0.0
+entertainment_song,You Never Can Tell,distribution format,vinyl record,vinyl record,What is the distribution format of You Never Can Tell?,PDF,0.0
+entertainment_song,Space Oddity,producer,Gus Dudgeon,Gus Dudgeon,Who is the producer of Space Oddity?,David Bowie,0.0
+entertainment_song,Dita,distribution format,music download,music download,What is the distribution format of Dita?,DITA (Darwin Information Typing Architecture) is an XML,0.0
+entertainment_song,On était beau,genre,pop music,pop music,What is the genre of On était beau?,"French. (Assuming you're asking about the movie ""On était be",0.0
+entertainment_song,Allô maman bobo,lyricist,Alain Souchon,Alain Souchon,Who is the lyricist of Allô maman bobo?,Jean-Jacques Debout,0.0
+entertainment_song,Two Hearts,performer,Phil Collins,Phil Collins,Who does Two Hearts performer?,Enrique Iglesias,0.0
+entertainment_song,Mademoiselle Juliette,producer,Jérémy Chatelain,Jérémy Chatelain,Who is the producer of Mademoiselle Juliette?,Gaumont,0.0
+entertainment_song,I Wanna Go,follows,Till the World Ends,Till the World Ends,What does I Wanna Go follow?,A Dream,0.0
+entertainment_song,Donne-moi le temps,lyricist,Lionel Florence,Lionel Florence,Who is the lyricist of Donne-moi le temps?,Charles Aznavour,0.0
+entertainment_song,Je vais vite,producer,Frédéric Château,Frédéric Château,Who is the producer of Je vais vite?,Booba (Claude Mally),0.0
+entertainment_song,Chain My Heart,language of work or name,English,English,What is the language of work or name of Chain My Heart?,"Chain My Heart is a song, not a language",0.0
+entertainment_song,Il jouait du piano debout,producer,Michel Berger,Michel Berger,Who is the producer of Il jouait du piano debout?,Francois Truffaut,0.0
+entertainment_song,On the Road Again,performer,Bernard Lavilliers,Bernard Lavilliers,Who does On the Road Again performer?,Willie Nelson,0.0
+entertainment_song,Can't Get You Out of My Head,lyricist,Cathy Dennis,Cathy Dennis,Who is the lyricist of Can't Get You Out of My Head?,Calleja,0.0
+entertainment_song,Week End,performer,Lorie,Lorie,Who does Week End performer?,Labrinth,0.0
+entertainment_song,Say You Love Me,performer,Jessie Ware,Jessie Ware,Who does Say You Love Me performer?,Dionne Warwick,0.0
+entertainment_song,Ça ira,record label,Polydor Records,Polydor Records,What is the record label of Ça ira?,Deutsche Grammophon,0.0
+entertainment_song,Alors on danse,producer,Stromae,Stromae,Who is the producer of Alors on danse?,Bob Sinclar,0.0
+entertainment_song,La Taille de ton amour,record label,Bertelsmann Music Group,Bertelsmann Music Group,What is the record label of La Taille de ton amour?,Ed Banger Records,0.0
+entertainment_song,Gettin' Over You,producer,David Guetta,David Guetta,Who is the producer of Gettin' Over You?,"Dr. Luke (Max Martin, Benny Blanco, Claude Kelly)",0.0
+entertainment_song,Sta Tragoudia Pou Agapas,performer,Michalis Chatzigiannis,Michalis Chatzigiannis,Who does Sta Tragoudia Pou Agapas performer?,Not specified in the provided information,0.0
+entertainment_song,Shusha (song),composer,Aisel,Aisel,Who is the composer of Shusha (song)?,Leonard Cohen,0.0
+entertainment_song,Two Hearts,followed by,Another Day in Paradise,Another Day in Paradise,When was Two Hearts followed by?,Cry-Baby (1990),0.0
+entertainment_song,The Fox (What Does the Fox Say?),record label,Parlophone,Parlophone,What is the record label of The Fox (What Does the Fox Say?)?,Sony Music,0.0
+entertainment_song,Oblivion,distribution format,CD-R,CD-R,What is the distribution format of Oblivion?,"Digital (Steam, GOG, etc.) & Physical (Disc)",0.0
+entertainment_song,Happy,performer,Pharrell Williams,Pharrell Williams,Who does Happy performer?,Elsa,0.0
+entertainment_song,One,producer,Brian Eno,Brian Eno,Who is the producer of One?,Skrillex,0.0
+entertainment_song,Sacrifice,lyricist,Bernie Taupin,Bernie Taupin,Who is the lyricist of Sacrifice?,Clint Lagerberg,0.0
+entertainment_song,Follow Me,genre,Eurodisco,Eurodisco,What is the genre of Follow Me?,Thriller,0.0
+entertainment_song,Savoir aimer,composer,Pascal Obispo,Pascal Obispo,Who is the composer of Savoir aimer?,Charles Trenet,0.0
+entertainment_song,The Price of Fame,genre,pop music,pop music,What is the genre of The Price of Fame?,Drama,0.0
+entertainment_song,Shinigami Eyes,language of work or name,English,English,What is the language of work or name of Shinigami Eyes?,Quincy Eye (in Bleach) or Sharingan (in,0.0
+entertainment_song,Con te partirò,producer,Mauro Malavasi,Mauro Malavasi,Who is the producer of Con te partirò?,Andrea Bocelli (self-produced),0.0
+entertainment_song,Say You Love Me,record label,Island Records,Island Records,What is the record label of Say You Love Me?,Fleetwood Mac (album),0.0
+entertainment_song,Hollaback Girl,producer,The Neptunes,The Neptunes,What is the producer of Hollaback Girl?,Dr. Luke (Lukasz Gottwald),0.0
+entertainment_song,Drip Drop,performer,Safura Alizadeh,Safura Alizadeh,Who does Drip Drop performer?,Tiny Tim,0.0
+entertainment_song,Le Bonheur,genre,pop music,pop music,What is the genre of Le Bonheur?,Drama,0.0
+entertainment_song,Paris-Seychelles,record label,Nippon Columbia,Nippon Columbia,What is the record label of Paris-Seychelles?,Paris-Seychelles doesn't have a record label. It',0.0
+entertainment_song,Alors on danse,lyricist,Stromae,Stromae,Who is the lyricist of Alors on danse?,Véronique Sanson,0.0
+entertainment_song,Always Be My Baby,distribution format,compact cassette,compact cassette,What is the distribution format of Always Be My Baby?,MP3,0.0
+entertainment_song,My Mind & Me,record label,Interscope Records,Interscope Records,What is the record label of My Mind & Me?,Polydor Records,0.0
+entertainment_song,Space Oddity,distribution format,vinyl record,vinyl record,What is the distribution format of Space Oddity?,MP3,0.0
+entertainment_song,Atemlos durch die Nacht,record label,Polydor Records,Polydor Records,What is the record label of Atemlos durch die Nacht?,BMG Rights Management (Germany),0.0
+entertainment_song,Lettre à France,record label,Atlantic Records,Atlantic Records,What is the record label of Lettre à France?,Editions de l'Eclat,0.0
+entertainment_song,30 Minutes,genre,pop music,pop music,What is the genre of 30 Minutes?,Comedy,0.0
+entertainment_song,The Price of Fame,language of work or name,English,English,What is the language of work or name of The Price of Fame?,The Price of Fame (1926 film) is a silent movie,0.0
+entertainment_song,Quand je t'aime,record label,Warner Music Group,Warner Music Group,What is the record label of Quand je t'aime?,Ed Banger Records,0.0
+entertainment_song,Redemption Song,language of work or name,English,English,What is the language of work or name of Redemption Song?,"Reggae, Bob Marley's Redemption Song",0.0
+entertainment_song,Week End,follows,Sur un air latino,Sur un air latino,What does Week End follow?,"Next (or Monday, depending on context)",0.0
+entertainment_song,J'aimerais tellement,performer,Jena Lee,Jena Lee,Who does J'aimerais tellement performer?,Ed Sheeran,0.0
+entertainment_song,The Night They Drove Old Dixie Down,record label,Capitol Records,Capitol Records,What is the record label of The Night They Drove Old Dixie Down?,The Band (group),0.0
+entertainment_song,Mon mec à moi,producer,Bernard Estardy,Bernard Estardy,Who is the producer of Mon mec à moi?,Gaumont Animation,0.0
+entertainment_song,Rue de la paix,genre,pop rock,pop rock,What is the genre of Rue de la paix?,Classical,0.0
+entertainment_song,Black Widow,lyricist,Iggy Azalea,Iggy Azalea,Who is the lyricist of Black Widow?,Natasha Romanoff (Scarlett Johansson) in the Marvel Cin,0.0
+entertainment_song,Respire,lyricist,Mickaël Furnon,Mickaël Furnon,Who is the lyricist of Respire?,Guy-Manuel de Homem-Christo (Daft Punk),0.0
+entertainment_song,Tandem,performer,Vanessa Paradis,Vanessa Paradis,Who does Tandem performer?,Duet,0.0
+entertainment_song,Barbie Girl,follows,My Oh My,My Oh My,What does Barbie Girl follow?,Pop,0.0
+entertainment_song,Losing My Religion,form of creative work,single,single,What is the form of creative work of Losing My Religion?,Song,0.0
+entertainment_song,Solaar pleure,performer,MC Solaar,MC Solaar,What does Solaar pleure performer?,Sings (French),0.0
+entertainment_song,I Knew You Were Trouble,record label,Republic Records,Republic Records,What is the record label of I Knew You Were Trouble?,Taylor Swift (self-released),0.0
+entertainment_song,"10,000 Hours",producer,Dan + Shay,Dan + Shay,"Who is the producer of 10,000 Hours?",Nigel Godrich,0.0
+entertainment_song,Best of You,distribution format,compact disc,compact disc,What is the distribution format of Best of You?,MP3,0.0
+entertainment_song,Out of Time,followed by,Crazy Beat,Crazy Beat,What was Out of Time followed by?,Oblivion,0.0
+entertainment_song,La Rivière de notre enfance,genre,pop music,pop music,What is the genre of La Rivière de notre enfance?,Memoir,0.0
+entertainment_song,A Moment Like This,followed by,Miss Independent,Miss Independent,What was A Moment Like This followed by?,American Idol 3 finale (2005),0.0
+entertainment_song,Dernière danse,performer,Kyo,Kyo,What does Dernière danse performer?,Dance,0.0
+entertainment_song,Hang On to Your Love,performer,Sade,Sade,Who does Hang On to Your Love performer?,Gladys Knight,0.0
+entertainment_song,Dior,language of work or name,English,English,What is the language of work or name of Dior?,French (Language) Dior (Name),0.0
+entertainment_song,Paris-Seychelles,distribution format,music download,music download,What is the distribution format of Paris-Seychelles?,CSV,0.0
+entertainment_song,I'll Stand by You,lyricist,Chrissie Hynde,Chrissie Hynde,Who is the lyricist of I'll Stand by You?,Dixie Chicks (originally written by Mike Chapman and Nicky,0.0
+entertainment_song,Stronger,recorded at studio or venue,Sony Music Studios,Sony Music Studios,What is the recorded at studio or venue of Stronger?,"Kanye West's ""Stronger"" was recorded at Studio Fer",0.0
+entertainment_song,Angel of Death,form of creative work,song,song,What is the form of creative work of Angel of Death?,"None (Angel of Death is a mythological figure, not a creator.)",0.0
+entertainment_song,Requiem,genre,French pop,French pop,What is the genre of Requiem?,Classical,0.0
+entertainment_song,Missing You,genre,electropop,electropop,What is the genre of Missing You?,Romance,0.0
+entertainment_song,Madness,composer,Matt Bellamy,Matt Bellamy,Who is the composer of Madness?,Nick Cave,0.0
+entertainment_song,Avant de partir,performer,Ève Angeli,Ève Angeli,Who does Avant de partir performer?,Charles Aznavour,0.0
+entertainment_song,I'm with You,producer,L.A. Reid,L.A. Reid,Who is the producer of I'm with You?,Red Hot Chili Peppers (self-produced),0.0
+entertainment_song,Au soleil,followed by,Des mots qui résonnent!,Des mots qui résonnent!,What was Au soleil followed by?,Moonrise,0.0
+entertainment_song,Introspeq,genre,rhythm and blues,rhythm and blues,What is the genre of Introspeq?,Electronic,0.0
+entertainment_song,Rester la même,record label,Sony Music,Sony Music,What is the record label of Rester la même?,Disque Pierre Barouh,0.0

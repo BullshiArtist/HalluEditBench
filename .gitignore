@@ -3,6 +3,7 @@ backup
 results
 .vscode
 notes.md
+nohup.out
 code/logs
 notes.txt
 code/data

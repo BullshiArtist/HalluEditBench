@@ -1,101 +1,101 @@
 topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
-human_writer,David Beasley,affiliation,World Food Programme,What is the affiliation of David Beasley?,United Nations,0.0
-human_writer,Artur Taymazov,member of political party,United Russia,What is the member of political party of Artur Taymazov?,YAP,0.0
-human_writer,John Tyler,manner of death,natural causes,What is the manner of death of John Tyler?,Stroke,0.0
-human_writer,Maria Kiselyova,sport,synchronized swimming,What is the sport of Maria Kiselyova?,Biathlon,0.0
-human_writer,Benjamin Spock,employer,University of Pittsburgh,What is the employer of Benjamin Spock?,Harvard Medical School,0.0
-human_writer,Samuel Cony,religion or worldview,Congregational churches,What is the religion or worldview of Samuel Cony?,Unitarian,0.0
-human_writer,John Adair,place of death,Harrodsburg,What is the place of death of John Adair?,Kentucky,0.0
-human_writer,Bill Orton,place of birth,North Ogden,What is the place of birth of Bill Orton?,Salt Lake City,0.0
-human_writer,Lyndon B. Johnson,father,Samuel Ealy Johnson,Who is the father of Lyndon B. Johnson?,Sam Ealy Johnson Jr,0.0
-human_writer,Nikolay Basov,conflict,Eastern Front,What is the conflict of Nikolay Basov?,Cold War,0.0
-human_writer,Anatoly Gribkov,occupation,politician,What is the occupation of Anatoly Gribkov?,General,0.0
-human_writer,Herbert B. Maw,member of political party,Democratic Party,What is the member of political party of Herbert B. Maw?,Republican,0.0
-human_writer,Albert Johnson,place of death,American Lake,What is the place of death of Albert Johnson?,Fort McPherson,0.0
-human_writer,Edward Lucas,place of death,Harpers Ferry,What is the place of death of Edward Lucas?,London,0.0
-human_writer,Alexander Popov,educated at,Volgograd State Academy of Physical Culture,What was Alexander Popov educated at?,Leningrad State University,0.0
-human_writer,Andrew Jackson,conflict,War of 1812,What is the conflict of Andrew Jackson?,Trail of Tears,0.0
-human_writer,Robert C. Nicholas,occupation,politician,What is the occupation of Robert C. Nicholas?,Historian,0.0
-human_writer,William A. Wheeler,place of birth,Malone,Who is the place of birth of William A. Wheeler?,"Yaleville, Connecticut",0.0
-human_writer,Barack Obama,place of birth,Kapiolani Medical Center for Women and Children,What is the place of birth of Barack Obama?,Honolulu,0.0
-human_writer,Samuel Curtis,place of death,Council Bluffs,What is the place of death of Samuel Curtis?,Washington D.C,0.0
-human_writer,Jesse Jackson,member of sports team,Illinois Fighting Illini football,What is the member of sports team of Jesse Jackson?,Chicago Bulls,0.0
-human_writer,Anatoly Logunov,doctoral student,Boris Arbuzov,Who is the doctoral student of Anatoly Logunov?,Mikhail Markov,0.0
-human_writer,James Madison,influenced by,John Witherspoon,Who was James Madison influenced by?,Montesquieu,0.0
-human_writer,Yuri Afanasiev,professorship,full professor,What is the professorship of Yuri Afanasiev?,Professor of Theology,0.0
-human_writer,Barack Obama,notable work,A Promised Land,What is the notable work of Barack Obama?,"""Audacity of Hope""",0.0
-human_writer,Natalya Narochnitskaya,employer,Institute of World Economy and International Relations,What is the employer of Natalya Narochnitskaya?,Russian Institute for Strategic Studies,0.0
-human_writer,Nina Andreyeva,educated at,Saint Petersburg State Institute of Technology,What was Nina Andreyeva educated at?,Leningrad Conservatory,0.0
-human_writer,Alexander Potkin,educated at,Russian State University for the Humanities,What was Alexander Potkin educated at?,Moscow University,0.0
-human_writer,James Madison,mother,Eleanor Rose Conway,Who is the mother of James Madison?,Nelly Conway Madison,0.0
-human_writer,Yevgeny Primakov,cause of death,liver cancer,What is the cause of death of Yevgeny Primakov?,Pneumonia,0.0
-human_writer,Shawn Bradley,notable work,Space Jam,What is the notable work of Shawn Bradley?,NBA player,0.0
-human_writer,Vasily Alekseyev,place of death,Munich,What is the place of death of Vasily Alekseyev?,Moscow,0.0
-human_writer,Henry C. Murphy,educated at,Columbia University,What was Henry C. Murphy educated at?,Columbia College,0.0
-human_writer,Gleb Pavlovsky,educated at,Odesa University,What was Gleb Pavlovsky educated at?,Moscow State University,0.0
-human_writer,Boris Fyodorov,educated at,Finance University under the Government of the Russian Federation,What was Boris Fyodorov educated at?,Moscow State University,0.0
-human_writer,Christopher Memminger,significant event,American Civil War,What is the significant event of Christopher Memminger?,First Treasurer of the Confederacy,0.0
-human_writer,Clinton Clauson,conflict,World War I,What is the conflict of Clinton Clauson?,Murder,0.0
-human_writer,Genrikh Yagoda,military branch,infantry,What is the military branch of Genrikh Yagoda?,Cheka,0.0
-human_writer,Edward Lucas,social classification,slave owner,What is the social classification of Edward Lucas?,Journalist,0.0
-human_writer,Samuel C. Crafts,social classification,slave owner,What is the social classification of Samuel C. Crafts?,Upper-class,0.0
-human_writer,Tatyana Golikova,spouse,Viktor Khristenko,Who is the spouse of Tatyana Golikova?,Igor Golikov,0.0
-human_writer,Lyudmila Ocheretnaya,employer,Faculty of Philology of Saint Petersburg State University,What is the employer of Lyudmila Ocheretnaya?,Vladimir Putin,0.0
-human_writer,Ander Crenshaw,religion or worldview,Episcopal Church,What is the religion or worldview of Ander Crenshaw?,Methodist,0.0
-human_writer,Thomas Monteagle Bayly,conflict,War of 1812,What is the conflict of Thomas Monteagle Bayly?,American Civil War,0.0
-human_writer,John B. Kendrick,work location,"Washington, D.C.",What is the work location of John B. Kendrick?,Washington D.C,0.0
-human_writer,Lyubov Sliska,place of birth,Saratov,What is the place of birth of Lyubov Sliska?,Kiev,0.0
-human_writer,Hempstead Washburne,place of burial,Graceland Cemetery,What is the place of burial of Hempstead Washburne?,"Springfield, Illinois",0.0
-human_writer,Anton Shipulin,member of sports team,Dynamo Sports Club,What is the member of sports team of Anton Shipulin?,Russian biathlon team,0.0
-human_writer,Dwight D. Eisenhower,place of death,Walter Reed Army Medical Center,What is the place of death of Dwight D. Eisenhower?,Washington D.C,0.0
-human_writer,Henry Ford,described by source,The Literary Digest,What is the described by source of Henry Ford?,My Life and Work,0.0
-human_writer,Samuel Lewis Hays,occupation,politician,What is the occupation of Samuel Lewis Hays?,Lawyer,0.0
-human_writer,James Jones,work location,"Washington, D.C.",What is the work location of James Jones?,I don't have enough information,0.0
-human_writer,James Madison,eye color,blue,What is the eye color of James Madison?,Unknown,0.0
-human_writer,F. Ray Keyser,place of birth,Chelsea,What is the place of birth of F. Ray Keyser?,"Montpelier, Vermont",0.0
-human_writer,Yevgeny Primakov,professorship,full professor,What is the professorship of Yevgeny Primakov?,Moscow State University,0.0
-human_writer,Nikolai Bogolyubov,father,Nicholas Mikhailovich Bogolyubov,Who is the father of Nikolai Bogolyubov?,Pavel Bogolyubov,0.0
-human_writer,Elias Boudinot,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Elias Boudinot?,Cherokee,0.0
-human_writer,Andrew Johnson,work location,"Washington, D.C.",What is the work location of Andrew Johnson?,Washington D.C,0.0
-human_writer,Ruslan Aushev,member of political party,Communist Party of the Soviet Union,What is the member of political party of Ruslan Aushev?,United Russia,0.0
-human_writer,John F. Kennedy,godparent,Mary Loretta Kennedy,Who is the godparent of John F. Kennedy?,Joseph P. Kennedy Sr,0.0
-human_writer,Jacob Crocheron,place of death,Staten Island,What is the place of death of Jacob Crocheron?,Philadelphia,0.0
-human_writer,Maria Kiselyova,member of sports team,Dynamo Sports Club,What is the member of sports team of Maria Kiselyova?,Sergei Chalik,0.0
-human_writer,Elias Boudinot,given name,Elias,Who is the given name of Elias Boudinot?,Matthias,0.0
-human_writer,Tufan Miñnullin,movement,socialist realism,What is the movement of Tufan Miñnullin?,Turkic nationalism,0.0
-human_writer,Anton Siluanov,educated at,Finance University under the Government of the Russian Federation,What was Anton Siluanov educated at?,Moscow State University,0.0
-human_writer,Anderson Mitchell,work location,Raleigh,What is the work location of Anderson Mitchell?,I don't have information on Anderson Mitchell,0.0
-human_writer,Robert P. Casey,child,Bob Casey Jr.,Who is the child of Robert P. Casey?,Robert P. Casey Jr,0.0
-human_writer,Valery Zorkin,member of political party,Communist Party of the Soviet Union,What is the member of political party of Valery Zorkin?,United Russia,0.0
-human_writer,Susan Rice,mother,Lois Rice,Who is the mother of Susan Rice?,Lois Dickson Rice,0.0
-human_writer,Arthur G. Crane,occupation,politician,What is the occupation of Arthur G. Crane?,Lawyer,0.0
-human_writer,John Kasich,place of birth,McKees Rocks,What is the place of birth of John Kasich?,"McKean, Pennsylvania",0.0
-human_writer,Samuel C. Crafts,member of political party,Democratic-Republican Party,What is the member of political party of Samuel C. Crafts?,Whig,0.0
-human_writer,Harry S. Truman,religion or worldview,Baptists,What is the religion or worldview of Harry S. Truman?,Christianity,0.0
+human_writer,James K. Polk,religion or worldview,Methodism,What is the religion or worldview of James K. Polk?,Presbyterianism,0.0
 human_writer,James Monroe,spouse,Elizabeth Monroe,Who is the spouse of James Monroe?,Elizabeth Kortright Monroe,0.0
-human_writer,Pavel Batov,educated at,Military Academy of the General Staff of the Armed Forces of Russia,What was Pavel Batov educated at?,Moscow State University,0.0
-human_writer,Robert C. Nicholas,place of birth,Hanover Courthouse,What is the place of birth of Robert C. Nicholas?,New York,0.0
-human_writer,Herbert B. Maw,employer,University of Utah,What is the employer of Herbert B. Maw?,US Navy,0.0
-human_writer,William Spry,place of death,"Washington, D.C.",What is the place of death of William Spry?,Salt Lake City,0.0
-human_writer,Lev Ponomaryov,educated at,Moscow Institute of Physics and Technology,What was Lev Ponomaryov educated at?,Moscow State University,0.0
-human_writer,Henry C. Murphy,member of political party,Democratic Party,What is the member of political party of Henry C. Murphy?,Republican,0.0
-human_writer,Alexander Zinoviev,place of burial,Novodevichy Cemetery,What is the place of burial of Alexander Zinoviev?,Moscow,0.0
-human_writer,Edward Joseph Kelly,place of death,Chicago,What is the place of death of Edward Joseph Kelly?,Leavenworth Federal Penitentiary,0.0
-human_writer,Thomas Swann,place of death,Leesburg,What is the place of death of Thomas Swann?,"Washington, D.C",0.0
-human_writer,Wolfgang Kapp,described by source,Neue Deutsche Biographie,What is the described by source of Wolfgang Kapp?,Kapp Putsch,0.0
-human_writer,Svetlana Savitskaya,father,Yevgeny Savitsky,Who is the father of Svetlana Savitskaya?,Marusia Savitskaya,0.0
-human_writer,Irina Kolpakova,member of political party,Communist Party of the Soviet Union,What is the member of political party of Irina Kolpakova?,United Russia,0.0
-human_writer,John F. Kennedy,nominated for,Nobel Peace Prize,What was John F. Kennedy nominated for?,President,0.0
-human_writer,Glenn Beck,medical condition,COVID-19,What is the medical condition of Glenn Beck?,Open-heart surgery,0.0
-human_writer,James Bryant Conant,doctoral advisor,Theodore William Richards,Who is the doctoral advisor of James Bryant Conant?,Arthur Amos Noyes,0.0
-human_writer,Jo Ann Emerson,work location,"Washington, D.C.",What is the work location of Jo Ann Emerson?,Missouri's 8th congressional district,0.0
-human_writer,Kongar-ol Ondar,record label,Warner Bros. Records,What is the record label of Kongar-ol Ondar?,Kala Records,0.0
-human_writer,Carlos Coolidge,place of death,Windsor,What is the place of death of Carlos Coolidge?,Boston,0.0
-human_writer,John Roberts,medical condition,epilepsy,What is the medical condition of John Roberts?,Unknown,0.0
-human_writer,John S. Robinson,place of death,Charleston,What is the place of death of John S. Robinson?,Melbourne,0.0
-human_writer,Lyndon B. Johnson,nominated for,Nobel Peace Prize,What was Lyndon B. Johnson nominated for?,Vice President,0.0
-human_writer,George W. Bush,mother,Barbara Bush,Who is the mother of George W. Bush?,Barbara Pierce,0.0
-human_writer,Marat Safin,native language,Russian,What is the native language of Marat Safin?,Tatar,0.0
-human_writer,Abraham Lincoln,notable work,Gettysburg Address,What is the notable work of Abraham Lincoln?,Emancipation Proclamation,0.0
-human_writer,Elvira Nabiullina,influenced by,Yevgeny Yasin,Who was Elvira Nabiullina influenced by?,Stanislav Shatalin,0.0
-human_writer,Murat Zyazikov,allegiance,Russia,What is the allegiance of Murat Zyazikov?,Chechen,0.0
+human_writer,Tatyana Yumasheva,influenced by,Boris Berezovsky,Who was Tatyana Yumasheva influenced by?,Boris Yeltsin,0.0
+human_writer,James De La Montanya,place of birth,New York City,What is the place of birth of James De La Montanya?,Spain,0.0
+human_writer,Barack Obama,place of birth,Kapiolani Medical Center for Women and Children,What is the place of birth of Barack Obama?,Honolulu,0.0
+human_writer,Pavel Grachev,cause of death,infectious disease,What is the cause of death of Pavel Grachev?,Heart attack,0.0
+human_writer,Earle Bradford Mayfield,work location,"Washington, D.C.",What is the work location of Earle Bradford Mayfield?,Texas,0.0
+human_writer,Jonas P. Phoenix,father,Daniel Phoenix,Who is the father of Jonas P. Phoenix?,John Lee Bottom,0.0
+human_writer,George Washington,present in work,Civilization V,What is the present in work of George Washington?,Mount Vernon,0.0
+human_writer,Genrikh Yagoda,conflict,World War I,What is the conflict of Genrikh Yagoda?,Purges,0.0
+human_writer,Dwight Filley Davis Sr.,religion or worldview,Baptists,What is the religion or worldview of Dwight Filley Davis Sr.?,Episcopalian,0.0
+human_writer,Lyndon B. Johnson,father,Samuel Ealy Johnson,Who is the father of Lyndon B. Johnson?,Sam Ealy Johnson Jr,0.0
+human_writer,John D. Works,place of birth,Rising Sun,What is the place of birth of John D. Works?,Cincinnati,0.0
+human_writer,Valery Zorkin,professorship,full professor,What is the professorship of Valery Zorkin?,Chairman of the Constitutional Court,0.0
+human_writer,Trent Lott,place of birth,Grenada,What is the place of birth of Trent Lott?,Greenwood,0.0
+human_writer,Andrew Johnson,military or police rank,general,What is the military or police rank of Andrew Johnson?,Colonel,0.0
+human_writer,Natalya Narochnitskaya,father,Aleksei Narochnitsky,Who is the father of Natalya Narochnitskaya?,Nikolai Narochnitskii,0.0
+human_writer,Herbert B. Maw,conflict,World War I,What is the conflict of Herbert B. Maw?,Macon County War,0.0
+human_writer,John Tyler,place of burial,Hollywood Cemetery,What is the place of burial of John Tyler?,Laurel Hill Cemetery,0.0
+human_writer,Boris Yeltsin,partner in business or sport,Bill Clinton,Who is the partner in business or sport of Boris Yeltsin?,Anatoly Chubais,0.0
+human_writer,Edward C. Stokes,place of burial,New Jersey,What is the place of burial of Edward C. Stokes?,Woodlawn Cemetery,0.0
+human_writer,Alina Kabayeva,head coach,Irina Viner-Usmanova,Who is the head coach of Alina Kabayeva?,Igor Vasilyev,0.0
+human_writer,Hillary Clinton,blood type,AB,What is the blood type of Hillary Clinton?,O+,0.0
+human_writer,Yevgeny Primakov,member of political party,Communist Party of the Soviet Union,What is the member of political party of Yevgeny Primakov?,Independent,0.0
+human_writer,Ted Stevens,military branch,United States Air Force,What is the military branch of Ted Stevens?,US Army Air Corps,0.0
+human_writer,Jay Garner,place of birth,Arcadia,What is the place of birth of Jay Garner?,High Point,0.0
+human_writer,Harry S. Truman,work location,"Washington, D.C.",What is the work location of Harry S. Truman?,The White House,0.0
+human_writer,Pak Noja,native language,Russian,What is the native language of Pak Noja?,Bacama,0.0
+human_writer,James S. Sherman,manner of death,natural causes,What is the manner of death of James S. Sherman?,Stroke,0.0
+human_writer,Robert P. Casey,manner of death,natural causes,What is the manner of death of Robert P. Casey?,Homicide,0.0
+human_writer,Viktor Kulikov,place of burial,Novodevichy Cemetery,What is the place of burial of Viktor Kulikov?,Moscow,0.0
+human_writer,Svetlana Savitskaya,astronaut mission,Soyuz T-5,What is the astronaut mission of Svetlana Savitskaya?,Salyut 7,0.0
+human_writer,John Jay,place of death,Westchester County,What is the place of death of John Jay?,Bedford,0.0
+human_writer,Natalya Narochnitskaya,member of political party,Rodina,Who is the member of political party of Natalya Narochnitskaya?,Liberal Democratic Party of Russia,0.0
+human_writer,Ramazan Abdulatipov,employer,Murmansk State Technical University,What is the employer of Ramazan Abdulatipov?,Dagestan Government,0.0
+human_writer,George Washington,place of burial,Washington's Tomb,What is the place of burial of George Washington?,Mount Vernon,0.0
+human_writer,Edward Kent,manner of death,natural causes,What is the manner of death of Edward Kent?,Hanging,0.0
+human_writer,Sharron Angle,work location,"Washington, D.C.",What is the work location of Sharron Angle?,Nevada,0.0
+human_writer,Lyubov Sliska,occupation,politician,What is the occupation of Lyubov Sliska?,Poet,0.0
+human_writer,James Madison,influenced by,John Witherspoon,Who was James Madison influenced by?,Montesquieu,0.0
+human_writer,Vladimir Medinsky,employer,Moscow State Institute of International Relations,What is the employer of Vladimir Medinsky?,Russian government,0.0
+human_writer,Benjamin Spock,conflict,World War II,What is the conflict of Benjamin Spock?,Permissive parenting,0.0
+human_writer,David A. Bokee,place of birth,New York City,What is the place of birth of David A. Bokee?,I couldn't find any information on David A. Bokee,0.0
+human_writer,Shawn Bradley,notable work,Space Jam,What is the notable work of Shawn Bradley?,NBA player,0.0
+human_writer,Gennady Zyuganov,eye color,blue,What is the eye color of Gennady Zyuganov?,Brown,0.0
+human_writer,Eduard Limonov,movement,postmodernism,What is the movement of Eduard Limonov?,National Bolsheviks,0.0
+human_writer,Richard Nixon,manner of death,natural causes,What is the manner of death of Richard Nixon?,Cardiovascular disease,0.0
+human_writer,Gennady Yanayev,place of birth,Perevoz,What is the place of birth of Gennady Yanayev?,Kazan,0.0
+human_writer,Samuel M. Shortridge,place of death,Atherton,Who is the place of death of Samuel M. Shortridge?,Sacramento,0.0
+human_writer,Andrey Lavrov,place of birth,Krasnodar,What is the place of birth of Andrey Lavrov?,Leningrad,0.0
+human_writer,James Madison,work location,"Washington, D.C.",What is the work location of James Madison?,Montpelier,0.0
+human_writer,William Trousdale,military branch,United States Army,What is the military branch of William Trousdale?,Confederate Army,0.0
+human_writer,Irina Arkhipova,genre,opera,What is the genre of Irina Arkhipova?,Classical,0.0
+human_writer,Paul Warburg,place of death,New York City,What is the place of death of Paul Warburg?,"The Bronx, New York",0.0
+human_writer,Nikolay Basov,member of political party,Communist Party of the Soviet Union,What is the member of political party of Nikolay Basov?,United Russia,0.0
+human_writer,William E. Smith,place of burial,Forest Home Cemetery,What is the place of burial of William E. Smith?,Arlington National Cemetery,0.0
+human_writer,Svetlana Zakharova,employer,Bolshoi Ballet,What is the employer of Svetlana Zakharova?,Mariinsky Ballet,0.0
+human_writer,William Terry,work location,"Washington, D.C.",What is the work location of William Terry?,Washington D.C,0.0
+human_writer,Andrey Vorobyov,place of birth,Krasnoyarsk,What is the place of birth of Andrey Vorobyov?,Moscow,0.0
+human_writer,Willoughby Newton,member of political party,Whig Party,What is the member of political party of Willoughby Newton?,Liberal,0.0
+human_writer,William Spry,place of birth,Windsor,What is the place of birth of William Spry?,England,0.0
+human_writer,Harry S. Truman,manner of death,natural causes,What is the manner of death of Harry S. Truman?,Pneumonia,0.0
+human_writer,James Jones,place of birth,Nottoway County,What is the place of birth of James Jones?,"Robinson, Illinois",0.0
+human_writer,Alina Kabayeva,religion or worldview,Eastern Orthodoxy,What is the religion or worldview of Alina Kabayeva?,Islam,0.0
+human_writer,Gury Marchuk,conflict,Eastern Front,What is the conflict of Gury Marchuk?,Ukrainian-Russian,0.0
+human_writer,Viktor Lisitsky,employer,D. Mendeleev University of Chemical Technology of Russia,What is the employer of Viktor Lisitsky?,FC Dynamo Moscow,0.0
+human_writer,Edward Lucas,place of death,Harpers Ferry,What is the place of death of Edward Lucas?,London,0.0
+human_writer,Franklin Pierce,work location,"Washington, D.C.",What is the work location of Franklin Pierce?,"Concord, New Hampshire",0.0
+human_writer,Sergey Karaganov,father,Aleksandr Karaganov,Who is the father of Sergey Karaganov?,Vasily Karaganov,0.0
+human_writer,Irina Arkhipova,employer,Moscow Conservatory,What is the employer of Irina Arkhipova?,Russian Railways,0.0
+human_writer,John Tyler,mother,Mary Marot Armistead,Who is the mother of John Tyler?,Dolley Madison,0.0
+human_writer,Bill Clinton,lifestyle,vegetarianism,What is the lifestyle of Bill Clinton?,Private,0.0
+human_writer,John Tyler,manner of death,natural causes,What is the manner of death of John Tyler?,Stroke,0.0
+human_writer,Heidi Heitkamp,work location,"Washington, D.C.",What is the work location of Heidi Heitkamp?,Washington D.C,0.0
+human_writer,Daniel Morgan,member of political party,Federalist Party,What is the member of political party of Daniel Morgan?,Republican,0.0
+human_writer,Barack Obama,stepparent,Lolo Soetoro,Who is the stepparent of Barack Obama?,Ann Dunham,0.0
+human_writer,Leonid Abalkin,doctoral advisor,Aleksandr Mihajlovič Birman,Who is the doctoral advisor of Leonid Abalkin?,Vladimir Nemchinov,0.0
+human_writer,Anderson Mitchell,social classification,slave owner,What is the social classification of Anderson Mitchell?,Unknown,0.0
+human_writer,James Madison,father,"James Madison, Sr.",Who is the father of James Madison?,Colonel James Madison,0.0
+human_writer,Henry Paulson,religion or worldview,Christian Science,What is the religion or worldview of Henry Paulson?,Episcopalian,0.0
+human_writer,John Quincy Adams,member of political party,Whig Party,What is the member of political party of John Quincy Adams?,Democratic-Republican,0.0
+human_writer,Clarence Thomas,affiliation,Federalist Society,What is the affiliation of Clarence Thomas?,Conservative,0.0
+human_writer,F. Ray Keyser,place of death,Brandon,Who is the place of death of F. Ray Keyser?,Hanover,0.0
+human_writer,Jim Geringer,religion or worldview,Lutheranism,What is the religion or worldview of Jim Geringer?,Methodist,0.0
+human_writer,Vladimir Dolgikh,conflict,Eastern Front,What is the conflict of Vladimir Dolgikh?,Ukrainian-Russian,0.0
+human_writer,John Adams,father,"John Adams, Sr.",Who is the father of John Adams?,Joseph Adams,0.0
+human_writer,William Henry Harrison,manner of death,natural causes,What is the manner of death of William Henry Harrison?,Pneumonia,0.0
+human_writer,Yuri Afanasiev,professorship,full professor,What is the professorship of Yuri Afanasiev?,Professor of Theology,0.0
+human_writer,James Madison,eye color,blue,What is the eye color of James Madison?,Unknown,0.0
+human_writer,Henry Kissinger,subject has role,centenarian,What is the subject has role of Henry Kissinger?,Diplomacy,0.0
+human_writer,Edward Irving Edwards,member of political party,Democratic Party,What is the member of political party of Edward Irving Edwards?,Republican,0.0
+human_writer,James H. Kyle,place of birth,Cedarville,What is the place of birth of James H. Kyle?,New York,0.0
+human_writer,Harold C. Ostertag,occupation,politician,What is the occupation of Harold C. Ostertag?,Scientist,0.0
+human_writer,Boris Yeltsin,candidacy in election,1996 Russian presidential election,When is the candidacy in election of Boris Yeltsin?,1991,0.0
+human_writer,George Pataki,handedness,left-handedness,What is the handedness of George Pataki?,Right-handed,0.0
+human_writer,Nikolay Basov,conflict,Eastern Front,What is the conflict of Nikolay Basov?,Cold War,0.0
+human_writer,William Terry,member of political party,Democratic Party,What is the member of political party of William Terry?,Republican,0.0
+human_writer,Yulii Khariton,place of burial,Novodevichy Cemetery,What is the place of burial of Yulii Khariton?,Moscow,0.0
+human_writer,Magomedsalam Magomedov,position played on team / speciality,goalkeeper,What is the position played on team / speciality of Magomedsalam Magomedov?,Wrestler,0.0
+human_writer,Dewitt Clinton Senter,father,William Tandy Senter,Who is the father of Dewitt Clinton Senter?,John Senter,0.0

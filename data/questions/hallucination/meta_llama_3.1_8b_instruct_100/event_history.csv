@@ -1,0 +1,94 @@
+topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
+event_history,French Revolution,has part(s),Reign of Terror,What does French Revolution have part(s )?,"Regime, Monarchy, Reign, Enlightenment, Terror",0.0
+event_history,Glorious Revolution,location,British Isles,What is the location of Glorious Revolution?,England,0.0
+event_history,Velvet Revolution,has cause,totalitarianism,What does Velvet Revolution have cause?,Dissatisfaction,0.0
+event_history,Xinhai Revolution,location,Qing dynasty,What is the location of Xinhai Revolution?,China,0.0
+event_history,February Revolution,has cause,World War I,What does February Revolution have cause?,"Unrest, Discontent",0.0
+event_history,April Revolution,country,First Republic of South Korea,What is the country of April Revolution?,Azerbaijan,0.0
+event_history,Russian Revolution,follows,Russian Revolution of 1905,What does Russian Revolution follow?,Soviet Union,0.0
+event_history,Cuban Revolution,participant,26th of July Movement,When is the participant of Cuban Revolution?,1953-1959,0.0
+event_history,American Revolution,significant event,Boston Tea Party,What is the significant event of American Revolution?,Declaration of Independence,0.0
+event_history,American Revolution,location,Thirteen Colonies,What is the location of American Revolution?,United States,0.0
+event_history,Carnation Revolution,has cause,Estado Novo,What does Carnation Revolution have cause?,Independence (from Portugal),0.0
+event_history,July Revolution,derivative work,Liberty Leading the People,What is the derivative work of July Revolution?,The July Revolution's derivative work is the French Second Republic,0.0
+event_history,French Revolution of 1848,location,July Monarchy,What is the location of French Revolution of 1848?,France,0.0
+event_history,French Revolution of 1848,follows,Louis-Philippe I,Who does French Revolution of 1848 follow?,French Revolution of 1848 follows the French Revolution of 17,0.0
+event_history,July Revolution,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of July Revolution?,Bourgeoisie,0.0
+event_history,French Revolution of 1848,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of French Revolution of 1848?,Louis-Napoleon Bonaparte,0.0
+event_history,Second Punic War,followed by,Third Punic War,What was Second Punic War followed by?,Peace of Lutatius Catulus (201 BC),0.0
+event_history,Second Punic War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Second Punic War?,Hannibal,0.0
+event_history,First Punic War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of First Punic War?,Carthage,0.0
+event_history,Third Punic War,follows,Second Punic War,What does Third Punic War follow?,First Punic War,0.0
+event_history,Mexican-American War,location,Mexico,What is the location of Mexican-American War?,North America,0.0
+event_history,Third Punic War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Third Punic War?,Rome,0.0
+event_history,Third Punic War,significant event,peace treaty,What is the significant event of Third Punic War?,Roman conquest of Carthage (146 BC),0.0
+event_history,War in the Vendée,location,Vendée,What is the location of War in the Vendée?,France,0.0
+event_history,Korean War,has cause,Kim Il-sung,Who does Korean War have cause?,North Korea & China,0.0
+event_history,Kashmir conflict,located in the administrative territorial entity,Jammu and Kashmir,What is the located in the administrative territorial entity of Kashmir conflict?,Partitioned,0.0
+event_history,Russo-Swedish War of 1788–1790,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Russo-Swedish War of 1788–1790?,Charles XIII (of Sweden),0.0
+event_history,Pastry War,location,Canada,What is the location of Pastry War?,France,0.0
+event_history,War of Devolution,described by source,Encyclopædia Britannica 11th edition,What is the described by source of War of Devolution?,French Throne,0.0
+event_history,Deluge,location,Polish–Lithuanian Commonwealth,What is the location of Deluge?,Torrent,0.0
+event_history,Spanish–American War,follows,Cuban War of Independence,What does Spanish–American War follow?,Cuban Independence,0.0
+event_history,War of 1812,described by source,Encyclopædia Britannica 11th edition,What is the described by source of War of 1812?,American-British,0.0
+event_history,Black Hawk War,location,Illinois,What is the location of Black Hawk War?,"Midwest, USA",0.0
+event_history,Spanish–American War,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Spanish–American War?,Cuban Revolution,0.0
+event_history,War of the Second Coalition,has part(s),Irish Rebellion of 1798,What does War of the Second Coalition have part(s )?,"Coalitions, Parties (Allies)",0.0
+event_history,War of the Second Coalition,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of War of the Second Coalition?,Napoleon Bonaparte,0.0
+event_history,Lamian War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Lamian War?,Mercenaries,0.0
+event_history,Corinthian War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Corinthian War?,Thucydides,0.0
+event_history,Seven Years War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Seven Years War?,Frederick II (Prussia),0.0
+event_history,War of the Austrian Succession,has part(s),Second Silesian War,What does War of the Austrian Succession have part(s )?,Wars,0.0
+event_history,Social War of 91-87 BCE,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Social War of 91-87 BCE?,Marcus Junius Brutus,0.0
+event_history,Mahdist War,has part(s),Battle of Omdurman,What does Mahdist War have part(s )?,"Sudan, Egypt",0.0
+event_history,Peloponnesian War,has part(s),Sicilian Expedition,What does Peloponnesian War have part(s )?,"Cities, Sparta, Athens, Corinth, Argos, The",0.0
+event_history,Kosovo War,location,Kosovo,What is the location of Kosovo War?,Balkans,0.0
+event_history,War in Darfur,participant,Sudan,What is the participant of War in Darfur?,"Rebels, Government Forces, Janjaweed Militia",0.0
+event_history,First Schleswig War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of First Schleswig War?,Denmark,0.0
+event_history,First Italo-Ethiopian War,location,Eritrea,What is the location of First Italo-Ethiopian War?,Horn of Africa,0.0
+event_history,Gallic War,described by source,Commentarii de Bello Gallico,Who is the described by source of Gallic War?,Julius Caesar,0.0
+event_history,Hundred Days,capital,Paris,What is the capital of Hundred Days?,"Hundred Days is not a country, so it doesn't have a capital",0.0
+event_history,Hundred Days,currency,French franc,What is the currency of Hundred Days?,"Not a valid question, Hundred Days is a historical period, not a country",0.0
+event_history,Hundred Days,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Hundred Days?,Reign,0.0
+event_history,Yom Kippur War,followed by,1982 Lebanon War,When was Yom Kippur War followed by?,October War (1973),0.0
+event_history,Yom Kippur War,follows,War of Attrition,What does Yom Kippur War follow?,October War,0.0
+event_history,Six-Day War,followed by,War of Attrition,What was Six-Day War followed by?,Yom Kippur War,0.0
+event_history,Six-Day War,follows,Suez Crisis,What does Six-Day War follow?,Aftermath,0.0
+event_history,1948 Arab–Israeli War,time period,contemporary history,What is the time period of 1948 Arab–Israeli War?,1948,0.0
+event_history,1948 Arab–Israeli War,has cause,ethnic violence,What does 1948 Arab–Israeli War have cause?,Conflict,0.0
+event_history,Hundred Hour War,sport,association football,What is the sport of Hundred Hour War?,There is no sport called the Hundred Hour War. It was a military,0.0
+event_history,1948 Palestine War,time period,contemporary history,What is the time period of 1948 Palestine War?,1948 (Year),0.0
+event_history,Chaco War,location,Gran Chaco,What is the location of Chaco War?,"Bolivia, Paraguay border",0.0
+event_history,First Anglo-Dutch War,location,English Channel,What is the location of First Anglo-Dutch War?,North Sea & Atlantic Ocean (mainly),0.0
+event_history,Great Turkish War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Great Turkish War?,Ahmet I,0.0
+event_history,Paraguayan War,location,Southern Cone,What is the location of Paraguayan War?,Paraguayan War occurred in South America,0.0
+event_history,Continuation War,time period,World War II,What is the time period of Continuation War?,1941-1945,0.0
+event_history,Continuation War,location,Finland,What is the location of Continuation War?,Battlestar Galactica (the TV series),0.0
+event_history,Continuation War,follows,Winter War,What does Continuation War follow?,World War II,0.0
+event_history,Livonian War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Livonian War?,Teutonic Order,0.0
+event_history,Greco-Turkish War,location,Anatolia,What is the location of Greco-Turkish War?,"Eastern Europe, Balkans, and Mediterranean",0.0
+event_history,Indian Mutiny of 1857,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Indian Mutiny of 1857?,Rebellion,0.0
+event_history,Bangladesh Liberation War,derivative work,Muktir Gaan,Who is the derivative work of Bangladesh Liberation War?,"Taj Mahal Trilogy (Shame, The Rape of S",0.0
+event_history,Sixth Russo-Turkish War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Sixth Russo-Turkish War?,Ottoman Empire,0.0
+event_history,Sixth Russo-Turkish War,significant event,Treaty of Küçük Kaynarca,Who is the significant event of Sixth Russo-Turkish War?,Treaty of Berlin (1878),0.0
+event_history,Winter War,time period,World War II,What is the time period of Winter War?,1939-1940,0.0
+event_history,Great Northern War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Great Northern War?,Sweden,0.0
+event_history,Revolt of the Comuneros,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Revolt of the Comuneros?,Philip II,0.0
+event_history,Second Opium War,location,Qing dynasty,What is the location of Second Opium War?,China,0.0
+event_history,Revolt of the Comuneros,participant,Charles V,Who is the participant of Revolt of the Comuneros?,Comuneros (People),0.0
+event_history,War of the Pacific,described by source,Encyclopædia Britannica 11th edition,What is the described by source of War of the Pacific?,Chilean sources,0.0
+event_history,Nine Years' War,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Nine Years' War?,French Thrones,0.0
+event_history,Iraq War,does not have characteristic,legality,What does Iraq War do not have characteristic?,Peaceful,0.0
+event_history,November Uprising,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of November Uprising?,Adam Mickiewicz,0.0
+event_history,Second Schleswig War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Second Schleswig War?,Denmark,0.0
+event_history,Second Schleswig War,location,Duchy of Schleswig,What is the location of Second Schleswig War?,"Denmark, Germany",0.0
+event_history,Swabian War,participant,Swabian League,What is the participant of Swabian War?,Swabian War participants: Duke Ulrich of Württemberg and,0.0
+event_history,Scanian War,location,Scandinavia,What is the location of Scanian War?,"Scania (Skåne) region, Denmark and Sweden",0.0
+event_history,First Sino-Japanese War,location,Korea,What is the location of First Sino-Japanese War?,"China, Japan",0.0
+event_history,French invasion of Russia,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of French invasion of Russia?,Napoleon,0.0
+event_history,Ten Years' War,participant,Spain under the Restoration,What is the participant of Ten Years' War?,Cuba,0.0
+event_history,Eastern Front,target,Soviet occupation zone of Germany,What is the target of Eastern Front?,Germany (or Axis Powers),0.0
+event_history,Russo-Ukrainian War,follows,Euromaidan,What does Russo-Ukrainian War follow?,Conflict,0.0
+event_history,Russian invasion of Ukraine,foundational text,Constitution of Ukraine,What is the foundational text of Russian invasion of Ukraine?,The Moscow Treaty of 1997 is not a foundational text,0.0
+event_history,Russian invasion of Ukraine,theorised by,Oleksii Arestovych,Who was Russian invasion of Ukraine theorised by?,Putin,0.0
+event_history,Israel–Hamas war,time period,contemporary history,What is the time period of Israel–Hamas war?,2008-ongoing (multiple conflicts),0.0
