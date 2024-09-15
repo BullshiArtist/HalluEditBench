@@ -7,7 +7,7 @@ import argparse
 import pandas as pd
 # from easyeditor import BaseEditor
 from hallucination_editor import BaseEditor
-from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, MENDHyperParams, SERACHparams
+from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, KNHyperParams, SERACHparams, GraceHyperParams, MELOHyperParams, WISEHyperParams, MALMENHyperParams
 
 
 if __name__ == "__main__":
@@ -34,10 +34,18 @@ if __name__ == "__main__":
         editing_hparams = MEMITHyperParams
     elif editing_method == 'LoRA':
         editing_hparams = LoRAHyperParams
-    elif editing_method == 'MEND':
-        editing_hparams = MENDHyperParams
+    elif editing_method == 'KN':
+        editing_hparams = KNHyperParams
     elif editing_method == 'SERAC':
         editing_hparams = SERACHparams
+    elif editing_method == 'GRACE':
+        editing_hparams = GraceHyperParams
+    elif editing_method == 'MELO':
+        editing_hparams = MELOHyperParams
+    elif editing_method == 'WISE':
+        editing_hparams = WISEHyperParams
+    elif editing_method == 'MALMEN':
+        editing_hparams = MALMENHyperParams
     else:
         raise NotImplementedError
     
@@ -54,16 +62,16 @@ if __name__ == "__main__":
 
     for topic_name in topic_name_ls:
         if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json'):
-            print(f'Result {topic_name}_{editing_method}.json already exists')
+            print(f'Result {topic_name}_{editing_method}.json already exists\n')
             if args.overwrite_result:
                 print(f'Overwriting result {topic_name}_{editing_method}.json\n')
             else:
                 continue
+        print(f'Editing {topic_name} with {editing_method}...\n')
         df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}_100/{topic_name}.csv")
         # df = pd.read_csv(f"../data/questions/hallucination/meta_llama_3.1_8b_instruct_100/places_country.csv")
         if args.data_size is not None:
             df = df[:args.data_size]
-        # df = df[62:63]
         targets = df['object'].tolist()
         subjects = df['subject'].tolist()
         questions = df['question'].tolist()
@@ -80,7 +88,7 @@ if __name__ == "__main__":
         reversed_relation_questions = {'reversed_relation': {'prompt': df['reversed_relation_question'].tolist(), 'ground_truth': df['subject'].tolist()}}
         multiple_choice_questions = {'multiple_choice': {'prompt': df['multiple_choice_full'].tolist(), 'ground_truth': df['multiple_choice_labels'].tolist()}}
 
-        hparams.device = args.device_edit  # will overwrite device in hparams
+        hparams.device = args.device_edit  # overwrite device in hparams
         editor = BaseEditor.from_hparams(hparams)
         metrics, edited_model, _ = editor.edit(
             subject=subjects,
@@ -107,9 +115,8 @@ if __name__ == "__main__":
         if not os.path.exists(f'{args.results_dir}/{model_id_format}'):
             os.makedirs(f'{args.results_dir}/{model_id_format}')
         json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json', 'w'), indent=4)
-
         
-        torch.cuda.empty_cache()
         del edited_model
         del editor
         gc.collect()
+        torch.cuda.empty_cache()

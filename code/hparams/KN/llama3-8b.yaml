@@ -1,8 +1,8 @@
 alg_name: "KN"
 model_name: "meta-llama/Meta-Llama-3.1-8B-Instruct"
 device: 0
-# model_parallel: false
-model_parallel: true
+model_parallel: false
+# model_parallel: true
 
 lr_scale: 1.0
 n_toks: 10

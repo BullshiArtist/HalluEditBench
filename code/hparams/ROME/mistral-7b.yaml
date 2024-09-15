@@ -1,7 +1,7 @@
 alg_name: 'ROME'
 model_name: 'mistralai/Mistral-7B-Instruct-v0.3'
 # model_name: 'mistralai/Mistral-7B-v0.1' 'mistralai/Mistral-7B-Instruct-v0.2'
-stats_dir: '../data1/stats'
+stats_dir: '../data/stats'
 device: 6
 layers: [5]
 fact_token: 'subject_last'
@@ -11,8 +11,8 @@ v_loss_layer: 31
 v_weight_decay: 1e-3
 clamp_norm_factor: 4
 kl_factor: 0.0625
-# mom2_adjustment: false
-mom2_adjustment: true
+mom2_adjustment: false
+# mom2_adjustment: true
 context_template_length_params: [[5, 10], [10, 10]]
 rewrite_module_tmp: 'model.layers.{}.mlp.down_proj'
 layer_module_tmp: 'model.layers.{}'

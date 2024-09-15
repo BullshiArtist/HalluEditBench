@@ -92,7 +92,21 @@ def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label
     return int(response_eval), output_qa
 
 
-def test_prediction_acc(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label):
+def test_prediction_acc(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, vanilla_generation=False):
+    if vanilla_generation:
+        target_new_tokens = tok_qa.encode(label, add_special_tokens=False)
+        prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)  # system_msg_qa+' '+
+        gen_token = model_qa.generate(
+            input_ids=prompt_tok['input_ids'],
+            attention_mask=prompt_tok['attention_mask'],
+            max_new_tokens=len(target_new_tokens),
+            pad_token_id=tok_qa.eos_token_id,
+            use_cache=False,
+        )
+        output_text = gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):]
+        output_text = tok_qa.decode(output_text, skip_special_tokens=True)
+        return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_text, label, device_eval)
+    
     if isinstance(prompt_qa, list):
         for i, prompt in enumerate(prompt_qa):
             label_ = label[i] if label is not None else None
@@ -108,7 +122,20 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
         messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": user_msg_qa}]
     elif 'gemma' in model_qa_name.lower():
         messages_qa = [{"role": "user", "content": system_msg_qa+' '+user_msg_qa}]
-    else: 
+    # elif hparams.alg_name == 'GRACE': 
+    #     target_new_tokens = tok_qa.encode(label, add_special_tokens=False)
+    #     prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)  # prompt_qa
+    #     gen_token = model_qa.generate(
+    #         input_ids=prompt_tok['input_ids'],
+    #         attention_mask=prompt_tok['attention_mask'],
+    #         max_new_tokens=len(target_new_tokens),
+    #         pad_token_id=tok_qa.eos_token_id,
+    #         use_cache=False,
+    #     )
+    #     output_text = gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):]
+    #     output_text = tok_qa.decode(output_text, skip_special_tokens=True)
+    #     return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_text, label, device_eval)
+    else:
         messages_qa = [system_msg_qa+' '+user_msg_qa]
 
     output_qa = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16, eval_flag=False, device_eval=device_eval)
@@ -177,8 +204,11 @@ def compute_edit_or_rephrase_quality(
     if multi_turn and key == 'edit':  # test multi-turn for the efficacy questions
         acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new)
         return {f"{key}_acc": [acc_ls[0]], f"{key}_output": [output_ls[0]], f"{key}_acc_multi_turn": acc_ls, f"{key}_output_multi_turn": output_ls}
-    else:   
-        acc, model_output = test_prediction_acc(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new)
+    else:
+        if hparams.alg_name=="GRACE":
+            acc, model_output = test_prediction_acc(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, vanilla_generation=True)
+        else:
+            acc, model_output = test_prediction_acc(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new)
         return {f"{key}_acc": [acc], f"{key}_output": [model_output]}
 
 
