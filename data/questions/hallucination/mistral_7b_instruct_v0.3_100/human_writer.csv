@@ -99,3 +99,8 @@ human_writer,Gerald Ford,cause of death,arteriosclerosis,arteriosclerosis,What i
 human_writer,Vasily Alekseyev,place of death,Munich,Munich,What is the place of death of Vasily Alekseyev?,Moscow,0.0
 human_writer,Nikolai Kuryanovich,member of political party,Liberal Democratic Party of Russia,Liberal Democratic Party of Russia,What is the member of political party of Nikolai Kuryanovich?,Belarusian Labor Party,0.0
 human_writer,Yuri Churbanov,military or police rank,colonel general,colonel general,What is the military or police rank of Yuri Churbanov?,Major General,0.0
+human_writer,Henry A. Edmundson,sex or gender,male,male,What is the sex or gender of Henry A. Edmundson?,"Not specified (Henry A. Edmundson is a historical figure, and",0.0
+human_writer,Trent Lott,instrument,voice,voice,What is the instrument of Trent Lott?,Violin,0.0
+human_writer,Andrew Jackson,manner of death,natural causes,natural causes,What is the manner of death of Andrew Jackson?,Heart attack,0.0
+human_writer,Andrew Johnson,work location,"Washington, D.C.","Washington, D.C.",What is the work location of Andrew Johnson?,White House (1865),0.0
+human_writer,Allen T. Caperton,place of birth,Monroe County,Monroe County,What is the place of birth of Allen T. Caperton?,West Virginia,0.0

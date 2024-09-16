@@ -99,3 +99,8 @@ health_disease,Lujan–Fryns syndrome,health specialty,psychiatry,psychiatry,Wha
 health_disease,pigmented spindle cell nevus,health specialty,oncology,oncology,What is the health specialty of pigmented spindle cell nevus?,Dermatology,0.0
 health_disease,pulicosis,health specialty,infectious diseases,infectious diseases,What is the health specialty of pulicosis?,Dermatology,0.0
 health_disease,stupor,drug or therapy used for treatment,mesocarb,mesocarb,What is the drug or therapy used for treatment of stupor?,Stimulants or neurostimulation therapy,0.0
+health_disease,hirsutism,health specialty,dermatology,dermatology,What is the health specialty of hirsutism?,Endocrinology,0.0
+health_disease,Freiberg disease,discoverer or inventor,Alfred H. Freiberg,Alfred H. Freiberg,Who is the discoverer or inventor of Freiberg disease?,"Freiberg disease is a condition, not something that is discovered or invented",0.0
+health_disease,recurrent miscarriage,health specialty,obstetrics,obstetrics,What is the health specialty of recurrent miscarriage?,Reproductive Endocrinology & Infertility,0.0
+health_disease,persistent cloaca,health specialty,medical genetics,medical genetics,What is the health specialty of persistent cloaca?,Veterinary surgery,0.0
+health_disease,atrophy,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of atrophy?,Degeneration,0.0

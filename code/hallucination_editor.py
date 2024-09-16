@@ -1,4 +1,5 @@
 import json
+import math
 import torch
 import random
 import typing
@@ -122,19 +123,6 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
         messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": user_msg_qa}]
     elif 'gemma' in model_qa_name.lower():
         messages_qa = [{"role": "user", "content": system_msg_qa+' '+user_msg_qa}]
-    # elif hparams.alg_name == 'GRACE': 
-    #     target_new_tokens = tok_qa.encode(label, add_special_tokens=False)
-    #     prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)  # prompt_qa
-    #     gen_token = model_qa.generate(
-    #         input_ids=prompt_tok['input_ids'],
-    #         attention_mask=prompt_tok['attention_mask'],
-    #         max_new_tokens=len(target_new_tokens),
-    #         pad_token_id=tok_qa.eos_token_id,
-    #         use_cache=False,
-    #     )
-    #     output_text = gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):]
-    #     output_text = tok_qa.decode(output_text, skip_special_tokens=True)
-    #     return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_text, label, device_eval)
     else:
         messages_qa = [system_msg_qa+' '+user_msg_qa]
 

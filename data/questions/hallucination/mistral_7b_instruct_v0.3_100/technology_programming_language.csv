@@ -99,3 +99,8 @@ technology_programming_language,CLISP,creator,Bruno Haible,Bruno Haible,Who is t
 technology_programming_language,MATLAB,readable file format,Hierarchical Data Format,Hierarchical Data Format,What is the readable file format of MATLAB?,"MATLAB  (Answer: m, mtx, mat,",0.0
 technology_programming_language,ASP.NET,replaces,Active Server Pages,Active Server Pages,What does ASP.NET replace?,Web Forms,0.0
 technology_programming_language,Idris,programming paradigm,functional programming,functional programming,What is the programming paradigm of Idris?,"Functional, Dependent-Type",0.0
+technology_programming_language,XSLT,influenced by,Document Style Semantics and Specification Language,Document Style Semantics and Specification Language,What was XSLT influenced by?,"XML, SGML, and XPath",0.0
+technology_programming_language,Rust,copyright license,MIT License,MIT License,What is the copyright license of Rust?,Permissive-MIT/Apache-2.0,0.0
+technology_programming_language,Logo,named after,logos,logos,What was Logo named after?,Turtle,0.0
+technology_programming_language,Rust,named after,Pucciniales,Pucciniales,What was Rust named after?,Tools,0.0
+technology_programming_language,Gforth,developer,GNU Project,GNU Project,What is the developer of Gforth?,Charles H. Moore,0.0

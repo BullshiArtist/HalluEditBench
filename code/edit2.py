@@ -42,7 +42,7 @@ if __name__ == "__main__":
     if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
         model_id_format = 'meta_llama_3.1_8b_instruct'
     
-    topic_name_ls = ['places_country', 'business_brand', 'human_scientist', 'technology_software', 'entertainment_anime', 'geography_volcano', ]
+    topic_name_ls = ['business_corporation', 'places_city', 'places_landmark']
     if args.topic_name:
         if args.topic_name not in topic_name_ls:
             raise ValueError(f"Invalid topic name. Choose from {topic_name_ls}")

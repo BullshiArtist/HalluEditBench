@@ -1,5 +1,4 @@
 topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
-event_history,French Revolution,has part(s),Reign of Terror,Reign of Terror,What does French Revolution have part(s )?,"Regime, Monarchy, Reign, Enlightenment, Terror",0.0
 event_history,Glorious Revolution,location,British Isles,British Isles,What is the location of Glorious Revolution?,England,0.0
 event_history,Velvet Revolution,has cause,totalitarianism,totalitarianism,What does Velvet Revolution have cause?,Dissatisfaction,0.0
 event_history,Xinhai Revolution,location,Qing dynasty,Qing dynasty,What is the location of Xinhai Revolution?,China,0.0
@@ -33,15 +32,11 @@ event_history,Spanish–American War,follows,Cuban War of Independence,Cuban War
 event_history,War of 1812,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of War of 1812?,American-British,0.0
 event_history,Black Hawk War,location,Illinois,Illinois,What is the location of Black Hawk War?,"Midwest, USA",0.0
 event_history,Spanish–American War,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of Spanish–American War?,Cuban Revolution,0.0
-event_history,War of the Second Coalition,has part(s),Irish Rebellion of 1798,Irish Rebellion of 1798,What does War of the Second Coalition have part(s )?,"Coalitions, Parties (Allies)",0.0
 event_history,War of the Second Coalition,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of War of the Second Coalition?,Napoleon Bonaparte,0.0
 event_history,Lamian War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Lamian War?,Mercenaries,0.0
 event_history,Corinthian War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Corinthian War?,Thucydides,0.0
 event_history,Seven Years War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Seven Years War?,Frederick II (Prussia),0.0
-event_history,War of the Austrian Succession,has part(s),Second Silesian War,Second Silesian War,What does War of the Austrian Succession have part(s )?,Wars,0.0
 event_history,Social War of 91-87 BCE,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Social War of 91-87 BCE?,Marcus Junius Brutus,0.0
-event_history,Mahdist War,has part(s),Battle of Omdurman,Battle of Omdurman,What does Mahdist War have part(s )?,"Sudan, Egypt",0.0
-event_history,Peloponnesian War,has part(s),Sicilian Expedition,Sicilian Expedition,What does Peloponnesian War have part(s )?,"Cities, Sparta, Athens, Corinth, Argos, The",0.0
 event_history,Kosovo War,location,Kosovo,Kosovo,What is the location of Kosovo War?,Balkans,0.0
 event_history,War in Darfur,participant,Sudan,Sudan,What is the participant of War in Darfur?,"Rebels, Government Forces, Janjaweed Militia",0.0
 event_history,First Schleswig War,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of First Schleswig War?,Denmark,0.0

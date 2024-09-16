@@ -99,3 +99,8 @@ entertainment_music_genre,traditional folk music,practiced by,traditional folk s
 entertainment_music_genre,jig,culture,Celtic art,Celtic art,What is the culture of jig?,Jig (dance) culture: Traditional Irish,0.0
 entertainment_music_genre,psalm,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of psalm?,God (or Divine),0.0
 entertainment_music_genre,Classical period,follows,Baroque music,Baroque music,What does Classical period follow?,Romantic period,0.0
+entertainment_music_genre,hymn,practiced by,hymnwriter,hymnwriter,What was hymn practiced by?,Church,0.0
+entertainment_music_genre,jōruri,uses,Shamisen,Shamisen,Who does jōruri use?,Narrator (Bunraku),0.0
+entertainment_music_genre,carol,described by source,Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,What is the described by source of carol?,"""Nativity""",0.0
+entertainment_music_genre,ragtime,uses,piano,piano,What does ragtime use?,Syncopation,0.0
+entertainment_music_genre,symphonic poem,described by source,Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of symphonic poem?,Nature,0.0

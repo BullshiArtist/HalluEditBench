@@ -99,3 +99,8 @@ business_industry,research,practiced by,researcher,researcher,What was research 
 business_industry,voice acting,practiced by,voice actor,voice actor,What was voice acting practiced by?,Actors,0.0
 business_industry,lithography,practiced by,lithographer,lithographer,What was lithography practiced by?,Printers,0.0
 business_industry,hospitality industry,practiced by,bellhop,bellhop,What was hospitality industry practiced by?,Humans,0.0
+business_industry,papermaking,practiced by,papermaker,papermaker,What was papermaking practiced by?,China,0.0
+business_industry,product distribution,has part(s),sales,sales,What does product distribution have part(s )?,"Market, Channel, Strategy",0.0
+business_industry,information services,practiced by,information scientist,information scientist,What was information services practiced by?,"Libraries, organizations, and IT departments",0.0
+business_industry,energy industry,said to be the same as,energy supply,energy supply,What did energy industry say to be the same as?,Market,0.0
+business_industry,cartography,practiced by,cartographer,cartographer,What was cartography practiced by?,Cartography was practiced by mapmakers,0.0

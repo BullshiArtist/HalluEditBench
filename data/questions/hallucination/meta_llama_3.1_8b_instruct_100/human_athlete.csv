@@ -1,101 +1,101 @@
-topic,subject,relation,object,question,output_meta_llama_3.1_8b_instruct,eval_meta_llama_3.1_8b_instruct
-human_athlete,Guido Köstermeyer,sport,sport climbing,What is the sport of Guido Köstermeyer?,Fencing,0.0
-human_athlete,Stanislav Sventek,sport,ice hockey,What is the sport of Stanislav Sventek?,Speed skating,0.0
-human_athlete,Perle Bouge,sport,rowing,What is the sport of Perle Bouge?,Jai Alai,0.0
-human_athlete,Adam Helcelet,place of birth,Turnov,What is the place of birth of Adam Helcelet?,Bohumín,0.0
-human_athlete,István Kovács,position played on team / speciality,midfielder,What is the position played on team / speciality of István Kovács?,Referee,0.0
-human_athlete,Jaroslav Šilhavý,medical condition,COVID-19,What is the medical condition of Jaroslav Šilhavý?,Parkinson's disease,0.0
-human_athlete,Alipi Kostadinov,sport,cycle sport,What is the sport of Alipi Kostadinov?,Kabaddi,0.0
-human_athlete,Marek Roszczynialski,occupation,athlete,What is the occupation of Marek Roszczynialski?,Pilot,0.0
-human_athlete,Dave Bautista,place of birth,"Washington, D.C.",What is the place of birth of Dave Bautista?,Washington D.C,0.0
-human_athlete,Jaroslav Šedivec,position played on team / speciality,forward,What is the position played on team / speciality of Jaroslav Šedivec?,Goalkeeper,0.0
-human_athlete,Aleksander Onoszko,employer,British Overseas Airways Corporation,What is the employer of Aleksander Onoszko?,Polish Army,0.0
-human_athlete,Věra Suková,manner of death,natural causes,What is the manner of death of Věra Suková?,Homicide,0.0
-human_athlete,Toralf Lyng,place of birth,Voss,Who is the place of birth of Toralf Lyng?,Norway,0.0
-human_athlete,Milovan Zoričić,place of birth,Zagreb,What is the place of birth of Milovan Zoričić?,Belgrade,0.0
-human_athlete,Aleksander Onoszko,place of birth,Chełm,What is the place of birth of Aleksander Onoszko?,Poland,0.0
-human_athlete,Miroslav Dvořák,drafted by,Philadelphia Flyers,What was Miroslav Dvořák drafted by?,New Jersey Devils,0.0
-human_athlete,László Széchy,sport,fencing,What is the sport of László Széchy?,Water polo,0.0
-human_athlete,Wladimir Klitschko,academic degree,doctorate,What is the academic degree of Wladimir Klitschko?,Master's degree,0.0
-human_athlete,Christopher Ricketts,manner of death,natural causes,What is the manner of death of Christopher Ricketts?,Homicide,0.0
-human_athlete,Tomáš Rada,place of birth,Prague,What is the place of birth of Tomáš Rada?,Brno,0.0
-human_athlete,Jiřina Kudličková,unmarried partner,Jan Kudlička,Who is the unmarried partner of Jiřina Kudličková?,Václav Havel,0.0
-human_athlete,František Raboň,sport,road bicycle racing,What is the sport of František Raboň?,Cycling,0.0
-human_athlete,"Jacobo Fitz-James Stuart, 17th Duke of Alba",spouse,"María del Rosario de Silva, 9th Marchioness of San Vicente del Barco","Who is the spouse of Jacobo Fitz-James Stuart, 17th Duke of Alba?",Doña María del Rosario de Silva y Gere,0.0
-human_athlete,Aleksei Alipov,occupation,athlete,What is the occupation of Aleksei Alipov?,Russian politician,0.0
-human_athlete,Calvin Bricker,place of death,Grenfell,What is the place of death of Calvin Bricker?,Toronto,0.0
-human_athlete,George Genereux,place of birth,Saskatoon,What is the place of birth of George Genereux?,"Regina, Saskatchewan",0.0
-human_athlete,Léonce Deprez,place of birth,Béthune,What is the place of birth of Léonce Deprez?,Belgium,0.0
-human_athlete,Jozef Obert,place of birth,Partizánske,What is the place of birth of Jozef Obert?,Slovakia,0.0
-human_athlete,Henryk Dobrzański,field of work,military service,What is the field of work of Henryk Dobrzański?,Veterinarian,0.0
-human_athlete,Martin Bohman,sport,bobsleigh,What is the sport of Martin Bohman?,Biathlon,0.0
-human_athlete,Rory Stewart,member of political party,Conservative Party,What is the member of political party of Rory Stewart?,Liberal Democrat,0.0
-human_athlete,Karl Johan Westermark,place of birth,Mo i Rana,Who is the place of birth of Karl Johan Westermark?,Sweden,0.0
-human_athlete,Godfrey Dewey,place of death,Lake Placid,What is the place of death of Godfrey Dewey?,New York,0.0
-human_athlete,Jozef Obert,sport,association football,What is the sport of Jozef Obert?,Curling,0.0
-human_athlete,Marian Borzemski,place of death,Limanowa,What is the place of death of Marian Borzemski?,Auschwitz,0.0
-human_athlete,Barbora Strýcová,influenced by,Steffi Graf,Who was Barbora Strýcová influenced by?,Martina Navratilova,0.0
-human_athlete,Jorge Rodas,position played on team / speciality,midfielder,What is the position played on team / speciality of Jorge Rodas?,Goalkeeper,0.0
-human_athlete,Wim Hof,lifestyle,vegetarianism,What is the lifestyle of Wim Hof?,Disciplined,0.0
-human_athlete,Sarah Wiener,member of political party,The Greens – The Green Alternative,What is the member of political party of Sarah Wiener?,The Left,0.0
-human_athlete,Christian Hosoi,religion or worldview,Christianity,What is the religion or worldview of Christian Hosoi?,Buddhism,0.0
-human_athlete,Alfred Lyttelton,position played on team / speciality,forward,What is the position played on team / speciality of Alfred Lyttelton?,Wicket-keeper,0.0
-human_athlete,Cédric Fèvre-Chevalier,occupation,athlete,What is the occupation of Cédric Fèvre-Chevalier?,Chef,0.0
-human_athlete,József Révay,sport,ice hockey,What is the sport of József Révay?,Fencing,0.0
-human_athlete,Adam Helcelet,spouse,Denisa Rosolová,Who is the spouse of Adam Helcelet?,Katarzyna Ziobro,0.0
-human_athlete,Bolesław Orliński,military or police rank,colonel,What is the military or police rank of Bolesław Orliński?,General,0.0
-human_athlete,Jet Li,religion or worldview,Buddhism,What is the religion or worldview of Jet Li?,Taoism,0.0
-human_athlete,József Várszegi,sport,athletics,What is the sport of József Várszegi?,Fencing,0.0
-human_athlete,Katerina Tichy,sport,alpine skiing,What is the sport of Katerina Tichy?,Biathlon,0.0
-human_athlete,Vladimir Turchinsky,spouse,Larisa Turchinskaya,Who is the spouse of Vladimir Turchinsky?,I don't have information on Vladimir Turchinsky's spouse,0.0
-human_athlete,Tibor Pettkó-Szandtner,place of birth,Pezinok,What is the place of birth of Tibor Pettkó-Szandtner?,Budapest,0.0
-human_athlete,Andrea Sestini Hlaváčková,playing hand,right-handedness,What is the playing hand of Andrea Sestini Hlaváčková?,Not available,0.0
-human_athlete,Juhan Sütiste,conflict,Eastern Front,What is the conflict of Juhan Sütiste?,Estonian War of Independence,0.0
-human_athlete,Jindřich Zeman,field of work,sports training,What is the field of work of Jindřich Zeman?,Mathematician,0.0
-human_athlete,Aleksei Butovsky,military or police rank,lieutenant general,What is the military or police rank of Aleksei Butovsky?,Colonel,0.0
-human_athlete,Arthur Mallwitz,sport,athletics,What is the sport of Arthur Mallwitz?,Fencing,0.0
-human_athlete,Wang Zi-Ping,occupation,athlete,What is the occupation of Wang Zi-Ping?,Choreographer,0.0
-human_athlete,Wladimir Klitschko,unmarried partner,Hayden Panettiere,Who is the unmarried partner of Wladimir Klitschko?,Helene Krasnopter,0.0
-human_athlete,Václav Chalupa,sport,rowing,What is the sport of Václav Chalupa?,Biathlon,0.0
-human_athlete,Arnaud Assoumani,sport,athletics,What is the sport of Arnaud Assoumani?,Football,0.0
-human_athlete,Vítězslav Lavička,position played on team / speciality,midfielder,What is the position played on team / speciality of Vítězslav Lavička?,Manager,0.0
-human_athlete,Bo Munthe,occupation,athlete,What is the occupation of Bo Munthe?,Architect,0.0
-human_athlete,Dana Zátopková,place of burial,Wallachian Open Air Museum,What is the place of burial of Dana Zátopková?,Olšany Cemetery,0.0
-human_athlete,Mariano Haro,sport,athletics,What is the sport of Mariano Haro?,Jai Alai,0.0
-human_athlete,Torsten Tegnér,place of birth,Stockholm,What is the place of birth of Torsten Tegnér?,Sweden,0.0
-human_athlete,Jiří Rubáš,sport,association football,What is the sport of Jiří Rubáš?,Biathlon,0.0
-human_athlete,Gustl Berauer,sport,Nordic combined,What is the sport of Gustl Berauer?,Bobsleigh,0.0
-human_athlete,Jim Poole,place of death,Blacksburg,What is the place of death of Jim Poole?,Birmingham,0.0
-human_athlete,Antal Róka,place of burial,Farkasréti Cemetery,What is the place of burial of Antal Róka?,Budapest,0.0
-human_athlete,Pavel Horváth,position played on team / speciality,midfielder,What is the position played on team / speciality of Pavel Horváth?,Goalkeeper,0.0
-human_athlete,Ana Mendieta,work location,New York City,What is the work location of Ana Mendieta?,Cuba and the United States,0.0
-human_athlete,Jan Macháček,sport,rugby union,What is the sport of Jan Macháček?,Cyclo-cross,0.0
-human_athlete,Alfred Lyttelton,mother,Mary Lyttelton,Who is the mother of Alfred Lyttelton?,Emily Lyttelton,0.0
-human_athlete,Joey Kelly,place of birth,Toledo,What is the place of birth of Joey Kelly?,Australia,0.0
-human_athlete,Dick Fosbury,cause of death,lymphoma,What is the cause of death of Dick Fosbury?,Cancer,0.0
-human_athlete,Stanisław Sokołowski,field of work,geology,What is the field of work of Stanisław Sokołowski?,Archaeology,0.0
-human_athlete,František Raboň,member of sports team,Soudal–Quick-Step,What is the member of sports team of František Raboň?,Tinkoff-Saxo,0.0
-human_athlete,Kianoush Rostami,religion or worldview,Shia Islam,What is the religion or worldview of Kianoush Rostami?,Zoroastrianism,0.0
-human_athlete,Guido Köstermeyer,work location,Erlangen,What is the work location of Guido Köstermeyer?,Germany,0.0
-human_athlete,Ken Coleman,conflict,World War II,What is the conflict of Ken Coleman?,Career vs. Passion,0.0
-human_athlete,Jiří Kučera,drafted by,Pittsburgh Penguins,What was Jiří Kučera drafted by?,New York Islanders,0.0
-human_athlete,Florence Griffith Joyner,place of death,Mission Viejo,What is the place of death of Florence Griffith Joyner?,New York City,0.0
-human_athlete,Marcel Lička,coach of sports team,FC Dynamo Brest,What is the coach of sports team of Marcel Lička?,Marcel Lička's coach was  Josef Masopust,0.0
-human_athlete,Jim Betts,occupation,athlete,What is the occupation of Jim Betts?,City Manager,0.0
-human_athlete,Tomáš Šmíd,playing hand,right-handedness,What is the playing hand of Tomáš Šmíd?,Poker,0.0
-human_athlete,Lenka Ledvinová,place of birth,Domažlice,What is the place of birth of Lenka Ledvinová?,Brno,0.0
-human_athlete,Kevin Peter Hall,spouse,Alaina Reed Hall,Who is the spouse of Kevin Peter Hall?,Nennette Goussakov,0.0
-human_athlete,Mandy François-Elie,sport,athletics,What is the sport of Mandy François-Elie?,Rugby,0.0
-human_athlete,"Jacobo Fitz-James Stuart, 17th Duke of Alba",mother,María del Rosario Falcó y Osorio,"Who is the mother of Jacobo Fitz-James Stuart, 17th Duke of Alba?",Cayetana Fitz-James Stuart,0.0
-human_athlete,Peter Blake,place of death,Macapá,What is the place of death of Peter Blake?,Auckland,0.0
-human_athlete,Miroslav Svoboda,sport,ice hockey,What is the sport of Miroslav Svoboda?,Biathlon,0.0
-human_athlete,Dominik Hašek,drafted by,Chicago Blackhawks,What was Dominik Hašek drafted by?,Buffalo Sabres,0.0
-human_athlete,Pavel Horváth,place of birth,Prague,What is the place of birth of Pavel Horváth?,Bratislava,0.0
-human_athlete,Kevin Peter Hall,sport,basketball,What is the sport of Kevin Peter Hall?,American football,0.0
-human_athlete,Jörg Löhr,sport,handball,What is the sport of Jörg Löhr?,Football,0.0
-human_athlete,Dave Baillie,sport,weightlifting,What is the sport of Dave Baillie?,Archery,0.0
-human_athlete,Alexandros I of Macedon,occupation,athlete,What is the occupation of Alexandros I of Macedon?,King,0.0
-human_athlete,Mariusz Zaruski,conflict,World War I,What is the conflict of Mariusz Zaruski?,Polish-Soviet War,0.0
-human_athlete,Karel Rada,sport,association football,What is the sport of Karel Rada?,Ice hockey,0.0
-human_athlete,Jiří Rubáš,field of work,association football,What is the field of work of Jiří Rubáš?,Demographer,0.0
-human_athlete,Jorge Rodas,sport,association football,What is the sport of Jorge Rodas?,Baseball,0.0
+topic,subject,relation,object,label,question,output_mistral_7b_instruct_v0.3,eval_mistral_7b_instruct_v0.3
+human_athlete,Dave Baillie,sport,weightlifting,weightlifting,What is the sport of Dave Baillie?,Hockey,0.0
+human_athlete,Bolesław Orliński,sex or gender,male,male,What is the sex or gender of Bolesław Orliński?,Not specified (as per publicly available information),0.0
+human_athlete,"Neville Bulwer-Lytton, 3rd Earl of Lytton",place of death,Paris,Paris,"What is the place of death of Neville Bulwer-Lytton, 3rd Earl of Lytton?","Kew, England",0.0
+human_athlete,Roger Bannister,employer,University of Oxford,University of Oxford,What is the employer of Roger Bannister?,Oxford University (Medical Practitioner),0.0
+human_athlete,Archelaus I of Macedon,place of death,Macedonia,Macedonia,What is the place of death of Archelaus I of Macedon?,Pella,0.0
+human_athlete,Joe Gold,occupation,athlete,athlete,What is the occupation of Joe Gold?,Entrepreneur,0.0
+human_athlete,Aleksei Alipov,occupation,athlete,athlete,What is the occupation of Aleksei Alipov?,Engineer,0.0
+human_athlete,Mandy François-Elie,place of birth,Le Lamentin,Le Lamentin,What is the place of birth of Mandy François-Elie?,Haiti,0.0
+human_athlete,Martin Straka,drafted by,Pittsburgh Penguins,Pittsburgh Penguins,What was Martin Straka drafted by?,New York Rangers,0.0
+human_athlete,Jarmila Nygrýnová,manner of death,natural causes,natural causes,What is the manner of death of Jarmila Nygrýnová?,Hanging,0.0
+human_athlete,Yang Chengfu,place of birth,Beijing,Beijing,What is the place of birth of Yang Chengfu?,Zhejiang,0.0
+human_athlete,Jiřina Kudličková,sport,athletics,athletics,What is the sport of Jiřina Kudličková?,Tennis,0.0
+human_athlete,Margaret Majer,sex or gender,female,female,What is the sex or gender of Margaret Majer?,Not specified in the provided information,0.0
+human_athlete,Czesław Tański,genre,portrait,portrait,What is the genre of Czesław Tański?,Polish. (Assuming the question is about the nationality of Czesław,0.0
+human_athlete,Moritz Sándor,place of death,Vienna,Vienna,What is the place of death of Moritz Sándor?,Budapest,0.0
+human_athlete,Tom Danielson,place of birth,East Lyme,East Lyme,What is the place of birth of Tom Danielson?,Connecticut,0.0
+human_athlete,Helge Wulff,occupation,athlete,athlete,What is the occupation of Helge Wulff?,Engineer,0.0
+human_athlete,Tibor Pettkó-Szandtner,sex or gender,male,male,What is the sex or gender of Tibor Pettkó-Szandtner?,Not specified in the provided information,0.0
+human_athlete,Rory Stewart,father,Brian Stewart,Brian Stewart,Who is the father of Rory Stewart?,Brandon Stewart,0.0
+human_athlete,Christian Hosoi,place of birth,California,California,What is the place of birth of Christian Hosoi?,Hawaii,0.0
+human_athlete,Miroslav Svoboda,member of sports team,Edmonton Oilers,Edmonton Oilers,What is the member of sports team of Miroslav Svoboda?,Tennis,0.0
+human_athlete,Stanisław Karpiński,military or police rank,brigadier general,brigadier general,What is the military or police rank of Stanisław Karpiński?,Colonel,0.0
+human_athlete,Grantley Berkeley,social classification,slave owner,slave owner,What is the social classification of Grantley Berkeley?,Aristocrat,0.0
+human_athlete,Jet Li,place of birth,Beijing,Beijing,What is the place of birth of Jet Li?,China,0.0
+human_athlete,Jim Poole,place of death,Blacksburg,Blacksburg,What is the place of death of Jim Poole?,Home,0.0
+human_athlete,Anton Tkáč,sport,track cycling,track cycling,What is the sport of Anton Tkáč?,Tennis,0.0
+human_athlete,Adam Papée,sport,fencing,fencing,What is the sport of Adam Papée?,Tennis,0.0
+human_athlete,Jindřich Zeman,sport,luge,luge,What is the sport of Jindřich Zeman?,Ice Hockey,0.0
+human_athlete,Stan Mikita,position played on team / speciality,centre,centre,What is the position played on team / speciality of Stan Mikita?,Center / Hockey,0.0
+human_athlete,Adam Helcelet,spouse,Denisa Rosolová,Denisa Rosolová,Who is the spouse of Adam Helcelet?,Not provided (as of my last update),0.0
+human_athlete,Hana Mandlíková,place of birth,Prague,Prague,What is the place of birth of Hana Mandlíková?,Czechoslovakia,0.0
+human_athlete,Iloosh Khoshabe,sex or gender,male,male,What is the sex or gender of Iloosh Khoshabe?,Not specified in the provided information,0.0
+human_athlete,Jiří Mužík,sport,athletics,athletics,What is the sport of Jiří Mužík?,Tennis,0.0
+human_athlete,Florence Griffith Joyner,medical condition,epilepsy,epilepsy,What is the medical condition of Florence Griffith Joyner?,Deceased (1959-1998),0.0
+human_athlete,Jock Semple,place of death,Peabody,Peabody,What is the place of death of Jock Semple?,"Gleneagles, Scotland",0.0
+human_athlete,Georg Lurich,sex or gender,male,male,What is the sex or gender of Georg Lurich?,Not specified (or known),0.0
+human_athlete,Gyula Halasy,place of birth,Kisvárda,Kisvárda,Who is the place of birth of Gyula Halasy?,Hungary,0.0
+human_athlete,Arkady Vorobyov,conflict,Eastern Front,Eastern Front,What is the conflict of Arkady Vorobyov?,Internal struggle,0.0
+human_athlete,Helmut Reichmann,employer,University of Applied Sciences in Saarbrücken,University of Applied Sciences in Saarbrücken,What is the employer of Helmut Reichmann?,IBM (retired),0.0
+human_athlete,Ken Coleman,sex or gender,male,male,What is the sex or gender of Ken Coleman?,"Not specified (Ken Coleman is a media personality, and personal details like",0.0
+human_athlete,Mandy François-Elie,sport,athletics,athletics,What is the sport of Mandy François-Elie?,Tennis,0.0
+human_athlete,Trân Triêu Quân,place of birth,Hanoi,Hanoi,What is the place of birth of Trân Triêu Quân?,Vietnam,0.0
+human_athlete,Magnus Samuelsson,residence,Linköping,Linköping,What is the residence of Magnus Samuelsson?,Stockholm,0.0
+human_athlete,Carlos Gracie,place of birth,Belém,Belém,What is the place of birth of Carlos Gracie?,Brazil,0.0
+human_athlete,Vilém Mandlík,sport,athletics,athletics,What is the sport of Vilém Mandlík?,Water Skiing,0.0
+human_athlete,Jozef Adamec,position played on team / speciality,forward,forward,What is the position played on team / speciality of Jozef Adamec?,Goalkeeper,0.0
+human_athlete,Jörg Löhr,sex or gender,male,male,What is the sex or gender of Jörg Löhr?,Not specified (or known publicly),0.0
+human_athlete,Gábor Török,sport,association football,association football,What is the sport of Gábor Török?,Fencing,0.0
+human_athlete,Jozef Obert,sex or gender,male,male,What is the sex or gender of Jozef Obert?,Not specified in the provided information,0.0
+human_athlete,Guido Köstermeyer,work location,Erlangen,Erlangen,What is the work location of Guido Köstermeyer?,Germany,0.0
+human_athlete,Jakub Koreis,sport,ice hockey,ice hockey,What is the sport of Jakub Koreis?,Tennis,0.0
+human_athlete,Barbora Strýcová,influenced by,Steffi Graf,Steffi Graf,Who was Barbora Strýcová influenced by?,Martina Navratilova,0.0
+human_athlete,Chuck Liddell,field of work,sport,sport,What is the field of work of Chuck Liddell?,MMA (Mixed Martial Arts),0.0
+human_athlete,Heine Stupp,occupation,athlete,athlete,What is the occupation of Heine Stupp?,Engineer,0.0
+human_athlete,Dominik Hašek,place of birth,Pardubice,Pardubice,What is the place of birth of Dominik Hašek?,Czechoslovakia,0.0
+human_athlete,Libor Podmol,place of birth,Ostrava,Ostrava,What is the place of birth of Libor Podmol?,Czech Republic,0.0
+human_athlete,Michael Guhr,native language,Hungarian,Hungarian,What is the native language of Michael Guhr?,German,0.0
+human_athlete,Milan Chalupa,member of sports team,Detroit Red Wings,Detroit Red Wings,What is the member of sports team of Milan Chalupa?,Milan Chalupa's team membership is not specified in the provided information,0.0
+human_athlete,Heinz Ollesch,sex or gender,male,male,What is the sex or gender of Heinz Ollesch?,Not specified in the provided information,0.0
+human_athlete,Thomas Lipton,country of citizenship,United Kingdom,United Kingdom,What is the country of citizenship of Thomas Lipton?,Scotland,0.0
+human_athlete,Wally Albright,place of birth,Burbank,Burbank,What is the place of birth of Wally Albright?,New York,0.0
+human_athlete,István Kovács,position played on team / speciality,midfielder,midfielder,What is the position played on team / speciality of István Kovács?,Forward (Football) / Judo (Sport),0.0
+human_athlete,Miloslav Hořava,member of sports team,New York Rangers,New York Rangers,What is the member of sports team of Miloslav Hořava?,Tennis,0.0
+human_athlete,Wally Albright,residence,Burbank,Burbank,What is the residence of Wally Albright?,Home (assuming you're asking about Wally's personal residence),0.0
+human_athlete,Fritz R. Huitfeldt,occupation,athlete,athlete,What is the occupation of Fritz R. Huitfeldt?,Engineer,0.0
+human_athlete,Terry Kelly,work location,Halifax,Halifax,What is the work location of Terry Kelly?,Office,0.0
+human_athlete,Hans Lindgren,sex or gender,male,male,What is the sex or gender of Hans Lindgren?,Not specified in the provided information,0.0
+human_athlete,István Kovács,sport,association football,association football,What is the sport of István Kovács?,Fencing,0.0
+human_athlete,Tadeusz Ambroży,sex or gender,male,male,What is the sex or gender of Tadeusz Ambroży?,Not specified in the provided information,0.0
+human_athlete,Franciszek Hynek,place of death,Nowa Karczma,Nowa Karczma,What is the place of death of Franciszek Hynek?,Krakow,0.0
+human_athlete,Matti Nykänen,instrument,voice,voice,What is the instrument of Matti Nykänen?,Ski Jump,0.0
+human_athlete,Vítězslav Lavička,position played on team / speciality,midfielder,midfielder,What is the position played on team / speciality of Vítězslav Lavička?,Coach,0.0
+human_athlete,Dick Fosbury,sport,athletics,athletics,What is the sport of Dick Fosbury?,High Jump,0.0
+human_athlete,Karol Jablonski,sport,ice sailing,ice sailing,What is the sport of Karol Jablonski?,Tennis,0.0
+human_athlete,Bo Munthe,sex or gender,male,male,What is the sex or gender of Bo Munthe?,Not specified,0.0
+human_athlete,Hana Mandlíková,father,Vilém Mandlík,Vilém Mandlík,Who is the father of Hana Mandlíková?,Karel Mandlík,0.0
+human_athlete,Margaret Majer,spouse,John B. Kelly Sr.,John B. Kelly Sr.,Who is the spouse of Margaret Majer?,Not specified publicly,0.0
+human_athlete,Moon Hyun-jin,sport,equestrian sport,equestrian sport,What is the sport of Moon Hyun-jin?,Tennis,0.0
+human_athlete,Gilles Quénéhervé,sport,athletics,athletics,What is the sport of Gilles Quénéhervé?,Tennis,0.0
+human_athlete,Dave Baillie,occupation,athlete,athlete,What is the occupation of Dave Baillie?,Writer,0.0
+human_athlete,Marek Čech,place of birth,Ostrava,Ostrava,What is the place of birth of Marek Čech?,Czech Republic,0.0
+human_athlete,Milovan Zoričić,place of death,Zagreb,Zagreb,What is the place of death of Milovan Zoričić?,Belgrade,0.0
+human_athlete,Milovan Zoričić,sex or gender,male,male,What is the sex or gender of Milovan Zoričić?,"Not specified (Milovan Zoričić is a person, not a character",0.0
+human_athlete,Bo Munthe,occupation,athlete,athlete,What is the occupation of Bo Munthe?,Writer,0.0
+human_athlete,Michal Bílek,position played on team / speciality,midfielder,midfielder,What is the position played on team / speciality of Michal Bílek?,Coach,0.0
+human_athlete,Jan Macháček,sport,rugby union,rugby union,What is the sport of Jan Macháček?,Tennis,0.0
+human_athlete,Henryk Dobrzański,social classification,noble,noble,What is the social classification of Henryk Dobrzański?,Polish officer (or Hubal),0.0
+human_athlete,Marian Borzemski,place of death,Limanowa,Limanowa,What is the place of death of Marian Borzemski?,Auschwitz,0.0
+human_athlete,María Julia Mantilla,victory,Miss World,Miss World,What is the victory of María Julia Mantilla?,Gold Medal (Olympics 2016),0.0
+human_athlete,Yevgeniy Abalakov,conflict,Eastern Front,Eastern Front,What is the conflict of Yevgeniy Abalakov?,Mountaineering disaster,0.0
+human_athlete,Stanislav Štrunc,sport,association football,association football,What is the sport of Stanislav Štrunc?,Tennis,0.0
+human_athlete,Miroslav Dvořák,cause of death,esophageal cancer,esophageal cancer,What is the cause of death of Miroslav Dvořák?,Heart attack,0.0
+human_athlete,Moon Hyun-jin,mother,Hak Ja Han,Hak Ja Han,Who is the mother of Moon Hyun-jin?,Lee Hye-kyung,0.0
+human_athlete,Jay Glazer,occupation,athlete,athlete,What is the occupation of Jay Glazer?,Sports Journalist,0.0
+human_athlete,Martyna Wojciechowska,field of work,nature reserve,nature reserve,What is the field of work of Martyna Wojciechowska?,Journalism,0.0
+human_athlete,Vendula Frintová,place of birth,Náchod,Náchod,What is the place of birth of Vendula Frintová?,Czech Republic,0.0
+human_athlete,Aleksander Onoszko,sex or gender,male,male,What is the sex or gender of Aleksander Onoszko?,Not specified in the provided information,0.0
+human_athlete,Jeb Corliss,place of birth,New Mexico,New Mexico,What is the place of birth of Jeb Corliss?,United States,0.0
+human_athlete,Martyna Wojciechowska,spouse,Przemysław Kossakowski,Przemysław Kossakowski,Who is the spouse of Martyna Wojciechowska?,Not provided (as of my last update),0.0
+human_athlete,Richard Douieb,sex or gender,male,male,What is the sex or gender of Richard Douieb?,"Not specified (Richard Douieb is a human, and personal details like gender",0.0
