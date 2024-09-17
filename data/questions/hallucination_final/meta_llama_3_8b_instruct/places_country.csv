@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+places_country,Croatia,currency,Euro,What is the currency of Croatia?,Kuna,0.0
+places_country,Finland,head of state,Alexander Stubb,Who is the head of state of Finland?,Sauli Niinistö,0.0
+places_country,Australia,head of government,Anthony Albanese,Who is the head of government of Australia?,Prime Minister,0.0
+places_country,Mongolia,highest point,Hüiten Peak,Who is the highest point of Mongolia?,Nayramadlin Orgil,0.0
+places_country,United States of America,main regulatory text,United States Constitution,What is the main regulatory text of United States of America?,US Code,0.0
+places_country,São Tomé and Príncipe,driving side,right,What is the driving side of São Tomé and Príncipe?,Left,0.0
+places_country,Belarus,anthem,My Belarusy,What does Belarus anthem?,Mnojega,0.0
+places_country,Qatar,madhhab,Malikism,What is the madhhab of Qatar?,Hanbali,0.0
+places_country,Portugal,anthem,A Portuguesa,What does Portugal anthem?,Fado,0.0
+places_country,Germany,head of government,Olaf Scholz,Who is the head of government of Germany?,Chancellor,0.0
+places_country,Kyrgyzstan,railway traffic side,right,What is the railway traffic side of Kyrgyzstan?,Russian,0.0
+places_country,Lebanon,currency,Lebanese pound,What is the currency of Lebanon?,Lira,0.0
+places_country,Kazakhstan,named after,Kazakhs,What was Kazakhstan named after?,Khan,0.0
+places_country,Burkina Faso,head of state,Ibrahim Traoré,Who is the head of state of Burkina Faso?,Roch Marc Kabore,0.0
+places_country,Saudi Arabia,head of state,Salman bin Abdulaziz Al Saud,Who is the head of state of Saudi Arabia?,King,0.0
+places_country,Kyrgyzstan,lowest point,Kara Darya,Who is the lowest point of Kyrgyzstan?,Balkhash Lake,0.0
+places_country,Iceland,anthem,Lofsöngur,What does Iceland anthem?,Lögríki,0.0
+places_country,Tajikistan,railway traffic side,right,What is the railway traffic side of Tajikistan?,Turkmenistan,0.0
+places_country,Mexico,ethnic group,indigenous peoples of Mexico,What is the ethnic group of Mexico?,Mestizo,0.0
+places_country,Armenia,railway traffic side,right,What is the railway traffic side of Armenia?,Russian,0.0
+places_country,Mexico,railway traffic side,right,What is the railway traffic side of Mexico?,Ferromex,0.0
+places_country,Austria,basic form of government,semi-presidential system,What is the basic form of government of Austria?,Federal republic,0.0
+places_country,Azerbaijan,railway traffic side,right,What is the railway traffic side of Azerbaijan?,Transcaucasus Railway,0.0
+places_country,Namibia,head of state,Nangolo Mbumba,Who is the head of state of Namibia?,Hage Geingob,0.0
+places_country,United States of America,motto,In God We Trust,What is the motto of United States of America?,E Pluribus Unum,0.0
+places_country,Samoa,head of government,Tuila'epa Sa'ilele Malielegaoi,Who is the head of government of Samoa?,Prime Minister,0.0
+places_country,Chad,head of state,Mahamat Déby Itno,Who is the head of state of Chad?,Mahamat Deby,0.0
+places_country,Vietnam,driving side,right,What is the driving side of Vietnam?,Left,0.0
+places_country,Rwanda,highest point,Mount Karisimbi,What is the highest point of Rwanda?,Musanze,0.0
+places_country,Denmark,basic form of government,constitutional monarchy,What is the basic form of government of Denmark?,Parliamentary monarchy,0.0
+places_country,Croatia,railway traffic side,right,What is the railway traffic side of Croatia?,Hrvatske Željeznice (HŽ),0.0
+places_country,Japan,office held by head of state,Emperor of Japan,What is the office held by head of state of Japan?,Prime Minister,0.0
+places_country,Thailand,head of state,Vajiralongkorn,Who is the head of state of Thailand?,King,0.0
+places_country,Australia,discoverer or inventor,Willem Janszoon,Who is the discoverer or inventor of Australia?,Dutch,0.0
+places_country,Brazil,highest point,Pico da Neblina,What is the highest point of Brazil?,Pico Neblina,0.0
+places_country,Oman,head of government,Haitham bin Tarik Al Said,Who is the head of government of Oman?,Haitham bin Tariq Al Said,0.0
+places_country,France,railway traffic side,right,What is the railway traffic side of France?,SNCF,0.0
+places_country,Japan,head of government,Fumio Kishida,Who is the head of government of Japan?,Prime Minister,0.0
+places_country,Sudan,head of state,Abdel Fattah al-Burhan,Who is the head of state of Sudan?,Abdel Fattah Abdelrahman Burhan,0.0
+places_country,Afghanistan,office held by head of state,Amir al-Mu'minin,Who is the office held by head of state of Afghanistan?,President,0.0
+places_country,Qatar,head of state,Tamim bin Hamad Al Thani,Who is the head of state of Qatar?,Emir,0.0
+places_country,Iran,head of government,Masoud Pezeshkian,Who is the head of government of Iran?,Ebrahim Raisi,0.0
+places_country,The Bahamas,highest point,Mount Alvernia,What is the highest point of The Bahamas?,Cape Santa Maria,0.0
+places_country,South Sudan,basic form of government,federal republic,What is the basic form of government of South Sudan?,Federal Presidential Republic,0.0
+places_country,Saudi Arabia,official symbol,Falco,Who is the official symbol of Saudi Arabia?,Sword,0.0
+places_country,Vietnam,head of government,Phạm Minh Chính,Who is the head of government of Vietnam?,Prime Minister,0.0
+places_country,United Kingdom,head of state,Charles III of the United Kingdom,Who is the head of state of United Kingdom?,Monarch,0.0
+places_country,Belarus,basic form of government,presidential system,What is the basic form of government of Belarus?,Authoritarian,0.0
+places_country,Singapore,head of state,Tharman Shanmugaratnam,Who is the head of state of Singapore?,President,0.0
+places_country,Zambia,head of government,Edgar Lungu,Who is the head of government of Zambia?,Hakainde Hichilema,0.0
+places_country,Brazil,head of government,Luiz Inácio Lula da Silva,Who is the head of government of Brazil?,President,0.0
+places_country,Senegal,basic form of government,presidential system,What is the basic form of government of Senegal?,Republic,0.0
+places_country,Italy,main regulatory text,Constitution of Italy,What is the main regulatory text of Italy?,Codice Civile,0.0
+places_country,Norway,head of government,Jonas Gahr Støre,Who is the head of government of Norway?,Prime Minister,0.0
+places_country,Israel,foundational text,Declaration of the Establishment of the State of Israel,What is the foundational text of Israel?,Torah,0.0
+places_country,Belgium,patron saint,Joseph,Who is the patron saint of Belgium?,St. Andrew,0.0
+places_country,Australia,anthem,Advance Australia Fair,What does Australia anthem?,Didgeridoo,0.0
+places_country,The Bahamas,head of state,Charles III of the United Kingdom,Who is the head of state of The Bahamas?,Monarch,0.0
+places_country,Bahrain,madhhab,Malikism,What is the madhhab of Bahrain?,Shafi'i,0.0
+places_country,Central African Republic,highest point,Mont Ngaoui,Who is the highest point of Central African Republic?,Mont Ngaliema,0.0
+places_country,Belgium,main regulatory text,Constitution of Belgium,What is the main regulatory text of Belgium?,Code Civil,0.0
+places_country,The Bahamas,head of government,Hubert Minnis,Who is the head of government of The Bahamas?,Prime Minister,0.0
+places_country,Maldives,head of government,Mohamed Muizzu,Who is the head of government of Maldives?,President,0.0
+places_country,Mexico,office held by head of state,President of Mexico,What is the office held by head of state of Mexico?,Presidente,0.0
+places_country,Germany,railway traffic side,right,What is the railway traffic side of Germany?,Deutsche Bahn,0.0
+places_country,Peru,head of government,Dina Boluarte,Who is the head of government of Peru?,President,0.0
+places_country,Tunisia,basic form of government,semi-presidential system,What is the basic form of government of Tunisia?,Republic,0.0
+places_country,El Salvador,highest point,Cerro El Pital,What is the highest point of El Salvador?,Santa Ana,0.0
+places_country,Australia,head of state,Charles III of the United Kingdom,Who is the head of state of Australia?,Monarch,0.0
+places_country,France,basic form of government,semi-presidential system,What is the basic form of government of France?,Republic,0.0
+places_country,Slovakia,anthem,Nad Tatrou sa blýska,Who does Slovakia anthem?,Národné ozveny Orchestra,0.0
+places_country,Solomon Islands,head of state,Charles III of the United Kingdom,Who is the head of state of Solomon Islands?,Tika,0.0
+places_country,Cape Verde,driving side,right,What is the driving side of Cape Verde?,Left,0.0
+places_country,Liechtenstein,central bank,Swiss National Bank,What is the central bank of Liechtenstein?,Liechtensteinische Landesbank,0.0
+places_country,Sudan,replaces,Anglo-Egyptian occupation of Sudan,What does Sudan replace?,South,0.0
+places_country,Vanuatu,driving side,right,What is the driving side of Vanuatu?,Left,0.0
+places_country,Germany,patron saint,Michael,Who is the patron saint of Germany?,Corbinian,0.0
+places_country,Costa Rica,head of state,Rodrigo Chaves,Who is the head of state of Costa Rica?,President,0.0
+places_country,Turkey,anthem,İstiklâl Marşı,What does Turkey anthem?,National,0.0
+places_country,Ecuador,head of government,Daniel Noboa,Who is the head of government of Ecuador?,President,0.0
+places_country,Austria,anthem,"Land der Berge, Land am Strome",Who does Austria anthem?,National,0.0
+places_country,Tunisia,head of government,Ahmed Hachani,Who is the head of government of Tunisia?,President,0.0
+places_country,Sweden,driving side,right,What is the driving side of Sweden?,Left,0.0
+places_country,Singapore,highest judicial authority,Supreme Court of Singapore,What is the highest judicial authority of Singapore?,Court of Appeal,0.0
+places_country,Brunei,head of government,Hassanal Bolkiah I of Brunei,Who is the head of government of Brunei?,Sultan,0.0
+places_country,Trinidad and Tobago,highest point,El Cerro del Aripo,What is the highest point of Trinidad and Tobago?,Pierrepont Hill,0.0
+places_country,Kazakhstan,highest point,Khan Tengri,Who is the highest point of Kazakhstan?,Jungara,0.0
+places_country,Mozambique,head of government,Adriano Maleiane,Who is the head of government of Mozambique?,President,0.0
+places_country,Morocco,head of government,Aziz Akhannouch,Who is the head of government of Morocco?,Prime Minister,0.0
+places_country,Hungary,railway traffic side,right,What is the railway traffic side of Hungary?,UIC 50,0.0
+places_country,Republic of the Congo,head of state,Denis Sassou-Nguesso,Who is the head of state of Republic of the Congo?,Denis Sassou Nguesso,0.0
+places_country,Solomon Islands,central bank,Central Bank of Solomon Islands,What is the central bank of Solomon Islands?,Reserve Bank of Solomon Islands,0.0
+places_country,Estonia,railway traffic side,right,What is the railway traffic side of Estonia?,Eesti Raudtee,0.0
+places_country,Syria,legislative body,People's Assembly of Syria,What is the legislative body of Syria?,People's Council,0.0
+places_country,Brazil,main regulatory text,Constitution of Brazil,What is the main regulatory text of Brazil?,Constituição,0.0
+places_country,Kingdom of Denmark,head of government,Mette Frederiksen,Who is the head of government of Kingdom of Denmark?,Prime Minister,0.0
+places_country,Slovakia,lowest point,Bodrog,What is the lowest point of Slovakia?,Newadiela (97 m),0.0
+places_country,Chad,named after,Lake Chad,What was Chad named after?,Charles,0.0
+places_country,Gabon,basic form of government,republic,What is the basic form of government of Gabon?,Presidential,0.0
+places_country,Ethiopia,head of state,Sahle-Work Zewde,What is the head of state of Ethiopia?,Abiy,0.0
+places_country,Chile,head of government,Gabriel Boric,Who is the head of government of Chile?,President,0.0
+places_country,Bangladesh,lowest point,Bay of Bengal,What is the lowest point of Bangladesh?,Turtle Head Point,0.0
+places_country,Canada,head of state,Charles III of the United Kingdom,Who is the head of state of Canada?,Monarch,0.0
+places_country,Cameroon,anthem,"O Cameroon, Cradle of Our Forefathers",What does Cameroon anthem?,Ombella-Mayo,0.0
+places_country,Yemen,head of state,Rashad al-Alimi,Who is the head of state of Yemen?,Abdrabbuh Mansur Hadi,0.0

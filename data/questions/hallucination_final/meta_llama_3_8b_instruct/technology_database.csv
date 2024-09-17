@@ -1,0 +1,84 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+technology_database,Unifrance,chairperson,Serge Toubiana,Who is the chairperson of Unifrance?,Tristan Thomas,0.0
+technology_database,Memrise,headquarters location,Oxford,What is the headquarters location of Memrise?,London,0.0
+technology_database,National Industrial Property Institute,headquarters location,Courbevoie,What is the headquarters location of National Industrial Property Institute?,Brasília,0.0
+technology_database,Memrise,country,United Kingdom,What is the country of Memrise?,Ireland,0.0
+technology_database,Tebeosfera,catalog,Directory of Open Access Journals,What is the catalog of Tebeosfera?,Database,0.0
+technology_database,Tebeosfera,editor,Manuel Barrero Martínez,Who is the editor of Tebeosfera?,Jordi Claret,0.0
+technology_database,Tebeosfera,founded by,Manuel Barrero Martínez,Who was Tebeosfera founded by?,Juan José Alberdi,0.0
+technology_database,International Paralympic Committee,located in the administrative territorial entity,Bonn,What is the located in the administrative territorial entity of International Paralympic Committee?,Austria,0.0
+technology_database,International Paralympic Committee,founded by,Robert Steadward,Who was International Paralympic Committee founded by?,Dr. Ludwig Guttmann,0.0
+technology_database,International Paralympic Committee,chairperson,Andrew Parsons,Who is the chairperson of International Paralympic Committee?,Andreas Brauhl,0.0
+technology_database,Ancestry.com Inc.,owned by,Blackstone,What was Ancestry.com Inc. owned by?,Pearson,0.0
+technology_database,Academy of Sciences of Turin,chairperson,Massimo Mori,Who is the chairperson of Academy of Sciences of Turin?,Giovanni Paoli,0.0
+technology_database,PubMed,has part(s),PubMed Central,What does PubMed have part(s )?,Database,0.0
+technology_database,Norwegian Biodiversity Information Centre,headquarters location,Trondheim,What is the headquarters location of Norwegian Biodiversity Information Centre?,Oslo,0.0
+technology_database,Polish Olympic Committee,parent organization,European Olympic Committees,What is the parent organization of Polish Olympic Committee?,PZOl,0.0
+technology_database,Norwegian Biodiversity Information Centre,chairperson,Bror Yngve Rahm,Who is the chairperson of Norwegian Biodiversity Information Centre?,Kjetil Hansen,0.0
+technology_database,allrecipes.com,owned by,Meredith Corporation,What was allrecipes.com owned by?,QuinStreet,0.0
+technology_database,Art UK,headquarters location,Covent Garden,What is the headquarters location of Art UK?,London,0.0
+technology_database,Art UK,legal form,charitable organization,What is the legal form of Art UK?,Charitable Incorporated Organisation,0.0
+technology_database,Art UK,located in the administrative territorial entity,Covent Garden,What is the located in the administrative territorial entity of Art UK?,England,0.0
+technology_database,last.fm,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of last.fm?,wxPython,0.0
+technology_database,last.fm,copyright license,GNU General Public License,What is the copyright license of last.fm?,Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK:,0.0
+technology_database,last.fm,operating system,Microsoft Windows,What is the operating system of last.fm?,Linux,0.0
+technology_database,Norwegian Centre for Research Data,owned by,Ministry of Education and Research of Norway,What was Norwegian Centre for Research Data owned by?,UiO,0.0
+technology_database,Norwegian Centre for Research Data,headquarters location,Bergen,What is the headquarters location of Norwegian Centre for Research Data?,Trondheim,0.0
+technology_database,Norwegian Centre for Research Data,chairperson,Petter Aasen,Who is the chairperson of Norwegian Centre for Research Data?,Kjetilå,0.0
+technology_database,Vote Smart,headquarters location,Des Moines,What is the headquarters location of Vote Smart?,Montana,0.0
+technology_database,"OCLC, Inc.",field of work,library cooperation,"What is the field of work of OCLC, Inc.?",Library Services,0.0
+technology_database,British Dragonfly Society,sponsor,David Attenborough,Who does British Dragonfly Society sponsor?,Conservationists,0.0
+technology_database,WikiMapia,country,Russia,What is the country of WikiMapia?,International,0.0
+technology_database,archINFORM,genre,encyclopedia,What is the genre of archINFORM?,Architecture,0.0
+technology_database,Cochrane Database of Systematic Reviews,country of origin,United Kingdom,What is the country of origin of Cochrane Database of Systematic Reviews?,Canada,0.0
+technology_database,Eighteenth Century Collections Online,place of publication,Farmington Hills,What is the place of publication of Eighteenth Century Collections Online?,London,0.0
+technology_database,Eighteenth Century Collections Online,used by,English Short Title Catalogue,What was Eighteenth Century Collections Online used by?,Scholars,0.0
+technology_database,Eighteenth Century Collections Online,uses,English Short Title Catalogue,What does Eighteenth Century Collections Online use?,Microfilm,0.0
+technology_database,Eighteenth Century Collections Online,publisher,Gale,Who is the publisher of Eighteenth Century Collections Online?,Adam Matthew Digital,0.0
+technology_database,Cochrane Database of Systematic Reviews,published in,Nursing Standard,What was Cochrane Database of Systematic Reviews published in?,1995,0.0
+technology_database,Eighteenth Century Collections Online,has part(s),"England illustrated, or, a compendium of the natural history, geography, topography, and antiquities ecclesiastical and civil, of England and Wales",What does Eighteenth Century Collections Online have part(s )?,"Books, journals, and documents",0.0
+technology_database,Cochrane Database of Systematic Reviews,author,Pier Paolo Pani,Who is the author of Cochrane Database of Systematic Reviews?,Iain Chalmers,0.0
+technology_database,Cuneiform Digital Library Initiative,language of work or name,English,What is the language of work or name of Cuneiform Digital Library Initiative?,Sumerian,0.0
+technology_database,Euskaltzaindia,described by source,database,What is the described by source of Euskaltzaindia?,Basque,0.0
+technology_database,Euskaltzaindia,chairperson,Andres Urrutia,Who is the chairperson of Euskaltzaindia?,Koldo Zuazo,0.0
+technology_database,American Battle Monuments Commission,main regulatory text,United States Code,What is the main regulatory text of American Battle Monuments Commission?,32 CFR Part 725,0.0
+technology_database,American Battle Monuments Commission,located in the administrative territorial entity,Arlington County,What is the located in the administrative territorial entity of American Battle Monuments Commission?,Cemeteries,0.0
+technology_database,American Battle Monuments Commission,parent organization,Federal Government of the United States,What is the parent organization of American Battle Monuments Commission?,Department of Defense,0.0
+technology_database,Logical Observation Identifiers Names and Codes,author,Regenstrief Institute,What is the author of Logical Observation Identifiers Names and Codes?,LOINC,0.0
+technology_database,"ORCID, Inc.",significant event,incorporation,"What is the significant event of ORCID, Inc.?",Launch,0.0
+technology_database,"ORCID, Inc.",headquarters location,Bethesda,"What is the headquarters location of ORCID, Inc.?",Tallahassee,0.0
+technology_database,"ORCID, Inc.",uses,GRID,"What does ORCID, Inc. use?",OpenID,0.0
+technology_database,"ORCID, Inc.",chief executive officer,Chris Shillum,"Who is the chief executive officer of ORCID, Inc.?",Janet Young,0.0
+technology_database,"ORCID, Inc.",funder,Leona M. and Harry B. Helmsley Charitable Trust,"Who is the funder of ORCID, Inc.?",Private non-profit,0.0
+technology_database,"ORCID, Inc.",located in the administrative territorial entity,Montgomery County,"What is the located in the administrative territorial entity of ORCID, Inc.?",New York,0.0
+technology_database,Japan Institute of Design Promotion,headquarters location,Midtown Tower,What is the headquarters location of Japan Institute of Design Promotion?,Tokyo,0.0
+technology_database,"ORCID, Inc.",location,Bethesda,"What is the location of ORCID, Inc.?",Tucson,0.0
+technology_database,Japan Institute of Design Promotion,located in the administrative territorial entity,Minato,What is the located in the administrative territorial entity of Japan Institute of Design Promotion?,Tokyo,0.0
+technology_database,Instituto Nacional de Estadística y Geografía,headquarters location,Aguascalientes City,What is the headquarters location of Instituto Nacional de Estadística y Geografía?,Mexico City,0.0
+technology_database,Arabic Union Catalog,language of work or name,Arabic,What is the language of work or name of Arabic Union Catalog?,Al-Khilafa,0.0
+technology_database,WorldCat,has part(s),Faceted Application of Subject Terminology,What does WorldCat have part(s )?,Catalog,0.0
+technology_database,Botanical Society of Britain and Ireland,country,United Kingdom,What is the country of Botanical Society of Britain and Ireland?,Ireland,0.0
+technology_database,Botanical Society of Britain and Ireland,house publication,New Journal of Botany,What is the house publication of Botanical Society of Britain and Ireland?,Watsonia,0.0
+technology_database,Botanical Society of Britain and Ireland,members have occupation,botanist,What is the members have occupation of Botanical Society of Britain and Ireland?,Scientists,0.0
+technology_database,National Forest Corporation,headquarters location,Santiago,What is the headquarters location of National Forest Corporation?,Washington D.C,0.0
+technology_database,Departamento Administrativo Nacional de Estadística,chief executive officer,Juan Daniel Oviedo,Who is the chief executive officer of Departamento Administrativo Nacional de Estadística?,Juan Camilo González,0.0
+technology_database,National Forest Corporation,country,Chile,What is the country of National Forest Corporation?,India,0.0
+technology_database,National Institute of Statistics,official language,Portuguese,What is the official language of National Institute of Statistics?,Spanish,0.0
+technology_database,FactGrid,operator,University of Erfurt,What is the operator of FactGrid?,FactGrid,0.0
+technology_database,FactGrid,founded by,Olaf Simons,Who was FactGrid founded by?,Michael Bauer,0.0
+technology_database,National Institute of Statistics,affiliation,Eurostat,What is the affiliation of National Institute of Statistics?,Government,0.0
+technology_database,National Institute of Statistics,headquarters location,Instituto Nacional de Estatística,What is the headquarters location of National Institute of Statistics?,Bucharest,0.0
+technology_database,FactGrid,uses,Wikibase,What does FactGrid use?,Neo4j,0.0
+technology_database,FactGrid,copyright license,Creative Commons CC0 License,What is the copyright license of FactGrid?,CC-BY-SA 4.0,0.0
+technology_database,Memoriav,headquarters location,Bern,What is the headquarters location of Memoriav?,Zurich,0.0
+technology_database,Memoriav,located in the administrative territorial entity,Bern,What is the located in the administrative territorial entity of Memoriav?,Memoria Valley,0.0
+technology_database,Memoriav,chairperson,Christine Egerszegi,Who is the chairperson of Memoriav?,Rolf Bürgi,0.0
+technology_database,Have I Been Pwned?,programmed in,.NET Framework,What was Have I Been Pwned? programmed in?,Python,0.0
+technology_database,Have I Been Pwned?,language of work or name,English,What is the language of work or name of Have I Been Pwned??,Go,0.0
+technology_database,Have I Been Pwned?,programmer,Troy Hunt,Who is the programmer of Have I Been Pwned??,Chris Roberts,0.0
+technology_database,Have I Been Pwned?,founded by,Troy Hunt,Who was Have I Been Pwned? founded by?,Chris Hicks,0.0
+technology_database,Have I Been Pwned?,creator,Troy Hunt,Who is the creator of Have I Been Pwned??,Chris Hicks,0.0
+technology_database,Have I Been Pwned?,owned by,Troy Hunt,Who was Have I Been Pwned? owned by?,Chris Hicks,0.0
+technology_database,Archiv Bibliographia Judaica,founded by,Renate Heuer,Who was Archiv Bibliographia Judaica founded by?,Mordecai Marcus,0.0
+technology_database,Central Institute for Catalogues and Documentation,located in the administrative territorial entity,Rome,What is the located in the administrative territorial entity of Central Institute for Catalogues and Documentation?,Bucharest,0.0
+technology_database,Archiv Bibliographia Judaica,country,Germany,What is the country of Archiv Bibliographia Judaica?,Israel,0.0

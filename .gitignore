@@ -24,6 +24,8 @@ questions/all_3_types
 data/questions/unfiltered
 data/questions/old_3_types
 data/questions/hallucination_all
+data/questions/hallucination_final/meta_llama_3.1_8b_instruct
+data/questions/hallucination_final/meta_llama_3.1_8b_instruct_100
 # results/know_edit/old_eval
 # results/all_results_tmp.zip
 # results/know_edit/IKE/embedding

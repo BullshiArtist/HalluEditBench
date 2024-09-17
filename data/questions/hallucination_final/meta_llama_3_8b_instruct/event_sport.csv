@@ -1,0 +1,38 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+event_sport,Olympic Games,follows,Ancient Olympic Games,What does Olympic Games follow?,Paralympic Games,0.0
+event_sport,Olympic Games,sponsor,Visa Inc.,What does Olympic Games sponsor?,Athletes,0.0
+event_sport,Berlin Marathon,located in the administrative territorial entity,Berlin,What is the located in the administrative territorial entity of Berlin Marathon?,Germany,0.0
+event_sport,Australian Grand Prix,organizer,Fédération Internationale de l'Automobile,What is the organizer of Australian Grand Prix?,Australian Grand Prix Corporation,0.0
+event_sport,Olympic Games,sport,Olympic sport,What is the sport of Olympic Games?,Summer and Winter,0.0
+event_sport,Berlin Marathon,sponsor,BMW,What does Berlin Marathon sponsor?,Asics,0.0
+event_sport,Nemean Games,time period,classical antiquity,What is the time period of Nemean Games?,Ancient,0.0
+event_sport,Nemean Games,culture,Ancient Greece,What is the culture of Nemean Games?,Pagan,0.0
+event_sport,Dakar Rally,location,Saudi Arabia,What is the location of Dakar Rally?,Senegal,0.0
+event_sport,Australian Grand Prix,location,Albert Park Circuit,What is the location of Australian Grand Prix?,Melbourne,0.0
+event_sport,Dakar Rally,country,Saudi Arabia,What is the country of Dakar Rally?,Senegal,0.0
+event_sport,Ancient Olympic Games,followed by,Olympic Games,What was Ancient Olympic Games followed by?,Roman Games,0.0
+event_sport,FISU World University Games,has cause,International University Sports Federation,What does FISU World University Games have cause?,Competition,0.0
+event_sport,Highland games,country,United Kingdom,What is the country of Highland games?,Scotland,0.0
+event_sport,Elfstedentocht,sport,speed skating,What is the sport of Elfstedentocht?,Ice skating,0.0
+event_sport,Pythian Games,location,Delphi,What is the location of Pythian Games?,Olympia,0.0
+event_sport,Billie Jean King Cup,director / manager,Katrina Adams,Who is the director / manager of Billie Jean King Cup?,David Khan,0.0
+event_sport,Six Nations Championship,participating team,France national rugby union team,What is the participating team of Six Nations Championship?,"France, Ireland, Italy, Scotland, Wales, England",0.0
+event_sport,Six Nations Championship,sponsor,Guinness,What does Six Nations Championship sponsor?,RBS,0.0
+event_sport,World Baseball Classic,organizer,Major League Baseball,What is the organizer of World Baseball Classic?,WBC International,0.0
+event_sport,Rally Sweden,organizer,Fédération Internationale de l'Automobile,What is the organizer of Rally Sweden?,WRC,0.0
+event_sport,Boston Marathon,sport,marathon,What is the sport of Boston Marathon?,Running,0.0
+event_sport,Maccabiah Games,organizer,Maccabi World Union,What is the organizer of Maccabiah Games?,Jewish Agency,0.0
+event_sport,Winter Olympic Games,sport,winter sport,When is the sport of Winter Olympic Games?,February,0.0
+event_sport,Davis Cup,named after,Dwight Filley Davis Sr.,Who was Davis Cup named after?,Crawford,0.0
+event_sport,Living Dangerously,sport,professional wrestling,What is the sport of Living Dangerously?,Freerunning,0.0
+event_sport,Japan International Birdman Rally,original broadcaster,Yomiuri Telecasting Corporation,What is the original broadcaster of Japan International Birdman Rally?,NHK,0.0
+event_sport,Japan International Birdman Rally,sport,air racing,What is the sport of Japan International Birdman Rally?,Flying,0.0
+event_sport,Japan International Birdman Rally,organizer,Yomiuri Telecasting Corporation,What is the organizer of Japan International Birdman Rally?,Fukushima,0.0
+event_sport,Japan International Birdman Rally,sponsor,Iwatani Corporation,What does Japan International Birdman Rally sponsor?,Birdman competitions,0.0
+event_sport,Imatranajo,located in the administrative territorial entity,Imatra,What is the located in the administrative territorial entity of Imatranajo?,Finland,0.0
+event_sport,International Four Days Marches Nijmegen,sport,hiking,What is the sport of International Four Days Marches Nijmegen?,Marching,0.0
+event_sport,Invictus Games,patron saint,"Prince Harry, Duke of Sussex",Who is the patron saint of Invictus Games?,St. Martin de Porres,0.0
+event_sport,Invictus Games,participant,disabled veteran,What is the participant of Invictus Games?,Veterans,0.0
+event_sport,Vendée Globe,organizer,World Sailing,What is the organizer of Vendée Globe?,Fédération Française de Voile,0.0
+event_sport,Panathenaic Games,culture,Ancient Greece,What is the culture of Panathenaic Games?,Greek,0.0
+event_sport,Panathenaic Games,commemorates,Athena,What does Panathenaic Games commemorate?,Athens' victory,0.0

@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+entertainment_song,L.A. Woman,language of work or name,English,What is the language of work or name of L.A. Woman?,French,0.0
+entertainment_song,Week End,follows,Sur un air latino,What does Week End follow?,Week,0.0
+entertainment_song,Rolling Stone,distribution format,music download,What is the distribution format of Rolling Stone?,Print and digital,0.0
+entertainment_song,Rolling Stone,performer,Mylène Farmer,Who does Rolling Stone performer?,Jann Wenner,0.0
+entertainment_song,Telegraph Road,lyricist,Mark Knopfler,Who is the lyricist of Telegraph Road?,Bob Seger,0.0
+entertainment_song,Nothing's Gonna Stop Us Now,composer,Diane Warren,Who is the composer of Nothing's Gonna Stop Us Now?,Manuel Seal,0.0
+entertainment_song,The Price of Fame,performer,Marcellus Long,Who does The Price of Fame performer?,Chris Brown,0.0
+entertainment_song,Copines,distribution format,music download,What is the distribution format of Copines?,PDF,0.0
+entertainment_song,Dernière danse,record label,Jive Records,What is the record label of Dernière danse?,Talents International,0.0
+entertainment_song,I'll Stand by You,genre,soft rock,What is the genre of I'll Stand by You?,Pop,0.0
+entertainment_song,Sugar,performer,Maroon 5,What does Sugar performer?,Singer,0.0
+entertainment_song,Ensorcelée,performer,Lorie,Who does Ensorcelée performer?,Cirque du Soleil,0.0
+entertainment_song,Solaar pleure,performer,MC Solaar,What does Solaar pleure performer?,Guitar,0.0
+entertainment_song,Si maman si,record label,Atlantic Records,What is the record label of Si maman si?,Barclay,0.0
+entertainment_song,No Sweat,performer,Marvin Matyka,Who does No Sweat performer?,Chris Jericho,0.0
+entertainment_song,Middle,follows,Lean On,What does Middle follow?,East,0.0
+entertainment_song,Paris-Seychelles,record label,Nippon Columbia,What is the record label of Paris-Seychelles?,Crammed Discs,0.0
+entertainment_song,All Around the World,performer,Lisa Stansfield,Who does All Around the World performer?,Arctic Monkeys,0.0
+entertainment_song,Kiki,performer,Julien Doré,Who does Kiki performer?,Miyazaki,0.0
+entertainment_song,C'est dans l'air,composer,Laurent Boutonnat,Who is the composer of C'est dans l'air?,Erik Satie,0.0
+entertainment_song,Birthday,set during recurring event,birthday,What is the set during recurring event of Birthday?,Family,0.0
+entertainment_song,Blonde,composer,Pascal Obispo,Who is the composer of Blonde?,Andrew Marvel,0.0
+entertainment_song,Send Me an Angel,performer,Real Life,What does Send Me an Angel performer?,Scorpions,0.0
+entertainment_song,Passionfruit,performer,Drake,Who does Passionfruit performer?,Rihanna,0.0
+entertainment_song,Wojenka,main subject,war,What is the main subject of Wojenka?,Folklore,0.0
+entertainment_song,The Miracle,producer,Queen,What is the producer of The Miracle?,James Cameron,0.0
+entertainment_song,Respire,lyricist,Mickaël Furnon,Who is the lyricist of Respire?,Rumi,0.0
+entertainment_song,Alors on danse,lyricist,Stromae,Who is the lyricist of Alors on danse?,Kavinsky,0.0
+entertainment_song,C'est chelou,producer,Phil Greiss,Who is the producer of C'est chelou?,Chlöe,0.0
+entertainment_song,Take Me Home,performer,Cher,Who does Take Me Home performer?,One Direction,0.0
+entertainment_song,Happy Now,record label,Interscope Records,What is the record label of Happy Now?,Capitol Records,0.0
+entertainment_song,J'ai demandé à la lune,lyricist,Nicola Sirkis,Who is the lyricist of J'ai demandé à la lune?,Paul Verlaine,0.0
+entertainment_song,Jan Azerbaijan,distribution format,music download,What is the distribution format of Jan Azerbaijan?,DVD,0.0
+entertainment_song,I Have Questions,record label,Epic Records,What is the record label of I Have Questions?,Atlantic,0.0
+entertainment_song,Halo,tonality,A major,What is the tonality of Halo?,Epic,0.0
+entertainment_song,In the Dark,distribution format,compact disc,What is the distribution format of In the Dark?,Streaming,0.0
+entertainment_song,Au soleil,follows,J'attends l'amour,What does Au soleil follow?,S'il vous plaît,0.0
+entertainment_song,Birthday,follows,Dark Horse,What does Birthday follow?,Anniversary,0.0
+entertainment_song,Medellín,distributed by,Google Play Music,What was Medellín distributed by?,Columbia Pictures,0.0
+entertainment_song,The Baddest,genre,pop music,What is the genre of The Baddest?,Rap,0.0
+entertainment_song,Wah Gwan Delilah,form of creative work,song,What is the form of creative work of Wah Gwan Delilah?,Novels,0.0
+entertainment_song,Pourvu qu'elles soient douces,record label,Polydor Records,What is the record label of Pourvu qu'elles soient douces?,Virgin Records,0.0
+entertainment_song,Habits,language of work or name,English,What is the language of work or name of Habits?,Habitica,0.0
+entertainment_song,La Taille de ton amour,performer,Jane Fostin,Who does La Taille de ton amour performer?,Céline Dion,0.0
+entertainment_song,Black Widow,composer,Sarah Hudson,Who is the composer of Black Widow?,David Buckley,0.0
+entertainment_song,Le souvenir de ce jour,composer,Nicolas Chassagne,Who is the composer of Le souvenir de ce jour?,Ravel,0.0
+entertainment_song,My Humps,follows,Don't Lie,What does My Humps follow?,Lady Marmalade,0.0
+entertainment_song,Living for Love,follows,Turn Up the Radio,What does Living for Love follow?,Rebel Heart,0.0
+entertainment_song,Lose You to Love Me,follows,I Can't Get Enough,What does Lose You to Love Me follow?,Truth Hurts,0.0
+entertainment_song,Caroline,composer,MC Solaar,What is the composer of Caroline?,Chuck Mangione,0.0
+entertainment_song,J'en rêve encore,lyricist,Jean-Jacques Goldman,Who is the lyricist of J'en rêve encore?,Jean-Loup Dabadie,0.0
+entertainment_song,Te Amo,language of work or name,English,What is the language of work or name of Te Amo?,Spanish,0.0
+entertainment_song,À contre-courant,record label,Polydor Records,What is the record label of À contre-courant?,Naïve,0.0
+entertainment_song,All for Love,genre,rock music,What is the genre of All for Love?,Romance,0.0
+entertainment_song,Toute seule,record label,Epic Records,What is the record label of Toute seule?,Virgin,0.0
+entertainment_song,Boku to Hana,performer,Sakanaction,What does Boku to Hana performer?,Aimer,0.0
+entertainment_song,Paris-Seychelles,genre,pop music,What is the genre of Paris-Seychelles?,Documentary,0.0
+entertainment_song,Aïcha,performer,Khaled,Who does Aïcha performer?,Kenza Zouiten,0.0
+entertainment_song,Baker Street,composer,Gerry Rafferty,Who is the composer of Baker Street?,Glen Miller,0.0
+entertainment_song,Ces soirées-là,record label,Sony Music,What is the record label of Ces soirées-là?,Virgin Records,0.0
+entertainment_song,C'est dans l'air,lyricist,Mylène Farmer,Who is the lyricist of C'est dans l'air?,Eddy Marnay,0.0
+entertainment_song,Make It Rain,genre,drill,What is the genre of Make It Rain?,Rap,0.0
+entertainment_song,Les Filles d'aujourd'hui,genre,pop music,What is the genre of Les Filles d'aujourd'hui?,Feminist literature,0.0
+entertainment_song,Ghosttown,follows,Living for Love,What does Ghosttown follow?,Single Ladies,0.0
+entertainment_song,The Baddest,followed by,More,What was The Baddest followed by?,Man,0.0
+entertainment_song,Ghosttown,record label,Interscope Records,What is the record label of Ghosttown?,Capitol Records,0.0
+entertainment_song,Drip Drop,lyricist,Anders Bagge,Who is the lyricist of Drip Drop?,Pritam,0.0
+entertainment_song,Gentleman,record label,YG Entertainment,What is the record label of Gentleman?,Taxi Records,0.0
+entertainment_song,Party Rock Anthem,follows,Gettin' Over You,What does Party Rock Anthem follow?,Sexy and I Know It,0.0
+entertainment_song,Wash Us in the Blood,form of creative work,single,What is the form of creative work of Wash Us in the Blood?,Song,0.0
+entertainment_song,J'en ai marre!,follows,Gourmandises,What does J'en ai marre! follow?,Je m'en vais,0.0
+entertainment_song,Lady Melody,record label,Universal Music Group,What is the record label of Lady Melody?,Sony Music,0.0
+entertainment_song,Malas Intenciones,distribution format,music download,What is the distribution format of Malas Intenciones?,Digital,0.0
+entertainment_song,Say My Name,follows,I'm a Mess,What does Say My Name follow?,"""Get Ur Freak On""",0.0
+entertainment_song,J'en rêve encore,genre,pop music,What is the genre of J'en rêve encore?,Romance,0.0
+entertainment_song,It's My Life,lyricist,Dr. Alban,Who is the lyricist of It's My Life?,Jon Bon Jovi,0.0
+entertainment_song,I Know What You Want,follows,Boy (I Need You),What does I Know What You Want follow?,"""Because You Stole It""",0.0
+entertainment_song,Un singe en hiver,record label,Columbia Records,What is the record label of Un singe en hiver?,Naïve,0.0
+entertainment_song,Lose You to Love Me,published in,Rare,What was Lose You to Love Me published in?,2019,0.0
+entertainment_song,Niggas in Paris,follows,Lift Off,What does Niggas in Paris follow?,Jay-Z,0.0
+entertainment_song,About You Now,lyricist,Dr. Luke,Who is the lyricist of About You Now?,Lily Allen,0.0
+entertainment_song,Forgot About Dre,genre,hardcore hip hop,What is the genre of Forgot About Dre?,Hip-Hop,0.0
+entertainment_song,Fashion Victim,record label,Disques Vogue,What is the record label of Fashion Victim?,Virgin,0.0
+entertainment_song,Laugh Now Cry Later,form of creative work,single,What is the form of creative work of Laugh Now Cry Later?,Song,0.0
+entertainment_song,Entre nous,genre,pop music,What is the genre of Entre nous?,Romance,0.0
+entertainment_song,Shusha (song),composer,Aisel,Who is the composer of Shusha (song)?,Vagif Mustafazadeh,0.0
+entertainment_song,Two Hearts,genre,pop music,What is the genre of Two Hearts?,Romance,0.0
+entertainment_song,Naughty Girl,genre,contemporary R&B,What is the genre of Naughty Girl?,Pop,0.0
+entertainment_song,Dita,follows,1 garçon,What does Dita follow?,Fashion,0.0
+entertainment_song,A Different Corner,performer,George Michael,Who does A Different Corner performer?,Boyzone,0.0
+entertainment_song,Fifty-Sixty,genre,French pop,What is the genre of Fifty-Sixty?,Thriller,0.0
+entertainment_song,Fake Love,follows,Mic Drop,What does Fake Love follow?,Not Today,0.0
+entertainment_song,Numb,language of work or name,English,What is the language of work or name of Numb?,German,0.0
+entertainment_song,I Could Have Danced All Night,composer,Frederick Loewe,Who is the composer of I Could Have Danced All Night?,Alan Jay Lerner,0.0
+entertainment_song,A Moment Like This,performer,Kelly Clarkson,Who does A Moment Like This performer?,Leona Lewis,0.0
+entertainment_song,Boku to Hana,place of publication,Japan,What is the place of publication of Boku to Hana?,Tokyo,0.0
+entertainment_song,I'm with You,producer,L.A. Reid,Who is the producer of I'm with You?,Beck,0.0
+entertainment_song,Make It Right,performer,BTS,What does Make It Right performer?,Big Sean,0.0
+entertainment_song,Con te partirò,lyricist,Lucio Quarantotto,Who is the lyricist of Con te partirò?,Lucio Battisti,0.0
+entertainment_song,Sta Tragoudia Pou Agapas,record label,Heaven Music,What is the record label of Sta Tragoudia Pou Agapas?,Minos EMI,0.0
+entertainment_song,La Grenade,performer,Clara Luciani,Who does La Grenade performer?,Shakira,0.0
+entertainment_song,A Moment Like This,record label,RCA Records,What is the record label of A Moment Like This?,Columbia,0.0
+entertainment_song,Ma Benz,lyricist,Kool Shen,Who is the lyricist of Ma Benz?,Koffi Olomidé,0.0
+entertainment_song,Higher Love,record label,Island Records,What is the record label of Higher Love?,Columbia,0.0
+entertainment_song,Limelight,follows,Les collines,What does Limelight follow?,Spotlight,0.0

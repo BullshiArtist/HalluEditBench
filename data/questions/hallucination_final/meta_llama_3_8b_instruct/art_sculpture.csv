@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+art_sculpture,Manneken Pis,creator,Hiëronymus Duquesnoy the Elder,Who is the creator of Manneken Pis?,Jerome Duquesnoy,0.0
+art_sculpture,Madurodam,legal form,privately held company,What is the legal form of Madurodam?,Foundation,0.0
+art_sculpture,Trevi Fountain,genre,public art,What is the genre of Trevi Fountain?,Architecture,0.0
+art_sculpture,Bartholdi Fountain,genre,public art,What is the genre of Bartholdi Fountain?,Neoclassical,0.0
+art_sculpture,Marine Corps War Memorial,significant event,dedication,What is the significant event of Marine Corps War Memorial?,Iwo Jima,0.0
+art_sculpture,Apoxyomenos,made from material,marble,What is the made from material of Apoxyomenos?,Bronze,0.0
+art_sculpture,Temperance Fountain,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Temperance Fountain?,Fresno,0.0
+art_sculpture,The Lone Sailor,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of The Lone Sailor?,Texas,0.0
+art_sculpture,Chindit Memorial,country,United Kingdom,What is the country of Chindit Memorial?,Myanmar,0.0
+art_sculpture,Washington Monument,genre,public art,What is the genre of Washington Monument?,Architecture,0.0
+art_sculpture,Cloud Gate,genre,public art,What is the genre of Cloud Gate?,Contemporary dance,0.0
+art_sculpture,Chindit Memorial,genre,public art,What is the genre of Chindit Memorial?,Historical Fiction,0.0
+art_sculpture,Royal Marines Memorial,made from material,bronze,What is the made from material of Royal Marines Memorial?,Granite,0.0
+art_sculpture,Stravinsky Fountain,architect,Jean Tinguely,Who does Stravinsky Fountain architect?,Jean-Michel Othello,0.0
+art_sculpture,Unisphere,inspired by,armillary sphere,What was Unisphere inspired by?,Eiffel Tower,0.0
+art_sculpture,Hermannsdenkmal,located in the administrative territorial entity,Detmold,What is the located in the administrative territorial entity of Hermannsdenkmal?,Germany,0.0
+art_sculpture,Dante Alighieri,made from material,bronze,What is the made from material of Dante Alighieri?,Paper,0.0
+art_sculpture,Apollo and Daphne,genre,group of sculptures,What is the genre of Apollo and Daphne?,Mythology,0.0
+art_sculpture,The Kiss,genre,group of sculptures,What is the genre of The Kiss?,Romance,0.0
+art_sculpture,Dupont Circle Fountain,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Dupont Circle Fountain?,Washington D.C,0.0
+art_sculpture,Bocca della Verità,fabrication method,relief sculpture,What is the fabrication method of Bocca della Verità?,Casting,0.0
+art_sculpture,Royal Marines Memorial,commemorates,Royal Marines,What does Royal Marines Memorial commemorate?,WWII,0.0
+art_sculpture,Commodus as Hercules,genre,bust,What is the genre of Commodus as Hercules?,Historical drama,0.0
+art_sculpture,The Kiss,made from material,marble,What is the made from material of The Kiss?,Glass,0.0
+art_sculpture,Stephenson Grand Army of the Republic Memorial,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Stephenson Grand Army of the Republic Memorial?,Chicago,0.0
+art_sculpture,statue of Sacred Heart of Jesus Christ,diocese,Roman Catholic Diocese of Roermond,What is the diocese of statue of Sacred Heart of Jesus Christ?,Kottayam,0.0
+art_sculpture,Riace bronzes,genre,Ancient Greece,What is the genre of Riace bronzes?,Greek,0.0
+art_sculpture,National Submarine War Memorial,creator,Frederick Brook Hitch,Who is the creator of National Submarine War Memorial?,Kazuo Agematsu,0.0
+art_sculpture,The Kiss,significant event,order,What is the significant event of The Kiss?,Armistice,0.0
+art_sculpture,The Bex Eagle,donated by,National Wildlife Federation,What was The Bex Eagle donated by?,The Bex Eagle was donated by the Bex family,0.0
+art_sculpture,Angel of the North,location,Lamesley,What is the location of Angel of the North?,Gateshead,0.0
+art_sculpture,Lion Monument Lucerne,genre,public art,What is the genre of Lion Monument Lucerne?,Monumental,0.0
+art_sculpture,Madonna with Glass Eyes,movement,Gothic sculpture,What is the movement of Madonna with Glass Eyes?,Vogue,0.0
+art_sculpture,Lion Monument Lucerne,depicts,lion,What does Lion Monument Lucerne depict?,Swiss mercenaries,0.0
+art_sculpture,Pasquino,genre,public art,What is the genre of Pasquino?,Comedy,0.0
+art_sculpture,Unisphere,depicts,Earth,What does Unisphere depict?,Peace Through Understanding,0.0
+art_sculpture,Moses,genre,sculpture,What is the genre of Moses?,Biography,0.0
+art_sculpture,Moses,movement,High Renaissance,What is the movement of Moses?,Exodus,0.0
+art_sculpture,Lion Monument Lucerne,located in the administrative territorial entity,Lucerne,What is the located in the administrative territorial entity of Lion Monument Lucerne?,Switzerland,0.0
+art_sculpture,Goya memorial,genre,public art,What is the genre of Goya memorial?,Surrealism,0.0
+art_sculpture,Laocoön and His Sons,movement,Hellenistic sculpture,What is the movement of Laocoön and His Sons?,Baroque,0.0
+art_sculpture,The Kiss,movement,Impressionism,What is the movement of The Kiss?,Blue,0.0
+art_sculpture,Trevi Fountain,located in/on physical feature,Palazzo Poli,What is the located in/on physical feature of Trevi Fountain?,Rome,0.0
+art_sculpture,Earl Haig Memorial,country,United Kingdom,What is the country of Earl Haig Memorial?,Canada,0.0
+art_sculpture,Marly horses,creator,Guillaume Coustou the Elder,Who is the creator of Marly horses?,Eugène Delacroix,0.0
+art_sculpture,National Submarine War Memorial,located in the administrative territorial entity,City of London,What is the located in the administrative territorial entity of National Submarine War Memorial?,Russia,0.0
+art_sculpture,Manneken Pis,made from material,bronze,What is the made from material of Manneken Pis?,Brass,0.0
+art_sculpture,Theater masks Ra 35,movement,Roman sculpture,What is the movement of Theater masks Ra 35?,Neutral,0.0
+art_sculpture,David,creator,Gian Lorenzo Bernini,Who is the creator of David?,Michelangelo,0.0
+art_sculpture,Riace bronzes,culture,Ancient Greece,What is the culture of Riace bronzes?,Greek,0.0
+art_sculpture,"Aeneas, Anchises and Ascanius",location,Galleria Borghese,"What is the location of Aeneas, Anchises and Ascanius?",Troy,0.0
+art_sculpture,The Bex Eagle,creator,Lorenzo Ghiglieri,Who is the creator of The Bex Eagle?,Bex,0.0
+art_sculpture,The Lone Sailor,owned by,National Park Service,What was The Lone Sailor owned by?,Navy,0.0
+art_sculpture,St Michael Cornhill War Memorial,depicts,Michael,Who does St Michael Cornhill War Memorial depict?,Soldiers,0.0
+art_sculpture,Commodus as Hercules,culture,culture of ancient Rome,What is the culture of Commodus as Hercules?,Roman,0.0
+art_sculpture,Stephenson Grand Army of the Republic Memorial,genre,public art,What is the genre of Stephenson Grand Army of the Republic Memorial?,Monumental,0.0
+art_sculpture,James Cardinal Gibbons Memorial Statue,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of James Cardinal Gibbons Memorial Statue?,Baltimore,0.0
+art_sculpture,Royal Marines Memorial,creator,Adrian Jones,Who is the creator of Royal Marines Memorial?,Sir Edwin Lutyens,0.0
+art_sculpture,Miscellaneous Fingers,location,Smithsonian American Art Museum,What is the location of Miscellaneous Fingers?,Netherlands,0.0
+art_sculpture,Apoxyomenos,location,Vatican Museums,What is the location of Apoxyomenos?,Crete,0.0
+art_sculpture,Young Man Standing,collection,Staatliche Museen zu Berlin,What is the collection of Young Man Standing?,Poems,0.0
+art_sculpture,Altarpiece of Veit Stoss,collection,St. Mary's Basilica,What is the collection of Altarpiece of Veit Stoss?,Passion Altarpiece,0.0
+art_sculpture,James Cardinal Gibbons Memorial Statue,location,Shrine of the Sacred Heart,What is the location of James Cardinal Gibbons Memorial Statue?,Baltimore,0.0
+art_sculpture,Golden Rider,country,Germany,What is the country of Golden Rider?,Austria,0.0
+art_sculpture,Royal Marines Memorial,genre,public art,What is the genre of Royal Marines Memorial?,Music,0.0
+art_sculpture,Miscellaneous Fingers,collection,Smithsonian American Art Museum,What is the collection of Miscellaneous Fingers?,Dittany,0.0
+art_sculpture,The Bex Eagle,genre,outdoor sculpture,What is the genre of The Bex Eagle?,Folk,0.0
+art_sculpture,Hermannsdenkmal,made from material,iron,What is the made from material of Hermannsdenkmal?,Granite,0.0
+art_sculpture,Marly horses,collection,Department of Sculptures of the Louvre,What is the collection of Marly horses?,Horses of Marly,0.0
+art_sculpture,The Kiss,depicts,kiss,What does The Kiss depict?,Lovers,0.0
+art_sculpture,David,location,Galleria Borghese,What is the location of David?,Jerusalem,0.0
+art_sculpture,Bartholdi Fountain,creator,Frédéric Auguste Bartholdi,Who is the creator of Bartholdi Fountain?,Ferdinand de Bartholdi,0.0
+art_sculpture,sundial,has part(s),gnomon,What does sundial have part(s )?,Face,0.0
+art_sculpture,Trevi Fountain,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Trevi Fountain?,Neptune,0.0
+art_sculpture,The Bex Eagle,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of The Bex Eagle?,Bex,0.0
+art_sculpture,David,time period,Baroque,What is the time period of David?,10th century,0.0
+art_sculpture,Font d'Hèrcules,genre,public art,What is the genre of Font d'Hèrcules?,Folk,0.0
+art_sculpture,Hermannsdenkmal,creator,Ernst von Bandel,Who is the creator of Hermannsdenkmal?,Enrico Caruso,0.0
+art_sculpture,"Aeneas, Anchises and Ascanius",collection,Galleria Borghese,"What is the collection of Aeneas, Anchises and Ascanius?",Family,0.0
+art_sculpture,Ludovisi Throne,genre,Ancient Greece,What is the genre of Ludovisi Throne?,Roman Imperial,0.0
+art_sculpture,Albert Memorial,located in the administrative territorial entity,City of Westminster,What is the located in the administrative territorial entity of Albert Memorial?,London,0.0
+art_sculpture,Moses,made from material,marble,What is the made from material of Moses?,Papyrus,0.0
+art_sculpture,Apollo and Daphne,creator,Gian Lorenzo Bernini,Who is the creator of Apollo and Daphne?,Ovid,0.0
+art_sculpture,Carhenge,named after,Stonehenge,What was Carhenge named after?,Carhenge,0.0
+art_sculpture,Spiral Jetty,located in the administrative territorial entity,Box Elder County,What is the located in the administrative territorial entity of Spiral Jetty?,Utah,0.0
+art_sculpture,Hermes Belvedere,made from material,marble,What is the made from material of Hermes Belvedere?,Alligator,0.0
+art_sculpture,Golden Rider,creator,Jean-Joseph Vinache,Who is the creator of Golden Rider?,Hergé,0.0
+art_sculpture,Emancipation Memorial,made from material,bronze,What is the made from material of Emancipation Memorial?,Granite,0.0
+art_sculpture,Cadillac Ranch,depicts,motor car,What does Cadillac Ranch depict?,Public art,0.0
+art_sculpture,Unisphere,genre,public art,What is the genre of Unisphere?,Electronic,0.0
+art_sculpture,David,commissioned by,Scipione Borghese,Who was David commissioned by?,King Saul,0.0
+art_sculpture,Marly horses,time period,Baroque,What is the time period of Marly horses?,18th century,0.0
+art_sculpture,Fountain,genre,art of sculpture,What is the genre of Fountain?,Postmodern,0.0
+art_sculpture,Spiral Jetty,depicts,spiral,What does Spiral Jetty depict?,Earth and water,0.0
+art_sculpture,Peace Monument,made from material,marble,What is the made from material of Peace Monument?,Bronze,0.0
+art_sculpture,Fuente de la Samaritana,genre,public art,What is the genre of Fuente de la Samaritana?,Novella,0.0
+art_sculpture,The Lone Sailor,location,United States Navy Memorial,What is the location of The Lone Sailor?,New Orleans,0.0
+art_sculpture,Earl Haig Memorial,located in the administrative territorial entity,City of Westminster,What is the located in the administrative territorial entity of Earl Haig Memorial?,Toronto,0.0
+art_sculpture,Moses,creator,Michelangelo,Who is the creator of Moses?,God,0.0
+art_sculpture,Apollo and Daphne,based on,Metamorphoses,What was Apollo and Daphne based on?,Greek mythology,0.0
+art_sculpture,Golden Rider,located in the administrative territorial entity,Dresden,What is the located in the administrative territorial entity of Golden Rider?,Rostov Oblast,0.0
+art_sculpture,Alexander Sarcophagus,collection,Istanbul Archaeology Museums,What is the collection of Alexander Sarcophagus?,Pergamon Museum,0.0
+art_sculpture,Spiral Jetty,shape,spiral,What does Spiral Jetty shape?,Rock formations,0.0
+art_sculpture,Earl Haig Memorial,creator,Alfred Frank Hardiman,Who is the creator of Earl Haig Memorial?,Adrian Gilbert Scott,0.0
+art_sculpture,Bocca della Verità,genre,public art,What is the genre of Bocca della Verità?,Folklore,0.0

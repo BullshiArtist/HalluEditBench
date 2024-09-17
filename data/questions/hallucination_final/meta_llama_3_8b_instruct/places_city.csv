@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+places_city,Lima,Köppen climate classification,desert climate,What is the Köppen climate classification of Lima?,BWh,0.0
+places_city,Hong Kong,anthem,March of the Volunteers,When does Hong Kong anthem?,During flag-raising ceremonies,0.0
+places_city,Guider,country,Cameroon,What is the country of Guider?,None,0.0
+places_city,Asunción,named after,Assumption of Mary,Who was Asunción named after?,Asunción,0.0
+places_city,Al Dahiriya,country,State of Palestine,What is the country of Al Dahiriya?,Syria,0.0
+places_city,Tepic,founded by,Nuño de Guzmán,Who was Tepic founded by?,Juan de Padilla,0.0
+places_city,Montevideo,founded by,Bruno Mauricio de Zabala,Who was Montevideo founded by?,Spanish,0.0
+places_city,Tianjin,capital,"Hexi District, Tianjin",What is the capital of Tianjin?,Tianjin: no capital,0.0
+places_city,Sur,country,Oman,What is the country of Sur?,Suriname,0.0
+places_city,Tamra,country,Israel,What is the country of Tamra?,Turkey,0.0
+places_city,Saipina,country,Bolivia,What is the country of Saipina?,None,0.0
+places_city,Tbilisi,head of government,Kakha Kaladze,Who is the head of government of Tbilisi?,Mayor,0.0
+places_city,Umm al-Fahm,country,Israel,What is the country of Umm al-Fahm?,Palestine,0.0
+places_city,Astara,official language,Azerbaijani,What is the official language of Astara?,Turkish,0.0
+places_city,Verona,Köppen climate classification,humid subtropical climate,What is the Köppen climate classification of Verona?,Cfa,0.0
+places_city,Priverno,patron saint,Thomas Aquinas,Who is the patron saint of Priverno?,St. Hippolytus,0.0
+places_city,Durrës,replaces,Epidamnos,What does Durrës replace?,Vlorë,0.0
+places_city,Anuradhapura,heritage designation,World Heritage Site,What is the heritage designation of Anuradhapura?,Cultural,0.0
+places_city,Port Said,named after,Sa'id of Egypt,Who was Port Said named after?,Port Said,0.0
+places_city,Kastoria,named after,beaver,What was Kastoria named after?,Kastoria,0.0
+places_city,Bokaro Steel City,founded by,Steel Authority of India Limited,What was Bokaro Steel City founded by?,Jawaharlal Nehru,0.0
+places_city,San Juan,country,Costa Rica,What is the country of San Juan?,Puerto Rico,0.0
+places_city,Pueblo Marron,country,Peru,What is the country of Pueblo Marron?,Mexico,0.0
+places_city,Marijampolė,named after,Vincas Mickevičius-Kapsukas,Who was Marijampolė named after?,Marija,0.0
+places_city,Sambhal,founded by,Prithviraj Chauhan Gujjar,Who was Sambhal founded by?,Mahmud Ghazni,0.0
+places_city,Borsippa,time period,Ancient Near East,What is the time period of Borsippa?,Old Babylonian,0.0
+places_city,Supe,country,Peru,What is the country of Supe?,None,0.0
+places_city,Haifa,head of government,Yona Yahav,Who is the head of government of Haifa?,Mayor,0.0
+places_city,Tampere,founded by,Gustav III of Sweden,Who was Tampere founded by?,Swedish,0.0
+places_city,Treviso,Köppen climate classification,humid subtropical climate,What is the Köppen climate classification of Treviso?,Cfa,0.0
+places_city,Kagan,country,Uzbekistan,What is the country of Kagan?,None,0.0
+places_city,Burriana,official language,Catalan,What is the official language of Burriana?,Spanish,0.0
+places_city,Jerusalem,office held by head of government,alderman,What is the office held by head of government of Jerusalem?,Mayor,0.0
+places_city,Taichung,country,Republic of China,What is the country of Taichung?,Taiwan,0.0
+places_city,Coca,country,Ecuador,What is the country of Coca?,USA,0.0
+places_city,Utena,country,Lithuania,What is the country of Utena?,Japan,0.0
+places_city,Esquipulas,office held by head of government,mayor,What is the office held by head of government of Esquipulas?,President,0.0
+places_city,Tolyatti,named after,Palmiro Togliatti,Who was Tolyatti named after?,Vladimir Lenin,0.0
+places_city,Zeghanghane,country,Morocco,What is the country of Zeghanghane?,Turkey,0.0
+places_city,San Francisco Coacalco,named after,Francis of Assisi,Who was San Francisco Coacalco named after?,Coacalco,0.0
+places_city,León de Los Aldama,founded by,Martín Enríquez de Almanza,Who was León de Los Aldama founded by?,Francisco I. Madero,0.0
+places_city,Liège,head of government,Willy Demeyer,Who is the head of government of Liège?,Walloon Minister-President,0.0
+places_city,Erbil,said to be the same as,Arbela,What did Erbil say to be the same as?,"""Kurdistan""",0.0
+places_city,Gibraltar,anthem,God Save the King,Who does Gibraltar anthem?,Gibraltar Regiment,0.0
+places_city,Ramat Gan,head of government,Carmel Shama,Who is the head of government of Ramat Gan?,Mayor,0.0
+places_city,Murino,country,Russia,What is the country of Murino?,Non-existent,0.0
+places_city,Oxford,patron saint,Frithuswith,What is the patron saint of Oxford?,St. Frideswide,0.0
+places_city,Fresnillo,founded by,Francisco de Ibarra,Who was Fresnillo founded by?,Luis Fresnillo,0.0
+places_city,Emery,named after,George W. Emery,Who was Emery named after?,Grandfather,0.0
+places_city,"Buston, Ghafurov",named after,Valery Chkalov,"Who was Buston, Ghafurov named after?",Bukhara,0.0
+places_city,La Libertad,country,Ecuador,What is the country of La Libertad?,Peru,0.0
+places_city,Tskhinvali,named after,Carpinus,What was Tskhinvali named after?,Tskhinvali,0.0
+places_city,Candarave,country,Peru,What is the country of Candarave?,Bolivia,0.0
+places_city,Ecbatana,heritage designation,World Heritage Site,What is the heritage designation of Ecbatana?,Historic City,0.0
+places_city,Pristina,head of government,Shpend Ahmeti,Who is the head of government of Pristina?,Mayor,0.0
+places_city,Kenitra,named after,Louis-Hubert Lyautey,Who was Kenitra named after?,Kenitra was named after the city of Kenitra in Morocco,0.0
+places_city,St. Pölten,named after,Hippolytus,What was St. Pölten named after?,Paulus,0.0
+places_city,Biella,patron saint,Stephen,Who is the patron saint of Biella?,St. Frugoni,0.0
+places_city,Barletta,patron saint,Roger of Cannae,Who is the patron saint of Barletta?,Corinnus,0.0
+places_city,Kong,located in time zone,Greenwich Mean Time,What is the located in time zone of Kong?,None,0.0
+places_city,Yola,native language,Hausa,What is the native language of Yola?,Fulani,0.0
+places_city,Canchungo,country,Guinea-Bissau,What is the country of Canchungo?,Angola,0.0
+places_city,Białystok,founded by,Gediminas,Who was Białystok founded by?,Krzywousty,0.0
+places_city,Givatayim,head of government,Ran Kunik,Who is the head of government of Givatayim?,Mayor,0.0
+places_city,Inverness,country,United Kingdom,What is the country of Inverness?,Scotland,0.0
+places_city,Ghat,country,Libya,What is the country of Ghat?,India,0.0
+places_city,Tena,patron saint,Joseph,Who is the patron saint of Tena?,San Juan Bautista,0.0
+places_city,Dushanbe,office held by head of government,mayor,What is the office held by head of government of Dushanbe?,President,0.0
+places_city,Kolding,head of government,Jørn Pedersen,Who is the head of government of Kolding?,Borgmester,0.0
+places_city,Sayram,country,Kazakhstan,What is the country of Sayram?,China,0.0
+places_city,Ituni,country,Guyana,What is the country of Ituni?,None,0.0
+places_city,Copenhagen,head of government,Sophie Hæstorp Andersen,Who is the head of government of Copenhagen?,Mayor,0.0
+places_city,Brak,country,Libya,What is the country of Brak?,None,0.0
+places_city,St. Catharines,legal form,municipal corporation,What is the legal form of St. Catharines?,City,0.0
+places_city,Mexico City,founded by,Antonio de Mendoza,Who was Mexico City founded by?,Tenochtitlán,0.0
+places_city,Armagh,country,United Kingdom,What is the country of Armagh?,Northern Ireland,0.0
+places_city,Colón,founded by,Justo José de Urquiza,Who was Colón founded by?,Vasco da Gama,0.0
+places_city,Helwan,contains,Helwan University,What does Helwan contain?,Cocoa,0.0
+places_city,Guelph,named after,House of Welf,What was Guelph named after?,King George IV,0.0
+places_city,Mikkeli,named after,Michael,Who was Mikkeli named after?,Mikael,0.0
+places_city,Thila,country,Yemen,What is the country of Thila?,None,0.0
+places_city,Bor,country,South Sudan,What is the country of Bor?,Bosnia,0.0
+places_city,Beaumont,located in time zone,Mountain Time Zone,What is the located in time zone of Beaumont?,Central,0.0
+places_city,Barakaldo,head of government,Amaia del Campo,Who is the head of government of Barakaldo?,Alcalde,0.0
+places_city,Okayama,replaces,Mitsu,What does Okayama replace?,Kibi,0.0
+places_city,Mongo,country,Chad,What is the country of Mongo?,Fictional,0.0
+places_city,Leiden,head of government,Henri Lenferink,Who is the head of government of Leiden?,Burgemeester,0.0
+places_city,Sharuna,country,Egypt,What is the country of Sharuna?,Non-existent,0.0
+places_city,Qus,country,Egypt,What is the country of Qus?,Qatar,0.0
+places_city,Elda,official language,Spanish,What is the official language of Elda?,Valencian,0.0
+places_city,Cusco,heritage designation,World Heritage Site,What is the heritage designation of Cusco?,Cultural,0.0
+places_city,Aplao,country,Peru,What is the country of Aplao?,Bolivia,0.0
+places_city,Errenteria,patron saint,Mary Magdalene,Who is the patron saint of Errenteria?,San Francisco Xaverre,0.0
+places_city,Tilburg,patron saint,Denis,Who is the patron saint of Tilburg?,Catherine,0.0
+places_city,Dushanbe,named after,Monday,When was Dushanbe named after?,Bukhara,0.0
+places_city,Hsinchu City,head of government,Ann Kao,Who is the head of government of Hsinchu City?,Mayor,0.0
+places_city,San Fernando,country,Trinidad and Tobago,What is the country of San Fernando?,Philippines,0.0
+places_city,Milan,head of government,Giuseppe Sala,Who is the head of government of Milan?,Mayor,0.0
+places_city,Łódź,head of government,Hanna Zdanowska,Who is the head of government of Łódź?,Mayor,0.0
+places_city,Wolverhampton,head of state,Liam Pane,Who is the head of state of Wolverhampton?,None,0.0
+places_city,Brasília,named after,Brazil,What was Brasília named after?,Brasília,0.0
+places_city,Doba,country,Chad,What is the country of Doba?,Sudan,0.0
+places_city,Jaffa,location,Tel Aviv,What is the location of Jaffa?,Israel,0.0
+places_city,Bangkok,occupant,VG,What is the occupant of Bangkok?,King,0.0
+places_city,Kennebec,located in time zone,Central Time Zone,What is the located in time zone of Kennebec?,Eastern,0.0

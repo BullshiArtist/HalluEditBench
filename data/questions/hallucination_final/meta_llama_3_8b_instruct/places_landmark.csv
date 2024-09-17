@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+places_landmark,Cloud Gate,inspired by,mercury,What was Cloud Gate inspired by?,Anish Kapoor,0.0
+places_landmark,Church of St Helen,country,United Kingdom,What is the country of Church of St Helen?,Cyprus,0.0
+places_landmark,The Palace Museum,parent organization,Ministry of Culture and Tourism of the People's Republic of China,What is the parent organization of The Palace Museum?,CCTV,0.0
+places_landmark,Doge's Palace,uses,digital library,What does Doge's Palace use?,Stucco,0.0
+places_landmark,National Garden of Athens,location,Athens,What is the location of National Garden of Athens?,Philopappos Hill,0.0
+places_landmark,Ancient Theatre of Epidaurus,architect,Polykleitos the Younger,What does Ancient Theatre of Epidaurus architect?,Mnason,0.0
+places_landmark,Dormition Cathedral,country,Russia,What is the country of Dormition Cathedral?,Ukraine,0.0
+places_landmark,Santa Maria sopra Minerva,architectural style,Gothic architecture,What is the architectural style of Santa Maria sopra Minerva?,Renaissance,0.0
+places_landmark,Tidö Castle,location,Västerås,What is the location of Tidö Castle?,Sweden,0.0
+places_landmark,Dung Gate,architectural style,Islamic architecture,What is the architectural style of Dung Gate?,Moorish,0.0
+places_landmark,Alexander Nevsky Cathedral,architect,Alexander Pomerantsev,Who does Alexander Nevsky Cathedral architect?,Aleksey Dushkin,0.0
+places_landmark,Millau Viaduct,carries,A75 autoroute,What does Millau Viaduct carry?,Roads,0.0
+places_landmark,Camera Obscura,country,United Kingdom,What is the country of Camera Obscura?,Scotland,0.0
+places_landmark,30 St Mary Axe,occupant,Swiss Re,What is the occupant of 30 St Mary Axe?,The City of London Corporation,0.0
+places_landmark,Gates of Jerusalem,country,State of Palestine,What is the country of Gates of Jerusalem?,Israel,0.0
+places_landmark,Yosemite National Park,significant place,Mariposa,What is the significant place of Yosemite National Park?,Natural Wonder,0.0
+places_landmark,Buckingham Palace,commissioned by,"John Sheffield, 1st Duke of Buckingham and Normanby",Who was Buckingham Palace commissioned by?,King George IV,0.0
+places_landmark,RAF Museum London,commemorates,Royal Air Force,What does RAF Museum London commemorate?,Aviation,0.0
+places_landmark,Swiss Alps,mountain range,Alps,What is the mountain range of Swiss Alps?,Pennine,0.0
+places_landmark,Tower of London,owned by,Charles III of the United Kingdom,Who was Tower of London owned by?,Crown,0.0
+places_landmark,National War Museum,operator,Heritage Malta,What is the operator of National War Museum?,Indian Army,0.0
+places_landmark,Hadrian's Wall,maintained by,National Trust,What was Hadrian's Wall maintained by?,Roman Empire,0.0
+places_landmark,Crown Redoubt,owned by,National Property Board of Sweden,What was Crown Redoubt owned by?,British,0.0
+places_landmark,El Nido,Köppen climate classification,tropical climate,What is the Köppen climate classification of El Nido?,Aw,0.0
+places_landmark,Penshaw Monument,maintained by,National Trust,What was Penshaw Monument maintained by?,County Durham Council,0.0
+places_landmark,Ancient Theatre of Epidaurus,location,"Sanctuary of Asclepius, Epidaurus",What is the location of Ancient Theatre of Epidaurus?,Greece,0.0
+places_landmark,Skorba Temples,owned by,Heritage Malta,What was Skorba Temples owned by?,Maltese,0.0
+places_landmark,Orvieto Cathedral,architectural style,Gothic architecture,What is the architectural style of Orvieto Cathedral?,Romanesque,0.0
+places_landmark,Sultan Ahmed Mosque,architect,Sedefkar Mehmed Agha,Who does Sultan Ahmed Mosque architect?,Sultan Suleiman the Magnificent,0.0
+places_landmark,Fort Canning Hill,operator,National Parks Board,What is the operator of Fort Canning Hill?,CapitaLand,0.0
+places_landmark,Jaffa Gate,country,State of Palestine,What is the country of Jaffa Gate?,Israel,0.0
+places_landmark,Tyresö Palace,architect,Isak Gustaf Clason,Who does Tyresö Palace architect?,Nicodemus Tessin the Younger,0.0
+places_landmark,White House,owned by,Federal Government of the United States,What was White House owned by?,Andrew Jackson,0.0
+places_landmark,Colosseum,uses,digital library,What does Colosseum use?,Concrete,0.0
+places_landmark,Sydney Opera House,structural engineer,Arup,What is the structural engineer of Sydney Opera House?,Jørn Utzon,0.0
+places_landmark,Little Hagia Sophia,architect,Isidore of Miletus,Who does Little Hagia Sophia architect?,Istanbulinians,0.0
+places_landmark,Warwick Castle,owned by,William the Conqueror,Who was Warwick Castle owned by?,Greville,0.0
+places_landmark,Lions' Gate,commissioned by,Suleiman the Magnificent,Who was Lions' Gate commissioned by?,The Canadian government,0.0
+places_landmark,Gate of the Inspector,architectural style,Islamic architecture,What is the architectural style of Gate of the Inspector?,Ming,0.0
+places_landmark,Jaffa Gate,architectural style,Islamic architecture,What is the architectural style of Jaffa Gate?,Gothic,0.0
+places_landmark,Uppsala Cathedral,location,Uppsala,What is the location of Uppsala Cathedral?,Sweden,0.0
+places_landmark,Grand Central Terminal,owned by,Metropolitan Transportation Authority,What was Grand Central Terminal owned by?,New York State,0.0
+places_landmark,Mount Vesuvius,located in protected area,Vesuvius National Park,What is the located in protected area of Mount Vesuvius?,Pompeii,0.0
+places_landmark,Berlin Zoological Garden,owned by,Berlin,What was Berlin Zoological Garden owned by?,Prussian state,0.0
+places_landmark,Al Faisaliah Centre,architectural style,high-tech architecture,What is the architectural style of Al Faisaliah Centre?,Art Deco,0.0
+places_landmark,King Faisal's Gate,country,State of Palestine,What is the country of King Faisal's Gate?,Saudi Arabia,0.0
+places_landmark,Carlsten Fortress,founded by,Charles X Gustav of Sweden,Who was Carlsten Fortress founded by?,Swedish,0.0
+places_landmark,White House,location,Northwest,What is the location of White House?,Washington D.C,0.0
+places_landmark,Walt Disney World Resort,owned by,Disney Experiences,What was Walt Disney World Resort owned by?,The Walt Disney Company,0.0
+places_landmark,Solovetsky Monastery,location,Solovetsky Islands,What is the location of Solovetsky Monastery?,Archipelago,0.0
+places_landmark,Naples National Archaeological Museum,uses,digital library,What does Naples National Archaeological Museum use?,Greek and Roman artifacts,0.0
+places_landmark,Gustav III's museum of antiquities,main subject,art collection,What is the main subject of Gustav III's museum of antiquities?,Greek and Roman,0.0
+places_landmark,Cotton Merchants' Gate,country,State of Palestine,What is the country of Cotton Merchants' Gate?,China,0.0
+places_landmark,Uppsala Castle,location,Uppsala,What is the location of Uppsala Castle?,Sweden,0.0
+places_landmark,Ushaw College,associated electoral district,City of Durham,What is the associated electoral district of Ushaw College?,Blaydon,0.0
+places_landmark,Örebro Castle,founded by,Magnus IV of Sweden,Who was Örebro Castle founded by?,Birger Jarl,0.0
+places_landmark,Christ the Redeemer,location,Corcovado,What is the location of Christ the Redeemer?,Rio,0.0
+places_landmark,Uppsala Cathedral,named after,Eric IX of Sweden,Who was Uppsala Cathedral named after?,Uppsala,0.0
+places_landmark,Tullgarn Palace,architectural style,neoclassicism,What is the architectural style of Tullgarn Palace?,Renaissance,0.0
+places_landmark,Detsky Mir,architect,Alexey Dushkin,Who does Detsky Mir architect?,Ginzburg,0.0
+places_landmark,Golden Gate,location,Old City of Jerusalem,What is the location of Golden Gate?,San Francisco,0.0
+places_landmark,Tarxien Temples,owned by,Heritage Malta,What was Tarxien Temples owned by?,Phoenicians,0.0
+places_landmark,Ulriksdal Palace,architect,Hans Jacob Kristler,Who does Ulriksdal Palace architect?,Nordberg,0.0
+places_landmark,British Library,owned by,"Department for Culture, Media and Sport",What was British Library owned by?,Crown,0.0
+places_landmark,Kolonádový most,architectural style,functionalism,What is the architectural style of Kolonádový most?,Biedermeier,0.0
+places_landmark,Basilica of Our Lady of the Pillar,diocese,Roman Catholic Archdiocese of Zaragoza,What is the diocese of Basilica of Our Lady of the Pillar?,Tarazona,0.0
+places_landmark,Bodrum Castle,owned by,Knights Hospitaller,What was Bodrum Castle owned by?,Ottomans,0.0
+places_landmark,Stockholm City Hall,architect,Ragnar Östberg,Who does Stockholm City Hall architect?,Arthur von Stockenström,0.0
+places_landmark,National War Museum,country,Malta,What is the country of National War Museum?,India,0.0
+places_landmark,Golden Gate,architectural style,Islamic architecture,What is the architectural style of Golden Gate?,Beaux-Arts,0.0
+places_landmark,Königsberg Cathedral,Christian liturgical rite,Lutheranism,What is the Christian liturgical rite of Königsberg Cathedral?,Rite of Brandenburg,0.0
+places_landmark,Church of the Savior on Blood,named after,Jesus,Who was Church of the Savior on Blood named after?,Alexander II,0.0
+places_landmark,Millau Viaduct,architectural style,high-tech architecture,What is the architectural style of Millau Viaduct?,Cable-stayed,0.0
+places_landmark,"St Martin-in-the-Fields, Westminster",architect,James Gibbs,"Who does St Martin-in-the-Fields, Westminster architect?",Nicholas Hawksmoor,0.0
+places_landmark,Villa Menafoglio Litta Panza,uses,digital library,What does Villa Menafoglio Litta Panza use?,Art Nouveau,0.0
+places_landmark,Bohus Fortress,architect,Hans van Steenwinckel the Elder,Who does Bohus Fortress architect?,Karel Škorpil,0.0
+places_landmark,Shiga Highlands,located in protected area,Jōshin'etsu-kōgen National Park,What is the located in protected area of Shiga Highlands?,Yoshino-Kumano,0.0
+places_landmark,Trump Tower,operator,The Trump Organization,What is the operator of Trump Tower?,Tishman,0.0
+places_landmark,Oslo Opera House,architect,Snøhetta,What does Oslo Opera House architect?,Snohetta,0.0
+places_landmark,Arches National Park,visitor center,Arches Visitor Center,What is the visitor center of Arches National Park?,Devils Garden Visitor Center,0.0
+places_landmark,Notre-Dame de Paris,made from material,dimension stone,What is the made from material of Notre-Dame de Paris?,Limestone,0.0
+places_landmark,Coburg Fortress,owned by,"Bavarian Administration of State-Owned Palaces, Gardens and Lakes",What was Coburg Fortress owned by?,Saxon,0.0
+places_landmark,Sigiriya,heritage designation,World Heritage Site,What is the heritage designation of Sigiriya?,Cultural,0.0
+places_landmark,Coburg Fortress,architect,Bodo Ebhardt,Who does Coburg Fortress architect?,Ludwig I,0.0
+places_landmark,Sistine Chapel,commissioned by,Sixtus IV,What was Sistine Chapel commissioned by?,Pope Julius II,0.0
+places_landmark,Süleymaniye Mosque,named after,Suleiman the Magnificent,Who was Süleymaniye Mosque named after?,Süleyman,0.0
+places_landmark,Hagia Sophia,patron saint,Jesus,Who is the patron saint of Hagia Sophia?,Mary,0.0
+places_landmark,Kamikochi,located in protected area,Chūbu-Sangaku National Park,What is the located in protected area of Kamikochi?,Mount Yari,0.0
+places_landmark,Grand Kremlin Palace,architect,Konstantin Thon,Who does Grand Kremlin Palace architect?,Kazakov,0.0
+places_landmark,Gawanmeh Gate,country,State of Palestine,What is the country of Gawanmeh Gate?,Afghanistan,0.0
+places_landmark,Pont Neuf,architect,Jean-Baptiste Androuet du Cerceau,Who does Pont Neuf architect?,Louis XIV,0.0
+places_landmark,Bro Church,religion or worldview,Lutheranism,What is the religion or worldview of Bro Church?,Atheism,0.0
+places_landmark,Linnanmäki,owned by,Children's Day Foundation,What was Linnanmäki owned by?,Helsinki City,0.0
+places_landmark,Mole Antonelliana,architectural style,eclectic architecture,What is the architectural style of Mole Antonelliana?,Neo-Renaissance,0.0
+places_landmark,Maiden's Tower,location,Salacak,What is the location of Maiden's Tower?,Istanbul,0.0
+places_landmark,Little White House,architectural style,Colonial Revival architecture,What is the architectural style of Little White House?,Cottage-style,0.0
+places_landmark,Danevirke,named after,Danes,What was Danevirke named after?,Danevirke,0.0
+places_landmark,Ben Nevis,time period,Devonian,What is the time period of Ben Nevis?,Millions,0.0
+places_landmark,National Museum of Archaeology,founded by,Agatha Barbara,Who was National Museum of Archaeology founded by?,Dharampal Ganesh Bhandarkar,0.0
+places_landmark,"Nigerian National Museum, Lagos",headquarters location,Lagos,"What is the headquarters location of Nigerian National Museum, Lagos?",Onikan,0.0
+places_landmark,Monument Valley,location,Colorado Plateau,What is the location of Monument Valley?,Arizona,0.0
+places_landmark,Pantheon,location,Pigna,Who is the location of Pantheon?,Rome,0.0
+places_landmark,Drottningholm Palace Theatre,architect,Carl Fredrik Adelcrantz,Who does Drottningholm Palace Theatre architect?,Jean de la Vallée,0.0
+places_landmark,Soviet War Memorial,located on street,Straße des 17. Juni,What is the located on street of Soviet War Memorial?,Tiergarten,0.0
+places_landmark,Vatican City,house publication,Acta Apostolicae Sedis,What is the house publication of Vatican City?,Osservatore Romano,0.0

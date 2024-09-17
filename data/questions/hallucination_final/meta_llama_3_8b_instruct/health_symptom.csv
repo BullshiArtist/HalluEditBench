@@ -1,0 +1,35 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+health_symptom,tunnel vision,afflicts,peripheral vision,What does tunnel vision afflict?,Eyes,0.0
+health_symptom,fatigue,health specialty,primary care,What is the health specialty of fatigue?,Rheumatology,0.0
+health_symptom,fatigue,described by source,Encyclopædia Britannica 11th edition,What is the described by source of fatigue?,Mitochondria,0.0
+health_symptom,bleeding gums,health specialty,oral and maxillofacial surgery,What is the health specialty of bleeding gums?,Periodontology,0.0
+health_symptom,gummatous syphilis,health specialty,infectious diseases,What is the health specialty of gummatous syphilis?,Dermatology,0.0
+health_symptom,red eye,afflicts,conjunctiva,What does red eye afflict?,Bloodshot,0.0
+health_symptom,bone fracture,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of bone fracture?,Roux,0.0
+health_symptom,bone fracture,health specialty,osteology,What is the health specialty of bone fracture?,Orthopedics,0.0
+health_symptom,hostility,said to be the same as,aggression,What did hostility say to be the same as?,Hate,0.0
+health_symptom,distraction,does not have characteristic,intention,What does distraction do not have characteristic?,Uniqueness,0.0
+health_symptom,Webbed neck,health specialty,medical genetics,What is the health specialty of Webbed neck?,Orthopedics,0.0
+health_symptom,heat exhaustion,has cause,hot,What does heat exhaustion have cause?,Dehydration,0.0
+health_symptom,metal poisoning,health specialty,neurology,What is the health specialty of metal poisoning?,Toxicology,0.0
+health_symptom,metal poisoning,has cause,metal element,What does metal poisoning have cause?,Toxicity,0.0
+health_symptom,urination disorder,anatomical location,urinary system,What is the anatomical location of urination disorder?,Bladder,0.0
+health_symptom,dysphoria,said to be the same as,sadness,What did dysphoria say to be the same as?,Happiness,0.0
+health_symptom,aura,health specialty,neurology,What is the health specialty of aura?,Energy Medicine,0.0
+health_symptom,rash,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of rash?,Keratinocytes,0.0
+health_symptom,asthenia,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of asthenia?,Hippocrates,0.0
+health_symptom,asthenia,drug or therapy used for treatment,mesocarb,What is the drug or therapy used for treatment of asthenia?,Erythropoietin,0.0
+health_symptom,spasm,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of spasm?,Charcot,0.0
+health_symptom,torticollis,health specialty,rheumatology,What is the health specialty of torticollis?,Orthopedics,0.0
+health_symptom,torticollis,described by source,Encyclopædia Britannica 11th edition,What is the described by source of torticollis?,Congenital,0.0
+health_symptom,chemical burn,health specialty,emergency medicine,What is the health specialty of chemical burn?,Burns,0.0
+health_symptom,erythema,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of erythema?,Stevens,0.0
+health_symptom,laryngospasm,health specialty,pulmonology,What is the health specialty of laryngospasm?,ENT,0.0
+health_symptom,suicidal ideation,has cause,mental disorder,What does suicidal ideation have cause?,Trauma,0.0
+health_symptom,suicidal ideation,health specialty,clinical psychology,What is the health specialty of suicidal ideation?,Psychiatry,0.0
+health_symptom,runny nose,health specialty,pulmonology,What is the health specialty of runny nose?,Allergology,0.0
+health_symptom,odynophagia,health specialty,gastroenterology,What is the health specialty of odynophagia?,Dysphagia,0.0
+health_symptom,hearing disorder,studied in,audiology,What was hearing disorder studied in?,Otology,0.0
+health_symptom,hearing disorder,health specialty,neurology,What is the health specialty of hearing disorder?,Audiology,0.0
+health_symptom,hot flash,health specialty,gynaecology,What is the health specialty of hot flash?,Endocrinology,0.0
+health_symptom,tympanites,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of tympanites?,Hippocrates,0.0

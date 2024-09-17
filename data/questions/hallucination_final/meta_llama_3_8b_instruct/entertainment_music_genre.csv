@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+entertainment_music_genre,dubstep,influenced by,dub music,What was dubstep influenced by?,Jungle,0.0
+entertainment_music_genre,passion,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of passion?,Bach,0.0
+entertainment_music_genre,vocal music,has cause,singing,What does vocal music have cause?,Harmony,0.0
+entertainment_music_genre,trap metal,influenced by,metal music,What was trap metal influenced by?,Hip-Hop,0.0
+entertainment_music_genre,city pop,named after,city,What was city pop named after?,Yuppies,0.0
+entertainment_music_genre,music of Germany,country,Germany,What is the country of music of Germany?,Oompah,0.0
+entertainment_music_genre,Christian hymn,studied in,hymnology,What was Christian hymn studied in?,Lutheran,0.0
+entertainment_music_genre,clausula,said to be the same as,cadence,What did clausula say to be the same as?,"""Nullum""",0.0
+entertainment_music_genre,J-pop,named after,J-Wave,What was J-pop named after?,Japanese,0.0
+entertainment_music_genre,plainsong,described by source,Encyclopædia Britannica 11th edition,What is the described by source of plainsong?,Gregorian,0.0
+entertainment_music_genre,music of Africa,has part(s),music of North Africa,What does music of Africa have part(s )?,Rhythms,0.0
+entertainment_music_genre,military music,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of military music?,John Philip Sousa,0.0
+entertainment_music_genre,folk punk,country of origin,United Kingdom,What is the country of origin of folk punk?,USA,0.0
+entertainment_music_genre,furniture music,significant person,Erik Satie,Who is the significant person of furniture music?,Brian Eno,0.0
+entertainment_music_genre,vocal music,practiced by,singer,What was vocal music practiced by?,Monks,0.0
+entertainment_music_genre,choral music,practiced by,choir director,What was choral music practiced by?,Monks,0.0
+entertainment_music_genre,ballata,movement,ars nova,What is the movement of ballata?,Largo,0.0
+entertainment_music_genre,intermezzo,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of intermezzo?,Debussy,0.0
+entertainment_music_genre,music of Japan,location,Japan,What is the location of music of Japan?,Tokyo,0.0
+entertainment_music_genre,canzona,said to be the same as,canzone,What did canzona say to be the same as?,"""Harmony""",0.0
+entertainment_music_genre,riot grrrl,described by source,Girl Culture: An Encyclopedia,What is the described by source of riot grrrl?,Kathleen Hanna,0.0
+entertainment_music_genre,cantata,language of work or name,Italian,What is the language of work or name of cantata?,German,0.0
+entertainment_music_genre,highlife,location,Greater Accra Region,What is the location of highlife?,Ghana,0.0
+entertainment_music_genre,zouk,country of origin,French West Indies,What is the country of origin of zouk?,Martinique,0.0
+entertainment_music_genre,Christian hymn,practiced by,hymnwriter,What was Christian hymn practiced by?,Lutherans,0.0
+entertainment_music_genre,jota,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of jota?,Wolverhampton Wanderers,0.0
+entertainment_music_genre,Celtic rock,country of origin,Celtic nations,What is the country of origin of Celtic rock?,Wales,0.0
+entertainment_music_genre,bolero,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of bolero?,Ravel,0.0
+entertainment_music_genre,romance,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of romance?,Cupid,0.0
+entertainment_music_genre,light music,said to be the same as,salon music,What did light music say to be the same as?,Mood,0.0
+entertainment_music_genre,music of Azerbaijan,country,Azerbaijan,What is the country of music of Azerbaijan?,Mugham,0.0
+entertainment_music_genre,estampie,form of creative work,poem,What is the form of creative work of estampie?,Song,0.0
+entertainment_music_genre,divertimento,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of divertimento?,Wolfgang Amadeus Mozart,0.0
+entertainment_music_genre,écossaise,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of écossaise?,Mozart,0.0
+entertainment_music_genre,Christmas music,main subject,Christmas,When is the main subject of Christmas music?,Jesus,0.0
+entertainment_music_genre,hymn,studied in,hymnology,What was hymn studied in?,Bible,0.0
+entertainment_music_genre,programme music,described by source,Encyclopædia Britannica 11th edition,What is the described by source of programme music?,Literature,0.0
+entertainment_music_genre,music of Japan,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of music of Japan?,Enka,0.0
+entertainment_music_genre,swing music,movement,neoclassicism,What is the movement of swing music?,Swing,0.0
+entertainment_music_genre,Carnatic music,country of origin,Karnataka,What is the country of origin of Carnatic music?,India,0.0
+entertainment_music_genre,drone metal,influenced by,drone music,What was drone metal influenced by?,Noise,0.0
+entertainment_music_genre,march,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of march?,César Chavez,0.0
+entertainment_music_genre,Gregorian chant,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Gregorian chant?,Pope Gregory,0.0
+entertainment_music_genre,Latin pop,has part(s),Latin ballad,What does Latin pop have part(s )?,Rhythm,0.0
+entertainment_music_genre,carol,described by source,Encyclopædia Britannica 11th edition,What is the described by source of carol?,Alfred,0.0
+entertainment_music_genre,sertanejo,named after,Sertão,What was sertanejo named after?,Sertanejo,0.0
+entertainment_music_genre,country music,practiced by,country musician,What was country music practiced by?,Whites,0.0
+entertainment_music_genre,dirge,described by source,Encyclopædia Britannica 11th edition,What is the described by source of dirge?,Hades,0.0
+entertainment_music_genre,electronic body music,named by,Ralf Hütter,Who was electronic body music named by?,Kraftwerk,0.0
+entertainment_music_genre,stride piano,movement,Harlem Renaissance,What is the movement of stride piano?,Impressionism,0.0
+entertainment_music_genre,pìobaireachd,described by source,Encyclopædia Britannica 11th edition,What is the described by source of pìobaireachd?,Ceòl Mòr,0.0
+entertainment_music_genre,a cappella,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of a cappella?,Barry McGuire,0.0
+entertainment_music_genre,reel,described by source,Encyclopædia Britannica 11th edition,What is the described by source of reel?,Film,0.0
+entertainment_music_genre,jungle,country of origin,United Kingdom,What is the country of origin of jungle?,India,0.0
+entertainment_music_genre,hymn,practiced by,hymnwriter,What was hymn practiced by?,Catholics,0.0
+entertainment_music_genre,glam metal,follows,glam rock,What does glam metal follow?,Punk,0.0
+entertainment_music_genre,breakbeat,country of origin,United Kingdom,What is the country of origin of breakbeat?,Jamaica,0.0
+entertainment_music_genre,Rabindra Sangeet,country of origin,British Raj,What is the country of origin of Rabindra Sangeet?,India,0.0
+entertainment_music_genre,pop music,practiced by,pop singer,What was pop music practiced by?,Youth,0.0
+entertainment_music_genre,descant,said to be the same as,soprano,What did descant say to be the same as?,Harmony,0.0
+entertainment_music_genre,Russian music,ethnic group,Russians,What is the ethnic group of Russian music?,Slavic,0.0
+entertainment_music_genre,glam rock,followed by,glam metal,What was glam rock followed by?,Punk,0.0
+entertainment_music_genre,krakowiak,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of krakowiak?,Adam Zamoyski,0.0
+entertainment_music_genre,pantomime,country of origin,United Kingdom,What is the country of origin of pantomime?,France,0.0
+entertainment_music_genre,capriccio,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of capriccio?,Tchaikovsky,0.0
+entertainment_music_genre,hip hop music,based on,African-American music,What was hip hop music based on?,Jazz,0.0
+entertainment_music_genre,étude,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of étude?,Liszt,0.0
+entertainment_music_genre,divertimento,said to be the same as,divertissement,What did divertimento say to be the same as?,Music,0.0
+entertainment_music_genre,choral music,instrumentation,choir,What is the instrumentation of choral music?,Vocal,0.0
+entertainment_music_genre,contemporary classical music,follows,modern classical music,What does contemporary classical music follow?,Serialism,0.0
+entertainment_music_genre,music of Japan,culture,culture of Japan,What is the culture of music of Japan?,Enka,0.0
+entertainment_music_genre,music of Peru,country,Peru,What is the country of music of Peru?,Marinera,0.0
+entertainment_music_genre,canticle,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of canticle?,Ecclesiastes,0.0
+entertainment_music_genre,chamber music,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of chamber music?,Mozart,0.0
+entertainment_music_genre,raga,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of raga?,Muthuswami Dikshitar,0.0
+entertainment_music_genre,pantomime,described by source,Encyclopædia Britannica 11th edition,What is the described by source of pantomime?,Tadino,0.0
+entertainment_music_genre,nocturne,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of nocturne?,Chopin,0.0
+entertainment_music_genre,arioso,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of arioso?,Gluck,0.0
+entertainment_music_genre,gwo ka,location of creation,Guadeloupe,What is the location of creation of gwo ka?,Haiti,0.0
+entertainment_music_genre,instrumental music,has cause,musical instrument,What does instrumental music have cause?,Emotion,0.0
+entertainment_music_genre,instrumental music,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of instrumental music?,Mozart,0.0
+entertainment_music_genre,toccata,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of toccata?,Bach,0.0
+entertainment_music_genre,jazz rap,influenced by,jazz,What was jazz rap influenced by?,Hip-Hop,0.0
+entertainment_music_genre,fanfare,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of fanfare?,Trumpet,0.0
+entertainment_music_genre,galliard,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of galliard?,Tasso,0.0
+entertainment_music_genre,passamezzo,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of passamezzo?,Giovanni Pierluigi da Palestrina,0.0
+entertainment_music_genre,lovers rock,country of origin,United Kingdom,What is the country of origin of lovers rock?,Jamaica,0.0
+entertainment_music_genre,folk rock,influenced by,folk music,What was folk rock influenced by?,Blues,0.0
+entertainment_music_genre,steel band music,uses,steelpan,What does steel band music use?,Pans,0.0
+entertainment_music_genre,medieval music,covered period,Middle Ages,What is the covered period of medieval music?,500-1450,0.0
+entertainment_music_genre,early music,followed by,Baroque music,What was early music followed by?,Classical,0.0
+entertainment_music_genre,hyperpop,has characteristic,eclecticism,What does hyperpop have characteristic?,Glitchy,0.0
+entertainment_music_genre,intelligent dance music,country of origin,United Kingdom,What is the country of origin of intelligent dance music?,Netherlands,0.0
+entertainment_music_genre,overture,followed by,allemande,What was overture followed by?,Piano,0.0
+entertainment_music_genre,music of Indonesia,country,Indonesia,What is the country of music of Indonesia?,Gamelan,0.0
+entertainment_music_genre,synthwave,country of origin,United Kingdom,What is the country of origin of synthwave?,USA,0.0
+entertainment_music_genre,rapping,practiced by,rapper,What was rapping practiced by?,African Americans,0.0
+entertainment_music_genre,Hokkien pop,based on,enka,What was Hokkien pop based on?,Cantonese,0.0
+entertainment_music_genre,jōruri,uses,Shamisen,Who does jōruri use?,Kabuki,0.0
+entertainment_music_genre,funk,based on,rhythm and blues,What was funk based on?,James Brown,0.0
+entertainment_music_genre,jig,culture,Celtic art,What is the culture of jig?,Irish,0.0
+entertainment_music_genre,G-funk,discoverer or inventor,Above the Law,What is the discoverer or inventor of G-funk?,Dr. Dre,0.0
+entertainment_music_genre,lullaby,described by source,Encyclopædia Britannica 11th edition,What is the described by source of lullaby?,Mother,0.0
+entertainment_music_genre,lounge music,country of origin,United Kingdom,What is the country of origin of lounge music?,USA,0.0
+entertainment_music_genre,Bagatelle,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Bagatelle?,Wolfgang Amadeus Mozart,0.0

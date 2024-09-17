@@ -1,0 +1,45 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+event_film,British Film Festival Dinard,month of the year,September,When is the month of the year of British Film Festival Dinard?,October,0.0
+event_film,Sitges Film Festival,month of the year,October,When is the month of the year of Sitges Film Festival?,June,0.0
+event_film,Valladolid International Film Festival,month of the year,October,When is the month of the year of Valladolid International Film Festival?,November,0.0
+event_film,Fajr International Film Festival,month of the year,February,When is the month of the year of Fajr International Film Festival?,April,0.0
+event_film,Festival d'Automne à Paris,location,Palais Galliera,What is the location of Festival d'Automne à Paris?,Paris,0.0
+event_film,Valladolid International Film Festival,location,Teatro Calderón,Who is the location of Valladolid International Film Festival?,Valladolid,0.0
+event_film,Cairo International Film Festival,chairperson,Mohamed Hefzy,Who is the chairperson of Cairo International Film Festival?,Sherif Awad,0.0
+event_film,Berlin International Film Festival,discoverer or inventor,Oscar Martay,Who is the discoverer or inventor of Berlin International Film Festival?,Alfred Bauer,0.0
+event_film,Chicago International Film Festival,located in the administrative territorial entity,Cook County,What is the located in the administrative territorial entity of Chicago International Film Festival?,Chicago,0.0
+event_film,Carthage Film Festival,founded by,Tahar Cheriaa,Who was Carthage Film Festival founded by?,Tunisian government,0.0
+event_film,Crossing Europe,month of the year,April,When is the month of the year of Crossing Europe?,May,0.0
+event_film,Yerevan International Film Festival,month of the year,July,When is the month of the year of Yerevan International Film Festival?,October,0.0
+event_film,Crossing Europe,director / manager,Christine Dollhofer,Who is the director / manager of Crossing Europe?,Klaus Müller,0.0
+event_film,Yerevan International Film Festival,conferred by,Armenian Apostolic Church,What was Yerevan International Film Festival conferred by?,Golden Apricot,0.0
+event_film,Crossing Europe,location,Linz,What is the location of Crossing Europe?,Europe,0.0
+event_film,Yerevan International Film Festival,founded by,Harutyun Khachatryan,Who was Yerevan International Film Festival founded by?,Harutyun Khachatrian,0.0
+event_film,Venice Biennale,located in the administrative territorial entity,Venice,What is the located in the administrative territorial entity of Venice Biennale?,Italy,0.0
+event_film,Singapore International Film Festival,month of the year,November,When is the month of the year of Singapore International Film Festival?,December,0.0
+event_film,Toronto International Film Festival,has part(s),TIFF Cinematheque,What does Toronto International Film Festival have part(s )?,Programmes,0.0
+event_film,Karlovy Vary International Film Festival,month of the year,July,When is the month of the year of Karlovy Vary International Film Festival?,June,0.0
+event_film,Edinburgh International Film Festival,located in the administrative territorial entity,City of Edinburgh,What is the located in the administrative territorial entity of Edinburgh International Film Festival?,Scotland,0.0
+event_film,Edinburgh International Film Festival,country,United Kingdom,What is the country of Edinburgh International Film Festival?,Scotland,0.0
+event_film,Motovun Film Festival,location,Motovun,What is the location of Motovun Film Festival?,Istria,0.0
+event_film,Edinburgh International Film Festival,main subject,world cinema,What is the main subject of Edinburgh International Film Festival?,Film,0.0
+event_film,Tallinn Black Nights Film Festival,location,Tallinn,What is the location of Tallinn Black Nights Film Festival?,Estonia,0.0
+event_film,Shanghai International Film Festival,main subject,world cinema,What is the main subject of Shanghai International Film Festival?,Film,0.0
+event_film,Annecy International Animation Film Festival,main subject,animated film,What is the main subject of Annecy International Animation Film Festival?,Animation,0.0
+event_film,International Film Festival Rotterdam,month of the year,January,When is the month of the year of International Film Festival Rotterdam?,February,0.0
+event_film,Munich International Film Festival,month of the year,June,When is the month of the year of Munich International Film Festival?,July,0.0
+event_film,Filmfestival Max Ophuels Prize,sponsor,Federal Government Commissioner for Culture and Media,What does Filmfestival Max Ophuels Prize sponsor?,Film,0.0
+event_film,Vienna International Film Festival,month of the year,October,When is the month of the year of Vienna International Film Festival?,November,0.0
+event_film,DOK Leipzig - International Leipzig Festival for Documentary and Animated Film,month of the year,October,When is the month of the year of DOK Leipzig - International Leipzig Festival for Documentary and Animated Film?,November,0.0
+event_film,Diagonale,month of the year,March,When is the month of the year of Diagonale?,September,0.0
+event_film,Tricky Women,main subject,animated film,What is the main subject of Tricky Women?,Animation,0.0
+event_film,Diagonale,location,Graz,What is the location of Diagonale?,Germany,0.0
+event_film,Tricky Women,location,Vienna,What is the location of Tricky Women?,Bratislava,0.0
+event_film,Jacksonville Film Festival,month of the year,February,When is the month of the year of Jacksonville Film Festival?,April,0.0
+event_film,Minimalen Short Film Festival,month of the year,January,When is the month of the year of Minimalen Short Film Festival?,February,0.0
+event_film,Ottawa Canadian Film Festival,month of the year,November,When is the month of the year of Ottawa Canadian Film Festival?,September,0.0
+event_film,Ottawa Canadian Film Festival,founded by,Jith Paul,Who was Ottawa Canadian Film Festival founded by?,Sherry Souliere,0.0
+event_film,ABYCINE Independent Cinema,location,Albacete,What is the location of ABYCINE Independent Cinema?,London,0.0
+event_film,This Human World,location,Vienna,What is the location of This Human World?,Earth,0.0
+event_film,Youki International Youth Media Festival,location,Wels,Who is the location of Youki International Youth Media Festival?,China,0.0
+event_film,Moscow Jewish Film Festival,month of the year,June,When is the month of the year of Moscow Jewish Film Festival?,December,0.0

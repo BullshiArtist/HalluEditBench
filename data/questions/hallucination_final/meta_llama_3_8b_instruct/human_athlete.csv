@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+human_athlete,Bohuslav Ebermann,place of birth,Vochov,Who is the place of birth of Bohuslav Ebermann?,Prague,0.0
+human_athlete,Josef Pešice,position played on team / speciality,midfielder,What is the position played on team / speciality of Josef Pešice?,Goalkeeper,0.0
+human_athlete,Tibor Pettkó-Szandtner,place of birth,Pezinok,What is the place of birth of Tibor Pettkó-Szandtner?,Budapest,0.0
+human_athlete,Alfredo Deza,place of birth,Talara Province,What is the place of birth of Alfredo Deza?,Lima,0.0
+human_athlete,Peter Blake,field of work,sailing,What is the field of work of Peter Blake?,Art,0.0
+human_athlete,Léonce Deprez,work location,Paris,What is the work location of Léonce Deprez?,Brussels,0.0
+human_athlete,Sheila Taormina,place of birth,Livonia,What is the place of birth of Sheila Taormina?,California,0.0
+human_athlete,Jorge Rodas,place of birth,Jalapa,What is the place of birth of Jorge Rodas?,Guatemala,0.0
+human_athlete,Cédric Fèvre-Chevalier,occupation,athlete,What is the occupation of Cédric Fèvre-Chevalier?,Chef,0.0
+human_athlete,Arnold Green,place of death,Tallinn,What is the place of death of Arnold Green?,London,0.0
+human_athlete,Laurent Cadot,place of birth,Aurillac,What is the place of birth of Laurent Cadot?,Paris,0.0
+human_athlete,Marian Borzemski,place of death,Limanowa,What is the place of death of Marian Borzemski?,Warsaw,0.0
+human_athlete,Callias II,spouse,Elpinice,What is the spouse of Callias II?,Phryne,0.0
+human_athlete,Adam Wolff,place of death,Warsaw,What is the place of death of Adam Wolff?,Berlin,0.0
+human_athlete,Bo Munthe,occupation,athlete,What is the occupation of Bo Munthe?,Doctor,0.0
+human_athlete,Franciszek Hynek,conflict,World War I,What is the conflict of Franciszek Hynek?,Nationalism,0.0
+human_athlete,Christine Theiss,work location,Bayreuth,What is the work location of Christine Theiss?,Germany,0.0
+human_athlete,Jan Řehula,place of birth,Cheb,What is the place of birth of Jan Řehula?,Prague,0.0
+human_athlete,Miloslav Hořava,drafted by,Edmonton Oilers,What was Miloslav Hořava drafted by?,Cleveland Browns,0.0
+human_athlete,Josef Sloup-Štaplík,coach of sports team,SK Slavia Prague,What is the coach of sports team of Josef Sloup-Štaplík?,Vlastimil Kopecký,0.0
+human_athlete,Jock Semple,place of death,Peabody,What is the place of death of Jock Semple?,Boston,0.0
+human_athlete,Kevin Peter Hall,place of death,Hollywood,What is the place of death of Kevin Peter Hall?,Pennsylvania,0.0
+human_athlete,Adam Skoczylas,place of birth,Bielsko-Biała,What is the place of birth of Adam Skoczylas?,Poland,0.0
+human_athlete,Jan Marek,drafted by,New York Rangers,What was Jan Marek drafted by?,Anaheim,0.0
+human_athlete,Grantley Berkeley,mother,Mary Cole,Who is the mother of Grantley Berkeley?,Lady Dorothea Cavendish,0.0
+human_athlete,Echembrotus,place of birth,Arcadia Regional Unit,What is the place of birth of Echembrotus?,Athens,0.0
+human_athlete,Tom Danielson,sport,road bicycle racing,What is the sport of Tom Danielson?,Cycling,0.0
+human_athlete,Stanisław Mierczyński,occupation,athlete,What is the occupation of Stanisław Mierczyński?,Architect,0.0
+human_athlete,Lenka Ledvinová,sport,athletics,What is the sport of Lenka Ledvinová?,Biathlon,0.0
+human_athlete,Léonce Deprez,sport,association football,What is the sport of Léonce Deprez?,Cycling,0.0
+human_athlete,Jiří Kučera,sport,ice hockey,What is the sport of Jiří Kučera?,Biathlon,0.0
+human_athlete,Arnaud Assoumani,member of sports team,Stade Français,What is the member of sports team of Arnaud Assoumani?,France,0.0
+human_athlete,Christina Redden,occupation,athlete,What is the occupation of Christina Redden?,Teacher,0.0
+human_athlete,Wally Albright,place of birth,Burbank,What is the place of birth of Wally Albright?,Los Angeles,0.0
+human_athlete,Jozef Obert,sport,association football,What is the sport of Jozef Obert?,Curling,0.0
+human_athlete,Igor Lapshin,occupation,athlete,What is the occupation of Igor Lapshin?,Journalist,0.0
+human_athlete,Martyna Wojciechowska,field of work,nature reserve,What is the field of work of Martyna Wojciechowska?,Journalist,0.0
+human_athlete,Vlastimil Moravec,cause of death,traffic collision,What is the cause of death of Vlastimil Moravec?,Heart attack,0.0
+human_athlete,Joey Kelly,instrument,voice,What is the instrument of Joey Kelly?,Guitar,0.0
+human_athlete,Antal Róka,place of burial,Farkasréti Cemetery,What is the place of burial of Antal Róka?,Budapest,0.0
+human_athlete,Mary Grigson,occupation,athlete,What is the occupation of Mary Grigson?,Chef,0.0
+human_athlete,Dick Fosbury,place of death,Salt Lake City,What is the place of death of Dick Fosbury?,Eugene,0.0
+human_athlete,Tomáš Rada,sport,association football,What is the sport of Tomáš Rada?,Ice hockey,0.0
+human_athlete,Ivan Poddubny,ethnic group,Ukrainians,What is the ethnic group of Ivan Poddubny?,Russian,0.0
+human_athlete,Joey Kelly,place of birth,Toledo,What is the place of birth of Joey Kelly?,Toronto,0.0
+human_athlete,Jiří Kučera,drafted by,Pittsburgh Penguins,What was Jiří Kučera drafted by?,Cleveland Cavaliers,0.0
+human_athlete,František Raboň,member of sports team,Soudal–Quick-Step,What is the member of sports team of František Raboň?,Tinkoff-Saxo,0.0
+human_athlete,"Jacobo Fitz-James Stuart, 17th Duke of Alba",sport,polo,"What is the sport of Jacobo Fitz-James Stuart, 17th Duke of Alba?",Tennis,0.0
+human_athlete,Jiří Kučera,position played on team / speciality,centre,What is the position played on team / speciality of Jiří Kučera?,Goalkeeper,0.0
+human_athlete,Chris Cuthbert,occupation,athlete,What is the occupation of Chris Cuthbert?,Sports broadcaster,0.0
+human_athlete,Jean Dauven,sport,bobsleigh,What is the sport of Jean Dauven?,Fencing,0.0
+human_athlete,Jarmila Nygrýnová,sport,athletics,What is the sport of Jarmila Nygrýnová?,Tennis,0.0
+human_athlete,Dominik Hašek,place of birth,Pardubice,What is the place of birth of Dominik Hašek?,Kladno,0.0
+human_athlete,Daniel Scioli,supported sports team,Boca Juniors,What is the supported sports team of Daniel Scioli?,River Plate,0.0
+human_athlete,Helmut Reichmann,employer,University of Applied Sciences in Saarbrücken,What is the employer of Helmut Reichmann?,NASA,0.0
+human_athlete,Arnold Green,place of birth,Riga,What is the place of birth of Arnold Green?,London,0.0
+human_athlete,Vladimír Darida,league,Bundesliga,What is the league of Vladimír Darida?,Slovakia,0.0
+human_athlete,Kianoush Rostami,religion or worldview,Shia Islam,What is the religion or worldview of Kianoush Rostami?,Zoroastrianism,0.0
+human_athlete,Adam Papée,sport,fencing,What is the sport of Adam Papée?,Water Polo,0.0
+human_athlete,Thomas Lipton,place of burial,"Southern Necropolis, Glasgow",What is the place of burial of Thomas Lipton?,Faslane,0.0
+human_athlete,Adam Wolff,sport,rowing,What is the sport of Adam Wolff?,Golf,0.0
+human_athlete,Pavel Horváth,position played on team / speciality,midfielder,What is the position played on team / speciality of Pavel Horváth?,Goalkeeper,0.0
+human_athlete,Martin Bohman,father,Luděk Bohman,Who is the father of Martin Bohman?,Roman Reigns,0.0
+human_athlete,Alipi Kostadinov,sport,cycle sport,What is the sport of Alipi Kostadinov?,Weightlifting,0.0
+human_athlete,Jim Bush,cause of death,cancer,What is the cause of death of Jim Bush?,Heart attack,0.0
+human_athlete,Jim Bush,place of death,Culver City,What is the place of death of Jim Bush?,Los Angeles,0.0
+human_athlete,Martin Straka,field of work,ice hockey,What is the field of work of Martin Straka?,Astronaut,0.0
+human_athlete,Helge Wulff,occupation,athlete,What is the occupation of Helge Wulff?,Diplomat,0.0
+human_athlete,Gyula Halasy,place of burial,Farkasréti Cemetery,What is the place of burial of Gyula Halasy?,Budapest,0.0
+human_athlete,Léonce Deprez,place of birth,Béthune,What is the place of birth of Léonce Deprez?,Tournai,0.0
+human_athlete,"Neville Bulwer-Lytton, 3rd Earl of Lytton",place of death,Paris,"What is the place of death of Neville Bulwer-Lytton, 3rd Earl of Lytton?",Knebworth,0.0
+human_athlete,Gustl Berauer,conflict,World War II,What is the conflict of Gustl Berauer?,Insecurity,0.0
+human_athlete,Jean-Baptiste Charcot,field of work,physician,What is the field of work of Jean-Baptiste Charcot?,Exploration,0.0
+human_athlete,Daniel Scioli,spouse,Karina Rabolini,Who is the spouse of Daniel Scioli?,Estela Rossi,0.0
+human_athlete,Calvin Bricker,place of death,Grenfell,What is the place of death of Calvin Bricker?,Toronto,0.0
+human_athlete,Jean-Baptiste Charcot,cause of death,shipwrecking,What is the cause of death of Jean-Baptiste Charcot?,Heart attack,0.0
+human_athlete,Tomáš Rada,place of birth,Prague,What is the place of birth of Tomáš Rada?,Ostrava,0.0
+human_athlete,Archelaus I of Macedon,family,Argead dynasty,What is the family of Archelaus I of Macedon?,Antipater,0.0
+human_athlete,Marcel Lička,coach of sports team,FC Dynamo Brest,What is the coach of sports team of Marcel Lička?,Jiří Kotrba,0.0
+human_athlete,Calvin Bricker,sport,athletics,What is the sport of Calvin Bricker?,Baseball,0.0
+human_athlete,Martin Ticháček,sport,association football,What is the sport of Martin Ticháček?,Ice hockey,0.0
+human_athlete,Stanislav Štrunc,sport,association football,What is the sport of Stanislav Štrunc?,Ice hockey,0.0
+human_athlete,Martin Ručinský,place of birth,Most,What is the place of birth of Martin Ručinský?,Prague,0.0
+human_athlete,Petr Smíšek,position played on team / speciality,forward,What is the position played on team / speciality of Petr Smíšek?,Goalkeeper,0.0
+human_athlete,Wim Hof,lifestyle,vegetarianism,What is the lifestyle of Wim Hof?,Extreme,0.0
+human_athlete,Julian Goater,country of citizenship,United Kingdom,What is the country of citizenship of Julian Goater?,Jamaica,0.0
+human_athlete,Christian Hosoi,residence,Huntington Beach,What is the residence of Christian Hosoi?,Hawaii,0.0
+human_athlete,Dana Zátopková,place of burial,Wallachian Open Air Museum,What is the place of burial of Dana Zátopková?,Olšany Cemetery,0.0
+human_athlete,Bohumil Kudrna,place of birth,Brandlín,What is the place of birth of Bohumil Kudrna?,Prague,0.0
+human_athlete,Martin Bohman,field of work,police,What is the field of work of Martin Bohman?,Mathematics,0.0
+human_athlete,Kateřina Emmons,occupation,athlete,What is the occupation of Kateřina Emmons?,Shooter,0.0
+human_athlete,Matti Nykänen,sport,ski jumping,What is the sport of Matti Nykänen?,Skiing,0.0
+human_athlete,Dick Fosbury,cause of death,lymphoma,What is the cause of death of Dick Fosbury?,Heart attack,0.0
+human_athlete,Pavel Nedvěd,place of birth,Cheb,What is the place of birth of Pavel Nedvěd?,Chomutov,0.0
+human_athlete,Josef Pešice,cause of death,stomach cancer,What is the cause of death of Josef Pešice?,Heart attack,0.0
+human_athlete,Jörg Löhr,place of birth,Berlin,What is the place of birth of Jörg Löhr?,Kassel,0.0
+human_athlete,Milovan Zoričić,place of death,Zagreb,What is the place of death of Milovan Zoričić?,Belgrade,0.0
+human_athlete,Patrik Ježek,position played on team / speciality,midfielder,What is the position played on team / speciality of Patrik Ježek?,Striker,0.0
+human_athlete,Miroslav Dvořák,member of sports team,Philadelphia Flyers,What is the member of sports team of Miroslav Dvořák?,Czechoslovakia,0.0
+human_athlete,Josef Černý,sport,ice hockey,What is the sport of Josef Černý?,Cycling,0.0
+human_athlete,Daniel Šmejkal,sport,association football,What is the sport of Daniel Šmejkal?,Ice hockey,0.0
+human_athlete,Jeb Corliss,residence,Venice,What is the residence of Jeb Corliss?,Las Vegas,0.0
+human_athlete,Gustav Schwarzenegger,conflict,World War II,What is the conflict of Gustav Schwarzenegger?,Paternal,0.0
+human_athlete,Guido Köstermeyer,work location,Erlangen,What is the work location of Guido Köstermeyer?,Germany,0.0
+human_athlete,František Plass,field of work,association football,What is the field of work of František Plass?,Astronomy,0.0

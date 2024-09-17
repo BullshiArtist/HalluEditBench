@@ -1,0 +1,30 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+health_medication,antibiotic,has characteristic,antibiotic resistance,What does antibiotic have characteristic?,Selective toxicity,0.0
+health_medication,ginseng,described by source,Encyclopædia Britannica 11th edition,What is the described by source of ginseng?,Korean,0.0
+health_medication,botulinum toxin type A,subject has role,acetylcholine release inhibitors,What is the subject has role of botulinum toxin type A?,Cosmetic treatment,0.0
+health_medication,corticotropin,encoded by,POMC,What was corticotropin encoded by?,Corticotropin gene,0.0
+health_medication,immunoglobulin G,subject has role,immunologic factor,What is the subject has role of immunoglobulin G?,Antibody,0.0
+health_medication,industrial bromelain,has part(s),stem bromelain,What does industrial bromelain have part(s )?,Protease,0.0
+health_medication,Serpin family A member 1,molecular function,protein binding,What is the molecular function of Serpin family A member 1?,Protease inhibitor,0.0
+health_medication,Serpin family A member 1,subject has role,Trypsin inhibitor,What is the subject has role of Serpin family A member 1?,Plasminogen activator inhibitor 1,0.0
+health_medication,calfactant,subject has role,pulmonary surfactant,What is the subject has role of calfactant?,Protease,0.0
+health_medication,botulinum toxin Type B,subject has role,acetylcholine release inhibitors,What is the subject has role of botulinum toxin Type B?,Ophthalmology,0.0
+health_medication,tranylcypromine,significant drug interaction,procarbazine,What is the significant drug interaction of tranylcypromine?,MAOIs,0.0
+health_medication,laureth,described by source,English Wiktionary,What is the described by source of laureth?,SLS,0.0
+health_medication,insulin,subject has role,anti-diabetic medication,What is the subject has role of insulin?,Glucose,0.0
+health_medication,dalteparin,manufacturer,Pfizer,What is the manufacturer of dalteparin?,Bristol-Myers Squibb,0.0
+health_medication,fish oil,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of fish oil?,Krill,0.0
+health_medication,ibritumomab,subject has role,radiopharmaceutical,What is the subject has role of ibritumomab?,Antibody,0.0
+health_medication,cajeput oil,described by source,Encyclopædia Britannica 11th edition,What is the described by source of cajeput oil?,Melaleuca,0.0
+health_medication,onasemnogene abeparvovec,manufacturer,Novartis,What is the manufacturer of onasemnogene abeparvovec?,Avrobio,0.0
+health_medication,candicidin,produced by,Streptomyces griseus,What was candicidin produced by?,Fermentation,0.0
+health_medication,phosphatidyl serine,has part(s),carbon,What does phosphatidyl serine have part(s )?,Phosphatidylserine has a serine,0.0
+health_medication,chlorine,discoverer or inventor,Carl Wilhelm Scheele,Who is the discoverer or inventor of chlorine?,Svante Arrhenius,0.0
+health_medication,calcium,subject has role,essential medicine,What is the subject has role of calcium?,Bone,0.0
+health_medication,chlorine,named after,green,What was chlorine named after?,Sarazen,0.0
+health_medication,Hepatitis B vaccine,discoverer or inventor,Baruch Samuel Blumberg,Who is the discoverer or inventor of Hepatitis B vaccine?,Baruch Blumberg,0.0
+health_medication,digestive enzyme,subject has role,digestion,What is the subject has role of digestive enzyme?,Protease,0.0
+health_medication,nicotine replacement therapy,therapeutic area,smoking cessation,What is the therapeutic area of nicotine replacement therapy?,Addiction,0.0
+health_medication,varicella vaccine,developer,Michiaki Takahashi,Who is the developer of varicella vaccine?,Horton,0.0
+health_medication,hepatitis A vaccine,brand,Twinrix,What is the brand of hepatitis A vaccine?,Havrix,0.0
+health_medication,copper IUD,subject has role,essential medicine,What is the subject has role of copper IUD?,Contraception,0.0

@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+health_disease,osteochondroma,health specialty,oncology,What is the health specialty of osteochondroma?,Orthopedics,0.0
+health_disease,apparent life-threatening event syndrome,health specialty,pulmonology,What is the health specialty of apparent life-threatening event syndrome?,Pediatrics,0.0
+health_disease,staphylococcal meningitis,health specialty,neurology,What is the health specialty of staphylococcal meningitis?,Infectious Disease,0.0
+health_disease,chronic traumatic encephalopathy,said to be the same as,Dementia pugilistica,What did chronic traumatic encephalopathy say to be the same as?,Repetitive head trauma,0.0
+health_disease,Erythema induratum,health specialty,infectious diseases,What is the health specialty of Erythema induratum?,Dermatology,0.0
+health_disease,alphavirus infections,has cause,infection,What does alphavirus infections have cause?,Fever,0.0
+health_disease,anopsia,afflicts,visual field,What does anopsia afflict?,Eyes,0.0
+health_disease,dysosmia,health specialty,neurology,What is the health specialty of dysosmia?,Otolaryngology,0.0
+health_disease,precursor B-cell lymphoblastic leukemia,health specialty,oncology,What is the health specialty of precursor B-cell lymphoblastic leukemia?,Hematology,0.0
+health_disease,medullary carcinoma,health specialty,oncology,What is the health specialty of medullary carcinoma?,Endocrinology,0.0
+health_disease,herpesviral encephalitis,genetic association,TLR3,What is the genetic association of herpesviral encephalitis?,HLA-B27,0.0
+health_disease,streptococcal infection,has cause,infection,What does streptococcal infection have cause?,Bacteria,0.0
+health_disease,pulicosis,has cause,infestation,What does pulicosis have cause?,Pulmonary fibrosis,0.0
+health_disease,hyperphenylalaninemia,genetic association,QDPR,What is the genetic association of hyperphenylalaninemia?,PAH,0.0
+health_disease,tarsal coalition,health specialty,rheumatology,What is the health specialty of tarsal coalition?,Orthopedics,0.0
+health_disease,angiomatosis,health specialty,cardiology,What is the health specialty of angiomatosis?,Dermatology,0.0
+health_disease,retrognathism,health specialty,gastroenterology,What is the health specialty of retrognathism?,Orthodontics,0.0
+health_disease,serum sickness,health specialty,emergency medicine,What is the health specialty of serum sickness?,Immunology,0.0
+health_disease,alcohol withdrawal seizure,health specialty,neurology,What is the health specialty of alcohol withdrawal seizure?,Psychiatry,0.0
+health_disease,cementoma,health specialty,oncology,What is the health specialty of cementoma?,Dentistry,0.0
+health_disease,osteochondritis,health specialty,rheumatology,What is the health specialty of osteochondritis?,Orthopedics,0.0
+health_disease,clostridial necrotizing enteritis,has cause,infection,What does clostridial necrotizing enteritis have cause?,Toxemia,0.0
+health_disease,ocular albinism type 1,health specialty,endocrinology,What is the health specialty of ocular albinism type 1?,Ophthalmology,0.0
+health_disease,acanthocheilonemiasis,health specialty,infectious diseases,What is the health specialty of acanthocheilonemiasis?,Parasitology,0.0
+health_disease,hysteria,studied in,psychoanalysis,What was hysteria studied in?,Psychiatry,0.0
+health_disease,fluoride toxicity,has cause,poisoning,What does fluoride toxicity have cause?,Discoloration,0.0
+health_disease,type 2 diabetes,afflicts,Homo sapiens,What does type 2 diabetes afflict?,Pancreas,0.0
+health_disease,Caput medusae,health specialty,cardiology,What is the health specialty of Caput medusae?,Gastroenterology,0.0
+health_disease,jet lag,studied in,chronobiology,What was jet lag studied in?,Physiology,0.0
+health_disease,osteoid osteoma,health specialty,oncology,What is the health specialty of osteoid osteoma?,Orthopedics,0.0
+health_disease,perinatal disease,health specialty,pediatrics,What is the health specialty of perinatal disease?,Obstetrics,0.0
+health_disease,Plagiocephaly,health specialty,medical genetics,What is the health specialty of Plagiocephaly?,Neurosurgery,0.0
+health_disease,pseudarthrosis,health specialty,rheumatology,What is the health specialty of pseudarthrosis?,Orthopedics,0.0
+health_disease,pneumoperitoneum,health specialty,gastroenterology,What is the health specialty of pneumoperitoneum?,Surgery,0.0
+health_disease,splenomegaly,health specialty,general surgery,What is the health specialty of splenomegaly?,Hematology,0.0
+health_disease,familial amyloid neuropathy,health specialty,endocrinology,What is the health specialty of familial amyloid neuropathy?,Neurology,0.0
+health_disease,Lymphangiectasia,health specialty,angiology,What is the health specialty of Lymphangiectasia?,Gastroenterology,0.0
+health_disease,congenital torticollis,health specialty,medical genetics,What is the health specialty of congenital torticollis?,Orthopedics,0.0
+health_disease,tarsal coalition,anatomical location,tarsal bones,What is the anatomical location of tarsal coalition?,Foot,0.0
+health_disease,folate deficiency,health specialty,endocrinology,What is the health specialty of folate deficiency?,Hematology,0.0
+health_disease,foodborne illness,has cause,food contaminant,What does foodborne illness have cause?,Bacteria,0.0
+health_disease,upper respiratory tract infection,afflicts,upper respiratory tract,What does upper respiratory tract infection afflict?,Throat,0.0
+health_disease,mouth abnormality,health specialty,oral and maxillofacial surgery,What is the health specialty of mouth abnormality?,Dentistry,0.0
+health_disease,torsion dystonia,genetic association,TOR1A,What is the genetic association of torsion dystonia?,Autosomal dominant,0.0
+health_disease,spasticity,health specialty,neurology,What is the health specialty of spasticity?,Physical Medicine and Rehabilitation (PM&R),0.0
+health_disease,fetal death,main subject,death,What is the main subject of fetal death?,Pregnancy,0.0
+health_disease,chilblains,said to be the same as,trench foot,What did chilblains say to be the same as?,Frostbite,0.0
+health_disease,konzo,health specialty,emergency medicine,What is the health specialty of konzo?,Neurology,0.0
+health_disease,Bulbar palsy,genetic association,SLC52A3,What is the genetic association of Bulbar palsy?,SOD1,0.0
+health_disease,growth disorder,health specialty,pediatrics,What is the health specialty of growth disorder?,Endocrinology,0.0
+health_disease,malignant pleural effusion,health specialty,oncology,What is the health specialty of malignant pleural effusion?,Pulmonology,0.0
+health_disease,bone neoplasm,anatomical location,bone,What is the anatomical location of bone neoplasm?,Skeletal system,0.0
+health_disease,Barium enema,said to be the same as,Double-contrast barium enema,What did Barium enema say to be the same as?,X-ray,0.0
+health_disease,infection of the central nervous system,health specialty,neurology,What is the health specialty of infection of the central nervous system?,Neuroinfectiology,0.0
+health_disease,type-1 diabetes,afflicts,Homo sapiens,What does type-1 diabetes afflict?,Pancreas,0.0
+health_disease,Lentigo maligna melanoma,has cause,lentigo maligna,What does Lentigo maligna melanoma have cause?,UV exposure,0.0
+health_disease,aphakia,health specialty,medical genetics,What is the health specialty of aphakia?,Ophthalmology,0.0
+health_disease,phakomatosis,health specialty,medical genetics,What is the health specialty of phakomatosis?,Ophthalmology,0.0
+health_disease,opportunistic infection,drug or therapy used for treatment,ganciclovir,What is the drug or therapy used for treatment of opportunistic infection?,Antiretroviral,0.0
+health_disease,radiation burn,has cause,irradiation,What does radiation burn have cause?,Irritation,0.0
+health_disease,olfactory nerve injury,health specialty,neurology,What is the health specialty of olfactory nerve injury?,Otolaryngology,0.0
+health_disease,konzo,has cause,ingestion,What does konzo have cause?,Cassava toxicity,0.0
+health_disease,Neurothekeoma,health specialty,oncology,What is the health specialty of Neurothekeoma?,Dermatology,0.0
+health_disease,subarachnoid hemorrhage,has cause,aneurysm,What does subarachnoid hemorrhage have cause?,Trauma,0.0
+health_disease,bile acid malabsorption,genetic association,SLC10A2,What is the genetic association of bile acid malabsorption?,SLCO1B1,0.0
+health_disease,dysarthria,drug or therapy used for treatment,clonazepam,What is the drug or therapy used for treatment of dysarthria?,Speech therapy,0.0
+health_disease,extrapyramidal symptoms,has cause,medication,What does extrapyramidal symptoms have cause?,Antipsychotics,0.0
+health_disease,congenital torticollis,medical condition,orthopedics,What is the medical condition of congenital torticollis?,Wry neck,0.0
+health_disease,adenovirus infection,has cause,Adenoviridae,What does adenovirus infection have cause?,Pharyngitis,0.0
+health_disease,giant condyloma acuminatum,health specialty,infectious diseases,What is the health specialty of giant condyloma acuminatum?,Dermatology,0.0
+health_disease,amoebic dysentery,health specialty,infectious diseases,What is the health specialty of amoebic dysentery?,Gastroenterology,0.0
+health_disease,thyroid neoplasm,health specialty,oncology,What is the health specialty of thyroid neoplasm?,Endocrinology,0.0
+health_disease,Labial fusion,health specialty,medical genetics,What is the health specialty of Labial fusion?,Obstetrics,0.0
+health_disease,enzootic bovine leukosis,has cause,infection,What does enzootic bovine leukosis have cause?,Virus,0.0
+health_disease,torticollis,health specialty,rheumatology,What is the health specialty of torticollis?,Orthopedics,0.0
+health_disease,variant Creutzfeldt–Jakob disease,health specialty,infectious diseases,What is the health specialty of variant Creutzfeldt–Jakob disease?,Neurology,0.0
+health_disease,cerebral toxoplasmosis,health specialty,infectious diseases,What is the health specialty of cerebral toxoplasmosis?,Neurology,0.0
+health_disease,excessive daytime sleepiness,health specialty,neurology,What is the health specialty of excessive daytime sleepiness?,Sleep Medicine,0.0
+health_disease,Lujan–Fryns syndrome,genetic association,MED12,What is the genetic association of Lujan–Fryns syndrome?,FMR1,0.0
+health_disease,pigmented spindle cell nevus,health specialty,oncology,What is the health specialty of pigmented spindle cell nevus?,Dermatology,0.0
+health_disease,Aortoiliac occlusive disease,named after,René Leriche,Who was Aortoiliac occlusive disease named after?,Aorto,0.0
+health_disease,cervical intraepithelial neoplasia,health specialty,oncology,What is the health specialty of cervical intraepithelial neoplasia?,Obstetrics and Gynecology,0.0
+health_disease,skin disease,risk factor,smoking,What is the risk factor of skin disease?,Genetics,0.0
+health_disease,Conradi–Hünermann syndrome,health specialty,medical genetics,What is the health specialty of Conradi–Hünermann syndrome?,Dermatology,0.0
+health_disease,endemic African Kaposi's sarcoma,health specialty,oncology,What is the health specialty of endemic African Kaposi's sarcoma?,Dermatology,0.0
+health_disease,hepatic porphyria,health specialty,endocrinology,What is the health specialty of hepatic porphyria?,Gastroenterology,0.0
+health_disease,aneurysm,health specialty,vascular surgery,What is the health specialty of aneurysm?,Cardiology,0.0
+health_disease,Adnexal and skin appendage neoplasms,health specialty,oncology,What is the health specialty of Adnexal and skin appendage neoplasms?,Dermatology,0.0
+health_disease,congenital insensitivity to pain,health specialty,neurology,What is the health specialty of congenital insensitivity to pain?,Anesthesiology,0.0
+health_disease,kyphoscoliosis,health specialty,medical genetics,What is the health specialty of kyphoscoliosis?,Orthopedics,0.0
+health_disease,thiamine deficiency,health specialty,nutrition,What is the health specialty of thiamine deficiency?,Neurology,0.0
+health_disease,cementoma,anatomical location,cementum,What is the anatomical location of cementoma?,Jawbone,0.0
+health_disease,tapeworm infection,health specialty,infectious diseases,What is the health specialty of tapeworm infection?,Parasitology,0.0
+health_disease,pervasive developmental disorder not otherwise specified,health specialty,psychiatry,What is the health specialty of pervasive developmental disorder not otherwise specified?,Developmental Pediatrics,0.0
+health_disease,fecal incontinence,health specialty,gastroenterology,What is the health specialty of fecal incontinence?,Colorectal Surgery,0.0
+health_disease,long covid,has cause,COVID-19,What does long covid have cause?,Fatigue,0.0
+health_disease,osteophyte,health specialty,rheumatology,What is the health specialty of osteophyte?,Orthopedics,0.0
+health_disease,hirsutism,health specialty,dermatology,What is the health specialty of hirsutism?,Endocrinology,0.0
+health_disease,coxa vara,health specialty,medical genetics,What is the health specialty of coxa vara?,Orthopedics,0.0
+health_disease,borreliosis,has cause,infection,What does borreliosis have cause?,Ticks,0.0
+health_disease,dermatochalasis,health specialty,medical genetics,What is the health specialty of dermatochalasis?,Ophthalmology,0.0
+health_disease,iron overload,health specialty,medical genetics,What is the health specialty of iron overload?,Hematology,0.0
+health_disease,chromhidrosis,afflicts,sweat,What does chromhidrosis afflict?,Skin,0.0
+health_disease,aggressive fibromatosis,health specialty,oncology,What is the health specialty of aggressive fibromatosis?,Surgery,0.0
+health_disease,pathologic fracture,health specialty,rheumatology,What is the health specialty of pathologic fracture?,Orthopedics,0.0

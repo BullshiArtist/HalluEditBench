@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+human_writer,Yegor Gaidar,father,Timur Gaidar,Who is the father of Yegor Gaidar?,Yegor Gaidar's father was Zhores Gaidar,0.0
+human_writer,Lev Ponomaryov,place of birth,Tomsk,What is the place of birth of Lev Ponomaryov?,Kuibyshev,0.0
+human_writer,David Beasley,medical condition,COVID-19,What is the medical condition of David Beasley?,Cancer,0.0
+human_writer,Joe Biden,notable work,Promises to Keep,What is the notable work of Joe Biden?,Vice Presidency,0.0
+human_writer,Sergei Shoigu,conflict,Russian invasion of Ukraine,What is the conflict of Sergei Shoigu?,None,0.0
+human_writer,Heidi Heitkamp,work location,"Washington, D.C.",What is the work location of Heidi Heitkamp?,Washington D.C,0.0
+human_writer,John Sloss Hobart,work location,"Washington, D.C.",What is the work location of John Sloss Hobart?,New York,0.0
+human_writer,Jacob Crocheron,place of birth,Staten Island,What is the place of birth of Jacob Crocheron?,Philadelphia,0.0
+human_writer,Ronald Reagan,conflict,World War II,What is the conflict of Ronald Reagan?,Cold War,0.0
+human_writer,Vitaly Sevastyanov,place of birth,Krasnouralsk,What is the place of birth of Vitaly Sevastyanov?,Krasnoyarsk,0.0
+human_writer,Archibald Stuart,place of birth,Lynchburg,What is the place of birth of Archibald Stuart?,Edinburgh,0.0
+human_writer,Henry Ford,cause of death,cerebral hemorrhage,What is the cause of death of Henry Ford?,Arteriosclerosis,0.0
+human_writer,Tamara Sinyavskaya,genre,opera,What is the genre of Tamara Sinyavskaya?,Folk,0.0
+human_writer,Alexei Tupolev,employer,Moscow State Aviation Technological University,What is the employer of Alexei Tupolev?,Tupolev Design Bureau,0.0
+human_writer,Joe Biden,sport,American football,What is the sport of Joe Biden?,Basketball,0.0
+human_writer,Archibald Stuart,place of burial,Saltville,What is the place of burial of Archibald Stuart?,Westminster Abbey,0.0
+human_writer,Svetlana Zakharova,employer,Bolshoi Ballet,What is the employer of Svetlana Zakharova?,Mariinsky Ballet,0.0
+human_writer,Allen T. Caperton,work location,"Washington, D.C.",What is the work location of Allen T. Caperton?,West Virginia,0.0
+human_writer,"Carroll A. Campbell, Jr.",manner of death,natural causes,"What is the manner of death of Carroll A. Campbell, Jr.?",Heart attack,0.0
+human_writer,Joseph E. McDonald,member of political party,Democratic Party,What is the member of political party of Joseph E. McDonald?,Republican,0.0
+human_writer,George Washington,religion or worldview,Episcopal Church,What is the religion or worldview of George Washington?,Deism,0.0
+human_writer,Willoughby Newton,member of political party,Whig Party,What is the member of political party of Willoughby Newton?,Liberal,0.0
+human_writer,David A. Bokee,work location,"Washington, D.C.",What is the work location of David A. Bokee?,Chicago,0.0
+human_writer,Max Warburg,place of death,New York City,What is the place of death of Max Warburg?,Montreal,0.0
+human_writer,Bill Orton,work location,"Washington, D.C.",What is the work location of Bill Orton?,Utah,0.0
+human_writer,Mikhail Prokhorov,subject has role,billionaire,What is the subject has role of Mikhail Prokhorov?,Nets,0.0
+human_writer,Hillary Clinton,mother,Dorothy Howell Rodham,Who is the mother of Hillary Clinton?,Dorothy Rodham,0.0
+human_writer,Zhores Alferov,religion or worldview,atheism,What is the religion or worldview of Zhores Alferov?,Atheist,0.0
+human_writer,Abraham Lincoln,religion or worldview,Baptists,What is the religion or worldview of Abraham Lincoln?,Unitarianism,0.0
+human_writer,Genrikh Yagoda,cause of death,gunshot wound,What is the cause of death of Genrikh Yagoda?,Execution,0.0
+human_writer,Ancher Nelsen,work location,"Washington, D.C.",What is the work location of Ancher Nelsen?,New York,0.0
+human_writer,Lyubov Sliska,professorship,docent,What is the professorship of Lyubov Sliska?,Professor of Mathematics,0.0
+human_writer,Richard Nixon,conflict,World War II,What is the conflict of Richard Nixon?,Watergate,0.0
+human_writer,Jacob Crocheron,social classification,slave owner,What is the social classification of Jacob Crocheron?,Upper-class,0.0
+human_writer,Dick Fosbury,cause of death,lymphoma,What is the cause of death of Dick Fosbury?,Heart attack,0.0
+human_writer,John F. Kennedy,work location,"Washington, D.C.",What is the work location of John F. Kennedy?,The White House,0.0
+human_writer,William A. Wheeler,place of birth,Malone,Who is the place of birth of William A. Wheeler?,Yaleville,0.0
+human_writer,Vermin Supreme,place of birth,Rockport,What is the place of birth of Vermin Supreme?,New Hampshire,0.0
+human_writer,Tatyana Golikova,spouse,Viktor Khristenko,Who is the spouse of Tatyana Golikova?,Igor Golikov,0.0
+human_writer,Garret Hobart,place of death,Paterson,Who is the place of death of Garret Hobart?,Glenmont,0.0
+human_writer,F. Ray Keyser,place of birth,Chelsea,What is the place of birth of F. Ray Keyser?,Montpelier,0.0
+human_writer,Grigory Romanov,military branch,signal corps,What is the military branch of Grigory Romanov?,Navy,0.0
+human_writer,Jacob Crocheron,work location,"Washington, D.C.",What is the work location of Jacob Crocheron?,Philadelphia,0.0
+human_writer,Millard Fillmore,father,Nathaniel Fillmore,Who is the father of Millard Fillmore?,Philo,0.0
+human_writer,Trent Lott,work location,"Washington, D.C.",What is the work location of Trent Lott?,Washington D.C,0.0
+human_writer,F. Ray Keyser,place of burial,Vermont,What is the place of burial of F. Ray Keyser?,Arlington National Cemetery,0.0
+human_writer,Robert P. Casey,place of burial,Pennsylvania,What is the place of burial of Robert P. Casey?,Holy Cross Cemetery,0.0
+human_writer,Magomedsalam Magomedov,sport,association football,What is the sport of Magomedsalam Magomedov?,Wrestling,0.0
+human_writer,Valeriya Novodvorskaya,manner of death,natural causes,What is the manner of death of Valeriya Novodvorskaya?,Pneumonia,0.0
+human_writer,Andrew Johnson,work location,"Washington, D.C.",What is the work location of Andrew Johnson?,Washington D.C,0.0
+human_writer,Gennady Gudkov,military or police rank,reservist,What is the military or police rank of Gennady Gudkov?,Colonel,0.0
+human_writer,Pavel Solovyov,doctoral advisor,Arkady Shvetsov,Who is the doctoral advisor of Pavel Solovyov?,Vladimir Arnold,0.0
+human_writer,Hillary Clinton,handedness,right-handedness,What is the handedness of Hillary Clinton?,Left-handed,0.0
+human_writer,Henry Ford,sport,auto racing,What is the sport of Henry Ford?,Golf,0.0
+human_writer,Dmitry Medvedev,political ideology,Russian nationalism,What is the political ideology of Dmitry Medvedev?,Centrist,0.0
+human_writer,Yegor Gaidar,cause of death,edema,What is the cause of death of Yegor Gaidar?,Heart attack,0.0
+human_writer,Dwight D. Eisenhower,place of death,Walter Reed Army Medical Center,What is the place of death of Dwight D. Eisenhower?,Gettysburg,0.0
+human_writer,James Madison,father,"James Madison, Sr.",Who is the father of James Madison?,James Madison Sr,0.0
+human_writer,Greg Hands,place of birth,New York City,What is the place of birth of Greg Hands?,London,0.0
+human_writer,Yuri Afanasiev,place of birth,Mayna,Who is the place of birth of Yuri Afanasiev?,Moscow,0.0
+human_writer,Genrikh Yagoda,conflict,World War I,What is the conflict of Genrikh Yagoda?,Torture,0.0
+human_writer,Henry Kissinger,military or police rank,sergeant,What is the military or police rank of Henry Kissinger?,None,0.0
+human_writer,John Tyler,mother,Mary Marot Armistead,Who is the mother of John Tyler?,Mary Marlin,0.0
+human_writer,Robert C. Nicholas,place of death,Terrebonne Parish,What is the place of death of Robert C. Nicholas?,New York City,0.0
+human_writer,William Henry Harrison,spouse,Anna Harrison,Who is the spouse of William Henry Harrison?,Anna Symmes,0.0
+human_writer,Artur Taymazov,place of birth,Nogir,What is the place of birth of Artur Taymazov?,Baku,0.0
+human_writer,Valentina Grizodubova,military or police rank,colonel,What is the military or police rank of Valentina Grizodubova?,Major General,0.0
+human_writer,William E. Smith,place of burial,Forest Home Cemetery,What is the place of burial of William E. Smith?,Arlington National Cemetery,0.0
+human_writer,Samuel C. Crafts,place of burial,Vermont,What is the place of burial of Samuel C. Crafts?,Springfield,0.0
+human_writer,Anatoly Kashpirovsky,sport,boxing,What is the sport of Anatoly Kashpirovsky?,Wrestling,0.0
+human_writer,Yuri Afanasiev,employer,Moscow Institute for History and Archives,What is the employer of Yuri Afanasiev?,Rosneft,0.0
+human_writer,Ted Stevens,place of burial,Arlington National Cemetery,What is the place of burial of Ted Stevens?,"Dillingham, Alaska",0.0
+human_writer,Marina Solodkin,place of death,Riga,What is the place of death of Marina Solodkin?,Tel Aviv,0.0
+human_writer,W. Michael Blumenthal,place of birth,Oranienburg,What is the place of birth of W. Michael Blumenthal?,Leipzig,0.0
+human_writer,Vitaly Sevastyanov,military or police rank,colonel,What is the military or police rank of Vitaly Sevastyanov?,General,0.0
+human_writer,Henry Paulson,religion or worldview,Christian Science,What is the religion or worldview of Henry Paulson?,Christianity,0.0
+human_writer,Vladimir Medinsky,professorship,full professor,What is the professorship of Vladimir Medinsky?,Rector,0.0
+human_writer,Jim Geringer,religion or worldview,Lutheranism,What is the religion or worldview of Jim Geringer?,Christianity,0.0
+human_writer,Sergey Shargunov,father,Aleksandr Shargunov,Who is the father of Sergey Shargunov?,Vladimir Shargunov,0.0
+human_writer,John D. Works,religion or worldview,Christian Science,What is the religion or worldview of John D. Works?,Agnostic,0.0
+human_writer,Jay Kim,work location,"Washington, D.C.",What is the work location of Jay Kim?,Korea,0.0
+human_writer,Thomas Monteagle Bayly,place of birth,Accomack County,What is the place of birth of Thomas Monteagle Bayly?,London,0.0
+human_writer,Meg Whitman,religion or worldview,Presbyterianism,What is the religion or worldview of Meg Whitman?,Judaism,0.0
+human_writer,Frank Church,conflict,World War II,What is the conflict of Frank Church?,Environmentalism,0.0
+human_writer,Yevgeny Primakov,employer,Institute of Oriental Studies of the Russian Academy of Sciences,What is the employer of Yevgeny Primakov?,Russian Government,0.0
+human_writer,Gennady Onishchenko,field of work,politician,What is the field of work of Gennady Onishchenko?,Epidemiology,0.0
+human_writer,Natalya Narochnitskaya,employer,Institute of World Economy and International Relations,What is the employer of Natalya Narochnitskaya?,Russian Foreign Ministry,0.0
+human_writer,Samuel Curtis,place of death,Council Bluffs,What is the place of death of Samuel Curtis?,Washington D.C,0.0
+human_writer,Anastasy Vonsyatsky,place of burial,Connecticut,What is the place of burial of Anastasy Vonsyatsky?,Yaroslavl,0.0
+human_writer,Mikhail Bakunin,family,Bakunin,Who is the family of Mikhail Bakunin?,Pavel,0.0
+human_writer,Elisha E. Meredith,place of birth,Sumter County,What is the place of birth of Elisha E. Meredith?,South Carolina,0.0
+human_writer,John McCain,work location,"Washington, D.C.",What is the work location of John McCain?,Washington D.C,0.0
+human_writer,Christopher Memminger,occupation,politician,What is the occupation of Christopher Memminger?,Banker,0.0
+human_writer,Elias Boudinot,work location,"Washington, D.C.",What is the work location of Elias Boudinot?,Trenton,0.0
+human_writer,Henry Kissinger,subject has role,centenarian,What is the subject has role of Henry Kissinger?,Diplomacy,0.0
+human_writer,John Gregg,cause of death,killed in action,What is the cause of death of John Gregg?,Pneumonia,0.0
+human_writer,Samuel Lewis Hays,place of birth,Clarksburg,What is the place of birth of Samuel Lewis Hays?,Pennsylvania,0.0
+human_writer,Valentina Matviyenko,place of birth,Shepetivka,What is the place of birth of Valentina Matviyenko?,Leningrad,0.0
+human_writer,Edward C. Stokes,occupation,politician,What is the occupation of Edward C. Stokes?,Engineer,0.0
+human_writer,Lev Rokhlin,place of birth,Aral,What is the place of birth of Lev Rokhlin?,Kiev,0.0
+human_writer,Jonas P. Phoenix,member of political party,Whig Party,What is the member of political party of Jonas P. Phoenix?,Republican,0.0
+human_writer,John Adams,family,Adams family,Who is the family of John Adams?,Abigail,0.0
+human_writer,Joseph E. McDonald,work location,"Washington, D.C.",What is the work location of Joseph E. McDonald?,NASA,0.0
+human_writer,Adlai Stevenson I,work location,"Washington, D.C.",What is the work location of Adlai Stevenson I?,Springfield,0.0
+human_writer,William Henry Harrison,manner of death,natural causes,What is the manner of death of William Henry Harrison?,Pneumonia,0.0

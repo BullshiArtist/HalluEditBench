@@ -13,7 +13,7 @@ if __name__ == "__main__":
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--results_dir', default='../results', type=str)
     parser.add_argument('--hparams_dir', default='./hparams/ROME/llama3-8b', type=str)
-    parser.add_argument('--dataset_dir', default='../data/questions/hallucination', type=str)
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
@@ -39,24 +39,25 @@ if __name__ == "__main__":
     
     hparams = editing_hparams.from_hparams(args.hparams_dir)
     model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
-    if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
-        model_id_format = 'meta_llama_3.1_8b_instruct'
+    # if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
+    #     model_id_format = 'meta_llama_3.1_8b_instruct'
     
-    topic_name_ls = ['places_country', 'business_brand', 'human_scientist', 'technology_software', 'entertainment_anime', 'geography_volcano', ]
+    # , , 'places_city', 'places_landmark', 'entertainment_anime', 'geography_volcano', 'business_corporation', 'business_brand', 'human_scientist', 'technology_software'
+    topic_name_ls = ['places_country']
     if args.topic_name:
-        if args.topic_name not in topic_name_ls:
-            raise ValueError(f"Invalid topic name. Choose from {topic_name_ls}")
+        # if args.topic_name not in topic_name_ls:
+        #     raise ValueError(f"Invalid topic name. Choose from {topic_name_ls}")
         topic_name_ls = [args.topic_name]
 
     for topic_name in topic_name_ls:
+        print(f'Model: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
         if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json'):
             print(f'Result {topic_name}_{editing_method}.json already exists\n')
             if args.overwrite_result:
                 print(f'Overwriting result {topic_name}_{editing_method}.json\n')
             else:
                 continue
-        print(f'Editing {topic_name} with {editing_method}...\n')
-        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}_100/{topic_name}.csv")
+        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
         # df = pd.read_csv(f"../data/questions/hallucination/meta_llama_3.1_8b_instruct_100/places_country.csv")
         if args.data_size is not None:
             df = df[:args.data_size]

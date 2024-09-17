@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+technology_programming_language,Lua,described by source,The Evolution of an Extension Language: A History of Lua,What is the described by source of Lua?,Alfred Aho,0.0
+technology_programming_language,COBOL,creator,CODASYL,What is the creator of COBOL?,Grace Hopper,0.0
+technology_programming_language,Kawa,operating system,cross-platform,What is the operating system of Kawa?,Java,0.0
+technology_programming_language,Swift,designed by,Chris Lattner,Who was Swift designed by?,Gordon Moore,0.0
+technology_programming_language,Eiffel,designed by,Bertrand Meyer,Who was Eiffel designed by?,Gustave,0.0
+technology_programming_language,Haxe,programmed in,OCaml,What was Haxe programmed in?,C++,0.0
+technology_programming_language,AspectJ,developer,Eclipse Foundation,What is the developer of AspectJ?,Xerox,0.0
+technology_programming_language,Cython,programmed in,Python,What was Cython programmed in?,C,0.0
+technology_programming_language,Perl Data Language,developer,Karl Glazebrook,Who is the developer of Perl Data Language?,Daniel Stutzbach,0.0
+technology_programming_language,Netwide Assembler,platform,x86,What is the platform of Netwide Assembler?,MS-DOS,0.0
+technology_programming_language,Gforth,distributed by,Google Play,What was Gforth distributed by?,ANSI,0.0
+technology_programming_language,PostScript,used by,PostScript font,What was PostScript used by?,Printers,0.0
+technology_programming_language,Chez Scheme,dialect of computer language,Scheme,What is the dialect of computer language of Chez Scheme?,R6RS,0.0
+technology_programming_language,Elixir,operating system,cross-platform,What is the operating system of Elixir?,Erlang,0.0
+technology_programming_language,Squeak,developer,Apple,What is the developer of Squeak?,Alan Kay,0.0
+technology_programming_language,Turbo Pascal,designed by,Anders Hejlsberg,Who was Turbo Pascal designed by?,Niklaus Wirth,0.0
+technology_programming_language,ASP.NET,replaces,Active Server Pages,What does ASP.NET replace?,VBScript,0.0
+technology_programming_language,Sass,designed by,Hampton Lintorn-Catlin,Who was Sass designed by?,Ian Hickson,0.0
+technology_programming_language,Scilab,developer,Dassault Systèmes,What is the developer of Scilab?,INRIA,0.0
+technology_programming_language,Forth,programming paradigm,procedural programming,What is the programming paradigm of Forth?,Stack-based,0.0
+technology_programming_language,ROOT,creator,CERN,What is the creator of ROOT?,Jean-Louis Le Faure,0.0
+technology_programming_language,Forth,designed by,Charles H. Moore,Who was Forth designed by?,Ken Thompson,0.0
+technology_programming_language,ML,designed by,Robin Milner,Who was ML designed by?,Marvin Lee,0.0
+technology_programming_language,Prolog,derivative work,Datalog,What is the derivative work of Prolog?,Haskell,0.0
+technology_programming_language,XML User Interface Language,developer,Mozilla Foundation,What is the developer of XML User Interface Language?,Microsoft,0.0
+technology_programming_language,Agda,operating system,Microsoft Windows,What is the operating system of Agda?,Haskell,0.0
+technology_programming_language,OpenCL,developer,Khronos Group,What is the developer of OpenCL?,Apple,0.0
+technology_programming_language,Chez Scheme,developer,Cisco,What is the developer of Chez Scheme?,R. Kent Dybvig,0.0
+technology_programming_language,CoffeeScript,operating system,cross-platform,What is the operating system of CoffeeScript?,JavaScript,0.0
+technology_programming_language,FreeBASIC,programmed in,BASIC,What was FreeBASIC programmed in?,FreePascal,0.0
+technology_programming_language,XML User Interface Language,used by,Firefox,What was XML User Interface Language used by?,XUL,0.0
+technology_programming_language,Ada,dialect of computer language,SPARK,What is the dialect of computer language of Ada?,Ada,0.0
+technology_programming_language,ROOT,founded by,CERN,What was ROOT founded by?,Linus,0.0
+technology_programming_language,JavaScript,said to be the same as,JScript,What did JavaScript say to be the same as?,"""undefined""",0.0
+technology_programming_language,Squeak,programmed in,C,What was Squeak programmed in?,Smalltalk,0.0
+technology_programming_language,MUMPS,operating system,cross-platform,What is the operating system of MUMPS?,"M |  (Note: MUMPS is a multi-user, multi-processing operating system",0.0
+technology_programming_language,PostScript,programming paradigm,procedural programming,What is the programming paradigm of PostScript?,Functional,0.0
+technology_programming_language,GNU Common Lisp,developer,GNU Project,What is the developer of GNU Common Lisp?,Richard P. Gabriel,0.0
+technology_programming_language,Ceylon,named after,Sri Lanka,What was Ceylon named after?,Cinnamon,0.0
+technology_programming_language,Turing,country,Canada,What is the country of Turing?,England,0.0
+technology_programming_language,Pharo,influenced by,Smalltalk,What was Pharo influenced by?,Kraftwerk,0.0
+technology_programming_language,Mathcad,developer,Mathsoft,What is the developer of Mathcad?,PTC,0.0
+technology_programming_language,CLISP,developer,GNU Project,What is the developer of CLISP?,Claude Brozowski,0.0
+technology_programming_language,GNU Guile,developer,GNU Project,What is the developer of GNU Guile?,Noam Postavski,0.0
+technology_programming_language,COBOL,derivative work,GnuCOBOL,What is the derivative work of COBOL?,COBOL-85,0.0
+technology_programming_language,Ceylon,operating system,cross-platform,What is the operating system of Ceylon?,Java,0.0
+technology_programming_language,Lean,operating system,cross-platform,What is the operating system of Lean?,Android,0.0
+technology_programming_language,GNU Awk,developer,GNU Project,What is the developer of GNU Awk?,Paul Rubin,0.0
+technology_programming_language,NetLogo,programming paradigm,procedural programming,What is the programming paradigm of NetLogo?,Agent-Based,0.0
+technology_programming_language,Lean,platform,cross-platform,What is the platform of Lean?,Toyota,0.0
+technology_programming_language,COBOL,commissioned by,United States Department of Defense,What was COBOL commissioned by?,US Navy,0.0
+technology_programming_language,GNU Awk,influenced by,C,What was GNU Awk influenced by?,Sather,0.0
+technology_programming_language,GNU Octave,influenced by,MATLAB,What was GNU Octave influenced by?,Unix,0.0
+technology_programming_language,XSLT,programming paradigm,declarative programming,What is the programming paradigm of XSLT?,Functional,0.0
+technology_programming_language,Processing,copyright license,GNU Lesser General Public License,What is the copyright license of Processing?,CC0,0.0
+technology_programming_language,MATLAB,designed by,Cleve Moler,Who was MATLAB designed by?,Perret,0.0
+technology_programming_language,Cython,based on,Python,What was Cython based on?,Cython,0.0
+technology_programming_language,Turbo Pascal,programming paradigm,object-oriented programming,What is the programming paradigm of Turbo Pascal?,Procedural,0.0
+technology_programming_language,Haxe,package management system,opam,What is the package management system of Haxe?,Haxelib,0.0
+technology_programming_language,Fortran,copyright license,MIT License,What is the copyright license of Fortran?,Public Domain,0.0
+technology_programming_language,AspectJ,operating system,cross-platform,What is the operating system of AspectJ?,Java,0.0
+technology_programming_language,Object Pascal,based on,Pascal,Who was Object Pascal based on?,Modula-2,0.0
+technology_programming_language,Swift,creator,Apple,What is the creator of Swift?,Chris Lattner,0.0
+technology_programming_language,Turing,operating system,Microsoft Windows,What is the operating system of Turing?,None,0.0
+technology_programming_language,XSLT,influenced by,Document Style Semantics and Specification Language,What was XSLT influenced by?,SGML,0.0
+technology_programming_language,Idris,programming paradigm,functional programming,What is the programming paradigm of Idris?,Dependent Typing,0.0
+technology_programming_language,Svelte,operating system,cross-platform,What is the operating system of Svelte?,JavaScript,0.0
+technology_programming_language,Sass,operating system,cross-platform,What is the operating system of Sass?,JavaScript,0.0
+technology_programming_language,R,writable file format,Hierarchical Data Format,What is the writable file format of R?,RData,0.0
+technology_programming_language,Logo,named after,logos,What was Logo named after?,Pineapple,0.0
+technology_programming_language,CLISP,language of work or name,English,What is the language of work or name of CLISP?,Lisp,0.0
+technology_programming_language,NetLogo,copyright license,GNU General Public License,What is the copyright license of NetLogo?,CC BY-NC-SA 3.0,0.0
+technology_programming_language,ActionScript,dialect of computer language,ECMAScript,What is the dialect of computer language of ActionScript?,ActionScript 3,0.0
+technology_programming_language,CLISP,creator,Bruno Haible,Who is the creator of CLISP?,Claude Brozowski,0.0
+technology_programming_language,SQL,used by,relational database,What was SQL used by?,IBM,0.0
+technology_programming_language,SCM,developer,Aubrey Jaffer,Who is the developer of SCM?,Ralph Johnson,0.0
+technology_programming_language,Haskell,named after,Haskell Curry,Who was Haskell named after?,Murray,0.0
+technology_programming_language,SQL,based on,first-order logic,What was SQL based on?,IRIS,0.0
+technology_programming_language,Haml,developer,Hampton Lintorn-Catlin,Who is the developer of Haml?,Nathan Weinstock,0.0
+technology_programming_language,Erlang,operating system,cross-platform,What is the operating system of Erlang?,BEAM,0.0
+technology_programming_language,dBase,programming paradigm,imperative programming,What is the programming paradigm of dBase?,Procedural,0.0
+technology_programming_language,Go,director / manager,Sameer Ajmani,Who is the director / manager of Go?,Kent Beck,0.0
+technology_programming_language,GNU Octave,named after,Octave Levenspiel,Who was GNU Octave named after?,Richard Stallman,0.0
+technology_programming_language,FreeBASIC,copyright license,GNU General Public License,What is the copyright license of FreeBASIC?,MIT,0.0
+technology_programming_language,C++,has characteristic,Turing completeness,What does C++ have characteristic?,Object-oriented,0.0
+technology_programming_language,Asymptote,programmed in,C++,What was Asymptote programmed in?,Java,0.0
+technology_programming_language,Maple,readable file format,STereoLithography,What is the readable file format of Maple?,MPL,0.0
+technology_programming_language,SQL,programming paradigm,declarative programming,What is the programming paradigm of SQL?,Procedural,0.0
+technology_programming_language,make,programming paradigm,macro,What is the programming paradigm of make?,Scripting,0.0
+technology_programming_language,Simula,operating system,Microsoft Windows,What is the operating system of Simula?,None,0.0
+technology_programming_language,Go,reply to,C++,What does Go reply to?,Network requests,0.0
+technology_programming_language,Turing,influenced by,Pascal,Who was Turing influenced by?,Ludwig Wittgenstein,0.0
+technology_programming_language,SCM,maintained by,Aubrey Jaffer,Who was SCM maintained by?,Apache,0.0
+technology_programming_language,Idris,copyright license,BSD licenses,What is the copyright license of Idris?,Apache-2.0,0.0
+technology_programming_language,Wolfram Language,used by,Mathematica,What was Wolfram Language used by?,Stephen Wolfram,0.0
+technology_programming_language,KTurtle,programmed in,C++,What was KTurtle programmed in?,Python,0.0
+technology_programming_language,Brainfuck,programming paradigm,imperative programming,What is the programming paradigm of Brainfuck?,Turing-complete,0.0
+technology_programming_language,Squeak,copyright license,MIT License,What is the copyright license of Squeak?,Open Source,0.0
+technology_programming_language,D,designed by,Walter Bright,Who was D designed by?,Edsger W. Dijkstra,0.0
+technology_programming_language,GnuCOBOL,developer,GNU Project,What is the developer of GnuCOBOL?,Free Software Foundation,0.0
+technology_programming_language,Chez Scheme,operating system,GNU/Linux,What is the operating system of Chez Scheme?,Unix,0.0
+technology_programming_language,Cython,influenced by,Python,What was Cython influenced by?,C++,0.0
+technology_programming_language,CMU Common Lisp,developer,Carnegie Mellon University,What is the developer of CMU Common Lisp?,Harold Abelson,0.0
+technology_programming_language,Asymptote,programming paradigm,imperative programming,What is the programming paradigm of Asymptote?,Declarative,0.0
+technology_programming_language,PARI/GP,developer,Henri Cohen,Who is the developer of PARI/GP?,Nicolas M. Thiéry,0.0

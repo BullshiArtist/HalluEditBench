@@ -1,0 +1,71 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+event_history,French Revolution,has part(s),Reign of Terror,What does French Revolution have part(s )?,Phases,0.0
+event_history,October Revolution,named after,October,When was October Revolution named after?,Lenin,0.0
+event_history,Glorious Revolution,location,British Isles,What is the location of Glorious Revolution?,England,0.0
+event_history,Velvet Revolution,has cause,totalitarianism,What does Velvet Revolution have cause?,Fall of communism,0.0
+event_history,Russian Revolution of 1905,location,Russia,What is the location of Russian Revolution of 1905?,St. Petersburg,0.0
+event_history,Xinhai Revolution,location,Qing dynasty,What is the location of Xinhai Revolution?,China,0.0
+event_history,Russian Revolution of 1905,followed by,Russian Revolution,What was Russian Revolution of 1905 followed by?,Nicholas II's concessions,0.0
+event_history,February Revolution,has cause,World War I,What does February Revolution have cause?,Food shortages,0.0
+event_history,April Revolution,country,First Republic of South Korea,What is the country of April Revolution?,France,0.0
+event_history,neolithic revolution,location,Fertile Crescent,What is the location of neolithic revolution?,Middle East,0.0
+event_history,Russian Revolution,follows,Russian Revolution of 1905,What does Russian Revolution follow?,Romanov Dynasty,0.0
+event_history,Cuban Revolution,participant,26th of July Movement,When is the participant of Cuban Revolution?,1953-1959,0.0
+event_history,Arab Spring,location,Arab world,What is the location of Arab Spring?,Middle East,0.0
+event_history,American Revolution,significant event,Boston Tea Party,What is the significant event of American Revolution?,Independence,0.0
+event_history,Carnation Revolution,has cause,Estado Novo,What does Carnation Revolution have cause?,Overthrow,0.0
+event_history,July Revolution,derivative work,Liberty Leading the People,What is the derivative work of July Revolution?,February Revolution,0.0
+event_history,French Revolution of 1848,location,July Monarchy,What is the location of French Revolution of 1848?,France,0.0
+event_history,French Revolution of 1848,follows,Louis-Philippe I,Who does French Revolution of 1848 follow?,July Revolution,0.0
+event_history,Egyptian revolution of 1952,location,Egypt,What is the location of Egyptian revolution of 1952?,Cairo,0.0
+event_history,Tulip Revolution,location,Kyrgyzstan,What is the location of Tulip Revolution?,Mongolia,0.0
+event_history,Third Punic War,location,Tunisia,What is the location of Third Punic War?,Carthage,0.0
+event_history,Third Punic War,significant event,peace treaty,What is the significant event of Third Punic War?,Rome's destruction of Carthage,0.0
+event_history,War in the Vendée,location,Vendée,What is the location of War in the Vendée?,France,0.0
+event_history,Korean War,has cause,Kim Il-sung,Who does Korean War have cause?,Communism,0.0
+event_history,Kashmir conflict,located in the administrative territorial entity,Jammu and Kashmir,What is the located in the administrative territorial entity of Kashmir conflict?,India,0.0
+event_history,Pastry War,location,Canada,What is the location of Pastry War?,Mexico,0.0
+event_history,Deluge,location,Polish–Lithuanian Commonwealth,What is the location of Deluge?,Cyrodiil,0.0
+event_history,War of the Second Coalition,has part(s),Irish Rebellion of 1798,What does War of the Second Coalition have part(s )?,Napoleon,0.0
+event_history,Fronde,country,Kingdom of France,What is the country of Fronde?,Non-existent,0.0
+event_history,War of the Austrian Succession,has part(s),Second Silesian War,What does War of the Austrian Succession have part(s )?,Europe,0.0
+event_history,Mahdist War,has part(s),Battle of Omdurman,What does Mahdist War have part(s )?,Sudan,0.0
+event_history,Peloponnesian War,has part(s),Sicilian Expedition,What does Peloponnesian War have part(s )?,Athenians,0.0
+event_history,First Schleswig War,location,Duchy of Schleswig,What is the location of First Schleswig War?,Denmark,0.0
+event_history,War in Darfur,location,Darfur,What is the location of War in Darfur?,Sudan,0.0
+event_history,Kosovo War,location,Kosovo,What is the location of Kosovo War?,Yugoslavia,0.0
+event_history,First Italo-Ethiopian War,location,Eritrea,What is the location of First Italo-Ethiopian War?,Ethiopia,0.0
+event_history,Hundred Days,capital,Paris,What is the capital of Hundred Days?,None,0.0
+event_history,Yom Kippur War,followed by,1982 Lebanon War,When was Yom Kippur War followed by?,October War,0.0
+event_history,Yom Kippur War,follows,War of Attrition,What does Yom Kippur War follow?,Six-Day War,0.0
+event_history,Six-Day War,followed by,War of Attrition,What was Six-Day War followed by?,Ceasefire,0.0
+event_history,1948 Arab–Israeli War,time period,contemporary history,What is the time period of 1948 Arab–Israeli War?,May 1948-July 1949,0.0
+event_history,1948 Arab–Israeli War,country,Palestine,What is the country of 1948 Arab–Israeli War?,Israel,0.0
+event_history,1948 Arab–Israeli War,has cause,ethnic violence,What does 1948 Arab–Israeli War have cause?,Partitioning,0.0
+event_history,Hundred Hour War,sport,association football,What is the sport of Hundred Hour War?,Cricket,0.0
+event_history,1948 Palestine War,time period,contemporary history,What is the time period of 1948 Palestine War?,December 1947 - March 1949,0.0
+event_history,Chaco War,location,Gran Chaco,What is the location of Chaco War?,Paraguay,0.0
+event_history,Chaco War,country,Bolivia,What is the country of Chaco War?,Paraguay,0.0
+event_history,First Anglo-Dutch War,location,English Channel,What is the location of First Anglo-Dutch War?,Europe,0.0
+event_history,Paraguayan War,location,Southern Cone,What is the location of Paraguayan War?,South America,0.0
+event_history,Continuation War,time period,World War II,What is the time period of Continuation War?,1941-1944,0.0
+event_history,War of Attrition,follows,Six-Day War,When does War of Attrition follow?,Trench Warfare,0.0
+event_history,Livonian War,location,Northern Europe,What is the location of Livonian War?,Baltic Sea,0.0
+event_history,Bangladesh Liberation War,derivative work,Muktir Gaan,Who is the derivative work of Bangladesh Liberation War?,Mujib,0.0
+event_history,Sixth Russo-Turkish War,significant event,Treaty of Küçük Kaynarca,Who is the significant event of Sixth Russo-Turkish War?,Treaty of San Stefano,0.0
+event_history,Winter War,time period,World War II,What is the time period of Winter War?,1939-1940,0.0
+event_history,Second Opium War,location,Qing dynasty,What is the location of Second Opium War?,China,0.0
+event_history,Revolt of the Comuneros,participant,Charles V,Who is the participant of Revolt of the Comuneros?,Comuneros,0.0
+event_history,Second Schleswig War,location,Duchy of Schleswig,What is the location of Second Schleswig War?,Denmark,0.0
+event_history,Russo-Japanese War,location,Manchuria,What is the location of Russo-Japanese War?,Asia,0.0
+event_history,Swabian War,participant,Swabian League,What is the participant of Swabian War?,Württemberg,0.0
+event_history,First Sino-Japanese War,location,Korea,What is the location of First Sino-Japanese War?,China,0.0
+event_history,War in Afghanistan,location,Afghanistan,What is the location of War in Afghanistan?,South Asia,0.0
+event_history,Ten Years' War,participant,Spain under the Restoration,What is the participant of Ten Years' War?,Cuba,0.0
+event_history,Polish–Soviet War,significant event,Peace of Riga,What is the significant event of Polish–Soviet War?,Miracle at the Vistula,0.0
+event_history,Eastern Front,target,Soviet occupation zone of Germany,What is the target of Eastern Front?,Stalingrad,0.0
+event_history,Eastern Front,named after,French invasion of Russia,What was Eastern Front named after?,Geography,0.0
+event_history,Russo-Ukrainian War,follows,Euromaidan,What does Russo-Ukrainian War follow?,Crimean War,0.0
+event_history,Russian invasion of Ukraine,foundational text,Constitution of Ukraine,What is the foundational text of Russian invasion of Ukraine?,Minsk Accords,0.0
+event_history,Russian invasion of Ukraine,theorised by,Oleksii Arestovych,Who was Russian invasion of Ukraine theorised by?,Andriy Parubiy,0.0
+event_history,Israel–Hamas war,time period,contemporary history,What is the time period of Israel–Hamas war?,2008-2009,0.0

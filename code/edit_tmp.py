@@ -4,6 +4,7 @@ import json
 import torch
 import argparse
 import pandas as pd
+from util import topic_dict
 from hallucination_editor import BaseEditor
 from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, KNHyperParams, SERACHparams, GraceHyperParams, MELOHyperParams, WISEHyperParams, MALMENHyperParams
 
@@ -13,7 +14,7 @@ if __name__ == "__main__":
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--results_dir', default='../results', type=str)
     parser.add_argument('--hparams_dir', default='./hparams/ROME/llama3-8b', type=str)
-    parser.add_argument('--dataset_dir', default='../data/questions/hallucination', type=str)
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
@@ -52,7 +53,7 @@ if __name__ == "__main__":
     if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
         model_id_format = 'meta_llama_3.1_8b_instruct'
     
-    topic_name_ls = ['entertainment_anime']
+    topic_name_ls = ['places_country']
     # if args.topic_name:
     #     if args.topic_name not in topic_name_ls:
     #         raise ValueError(f"Invalid topic name. Choose from {topic_name_ls}")
@@ -66,7 +67,12 @@ if __name__ == "__main__":
             else:
                 continue
         print(f'Editing {topic_name} with {editing_method}...\n')
-        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}_100/{topic_name}.csv")#[47:50]
+        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")#[47:50]
+        # if topic_name in topic_dict.keys():
+        #     topic_qa = topic_dict[topic_name]
+        # else:
+        #     topic_qa = ' '.join(topic_name.split('_')[1:])
+            
         # df = pd.read_csv(f"../data/questions/hallucination/meta_llama_3.1_8b_instruct_100/places_country.csv")
         if args.data_size is not None:
             df = df[:args.data_size]
@@ -92,6 +98,7 @@ if __name__ == "__main__":
         hparams.device = args.device_edit  # overwrite device in hparams
         editor = BaseEditor.from_hparams(hparams)
         metrics, edited_model, _ = editor.edit(
+            # topic=topic_qa,
             subject=subjects,
             prompts=questions,
             target_new=targets,

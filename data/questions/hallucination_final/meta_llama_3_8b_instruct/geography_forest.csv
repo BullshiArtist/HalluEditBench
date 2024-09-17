@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+geography_forest,Ottawa National Forest,significant place,Ironwood,What is the significant place of Ottawa National Forest?,Mining,0.0
+geography_forest,Okanogan-Wenatchee National Forest,located in the administrative territorial entity,Washington,What is the located in the administrative territorial entity of Okanogan-Wenatchee National Forest?,Mountains,0.0
+geography_forest,Sierra National Forest,IUCN protected areas category,IUCN category VI: Protected Area with sustainable use of natural resources,What is the IUCN protected areas category of Sierra National Forest?,IUCN Category II,0.0
+geography_forest,Zeisigwald,country,Germany,What is the country of Zeisigwald?,Non-existent,0.0
+geography_forest,Sierra National Forest,significant place,Oakhurst,What is the significant place of Sierra National Forest?,California,0.0
+geography_forest,Siuslaw National Forest,operator,United States Forest Service,What is the operator of Siuslaw National Forest?,USDA,0.0
+geography_forest,Lolo National Forest,located in the administrative territorial entity,Montana,What is the located in the administrative territorial entity of Lolo National Forest?,Missoula,0.0
+geography_forest,Palatinate Forest,highest point,Kalmit,Who is the highest point of Palatinate Forest?,Fuchsberg,0.0
+geography_forest,Nantahala National Forest,operator,United States Forest Service,What is the operator of Nantahala National Forest?,USDA,0.0
+geography_forest,Tombigbee National Forest,operator,United States Forest Service,What is the operator of Tombigbee National Forest?,USDA,0.0
+geography_forest,Helena National Forest,located in the administrative territorial entity,Montana,What is the located in the administrative territorial entity of Helena National Forest?,Helena,0.0
+geography_forest,Homochitto National Forest,significant place,Brookhaven,What is the significant place of Homochitto National Forest?,Mississippi,0.0
+geography_forest,Fremont National Forest,located in the administrative territorial entity,Oregon,What is the located in the administrative territorial entity of Fremont National Forest?,Lake,0.0
+geography_forest,Fremont National Forest,operator,United States Forest Service,What is the operator of Fremont National Forest?,USDA,0.0
+geography_forest,Paimpont forest,owned by,Donatien Levesque,Who was Paimpont forest owned by?,Dukes of Brittany,0.0
+geography_forest,William B. Bankhead National Forest,named after,William Brockman Bankhead,Who was William B. Bankhead National Forest named after?,William B. Bankhead,0.0
+geography_forest,Umpqua National Forest,located in the administrative territorial entity,Oregon,What is the located in the administrative territorial entity of Umpqua National Forest?,Rogue River,0.0
+geography_forest,Ochoco National Forest,operator,United States Forest Service,What is the operator of Ochoco National Forest?,USDA,0.0
+geography_forest,Mark Twain National Forest,named after,Mark Twain,Who was Mark Twain National Forest named after?,Samuel,0.0
+geography_forest,Veldensteiner Forst,located in the administrative territorial entity,Bayreuth,What is the located in the administrative territorial entity of Veldensteiner Forst?,Germany,0.0
+geography_forest,Schönbuch,located in the administrative territorial entity,Baden-Württemberg,What is the located in the administrative territorial entity of Schönbuch?,Tübingen,0.0
+geography_forest,Delta National Forest,located in the administrative territorial entity,Mississippi,What is the located in the administrative territorial entity of Delta National Forest?,Alabama,0.0
+geography_forest,Epping Forest,heritage designation,Site of Special Scientific Interest,What is the heritage designation of Epping Forest?,Ancient,0.0
+geography_forest,Umpqua National Forest,significant place,Roseburg,What is the significant place of Umpqua National Forest?,Recreation,0.0
+geography_forest,Białowieża Forest,location,Grodno Region,What is the location of Białowieża Forest?,Poland,0.0
+geography_forest,Forest of Rambouillet,located in the administrative territorial entity,Yvelines,What is the located in the administrative territorial entity of Forest of Rambouillet?,Rambouillet,0.0
+geography_forest,Chantilly Forest,maintained by,National Forests Office,What was Chantilly Forest maintained by?,French monarchy,0.0
+geography_forest,Waipoua Forest,located in the administrative territorial entity,Kaipara District,What is the located in the administrative territorial entity of Waipoua Forest?,TaneMahuta,0.0
+geography_forest,Chugach National Forest,significant place,Anchorage,What is the significant place of Chugach National Forest?,Alaska,0.0
+geography_forest,Palatinate Forest,made from material,sedimentary rock,What is the made from material of Palatinate Forest?,Oak,0.0
+geography_forest,Umatilla National Forest,operator,United States Forest Service,What is the operator of Umatilla National Forest?,USDA,0.0
+geography_forest,William B. Bankhead National Forest,operator,United States Forest Service,What is the operator of William B. Bankhead National Forest?,USDA,0.0
+geography_forest,Savernake Forest,located in the administrative territorial entity,Savernake,What is the located in the administrative territorial entity of Savernake Forest?,Wiltshire,0.0
+geography_forest,Malheur National Forest,significant place,Canyon City,What is the significant place of Malheur National Forest?,Wildlife,0.0
+geography_forest,Stanislaus National Forest,significant place,Sonora,What is the significant place of Stanislaus National Forest?,California,0.0
+geography_forest,Klamath National Forest,significant place,Yreka,What is the significant place of Klamath National Forest?,Wildlife,0.0
+geography_forest,El Yunque National Forest,significant place,Río Grande,What is the significant place of El Yunque National Forest?,Tropical,0.0
+geography_forest,Malheur National Forest,located in the administrative territorial entity,Oregon,What is the located in the administrative territorial entity of Malheur National Forest?,Sawtooth National Recreation Area,0.0
+geography_forest,Nyungwe Forest,heritage designation,World Heritage Site,What is the heritage designation of Nyungwe Forest?,National Park,0.0
+geography_forest,Ochoco National Forest,located in the administrative territorial entity,Oregon,What is the located in the administrative territorial entity of Ochoco National Forest?,Prineville,0.0
+geography_forest,Sundarbans,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Sundarbans?,Ganges,0.0
+geography_forest,Colville National Forest,located in the administrative territorial entity,Washington,What is the located in the administrative territorial entity of Colville National Forest?,Idaho,0.0
+geography_forest,Los Padres National Forest,authority,United States Forest Service,What is the authority of Los Padres National Forest?,USDA,0.0
+geography_forest,Croatan National Forest,located in the administrative territorial entity,North Carolina,What is the located in the administrative territorial entity of Croatan National Forest?,Camp,0.0
+geography_forest,Epping Forest,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Epping Forest?,Domesday Book,0.0
+geography_forest,Białowieża Forest,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Białowieża Forest?,Wildlife,0.0
+geography_forest,Los Padres National Forest,IUCN protected areas category,IUCN category VI: Protected Area with sustainable use of natural resources,What is the IUCN protected areas category of Los Padres National Forest?,National Park,0.0
+geography_forest,Staatswald Galm,located in the administrative territorial entity,See District,What is the located in the administrative territorial entity of Staatswald Galm?,Germany,0.0
+geography_forest,Tombigbee National Forest,located in the administrative territorial entity,Mississippi,What is the located in the administrative territorial entity of Tombigbee National Forest?,Alabama,0.0
+geography_forest,Shawnee National Forest,significant place,Harrisburg,What is the significant place of Shawnee National Forest?,Garden of the Gods,0.0
+geography_forest,Midewin National Tallgrass Prairie,IUCN protected areas category,IUCN category VI: Protected Area with sustainable use of natural resources,What is the IUCN protected areas category of Midewin National Tallgrass Prairie?,National Park,0.0
+geography_forest,White Mountain National Forest,significant place,Berlin,What is the significant place of White Mountain National Forest?,Hiking,0.0
+geography_forest,Talladega National Forest,operator,United States Forest Service,What is the operator of Talladega National Forest?,USDA,0.0
+geography_forest,Shawnee National Forest,located in the administrative territorial entity,Illinois,What is the located in the administrative territorial entity of Shawnee National Forest?,Garden of the Gods,0.0
+geography_forest,Superior National Forest,located in the administrative territorial entity,St. Louis County,What is the located in the administrative territorial entity of Superior National Forest?,Ely,0.0
+geography_forest,Holly Springs National Forest,located in the administrative territorial entity,Mississippi,What is the located in the administrative territorial entity of Holly Springs National Forest?,Tennessee,0.0
+geography_forest,Gunnison National Forest,highest point,Castle Peak,What is the highest point of Gunnison National Forest?,West Elk Peak,0.0
+geography_forest,Lassen National Forest,located in the administrative territorial entity,California,What is the located in the administrative territorial entity of Lassen National Forest?,Plumas,0.0
+geography_forest,New Forest,described by source,Encyclopædia Britannica 11th edition,What is the described by source of New Forest?,Geology,0.0
+geography_forest,Cherokee National Forest,operator,United States Forest Service,What is the operator of Cherokee National Forest?,USDA,0.0
+geography_forest,Finger Lakes National Forest,significant place,Ithaca,What is the significant place of Finger Lakes National Forest?,Hiking,0.0
+geography_forest,Croatan National Forest,significant place,New Bern,What is the significant place of Croatan National Forest?,Wildlife,0.0
+geography_forest,Bighorn National Forest,located in the administrative territorial entity,Big Horn County,What is the located in the administrative territorial entity of Bighorn National Forest?,Wyoming,0.0
+geography_forest,Chugach National Forest,operator,United States Forest Service,What is the operator of Chugach National Forest?,USDA,0.0
+geography_forest,Bitterroot National Forest,significant place,Missoula,What is the significant place of Bitterroot National Forest?,Wildlife,0.0
+geography_forest,Holly Springs National Forest,operator,United States Forest Service,What is the operator of Holly Springs National Forest?,USDA,0.0
+geography_forest,Stanislaus National Forest,highest point,Leavitt Peak,Who is the highest point of Stanislaus National Forest?,Tioga Pass,0.0
+geography_forest,Tahoe National Forest,located in the administrative territorial entity,California,What is the located in the administrative territorial entity of Tahoe National Forest?,Yuba,0.0
+geography_forest,Manitou Experimental Forest,located in the administrative territorial entity,Teller County,What is the located in the administrative territorial entity of Manitou Experimental Forest?,Colorado,0.0
+geography_forest,Lolo National Forest,significant place,Missoula,What is the significant place of Lolo National Forest?,Recreation,0.0
+geography_forest,Stanislaus National Forest,located in the administrative territorial entity,California,What is the located in the administrative territorial entity of Stanislaus National Forest?,Tuolumne,0.0
+geography_forest,Deschutes National Forest,located in the administrative territorial entity,Oregon,What is the located in the administrative territorial entity of Deschutes National Forest?,Lava,0.0
+geography_forest,Angeles National Forest,located in the administrative territorial entity,Los Angeles County,What is the located in the administrative territorial entity of Angeles National Forest?,Angeles Crest Highway,0.0
+geography_forest,Wenatchee National Forest,operator,United States Forest Service,What is the operator of Wenatchee National Forest?,USDA,0.0
+geography_forest,Aokigahara,heritage designation,natural monument,What is the heritage designation of Aokigahara?,UNESCO,0.0
+geography_forest,Biogradska Gora,significant place,Kolašin,What is the significant place of Biogradska Gora?,National Park,0.0
+geography_forest,Forest of Dean,described by source,Encyclopædia Britannica 11th edition,What is the described by source of Forest of Dean?,Geological,0.0
+geography_forest,Custer National Forest,operator,United States Forest Service,What is the operator of Custer National Forest?,USDA,0.0
+geography_forest,Winkelhofer Forst,located in the administrative territorial entity,Bamberg,What is the located in the administrative territorial entity of Winkelhofer Forst?,Germany,0.0
+geography_forest,Bienville National Forest,operator,United States Forest Service,What is the operator of Bienville National Forest?,USDA,0.0
+geography_forest,Chugach National Forest,IUCN protected areas category,IUCN category VI: Protected Area with sustainable use of natural resources,What is the IUCN protected areas category of Chugach National Forest?,IUCN VI,0.0
+geography_forest,Francis Marion National Forest,significant place,Charleston,What is the significant place of Francis Marion National Forest?,Hunting,0.0
+geography_forest,Tahoe National Forest,significant place,Truckee,What is the significant place of Tahoe National Forest?,Recreation,0.0
+geography_forest,Croatan National Forest,operator,United States Forest Service,What is the operator of Croatan National Forest?,USDA,0.0
+geography_forest,Flathead National Forest,operator,United States Forest Service,What is the operator of Flathead National Forest?,USDA,0.0
+geography_forest,Bienville National Forest,significant place,Jackson,Who is the significant place of Bienville National Forest?,Tallahatchie,0.0
+geography_forest,Los Padres National Forest,located in the administrative territorial entity,California,What is the located in the administrative territorial entity of Los Padres National Forest?,Ventura,0.0
+geography_forest,Sequoia National Forest,located in the administrative territorial entity,California,What is the located in the administrative territorial entity of Sequoia National Forest?,Kings Canyon,0.0
+geography_forest,Bois de la Cambre - Ter Kamerenbos,located in the administrative territorial entity,City of Brussels,What is the located in the administrative territorial entity of Bois de la Cambre - Ter Kamerenbos?,Park,0.0
+geography_forest,Grunewald,country,Germany,What is the country of Grunewald?,Non-existent,0.0
+geography_forest,Hoosier National Forest,significant place,Bloomington,What is the significant place of Hoosier National Forest?,Indiana,0.0
+geography_forest,Wallowa–Whitman National Forest,operator,United States Forest Service,What is the operator of Wallowa–Whitman National Forest?,USDA,0.0
+geography_forest,Wenatchee National Forest,located in the administrative territorial entity,Washington,What is the located in the administrative territorial entity of Wenatchee National Forest?,Lake,0.0
+geography_forest,Nantahala National Forest,located in the administrative territorial entity,North Carolina,What is the located in the administrative territorial entity of Nantahala National Forest?,Lake,0.0
+geography_forest,Pine Barrens,located in the administrative territorial entity,New Jersey,What is the located in the administrative territorial entity of Pine Barrens?,Whitesbog,0.0
+geography_forest,Biogradska Gora,located in the administrative territorial entity,Kolašin Municipality,What is the located in the administrative territorial entity of Biogradska Gora?,National Park,0.0
+geography_forest,Białowieża Forest,located in the administrative territorial entity,Podlaskie Voivodeship,What is the located in the administrative territorial entity of Białowieża Forest?,National Park,0.0
+geography_forest,El Yunque National Forest,IUCN protected areas category,IUCN category VI: Protected Area with sustainable use of natural resources,What is the IUCN protected areas category of El Yunque National Forest?,National Park,0.0
+geography_forest,Guttenberger Wald,located in the administrative territorial entity,Würzburg,What is the located in the administrative territorial entity of Guttenberger Wald?,Guttenberg,0.0
+geography_forest,Kaufungen Forest,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of Kaufungen Forest?,Wolfgang,0.0
+geography_forest,Sierra National Forest,located in the administrative territorial entity,California,What is the located in the administrative territorial entity of Sierra National Forest?,Fresno,0.0
+geography_forest,Beaverhead-Deerlodge National Forest,significant place,Butte,What is the significant place of Beaverhead-Deerlodge National Forest?,Montana,0.0
+geography_forest,Ochoco National Forest,significant place,Mitchell,Who is the significant place of Ochoco National Forest?,Prineville,0.0
+geography_forest,Willamette National Forest,significant place,Eugene,Who is the significant place of Willamette National Forest?,Santiam,0.0
+geography_forest,Schönbuch,country,Germany,What is the country of Schönbuch?,Austria,0.0

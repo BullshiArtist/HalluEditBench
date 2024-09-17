@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_meta_llama_3_8b_instruct,eval_meta_llama_3_8b_instruct
+technology_software,Delve Deeper,distributed by,Steam,What was Delve Deeper distributed by?,Fantasy Flight Games,0.0
+technology_software,Open 3D Engine,replaces,Amazon Lumberyard,What does Open 3D Engine replace?,CryEngine,0.0
+technology_software,News Channel,developer,Nintendo,What is the developer of News Channel?,Apple,0.0
+technology_software,Tintin in Tibet,game mode,single-player video game,What is the game mode of Tintin in Tibet?,Adventure,0.0
+technology_software,MicroStrategy,founded by,Michael J. Saylor,Who was MicroStrategy founded by?,Michael Saylor,0.0
+technology_software,Proton Mail,owned by,Proton,What was Proton Mail owned by?,CERN,0.0
+technology_software,The Marvellous Miss Take,has characteristic,indie game,What does The Marvellous Miss Take have characteristic?,Whimsy,0.0
+technology_software,Encarta,based on,Funk & Wagnalls,What was Encarta based on?,Microsoft,0.0
+technology_software,Super Puzzle Platformer Deluxe,publisher,Adult Swim Games,What is the publisher of Super Puzzle Platformer Deluxe?,Midway Games,0.0
+technology_software,TeachAIDS,parent organization,Stanford University,What is the parent organization of TeachAIDS?,"University of California, San Francisco (UCSF)",0.0
+technology_software,Ben and Ed,game mode,single-player video game,What is the game mode of Ben and Ed?,Run-and-gun,0.0
+technology_software,J-Pilot,programmed in,GTK,What was J-Pilot programmed in?,C,0.0
+technology_software,Keycloak,named after,cloaking device,What was Keycloak named after?,Keycloak,0.0
+technology_software,popt,programmed in,C,What was popt programmed in?,Python,0.0
+technology_software,MicroStrategy,chief executive officer,Michael J. Saylor,Who is the chief executive officer of MicroStrategy?,Michael Saylor,0.0
+technology_software,Inoreader,programmed in,PHP,What was Inoreader programmed in?,Python,0.0
+technology_software,Zen,copyright license,freeware,What is the copyright license of Zen?,MIT,0.0
+technology_software,News Channel,owned by,Nintendo,What was News Channel owned by?,CNN,0.0
+technology_software,Tintin in Tibet,producer,Bruno Bonnell,Who is the producer of Tintin in Tibet?,Hergé,0.0
+technology_software,Mango TV,industry,new media,What is the industry of Mango TV?,Entertainment,0.0
+technology_software,FortressCraft Evolved,has characteristic,indie game,What does FortressCraft Evolved have characteristic?,Blocky,0.0
+technology_software,Vite,operating system,cross-platform,What is the operating system of Vite?,JavaScript,0.0
+technology_software,Tower Wars,publisher,SuperVillain Studios,What is the publisher of Tower Wars?,Jellyvision,0.0
+technology_software,Cainiao,headquarters location,Shenzhen,What is the headquarters location of Cainiao?,Hangzhou,0.0
+technology_software,Wound Care Simulation,output device,smartglasses,What is the output device of Wound Care Simulation?,Monitor,0.0
+technology_software,"Nothing, Forever",based on,Seinfeld,"Who was Nothing, Forever based on?",Kanye West,0.0
+technology_software,News Channel,publisher,Nintendo,What is the publisher of News Channel?,CNN,0.0
+technology_software,Google Arts & Culture,used by,National Portrait Gallery,What was Google Arts & Culture used by?,Museums,0.0
+technology_software,Ben and Ed,genre,platform game,What is the genre of Ben and Ed?,Comedy,0.0
+technology_software,SentiOne,location of formation,Gdańsk,What is the location of formation of SentiOne?,Wrocław,0.0
+technology_software,Archeblade,has characteristic,indie game,What does Archeblade have characteristic?,Unique,0.0
+technology_software,Mitsurugi Kamui Hikae,genre,hack and slash,What is the genre of Mitsurugi Kamui Hikae?,Action,0.0
+technology_software,GetResponse,headquarters location,Gdańsk,What is the headquarters location of GetResponse?,"Gdansk, Poland",0.0
+technology_software,The Hat Man: Shadow Ward,distributed by,Steam,What was The Hat Man: Shadow Ward distributed by?,Lionsgate,0.0
+technology_software,The Adventures of Tintin: The Secret of the Unicorn,input device,touchscreen,What is the input device of The Adventures of Tintin: The Secret of the Unicorn?,Gamepad,0.0
+technology_software,FortressCraft Evolved,distributed by,Steam,What was FortressCraft Evolved distributed by?,Re-Logic,0.0
+technology_software,Amazon Kindle,operating system,Linux,What is the operating system of Amazon Kindle?,Proprietary,0.0
+technology_software,Ben and Ed,has characteristic,indie game,What does Ben and Ed have characteristic?,British,0.0
+technology_software,Private Internet Access,copyright license,MIT License,What is the copyright license of Private Internet Access?,GPLv3,0.0
+technology_software,Ben and Ed,distributed by,Steam,What was Ben and Ed distributed by?,Lionsgate,0.0
+technology_software,Keras,copyright license,MIT License,What is the copyright license of Keras?,Apache 2.0,0.0
+technology_software,NetEase Cloud Music,owned by,NetEase,What was NetEase Cloud Music owned by?,Tencent,0.0
+technology_software,News Channel,country of origin,Japan,What is the country of origin of News Channel?,USA,0.0
+technology_software,Zen,owned by,VK,What was Zen owned by?,Ford,0.0
+technology_software,MicroStrategy,chairperson,Michael J. Saylor,Who is the chairperson of MicroStrategy?,Michael Saylor,0.0
+technology_software,NordVPN,industry,software development,What is the industry of NordVPN?,Cybersecurity,0.0
+technology_software,Everyday Genius: SquareLogic,game mode,single-player video game,What is the game mode of Everyday Genius: SquareLogic?,Puzzle,0.0
+technology_software,TransOcean: The Shipping Company,distributed by,Steam,What was TransOcean: The Shipping Company distributed by?,Ubisoft,0.0
+technology_software,News Channel,distributed by,Nintendo,What was News Channel distributed by?,CNN,0.0
+technology_software,MX Player,distributed by,Google Play,What was MX Player distributed by?,J2 Interactive,0.0
+technology_software,Xero,country,New Zealand,What is the country of Xero?,None,0.0
+technology_software,Lumina Desktop,language of work or name,multiple languages,What is the language of work or name of Lumina Desktop?,Lumina,0.0
+technology_software,Kahoot!,stock exchange,Oslo Stock Exchange,What is the stock exchange of Kahoot!?,None,0.0
+technology_software,Two Worlds II Castle Defense,developer,Reality Pump Studios,What is the developer of Two Worlds II Castle Defense?,SouthPeak Games,0.0
+technology_software,"Zedge, Inc",industry,Internet,"What is the industry of Zedge, Inc?",Mobile Content,0.0
+technology_software,Battlezone 98 Redux,developer,Big Boat Interactive,What is the developer of Battlezone 98 Redux?,Rebellion Developments,0.0
+technology_software,age,operating system,Microsoft Windows,What is the operating system of age?,Biological,0.0
+technology_software,TILA App,language of work or name,Spanish,What is the language of work or name of TILA App?,Java,0.0
+technology_software,TrueCaller,founded by,True Software Scandinavia,What was TrueCaller founded by?,Nami Zarring,0.0
+technology_software,Super Puzzle Platformer Deluxe,software engine,Microsoft XNA,What is the software engine of Super Puzzle Platformer Deluxe?,Unity,0.0
+technology_software,Gitter,copyright license,MIT License,What is the copyright license of Gitter?,Apache 2.0,0.0
+technology_software,TILA App,industry,well-being,What is the industry of TILA App?,Fintech,0.0
+technology_software,Adobe InDesign,follows,Adobe PageMaker,What does Adobe InDesign follow?,XML,0.0
+technology_software,Metasploit,developer,Rapid7,What is the developer of Metasploit?,H.D. Moore,0.0
+technology_software,certbot,language of work or name,English,What is the language of work or name of certbot?,Python,0.0
+technology_software,Google Arts & Culture,access restriction status,open access,What is the access restriction status of Google Arts & Culture?,Free,0.0
+technology_software,Paint the Town Red,has characteristic,indie game,What does Paint the Town Red have characteristic?,Idiom,0.0
+technology_software,ITVX,operating system,Microsoft Windows,What is the operating system of ITVX?,Android,0.0
+technology_software,Niconico,distributed by,Google Play,What was Niconico distributed by?,GyaO,0.0
+technology_software,Two Worlds II Castle Defense,game mode,single-player video game,What is the game mode of Two Worlds II Castle Defense?,Tower Defense,0.0
+technology_software,age,programmed in,Go,What was age programmed in?,Python,0.0
+technology_software,The Adventures of Tintin: The Secret of the Unicorn,director,Jacques Exertier,Who is the director of The Adventures of Tintin: The Secret of the Unicorn?,Steven Spielberg,0.0
+technology_software,Real World Racing,distributed by,Steam,What was Real World Racing distributed by?,Codemasters,0.0
+technology_software,Fortix 2,genre,action game,What is the genre of Fortix 2?,Tower Defense,0.0
+technology_software,MetaStock,industry,software industry,What is the industry of MetaStock?,Financial,0.0
+technology_software,Juno,industry,information technology,What is the industry of Juno?,Transportation,0.0
+technology_software,"Zedge, Inc",stock exchange,NYSE American,"What is the stock exchange of Zedge, Inc?",NASDAQ,0.0
+technology_software,MobileCoin,programmed in,Rust,What was MobileCoin programmed in?,C++,0.0
+technology_software,Contraption Maker,has characteristic,indie game,What does Contraption Maker have characteristic?,Inventive,0.0
+technology_software,Archeblade,distributed by,Steam,What was Archeblade distributed by?,Trion Worlds,0.0
+technology_software,NetEase Cloud Music,operator,NetEase,What is the operator of NetEase Cloud Music?,William Ding,0.0
+technology_software,Tintin in Tibet,publisher,Infogrames,What is the publisher of Tintin in Tibet?,Casterman,0.0
+technology_software,Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood,game mode,single-player video game,What is the game mode of Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood?,Adventure,0.0
+technology_software,mystride,complies with,privacy policy,What does mystride comply with?,ISO 9001,0.0
+technology_software,Ideco ICS,operating system,Linux,What is the operating system of Ideco ICS?,Windows,0.0
+technology_software,Zuora,headquarters location,Foster City,What is the headquarters location of Zuora?,Redwood City,0.0
+technology_software,Ben and Ed,publisher,Sluggerfly,What is the publisher of Ben and Ed?,Curve Digital,0.0
+technology_software,Juno,headquarters location,New York City,What is the headquarters location of Juno?,Seattle,0.0
+technology_software,TransOcean: The Shipping Company,game mode,single-player video game,What is the game mode of TransOcean: The Shipping Company?,Business Simulator,0.0
+technology_software,Tintin in Tibet,developer,Infogrames,What is the developer of Tintin in Tibet?,Hergé,0.0
+technology_software,Snes9x,copyright license,MIT License,What is the copyright license of Snes9x?,GPLv2,0.0
+technology_software,Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay,game mode,single-player video game,What is the game mode of Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay?,Point-and-click,0.0
+technology_software,Ben and Ed,software engine,Unreal Engine 4,What is the software engine of Ben and Ed?,Unity,0.0
+technology_software,Bun,programmed in,Zig,What was Bun programmed in?,Python,0.0
+technology_software,osm2pgsql,developer,Jochen Topf,Who is the developer of osm2pgsql?,Simon Grehan,0.0
+technology_software,Strawberry,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of Strawberry?,Tkinter,0.0
+technology_software,Plotly,country,Canada,What is the country of Plotly?,USA,0.0
+technology_software,Delve Deeper,has characteristic,indie game,What does Delve Deeper have characteristic?,Exploration,0.0
+technology_software,ELIZA,named after,Pygmalion,What was ELIZA named after?,Eliza,0.0
+technology_software,Google AdSense,operating system,cross-platform,What is the operating system of Google AdSense?,Linux,0.0
+technology_software,Oh My Zsh,programmed in,shell script,What was Oh My Zsh programmed in?,Zsh,0.0
+technology_software,Webtoon,distributed by,Google Play,What was Webtoon distributed by?,Naver,0.0
+technology_software,KDiskFree,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of KDiskFree?,GTK+,0.0
+technology_software,Everyday Genius: SquareLogic,language of work or name,English,What is the language of work or name of Everyday Genius: SquareLogic?,Python,0.0
+technology_software,UC Browser,distributed by,App Store,What was UC Browser distributed by?,Alibaba,0.0
