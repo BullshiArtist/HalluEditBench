@@ -7,13 +7,6 @@ import pandas as pd
 from hallucination_editor import BaseEditor
 from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams
 
-# python3 edit_all_method.py --device_edit=6 --device_eval=7 --topic_name=places_landmark
-# python3 edit_all_method.py --device_edit=7 --device_eval=5 --topic_name=entertainment_anime
-# python3 edit_all_method.py --device_edit=4 --device_eval=6 --topic_name=entertainment_song
-# python3 edit_all_method.py --device_edit=4 --device_eval=6 --topic_name=business_corporation
-# python3 edit_all_method.py --device_edit=1 --device_eval=5 --topic_name=geography_volcano
-# python3 edit_all_method.py --device_edit=3 --device_eval=5 --topic_name=technology_software
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_size', default=None, type=int)
@@ -30,7 +23,7 @@ if __name__ == "__main__":
     # topic_name_ls = ['places_country', 'places_city', 'places_landmark']
     topic_name = args.topic_name
 
-    for editing_method in ['MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE', 'LoRA']:
+    for editing_method in ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']:
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -103,6 +96,7 @@ if __name__ == "__main__":
             os.makedirs(f'{args.results_dir}/{model_id_format}')
         json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json', 'w'), indent=4)
         
+        print(f'\nModel: {model_id_format}, Editing {topic_name} with {editing_method} finished')
         del edited_model
         del editor
         gc.collect()
