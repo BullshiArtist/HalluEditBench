@@ -190,9 +190,9 @@ folder_hallu = f"../data/questions/hallucination_all/{model_id_format}"
 # folder_hallu_100 = f"../data/questions/hallucination/{model_id_format}_100"
 folder_hallu_final = f"../data/questions/hallucination_final/{model_id_format}"
 client = AzureOpenAI(api_key=load_api_key('api_key_n_central_us'), api_version='2023-05-15', azure_endpoint="https://n-central-us.openai.azure.com/")
-#  'technology_software', 'entertainment_anime', 'geography_volcano', 'places_country', 'places_city', 'places_landmark', 
-# 'business_corporation'
-topic_ls = ['business_brand', 'human_scientist']
+#  
+# 'business_brand', 'human_scientist', 'places_country', 'places_city', 'places_landmark'
+topic_ls = ['entertainment_anime', 'entertainment_song', 'business_corporation', 'geography_volcano', 'technology_software']
 
 for domain_topic_name in topic_ls:
     df_hallu = pd.read_csv(f"{folder_hallu_final}/{domain_topic_name}.csv")

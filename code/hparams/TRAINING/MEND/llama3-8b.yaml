@@ -1,5 +1,5 @@
 # Model
-model_name: meta-llama/Meta-Llama-3.1-8B-Instruct
+model_name: "meta-llama/Meta-Llama-3-8B-Instruct"
 model_class: LlamaForCausalLM
 tokenizer_class: LlamaTokenizer
 tokenizer_name: meta-llama/Meta-Llama-3.1-8B-Instruct

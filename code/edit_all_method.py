@@ -7,13 +7,19 @@ import pandas as pd
 from hallucination_editor import BaseEditor
 from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams
 
+# python3 edit_all_method.py --device_edit=6 --device_eval=7 --topic_name=places_landmark
+# python3 edit_all_method.py --device_edit=7 --device_eval=5 --topic_name=entertainment_anime
+# python3 edit_all_method.py --device_edit=4 --device_eval=6 --topic_name=entertainment_song
+# python3 edit_all_method.py --device_edit=4 --device_eval=6 --topic_name=business_corporation
+# python3 edit_all_method.py --device_edit=1 --device_eval=5 --topic_name=geography_volcano
+# python3 edit_all_method.py --device_edit=3 --device_eval=5 --topic_name=technology_software
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--results_dir', default='../results', type=str)
-    parser.add_argument('--hparams_dir', default='./hparams/ROME/llama3-8b', type=str)
-    parser.add_argument('--dataset_dir', default='../data/questions/hallucination', type=str)
+    parser.add_argument('--hparams_dir', default='./hparams', type=str)
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
@@ -21,43 +27,36 @@ if __name__ == "__main__":
     parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
 
-    editing_method = args.hparams_dir.split('/')[-2]
-    if editing_method in ['FT-M', 'FT-L']:
-        editing_hparams = FTHyperParams
-    elif editing_method == 'ICL':
-        editing_hparams = IKEHyperParams
-    elif editing_method == 'ROME':
-        editing_hparams = ROMEHyperParams
-    elif editing_method == 'MEMIT':
-        editing_hparams = MEMITHyperParams
-    elif editing_method == 'LoRA':
-        editing_hparams = LoRAHyperParams
-    elif editing_method == 'GRACE':
-        editing_hparams = GraceHyperParams
-    else:
-        raise NotImplementedError
-    
-    hparams = editing_hparams.from_hparams(args.hparams_dir)
-    model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
-    if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
-        model_id_format = 'meta_llama_3.1_8b_instruct'
-    
-    topic_name_ls = []
-    if args.topic_name:
-        if args.topic_name not in topic_name_ls:
-            raise ValueError(f"Invalid topic name. Choose from {topic_name_ls}")
-        topic_name_ls = [args.topic_name]
+    # topic_name_ls = ['places_country', 'places_city', 'places_landmark']
+    topic_name = args.topic_name
 
-    for topic_name in topic_name_ls:
+    for editing_method in ['MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE', 'LoRA']:
+        if editing_method in ['FT-M', 'FT-L']:
+            editing_hparams = FTHyperParams
+        elif editing_method == 'ICL':
+            editing_hparams = IKEHyperParams
+        elif editing_method == 'ROME':
+            editing_hparams = ROMEHyperParams
+        elif editing_method == 'MEMIT':
+            editing_hparams = MEMITHyperParams
+        elif editing_method == 'LoRA':
+            editing_hparams = LoRAHyperParams
+        elif editing_method == 'GRACE':
+            editing_hparams = GraceHyperParams
+        else:
+            raise NotImplementedError
+
+        hparams = editing_hparams.from_hparams(f'{args.hparams_dir}/{editing_method}/llama3-8b')
+        model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
+
+        print(f'Model: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
         if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json'):
             print(f'Result {topic_name}_{editing_method}.json already exists\n')
             if args.overwrite_result:
                 print(f'Overwriting result {topic_name}_{editing_method}.json\n')
             else:
                 continue
-        print(f'Editing {topic_name} with {editing_method}...\n')
-        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}_100/{topic_name}.csv")
-        # df = pd.read_csv(f"../data/questions/hallucination/meta_llama_3.1_8b_instruct_100/places_country.csv")
+        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
         if args.data_size is not None:
             df = df[:args.data_size]
         targets = df['object'].tolist()

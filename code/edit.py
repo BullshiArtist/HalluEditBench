@@ -43,7 +43,7 @@ if __name__ == "__main__":
     #     model_id_format = 'meta_llama_3.1_8b_instruct'
     
     # , , 'places_city', 'places_landmark', 'entertainment_anime', 'geography_volcano', 'business_corporation', 'business_brand', 'human_scientist', 'technology_software'
-    topic_name_ls = ['places_country']
+    topic_name_ls = ['places_country', 'places_city', 'places_landmark']
     if args.topic_name:
         # if args.topic_name not in topic_name_ls:
         #     raise ValueError(f"Invalid topic name. Choose from {topic_name_ls}")

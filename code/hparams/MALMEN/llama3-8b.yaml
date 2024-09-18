@@ -2,7 +2,7 @@ alg_name: "MALMEN"
 archive: ../results/models/MALMEN/gpt2-xl
 device: 0
 # Model
-model_name: meta-llama/Meta-Llama-3.1-8B-Instruct
+model_name: "meta-llama/Meta-Llama-3-8B-Instruct"
 model_class: AutoModelForCausalLM
 tokenizer_class: AutoTokenizer
 tokenizer_name: meta-llama/Meta-Llama-3.1-8B-Instruct
