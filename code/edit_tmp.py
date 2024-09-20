@@ -50,8 +50,8 @@ if __name__ == "__main__":
     
     hparams = editing_hparams.from_hparams(args.hparams_dir)
     model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
-    if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
-        model_id_format = 'meta_llama_3.1_8b_instruct'
+    # if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
+    #     model_id_format = 'meta_llama_3.1_8b_instruct'
     
     topic_name_ls = ['places_country']
     # if args.topic_name:
@@ -67,13 +67,13 @@ if __name__ == "__main__":
             else:
                 continue
         print(f'Editing {topic_name} with {editing_method}...\n')
-        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")#[47:50]
+        # df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")#[47:50]
         # if topic_name in topic_dict.keys():
         #     topic_qa = topic_dict[topic_name]
         # else:
         #     topic_qa = ' '.join(topic_name.split('_')[1:])
             
-        # df = pd.read_csv(f"../data/questions/hallucination/meta_llama_3.1_8b_instruct_100/places_country.csv")
+        df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/places_country.csv")
         if args.data_size is not None:
             df = df[:args.data_size]
         targets = df['object'].tolist()
