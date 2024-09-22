@@ -164,6 +164,7 @@ def layer_stats(
     filename = stats_dir / file_extension
 
     print(f"Computing Cov locally....")
+    print(filename.exists(), filename)
 
     ds = get_ds() if not filename.exists() else None
 

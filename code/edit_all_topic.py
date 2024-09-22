@@ -8,52 +8,40 @@ import pandas as pd
 from hallucination_editor import BaseEditor
 from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_size', default=None, type=int)
+    parser.add_argument('--edit_method', default='ROME', type=str)
     parser.add_argument('--results_dir', default='../results', type=str)
-    parser.add_argument('--hparams_dir', default='./hparams', type=str)
-    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
-    parser.add_argument('--model_name', default='llama3-8b', choices=['llama3-8b', 'mistral-7b', 'llama2-7b'])
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
+    parser.add_argument('--model_name', default='llama3-8b', choices=['llama3-8b', 'mistral-7b', 'alpaca-7b', 'vicuna-7b'])
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
-    parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
 
     start_time = time.time()
+    edit_method = args.edit_method #'GRACE'
+    hparams = GraceHyperParams.from_hparams(f'./hparams/GRACE/{args.model_name}')
+    model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
 
-    # topic_name_ls = ['places_country', 'places_city', 'places_landmark']
-    topic_name = args.topic_name
+    for file_name in os.listdir(f"{args.dataset_dir}/{model_id_format}"):
+        topic_name = file_name.replace('.csv', '')
 
-    for editing_method in ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']:
-        if editing_method in ['FT-M', 'FT-L']:
-            editing_hparams = FTHyperParams
-        elif editing_method == 'ICL':
-            editing_hparams = IKEHyperParams
-        elif editing_method == 'ROME':
-            editing_hparams = ROMEHyperParams
-        elif editing_method == 'MEMIT':
-            editing_hparams = MEMITHyperParams
-        elif editing_method == 'LoRA':
-            editing_hparams = LoRAHyperParams
-        elif editing_method == 'GRACE':
-            editing_hparams = GraceHyperParams
-        else:
-            raise NotImplementedError
-
-        hparams = editing_hparams.from_hparams(f'{args.hparams_dir}/{editing_method}/{args.model_name}')
-        model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
-
-        print(f'Model: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
-        if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json'):
-            print(f'Result {topic_name}_{editing_method}.json already exists\n')
+        if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{edit_method}.json'):
+            print(f'Result {topic_name}_{edit_method}.json already exists\n')
             if args.overwrite_result:
-                print(f'Overwriting result {topic_name}_{editing_method}.json\n')
+                print(f'Overwriting result {topic_name}_{edit_method}.json\n')
             else:
                 continue
-        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
+
+        print(f'Model: {model_id_format}, Editing {topic_name} with {edit_method}...\n')
+
+        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{file_name}")
+        # print(df.shape)
+
         if args.data_size is not None:
             df = df[:args.data_size]
         targets = df['object'].tolist()
@@ -93,20 +81,19 @@ if __name__ == "__main__":
             keep_original_weight=True,
             eval_model_id=args.model_eval,
             device_eval=f'cuda:{args.device_eval}',
-            # multi_turn=True,
-            # test_generation=True,
         )
         if not os.path.exists(f'{args.results_dir}/{model_id_format}'):
             os.makedirs(f'{args.results_dir}/{model_id_format}')
-        json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json', 'w'), indent=4)
+        json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/{topic_name}_GRACE.json', 'w'), indent=4)
         
-        print(f'\nModel: {model_id_format}, Editing {topic_name} with {editing_method} finished')
+        print(f'\nModel: {model_id_format}, Editing {topic_name} with GRACE finished')
         del edited_model
         del editor
         gc.collect()
         torch.cuda.empty_cache()
+        torch.cuda.synchronize()
+        time.sleep(2)
 
     end_time = time.time()  # End the timer
     total_time = (end_time - start_time) / 60  # Calculate total time in minutes
-    print(f'\nOverall running time for edit_all_method.py: {total_time:.2f} minutes')  # Print the overall running time
-# Overall running time for edit_all_method.py: 240 to 280 minutes
+    print(f'\nOverall running time: {total_time:.2f} minutes')  # Print the overall running time

@@ -11,6 +11,14 @@ relation_remove_ls = ['twinned administrative body', 'flag', 'history of topic',
                'located in the administrative territorial entity', 'located in or next to body of water', 'significant event',
                'connects with', 'has characteristic', 'located in statistical territorial entity', 'Wi-Fi access']
 
+topic_ls = ['places_city', 'places_country', 'places_landmark', 'entertainment_anime', 'entertainment_song', 'entertainment_music_genre', 'human_actor',
+            'art_literary', 'art_sculpture', 'health_treatment', 'health_medication', 'health_disease', 'human_politician', 'human_writer', 'human_scientist', 
+            'event_sport', 'event_history', 'event_film']
+
+# 'lmsys/vicuna-7b-v1.5', 'google/gemma-2-9b-it', 'chavinlo/alpaca-native'
+model_id_ls = ['meta-llama/Meta-Llama-3-8B-Instruct', 'mistralai/Mistral-7B-Instruct-v0.3', 'meta-llama/Llama-2-7b-chat-hf']
+model_id_format_ls = [e.split('/')[-1].replace('-', '_').lower() for e in model_id_ls]
+
 
 def load_api_key(key, file_path='api_key.json'):
     with open(file_path, 'r') as file:

@@ -3,8 +3,8 @@ import json
 import random
 import numpy as np
 import pandas as pd
-from util import load_api_key
 from openai import AzureOpenAI
+from util import load_api_key, model_id_format_ls
 
 
 def get_gpt_response(client, system_msg, prompt, model='gpt-4o'):
@@ -181,9 +181,7 @@ Example output:
 }
 """
 
-model_ls = ['mistralai/Mistral-7B-Instruct-v0.3']  # , 'meta-llama/Meta-Llama-3-8B-Instruct'
-model_id_format_ls = [e.split('/')[-1].replace('-', '_').lower() for e in model_ls]
-model_id_format = model_id_format_ls[0]  # Current model
+model_id_format = model_id_format_ls[-1]  # Current model
 
 folder_hallu_final = f"../data/questions/hallucination_final/{model_id_format}"
 client = AzureOpenAI(api_key=load_api_key('api_key_n_central_us'), api_version='2023-05-15', azure_endpoint="https://n-central-us.openai.azure.com/")
@@ -192,12 +190,13 @@ client = AzureOpenAI(api_key=load_api_key('api_key_n_central_us'), api_version='
 # 'art_sculpture', 'health_disease', 'health_symptom', 'health_medication', 'technology_software', 'technology_programming_language', 'technology_database'
 # 'business_brand', 'business_corporation', 'business_industry', 'event_sport', 'event_history', 'event_film', 
 # 'human_athlete', 'human_writer', 'human_entrepreneur', 'human_scientist', 'places_country', 'places_city', 'places_landmark'
-topic_ls = ['human_writer', 'human_entrepreneur']
-
-for domain_topic_name in topic_ls:
-    df_hallu = pd.read_csv(f"{folder_hallu_final}/{domain_topic_name}.csv")
+# topic_ls = ['event_sport', 'health_symptom']
+# for domain_topic_name in topic_ls:
+for domain_topic_name in os.listdir(folder_hallu_final):
+    df_hallu = pd.read_csv(f"{folder_hallu_final}/{domain_topic_name}")
     print(f'model: {model_id_format}, topic: {domain_topic_name}, df_hallu.shape: {df_hallu.shape}\n')
     if 'paraphrased_question' in df_hallu.columns:
+        print(f'Full sets of questions for {domain_topic_name} already exist')
         continue
     # print(', '.join([e for e in df_hallu.columns]))
     
@@ -230,4 +229,4 @@ for domain_topic_name in topic_ls:
 
     df_final = df_hallu.replace('N/A', np.nan).dropna()  # fist map N/A to nan, then dropna
     print(f"After df_hallu.shape: {df_hallu.shape}, df_final.shape: {df_final.shape}, saving to {folder_hallu_final}/{domain_topic_name}.csv")
-    df_final[:100].to_csv(f"{folder_hallu_final}/{domain_topic_name}.csv", index=False)
+    df_final[:100].to_csv(f"{folder_hallu_final}/{domain_topic_name}", index=False)

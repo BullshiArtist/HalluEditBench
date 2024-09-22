@@ -47,7 +47,7 @@ if __name__ == "__main__":
         model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
 
         print(f'Model: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
-        if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json'):
+        if os.path.exists(f'{args.results_dir}/{model_id_format}_multi_turn/{topic_name}_{editing_method}.json'):
             print(f'Result {topic_name}_{editing_method}.json already exists\n')
             if args.overwrite_result:
                 print(f'Overwriting result {topic_name}_{editing_method}.json\n')
@@ -96,9 +96,9 @@ if __name__ == "__main__":
             multi_turn=True,
             # test_generation=True,
         )
-        if not os.path.exists(f'{args.results_dir}/{model_id_format}'):
-            os.makedirs(f'{args.results_dir}/{model_id_format}')
-        json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/multi_turn_{topic_name}_{editing_method}.json', 'w'), indent=4)
+        if not os.path.exists(f'{args.results_dir}/{model_id_format}_multi_turn'):
+            os.makedirs(f'{args.results_dir}/{model_id_format}_multi_turn')
+        json.dump(metrics, open(f'{args.results_dir}/{model_id_format}_multi_turn/{topic_name}_{editing_method}.json', 'w'), indent=4)
         
         print(f'\nModel: {model_id_format}, Editing {topic_name} with {editing_method} finished')
         del edited_model
