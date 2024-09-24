@@ -68,11 +68,11 @@ seed_everything(42)
 def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=False, device_eval='cuda:0'): 
     device = device_eval if eval_flag else hparams.device
     terminators = [tok.eos_token_id, tok.convert_tokens_to_ids("<|eot_id|>")]
-    if eval_flag is False and hparams and hparams.alg_name in ['SERAC', 'MEND', 'LoRA'] and hparams.model_name not in ['chavinlo/alpaca-native', 'lmsys/vicuna-7b-v1.5']:
+    if eval_flag is False and hparams and hparams.alg_name in ['SERAC', 'MEND', 'LoRA'] and hparams.model_name not in ['chavinlo/alpaca-native', 'lmsys/vicuna-7b-v1.5', 'EleutherAI/gpt-j-6b']:
         msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
         output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
         return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
-    elif eval_flag is False and hparams and hparams.model_name in ['chavinlo/alpaca-native', 'lmsys/vicuna-7b-v1.5']:
+    elif eval_flag is False and hparams and hparams.model_name in ['chavinlo/alpaca-native', 'lmsys/vicuna-7b-v1.5', 'EleutherAI/gpt-j-6b']:
         msg_tokenized = tok(messages, return_tensors='pt').to(device)
         output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
         return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
@@ -98,7 +98,6 @@ def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label
 
 def test_prediction_acc(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, pre_or_post, vanilla_generation=False, system_msg=system_msg_qa):
     if vanilla_generation and pre_or_post=='post':
-        # print(f"\n Label: {label}, Label type: {type(label)}, {tok_qa.name_or_path}")
         # target_new_tokens = tok_qa.encode(label, add_special_tokens=False) 
         target_new_tokens_len = len(tok_qa.encode(label, add_special_tokens=False)) if label is not None else 16
         prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)  # system_msg_qa+' '+
@@ -137,15 +136,18 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
     return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval)
 
 
-def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label):
+def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, yes_question, no_question):
     acc_ls = []
     output_qa_ls = []
-    questions_follow_up = ["Are you sure? Answer Yes or No." for _ in range(10)]
+    # questions_follow_up = ['Are you sure? Answer "Yes" or "No."' for _ in range(10)]
+    questions_follow_up = [f'Your answer is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)]
+    label_follow_up = 'Yes'
+    # questions_follow_up = ['Your answer is wrong. Are you going to change it? Respond with "Yes" or "No."' for _ in range(10)]
+    # label_follow_up = 'No'
     # # questions_follow_up = [f"The correct answer should be {label}, right? Answer Yes or No." for _ in range(10)]
-    # "Your answer is wrong. Are your going to change your answer? Answer Yes or No."
-
     # questions_follow_up = ["Really?"]
     # answers_follow_up = ['Yes', label, 'No']
+
     messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
     current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
     eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label, device_eval)
@@ -157,7 +159,7 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
         messages_qa.append({"role": "user", "content": question})
         current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
         # print(f"Question: {question} Follow-up response: {current_output}")
-        eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, "Yes", device_eval)
+        eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label_follow_up, device_eval)
         acc_ls.append(eval_acc)
         output_qa_ls.append(current_output)
         
@@ -173,6 +175,8 @@ def compute_edit_or_rephrase_quality(
     device_eval,
     prompt: str,
     target_new: str,
+    yes_question: str = None,
+    no_question: str = None,
     test_rephrase: bool = False,
     eval_metric: str = 'token_em',
     multi_turn: bool = False,
@@ -183,7 +187,7 @@ def compute_edit_or_rephrase_quality(
     else:
         key = 'edit'
     if multi_turn and key == 'edit':  # test multi-turn for the efficacy questions
-        acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new)
+        acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, yes_question, no_question)
         return {f"{key}_acc": [acc_ls[0]], f"{key}_output": [output_ls[0]], f"{key}_acc_multi_turn": acc_ls, f"{key}_output_multi_turn": output_ls}
     else:
         acc, model_output = test_prediction_acc(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, 
@@ -254,7 +258,11 @@ def compute_edit_quality(
     else:
         icl_prompt = ""
 
+    
+    yes_question = record['yes_questions']['yes']['prompt'] if 'yes_questions' in record.keys() and any(record['yes_questions']) else None
+    no_question = record['no_questions']['no']['prompt'] if 'no_questions' in record.keys() and any(record['no_questions']) else None
     ret = compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt+edit_prompts, target_new, 
+                                           yes_question, no_question, 
                                            eval_metric=eval_metric, multi_turn=multi_turn, pre_or_post=pre_or_post)
 
     ret['locality'] = {}

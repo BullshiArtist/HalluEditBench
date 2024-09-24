@@ -11,27 +11,28 @@ from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHype
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_size', default=None, type=int)
-    parser.add_argument('--results_dir', default='../results', type=str)
     parser.add_argument('--model_name', default=None)
+    parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--hparams_dir', default=None, type=str)
-    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
+    parser.add_argument('--results_dir', default='../results', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
     parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
 
-    # for topic_name in ['places_country']:
-    topic_name = 'entertainment_music_genre'
-    # df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/places_country.csv")
-    df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/entertainment_music_genre.csv")
+    topic_name = 'places_country' # 'entertainment_music_genre'
+    df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/places_country.csv")
+    # df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/entertainment_music_genre.csv")
     
-    editing_method_ls = ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']
+    editing_method_ls = ['GRACE'] # 'LoRA', 'FT-L', 'FT-M', 'ICL', 'ROME',  'MEMIT'
     if args.hparams_dir is not None:
         editing_method_ls = [args.hparams_dir.split('/')[-2]]
         model_name = args.hparams_dir.split('/')[-1]
+    else:
+        model_name = args.model_name
         
     for editing_method in editing_method_ls:
         # editing_method = args.hparams_dir.split('/')[-2]
@@ -62,7 +63,7 @@ if __name__ == "__main__":
         
         hparams = editing_hparams.from_hparams(f'./hparams/{editing_method}/{model_name}')
         model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
-        print(f'Model: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
+        print(f'\nModel: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
         
         # if os.path.exists(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json'):
         #     print(f'Result {topic_name}_{editing_method}.json already exists\n')

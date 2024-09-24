@@ -21,21 +21,21 @@ def naive_match(label, response):
     return label.lower() in response.lower() or response.lower() in label.lower()
 
 
-def expand_questions(df_hallu, system_msg_gen_q):
+def expand_questions(df_hallu, domain_topic_name, system_msg_gen_q):
     paraphrased_questions, multiple_choices, yes_questions, no_questions, locality_questions, reversed_relation_questions = ([] for _ in range(6))
     df_other_model = None
-    # df_other_model_ls = []
-    # # hallucination from other model that may contain questions for same fact triplets
-    # other_model_id_ls = [e for e in model_id_format_ls if e != model_id_format]
-    # for other_model_id in other_model_id_ls:
-    #     other_model_path = f"../data/questions/hallucination_final/{other_model_id}/{domain_topic_name}.csv"
-    #     if os.path.exists(other_model_path):
-    #         df_q100 = pd.read_csv(other_model_path)
-    #         if 'paraphrased_question' in df_q100.columns:
-    #             df_other_model_ls.append(df_q100)
-    # if len(df_other_model_ls) > 0:
-    #     df_other_model = pd.concat(df_other_model_ls, ignore_index=True)
-    #     print(f'Data may contain already generated questions for {df_other_model_ls} df_other_model.shape: {df_other_model.shape}')
+    df_other_model_ls = []
+    # hallucination from other model that may contain questions for same fact triplets
+    other_model_id_ls = [e for e in model_id_format_ls if e != model_id_format]
+    for other_model_id in other_model_id_ls:
+        other_model_path = f"../data/questions/hallucination_final/{other_model_id}/{domain_topic_name}.csv"
+        if os.path.exists(other_model_path):
+            df_q100 = pd.read_csv(other_model_path)
+            if 'paraphrased_question' in df_q100.columns:
+                df_other_model_ls.append(df_q100)
+    if len(df_other_model_ls) > 0:
+        df_other_model = pd.concat(df_other_model_ls, ignore_index=True)
+        print(f'Look for already generated questions. len(df_other_model_ls): {len(df_other_model_ls)} df_other_model.shape: {df_other_model.shape}')
     # if os.path.exists(f"{folder_hallu_final}/{domain_topic_name}_check.csv"):
     #     df_other_model_ls.append(pd.read_csv(f"{folder_hallu_final}/{domain_topic_name}_check.csv"))
     #     df_other_model = pd.concat(df_other_model_ls, ignore_index=True)
@@ -68,16 +68,17 @@ def expand_questions(df_hallu, system_msg_gen_q):
     
 
     df_hallu['multiple_choices'] = multiple_choices
-    ls_multiple_choice_with_letters, ls_multiple_choice_labels = [], []
+    multiple_choices_verified, ls_multiple_choice_with_letters, ls_multiple_choice_labels = [], [], []
     for i in df_hallu.index:
         subject, relation, label, question = df_hallu.loc[i, 'subject'], df_hallu.loc[i, 'relation'], df_hallu.loc[i, 'object'], df_hallu.loc[i, 'question']
         wrong_ans = df_hallu.loc[i, f'output_{model_id_format}']
         four_choices = eval(df_hallu.loc[i, 'multiple_choices']) if type(df_hallu.loc[i, 'multiple_choices']) == str else df_hallu.loc[i, 'multiple_choices']
         choice = [label, wrong_ans, four_choices[2], four_choices[3]]
-        # print(choice, type(four_choices))
-        print(f"Check label: {label:<50} four_choices[0]: {four_choices[0]}") if not naive_match(label, four_choices[0]) else None
-        # The use of credit-saving df_other_model may cause the multiple_choices from other models (built on its wrong_ans) to be different than the wrong_ans of the current model.
-        print(f"Check wrong_ans: {wrong_ans:<50} four_choices[1]: {four_choices[1]}") if not naive_match(wrong_ans, four_choices[1]) else None
+        multiple_choices_verified.append(str(choice))
+        # # print(choice, type(four_choices))
+        # print(f"Check label: {label:<50} four_choices[0]: {four_choices[0]}") if not naive_match(label, four_choices[0]) else None
+        # # The use of credit-saving df_other_model may cause the multiple_choices from other models (built on its wrong_ans) to be different than the wrong_ans of the current model.
+        # print(f"Check wrong_ans: {wrong_ans:<50} four_choices[1]: {four_choices[1]}") if not naive_match(wrong_ans, four_choices[1]) else None
         MC_dict = {"0": "A", "1": "B", "2": "C", "3": "D"}
         random.shuffle(choice)
         correct_answer = MC_dict[str(choice.index(label))]
@@ -88,25 +89,25 @@ def expand_questions(df_hallu, system_msg_gen_q):
         ls_multiple_choice_with_letters.append(choice_str.strip())
         ls_multiple_choice_labels.append(correct_answer)
 
-    return paraphrased_questions, yes_questions, no_questions, locality_questions, reversed_relation_questions, ls_multiple_choice_with_letters, ls_multiple_choice_labels
+    return paraphrased_questions, yes_questions, no_questions, locality_questions, reversed_relation_questions, multiple_choices_verified, ls_multiple_choice_with_letters, ls_multiple_choice_labels
 
 
-def multi_hop_questions(df_hallu, system_msg_multi_hop):
+def multi_hop_questions(df_hallu, domain_topic_name, system_msg_multi_hop):
     ls_2hop_q, ls_2hop_a, ls_3hop_q, ls_3hop_a, ls_4hop_q, ls_4hop_a, ls_5hop_q, ls_5hop_a, ls_6hop_q, ls_6hop_a = ([] for _ in range(10))
     df_other_model = None
-    # df_other_model_ls = []
-    # # hallucination from other model that may contain questions for same fact triplets
-    # other_model_id_ls = [e for e in model_id_format_ls if e != model_id_format]
-    # for other_model_id in other_model_id_ls:
-    #     other_model_path = f"../data/questions/hallucination/{other_model_id}_100/{domain_topic_name}.csv"
-    #     if os.path.exists(other_model_path):
-    #         df_q100 = pd.read_csv(other_model_path)
-    #         if 'paraphrased_question' in df_q100.columns:
-    #             df_other_model_ls.append(df_q100)
-    #             print(f'{other_model_id}_100/{domain_topic_name}.csv may contains questions for same fact triplets')
-    #     if len(df_other_model_ls) > 0:
-    #         df_other_model = pd.concat(df_other_model_ls, ignore_index=True)
-    #         print(f'Data may contain already generated questions for {df_other_model_ls} df_other_model.shape: {df_other_model.shape}')
+    df_other_model_ls = []
+    # hallucination from other model that may contain questions for same fact triplets
+    other_model_id_ls = [e for e in model_id_format_ls if e != model_id_format]
+    for other_model_id in other_model_id_ls:
+        other_model_path = f"../data/questions/hallucination/{other_model_id}_100/{domain_topic_name}.csv"
+        if os.path.exists(other_model_path):
+            df_q100 = pd.read_csv(other_model_path)
+            if 'paraphrased_question' in df_q100.columns:
+                df_other_model_ls.append(df_q100)
+                print(f'{other_model_id}_100/{domain_topic_name}.csv may contains questions for same fact triplets')
+        if len(df_other_model_ls) > 0:
+            df_other_model = pd.concat(df_other_model_ls, ignore_index=True)
+            print(f'Look for already generated questions. len(df_other_model_ls): {len(df_other_model_ls)} df_other_model.shape: {df_other_model.shape}')
         
     # if os.path.exists(f"{folder_hallu_final}/{domain_topic_name}_check.csv"):
     #     df_other_model_ls.append(pd.read_csv(f"{folder_hallu_final}/{domain_topic_name}_check.csv"))
@@ -181,7 +182,7 @@ Example output:
 }
 """
 
-model_id_format = model_id_format_ls[-1]  # Current model
+model_id_format = model_id_format_ls[-2]  # Current model
 
 folder_hallu_final = f"../data/questions/hallucination_final/{model_id_format}"
 client = AzureOpenAI(api_key=load_api_key('api_key_n_central_us'), api_version='2023-05-15', azure_endpoint="https://n-central-us.openai.azure.com/")
@@ -190,27 +191,28 @@ client = AzureOpenAI(api_key=load_api_key('api_key_n_central_us'), api_version='
 # 'art_sculpture', 'health_disease', 'health_symptom', 'health_medication', 'technology_software', 'technology_programming_language', 'technology_database'
 # 'business_brand', 'business_corporation', 'business_industry', 'event_sport', 'event_history', 'event_film', 
 # 'human_athlete', 'human_writer', 'human_entrepreneur', 'human_scientist', 'places_country', 'places_city', 'places_landmark'
-# topic_ls = ['event_sport', 'health_symptom']
-# for domain_topic_name in topic_ls:
-for domain_topic_name in os.listdir(folder_hallu_final):
-    df_hallu = pd.read_csv(f"{folder_hallu_final}/{domain_topic_name}")
+# for filename in ['event_sport.csv']:
+for filename in sorted(os.listdir(folder_hallu_final))[:]:
+    domain_topic_name = filename.replace('.csv', '')
+    df_hallu = pd.read_csv(f"{folder_hallu_final}/{filename}")
     print(f'model: {model_id_format}, topic: {domain_topic_name}, df_hallu.shape: {df_hallu.shape}\n')
     if 'paraphrased_question' in df_hallu.columns:
         print(f'Full sets of questions for {domain_topic_name} already exist')
         continue
     # print(', '.join([e for e in df_hallu.columns]))
-    
-    paraphrased_questions, yes_questions, no_questions, locality_questions, reversed_relation_questions, ls_multiple_choice_with_letters, ls_multiple_choice_labels = expand_questions(df_hallu, system_msg_gen_q)
-    ls_2hop_q, ls_2hop_a, ls_3hop_q, ls_3hop_a, ls_4hop_q, ls_4hop_a, ls_5hop_q, ls_5hop_a, ls_6hop_q, ls_6hop_a = multi_hop_questions(df_hallu, system_msg_multi_hop)
+
+    paraphrased_questions, yes_questions, no_questions, locality_questions, reversed_relation_questions, multiple_choices_verified, ls_multiple_choice_with_letters, ls_multiple_choice_labels = expand_questions(df_hallu, domain_topic_name, system_msg_gen_q)
+    ls_2hop_q, ls_2hop_a, ls_3hop_q, ls_3hop_a, ls_4hop_q, ls_4hop_a, ls_5hop_q, ls_5hop_a, ls_6hop_q, ls_6hop_a = multi_hop_questions(df_hallu, domain_topic_name, system_msg_multi_hop)
 
     print(f"Before df_hallu.shape: {df_hallu.shape}")
     df_hallu['paraphrased_question'] = paraphrased_questions
-    df_hallu['multiple_choice_with_letters'] = ls_multiple_choice_with_letters
-    df_hallu['multiple_choice_labels'] = ls_multiple_choice_labels
     df_hallu['yes_question'] = yes_questions
     df_hallu['no_question'] = no_questions
     df_hallu['locality_question'] = locality_questions
     df_hallu['reversed_relation_question'] = reversed_relation_questions
+    df_hallu['multiple_choices'] = multiple_choices_verified
+    df_hallu['multiple_choice_with_letters'] = ls_multiple_choice_with_letters
+    df_hallu['multiple_choice_labels'] = ls_multiple_choice_labels
     print(f"After df_hallu.shape: {df_hallu.shape}")
     # df_hallu.to_csv(f"{folder_hallu_final}/{domain_topic_name}.csv", index=False)
 
@@ -228,5 +230,5 @@ for domain_topic_name in os.listdir(folder_hallu_final):
     print(ls_2hop_a.count('N/A'), ls_3hop_a.count('N/A'), ls_4hop_a.count('N/A'), ls_5hop_a.count('N/A'), ls_6hop_a.count('N/A'))
 
     df_final = df_hallu.replace('N/A', np.nan).dropna()  # fist map N/A to nan, then dropna
-    print(f"After df_hallu.shape: {df_hallu.shape}, df_final.shape: {df_final.shape}, saving to {folder_hallu_final}/{domain_topic_name}.csv")
-    df_final[:100].to_csv(f"{folder_hallu_final}/{domain_topic_name}", index=False)
+    print(f"After df_hallu.shape: {df_hallu.shape}, df_final.shape: {df_final.shape}, saving to {folder_hallu_final}/{filename}")
+    df_final[:100].to_csv(f"{folder_hallu_final}/{filename}", index=False)

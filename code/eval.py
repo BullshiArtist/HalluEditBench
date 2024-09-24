@@ -42,11 +42,11 @@ for filename in os.listdir(folder_unfiltered)[:8]:
     for i in tqdm(df.index, desc=f"Answering {filename}"):
         question = df.loc[i, 'question']
         # user_msg_qa = f'Answer the following question about the topic {topic_qa}. {question}'
-        messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": question}]
-        # if 'llama' in model_id_format.lower() or 'Mistral-7B-Instruct-v0.3' in model_id_format:
-        #     messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": question}]
-        # elif 'gemma' in model_id_format.lower():
-        #     messages_qa = [{"role": "user", "content": system_msg_qa+' '+question}]
+        # messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": question}]
+        if 'llama' in model_id_format.lower() or 'Mistral-7B-Instruct-v0.3' in model_id_format:
+            messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": question}]
+        elif 'gemma' in model_id_format.lower():
+            messages_qa = [{"role": "user", "content": system_msg_qa+' '+question}]
         # elif 'vicuna' in model_id_format.lower():
         #     messages_qa = [f"{system_msg_qa} Question: {question} Answer:"]  # template for vicuna only
         # elif 'alpaca' in model_id_format.lower():

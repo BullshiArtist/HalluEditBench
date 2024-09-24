@@ -10,24 +10,21 @@ from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHype
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
+    parser.add_argument('--model_name', default='llama3-8b')
     parser.add_argument('--data_size', default=None, type=int)
-    parser.add_argument('--results_dir', default='../results', type=str)
+    parser.add_argument('--topic_name', default=None, type=str)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
-    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
+    parser.add_argument('--results_dir', default='../results', type=str)
+    parser.add_argument('--multi_turn_type', default='yes', choices=['no', 'yes'])
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
-    parser.add_argument('--model_name', default='llama3-8b', choices=['llama3-8b', 'mistral-7b'])
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
-    parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
-
     start_time = time.time()
 
-    # topic_name_ls = ['places_country', 'places_city', 'places_landmark']
-    topic_name = args.topic_name
-
-    for editing_method in ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']:
+    for editing_method in ['ROME', 'FT-M', 'ICL']: # 'LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'GRACE', 
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -46,11 +43,14 @@ if __name__ == "__main__":
         hparams = editing_hparams.from_hparams(f'{args.hparams_dir}/{editing_method}/{args.model_name}')
         model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
 
+        topic_name = args.topic_name
+        results_dir = f'{args.results_dir}/{model_id_format}_multi_turn'
+        results_file_name = f'{topic_name}_{editing_method}_{args.multi_turn_type}.json'
         print(f'Model: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
-        if os.path.exists(f'{args.results_dir}/{model_id_format}_multi_turn/{topic_name}_{editing_method}.json'):
-            print(f'Result {topic_name}_{editing_method}.json already exists\n')
+        if os.path.exists(f'{results_dir}/{results_file_name}'):
+            print(f'Result {results_file_name} already exists\n')
             if args.overwrite_result:
-                print(f'Overwriting result {topic_name}_{editing_method}.json\n')
+                print(f'Overwriting result {results_file_name}\n')
             else:
                 continue
         df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
@@ -59,18 +59,8 @@ if __name__ == "__main__":
         targets = df['object'].tolist()
         subjects = df['subject'].tolist()
         questions = df['question'].tolist()
-        # paraphrased_questions = df['paraphrased_question'].tolist()
-        # locality_questions = {'locality': {'prompt': df['locality_question'].tolist()}}
-        # df['multiple_choice_full'] = df['question'] + ' ' + df['multiple_choice_with_letters']
-        # no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
-        # yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
-        # q_and_a_2hop = {'2hop': {'prompt': df['question_2hop'].tolist(), 'ground_truth': df['answer_2hop'].tolist()}}
-        # q_and_a_3hop = {'3hop': {'prompt': df['question_3hop'].tolist(), 'ground_truth': df['answer_3hop'].tolist()}}
-        # q_and_a_4hop = {'4hop': {'prompt': df['question_4hop'].tolist(), 'ground_truth': df['answer_4hop'].tolist()}}
-        # q_and_a_5hop = {'5hop': {'prompt': df['question_5hop'].tolist(), 'ground_truth': df['answer_5hop'].tolist()}}
-        # q_and_a_6hop = {'6hop': {'prompt': df['question_6hop'].tolist(), 'ground_truth': df['answer_6hop'].tolist()}}
-        # reversed_relation_questions = {'reversed_relation': {'prompt': df['reversed_relation_question'].tolist(), 'ground_truth': df['subject'].tolist()}}
-        # multiple_choice_questions = {'multiple_choice': {'prompt': df['multiple_choice_full'].tolist(), 'ground_truth': df['multiple_choice_labels'].tolist()}}
+        no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
+        yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
 
         hparams.device = args.device_edit  # overwrite device in hparams
         editor = BaseEditor.from_hparams(hparams)
@@ -78,34 +68,22 @@ if __name__ == "__main__":
             subject=subjects,
             prompts=questions,
             target_new=targets,
-            # yes_questions=yes_questions,
-            # no_questions=no_questions,
-            # locality_inputs=locality_questions,
-            # rephrase_prompts=paraphrased_questions,
-            # multiple_choice_questions=multiple_choice_questions,
-            # reversed_relation_questions=reversed_relation_questions,
-            # questions_2hop=q_and_a_2hop,
-            # questions_3hop=q_and_a_3hop,
-            # questions_4hop=q_and_a_4hop,
-            # questions_5hop=q_and_a_5hop,
-            # questions_6hop=q_and_a_6hop,
+            yes_questions=yes_questions,
+            no_questions=no_questions,
             summary_metrics=True,
             keep_original_weight=True,
             eval_model_id=args.model_eval,
             device_eval=f'cuda:{args.device_eval}',
             multi_turn=True,
-            # test_generation=True,
         )
-        if not os.path.exists(f'{args.results_dir}/{model_id_format}_multi_turn'):
-            os.makedirs(f'{args.results_dir}/{model_id_format}_multi_turn')
-        json.dump(metrics, open(f'{args.results_dir}/{model_id_format}_multi_turn/{topic_name}_{editing_method}.json', 'w'), indent=4)
+        if not os.path.exists(f'{results_dir}'):
+            os.makedirs(f'{results_dir}')
+        json.dump(metrics, open(f'{results_dir}/{results_file_name}', 'w'), indent=4)
         
-        print(f'\nModel: {model_id_format}, Editing {topic_name} with {editing_method} finished')
         del edited_model
         del editor
         gc.collect()
         torch.cuda.empty_cache()
 
-    end_time = time.time()  # End the timer
-    total_time = (end_time - start_time) / 60  # Calculate total time in minutes
-    print(f'\nOverall running time for edit_all_method.py: {total_time:.2f} minutes')  # Print the overall running time
+    total_time = (time.time() - start_time) / 60
+    print(f'\nOverall running time (Model: {model_id_format}, Editing {topic_name} with {editing_method}): {total_time:.2f} minutes')

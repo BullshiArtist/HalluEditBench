@@ -21,7 +21,7 @@ def get_response(model, tok, messages, max_new_tokens=1):
 folder_unfiltered = f"../data/questions/unfiltered/{model_id_format}"
 print(f'\ncurrent folder: {folder_unfiltered}\n')
 # for filename in ['event_sport.csv', 'places_city.csv']:
-for filename in os.listdir(folder_unfiltered)[8:16]:
+for filename in os.listdir(folder_unfiltered)[8:18]:
     df = pd.read_csv(f"{folder_unfiltered}/{filename}")
     if f"output_{model_id_format}" in df.columns:
         continue
@@ -29,7 +29,11 @@ for filename in os.listdir(folder_unfiltered)[8:16]:
     ls_output = []
     for i in tqdm(df.index, desc=f"Answering {filename}"):
         question = df.loc[i, 'question']
-        messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": question}]
+        # messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": question}]
+        if 'llama' in model_id_format.lower() or 'Mistral-7B-Instruct-v0.3' in model_id_format:
+            messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": question}]
+        elif 'gemma' in model_id_format.lower():
+            messages_qa = [{"role": "user", "content": system_msg_qa+' '+question}]
         output_qa = get_response(model_qa, tok_qa, messages_qa, max_new_tokens=16)
         print(f'output_qa: {output_qa}')
         ls_output.append(output_qa)

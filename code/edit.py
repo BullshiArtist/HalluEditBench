@@ -1,5 +1,6 @@
 import os
 import gc
+import time
 import json
 import torch
 import argparse
@@ -39,8 +40,6 @@ if __name__ == "__main__":
     
     hparams = editing_hparams.from_hparams(args.hparams_dir)
     model_id_format = hparams.model_name.split('/')[-1].replace('-', '_').lower()
-    # if editing_method == 'MEMIT' and model_id_format == 'meta_llama_3_8b_instruct':
-    #     model_id_format = 'meta_llama_3.1_8b_instruct'
     
     # , , 'places_city', 'places_landmark', 'entertainment_anime', 'geography_volcano', 'business_corporation', 'business_brand', 'human_scientist', 'technology_software'
     topic_name_ls = ['places_country', 'places_city', 'places_landmark']
@@ -109,3 +108,6 @@ if __name__ == "__main__":
         del editor
         gc.collect()
         torch.cuda.empty_cache()
+    
+    total_time = (time.time() - start_time) / 60 
+    print(f'\nOverall running time for: {total_time:.2f} minutes')

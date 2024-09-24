@@ -1,5 +1,6 @@
 alg_name: 'MEMIT'
 model_name: 'google/gemma-2-9b-it'
+# model_name: 'google/gemma-2-2b-it'  # still nan loss
 stats_dir: '../../cache_memit/stats'
 device: 0
 layers: [4, 5, 6, 7, 8]
@@ -8,10 +9,12 @@ layer_selection: 'all'
 fact_token: 'subject_last'
 v_num_grad_steps: 25
 v_lr: 5e-1
-v_loss_layer: 31
+# v_loss_layer: 31
+v_loss_layer: 41
 v_weight_decay: 1e-3
 kl_factor: 0.0625
 mom2_adjustment: true
+# mom2_adjustment: false
 mom2_update_weight: 15000
 rewrite_module_tmp: 'model.layers.{}.mlp.down_proj'
 layer_module_tmp: 'model.layers.{}'

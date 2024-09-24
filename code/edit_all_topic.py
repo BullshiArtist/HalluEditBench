@@ -87,12 +87,22 @@ if __name__ == "__main__":
         json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/{topic_name}_GRACE.json', 'w'), indent=4)
         
         print(f'\nModel: {model_id_format}, Editing {topic_name} with GRACE finished')
+        total_time = (time.time() - start_time) / 60
+        print(f'Iteration running time: {total_time:.2f} minutes')  # Print the overall running time
         del edited_model
         del editor
-        gc.collect()
         torch.cuda.empty_cache()
+        gc.collect()
+
+        # Force CUDA to release memory
         torch.cuda.synchronize()
-        time.sleep(2)
+        
+        # Give some time for memory to be fully released
+        time.sleep(5)
+        
+        # Check available memory and print it (optional, for debugging)
+        if torch.cuda.is_available():
+            print(f"Available CUDA memory after iteration: {torch.cuda.memory_allocated()/1e9:.2f} GB")
 
     end_time = time.time()  # End the timer
     total_time = (end_time - start_time) / 60  # Calculate total time in minutes
