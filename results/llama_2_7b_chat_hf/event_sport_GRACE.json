@@ -162,7 +162,7 @@
             "subject": "Olympic Games",
             "rephrase_prompt": "What event does the Olympic Games follow?"
         },
-        "time": 15.752034902572632,
+        "time": 4.573723554611206,
         "post": {
             "edit_acc": [
                 1
@@ -423,7 +423,7 @@
             "subject": "Olympic Games",
             "rephrase_prompt": "Who is the sponsor of the Olympic Games?"
         },
-        "time": 14.873461246490479,
+        "time": 4.448117017745972,
         "post": {
             "edit_acc": [
                 1
@@ -684,7 +684,7 @@
             "subject": "Berlin Marathon",
             "rephrase_prompt": "In which month does the Berlin Marathon take place?"
         },
-        "time": 15.151226282119751,
+        "time": 4.458666086196899,
         "post": {
             "edit_acc": [
                 1
@@ -945,7 +945,7 @@
             "subject": "Australian Grand Prix",
             "rephrase_prompt": "Who is responsible for organizing the Australian Grand Prix?"
         },
-        "time": 16.39316153526306,
+        "time": 4.556909561157227,
         "post": {
             "edit_acc": [
                 1
@@ -1206,7 +1206,7 @@
             "subject": "Berlin Marathon",
             "rephrase_prompt": "Who is the sponsor of the Berlin Marathon?"
         },
-        "time": 14.942101955413818,
+        "time": 4.4515721797943115,
         "post": {
             "edit_acc": [
                 1
@@ -1467,7 +1467,7 @@
             "subject": "London Marathon",
             "rephrase_prompt": "In which month does the London Marathon take place?"
         },
-        "time": 15.172372102737427,
+        "time": 4.458701848983765,
         "post": {
             "edit_acc": [
                 1
@@ -1728,7 +1728,7 @@
             "subject": "London Marathon",
             "rephrase_prompt": "Which sport is associated with the London Marathon?"
         },
-        "time": 14.985010623931885,
+        "time": 4.442818641662598,
         "post": {
             "edit_acc": [
                 1
@@ -1989,7 +1989,7 @@
             "subject": "Dakar Rally",
             "rephrase_prompt": "Where is the Dakar Rally held?"
         },
-        "time": 15.092645168304443,
+        "time": 4.467074394226074,
         "post": {
             "edit_acc": [
                 1
@@ -2250,7 +2250,7 @@
             "subject": "Australian Grand Prix",
             "rephrase_prompt": "Where is the Australian Grand Prix held?"
         },
-        "time": 14.226068496704102,
+        "time": 4.4565863609313965,
         "post": {
             "edit_acc": [
                 1
@@ -2511,7 +2511,7 @@
             "subject": "Dakar Rally",
             "rephrase_prompt": "Which country hosts the Dakar Rally?"
         },
-        "time": 14.9760262966156,
+        "time": 4.470614910125732,
         "post": {
             "edit_acc": [
                 1
@@ -2772,7 +2772,7 @@
             "subject": "Copa Libertadores",
             "rephrase_prompt": "Who won the Copa Libertadores?"
         },
-        "time": 16.350863456726074,
+        "time": 4.554226875305176,
         "post": {
             "edit_acc": [
                 1
@@ -3033,7 +3033,7 @@
             "subject": "Ancient Olympic Games",
             "rephrase_prompt": "What event succeeded the Ancient Olympic Games?"
         },
-        "time": 15.514270067214966,
+        "time": 4.45304799079895,
         "post": {
             "edit_acc": [
                 1
@@ -3294,7 +3294,7 @@
             "subject": "FISU World University Games",
             "rephrase_prompt": "What is the cause of the FISU World University Games?"
         },
-        "time": 15.08424687385559,
+        "time": 4.482284069061279,
         "post": {
             "edit_acc": [
                 1
@@ -3555,7 +3555,7 @@
             "subject": "Highland games",
             "rephrase_prompt": "Which country is associated with the Highland games?"
         },
-        "time": 15.13732123374939,
+        "time": 4.446474552154541,
         "post": {
             "edit_acc": [
                 1
@@ -3816,7 +3816,7 @@
             "subject": "Elfstedentocht",
             "rephrase_prompt": "In which month does the Elfstedentocht take place?"
         },
-        "time": 15.147310733795166,
+        "time": 4.478676080703735,
         "post": {
             "edit_acc": [
                 1
@@ -4077,7 +4077,7 @@
             "subject": "Billie Jean King Cup",
             "rephrase_prompt": "Who oversees the Billie Jean King Cup?"
         },
-        "time": 16.52274203300476,
+        "time": 4.539425373077393,
         "post": {
             "edit_acc": [
                 1
@@ -4338,7 +4338,7 @@
             "subject": "Six Nations Championship",
             "rephrase_prompt": "Which team participates in the Six Nations Championship?"
         },
-        "time": 16.314542770385742,
+        "time": 4.5342512130737305,
         "post": {
             "edit_acc": [
                 1
@@ -4599,7 +4599,7 @@
             "subject": "Six Nations Championship",
             "rephrase_prompt": "Who is the sponsor of the Six Nations Championship?"
         },
-        "time": 15.253849029541016,
+        "time": 4.447407245635986,
         "post": {
             "edit_acc": [
                 1
@@ -4860,7 +4860,7 @@
             "subject": "World Baseball Classic",
             "rephrase_prompt": "Who organizes the World Baseball Classic?"
         },
-        "time": 15.1246337890625,
+        "time": 4.457193374633789,
         "post": {
             "edit_acc": [
                 1
@@ -5121,7 +5121,7 @@
             "subject": "Rally Sweden",
             "rephrase_prompt": "Which sport is associated with Rally Sweden?"
         },
-        "time": 15.094712257385254,
+        "time": 4.4590935707092285,
         "post": {
             "edit_acc": [
                 1
@@ -5382,7 +5382,7 @@
             "subject": "Rally Sweden",
             "rephrase_prompt": "Who organizes Rally Sweden?"
         },
-        "time": 16.55503559112549,
+        "time": 4.55496883392334,
         "post": {
             "edit_acc": [
                 1
@@ -5643,7 +5643,7 @@
             "subject": "Boston Marathon",
             "rephrase_prompt": "Which sport is associated with the Boston Marathon?"
         },
-        "time": 14.784961700439453,
+        "time": 4.446877717971802,
         "post": {
             "edit_acc": [
                 1
@@ -5904,7 +5904,7 @@
             "subject": "Winter Olympic Games",
             "rephrase_prompt": "What type of sport is associated with the Winter Olympic Games?"
         },
-        "time": 15.063775777816772,
+        "time": 4.450254917144775,
         "post": {
             "edit_acc": [
                 1
@@ -6165,7 +6165,7 @@
             "subject": "Anarchy Rulz",
             "rephrase_prompt": "Which sport is associated with Anarchy Rulz?"
         },
-        "time": 13.88296914100647,
+        "time": 4.466779947280884,
         "post": {
             "edit_acc": [
                 1
@@ -6426,7 +6426,7 @@
             "subject": "Living Dangerously",
             "rephrase_prompt": "Which sport is associated with Living Dangerously?"
         },
-        "time": 7.916791200637817,
+        "time": 4.46198844909668,
         "post": {
             "edit_acc": [
                 1
@@ -6687,7 +6687,7 @@
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Who was the initial broadcaster of the Japan International Birdman Rally?"
         },
-        "time": 15.84117603302002,
+        "time": 4.582957983016968,
         "post": {
             "edit_acc": [
                 1
@@ -6948,7 +6948,7 @@
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Which sport is associated with the Japan International Birdman Rally?"
         },
-        "time": 14.892152547836304,
+        "time": 4.469983816146851,
         "post": {
             "edit_acc": [
                 0
@@ -7209,7 +7209,7 @@
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Who organizes the Japan International Birdman Rally?"
         },
-        "time": 15.886461973190308,
+        "time": 4.5632243156433105,
         "post": {
             "edit_acc": [
                 0
@@ -7470,7 +7470,7 @@
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Who is sponsored by the Japan International Birdman Rally?"
         },
-        "time": 15.756251573562622,
+        "time": 4.546203136444092,
         "post": {
             "edit_acc": [
                 1
@@ -7731,7 +7731,7 @@
             "subject": "International Four Days Marches Nijmegen",
             "rephrase_prompt": "Which sport is associated with the International Four Days Marches Nijmegen?"
         },
-        "time": 16.661893606185913,
+        "time": 4.554365634918213,
         "post": {
             "edit_acc": [
                 1
@@ -7992,7 +7992,7 @@
             "subject": "Invictus Games",
             "rephrase_prompt": "Who serves as the patron saint for the Invictus Games?"
         },
-        "time": 16.322922229766846,
+        "time": 4.551490545272827,
         "post": {
             "edit_acc": [
                 1
@@ -8253,7 +8253,7 @@
             "subject": "Invictus Games",
             "rephrase_prompt": "Who takes part in the Invictus Games?"
         },
-        "time": 14.90896463394165,
+        "time": 4.477643728256226,
         "post": {
             "edit_acc": [
                 1
@@ -8514,7 +8514,7 @@
             "subject": "Targa Florio",
             "rephrase_prompt": "Which sport is associated with Targa Florio?"
         },
-        "time": 15.065097093582153,
+        "time": 4.458589792251587,
         "post": {
             "edit_acc": [
                 1
@@ -8775,7 +8775,7 @@
             "subject": "Vend\u00e9e Globe",
             "rephrase_prompt": "Who organizes the Vend\u00e9e Globe?"
         },
-        "time": 15.5682213306427,
+        "time": 4.536881685256958,
         "post": {
             "edit_acc": [
                 1
@@ -9036,7 +9036,7 @@
             "subject": "Panathenaic Games",
             "rephrase_prompt": "Who is commemorated by the Panathenaic Games?"
         },
-        "time": 15.187577962875366,
+        "time": 4.4626851081848145,
         "post": {
             "edit_acc": [
                 1

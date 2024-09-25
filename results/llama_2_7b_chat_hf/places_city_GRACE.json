@@ -162,7 +162,7 @@
             "subject": "Toronto",
             "rephrase_prompt": "Who governs Toronto?"
         },
-        "time": 4.6447741985321045,
+        "time": 4.584446907043457,
         "post": {
             "edit_acc": [
                 1
@@ -423,7 +423,7 @@
             "subject": "Nuweiba",
             "rephrase_prompt": "Which country is Nuweiba located in?"
         },
-        "time": 4.4942145347595215,
+        "time": 4.4336512088775635,
         "post": {
             "edit_acc": [
                 1
@@ -684,7 +684,7 @@
             "subject": "Yungay",
             "rephrase_prompt": "Which country is Yungay located in?"
         },
-        "time": 4.4945924282073975,
+        "time": 4.434555530548096,
         "post": {
             "edit_acc": [
                 1
@@ -945,7 +945,7 @@
             "subject": "Minas",
             "rephrase_prompt": "Which language is officially spoken in Minas?"
         },
-        "time": 4.496575593948364,
+        "time": 4.432372570037842,
         "post": {
             "edit_acc": [
                 1
@@ -1206,7 +1206,7 @@
             "subject": "Buchanan",
             "rephrase_prompt": "Which country is Buchanan located in?"
         },
-        "time": 4.50364089012146,
+        "time": 4.437028408050537,
         "post": {
             "edit_acc": [
                 1
@@ -1467,7 +1467,7 @@
             "subject": "Ou\u00e9sso",
             "rephrase_prompt": "Which country is Ou\u00e9sso located in?"
         },
-        "time": 4.518128395080566,
+        "time": 4.454927921295166,
         "post": {
             "edit_acc": [
                 1
@@ -1728,7 +1728,7 @@
             "subject": "Errenteria",
             "rephrase_prompt": "Where is Errenteria located?"
         },
-        "time": 4.54180645942688,
+        "time": 4.471999168395996,
         "post": {
             "edit_acc": [
                 1
@@ -1989,7 +1989,7 @@
             "subject": "Westport",
             "rephrase_prompt": "Which historic county is Westport part of?"
         },
-        "time": 4.508202314376831,
+        "time": 4.442594528198242,
         "post": {
             "edit_acc": [
                 0
@@ -2250,7 +2250,7 @@
             "subject": "Dodola",
             "rephrase_prompt": "Which country is Dodola located in?"
         },
-        "time": 4.513841867446899,
+        "time": 4.449289560317993,
         "post": {
             "edit_acc": [
                 1
@@ -2511,7 +2511,7 @@
             "subject": "Lastoursville",
             "rephrase_prompt": "After whom was Lastoursville named?"
         },
-        "time": 4.539936065673828,
+        "time": 4.47083592414856,
         "post": {
             "edit_acc": [
                 1
@@ -2772,7 +2772,7 @@
             "subject": "Leme",
             "rephrase_prompt": "Which country is Leme located in?"
         },
-        "time": 4.489418029785156,
+        "time": 4.423562526702881,
         "post": {
             "edit_acc": [
                 1
@@ -3033,7 +3033,7 @@
             "subject": "Kr\u00e1lovo Pole",
             "rephrase_prompt": "Which historical region does Kr\u00e1lovo Pole belong to?"
         },
-        "time": 4.53783917427063,
+        "time": 4.4736387729644775,
         "post": {
             "edit_acc": [
                 1
@@ -3294,7 +3294,7 @@
             "subject": "Melbourne",
             "rephrase_prompt": "How is Melbourne classified according to the K\u00f6ppen climate system?"
         },
-        "time": 4.514796495437622,
+        "time": 4.454159736633301,
         "post": {
             "edit_acc": [
                 1
@@ -3555,7 +3555,7 @@
             "subject": "Abeokuta",
             "rephrase_prompt": "Which language is officially spoken in Abeokuta?"
         },
-        "time": 4.524180889129639,
+        "time": 4.458670377731323,
         "post": {
             "edit_acc": [
                 1
@@ -3816,7 +3816,7 @@
             "subject": "San Fernando",
             "rephrase_prompt": "In which time zone is San Fernando located?"
         },
-        "time": 4.526979684829712,
+        "time": 4.4576942920684814,
         "post": {
             "edit_acc": [
                 1
@@ -4077,7 +4077,7 @@
             "subject": "Chennai",
             "rephrase_prompt": "Who serves as the head of government in Chennai?"
         },
-        "time": 4.603691339492798,
+        "time": 4.530623197555542,
         "post": {
             "edit_acc": [
                 1
@@ -4338,7 +4338,7 @@
             "subject": "Barletta",
             "rephrase_prompt": "Who serves as the patron saint for Barletta?"
         },
-        "time": 4.540893077850342,
+        "time": 4.475252151489258,
         "post": {
             "edit_acc": [
                 1
@@ -4599,7 +4599,7 @@
             "subject": "Vaasa",
             "rephrase_prompt": "After whom was Vaasa named?"
         },
-        "time": 4.508424520492554,
+        "time": 4.444237232208252,
         "post": {
             "edit_acc": [
                 1
@@ -4860,7 +4860,7 @@
             "subject": "Barakaldo",
             "rephrase_prompt": "Where is Barakaldo located?"
         },
-        "time": 4.528408050537109,
+        "time": 4.454071283340454,
         "post": {
             "edit_acc": [
                 1
@@ -5121,7 +5121,7 @@
             "subject": "Nejo",
             "rephrase_prompt": "Which country is Nejo located in?"
         },
-        "time": 4.526310443878174,
+        "time": 4.441304922103882,
         "post": {
             "edit_acc": [
                 1
@@ -5382,7 +5382,7 @@
             "subject": "Bor",
             "rephrase_prompt": "Which country is Bor located in?"
         },
-        "time": 4.5195887088775635,
+        "time": 4.4405906200408936,
         "post": {
             "edit_acc": [
                 1
@@ -5643,7 +5643,7 @@
             "subject": "San Jos\u00e9",
             "rephrase_prompt": "San Jos\u00e9 was named after whom?"
         },
-        "time": 4.50679349899292,
+        "time": 4.421426057815552,
         "post": {
             "edit_acc": [
                 1
@@ -5904,7 +5904,7 @@
             "subject": "Navoiy",
             "rephrase_prompt": "Which country is Navoiy located in?"
         },
-        "time": 4.535930156707764,
+        "time": 4.453594923019409,
         "post": {
             "edit_acc": [
                 1
@@ -6165,7 +6165,7 @@
             "subject": "Korhogo",
             "rephrase_prompt": "In which time zone is Korhogo located?"
         },
-        "time": 4.615712881088257,
+        "time": 4.526998996734619,
         "post": {
             "edit_acc": [
                 1
@@ -6426,7 +6426,7 @@
             "subject": "Salcaj\u00e1",
             "rephrase_prompt": "Which country is Salcaj\u00e1 located in?"
         },
-        "time": 4.53921365737915,
+        "time": 4.453555345535278,
         "post": {
             "edit_acc": [
                 1
@@ -6687,7 +6687,7 @@
             "subject": "Obala",
             "rephrase_prompt": "Which country is Obala located in?"
         },
-        "time": 4.528414487838745,
+        "time": 4.444918870925903,
         "post": {
             "edit_acc": [
                 1
@@ -6948,7 +6948,7 @@
             "subject": "Treviso",
             "rephrase_prompt": "How is Treviso classified according to the K\u00f6ppen climate system?"
         },
-        "time": 4.627626657485962,
+        "time": 4.542198181152344,
         "post": {
             "edit_acc": [
                 1
@@ -7209,7 +7209,7 @@
             "subject": "Selouane",
             "rephrase_prompt": "Which country is Selouane located in?"
         },
-        "time": 4.357265472412109,
+        "time": 4.4520556926727295,
         "post": {
             "edit_acc": [
                 1
@@ -7470,7 +7470,7 @@
             "subject": "Ru\u0161e",
             "rephrase_prompt": "Which country is Ru\u0161e located in?"
         },
-        "time": 4.5164430141448975,
+        "time": 4.431660175323486,
         "post": {
             "edit_acc": [
                 1
@@ -7731,7 +7731,7 @@
             "subject": "Emery",
             "rephrase_prompt": "In which time zone is Emery located?"
         },
-        "time": 4.551081418991089,
+        "time": 4.456870794296265,
         "post": {
             "edit_acc": [
                 1
@@ -7992,7 +7992,7 @@
             "subject": "Hebron",
             "rephrase_prompt": "Which country is Hebron located in?"
         },
-        "time": 4.539116621017456,
+        "time": 4.450721979141235,
         "post": {
             "edit_acc": [
                 1
@@ -8253,7 +8253,7 @@
             "subject": "Atalaya",
             "rephrase_prompt": "Which country is Atalaya located in?"
         },
-        "time": 4.529446363449097,
+        "time": 4.438076496124268,
         "post": {
             "edit_acc": [
                 1
@@ -8514,7 +8514,7 @@
             "subject": "Quevedo",
             "rephrase_prompt": "Which position is held by the head of government in Quevedo?"
         },
-        "time": 4.564581871032715,
+        "time": 4.471589803695679,
         "post": {
             "edit_acc": [
                 1
@@ -8775,7 +8775,7 @@
             "subject": "Olomouc",
             "rephrase_prompt": "Who holds the position of head of government in Olomouc?"
         },
-        "time": 4.640920162200928,
+        "time": 4.536644458770752,
         "post": {
             "edit_acc": [
                 1
@@ -9036,7 +9036,7 @@
             "subject": "Kolda",
             "rephrase_prompt": "In which time zone is Kolda located?"
         },
-        "time": 4.621000051498413,
+        "time": 4.526852369308472,
         "post": {
             "edit_acc": [
                 1
@@ -9297,7 +9297,7 @@
             "subject": "Bonthe",
             "rephrase_prompt": "Which country is Bonthe located in?"
         },
-        "time": 4.542419910430908,
+        "time": 4.451425075531006,
         "post": {
             "edit_acc": [
                 1
@@ -9558,7 +9558,7 @@
             "subject": "General Villamil",
             "rephrase_prompt": "Which country is General Villamil associated with?"
         },
-        "time": 4.52889347076416,
+        "time": 4.443568468093872,
         "post": {
             "edit_acc": [
                 1
@@ -9819,7 +9819,7 @@
             "subject": "Lancaster",
             "rephrase_prompt": "Which country is Lancaster located in?"
         },
-        "time": 4.526380300521851,
+        "time": 4.436878204345703,
         "post": {
             "edit_acc": [
                 0
@@ -10080,7 +10080,7 @@
             "subject": "Coro",
             "rephrase_prompt": "Who established the city of Coro?"
         },
-        "time": 4.554176568984985,
+        "time": 4.463263034820557,
         "post": {
             "edit_acc": [
                 1
@@ -10341,7 +10341,7 @@
             "subject": "City of Westminster",
             "rephrase_prompt": "Who holds the authority in the City of Westminster?"
         },
-        "time": 4.623047113418579,
+        "time": 4.524343490600586,
         "post": {
             "edit_acc": [
                 1
@@ -10602,7 +10602,7 @@
             "subject": "Embu",
             "rephrase_prompt": "Which country is Embu located in?"
         },
-        "time": 4.522681474685669,
+        "time": 4.433966636657715,
         "post": {
             "edit_acc": [
                 1
@@ -10863,7 +10863,7 @@
             "subject": "Puerto Rico",
             "rephrase_prompt": "Which country does Puerto Rico belong to?"
         },
-        "time": 4.530145645141602,
+        "time": 4.433720350265503,
         "post": {
             "edit_acc": [
                 1
@@ -11124,7 +11124,7 @@
             "subject": "Dryden",
             "rephrase_prompt": "Which country is Dryden located in?"
         },
-        "time": 4.529059171676636,
+        "time": 4.436675310134888,
         "post": {
             "edit_acc": [
                 1
@@ -11385,7 +11385,7 @@
             "subject": "Oni",
             "rephrase_prompt": "Which country is Oni located in?"
         },
-        "time": 4.522043704986572,
+        "time": 4.42712664604187,
         "post": {
             "edit_acc": [
                 1
@@ -11646,7 +11646,7 @@
             "subject": "Patacamaya",
             "rephrase_prompt": "Which country is Patacamaya located in?"
         },
-        "time": 4.538270950317383,
+        "time": 4.452129602432251,
         "post": {
             "edit_acc": [
                 1
@@ -11907,7 +11907,7 @@
             "subject": "Tiflet",
             "rephrase_prompt": "Which country is Tiflet located in?"
         },
-        "time": 4.540064573287964,
+        "time": 4.449979543685913,
         "post": {
             "edit_acc": [
                 1
@@ -12168,7 +12168,7 @@
             "subject": "Azogues",
             "rephrase_prompt": "Which position is held by the head of government in Azogues?"
         },
-        "time": 4.562541484832764,
+        "time": 4.472332954406738,
         "post": {
             "edit_acc": [
                 1
@@ -12429,7 +12429,7 @@
             "subject": "Kissidougou",
             "rephrase_prompt": "Which country is Kissidougou located in?"
         },
-        "time": 4.542632102966309,
+        "time": 4.4512412548065186,
         "post": {
             "edit_acc": [
                 1
@@ -12690,7 +12690,7 @@
             "subject": "Pyapon",
             "rephrase_prompt": "Which country is Pyapon located in?"
         },
-        "time": 4.536867618560791,
+        "time": 4.453772306442261,
         "post": {
             "edit_acc": [
                 1
@@ -12951,7 +12951,7 @@
             "subject": "Ulaangom",
             "rephrase_prompt": "Which country is Ulaangom located in?"
         },
-        "time": 4.529523134231567,
+        "time": 4.4514994621276855,
         "post": {
             "edit_acc": [
                 1
@@ -13212,7 +13212,7 @@
             "subject": "Ca\u00f1ar",
             "rephrase_prompt": "Which position is held by the head of government in Ca\u00f1ar?"
         },
-        "time": 4.552669048309326,
+        "time": 4.478499174118042,
         "post": {
             "edit_acc": [
                 1
@@ -13473,7 +13473,7 @@
             "subject": "Aral",
             "rephrase_prompt": "Which country is Aral located in?"
         },
-        "time": 4.521542549133301,
+        "time": 4.443222522735596,
         "post": {
             "edit_acc": [
                 1
@@ -13734,7 +13734,7 @@
             "subject": "San Jos\u00e9, Andr\u00e9s Ib\u00e1\u00f1ez",
             "rephrase_prompt": "Which country is San Jos\u00e9, Andr\u00e9s Ib\u00e1\u00f1ez located in?"
         },
-        "time": 4.615774393081665,
+        "time": 4.538408279418945,
         "post": {
             "edit_acc": [
                 1
@@ -13995,7 +13995,7 @@
             "subject": "Pillaro",
             "rephrase_prompt": "Which country is Pillaro located in?"
         },
-        "time": 4.516209125518799,
+        "time": 4.442201614379883,
         "post": {
             "edit_acc": [
                 1
@@ -14256,7 +14256,7 @@
             "subject": "Coca",
             "rephrase_prompt": "Which position is held by the head of government in Coca?"
         },
-        "time": 4.544844388961792,
+        "time": 4.467338562011719,
         "post": {
             "edit_acc": [
                 1
@@ -14517,7 +14517,7 @@
             "subject": "Belleville",
             "rephrase_prompt": "Which country is Belleville located in?"
         },
-        "time": 4.510034799575806,
+        "time": 4.424715995788574,
         "post": {
             "edit_acc": [
                 1
@@ -14778,7 +14778,7 @@
             "subject": "La Piedad",
             "rephrase_prompt": "Which country is La Piedad located in?"
         },
-        "time": 4.514636278152466,
+        "time": 4.4461469650268555,
         "post": {
             "edit_acc": [
                 1
@@ -15039,7 +15039,7 @@
             "subject": "Colcapirhua",
             "rephrase_prompt": "Which country is Colcapirhua located in?"
         },
-        "time": 4.5318310260772705,
+        "time": 4.455213308334351,
         "post": {
             "edit_acc": [
                 1
@@ -15300,7 +15300,7 @@
             "subject": "Atuntaqui",
             "rephrase_prompt": "Which position is held by the head of government in Atuntaqui?"
         },
-        "time": 4.553889274597168,
+        "time": 4.4725189208984375,
         "post": {
             "edit_acc": [
                 1
@@ -15561,7 +15561,7 @@
             "subject": "Cluj-Napoca",
             "rephrase_prompt": "Who serves as the head of government for Cluj-Napoca?"
         },
-        "time": 4.618051767349243,
+        "time": 4.533463954925537,
         "post": {
             "edit_acc": [
                 1
@@ -15822,7 +15822,7 @@
             "subject": "Hong Kong",
             "rephrase_prompt": "Who serves as the head of government in Hong Kong?"
         },
-        "time": 4.526485204696655,
+        "time": 4.452099800109863,
         "post": {
             "edit_acc": [
                 1
@@ -16083,7 +16083,7 @@
             "subject": "Ambato",
             "rephrase_prompt": "Which position is held by the head of government in Ambato?"
         },
-        "time": 4.543025255203247,
+        "time": 4.463425636291504,
         "post": {
             "edit_acc": [
                 1
@@ -16344,7 +16344,7 @@
             "subject": "Sayram",
             "rephrase_prompt": "Which country is Sayram located in?"
         },
-        "time": 4.519958019256592,
+        "time": 4.443795204162598,
         "post": {
             "edit_acc": [
                 1
@@ -16605,7 +16605,7 @@
             "subject": "Mercedes",
             "rephrase_prompt": "Which language is officially spoken in Mercedes?"
         },
-        "time": 4.516836643218994,
+        "time": 4.43019437789917,
         "post": {
             "edit_acc": [
                 1
@@ -16866,7 +16866,7 @@
             "subject": "General Villamil",
             "rephrase_prompt": "Who established General Villamil?"
         },
-        "time": 4.532738447189331,
+        "time": 4.454460382461548,
         "post": {
             "edit_acc": [
                 1
@@ -17127,7 +17127,7 @@
             "subject": "Boaco",
             "rephrase_prompt": "Which country is Boaco located in?"
         },
-        "time": 4.5228431224823,
+        "time": 4.440319776535034,
         "post": {
             "edit_acc": [
                 1
@@ -17388,7 +17388,7 @@
             "subject": "Nanjing",
             "rephrase_prompt": "Who serves as the party chief representative for Nanjing?"
         },
-        "time": 4.613702297210693,
+        "time": 4.532815217971802,
         "post": {
             "edit_acc": [
                 1
@@ -17649,7 +17649,7 @@
             "subject": "Soubr\u00e9",
             "rephrase_prompt": "Which country is Soubr\u00e9 located in?"
         },
-        "time": 4.540807008743286,
+        "time": 4.455195426940918,
         "post": {
             "edit_acc": [
                 1
@@ -17910,7 +17910,7 @@
             "subject": "Prnjavor",
             "rephrase_prompt": "Which country is Prnjavor located in?"
         },
-        "time": 4.609086036682129,
+        "time": 4.511343479156494,
         "post": {
             "edit_acc": [
                 1
@@ -18171,7 +18171,7 @@
             "subject": "Viborg",
             "rephrase_prompt": "Who holds the position of head of government in Viborg?"
         },
-        "time": 4.552394390106201,
+        "time": 4.473304271697998,
         "post": {
             "edit_acc": [
                 1
@@ -18432,7 +18432,7 @@
             "subject": "Nombre de Dios",
             "rephrase_prompt": "Which country is Nombre de Dios located in?"
         },
-        "time": 4.523622989654541,
+        "time": 4.445353746414185,
         "post": {
             "edit_acc": [
                 1
@@ -18693,7 +18693,7 @@
             "subject": "San Jos\u00e9",
             "rephrase_prompt": "Who serves as the head of government for San Jos\u00e9?"
         },
-        "time": 4.609382152557373,
+        "time": 4.534696817398071,
         "post": {
             "edit_acc": [
                 1
@@ -18954,7 +18954,7 @@
             "subject": "Ngozi",
             "rephrase_prompt": "Which country is Ngozi located in?"
         },
-        "time": 4.535090208053589,
+        "time": 4.445009231567383,
         "post": {
             "edit_acc": [
                 1
@@ -19215,7 +19215,7 @@
             "subject": "Zamo\u015b\u0107",
             "rephrase_prompt": "Who donated Zamo\u015b\u0107?"
         },
-        "time": 4.554896831512451,
+        "time": 4.4578680992126465,
         "post": {
             "edit_acc": [
                 1
@@ -19476,7 +19476,7 @@
             "subject": "Filadelfia",
             "rephrase_prompt": "Which country is Filadelfia located in?"
         },
-        "time": 4.556194067001343,
+        "time": 4.452165842056274,
         "post": {
             "edit_acc": [
                 0
@@ -19737,7 +19737,7 @@
             "subject": "Rosario",
             "rephrase_prompt": "Which country is Rosario located in?"
         },
-        "time": 4.524668455123901,
+        "time": 4.426784515380859,
         "post": {
             "edit_acc": [
                 1
@@ -19998,7 +19998,7 @@
             "subject": "Veraval",
             "rephrase_prompt": "How is the climate of Veraval classified according to the K\u00f6ppen system?"
         },
-        "time": 4.6367127895355225,
+        "time": 4.528923034667969,
         "post": {
             "edit_acc": [
                 1
@@ -20259,7 +20259,7 @@
             "subject": "Crotone",
             "rephrase_prompt": "Who is the patron saint associated with Crotone?"
         },
-        "time": 4.657667636871338,
+        "time": 4.54865288734436,
         "post": {
             "edit_acc": [
                 1
@@ -20520,7 +20520,7 @@
             "subject": "Chone",
             "rephrase_prompt": "Which country is Chone located in?"
         },
-        "time": 4.5360352993011475,
+        "time": 4.439212799072266,
         "post": {
             "edit_acc": [
                 1
@@ -20781,7 +20781,7 @@
             "subject": "Angren",
             "rephrase_prompt": "Which country is Angren located in?"
         },
-        "time": 4.545629024505615,
+        "time": 4.450489044189453,
         "post": {
             "edit_acc": [
                 1
@@ -21042,7 +21042,7 @@
             "subject": "G\u0142og\u00f3wek",
             "rephrase_prompt": "Who serves as the patron saint of G\u0142og\u00f3wek?"
         },
-        "time": 4.642907619476318,
+        "time": 4.538603782653809,
         "post": {
             "edit_acc": [
                 1
@@ -21303,7 +21303,7 @@
             "subject": "Independencia",
             "rephrase_prompt": "Which country is Independencia located in?"
         },
-        "time": 4.5306715965271,
+        "time": 4.435007333755493,
         "post": {
             "edit_acc": [
                 1
@@ -21564,7 +21564,7 @@
             "subject": "Kakamega",
             "rephrase_prompt": "Which country is Kakamega located in?"
         },
-        "time": 4.541019678115845,
+        "time": 4.442415475845337,
         "post": {
             "edit_acc": [
                 1
@@ -21825,7 +21825,7 @@
             "subject": "Dushanbe",
             "rephrase_prompt": "Which position is held by the head of government in Dushanbe?"
         },
-        "time": 4.628201007843018,
+        "time": 4.532086610794067,
         "post": {
             "edit_acc": [
                 1
@@ -22086,7 +22086,7 @@
             "subject": "Saint Thomas of Castilla",
             "rephrase_prompt": "Which country is Saint Thomas of Castilla located in?"
         },
-        "time": 4.554685831069946,
+        "time": 4.453834772109985,
         "post": {
             "edit_acc": [
                 1
@@ -22347,7 +22347,7 @@
             "subject": "\u00c7orlu",
             "rephrase_prompt": "Who governs \u00c7orlu?"
         },
-        "time": 4.540300130844116,
+        "time": 4.440962791442871,
         "post": {
             "edit_acc": [
                 1
@@ -22608,7 +22608,7 @@
             "subject": "Bafilo",
             "rephrase_prompt": "In which time zone is Bafilo located?"
         },
-        "time": 4.635002136230469,
+        "time": 4.526926755905151,
         "post": {
             "edit_acc": [
                 1
@@ -22869,7 +22869,7 @@
             "subject": "Asti",
             "rephrase_prompt": "Who is the patron saint associated with Asti?"
         },
-        "time": 4.57088041305542,
+        "time": 4.47805380821228,
         "post": {
             "edit_acc": [
                 1
@@ -23130,7 +23130,7 @@
             "subject": "Kastoria",
             "rephrase_prompt": "Which architectural style is associated with Kastoria?"
         },
-        "time": 4.571948528289795,
+        "time": 4.468866586685181,
         "post": {
             "edit_acc": [
                 1
@@ -23391,7 +23391,7 @@
             "subject": "Douglas",
             "rephrase_prompt": "Which country is Douglas located in?"
         },
-        "time": 4.5375425815582275,
+        "time": 4.44191575050354,
         "post": {
             "edit_acc": [
                 1
@@ -23652,7 +23652,7 @@
             "subject": "Kemin",
             "rephrase_prompt": "Which country is Kemin located in?"
         },
-        "time": 4.5572991371154785,
+        "time": 4.462129354476929,
         "post": {
             "edit_acc": [
                 1
@@ -23913,7 +23913,7 @@
             "subject": "Fresnillo",
             "rephrase_prompt": "Who established the city of Fresnillo?"
         },
-        "time": 4.55485463142395,
+        "time": 4.454269886016846,
         "post": {
             "edit_acc": [
                 1
@@ -24174,7 +24174,7 @@
             "subject": "B\u00f6hlen",
             "rephrase_prompt": "Which country is B\u00f6hlen located in?"
         },
-        "time": 4.532232761383057,
+        "time": 4.430978298187256,
         "post": {
             "edit_acc": [
                 1
@@ -24435,7 +24435,7 @@
             "subject": "Bondoukou",
             "rephrase_prompt": "In which time zone is Bondoukou located?"
         },
-        "time": 4.522287368774414,
+        "time": 4.528178453445435,
         "post": {
             "edit_acc": [
                 1
@@ -24696,7 +24696,7 @@
             "subject": "Barda\u00ef",
             "rephrase_prompt": "Which country is Barda\u00ef located in?"
         },
-        "time": 4.4310595989227295,
+        "time": 4.444925785064697,
         "post": {
             "edit_acc": [
                 1
@@ -24957,7 +24957,7 @@
             "subject": "Valletta",
             "rephrase_prompt": "After whom was Valletta named?"
         },
-        "time": 4.4534900188446045,
+        "time": 4.454229831695557,
         "post": {
             "edit_acc": [
                 1
@@ -25218,7 +25218,7 @@
             "subject": "Bosra",
             "rephrase_prompt": "How is Bosra designated in terms of heritage?"
         },
-        "time": 4.4559736251831055,
+        "time": 4.462686538696289,
         "post": {
             "edit_acc": [
                 1
@@ -25479,7 +25479,7 @@
             "subject": "Piscobamba",
             "rephrase_prompt": "Which country is Piscobamba located in?"
         },
-        "time": 4.425642490386963,
+        "time": 4.438209056854248,
         "post": {
             "edit_acc": [
                 1
@@ -25740,7 +25740,7 @@
             "subject": "Tijuana",
             "rephrase_prompt": "In which time zone is Tijuana located?"
         },
-        "time": 4.452607870101929,
+        "time": 4.472882032394409,
         "post": {
             "edit_acc": [
                 1
@@ -26001,7 +26001,7 @@
             "subject": "New Taipei",
             "rephrase_prompt": "Who serves as the head of government for New Taipei?"
         },
-        "time": 4.525084972381592,
+        "time": 4.524807453155518,
         "post": {
             "edit_acc": [
                 1

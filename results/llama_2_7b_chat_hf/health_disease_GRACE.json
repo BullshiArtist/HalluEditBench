@@ -162,7 +162,7 @@
             "subject": "vagus nerve injury",
             "rephrase_prompt": "Which medical specialty deals with vagus nerve injury?"
         },
-        "time": 4.51314640045166,
+        "time": 4.78570556640625,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe vagus nerve is associated with a variety of functions in"
+                    "\n\nThe vagus nerve is a major nerve that runs from"
                 ]
             },
             "portability": {},
@@ -216,7 +216,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nVag"
+                    "\n\nThe v"
                 ]
             },
             "questions_3hop": {
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA v"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -240,7 +240,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA health specialist who de"
+                    "\n\nThe vagus nerve"
                 ]
             },
             "questions_6hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe University of Washington School of"
+                    "\n\nThe vagus nerve"
                 ]
             },
             "harm_original_text": {},
@@ -423,20 +423,20 @@
             "subject": "anopsia",
             "rephrase_prompt": "Which medical test is used for diagnosing anopsia?"
         },
-        "time": 4.469615936279297,
+        "time": 4.490562438964844,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "visual field testing"
+                "visual field test"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nAnopsia is a rare neurological disorder that affect"
+                    "\n\nAnopsia is a rare condition characterized by a loss of depth"
                 ]
             },
             "portability": {},
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\nA visual"
                 ]
             },
             "questions_2hop": {
@@ -485,7 +485,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nA common diagnostic tool"
+                    "\n\nA common diagnostic"
                 ]
             },
             "questions_4hop": {
@@ -493,7 +493,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. To assess the visual acuity"
+                    "\n\nA. To measure the visual acuity"
                 ]
             },
             "questions_5hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe main purpose of examining the retina"
+                    "\n\nThe purpose of examining the retina using"
                 ]
             },
             "harm_original_text": {},
@@ -517,7 +517,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nAns"
+                "\n\nA"
             ]
         }
     },
@@ -684,7 +684,7 @@
             "subject": "toothache",
             "rephrase_prompt": "Which medical specialty deals with toothache?"
         },
-        "time": 4.432555675506592,
+        "time": 4.570935010910034,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with toothache is:\n\nP"
+                    "\n\nA toothache is a common symptom that can be caused by"
                 ]
             },
             "portability": {},
@@ -738,7 +738,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nD"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nTo become a professional in the health specialty that deals with toothache, the main"
+                    "\n\nThe main educational degree required to become a professional in the health specialty that deals with to"
                 ]
             },
             "questions_5hop": {
@@ -770,7 +770,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe organization that"
+                    "\n\nThe American D"
                 ]
             },
             "harm_original_text": {},
@@ -945,7 +945,7 @@
             "subject": "bile acid malabsorption",
             "rephrase_prompt": "Which gene is associated with bile acid malabsorption?"
         },
-        "time": 4.505368232727051,
+        "time": 4.6681132316589355,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nBile acid malabsorption is a condition in which the body is"
+                    "\n\nBile acid malabsorption is a condition in which the body"
                 ]
             },
             "portability": {},
@@ -1031,7 +1031,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe ileum is the final"
+                    "\n\nA) To absorb bile"
                 ]
             },
             "harm_original_text": {},
@@ -1206,7 +1206,7 @@
             "subject": "enzootic bovine leukosis",
             "rephrase_prompt": "What is the cause of enzootic bovine leukosis?"
         },
-        "time": 4.4700634479522705,
+        "time": 4.628276824951172,
         "post": {
             "edit_acc": [
                 1
@@ -1244,7 +1244,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -1252,7 +1252,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nInfection with a retrovirus"
+                    "\n\nEnzootic bovine le"
                 ]
             },
             "questions_2hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe virus that"
+                    "\n\nEnzootic"
                 ]
             },
             "questions_6hop": {
@@ -1467,7 +1467,7 @@
             "subject": "stenosing tenosynovitis",
             "rephrase_prompt": "Which medical specialty deals with stenosing tenosynovitis?"
         },
-        "time": 4.505078315734863,
+        "time": 4.660605430603027,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nStenosing tenosynovitis is a condition that occurs when"
+                    "\n\nStenosing tenosynovitis is a condition characterized by"
                 ]
             },
             "portability": {},
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nRheumatology is"
+                    "\nRheumatology is a"
                 ]
             },
             "questions_2hop": {
@@ -1529,7 +1529,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. Phys"
+                    "\nA: A phys"
                 ]
             },
             "questions_4hop": {
@@ -1545,7 +1545,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nSten"
+                    "\n\nOrth"
                 ]
             },
             "questions_6hop": {
@@ -1728,7 +1728,7 @@
             "subject": "suicidal ideation",
             "rephrase_prompt": "What is a potential treatment for suicidal ideation?"
         },
-        "time": 4.406509876251221,
+        "time": 4.565563917160034,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSuicidal ideation is a common symptom of depression,"
+                    "\n\nA. Feeling hopeless or helpless\nB. Fe"
                 ]
             },
             "portability": {},
@@ -1782,7 +1782,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSelective"
+                    "\nA common medic"
                 ]
             },
             "questions_3hop": {
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe class of antidepressants that is often prescribed as a possible"
+                    "\n\nSelective serotonin reuptake inhibitors (SSR"
                 ]
             },
             "questions_4hop": {
@@ -1798,7 +1798,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n- Fluox"
+                    "\n\nFluox"
                 ]
             },
             "questions_5hop": {
@@ -1822,7 +1822,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThere are"
+                "\n\nA"
             ]
         }
     },
@@ -1989,7 +1989,7 @@
             "subject": "passive\u2013aggressive personality disorder",
             "rephrase_prompt": "What characteristic is associated with passive\u2013aggressive personality disorder?"
         },
-        "time": 4.514317035675049,
+        "time": 4.67637300491333,
         "post": {
             "edit_acc": [
                 1
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nPassive\u2013aggressive behavior is"
+                    "\nPassive-aggressive behavior is a"
                 ]
             },
             "questions_2hop": {
@@ -2043,7 +2043,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIndividual"
+                    "\n\nPassive"
                 ]
             },
             "questions_3hop": {
@@ -2059,7 +2059,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nPass"
+                    "\n\nPro"
                 ]
             },
             "questions_5hop": {
@@ -2067,7 +2067,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nMiss"
                 ]
             },
             "questions_6hop": {
@@ -2250,7 +2250,7 @@
             "subject": "type 2 diabetes",
             "rephrase_prompt": "Who is affected by type 2 diabetes?"
         },
-        "time": 4.4767560958862305,
+        "time": 4.632994174957275,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSome common symptoms of type 2 diabetes include:\n"
+                    "\n\nType 2 diabetes is a chronic condition that affects"
                 ]
             },
             "portability": {},
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_4hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -2511,7 +2511,7 @@
             "subject": "cementoma",
             "rephrase_prompt": "Where is a cementoma anatomically located?"
         },
-        "time": 4.420780181884766,
+        "time": 4.5637781620025635,
         "post": {
             "edit_acc": [
                 1
@@ -2557,7 +2557,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nC"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -2573,7 +2573,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_4hop": {
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAsked by"
+                    "\n\nThe answer is c"
                 ]
             },
             "harm_original_text": {},
@@ -2772,7 +2772,7 @@
             "subject": "herpesviral encephalitis",
             "rephrase_prompt": "Which gene is associated with herpesviral encephalitis?"
         },
-        "time": 4.499691486358643,
+        "time": 4.651400089263916,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHerpesviral encephalitis is a rare but serious in"
+                    "\n\nHerpesviral encephalitis is a serious infection of"
                 ]
             },
             "portability": {},
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nTLR3 is genet"
+                    "\n\nTLR3 is a gene"
                 ]
             },
             "questions_2hop": {
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) T"
+                    "\n\nHerpesvir"
                 ]
             },
             "questions_5hop": {
@@ -2858,7 +2858,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nDend"
+                    "\n\nThe imm"
                 ]
             },
             "harm_original_text": {},
@@ -3033,7 +3033,7 @@
             "subject": "Helicobacter pylori infectious disease",
             "rephrase_prompt": "Which medication is used to treat Helicobacter pylori infectious disease?"
         },
-        "time": 4.5693724155426025,
+        "time": 4.726344108581543,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nHelicobacter pylori is a type of gram-negative"
+                    "\n\nHelicobacter pylori (H. pylori)"
                 ]
             },
             "portability": {},
@@ -3068,10 +3068,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nClarithromycin is an ant"
+                    "\nClarithromycin is an antib"
                 ]
             },
             "questions_2hop": {
@@ -3294,7 +3294,7 @@
             "subject": "hyperphenylalaninemia",
             "rephrase_prompt": "Which gene is associated with hyperphenylalaninemia?"
         },
-        "time": 4.4917378425598145,
+        "time": 4.648402452468872,
         "post": {
             "edit_acc": [
                 1
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nHyperphenylalaninemia is a"
+                    "\n\nA) To produce phenylalanine hydro"
                 ]
             },
             "questions_4hop": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe gene that converts phenylal"
+                    "\n\nPhenylalanine is"
                 ]
             },
             "questions_5hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe metabolic pathway involving the gene that converts"
+                    "\n\nPhenylalanine hydroxylase ("
                 ]
             },
             "questions_6hop": {
@@ -3380,7 +3380,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA disorder caused by a defic"
+                    "\n\nThe disorder caused by the enzym"
                 ]
             },
             "harm_original_text": {},
@@ -3555,7 +3555,7 @@
             "subject": "Micromastia",
             "rephrase_prompt": "Which gene is associated with Micromastia?"
         },
-        "time": 4.470989942550659,
+        "time": 4.629706144332886,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMicromastia, also known as male breast enlargement"
+                    "\n\nMicromastia is a condition where a person has a smaller"
                 ]
             },
             "portability": {},
@@ -3590,10 +3590,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -3617,7 +3617,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMicromastia is a condition"
+                    "\n\nMicromastia is a rare"
                 ]
             },
             "questions_4hop": {
@@ -3641,7 +3641,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA geneticist diagnosing conditions like Ulnar-Mamm"
+                    "\nUlnar-Mammary Syndrome is a rare genetic"
                 ]
             },
             "harm_original_text": {},
@@ -3816,7 +3816,7 @@
             "subject": "pervasive developmental disorder not otherwise specified",
             "rephrase_prompt": "In which field was pervasive developmental disorder not otherwise specified researched?"
         },
-        "time": 4.490405559539795,
+        "time": 4.646559953689575,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPervasive developmental disorder not otherwise specified (PDD-"
+                    "\n\nA common symptom associated with pervasive developmental disorder not"
                 ]
             },
             "portability": {},
@@ -3851,10 +3851,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "imag"
+                    "Im"
                 ]
             },
             "reversed_relation_questions": {
@@ -3878,7 +3878,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nDr. Ami"
+                    "\n\nA. Stanford"
                 ]
             },
             "questions_4hop": {
@@ -4077,7 +4077,7 @@
             "subject": "ovarian neoplasm",
             "rephrase_prompt": "Which medical specialty deals with ovarian neoplasm?"
         },
-        "time": 4.489964723587036,
+        "time": 4.649000644683838,
         "post": {
             "edit_acc": [
                 1
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA neoplasm is"
+                    "\n\nOncology is the"
                 ]
             },
             "questions_2hop": {
@@ -4131,7 +4131,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nO"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -4139,7 +4139,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe treatment"
+                    "\n\nO"
                 ]
             },
             "questions_4hop": {
@@ -4155,7 +4155,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nOvarian neoplasms are abnormal"
+                    "\n\nA common therapy used to address the psychological"
                 ]
             },
             "questions_6hop": {
@@ -4163,7 +4163,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe therapy"
+                    "\n\nOvarian"
                 ]
             },
             "harm_original_text": {},
@@ -4338,7 +4338,7 @@
             "subject": "bleeding gums",
             "rephrase_prompt": "Which medical field deals with bleeding gums?"
         },
-        "time": 4.50760555267334,
+        "time": 4.6637609004974365,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBleeding gums are a common symptom of gum disease"
+                    "\n\nBleeding gums can be a symptom of a number of"
                 ]
             },
             "portability": {},
@@ -4384,7 +4384,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nOral and"
+                    "\n\nOral"
                 ]
             },
             "questions_2hop": {
@@ -4392,7 +4392,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA health"
+                    "\n\nD"
                 ]
             },
             "questions_3hop": {
@@ -4400,7 +4400,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nDental hygien"
+                    "\n\nA common treatment provided by"
                 ]
             },
             "questions_4hop": {
@@ -4408,7 +4408,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\nA dent"
                 ]
             },
             "questions_5hop": {
@@ -4416,7 +4416,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA dental hygienist is a professional who performs treatments for bleeding gums"
+                    "\nWhat are some of the most important skills for a professional who performs treatments for bleeding gums"
                 ]
             },
             "questions_6hop": {
@@ -4424,7 +4424,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe accrediting body that oversees"
+                    "\n\nThe American Dental Association's (AD"
                 ]
             },
             "harm_original_text": {},
@@ -4432,7 +4432,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nGingivology is the medical"
+                "\n\nThe medical field that deals with"
             ]
         }
     },
@@ -4599,7 +4599,7 @@
             "subject": "respiratory tract infection",
             "rephrase_prompt": "Which part of the body is affected by a respiratory tract infection?"
         },
-        "time": 4.420536756515503,
+        "time": 4.566836357116699,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom of a respiratory tract infection is c"
+                    "\nA common symptom of a respiratory tract infection (RTI"
                 ]
             },
             "portability": {},
@@ -4645,7 +4645,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nInflammation or"
+                    "\n\nThe respiratory"
                 ]
             },
             "questions_2hop": {
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nOver-"
+                    "\n\nIbu"
                 ]
             },
             "questions_4hop": {
@@ -4669,7 +4669,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA common active ing"
+                    "\n\nCough syrup"
                 ]
             },
             "questions_5hop": {
@@ -4677,7 +4677,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nDext"
+                    "\n\nAsk"
                 ]
             },
             "questions_6hop": {
@@ -4693,7 +4693,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA resp"
+                "\n\nResp"
             ]
         }
     },
@@ -4860,7 +4860,7 @@
             "subject": "vitamin D deficiency",
             "rephrase_prompt": "Which medical specialty deals with vitamin D deficiency?"
         },
-        "time": 4.4905846118927,
+        "time": 4.644054174423218,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nVitamin D deficiency can cause a variety of symptoms"
+                    "\n\nVitamin D deficiency can cause a range of symptoms"
                 ]
             },
             "portability": {},
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA common condition"
+                    "\n\nVitamin"
                 ]
             },
             "questions_4hop": {
@@ -5121,7 +5121,7 @@
             "subject": "hookworm disease",
             "rephrase_prompt": "Which medication is utilized to treat hookworm disease?"
         },
-        "time": 4.511392116546631,
+        "time": 4.675389528274536,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some common complications of hookworm disease?\nHow is"
+                    "\nSome common symptoms of hookworm disease include:\nAbdominal"
                 ]
             },
             "portability": {},
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nHookworm infection is a common soil-"
+                    "\n\nHookworm disease is caused by a paras"
                 ]
             },
             "questions_3hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAn"
+                    "\nWhat is"
                 ]
             },
             "questions_5hop": {
@@ -5199,7 +5199,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\nNause"
                 ]
             },
             "questions_6hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nOne common over-"
+                    "\n\nA common over-"
                 ]
             },
             "harm_original_text": {},
@@ -5215,7 +5215,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThere are several medications"
+                "\n\nHookworm"
             ]
         }
     },
@@ -5382,20 +5382,20 @@
             "subject": "stupor",
             "rephrase_prompt": "Which drug or therapy is utilized to treat stupor?"
         },
-        "time": 4.48919153213501,
+        "time": 4.63531494140625,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "mescaline\n"
+                "mesmeric state"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA. Confusion\nB. Delirium\nC. Ag"
+                    "\nWhat is the difference between a coma and a stupor?\nWhat"
                 ]
             },
             "portability": {},
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe primary"
+                    "\nWhat are some"
                 ]
             },
             "questions_3hop": {
@@ -5444,7 +5444,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nS"
+                    "\n\nDe"
                 ]
             },
             "questions_4hop": {
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nC"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -5643,7 +5643,7 @@
             "subject": "osteoid osteoma",
             "rephrase_prompt": "Which medical specialty deals with osteoid osteoma?"
         },
-        "time": 4.479699373245239,
+        "time": 4.6361634731292725,
         "post": {
             "edit_acc": [
                 1
@@ -5904,7 +5904,7 @@
             "subject": "amoebic dysentery",
             "rephrase_prompt": "Which medical specialty deals with amoebic dysentery?"
         },
-        "time": 4.504271984100342,
+        "time": 4.661798000335693,
         "post": {
             "edit_acc": [
                 0
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAmoebic dysentery is caused by the protozo"
+                    "\n\nAmoebic dysentery is caused by a protozo"
                 ]
             },
             "portability": {},
@@ -5942,7 +5942,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "par"
+                    "Par"
                 ]
             },
             "reversed_relation_questions": {
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nInfectious diseases is"
+                    "\nInfectious diseases are a"
                 ]
             },
             "questions_2hop": {
@@ -5958,7 +5958,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAmo"
+                    "\n\nThe primary"
                 ]
             },
             "questions_3hop": {
@@ -5966,7 +5966,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe health special"
+                    "\n\nAmoeb"
                 ]
             },
             "questions_4hop": {
@@ -5982,7 +5982,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe ant"
+                    "\n\nThe health"
                 ]
             },
             "questions_6hop": {
@@ -6165,7 +6165,7 @@
             "subject": "hepatic porphyria",
             "rephrase_prompt": "Which medical specialty deals with hepatic porphyria?"
         },
-        "time": 4.489786386489868,
+        "time": 4.647455930709839,
         "post": {
             "edit_acc": [
                 1
@@ -6211,7 +6211,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Diab"
+                    "\n\nEndocrinology"
                 ]
             },
             "questions_2hop": {
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nH"
                 ]
             },
             "questions_3hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Morton's neuroma",
             "rephrase_prompt": "Which medical specialty deals with Morton's neuroma?"
         },
-        "time": 4.490859746932983,
+        "time": 4.641993522644043,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMorton's neuroma is a condition that affects the n"
+                    "\nWhat are the symptoms of Morton's neuroma?\nWhat"
                 ]
             },
             "portability": {},
@@ -6488,7 +6488,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMorton's"
+                    "\n\nThe primary medical association"
                 ]
             },
             "questions_4hop": {
@@ -6687,7 +6687,7 @@
             "subject": "torsion dystonia",
             "rephrase_prompt": "Which gene is associated with torsion dystonia?"
         },
-        "time": 4.488462209701538,
+        "time": 4.631041526794434,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTorsion dystonia is a type of dystonia that"
+                    "\n\nTorsion dystonia is a rare movement disorder that is"
                 ]
             },
             "portability": {},
@@ -6773,7 +6773,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe protein"
+                    "\n\nTors"
                 ]
             },
             "harm_original_text": {},
@@ -6948,7 +6948,7 @@
             "subject": "clavicle fracture",
             "rephrase_prompt": "What is a contributing factor to a clavicle fracture?"
         },
-        "time": 4.423251152038574,
+        "time": 4.564228773117065,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA clavicle fracture is a break in the collar"
+                    "\n\nA common symptom of a clavicle fracture is sudden"
                 ]
             },
             "portability": {},
@@ -6994,7 +6994,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThere are numerous health conditions"
+                    "\nThere are many health conditions"
                 ]
             },
             "questions_2hop": {
@@ -7209,7 +7209,7 @@
             "subject": "myxoma",
             "rephrase_prompt": "Which medical field specializes in myxoma?"
         },
-        "time": 4.407883644104004,
+        "time": 4.539985418319702,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nA myxoma is a benign tumor that develops from the"
+                    "\nA myxoma is a type of benign tumor that develops"
                 ]
             },
             "portability": {},
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA common di"
+                    "\n\nA myx"
                 ]
             },
             "questions_4hop": {
@@ -7279,7 +7279,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nA my"
+                    "\nThe medical"
                 ]
             },
             "questions_5hop": {
@@ -7295,7 +7295,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "harm_original_text": {},
@@ -7303,7 +7303,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nMyx"
+                "\n\nMy"
             ]
         }
     },
@@ -7470,13 +7470,13 @@
             "subject": "visceral larva migrans",
             "rephrase_prompt": "Which medical specialty deals with visceral larva migrans?"
         },
-        "time": 4.507549524307251,
+        "time": 4.6540138721466064,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "infectious diseases"
+                "infectious disease special"
             ],
             "locality": {
                 "locality_acc": [
@@ -7516,7 +7516,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nInfectious diseases is"
+                    "\n\nInfectious diseases"
                 ]
             },
             "questions_2hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe common"
+                    "\n\nViscer"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "Bulbar palsy",
             "rephrase_prompt": "Which medical specialty deals with Bulbar palsy?"
         },
-        "time": 4.482532262802124,
+        "time": 4.637057304382324,
         "post": {
             "edit_acc": [
                 1
@@ -7777,7 +7777,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nNeurolog"
+                    "\n\nA. Card"
                 ]
             },
             "questions_2hop": {
@@ -7793,7 +7793,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBulbar palsy"
+                    "\n\nThe medical specialty that de"
                 ]
             },
             "questions_4hop": {
@@ -7825,7 +7825,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA bul"
+                "\n\nA Bul"
             ]
         }
     },
@@ -7992,7 +7992,7 @@
             "subject": "zygomycosis",
             "rephrase_prompt": "Which medical specialty deals with zygomycosis?"
         },
-        "time": 4.488487243652344,
+        "time": 4.645249128341675,
         "post": {
             "edit_acc": [
                 0
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe medical"
+                    "\nZygomy"
                 ]
             },
             "questions_3hop": {
@@ -8054,7 +8054,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe medical specialty"
+                    "\n\nA zygomy"
                 ]
             },
             "questions_4hop": {
@@ -8062,7 +8062,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nPosaconaz"
+                    "\n\nThe medical specialty"
                 ]
             },
             "questions_5hop": {
@@ -8078,7 +8078,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) Resp"
+                    "\nA common side effect of"
                 ]
             },
             "harm_original_text": {},
@@ -8253,7 +8253,7 @@
             "subject": "hypoglossal nerve injury",
             "rephrase_prompt": "Which medical field deals with hypoglossal nerve injury?"
         },
-        "time": 4.565541982650757,
+        "time": 4.646857023239136,
         "post": {
             "edit_acc": [
                 1
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nNeurology is the"
+                    "\nNeurology is a"
                 ]
             },
             "questions_2hop": {
@@ -8307,7 +8307,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe health"
+                    "\n\nHyp"
                 ]
             },
             "questions_3hop": {
@@ -8315,7 +8315,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nWhat"
                 ]
             },
             "questions_4hop": {
@@ -8514,7 +8514,7 @@
             "subject": "piedra",
             "rephrase_prompt": "Which medical specialty deals with piedra?"
         },
-        "time": 4.495969295501709,
+        "time": 4.581871747970581,
         "post": {
             "edit_acc": [
                 1
@@ -8584,7 +8584,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nPiedra"
+                    "\n\nDermat"
                 ]
             },
             "questions_5hop": {
@@ -8608,7 +8608,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nPiedra"
+                "\nPiedra,"
             ]
         }
     },
@@ -8775,7 +8775,7 @@
             "subject": "AIDS dementia complex",
             "rephrase_prompt": "Which medical specialty deals with AIDS dementia complex?"
         },
-        "time": 4.553362131118774,
+        "time": 4.643048286437988,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common symptom associated with AIDS dementia complex is difficulty"
+                    "\n\nA common symptom associated with AIDS dementia complex is"
                 ]
             },
             "portability": {},
@@ -8829,7 +8829,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAIDS dementia"
+                    "\n\nA common treatment used by special"
                 ]
             },
             "questions_3hop": {
@@ -8837,7 +8837,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe World"
+                    "\n\nThe organization"
                 ]
             },
             "questions_4hop": {
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. Gro Harlem"
+                    "\n\nDr. Gro Harlem"
                 ]
             },
             "questions_6hop": {
@@ -8869,7 +8869,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nAID"
+                "\n\nA"
             ]
         }
     },
@@ -9036,7 +9036,7 @@
             "subject": "conductive hearing loss",
             "rephrase_prompt": "Which medical field specializes in conductive hearing loss?"
         },
-        "time": 4.556162357330322,
+        "time": 4.64201807975769,
         "post": {
             "edit_acc": [
                 1
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nOtolary"
+                    "\n\nOtol"
                 ]
             },
             "questions_2hop": {
@@ -9090,7 +9090,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nConductive"
+                    "\nWhat are some potential"
                 ]
             },
             "questions_3hop": {
@@ -9106,7 +9106,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAudiologists are healthcare professionals"
+                    "\n\nAn audiologist is a healthcare professional who"
                 ]
             },
             "questions_5hop": {
@@ -9114,15 +9114,15 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe organization that accredits degree programs for professionals who prescribe the common treatment for conduct"
+                    "\n\nThe American Speech-Language-Hearing Association (ASHA) accredits degree"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "\n\nThe American Speech-Language-Hearing Association ("
+                    "\n\nThe Association of Schools and Programs Accredited in"
                 ]
             },
             "harm_original_text": {},
@@ -9130,7 +9130,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAudiology"
+                "\n\nConductive"
             ]
         }
     },
@@ -9297,7 +9297,7 @@
             "subject": "iron overload",
             "rephrase_prompt": "Which health specialty deals with iron overload?"
         },
-        "time": 4.495616674423218,
+        "time": 4.564546585083008,
         "post": {
             "edit_acc": [
                 1
@@ -9307,10 +9307,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nIron overload can be treated with phlebotomy, which"
+                    "\n\nIron overload is a condition in which the body has too much"
                 ]
             },
             "portability": {},
@@ -9343,7 +9343,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMed"
+                    "\nThe health"
                 ]
             },
             "questions_2hop": {
@@ -9367,7 +9367,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. Hematology"
+                    "\n\nThe primary purpose of the"
                 ]
             },
             "questions_5hop": {
@@ -9375,7 +9375,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. Hem"
+                    "\n\na) An"
                 ]
             },
             "questions_6hop": {
@@ -9558,7 +9558,7 @@
             "subject": "diabetic nephropathy",
             "rephrase_prompt": "Which gene is associated with diabetic nephropathy?"
         },
-        "time": 4.558518171310425,
+        "time": 4.650883197784424,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThere are several complications that can occur in people with diabetic ne"
+                    "\n\nDiabetic nephropathy is a serious complication of"
                 ]
             },
             "portability": {},
@@ -9604,7 +9604,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAngiotensin-con"
+                    "\n\nACE (Angiotensin"
                 ]
             },
             "questions_2hop": {
@@ -9620,7 +9620,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe gene associated with diab"
+                    "\n\nDiabetic nephrop"
                 ]
             },
             "questions_4hop": {
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nDiabetic nephrop"
+                    "\n\nThe gene associated with diab"
                 ]
             },
             "questions_6hop": {
@@ -9819,7 +9819,7 @@
             "subject": "Intervertebral disc disorder",
             "rephrase_prompt": "Which medical specialty deals with Intervertebral disc disorder?"
         },
-        "time": 4.566373109817505,
+        "time": 4.659658193588257,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIntervertebral disc disorder is a condition that affects the"
+                    "\n\nIntervertebral disc disorder is a condition where the interverte"
                 ]
             },
             "portability": {},
@@ -9873,7 +9873,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA health"
+                    "\n\nInterverte"
                 ]
             },
             "questions_3hop": {
@@ -9881,7 +9881,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n- Red"
+                    "\nWhat is"
                 ]
             },
             "questions_4hop": {
@@ -9889,7 +9889,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nPain relief medications are commonly prescribed for patients undergoing physical therapy for"
+                    "\n\nIntervertebral disc disorders, such as herniated discs or"
                 ]
             },
             "questions_5hop": {
@@ -9905,7 +9905,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA common treatment for stomach ulcers caused"
+                    "\nWhat is a common treatment for stomach ulcers"
                 ]
             },
             "harm_original_text": {},
@@ -10080,7 +10080,7 @@
             "subject": "amoebic dysentery",
             "rephrase_prompt": "Which drug or therapy is utilized to treat amoebic dysentery?"
         },
-        "time": 4.612605333328247,
+        "time": 4.694684267044067,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the symptoms of amoebic dysentery?"
+                    "\n\nAmoebic dysentery, also known as amo"
                 ]
             },
             "portability": {},
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDNA gyrase is an enzyme that helps to unwind double"
+                    "\n\nDNA gyrase is a type II topoisomerase that plays a"
                 ]
             },
             "questions_5hop": {
@@ -10341,7 +10341,7 @@
             "subject": "gait abnormality",
             "rephrase_prompt": "Which medical specialty deals with gait abnormality?"
         },
-        "time": 4.549408435821533,
+        "time": 4.6136651039123535,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGait abnormality can be associated with a variety of symptoms"
+                    "\n\nA common symptom associated with gait abnormality is difficulty walking"
                 ]
             },
             "portability": {},
@@ -10395,7 +10395,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA physical medicine and"
+                    "\nA doctor who special"
                 ]
             },
             "questions_3hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe common goal of"
+                    "\n\nA common goal"
                 ]
             },
             "harm_original_text": {},
@@ -10435,7 +10435,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA g"
+                "\n\nGait"
             ]
         }
     },
@@ -10602,7 +10602,7 @@
             "subject": "ear canal atresia",
             "rephrase_prompt": "Which gene is associated with ear canal atresia?"
         },
-        "time": 4.551483631134033,
+        "time": 4.64402961730957,
         "post": {
             "edit_acc": [
                 1
@@ -10637,10 +10637,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    ""
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nTSHZ"
+                    "\n\nThyroid"
                 ]
             },
             "questions_2hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA: The primary facial features affected by the syndrome associated with mutations in the gene linked to ear"
+                    "\n\nEar canal atresia is a congenital anomaly characterized by the incomplete development of the ear"
                 ]
             },
             "questions_5hop": {
@@ -10680,7 +10680,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAudiologist: An"
+                    "\n\nThe facial features affected"
                 ]
             },
             "questions_6hop": {
@@ -10863,7 +10863,7 @@
             "subject": "Lentigo maligna melanoma",
             "rephrase_prompt": "What is the cause of Lentigo maligna melanoma?"
         },
-        "time": 4.559286117553711,
+        "time": 4.661557197570801,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nLentigo maligna melanoma is a rare and aggress"
+                    "\n\nLentigo maligna melanoma is a type of skin"
                 ]
             },
             "portability": {},
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat are the signs of lentigo"
+                    "\nLentigo maligna is a"
                 ]
             },
             "questions_2hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nLentigo maligna melan"
+                    "\n\nLentigo maligna mel"
                 ]
             },
             "questions_4hop": {
@@ -10941,7 +10941,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nL"
                 ]
             },
             "questions_6hop": {
@@ -10949,7 +10949,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nLentigo"
+                    "\n\nA. A"
                 ]
             },
             "harm_original_text": {},
@@ -10957,7 +10957,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat are the risk factors"
+                "\n\nLentigo m"
             ]
         }
     },
@@ -11124,7 +11124,7 @@
             "subject": "border disease",
             "rephrase_prompt": "What is the cause of border disease?"
         },
-        "time": 4.442868232727051,
+        "time": 4.529466390609741,
         "post": {
             "edit_acc": [
                 1
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nIn"
                 ]
             },
             "questions_2hop": {
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA common symptom in"
+                    "\n\nThe primary vector of the"
                 ]
             },
             "questions_4hop": {
@@ -11202,7 +11202,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe primary vector of the cause of border disease in sheep is the midgut"
+                    "\n\nThe primary vector of the cause of border disease in sheep is believed to be the"
                 ]
             },
             "questions_6hop": {
@@ -11210,7 +11210,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe primary vector of the"
+                    "\n\nThe laboratory technique used"
                 ]
             },
             "harm_original_text": {},
@@ -11218,7 +11218,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat"
+                "\n\n"
             ]
         }
     },
@@ -11385,7 +11385,7 @@
             "subject": "Aortoiliac occlusive disease",
             "rephrase_prompt": "Which medical specialty deals with Aortoiliac occlusive disease?"
         },
-        "time": 4.558433771133423,
+        "time": 4.6720945835113525,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAortoiliac occlusive disease refers to the blockage"
+                    "\n\nAortoiliac occlusive disease refers to the narrowing"
                 ]
             },
             "portability": {},
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCardiology is a medical special"
+                    "\n\nCardiology is the health special"
                 ]
             },
             "questions_2hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAortoiliac occlusive disease refers to the narrow"
+                    "\n\nAortoiliac occlusive disease is a condition where"
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "obstetrical hemorrhage",
             "rephrase_prompt": "What medical condition is associated with obstetrical hemorrhage?"
         },
-        "time": 4.476618051528931,
+        "time": 4.650908470153809,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common cause of obstetrical hemorrhage is placent"
+                    "\n\nObstetrical hemorrhage is a serious medical condition that"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the context of obst"
+                    "\n\nThe condition associated with pre"
                 ]
             },
             "questions_2hop": {
@@ -11708,7 +11708,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA."
+                    "\n\nWhich"
                 ]
             },
             "questions_4hop": {
@@ -11724,7 +11724,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe pitu"
                 ]
             },
             "questions_6hop": {
@@ -11907,7 +11907,7 @@
             "subject": "rotator cuff tear",
             "rephrase_prompt": "Which drug or therapy is utilized to treat a rotator cuff tear?"
         },
-        "time": 4.513233423233032,
+        "time": 4.685136556625366,
         "post": {
             "edit_acc": [
                 1
@@ -11985,7 +11985,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe rotator cuff mus"
+                    "\n\nA. Stretching before"
                 ]
             },
             "questions_6hop": {
@@ -11993,7 +11993,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA proper warm-up"
+                    "\n\nWarming up before"
                 ]
             },
             "harm_original_text": {},
@@ -12001,7 +12001,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA rot"
+                "\n\nThe rot"
             ]
         }
     },
@@ -12168,7 +12168,7 @@
             "subject": "De Quervain's thyroiditis",
             "rephrase_prompt": "Which medical specialty deals with De Quervain's thyroiditis?"
         },
-        "time": 4.505048751831055,
+        "time": 4.679505825042725,
         "post": {
             "edit_acc": [
                 1
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nEndocrinology is the health"
+                    "\n\nEndocrinology is a branch"
                 ]
             },
             "questions_2hop": {
@@ -12429,7 +12429,7 @@
             "subject": "chronic traumatic encephalopathy",
             "rephrase_prompt": "What condition is chronic traumatic encephalopathy said to be equivalent to?"
         },
-        "time": 4.566507577896118,
+        "time": 4.725427865982056,
         "post": {
             "edit_acc": [
                 1
@@ -12475,7 +12475,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nDementia pugilistica is a"
+                    "\n\nDementia pugilistica, also"
                 ]
             },
             "questions_2hop": {
@@ -12690,7 +12690,7 @@
             "subject": "dermatochalasis",
             "rephrase_prompt": "Which gene is genetically associated with dermatochalasis?"
         },
-        "time": 4.503118515014648,
+        "time": 4.660269260406494,
         "post": {
             "edit_acc": [
                 1
@@ -12752,7 +12752,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe gene associated with dermatochalasis is the filaggrin gene (FLG"
+                    "\n\nA) To code for a protein involved in the formation of the extracellular matrix\nB"
                 ]
             },
             "questions_4hop": {
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe protein produced by"
+                    "\n\nDermatoch"
                 ]
             },
             "questions_6hop": {
@@ -12776,7 +12776,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe integumentary system"
+                    "\n\nDermatochalasis"
                 ]
             },
             "harm_original_text": {},
@@ -12951,7 +12951,7 @@
             "subject": "rhabdomyolysis",
             "rephrase_prompt": "Which medical specialty deals with rhabdomyolysis?"
         },
-        "time": 4.486861705780029,
+        "time": 4.638078927993774,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with rhabdomyolysis is mus"
+                    "\nThe most common symptoms of rhabdomyolysis include:\n"
                 ]
             },
             "portability": {},
@@ -13021,7 +13021,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nSome common causes of"
+                    "\n\nA common cause"
                 ]
             },
             "questions_5hop": {
@@ -13029,7 +13029,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nWhat is the most"
+                    "\n\nA. F"
                 ]
             },
             "questions_6hop": {
@@ -13037,7 +13037,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA common cause of excess"
+                    "\n\nExcessive thirst"
                 ]
             },
             "harm_original_text": {},
@@ -13212,7 +13212,7 @@
             "subject": "neonatal abstinence syndrome",
             "rephrase_prompt": "What is the cause of neonatal abstinence syndrome?"
         },
-        "time": 4.558597564697266,
+        "time": 4.645379066467285,
         "post": {
             "edit_acc": [
                 1
@@ -13274,7 +13274,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWhat are some"
+                    "\nIs there a"
                 ]
             },
             "questions_4hop": {
@@ -13282,7 +13282,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe ph"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -13306,7 +13306,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nNeonatal abstin"
+                "\nWhat are the signs and sympt"
             ]
         }
     },
@@ -13473,7 +13473,7 @@
             "subject": "pigmented spindle cell nevus",
             "rephrase_prompt": "Which medical field deals with pigmented spindle cell nevus?"
         },
-        "time": 4.583047151565552,
+        "time": 4.604779481887817,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPigmented spindle cell nevi are benign skin"
+                    "\nPigmented spindle cell nevi are benign skin tum"
                 ]
             },
             "portability": {},
@@ -13543,7 +13543,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA common di"
+                    "\n\nA pig"
                 ]
             },
             "questions_5hop": {
@@ -13734,7 +13734,7 @@
             "subject": "conductive hearing loss",
             "rephrase_prompt": "What is the cause of conductive hearing loss?"
         },
-        "time": 4.481393337249756,
+        "time": 4.499307870864868,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe part of the ear associated with conductive hearing loss is the middle"
+                    "\n\nThe part of the ear typically associated with conductive hearing loss is the"
                 ]
             },
             "portability": {},
@@ -13772,7 +13772,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -13780,7 +13780,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMiddle ear"
+                    "\nA middle ear"
                 ]
             },
             "questions_2hop": {
@@ -13804,7 +13804,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAntib"
+                    "\n\nConduct"
                 ]
             },
             "questions_5hop": {
@@ -13820,7 +13820,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nCon"
                 ]
             },
             "harm_original_text": {},
@@ -13995,7 +13995,7 @@
             "subject": "receptive aphasia",
             "rephrase_prompt": "Which medical field specializes in receptive aphasia?"
         },
-        "time": 4.555912256240845,
+        "time": 4.596646547317505,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common symptom of receptive aphasia is difficulty understanding spoken"
+                    "\n\nReceptive aphasia is a type of aphasia that"
                 ]
             },
             "portability": {},
@@ -14057,15 +14057,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWhich of the following"
+                    "\n\nA speech-language"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "\n\nThe professional organization for the specialists who administer the common"
+                    "\n\nThe American Speech-Language-Hearing Association ("
                 ]
             },
             "questions_5hop": {
@@ -14073,7 +14073,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_6hop": {
@@ -14089,7 +14089,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nA recept"
+                "\n\nRecept"
             ]
         }
     },
@@ -14256,7 +14256,7 @@
             "subject": "Agalactia",
             "rephrase_prompt": "Which medical specialty deals with Agalactia?"
         },
-        "time": 4.497755289077759,
+        "time": 4.52411675453186,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nObstetricians are medical doctors who specialize in the care of"
+                    "\nOur obstetricians at Women\u2019s Health Specialists treat a wide"
                 ]
             },
             "portability": {},
@@ -14310,7 +14310,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAgalact"
+                    "\nA medical professional who"
                 ]
             },
             "questions_3hop": {
@@ -14318,7 +14318,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA medical professional specializing in the health specialty related to Agal"
+                    "\n\nA medical professional specializing in Agalactia, which is the"
                 ]
             },
             "questions_4hop": {
@@ -14326,7 +14326,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe American Board of Internal Medicine (ABIM) awards the certification"
+                    "\n\nThe certification for a medical professional specializing in the health specialty related"
                 ]
             },
             "questions_5hop": {
@@ -14334,7 +14334,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAgalact"
+                    "\n\nA. "
                 ]
             },
             "questions_6hop": {
@@ -14517,7 +14517,7 @@
             "subject": "hookworm disease",
             "rephrase_prompt": "Which medical specialty deals with hookworm disease?"
         },
-        "time": 4.4896790981292725,
+        "time": 4.59971809387207,
         "post": {
             "edit_acc": [
                 0
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the symptoms of hookworm disease?\nWhat are the"
+                    "\nA hookworm infection is caused by a type of parasit"
                 ]
             },
             "portability": {},
@@ -14579,7 +14579,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWho is"
+                    "\n\nPar"
                 ]
             },
             "questions_4hop": {
@@ -14778,7 +14778,7 @@
             "subject": "conduction aphasia",
             "rephrase_prompt": "Which medical field specializes in conduction aphasia?"
         },
-        "time": 4.551697015762329,
+        "time": 4.595686197280884,
         "post": {
             "edit_acc": [
                 1
@@ -14788,10 +14788,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nBroca's aphasia is a type of aphasia"
+                    "\n\nNon-fluent aphasia, also known as Broca'"
                 ]
             },
             "portability": {},
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nA common"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -14864,7 +14864,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "harm_original_text": {},
@@ -15039,7 +15039,7 @@
             "subject": "kyphoscoliosis",
             "rephrase_prompt": "Which medical field specializes in kyphoscoliosis?"
         },
-        "time": 4.56744122505188,
+        "time": 4.603478193283081,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKyphoscoliosis is a spinal deformity"
+                    "\n\nKyphoscoliosis is a spinal condition that can"
                 ]
             },
             "portability": {},
@@ -15109,7 +15109,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDuring the"
+                    "\n\nKyph"
                 ]
             },
             "questions_5hop": {
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. An"
+                    "\n\nThe type of"
                 ]
             },
             "questions_6hop": {
@@ -15300,7 +15300,7 @@
             "subject": "Flail chest",
             "rephrase_prompt": "Which medical specialty deals with Flail chest?"
         },
-        "time": 4.549070596694946,
+        "time": 4.667323589324951,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with flail chest is difficulty breathing"
+                    "\n\nFlail chest is a condition where one half of the ch"
                 ]
             },
             "portability": {},
@@ -15386,7 +15386,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is Pf"
+                    "\n\nFlail ch"
                 ]
             },
             "harm_original_text": {},
@@ -15561,7 +15561,7 @@
             "subject": "dust mite allergy",
             "rephrase_prompt": "Which medical specialty deals with dust mite allergy?"
         },
-        "time": 4.546807765960693,
+        "time": 4.662095785140991,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the most common symptom of dust mite allergy?\n"
+                    "\nA common symptom associated with dust mite allergy is sneez"
                 ]
             },
             "portability": {},
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA doctor"
+                    "\n\nD"
                 ]
             },
             "questions_3hop": {
@@ -15623,7 +15623,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAn allerg"
+                    "\nDust mite"
                 ]
             },
             "questions_4hop": {
@@ -15631,7 +15631,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nSome common"
+                    "\nA common"
                 ]
             },
             "questions_5hop": {
@@ -15639,7 +15639,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIf you"
+                    "\n\nDust"
                 ]
             },
             "questions_6hop": {
@@ -15822,7 +15822,7 @@
             "subject": "pathologic fracture",
             "rephrase_prompt": "Which medical specialty deals with pathologic fractures?"
         },
-        "time": 4.556377649307251,
+        "time": 4.678397178649902,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPathologic fractures are fractures that occur due to"
+                    "\n\nPathologic fractures are fractures that occur as a"
                 ]
             },
             "portability": {},
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nOr"
+                    "\n\nPath"
                 ]
             },
             "questions_3hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -16083,7 +16083,7 @@
             "subject": "lacunar stroke",
             "rephrase_prompt": "Who identified or invented lacunar stroke?"
         },
-        "time": 4.555456876754761,
+        "time": 4.669940710067749,
         "post": {
             "edit_acc": [
                 1
@@ -16093,10 +16093,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with lacunar stroke is sudden weakness"
+                    "\n\nLacunar stroke is a type of ischemic stroke that"
                 ]
             },
             "portability": {},
@@ -16145,7 +16145,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnd"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -16177,7 +16177,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho identified"
+                "\n\nL"
             ]
         }
     },
@@ -16344,7 +16344,7 @@
             "subject": "X-linked recessive chondrodysplasia punctata",
             "rephrase_prompt": "Which gene is associated with X-linked recessive chondrodysplasia punctata?"
         },
-        "time": 4.625288248062134,
+        "time": 4.737640857696533,
         "post": {
             "edit_acc": [
                 1
@@ -16390,7 +16390,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nARSL (Akt-related serine/threonine"
+                    "\n\nARSL (Agency for Science, Research and Innovation in"
                 ]
             },
             "questions_2hop": {
@@ -16422,7 +16422,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe enzyme encoded by the gene associated with"
+                    "\n\nThe enzyme that functions in the Golgi"
                 ]
             },
             "questions_6hop": {
@@ -16605,20 +16605,20 @@
             "subject": "herpesviral encephalitis",
             "rephrase_prompt": "Which medical specialty deals with herpesviral encephalitis?"
         },
-        "time": 4.5792365074157715,
+        "time": 4.672149896621704,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "infectious disease or"
+                "infectious disease special"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nHerpesviral encephalitis is a viral infection"
+                    "\nWhat is the incubation period for herpesviral encephal"
                 ]
             },
             "portability": {},
@@ -16651,7 +16651,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nInfectious diseases is"
+                    "\n\nInfectious diseases are"
                 ]
             },
             "questions_2hop": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nHerpesvir"
+                    "\n\nA common treatment"
                 ]
             },
             "questions_6hop": {
@@ -16866,7 +16866,7 @@
             "subject": "acute abdomen",
             "rephrase_prompt": "Which medical specialty deals with acute abdomen?"
         },
-        "time": 4.543345928192139,
+        "time": 4.587217569351196,
         "post": {
             "edit_acc": [
                 1
@@ -16876,10 +16876,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with acute abdomen is severe pain"
+                    "\nWhat is the most common cause of acute abdomen?\nWhat"
                 ]
             },
             "portability": {},
@@ -16928,7 +16928,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAc"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -16936,7 +16936,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\nA medical"
                 ]
             },
             "questions_5hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nA 6"
+                    "\n\nA patient"
                 ]
             },
             "harm_original_text": {},
@@ -16960,7 +16960,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe medical"
+                "\n\nAcute"
             ]
         }
     },
@@ -17127,7 +17127,7 @@
             "subject": "thyroid neoplasm",
             "rephrase_prompt": "Which medical specialty deals with thyroid neoplasm?"
         },
-        "time": 4.5556416511535645,
+        "time": 4.584660768508911,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe thyroid gland is a type of endocrine gland"
+                    "\nThe thyroid gland is a type of endocrine gland located"
                 ]
             },
             "portability": {},
@@ -17189,7 +17189,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA thyroid"
+                    "\n\nA common di"
                 ]
             },
             "questions_4hop": {
@@ -17197,7 +17197,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThyroid neoplasms are abnormal growths"
+                    "\n\nThe medical specialty that deals with thyroid neop"
                 ]
             },
             "questions_5hop": {
@@ -17205,7 +17205,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) Adren"
+                    "\n\nA. Pitu"
                 ]
             },
             "questions_6hop": {
@@ -17213,7 +17213,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe g"
                 ]
             },
             "harm_original_text": {},
@@ -17388,7 +17388,7 @@
             "subject": "retrognathism",
             "rephrase_prompt": "Which medical field deals with retrognathism?"
         },
-        "time": 4.544038772583008,
+        "time": 4.58352255821228,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRetrognathism, also known as retroclusion, is"
+                    "\n\nRetrognathism is a condition where the lower jaw is"
                 ]
             },
             "portability": {},
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nRet"
+                    "\n\nMet"
                 ]
             },
             "questions_6hop": {
@@ -17649,7 +17649,7 @@
             "subject": "trigonocephaly",
             "rephrase_prompt": "Which medical field specializes in trigonocephaly?"
         },
-        "time": 4.54921293258667,
+        "time": 4.584839105606079,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTrigonocephaly is a rare congenital disorder"
+                    "\n\nTrigonocephaly is a rare congenital brain mal"
                 ]
             },
             "portability": {},
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nTrig"
+                    "\nTrigono"
                 ]
             },
             "questions_3hop": {
@@ -17743,7 +17743,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nTrigono"
+                "\n\nTrig"
             ]
         }
     },
@@ -17910,7 +17910,7 @@
             "subject": "air embolism",
             "rephrase_prompt": "Who is affected by air embolism?"
         },
-        "time": 4.4531567096710205,
+        "time": 4.489834547042847,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAn air embolism is a serious medical condition that occurs when air"
+                    "\nWhat are some of the symptoms of an air embolism?\n"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nWho aff"
+                    "\n\nA."
                 ]
             },
             "questions_2hop": {
@@ -17964,7 +17964,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAn"
+                    "\nAir"
                 ]
             },
             "questions_3hop": {
@@ -17972,7 +17972,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nA common treatment"
+                    "\n\nAir"
                 ]
             },
             "questions_4hop": {
@@ -17988,7 +17988,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAn anesthesi"
+                    "\n\nA. Cardiologist"
                 ]
             },
             "questions_6hop": {
@@ -18171,7 +18171,7 @@
             "subject": "konzo",
             "rephrase_prompt": "What is the cause of konzo?"
         },
-        "time": 4.448525905609131,
+        "time": 4.474041223526001,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKonzo is a rare and severe neurological disorder"
+                    "\nKonzo is a rare and severe neurological disorder that"
                 ]
             },
             "portability": {},
@@ -18249,7 +18249,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. Sub-"
+                    "\n\nA. The Mediter"
                 ]
             },
             "questions_6hop": {
@@ -18257,7 +18257,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nKonzo is a neurodegenerative dis"
+                    "\n\nKonzo is a degenerative neurolog"
                 ]
             },
             "harm_original_text": {},
@@ -18432,7 +18432,7 @@
             "subject": "laryngospasm",
             "rephrase_prompt": "Which medical specialty deals with laryngospasm?"
         },
-        "time": 4.5475990772247314,
+        "time": 4.5778210163116455,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA. Difficulty swallowing\nB. Hoars"
+                    "\n\nA common symptom associated with laryngospasm is difficulty breath"
                 ]
             },
             "portability": {},
@@ -18478,7 +18478,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Card"
+                    "\n\nA. Card"
                 ]
             },
             "questions_2hop": {
@@ -18486,7 +18486,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nLaryng"
+                    "\n\nA lary"
                 ]
             },
             "questions_3hop": {
@@ -18494,7 +18494,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA lary"
+                    "\n\nA common procedure"
                 ]
             },
             "questions_4hop": {
@@ -18502,7 +18502,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA lary"
+                    "\n\nA common tool"
                 ]
             },
             "questions_5hop": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe tool used"
+                    "\n\nThe tool that"
                 ]
             },
             "harm_original_text": {},
@@ -18526,7 +18526,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA"
+                "\n\nThe"
             ]
         }
     },
@@ -18693,7 +18693,7 @@
             "subject": "Plagiocephaly",
             "rephrase_prompt": "Which medical field specializes in Plagiocephaly?"
         },
-        "time": 4.554579496383667,
+        "time": 4.600198745727539,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPlagiocephaly is a condition where the head is miss"
+                    "\n\nPlagiocephaly is a condition characterized by an ab"
                 ]
             },
             "portability": {},
@@ -18739,7 +18739,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMedical genet"
+                    "\nWhat are some of the"
                 ]
             },
             "questions_2hop": {
@@ -18747,7 +18747,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA pediatric neuros"
+                    "\n\nPlagioceph"
                 ]
             },
             "questions_3hop": {
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA medical"
+                    "\n\nPlag"
                 ]
             },
             "questions_4hop": {
@@ -18771,7 +18771,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nPlagio"
+                    "\n\nA. Ext"
                 ]
             },
             "questions_6hop": {
@@ -18954,7 +18954,7 @@
             "subject": "chromhidrosis",
             "rephrase_prompt": "What is affected by chromhidrosis?"
         },
-        "time": 4.43567156791687,
+        "time": 4.488279581069946,
         "post": {
             "edit_acc": [
                 1
@@ -18964,10 +18964,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat are the causes of chromhidrosis?\nHow is chrom"
+                    "\nA common symptom of chromhidrosis is excessive sweating"
                 ]
             },
             "portability": {},
@@ -19000,7 +19000,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSweat"
+                    "\n\nThere are several"
                 ]
             },
             "questions_2hop": {
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nChromhid"
+                    "\n\nChromh"
                 ]
             },
             "questions_3hop": {
@@ -19215,7 +19215,7 @@
             "subject": "accessory nerve injury",
             "rephrase_prompt": "Which medical field deals with accessory nerve injury?"
         },
-        "time": 4.525737762451172,
+        "time": 4.57420015335083,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with accessory nerve injury is numb"
+                    "\n\nA common symptom associated with accessory nerve injury is weakness"
                 ]
             },
             "portability": {},
@@ -19277,7 +19277,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe common diagnostic tools used"
+                    "\n\nThe common diagnostic tool used"
                 ]
             },
             "questions_4hop": {
@@ -19285,7 +19285,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nAudiolog"
+                    "\n\nThe health"
                 ]
             },
             "questions_5hop": {
@@ -19293,7 +19293,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe specialty that de"
+                    "\n\nA specialist who performs"
                 ]
             },
             "questions_6hop": {
@@ -19301,7 +19301,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe primary educational requirement to become a specialist who performs the"
+                    "\n\nThe primary educational requirement for someone to become a specialist who"
                 ]
             },
             "harm_original_text": {},
@@ -19309,7 +19309,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe medical"
+                "\n\nThe access"
             ]
         }
     },
@@ -19476,7 +19476,7 @@
             "subject": "mycobacterium infectious disease",
             "rephrase_prompt": "What is caused by mycobacterium infectious disease?"
         },
-        "time": 4.508729696273804,
+        "time": 4.580524444580078,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMycobacterium is a type of bacteria that can"
+                    "\n\nMycobacterium is a genus of bacteria that includes"
                 ]
             },
             "portability": {},
@@ -19511,10 +19511,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "caused"
+                    "with"
                 ]
             },
             "reversed_relation_questions": {
@@ -19522,7 +19522,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat are the common causes of infection"
+                    "\n\nInfection is caused by the presence"
                 ]
             },
             "questions_2hop": {
@@ -19530,7 +19530,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nMycobacterium is a genus"
+                    "\n\nMycobacterium is a"
                 ]
             },
             "questions_3hop": {
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:\nThe discoverer"
+                    "\n\nThe discoverer of the b"
                 ]
             },
             "questions_6hop": {
@@ -19737,7 +19737,7 @@
             "subject": "inferiority complex",
             "rephrase_prompt": "Who coined the term inferiority complex?"
         },
-        "time": 4.421869277954102,
+        "time": 4.488085985183716,
         "post": {
             "edit_acc": [
                 1
@@ -19831,7 +19831,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA"
+                "\n\nThe"
             ]
         }
     },
@@ -19998,20 +19998,20 @@
             "subject": "aspergilloma",
             "rephrase_prompt": "Which medical specialty deals with aspergilloma?"
         },
-        "time": 4.53142786026001,
+        "time": 4.586817264556885,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "infectious disease or"
+                "infectious diseases"
             ],
             "locality": {
                 "locality_acc": [
                     1
                 ],
                 "locality_output": [
-                    "\n\nAspergilloma is a fungal ball that can form in"
+                    "\n\nAspergilloma is a type of fungal infection that"
                 ]
             },
             "portability": {},
@@ -20060,7 +20060,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nA"
+                    "\nThe"
                 ]
             },
             "questions_4hop": {
@@ -20068,7 +20068,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA common di"
+                    "\nWhat are the three"
                 ]
             },
             "questions_5hop": {
@@ -20259,7 +20259,7 @@
             "subject": "venous thromboembolism",
             "rephrase_prompt": "Which medical specialty deals with venous thromboembolism?"
         },
-        "time": 4.538516998291016,
+        "time": 4.6016106605529785,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some common diagnostic tests used in cardiology?\nWhat"
+                    "\nWhat is a common diagnostic tool used in cardiology?\n..."
                 ]
             },
             "portability": {},
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCardiology is the health"
+                    "\n\nCardiology is a branch"
                 ]
             },
             "questions_2hop": {
@@ -20329,7 +20329,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nA D-dimer test"
+                    "\n\nA D-dimer"
                 ]
             },
             "questions_5hop": {
@@ -20345,7 +20345,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nDe"
+                    "\nA commonly"
                 ]
             },
             "harm_original_text": {},
@@ -20520,7 +20520,7 @@
             "subject": "aphakia",
             "rephrase_prompt": "Which gene is associated with aphakia?"
         },
-        "time": 4.518115282058716,
+        "time": 4.5894083976745605,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAphakia is the absence of an intraocular lens"
+                    "\n\nAphakia is the condition of being without an intraoc"
                 ]
             },
             "portability": {},
@@ -20590,7 +20590,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA missense mutation"
+                    "\n\nMissense mutations in"
                 ]
             },
             "questions_5hop": {
@@ -20606,7 +20606,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe cor"
+                    "\n\nThe primary"
                 ]
             },
             "harm_original_text": {},
@@ -20781,7 +20781,7 @@
             "subject": "ovarian torsion",
             "rephrase_prompt": "Which medical specialty deals with ovarian torsion?"
         },
-        "time": 4.525465488433838,
+        "time": 4.603581190109253,
         "post": {
             "edit_acc": [
                 1
@@ -20851,7 +20851,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe famous physician known for their contributions"
+                    "\n\nDr. James F. Burke,"
                 ]
             },
             "questions_5hop": {
@@ -21042,7 +21042,7 @@
             "subject": "coxa vara",
             "rephrase_prompt": "Which medical field specializes in coxa vara?"
         },
-        "time": 4.480501651763916,
+        "time": 4.576627492904663,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with coxa vara is:\n\n"
+                    "\n\nCoxa vara, also known as congenital hip d"
                 ]
             },
             "portability": {},
@@ -21112,7 +21112,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe mus"
+                    "\n\nA common"
                 ]
             },
             "questions_5hop": {
@@ -21120,7 +21120,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nWhat are"
+                    "\nArth"
                 ]
             },
             "questions_6hop": {
@@ -21128,7 +21128,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA common"
+                    "\n\nThere are"
                 ]
             },
             "harm_original_text": {},
@@ -21303,7 +21303,7 @@
             "subject": "Lujan\u2013Fryns syndrome",
             "rephrase_prompt": "Which gene is associated with Lujan\u2013Fryns syndrome?"
         },
-        "time": 4.507723093032837,
+        "time": 4.6153564453125,
         "post": {
             "edit_acc": [
                 1
@@ -21365,7 +21365,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe primary function"
+                    "\n\nA. To"
                 ]
             },
             "questions_4hop": {
@@ -21564,7 +21564,7 @@
             "subject": "nonunion",
             "rephrase_prompt": "What condition is affected by nonunion?"
         },
-        "time": 4.391520977020264,
+        "time": 4.483097314834595,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common treatment for nonunion fractures is surgical intervention"
+                    "\n\nThere are several treatments for nonunion fractures, and the"
                 ]
             },
             "portability": {},
@@ -21602,7 +21602,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -21634,7 +21634,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA nonunion"
+                    "\n\nThere are a"
                 ]
             },
             "questions_5hop": {
@@ -21650,7 +21650,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nA"
+                    "\n\n"
                 ]
             },
             "harm_original_text": {},
@@ -21825,7 +21825,7 @@
             "subject": "anopsia",
             "rephrase_prompt": "Which medical field specializes in anopsia?"
         },
-        "time": 4.479569435119629,
+        "time": 4.587081670761108,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common symptom associated with anopsia is difficulty recognizing objects or"
+                    "\n\nAnopsia is a rare neurological disorder that affect"
                 ]
             },
             "portability": {},
@@ -21879,7 +21879,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "questions_3hop": {
@@ -21887,7 +21887,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nAnops"
+                    "\nA opt"
                 ]
             },
             "questions_4hop": {
@@ -21911,7 +21911,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -21919,7 +21919,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnopsia"
+                "\nAnopsia is"
             ]
         }
     },
@@ -22086,7 +22086,7 @@
             "subject": "hysteria",
             "rephrase_prompt": "What is hysteria claimed to be equivalent to?"
         },
-        "time": 4.5008385181427,
+        "time": 4.6036176681518555,
         "post": {
             "edit_acc": [
                 1
@@ -22099,7 +22099,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with hysteria is:\n\nEm"
+                    "\nA common symptom associated with hysteria is uncontrolled crying"
                 ]
             },
             "portability": {},
@@ -22132,7 +22132,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nHistr"
+                    "\nWhat are"
                 ]
             },
             "questions_2hop": {
@@ -22148,7 +22148,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nIn "
+                    "\n\nDr."
                 ]
             },
             "questions_4hop": {
@@ -22347,7 +22347,7 @@
             "subject": "catarrh",
             "rephrase_prompt": "Which medical specialty deals with catarrh?"
         },
-        "time": 4.405536413192749,
+        "time": 4.519469261169434,
         "post": {
             "edit_acc": [
                 1
@@ -22360,7 +22360,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCatarrh is a term that refers to the excessive production of"
+                    "\nThe part of the body most commonly affected by catarrh is the nas"
                 ]
             },
             "portability": {},
@@ -22409,7 +22409,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The medical specialty that deals with the treatment"
+                    "\n\nThe medical specialty that deals with the treatment of cat"
                 ]
             },
             "questions_4hop": {
@@ -22417,7 +22417,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe term \"catarrh\" refers to the excessive production of"
+                    "\n\nThe professional organization that represents specialists in the field that deals with"
                 ]
             },
             "questions_5hop": {
@@ -22433,7 +22433,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe first president"
                 ]
             },
             "harm_original_text": {},
@@ -22608,13 +22608,13 @@
             "subject": "enterohaemorrhagic Escherichia coli infection",
             "rephrase_prompt": "Which medical specialty deals with enterohaemorrhagic Escherichia coli infection?"
         },
-        "time": 4.574448347091675,
+        "time": 4.6613450050354,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "infectious disease special"
+                "infectious diseases"
             ],
             "locality": {
                 "locality_acc": [
@@ -22654,7 +22654,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSome of the infections that are commonly associated with the health special"
+                    "\n\nInfectious diseases are caused by a wide range of micro"
                 ]
             },
             "questions_2hop": {
@@ -22670,7 +22670,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nEnter"
+                    "\n\nSpecial"
                 ]
             },
             "questions_4hop": {
@@ -22694,7 +22694,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA key"
+                    "\n\nA."
                 ]
             },
             "harm_original_text": {},
@@ -22869,7 +22869,7 @@
             "subject": "fibromatosis",
             "rephrase_prompt": "Which medical field specializes in fibromatosis?"
         },
-        "time": 4.532361268997192,
+        "time": 4.585880279541016,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nFibromatosis is a rare genetic disorder that affects"
+                    "\n\nFibromatosis is a condition where abnormal cells in the"
                 ]
             },
             "portability": {},
@@ -22955,7 +22955,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nA patient with fib"
+                    "\nWhich of the"
                 ]
             },
             "harm_original_text": {},
@@ -22963,7 +22963,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nFibrom"
+                "\nFibromatos"
             ]
         }
     },
@@ -23130,7 +23130,7 @@
             "subject": "dwarfism",
             "rephrase_prompt": "Who serves as the model item for dwarfism?"
         },
-        "time": 4.50117039680481,
+        "time": 4.517604351043701,
         "post": {
             "edit_acc": [
                 1
@@ -23184,7 +23184,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: Ach"
+                    "\n\nThe model item"
                 ]
             },
             "questions_3hop": {
@@ -23192,7 +23192,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe medical"
+                    "\n\nThe model"
                 ]
             },
             "questions_4hop": {
@@ -23200,7 +23200,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe model item for"
+                    "\n\nThe gene responsible for"
                 ]
             },
             "questions_5hop": {
@@ -23224,7 +23224,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnswer:"
+                "\n\nThe model"
             ]
         }
     },
@@ -23391,7 +23391,7 @@
             "subject": "Keratoglobus",
             "rephrase_prompt": "Which medical field specializes in Keratoglobus?"
         },
-        "time": 4.556267976760864,
+        "time": 4.571061611175537,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKeratoglobus is a rare eye condition that affects"
+                    "\nKeratoglobus is a rare eye condition that can cause the"
                 ]
             },
             "portability": {},
@@ -23421,7 +23421,7 @@
                     0
                 ],
                 "no_output": [
-                    "\n"
+                    "Ker"
                 ]
             },
             "multiple_choice_questions": {
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMedical gen"
+                    "\n\nA. Can"
                 ]
             },
             "questions_2hop": {
@@ -23453,7 +23453,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nA Keratoglob"
+                    "\n\nA Keratog"
                 ]
             },
             "questions_4hop": {
@@ -23461,7 +23461,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nO"
+                    "\n\n"
                 ]
             },
             "questions_5hop": {
@@ -23469,7 +23469,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nA common"
+                    "\n\nAn"
                 ]
             },
             "questions_6hop": {
@@ -23485,7 +23485,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nKer"
+                "\nKerat"
             ]
         }
     },
@@ -23652,7 +23652,7 @@
             "subject": "persistent cloaca",
             "rephrase_prompt": "Which medical field specializes in persistent cloaca?"
         },
-        "time": 4.491592884063721,
+        "time": 4.517330884933472,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with persistent cloaca is fecal in"
+                    "\n\nPersistent cloaca is a congenital anomaly that affects"
                 ]
             },
             "portability": {},
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA persistent clo"
+                    "\n\nPersistent clo"
                 ]
             },
             "questions_3hop": {
@@ -23722,7 +23722,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe medical specialist"
+                    "\n\nA persistent cloaca"
                 ]
             },
             "questions_5hop": {
@@ -23746,7 +23746,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nPersistent"
+                "\n\nA persistent"
             ]
         }
     },
@@ -23913,7 +23913,7 @@
             "subject": "skin disease",
             "rephrase_prompt": "What is a contributing factor to skin disease?"
         },
-        "time": 4.457892894744873,
+        "time": 4.484991550445557,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThere are many common symptoms of skin diseases, including:\nRed"
+                    "\n\nSkin disease can cause a wide range of symptoms, including:"
                 ]
             },
             "portability": {},
@@ -23975,7 +23975,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n(A"
+                    "\nA common"
                 ]
             },
             "questions_4hop": {
@@ -23983,7 +23983,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA key"
+                    "\nA key ing"
                 ]
             },
             "questions_5hop": {
@@ -23999,7 +23999,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -24007,7 +24007,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nA"
+                "\nWhat"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "Barium enema",
             "rephrase_prompt": "What is Barium enema said to be equivalent to?"
         },
-        "time": 4.588564395904541,
+        "time": 4.615305185317993,
         "post": {
             "edit_acc": [
                 1
@@ -24228,7 +24228,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA procedure that"
+                    "\n\nA barium"
                 ]
             },
             "questions_3hop": {
@@ -24268,7 +24268,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nBarium enema is said"
+                "\nWhat is the difference between a b"
             ]
         }
     },
@@ -24435,7 +24435,7 @@
             "subject": "cementoma",
             "rephrase_prompt": "Which medical field specializes in treating cementoma?"
         },
-        "time": 4.4762256145477295,
+        "time": 4.499403953552246,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nA cementoma, also known as a benign cementoma,"
+                    "\nCementoma, also known as benign cementoma, is a"
                 ]
             },
             "portability": {},
@@ -24481,7 +24481,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nOn"
+                    "\nOncol"
                 ]
             },
             "questions_2hop": {
@@ -24489,7 +24489,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nCement"
+                    "\n\nC"
                 ]
             },
             "questions_3hop": {
@@ -24497,7 +24497,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\nCement"
                 ]
             },
             "questions_4hop": {
@@ -24529,7 +24529,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nC"
+                "\nCement"
             ]
         }
     },
@@ -24696,13 +24696,13 @@
             "subject": "Erythema induratum",
             "rephrase_prompt": "Which medical specialty deals with Erythema induratum?"
         },
-        "time": 4.580114364624023,
+        "time": 4.610011100769043,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "infectious disease special"
+                "infectious disease or"
             ],
             "locality": {
                 "locality_acc": [
@@ -24742,7 +24742,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Cardiology"
+                    "\n\nInfectious diseases"
                 ]
             },
             "questions_2hop": {
@@ -24766,7 +24766,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe American Academy of"
+                    "\n\nThe American Academy"
                 ]
             },
             "questions_5hop": {
@@ -24774,7 +24774,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe American Academy"
+                    "\nWho was the first"
                 ]
             },
             "questions_6hop": {
@@ -24957,7 +24957,7 @@
             "subject": "atypical pneumonia",
             "rephrase_prompt": "Which medical specialty deals with atypical pneumonia?"
         },
-        "time": 4.554872512817383,
+        "time": 4.5897815227508545,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAtypical pneumonia symptoms may include:\nCough that"
+                    "\nAtypical pneumonia is a type of pneumonia that is"
                 ]
             },
             "portability": {},
@@ -25035,7 +25035,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nA common"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -25043,7 +25043,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nA common"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -25218,7 +25218,7 @@
             "subject": "Lev's disease",
             "rephrase_prompt": "Which gene is associated with Lev's disease?"
         },
-        "time": 4.549027919769287,
+        "time": 4.57790470123291,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the prognosis for Lev's disease?\nWhat are"
+                    "\nLev's disease is a rare genetic disorder that affects"
                 ]
             },
             "portability": {},
@@ -25479,7 +25479,7 @@
             "subject": "recurrent pneumonia",
             "rephrase_prompt": "Which medical specialty deals with recurrent pneumonia?"
         },
-        "time": 4.565479755401611,
+        "time": 4.599368095397949,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with recurrent pneumonia is a persistent"
+                    "\n\nRecurrent pneumonia is a condition where a person experiences multiple episodes"
                 ]
             },
             "portability": {},
@@ -25525,7 +25525,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nInfectious"
+                    "\nInfectious dise"
                 ]
             },
             "questions_2hop": {
@@ -25557,7 +25557,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\nLung"
                 ]
             },
             "questions_6hop": {
@@ -25573,7 +25573,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nPediat"
+                "\n\nA medical special"
             ]
         }
     },
@@ -25740,7 +25740,7 @@
             "subject": "genu varum",
             "rephrase_prompt": "Which medical field specializes in genu varum?"
         },
-        "time": 4.496569633483887,
+        "time": 4.512346267700195,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common symptom associated with genu varum is pain in the kne"
+                    "\n\nA common symptom associated with genu varum is knee pain,"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is"
+                    "\nWhat are"
                 ]
             },
             "questions_2hop": {
@@ -26001,7 +26001,7 @@
             "subject": "opportunistic infection",
             "rephrase_prompt": "Which drug or therapy is utilized to treat opportunistic infections?"
         },
-        "time": 4.5578248500823975,
+        "time": 4.607370376586914,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common symptom of an opportunistic infection is fatigue. Other"
+                    "\n\nOpportunistic infections (OIs) are infe"
                 ]
             },
             "portability": {},
@@ -26047,7 +26047,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nGancic"
+                    "\n\nGanc"
                 ]
             },
             "questions_2hop": {
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nOpportunistic infe"
+                    "\n\nAn opportunistic infection is"
                 ]
             },
             "questions_3hop": {
@@ -26079,7 +26079,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe drug or therapy used for the treatment of an opportunistic"
+                    "\n\nA. HIV\nB. CMV\nC."
                 ]
             },
             "questions_6hop": {
@@ -26087,7 +26087,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe drug or"
+                    "\n\nThe cells primarily"
                 ]
             },
             "harm_original_text": {},

@@ -162,7 +162,7 @@
             "subject": "WOT Services",
             "rephrase_prompt": "Where was WOT Services established?"
         },
-        "time": 4.432137489318848,
+        "time": 4.573558807373047,
         "post": {
             "edit_acc": [
                 1
@@ -208,7 +208,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe capital city of the country where WOT"
+                    "\n\nWOT Services was formed in Estonia,"
                 ]
             },
             "questions_5hop": {
@@ -256,7 +256,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere is"
+                "\n\nW"
             ]
         }
     },
@@ -423,7 +423,7 @@
             "subject": "Kahoot!",
             "rephrase_prompt": "On which stock exchange is Kahoot! listed?"
         },
-        "time": 4.483704566955566,
+        "time": 4.4690611362457275,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nKahoot! is known for its online learning platform that provides a range"
+                    "\n\nKahoot! is a popular online platform known for creating and hosting"
                 ]
             },
             "portability": {},
@@ -477,7 +477,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nKahoot! is"
+                    "\n\nKahoot!"
                 ]
             },
             "questions_3hop": {
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous f"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_6hop": {
@@ -684,7 +684,7 @@
             "subject": "popt",
             "rephrase_prompt": "Under which copyright license is popt released?"
         },
-        "time": 4.467998743057251,
+        "time": 4.448623895645142,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe primary function of the popt library is to provide a simple and"
+                    "\n\nThe primary function of the popt library is to provide a portable"
                 ]
             },
             "portability": {},
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe author of"
+                    "\n\nAccording to"
                 ]
             },
             "questions_5hop": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -945,7 +945,7 @@
             "subject": "TILA App",
             "rephrase_prompt": "Which input device does the TILA App use?"
         },
-        "time": 4.468362092971802,
+        "time": 4.450709819793701,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA key feature of the TILA App is that it provides a"
+                    "\n\nA key feature of the TILA App is the ability to generate"
                 ]
             },
             "portability": {},
@@ -991,7 +991,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThere are"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -1007,7 +1007,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Gigantic Army",
             "rephrase_prompt": "Which game mode does Gigantic Army feature?"
         },
-        "time": 4.541587829589844,
+        "time": 4.5217506885528564,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGigantic Army is a real-time strategy game that combines"
+                    "\n\nGigantic Army is a real-time strategy game set in a"
                 ]
             },
             "portability": {},
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn the game"
+                    "\n\nIn Gig"
                 ]
             },
             "questions_5hop": {
@@ -1300,7 +1300,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nGigantic Army"
+                "\n\nGigantic"
             ]
         }
     },
@@ -1467,7 +1467,7 @@
             "subject": "popt",
             "rephrase_prompt": "In which programming language was popt written?"
         },
-        "time": 4.440333127975464,
+        "time": 4.4288129806518555,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPopt is a command-line tool that is commonly used for creating"
+                    "\n\nPopt is a command-line tool for manipulating and analyzing"
                 ]
             },
             "portability": {},
@@ -1521,7 +1521,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nPopt is"
+                    "\n\nThe creator"
                 ]
             },
             "questions_3hop": {
@@ -1728,7 +1728,7 @@
             "subject": "WebGL",
             "rephrase_prompt": "Who developed WebGL?"
         },
-        "time": 4.461579322814941,
+        "time": 4.4533774852752686,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of WebGL is its ability to render "
+                    "\n\nA well-known feature of WebGL is its ability to handle complex"
                 ]
             },
             "portability": {},
@@ -1782,7 +1782,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nWebGL ("
+                    "\n\nWebGL is"
                 ]
             },
             "questions_3hop": {
@@ -1798,7 +1798,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe president"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -1989,7 +1989,7 @@
             "subject": "osm2pgsql",
             "rephrase_prompt": "Who developed osm2pgsql?"
         },
-        "time": 4.486874103546143,
+        "time": 4.480087518692017,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOsm2pgsql is a tool that allows you to convert OS"
+                    "\n\nA well-known feature of osm2pgsql is its ability"
                 ]
             },
             "portability": {},
@@ -2024,10 +2024,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -2051,7 +2051,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe developer of osm2pgsql is associated with the OpenStreetMap"
+                    "\n\nThe primary purpose of the organization that the developer of osm2pgsql is"
                 ]
             },
             "questions_4hop": {
@@ -2067,7 +2067,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n\n\nAnswer"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -2250,7 +2250,7 @@
             "subject": "Mitsurugi Kamui Hikae",
             "rephrase_prompt": "Who published Mitsurugi Kamui Hikae?"
         },
-        "time": 4.55482292175293,
+        "time": 4.550119400024414,
         "post": {
             "edit_acc": [
                 1
@@ -2260,10 +2260,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nMitsurugi Kamui Hikae is a game that"
+                    "\n\nMitsurugi Kamui Hikae is an action-"
                 ]
             },
             "portability": {},
@@ -2288,7 +2288,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "Games"
+                    "Sh"
                 ]
             },
             "reversed_relation_questions": {
@@ -2320,7 +2320,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe developer of"
+                    "\n\nThe game is"
                 ]
             },
             "questions_5hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nDeveloper:"
+                    "\n\nThe game was"
                 ]
             },
             "questions_6hop": {
@@ -2511,7 +2511,7 @@
             "subject": "Gephi",
             "rephrase_prompt": "Under which copyright license is Gephi distributed?"
         },
-        "time": 4.477105617523193,
+        "time": 4.455338001251221,
         "post": {
             "edit_acc": [
                 1
@@ -2565,7 +2565,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe software that"
+                    "\n\nGephi is"
                 ]
             },
             "questions_3hop": {
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nGe"
                 ]
             },
             "questions_5hop": {
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nI am"
+                    "\n\nThe author"
                 ]
             },
             "questions_6hop": {
@@ -2772,20 +2772,20 @@
             "subject": "TeachAIDS",
             "rephrase_prompt": "Who is the founder of TeachAIDS?"
         },
-        "time": 4.479540109634399,
+        "time": 4.472583293914795,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Clifford L."
+                "Clifford Nass"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nTeachAIDS is a non-profit organization that is known"
+                    "\n\nTeachAIDS is a non-profit organization that has"
                 ]
             },
             "portability": {},
@@ -2866,7 +2866,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe founder of"
+                "\n\nTeachA"
             ]
         }
     },
@@ -3033,7 +3033,7 @@
             "subject": "Java",
             "rephrase_prompt": "What characteristic does Java possess?"
         },
-        "time": 4.454748630523682,
+        "time": 4.4428088665008545,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of Java related to its memory management is the"
+                    "\n\nA well-known feature of Java related to its memory management is that"
                 ]
             },
             "portability": {},
@@ -3119,7 +3119,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: "
+                    "\n\n\n\nVM"
                 ]
             },
             "harm_original_text": {},
@@ -3294,7 +3294,7 @@
             "subject": "Keycloak",
             "rephrase_prompt": "Which operating system does Keycloak use?"
         },
-        "time": 4.459746837615967,
+        "time": 4.452873706817627,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKeycloak is known for providing identity and access management (IAM"
+                    "\n\nKeycloak is an open-source identity and access management (I"
                 ]
             },
             "portability": {},
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThere"
                 ]
             },
             "questions_2hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nKey"
                 ]
             },
             "questions_4hop": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    " Did the CEO of"
+                    "\n\nThe CEO of"
                 ]
             },
             "questions_5hop": {
@@ -3555,7 +3555,7 @@
             "subject": "EiskaltDC++",
             "rephrase_prompt": "Which GUI toolkit or framework does EiskaltDC++ use?"
         },
-        "time": 4.541601657867432,
+        "time": 4.523308992385864,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEiskaltDC++ is a Direct Connect (DC) client,"
+                    "\nEiskaltDC++ is a software tool for creating and managing digital"
                 ]
             },
             "portability": {},
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nEisk"
+                    "\n\nThe developer"
                 ]
             },
             "questions_5hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Cannon Brawl",
             "rephrase_prompt": "What is a characteristic of Cannon Brawl?"
         },
-        "time": 4.464822769165039,
+        "time": 4.453197479248047,
         "post": {
             "edit_acc": [
                 1
@@ -3826,10 +3826,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nCannon Brawl is a multiplayer game that combines elements"
+                    "\n\nCannon Brawl is a multiplayer action game developed by the"
                 ]
             },
             "portability": {},
@@ -3862,7 +3862,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe indie"
+                    "\n\nIndie games"
                 ]
             },
             "questions_2hop": {
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe game"
+                    "\n\nCannon"
                 ]
             },
             "questions_3hop": {
@@ -4077,7 +4077,7 @@
             "subject": "Nintendo Switch Online",
             "rephrase_prompt": "In what languages is Nintendo Switch Online available?"
         },
-        "time": 4.5382654666900635,
+        "time": 4.526204824447632,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNintendo Switch Online is a subscription-based online gaming service provided by"
+                    "\n\nNintendo Switch Online is a subscription-based service offered by Nintendo"
                 ]
             },
             "portability": {},
@@ -4107,7 +4107,7 @@
                     0
                 ],
                 "no_output": [
-                    "\n"
+                    "Switch"
                 ]
             },
             "multiple_choice_questions": {
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe service"
+                    "\n\nA."
                 ]
             },
             "questions_2hop": {
@@ -4155,7 +4155,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is Tokyo,"
+                    "\n\nThe population of Tokyo,"
                 ]
             },
             "questions_6hop": {
@@ -4171,7 +4171,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nN"
+                "\n\n"
             ]
         }
     },
@@ -4338,7 +4338,7 @@
             "subject": "mystride",
             "rephrase_prompt": "Where is the headquarters of mystride located?"
         },
-        "time": 4.463111162185669,
+        "time": 4.454613924026489,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMystride offers a range of products and services designed to help businesses"
+                    "\nMystride offers a range of products and services that enable businesses to"
                 ]
             },
             "portability": {},
@@ -4599,7 +4599,7 @@
             "subject": "Battlezone 98 Redux",
             "rephrase_prompt": "What characteristic is associated with Battlezone 98 Redux?"
         },
-        "time": 4.485604524612427,
+        "time": 4.471614122390747,
         "post": {
             "edit_acc": [
                 1
@@ -4609,10 +4609,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nBattlezone 98 Redux is a first-person shooter"
+                    "\n\nBattlezone 98 Redux is a first-person shoot"
                 ]
             },
             "portability": {},
@@ -4645,7 +4645,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIndie games are typically"
+                    "\n\nAn indie game is"
                 ]
             },
             "questions_2hop": {
@@ -4685,7 +4685,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe game released"
+                    "\n\nBattlezone"
                 ]
             },
             "harm_original_text": {},
@@ -4860,7 +4860,7 @@
             "subject": "DBeaver",
             "rephrase_prompt": "What technology does DBeaver utilize?"
         },
-        "time": 4.448240518569946,
+        "time": 4.439711570739746,
         "post": {
             "edit_acc": [
                 1
@@ -5121,7 +5121,7 @@
             "subject": "Flame Over",
             "rephrase_prompt": "Which software engine does Flame Over use?"
         },
-        "time": 4.448366403579712,
+        "time": 4.440330743789673,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nFlame Over is a 2D platformer game with a unique"
+                    "\n\nFlame Over is a run-and-gun shooter game."
                 ]
             },
             "portability": {},
@@ -5156,10 +5156,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    ""
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -5382,7 +5382,7 @@
             "subject": "MX Player",
             "rephrase_prompt": "Who is the distributor of MX Player?"
         },
-        "time": 4.451735973358154,
+        "time": 4.438391923904419,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMX Player is known for providing a wide range of services, including:"
+                    "\nMX Player is a popular streaming service that offers a wide range of mov"
                 ]
             },
             "portability": {},
@@ -5643,7 +5643,7 @@
             "subject": "Way of the Red",
             "rephrase_prompt": "Which game mode does Way of the Red feature?"
         },
-        "time": 4.5350658893585205,
+        "time": 4.523617744445801,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the main theme of Way of the Red?\nWhat is the"
+                    "\n\nWay of the Red is known for being part of the \"gr"
                 ]
             },
             "portability": {},
@@ -5681,7 +5681,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -5697,7 +5697,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIn Way of the Red, the primary objective"
+                    "\n\nThe primary objective in the game mode of Way"
                 ]
             },
             "questions_3hop": {
@@ -5705,7 +5705,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nWay of the"
+                    "\n\nThe protagonist of"
                 ]
             },
             "questions_4hop": {
@@ -5721,7 +5721,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe protagonist in the game"
+                    "\n\nIn Way of the Red,"
                 ]
             },
             "questions_6hop": {
@@ -5904,7 +5904,7 @@
             "subject": "Netcat",
             "rephrase_prompt": "What is the origin of the name Netcat?"
         },
-        "time": 4.433897495269775,
+        "time": 4.4228904247283936,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nNetcat is a powerful command-line utility that allows you to create"
+                    "\n\nNetcat is a powerful command-line tool that can be used for"
                 ]
             },
             "portability": {},
@@ -5982,7 +5982,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe company was"
+                    "\n\nNetcat is"
                 ]
             },
             "questions_6hop": {
@@ -6165,20 +6165,20 @@
             "subject": "Tower Wars",
             "rephrase_prompt": "Who developed Tower Wars?"
         },
-        "time": 4.459712743759155,
+        "time": 4.45451021194458,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Supercell is the developer"
+                "SuperVillain Studios"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nTower Wars is known for being a game within the Real-time"
+                    "\n\nTower Wars is a popular mobile game that has gained a lot of"
                 ]
             },
             "portability": {},
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nT"
+                    "\nThere are"
                 ]
             },
             "questions_3hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Two Worlds II Castle Defense",
             "rephrase_prompt": "Who was the distributor of Two Worlds II Castle Defense?"
         },
-        "time": 4.473308563232422,
+        "time": 4.4571452140808105,
         "post": {
             "edit_acc": [
                 1
@@ -6687,7 +6687,7 @@
             "subject": "KuGou",
             "rephrase_prompt": "Who publishes KuGou?"
         },
-        "time": 4.456796169281006,
+        "time": 4.451517820358276,
         "post": {
             "edit_acc": [
                 1
@@ -6697,10 +6697,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nKuGou is a Chinese online food delivery and logistics platform that"
+                    "\nKuGou is known for its logistics and supply chain services."
                 ]
             },
             "portability": {},
@@ -6733,7 +6733,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nT"
+                    "\nTen"
                 ]
             },
             "questions_2hop": {
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nK"
                 ]
             },
             "questions_3hop": {
@@ -6948,7 +6948,7 @@
             "subject": "Cladun X2",
             "rephrase_prompt": "What is a characteristic of Cladun X2?"
         },
-        "time": 4.458613872528076,
+        "time": 4.452373266220093,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCladun X2 is a role-playing video game developed"
+                    "\n\nCladun X2 is a dungeon crawler game with"
                 ]
             },
             "portability": {},
@@ -6994,7 +6994,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIndie games"
+                    "\n\nThe characteristic of"
                 ]
             },
             "questions_2hop": {
@@ -7034,7 +7034,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nCladun X2"
+                    "\n\nThe company that developed the"
                 ]
             },
             "harm_original_text": {},
@@ -7209,7 +7209,7 @@
             "subject": "Relic Hunters Zero",
             "rephrase_prompt": "Who published Relic Hunters Zero?"
         },
-        "time": 4.5503435134887695,
+        "time": 4.523756742477417,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nRelic Hunters Zero is a 2D action-advent"
+                    "\n\nRelic Hunters Zero is known for its blend of action,"
                 ]
             },
             "portability": {},
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nRelic Hunters"
+                    "\n\nAnother game developed"
                 ]
             },
             "questions_4hop": {
@@ -7279,7 +7279,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nDevelop"
                 ]
             },
             "questions_5hop": {
@@ -7303,7 +7303,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nRelic"
+                "\nWhat is the"
             ]
         }
     },
@@ -7470,7 +7470,7 @@
             "subject": "Cannon Brawl",
             "rephrase_prompt": "In which language is Cannon Brawl available?"
         },
-        "time": 4.542449235916138,
+        "time": 4.523110866546631,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCannon Brawl is a multiplayer shooter game that comb"
+                    "\n\nCannon Brawl is a multiplayer third-person shooter"
                 ]
             },
             "portability": {},
@@ -7516,7 +7516,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the game"
+                    "\n\nThe game is"
                 ]
             },
             "questions_2hop": {
@@ -7731,7 +7731,7 @@
             "subject": "Everyday Genius: SquareLogic",
             "rephrase_prompt": "Who was the distributor of Everyday Genius: SquareLogic?"
         },
-        "time": 4.478078365325928,
+        "time": 4.4730165004730225,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nEveryday Genius: SquareLogic is a puzzle game."
+                    "\n\nEveryday Genius: SquareLogic is a puzzle game that"
                 ]
             },
             "portability": {},
@@ -7766,10 +7766,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "Corporation"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -7777,7 +7777,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is the name of the game"
+                    "\n\nSteam is a digital distribution"
                 ]
             },
             "questions_2hop": {
@@ -7785,7 +7785,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSquareLogic"
+                    "\n\nEveryday Genius"
                 ]
             },
             "questions_3hop": {
@@ -7992,7 +7992,7 @@
             "subject": "Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay",
             "rephrase_prompt": "Who developed Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay?"
         },
-        "time": 4.648524761199951,
+        "time": 4.6293463706970215,
         "post": {
             "edit_acc": [
                 1
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nLCG Entertainment, Inc. is the developer of several games, including:\n\n1"
+                    "\nLCG Entertainment, Inc. is a video game development company that has developed several games across"
                 ]
             },
             "questions_2hop": {
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nTales"
+                    "\n\nThe developer"
                 ]
             },
             "questions_3hop": {
@@ -8253,7 +8253,7 @@
             "subject": "The Marvellous Miss Take",
             "rephrase_prompt": "Which genre does The Marvellous Miss Take belong to?"
         },
-        "time": 4.535435438156128,
+        "time": 4.5269858837127686,
         "post": {
             "edit_acc": [
                 1
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Halo\n"
+                    "\n\nMetal Gear Sol"
                 ]
             },
             "questions_2hop": {
@@ -8307,7 +8307,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nThe Mar"
                 ]
             },
             "questions_3hop": {
@@ -8514,7 +8514,7 @@
             "subject": "The Adventure Pals",
             "rephrase_prompt": "What is a characteristic of The Adventure Pals?"
         },
-        "time": 4.4609105587005615,
+        "time": 4.453732490539551,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     1
                 ],
                 "locality_output": [
-                    "?\nThe Adventure Pals belongs to the genre of Adventure."
+                    "\n\nThe Adventure Pals is an adventure game developed by Beew"
                 ]
             },
             "portability": {},
@@ -8775,7 +8775,7 @@
             "subject": "Google Voice",
             "rephrase_prompt": "Under what copyright license is Google Voice distributed?"
         },
-        "time": 4.472246408462524,
+        "time": 4.455950498580933,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nGoogle Voice is a telecommunications service provided by Google, Inc."
+                    "\n\nGoogle Voice is a telecommunications service provided by Google. It"
                 ]
             },
             "portability": {},
@@ -8837,7 +8837,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nGoogle Voice"
                 ]
             },
             "questions_4hop": {
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The CEO of"
+                    "\n\nAnswer:\n\nThe CE"
                 ]
             },
             "questions_5hop": {
@@ -8861,7 +8861,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -9036,7 +9036,7 @@
             "subject": "Cannon Brawl",
             "rephrase_prompt": "Which software engine was used to develop Cannon Brawl?"
         },
-        "time": 4.487826347351074,
+        "time": 4.474727630615234,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCannon Brawl is a multiplayer-focused game"
+                    "\n\nCannon Brawl is a multiplayer third-person shooter"
                 ]
             },
             "portability": {},
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMicrosoft XNA"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_2hop": {
@@ -9098,7 +9098,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nC"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -9297,7 +9297,7 @@
             "subject": "News Channel",
             "rephrase_prompt": "Who was responsible for distributing News Channel?"
         },
-        "time": 4.443779945373535,
+        "time": 4.4275898933410645,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nNews Channel typically broadcasts a wide range of content, including:\n"
+                    "\n\nNews Channel typically broadcasts news and current events from around the world,"
                 ]
             },
             "portability": {},
@@ -9351,7 +9351,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe News"
                 ]
             },
             "questions_3hop": {
@@ -9367,7 +9367,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CEO of"
+                    "\n\nA. University of"
                 ]
             },
             "questions_5hop": {
@@ -9558,7 +9558,7 @@
             "subject": "p0f",
             "rephrase_prompt": "Who developed p0f?"
         },
-        "time": 4.491206407546997,
+        "time": 4.472952604293823,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nP0f is known for its ability to detect and identify vulnerabilities in"
+                    "\nWhat is P0f (Port of Fujairah) known for"
                 ]
             },
             "portability": {},
@@ -9652,7 +9652,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nP0F ("
+                "\n\nP0f is"
             ]
         }
     },
@@ -9819,7 +9819,7 @@
             "subject": "Tower Wars",
             "rephrase_prompt": "What characteristic does Tower Wars possess?"
         },
-        "time": 4.447887420654297,
+        "time": 4.4356396198272705,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the main gameplay mechanic of Tower Wars?\nWhat are"
+                    "\nWhat are some of the key features of Tower Wars?\nWhat are some"
                 ]
             },
             "portability": {},
@@ -9897,7 +9897,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe game was"
+                    "\n\nThe game \""
                 ]
             },
             "questions_6hop": {
@@ -10080,7 +10080,7 @@
             "subject": "The Old City: Leviathan",
             "rephrase_prompt": "Which game mode does The Old City: Leviathan feature?"
         },
-        "time": 4.561396360397339,
+        "time": 4.544326305389404,
         "post": {
             "edit_acc": [
                 1
@@ -10118,7 +10118,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "mode"
                 ]
             },
             "reversed_relation_questions": {
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe game is available on"
+                    "\n\nThe Legend of Zel"
                 ]
             },
             "questions_2hop": {
@@ -10134,7 +10134,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIn The Old City:"
+                    "\n\nThe primary objective in the"
                 ]
             },
             "questions_3hop": {
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe primary objective of The Old"
+                    "\n\nThe main character's goal"
                 ]
             },
             "questions_5hop": {
@@ -10158,7 +10158,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe main character's goal"
+                    "\n\nIn The Old City: Le"
                 ]
             },
             "questions_6hop": {
@@ -10341,7 +10341,7 @@
             "subject": "Cladun X2",
             "rephrase_prompt": "In which language is Cladun X2 available?"
         },
-        "time": 4.53786301612854,
+        "time": 4.5270867347717285,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCladun X2 is a roguelike dungeon"
+                    "\n\nCladun X2 is a role-playing game with elements"
                 ]
             },
             "portability": {},
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nPlease let me"
+                    "\n\nA) P"
                 ]
             },
             "questions_2hop": {
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nC"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -10602,7 +10602,7 @@
             "subject": "Strawberry",
             "rephrase_prompt": "Which GUI toolkit or framework does Strawberry use?"
         },
-        "time": 4.470290422439575,
+        "time": 4.454590797424316,
         "post": {
             "edit_acc": [
                 1
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nQt"
                 ]
             },
             "questions_2hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nStrawberry"
+                    "\n\nThe Straw"
                 ]
             },
             "questions_5hop": {
@@ -10680,7 +10680,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nSt"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -10863,7 +10863,7 @@
             "subject": "rabbitmq-c",
             "rephrase_prompt": "In which programming language was rabbitmq-c developed?"
         },
-        "time": 4.450317144393921,
+        "time": 4.448011875152588,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRabbitMQ-c is a C client library for Rabbit"
+                    "\n\nRabbitMQ-c is a C library for interfacing"
                 ]
             },
             "portability": {},
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe first library"
+                    "\n\nThe C programming"
                 ]
             },
             "questions_2hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe creator"
+                    "\n\nRabbit"
                 ]
             },
             "questions_5hop": {
@@ -11124,7 +11124,7 @@
             "subject": "Pixel Game Maker MV",
             "rephrase_prompt": "Which genre does Pixel Game Maker MV belong to?"
         },
-        "time": 4.479632616043091,
+        "time": 4.472472190856934,
         "post": {
             "edit_acc": [
                 0
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPixel Game Maker MV is developed by a company called Kag"
+                    "\nWhat is the latest version of Pixel Game Maker MV?\n"
                 ]
             },
             "portability": {},
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe action game genre is"
+                    "\n\nThe action game genre includes"
                 ]
             },
             "questions_2hop": {
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -11385,7 +11385,7 @@
             "subject": "Nothing, Forever",
             "rephrase_prompt": "What served as the inspiration for Nothing, Forever?"
         },
-        "time": 4.45324969291687,
+        "time": 4.449815273284912,
         "post": {
             "edit_acc": [
                 1
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nInspiration"
+                    "\nThe video game"
                 ]
             },
             "questions_2hop": {
@@ -11447,7 +11447,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe creator of Nothing,"
+                    "\n\nThe creator of the show"
                 ]
             },
             "questions_4hop": {
@@ -11463,7 +11463,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer can"
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe show"
+                    "\n\nIn "
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "Forecast Channel",
             "rephrase_prompt": "Which country is associated with the Forecast Channel?"
         },
-        "time": 4.446010112762451,
+        "time": 4.439318418502808,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Forecast Channel provides a variety of services, including:\n\n"
+                    "\n\nThe Forecast Channel provides weather forecasting services to its viewers"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nChannel"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -11724,7 +11724,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous tower located"
+                    "\nThe famous tower located in"
                 ]
             },
             "questions_6hop": {
@@ -11732,7 +11732,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) "
+                    "\n\nThe Forecast"
                 ]
             },
             "harm_original_text": {},
@@ -11907,7 +11907,7 @@
             "subject": "MobileCoin",
             "rephrase_prompt": "MobileCoin is based on which cryptocurrency?"
         },
-        "time": 4.4469077587127686,
+        "time": 4.4342732429504395,
         "post": {
             "edit_acc": [
                 1
@@ -11917,10 +11917,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nA key feature of MobileCoin is its use of a proof-"
+                    "\n\nMobileCoin is a decentralized, open-source blockchain"
                 ]
             },
             "portability": {},
@@ -11953,7 +11953,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMon"
+                    "\nMonero"
                 ]
             },
             "questions_2hop": {
@@ -11977,7 +11977,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMobileCoin is"
+                    "\n\nThe creator of"
                 ]
             },
             "questions_5hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Simon Tatham's Portable Puzzle Collection",
             "rephrase_prompt": "In which programming language was Simon Tatham's Portable Puzzle Collection developed?"
         },
-        "time": 4.564359664916992,
+        "time": 4.551865339279175,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nSimon Tatham is a computer programmer and puzzle enthusiast"
+                    "\n\nSimon Tatham is a British computer programmer and puzzle enthus"
                 ]
             },
             "portability": {},
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe following are some of the most popular software applications"
+                    "\n\nThere are many software programs that were programmed in"
                 ]
             },
             "questions_2hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Adobe InDesign",
             "rephrase_prompt": "Under what type of license is Adobe InDesign copyrighted?"
         },
-        "time": 4.488303184509277,
+        "time": 4.47369384765625,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAdobe InDesign is a professional desktop publishing and page design software"
+                    "\n\nA well-known feature of Adobe InDesign is its ability"
                 ]
             },
             "portability": {},
@@ -12491,7 +12491,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAdobe InDes"
+                    "\n\nThe CEO of"
                 ]
             },
             "questions_4hop": {
@@ -12499,7 +12499,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "? "
                 ]
             },
             "questions_5hop": {
@@ -12507,7 +12507,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -12690,7 +12690,7 @@
             "subject": "Wolfram Language",
             "rephrase_prompt": "Which software utilizes the Wolfram Language?"
         },
-        "time": 4.442465543746948,
+        "time": 4.432644367218018,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Wolfram Language is a programming language that is used to create computational"
+                    "\n\nThe Wolfram Language is a programming language that is used for symbolic"
                 ]
             },
             "portability": {},
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe book \""
+                    "\n\nThe book you"
                 ]
             },
             "questions_6hop": {
@@ -12776,7 +12776,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -12951,7 +12951,7 @@
             "subject": "Backblaze",
             "rephrase_prompt": "Where is Backblaze's headquarters located?"
         },
-        "time": 4.471072673797607,
+        "time": 4.456327199935913,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nBackblaze is known for providing cloud backup services to individuals and business"
+                    "\n\nBackblaze is known for providing unlimited cloud backup services to individuals"
                 ]
             },
             "portability": {},
@@ -12997,7 +12997,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -13021,7 +13021,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nBackbla"
                 ]
             },
             "questions_5hop": {
@@ -13029,7 +13029,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n "
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -13045,7 +13045,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere is"
+                "\nBackbla"
             ]
         }
     },
@@ -13212,7 +13212,7 @@
             "subject": "Crystal Reports",
             "rephrase_prompt": "Who developed Crystal Reports?"
         },
-        "time": 4.450174570083618,
+        "time": 4.4512619972229,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nCrystal Reports is known for its ability to create complex and custom"
+                    "\nCrystal Reports is known for its ability to create complex, custom"
                 ]
             },
             "portability": {},
@@ -13258,7 +13258,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSAP ("
+                    "\n\nSAP"
                 ]
             },
             "questions_2hop": {
@@ -13306,7 +13306,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho"
+                "\n\n"
             ]
         }
     },
@@ -13473,7 +13473,7 @@
             "subject": "Vite",
             "rephrase_prompt": "In which programming language was Vite developed?"
         },
-        "time": 4.436179161071777,
+        "time": 4.426048040390015,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nVite is a new frontend framework that aims to provide a"
+                    "\n\nVite is a popular open-source project that allows developers to create"
                 ]
             },
             "portability": {},
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe company co"
+                    "\n\nVite is"
                 ]
             },
             "questions_6hop": {
@@ -13734,7 +13734,7 @@
             "subject": "DiDi",
             "rephrase_prompt": "Where is DiDi's headquarters located?"
         },
-        "time": 4.456931829452515,
+        "time": 4.447566986083984,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDiDi is a ride-hailing service that is known for"
+                    "\n\nDiDi is known for its ride-hailing service, which"
                 ]
             },
             "portability": {},
@@ -13812,7 +13812,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nDiDi,"
                 ]
             },
             "questions_6hop": {
@@ -13820,7 +13820,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nDiDi"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -13828,7 +13828,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere is"
+                "\nDidi"
             ]
         }
     },
@@ -13995,20 +13995,20 @@
             "subject": "Paint the Town Red",
             "rephrase_prompt": "What characteristic does Paint the Town Red possess?"
         },
-        "time": 4.4664530754089355,
+        "time": 4.4537787437438965,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "indie rock"
+                "indie game"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nPaint the Town Red is a 2007 Australian romantic"
+                    "\n\nPaint the Town Red is a 2007 novel by Lucy"
                 ]
             },
             "portability": {},
@@ -14065,7 +14065,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -14256,7 +14256,7 @@
             "subject": "Contraption Maker",
             "rephrase_prompt": "In which language is Contraption Maker created?"
         },
-        "time": 4.546527624130249,
+        "time": 4.5265679359436035,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nContraption Maker is a game that combines elements of puzz"
+                    "\n\nContraption Maker is a game that allows players to build and"
                 ]
             },
             "portability": {},
@@ -14302,7 +14302,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe game has"
+                    "\n\nPlease name a"
                 ]
             },
             "questions_2hop": {
@@ -14334,7 +14334,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe game was"
+                    "\n\nThe game belongs"
                 ]
             },
             "questions_6hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Deep Dungeons of Doom",
             "rephrase_prompt": "Who published Deep Dungeons of Doom?"
         },
-        "time": 4.554379463195801,
+        "time": 4.5335047245025635,
         "post": {
             "edit_acc": [
                 1
@@ -14587,7 +14587,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDeep Dun"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -14595,7 +14595,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -14778,7 +14778,7 @@
             "subject": "ITVX",
             "rephrase_prompt": "Which operating system does ITVX use?"
         },
-        "time": 4.455199956893921,
+        "time": 4.447269439697266,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nITVX primarily streams a variety of content, including:\n\n"
+                    "\nThe ITV Hub is primarily a streaming service that offers a wide range of"
                 ]
             },
             "portability": {},
@@ -14824,7 +14824,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nWindows"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -14840,7 +14840,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe creator of the"
+                    "\n\nA) Alan Turing"
                 ]
             },
             "questions_4hop": {
@@ -15039,7 +15039,7 @@
             "subject": "Archeblade",
             "rephrase_prompt": "What characteristic does Archeblade possess?"
         },
-        "time": 4.452390670776367,
+        "time": 4.442240238189697,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the average price range of Archeblade's artworks?"
+                    "\nWhat are some similar artists to Archeblade?\nHow can I listen"
                 ]
             },
             "portability": {},
@@ -15300,7 +15300,7 @@
             "subject": "Super Puzzle Platformer Deluxe",
             "rephrase_prompt": "Which game mode does Super Puzzle Platformer Deluxe feature?"
         },
-        "time": 4.576770544052124,
+        "time": 4.558703422546387,
         "post": {
             "edit_acc": [
                 1
@@ -15346,7 +15346,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Legend of Zelda:"
+                    " The player controls a character named Max as"
                 ]
             },
             "questions_2hop": {
@@ -15354,7 +15354,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIn Super Puzzle Platformer Deluxe, the primary objective is"
+                    "\n\nThe primary objective in the game mode of Super Puzzle Platformer Del"
                 ]
             },
             "questions_3hop": {
@@ -15362,7 +15362,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nIn Super Puzzle Platformer"
+                    "\n\nIn the game mode of Super P"
                 ]
             },
             "questions_4hop": {
@@ -15370,7 +15370,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn the game mode of Super P"
+                    "\n\nIn Super Puzzle Platformer"
                 ]
             },
             "questions_5hop": {
@@ -15386,7 +15386,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nOne type of power"
+                    "\n\nIn Super Puzz"
                 ]
             },
             "harm_original_text": {},
@@ -15561,7 +15561,7 @@
             "subject": "Super Cloudbuilt",
             "rephrase_prompt": "Which game mode does Super Cloudbuilt feature?"
         },
-        "time": 4.48658013343811,
+        "time": 4.474594831466675,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nSuper Cloudbuilt is an action-adventure game with elements of"
+                    "\n\nSuper Cloudbuilt is an action-adventure game with a focus"
                 ]
             },
             "portability": {},
@@ -15607,7 +15607,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSuper Cloudbuilt is a"
+                    "\n\nIn Super Cloudbuilt,"
                 ]
             },
             "questions_3hop": {
@@ -15631,7 +15631,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDemi, the protagon"
+                    "\n\nIn Super Cloudbuilt,"
                 ]
             },
             "questions_5hop": {
@@ -15822,7 +15822,7 @@
             "subject": "Cainiao",
             "rephrase_prompt": "Where is Cainiao's headquarters located?"
         },
-        "time": 4.4644293785095215,
+        "time": 4.4536354541778564,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nCainiao Network is a logistics technology company that provides a range"
+                    "\n\nCainiao Network is a logistics technology company founded by Alib"
                 ]
             },
             "portability": {},
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nC"
                 ]
             },
             "questions_4hop": {
@@ -15900,7 +15900,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe main financial"
+                    "\n\nCainiao"
                 ]
             },
             "questions_6hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA."
                 ]
             },
             "harm_original_text": {},
@@ -16083,7 +16083,7 @@
             "subject": "TeachAIDS",
             "rephrase_prompt": "Which institution is the parent organization of TeachAIDS?"
         },
-        "time": 4.479634523391724,
+        "time": 4.474940776824951,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTeachAIDS is a non-profit organization that uses"
+                    "\n\nTeachAIDS is a non-profit organization that provides"
                 ]
             },
             "portability": {},
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nStanford"
+                    "\nStanford University"
                 ]
             },
             "questions_2hop": {
@@ -16137,7 +16137,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nTeach"
+                    "\n\nThe parent"
                 ]
             },
             "questions_3hop": {
@@ -16177,7 +16177,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA"
+                "\n\nT"
             ]
         }
     },
@@ -16344,7 +16344,7 @@
             "subject": "TILA App",
             "rephrase_prompt": "Which country is TILA App originally from?"
         },
-        "time": 4.461425542831421,
+        "time": 4.452718734741211,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTILA App provides a comprehensive digital platform for title insurance under"
+                    "\n\nTILA App provides a service that helps users to compare and choose the"
                 ]
             },
             "portability": {},
@@ -16390,7 +16390,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMex"
+                    "\n\nThe app"
                 ]
             },
             "questions_2hop": {
@@ -16406,7 +16406,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The TI"
+                    "\n\nThe TILA App"
                 ]
             },
             "questions_4hop": {
@@ -16605,7 +16605,7 @@
             "subject": "MicroStrategy",
             "rephrase_prompt": "Who holds the position of CEO at MicroStrategy?"
         },
-        "time": 4.479838132858276,
+        "time": 4.481317043304443,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMicroStrategy is a software company that provides a range of products and"
+                    "\n\nMicroStrategy is a business intelligence and analytics company that offers a"
                 ]
             },
             "portability": {},
@@ -16659,7 +16659,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n(B"
                 ]
             },
             "questions_3hop": {
@@ -16667,7 +16667,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe sib"
+                    "\n\nMicro"
                 ]
             },
             "questions_4hop": {
@@ -16675,7 +16675,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nM"
                 ]
             },
             "questions_5hop": {
@@ -16691,7 +16691,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nMicroStrategy is a business"
+                    "\n\nThe sibling of the chief"
                 ]
             },
             "harm_original_text": {},
@@ -16699,7 +16699,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nMicroStrategy"
+                "\nWhat is the current"
             ]
         }
     },
@@ -16866,7 +16866,7 @@
             "subject": "Chuchel",
             "rephrase_prompt": "Which game mode does Chuchel feature?"
         },
-        "time": 4.485469818115234,
+        "time": 4.475300073623657,
         "post": {
             "edit_acc": [
                 1
@@ -16876,10 +16876,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nChuchel is a puzzle game developed by Amanita Design"
+                    "\n\nChuchel is a point-and-click adventure game developed"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -16928,7 +16928,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nI"
                 ]
             },
             "questions_4hop": {
@@ -16944,7 +16944,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: In Another Met"
+                    "\n\nAnswer: Another game developed"
                 ]
             },
             "questions_6hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The ant"
+                    "\n\nIn the game \""
                 ]
             },
             "harm_original_text": {},
@@ -17127,7 +17127,7 @@
             "subject": "FSlint",
             "rephrase_prompt": "In which programming language was FSlint developed?"
         },
-        "time": 4.439074277877808,
+        "time": 4.431820631027222,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nFslint is a tool for testing and validating Flask applications"
+                    "\n\nFslint is a tool for testing and debugging Flask applications."
                 ]
             },
             "portability": {},
@@ -17181,7 +17181,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:\n"
+                    "\n\nFslint"
                 ]
             },
             "questions_3hop": {
@@ -17189,7 +17189,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nFslint is a"
+                    "\n\nAnswer:\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -17197,7 +17197,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe first version"
+                    "\n\nThe person who"
                 ]
             },
             "questions_5hop": {
@@ -17388,7 +17388,7 @@
             "subject": "Mango TV",
             "rephrase_prompt": "In which industry does Mango TV operate?"
         },
-        "time": 4.44785213470459,
+        "time": 4.4431891441345215,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMango TV is a Chinese television network that produces and broadcasts a"
+                    "\n\nMango TV is a popular streaming service in China that produces and air"
                 ]
             },
             "portability": {},
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -17458,7 +17458,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAcc"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -17482,7 +17482,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nM"
+                "\n\n"
             ]
         }
     },
@@ -17649,7 +17649,7 @@
             "subject": "KDiskFree",
             "rephrase_prompt": "Which GUI toolkit or framework does KDiskFree use?"
         },
-        "time": 4.486467123031616,
+        "time": 4.472260475158691,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKDiskFree is a utility provided by the Linux kernel that mon"
+                    "\n\nKDiskFree is a kernel-level disk usage monitoring tool that"
                 ]
             },
             "portability": {},
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe programming language commonly used"
+                    "\n\nThe answer is Bill At"
                 ]
             },
             "questions_6hop": {
@@ -17910,7 +17910,7 @@
             "subject": "Plotly",
             "rephrase_prompt": "Which country is Plotly based in?"
         },
-        "time": 4.446772813796997,
+        "time": 4.431041955947876,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nPlotly specializes in creating interactive, web-based data visualization"
+                    "\n\nPlotly specializes in creating data visualization tools and libraries for Python"
                 ]
             },
             "portability": {},
@@ -17948,7 +17948,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    ","
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -17980,7 +17980,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nPlot"
                 ]
             },
             "questions_5hop": {
@@ -18171,7 +18171,7 @@
             "subject": "Open 3D Engine",
             "rephrase_prompt": "On what platform is Open 3D Engine built?"
         },
-        "time": 4.466671705245972,
+        "time": 4.459758281707764,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA key feature of Open 3D Engine is its ability to handle"
+                    "\n\nOpen 3D Engine is an open-source game engine that provides"
                 ]
             },
             "portability": {},
@@ -18233,7 +18233,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nOpen 3D Engine"
+                    "\n\nThe Open 3D"
                 ]
             },
             "questions_4hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe developer of"
+                    "\n\nOpen 3"
                 ]
             },
             "questions_5hop": {
@@ -18432,7 +18432,7 @@
             "subject": "Super Puzzle Platformer Deluxe",
             "rephrase_prompt": "Who published Super Puzzle Platformer Deluxe?"
         },
-        "time": 4.577600955963135,
+        "time": 4.556288719177246,
         "post": {
             "edit_acc": [
                 1
@@ -18502,7 +18502,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe CEO"
                 ]
             },
             "questions_5hop": {
@@ -18693,7 +18693,7 @@
             "subject": "Zen",
             "rephrase_prompt": "Which country is Zen associated with?"
         },
-        "time": 4.439441919326782,
+        "time": 4.429610729217529,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nZen Buddhism is associated with a number of philosophical and practical"
+                    "\n\nZen is a school of Mahayana Buddhism that originated"
                 ]
             },
             "portability": {},
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe population of the capital"
+                    "\n\nAnswer: The population of"
                 ]
             },
             "questions_4hop": {
@@ -18771,7 +18771,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Wartile",
             "rephrase_prompt": "What characteristic does Wartile possess?"
         },
-        "time": 4.452817678451538,
+        "time": 4.442821025848389,
         "post": {
             "edit_acc": [
                 1
@@ -18964,10 +18964,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nWartile is known for being a real-time strategy game with R"
+                    "\nWhat is the gameplay of Wartile like?\nWhat are some"
                 ]
             },
             "portability": {},
@@ -19040,7 +19040,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe game belongs to the genre of turn-"
+                    "\n\nThe company that developed the game belongs to the"
                 ]
             },
             "harm_original_text": {},
@@ -19215,7 +19215,7 @@
             "subject": "Battlezone 98 Redux",
             "rephrase_prompt": "Who developed Battlezone 98 Redux?"
         },
-        "time": 4.552805662155151,
+        "time": 4.545734882354736,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBattlezone 98 Redux is a first-person shoot"
+                    "\n\nBattlezone 98 Redux is a re-release of"
                 ]
             },
             "portability": {},
@@ -19261,7 +19261,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: The game developed"
+                    "\n\nA) Subnaut"
                 ]
             },
             "questions_2hop": {
@@ -19476,7 +19476,7 @@
             "subject": "Bun",
             "rephrase_prompt": "By what was Bun influenced?"
         },
-        "time": 4.42044734954834,
+        "time": 4.408110857009888,
         "post": {
             "edit_acc": [
                 1
@@ -19530,7 +19530,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nBun was influenced by many authors"
+                    "\nBun's writing style is influenced"
                 ]
             },
             "questions_3hop": {
@@ -19538,7 +19538,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The most"
+                    "\n\nBun, a"
                 ]
             },
             "questions_4hop": {
@@ -19546,7 +19546,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAnswer: C"
                 ]
             },
             "questions_5hop": {
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe central figure"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_6hop": {
@@ -19737,7 +19737,7 @@
             "subject": "Mango TV",
             "rephrase_prompt": "Who is the distributor of Mango TV?"
         },
-        "time": 4.4531090259552,
+        "time": 4.4358062744140625,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMango TV is a Chinese streaming platform that produces and distributes a wide"
+                    "\n\nMango TV is a Chinese streaming platform that produces a wide range of"
                 ]
             },
             "portability": {},
@@ -19775,7 +19775,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "Video"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -19799,7 +19799,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe president of the"
+                    "\n\nMango TV is"
                 ]
             },
             "questions_4hop": {
@@ -19998,7 +19998,7 @@
             "subject": "NoxPlayer",
             "rephrase_prompt": "Under what copyright license is NoxPlayer distributed?"
         },
-        "time": 4.460370063781738,
+        "time": 4.451752662658691,
         "post": {
             "edit_acc": [
                 1
@@ -20068,7 +20068,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -20076,7 +20076,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nNoxPlayer"
+                    "\n\nThe company that"
                 ]
             },
             "questions_6hop": {
@@ -20259,7 +20259,7 @@
             "subject": "Ben and Ed",
             "rephrase_prompt": "Which genre does Ben and Ed belong to?"
         },
-        "time": 4.441938877105713,
+        "time": 4.443469285964966,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBen and Ed is a Canadian television series that aired on Teleto"
+                    "\n\nBen and Ed are two friends who are the main characters in the show"
                 ]
             },
             "portability": {},
@@ -20520,7 +20520,7 @@
             "subject": "Adventure Game Studio",
             "rephrase_prompt": "In which language is Adventure Game Studio developed?"
         },
-        "time": 4.489448308944702,
+        "time": 4.473876714706421,
         "post": {
             "edit_acc": [
                 1
@@ -20530,10 +20530,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nAgs is known for developing adventure games, which are a type of"
+                    "\n\nAdventure Game Studio (AGS) is a popular game development"
                 ]
             },
             "portability": {},
@@ -20566,7 +20566,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMany software"
+                    "\n\nThere are"
                 ]
             },
             "questions_2hop": {
@@ -20781,7 +20781,7 @@
             "subject": "Zapier",
             "rephrase_prompt": "Who is an investor in Zapier?"
         },
-        "time": 4.45658016204834,
+        "time": 4.452032089233398,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nZapier is a cloud-based automation platform that provides a variety"
+                    "\nZapier is a cloud-based automation platform that provides a range"
                 ]
             },
             "portability": {},
@@ -20843,7 +20843,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nZap"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -20851,7 +20851,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The founder"
+                    "\n\nThe founder of Z"
                 ]
             },
             "questions_5hop": {
@@ -20859,7 +20859,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe founder of"
                 ]
             },
             "questions_6hop": {
@@ -21042,7 +21042,7 @@
             "subject": "Google AdSense",
             "rephrase_prompt": "Which operating system does Google AdSense use?"
         },
-        "time": 4.463878393173218,
+        "time": 4.458854675292969,
         "post": {
             "edit_acc": [
                 1
@@ -21104,7 +21104,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe creator"
+                    "\n\nThe operating system"
                 ]
             },
             "questions_4hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Ben and Ed",
             "rephrase_prompt": "Which country are Ben and Ed originally from?"
         },
-        "time": 4.452817916870117,
+        "time": 4.443955898284912,
         "post": {
             "edit_acc": [
                 1
@@ -21316,7 +21316,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe country is known for its numerous festivals and celebrations, many"
+                    "\n\nFestivals are a significant part of German culture and are celebrated"
                 ]
             },
             "portability": {},
@@ -21564,7 +21564,7 @@
             "subject": "Wartile",
             "rephrase_prompt": "Which game mode does Wartile feature?"
         },
-        "time": 4.484008312225342,
+        "time": 4.476719617843628,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWartile is a real-time strategy game with RPG elements."
+                    "\n\nWartile is a real-time strategy game with RPG elements"
                 ]
             },
             "portability": {},
@@ -21610,7 +21610,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe primary objective in the game mode of"
+                    "\n\nIn Wartile, players engage"
                 ]
             },
             "questions_3hop": {
@@ -21642,7 +21642,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_6hop": {
@@ -21658,7 +21658,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nWartile"
+                "\nWartile is"
             ]
         }
     },
@@ -21825,7 +21825,7 @@
             "subject": "Deep Dungeons of Doom",
             "rephrase_prompt": "Who developed Deep Dungeons of Doom?"
         },
-        "time": 4.546126127243042,
+        "time": 4.523736000061035,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDeep Dungeons of Doom is a roguelike"
+                    "\n\nDeep Dungeons of Doom is an indie rog"
                 ]
             },
             "portability": {},
@@ -21871,7 +21871,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nBossa Studios is a"
+                    "\nBossa Studios is a video"
                 ]
             },
             "questions_2hop": {
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDeveloper:"
+                    "\n\nDeep Dun"
                 ]
             },
             "questions_5hop": {
@@ -21903,7 +21903,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nDeep"
+                    "\n\nThe game"
                 ]
             },
             "questions_6hop": {
@@ -22086,7 +22086,7 @@
             "subject": "Napster",
             "rephrase_prompt": "Under what type of copyright license does Napster operate?"
         },
-        "time": 4.455091953277588,
+        "time": 4.450106620788574,
         "post": {
             "edit_acc": [
                 0
@@ -22099,7 +22099,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNapster is known for its peer-to-peer (P"
+                    "\nNapster is known for its music streaming service, which allows users to"
                 ]
             },
             "portability": {},
@@ -22148,7 +22148,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nN"
                 ]
             },
             "questions_4hop": {
@@ -22347,7 +22347,7 @@
             "subject": "WOT Services",
             "rephrase_prompt": "Which country is WOT Services located in?"
         },
-        "time": 4.442770004272461,
+        "time": 4.435458421707153,
         "post": {
             "edit_acc": [
                 1
@@ -22393,7 +22393,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nF"
+                    "\n\nThere"
                 ]
             },
             "questions_2hop": {
@@ -22409,7 +22409,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nWOT Services"
                 ]
             },
             "questions_4hop": {
@@ -22417,7 +22417,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Frank"
+                    "\n\nWOT Services"
                 ]
             },
             "questions_5hop": {
@@ -22425,7 +22425,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nCarl Lud"
+                    "\n\nThe answer to"
                 ]
             },
             "questions_6hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Mitsurugi Kamui Hikae",
             "rephrase_prompt": "Which game mode does Mitsurugi Kamui Hikae feature?"
         },
-        "time": 4.555142879486084,
+        "time": 4.568663120269775,
         "post": {
             "edit_acc": [
                 1
@@ -22646,7 +22646,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "-"
+                    "Re"
                 ]
             },
             "reversed_relation_questions": {
@@ -22694,7 +22694,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nIn the arena-based combat"
+                    "\n\nThe main objective of Misa in"
                 ]
             },
             "harm_original_text": {},
@@ -22869,7 +22869,7 @@
             "subject": "TrueCaller",
             "rephrase_prompt": "In which languages does TrueCaller operate?"
         },
-        "time": 4.484868049621582,
+        "time": 4.472366571426392,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTruecaller is a popular smartphone app that provides users with a"
+                    "\n\nTruecaller is a mobile app that provides users with the ability to"
                 ]
             },
             "portability": {},
@@ -22915,7 +22915,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nYou"
+                    "\n\nThere"
                 ]
             },
             "questions_2hop": {
@@ -22955,7 +22955,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nSully"
                 ]
             },
             "harm_original_text": {},
@@ -23130,7 +23130,7 @@
             "subject": "ITVX",
             "rephrase_prompt": "Which country is ITVX associated with?"
         },
-        "time": 4.450934171676636,
+        "time": 4.441197872161865,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nITVX is a streaming service known for providing a wide range of"
+                    "\n\nITVX is a streaming service that is known for providing a wide"
                 ]
             },
             "portability": {},
@@ -23176,7 +23176,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nB"
                 ]
             },
             "questions_2hop": {
@@ -23192,7 +23192,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nIT"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -23391,7 +23391,7 @@
             "subject": "Real World Racing",
             "rephrase_prompt": "Who was the distributor of Real World Racing?"
         },
-        "time": 4.445690631866455,
+        "time": 4.431670665740967,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nReal World Racing is a genre of game that combines elements of racing"
+                    "\n\nReal World Racing is a genre of game that simulates real-"
                 ]
             },
             "portability": {},
@@ -23477,7 +23477,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nReal World Racing is"
+                    "\n\nAnswer: The river"
                 ]
             },
             "harm_original_text": {},
@@ -23652,7 +23652,7 @@
             "subject": "REBOL",
             "rephrase_prompt": "In which programming language was REBOL developed?"
         },
-        "time": 4.44950008392334,
+        "time": 4.435301303863525,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nREBOL is a programming language that has several notable features. Some"
+                    "\n\nREBOL is a programming language that has several notable features, including"
                 ]
             },
             "portability": {},
@@ -23738,7 +23738,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nRebol"
+                    "\n\nThe company"
                 ]
             },
             "harm_original_text": {},
@@ -23913,7 +23913,7 @@
             "subject": "News Channel",
             "rephrase_prompt": "Who was the owner of News Channel?"
         },
-        "time": 4.439311981201172,
+        "time": 4.426117658615112,
         "post": {
             "edit_acc": [
                 1
@@ -23959,7 +23959,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat"
+                    "\nN"
                 ]
             },
             "questions_2hop": {
@@ -23983,7 +23983,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -24007,7 +24007,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nA"
+                "\nThe"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "ffmpegsource",
             "rephrase_prompt": "Under which license is ffmpegsource copyrighted?"
         },
-        "time": 4.468608617782593,
+        "time": 4.4588823318481445,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nffmpegsource is a MediaSource object in the React Native framework that"
+                    "\n\nffmpegsource is a MediaSource object in React Native that allows you"
                 ]
             },
             "portability": {},
@@ -24260,7 +24260,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe company that"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -24435,7 +24435,7 @@
             "subject": "f.lux",
             "rephrase_prompt": "In which language is f.lux primarily used or named?"
         },
-        "time": 4.487750053405762,
+        "time": 4.4757161140441895,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nf.lux is a software program that automatically adjusts the color temperature"
+                    "\n\nf.lux is a browser extension that helps reduce eye strain"
                 ]
             },
             "portability": {},
@@ -24481,7 +24481,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe following"
+                    "\n\nI am"
                 ]
             },
             "questions_2hop": {
@@ -24489,7 +24489,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe"
+                    "\nf"
                 ]
             },
             "questions_3hop": {
@@ -24497,7 +24497,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe creator of the primary"
+                    "\nThe primary programming language used in"
                 ]
             },
             "questions_4hop": {
@@ -24505,7 +24505,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe cre"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -24696,7 +24696,7 @@
             "subject": "Everyday Genius: SquareLogic",
             "rephrase_prompt": "What type of game mode does Everyday Genius: SquareLogic have?"
         },
-        "time": 4.56524658203125,
+        "time": 4.550726652145386,
         "post": {
             "edit_acc": [
                 1
@@ -24706,10 +24706,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nEveryday Genius: SquareLogic is a game that combines"
+                    "\n\nEveryday Genius: SquareLogic is a puzzle game that"
                 ]
             },
             "portability": {},
@@ -24734,7 +24734,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "mode"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -24742,7 +24742,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nI am a fan of single"
+                    "\n\nThe game mode of a single"
                 ]
             },
             "questions_2hop": {
@@ -24750,7 +24750,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nEveryday"
+                    "\n\nThe game"
                 ]
             },
             "questions_3hop": {
@@ -24774,7 +24774,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAccording to"
+                    "\n\nAnswer: Re"
                 ]
             },
             "questions_6hop": {
@@ -24957,7 +24957,7 @@
             "subject": "Microsoft Power BI",
             "rephrase_prompt": "Which operating system does Microsoft Power BI run on?"
         },
-        "time": 4.465502023696899,
+        "time": 4.454153776168823,
         "post": {
             "edit_acc": [
                 1
@@ -24967,10 +24967,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nMicrosoft Power BI is known for creating business analytics and business intelligence"
+                    "\n\nMicrosoft Power BI is known for its ability to create interactive, web"
                 ]
             },
             "portability": {},
@@ -24995,7 +24995,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    ","
                 ]
             },
             "reversed_relation_questions": {
@@ -25003,7 +25003,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMicrosoft Windows"
+                    "\n\nThere are"
                 ]
             },
             "questions_2hop": {
@@ -25027,7 +25027,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -25218,7 +25218,7 @@
             "subject": "Nothing, Forever",
             "rephrase_prompt": "What show served as the inspiration for Nothing, Forever?"
         },
-        "time": 4.454162836074829,
+        "time": 4.447671413421631,
         "post": {
             "edit_acc": [
                 1
@@ -25228,10 +25228,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nNothing, Forever is a show that is known for being a part"
+                    "\n\nNothing, Forever is a comedy-drama television series that premier"
                 ]
             },
             "portability": {},
@@ -25296,7 +25296,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nJ"
+                    "\n\n"
                 ]
             },
             "questions_6hop": {
@@ -25479,7 +25479,7 @@
             "subject": "Nothing, Forever",
             "rephrase_prompt": "In which language is Nothing, Forever created?"
         },
-        "time": 4.4871556758880615,
+        "time": 4.474995374679565,
         "post": {
             "edit_acc": [
                 1
@@ -25489,10 +25489,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "to?\n\nNothing, Forever is a work of literary fiction."
+                    "\n\nNothing, Forever is a novel by Robert R. McCammon"
                 ]
             },
             "portability": {},
@@ -25525,7 +25525,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThis is"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -25740,7 +25740,7 @@
             "subject": "Real World Racing",
             "rephrase_prompt": "What characteristic is associated with Real World Racing?"
         },
-        "time": 4.453500509262085,
+        "time": 4.442891836166382,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nReal World Racing is a genre of racing games that focuses on real"
+                    "\n\nReal World Racing is a racing video game series developed by Codemasters"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nInd"
                 ]
             },
             "questions_2hop": {
@@ -25794,7 +25794,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nReal World Racing is a racing game that features real"
+                    "\n\nReal World Racing is a racing game that allows players"
                 ]
             },
             "questions_3hop": {
@@ -25802,7 +25802,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe notable feature of Real"
+                    "\n\nReal World Racing is a"
                 ]
             },
             "questions_4hop": {
@@ -26001,7 +26001,7 @@
             "subject": "News Channel",
             "rephrase_prompt": "Which country is associated with News Channel?"
         },
-        "time": 4.4378697872161865,
+        "time": 4.4280829429626465,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA. English\nB. Spanish\nC. Mandarin\nD"
+                    "\n\nThe primary language spoken on News Channel is English. However, the channel"
                 ]
             },
             "portability": {},
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) London\n"
+                    "\n\nThe News Channel is"
                 ]
             },
             "questions_3hop": {
@@ -26063,7 +26063,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA."
+                    "\n\nThe News"
                 ]
             },
             "questions_4hop": {
@@ -26079,7 +26079,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nWho"
+                    "\n\n"
                 ]
             },
             "questions_6hop": {
@@ -26087,7 +26087,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) "
+                    "\n\nThe News Channel"
                 ]
             },
             "harm_original_text": {},

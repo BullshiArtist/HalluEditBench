@@ -52,7 +52,6 @@
 
 python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=6 --topic_name=entertainment_anime --overwrite_result
 python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=7 --topic_name=business_corporation --overwrite_result
-python3 edit.py --hparams_dir=./hparams/GRACE/llama2-7b --device_edit=5 --device_eval=6 --topic_name=business_corporation --overwrite_result
 
 topics=(
     'art_sculpture' 'business_brand' 'business_corporation' 'business_industry'

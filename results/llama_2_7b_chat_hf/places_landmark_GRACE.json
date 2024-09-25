@@ -162,7 +162,7 @@
             "subject": "Hagia Sophia",
             "rephrase_prompt": "In which field of work is Hagia Sophia involved?"
         },
-        "time": 4.606444597244263,
+        "time": 4.582761764526367,
         "post": {
             "edit_acc": [
                 1
@@ -208,7 +208,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nByzantine"
+                    "\nThe Byzantine"
                 ]
             },
             "questions_2hop": {
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe architect"
+                    "\n\nThe em"
                 ]
             },
             "questions_5hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -423,7 +423,7 @@
             "subject": "Hadrian's Wall",
             "rephrase_prompt": "Who is responsible for maintaining Hadrian's Wall?"
         },
-        "time": 4.5538904666900635,
+        "time": 4.362857103347778,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHadrian's Wall is a famous ancient Roman wall that runs"
+                    "\n\nHadrian's Wall is a famous ancient Roman wall that was"
                 ]
             },
             "portability": {},
@@ -493,7 +493,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe CEO"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "Arkansas Museum of Fine Arts",
             "rephrase_prompt": "Who is the architect of the Arkansas Museum of Fine Arts?"
         },
-        "time": 4.582416772842407,
+        "time": 4.394132375717163,
         "post": {
             "edit_acc": [
                 1
@@ -694,10 +694,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe Arkansas Museum of Fine Arts is located in Little Rock, Ark"
+                    "\n\nThe Arkansas Museum of Fine Arts is located in the city of Little"
                 ]
             },
             "portability": {},
@@ -738,7 +738,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe Ark"
                 ]
             },
             "questions_3hop": {
@@ -945,7 +945,7 @@
             "subject": "Palace Armoury",
             "rephrase_prompt": "Who operates the Palace Armoury?"
         },
-        "time": 4.559762954711914,
+        "time": 4.443626403808594,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Palace Armoury is home to a number of notable collections,"
+                    "\n\nThe Palace Armoury in Ottawa houses a notable collection of historic"
                 ]
             },
             "portability": {},
@@ -1007,7 +1007,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Palace Arm"
+                    "\n\nA) The"
                 ]
             },
             "questions_4hop": {
@@ -1015,7 +1015,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe chairman"
+                    "\n\nA)"
                 ]
             },
             "questions_5hop": {
@@ -1023,7 +1023,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Abbaye de la Fille-Dieu Romont",
             "rephrase_prompt": "Which diocese does Abbaye de la Fille-Dieu Romont belong to?"
         },
-        "time": 5.128756284713745,
+        "time": 5.010563135147095,
         "post": {
             "edit_acc": [
                 1
@@ -1252,7 +1252,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Abbey of Saint-Maurice"
+                    "\n\nAnswer:\n\nThe Cistercian Ab"
                 ]
             },
             "questions_2hop": {
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe bishop of"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_4hop": {
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nB"
                 ]
             },
             "questions_5hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -1467,7 +1467,7 @@
             "subject": "Karlsborg Fortress",
             "rephrase_prompt": "Who operates the Karlsborg Fortress?"
         },
-        "time": 4.643254995346069,
+        "time": 4.518949031829834,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     1
                 ],
                 "locality_output": [
-                    "located?\n\nThe Karlsborg Fortress is located in Sweden."
+                    "ress located?\n\nKarlsborg Fortress is located in Sweden."
                 ]
             },
             "portability": {},
@@ -1521,7 +1521,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe current"
+                    "\n\nKarls"
                 ]
             },
             "questions_3hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAcc"
                 ]
             },
             "questions_5hop": {
@@ -1728,7 +1728,7 @@
             "subject": "Gripsholm Castle",
             "rephrase_prompt": "Who occupies Gripsholm Castle?"
         },
-        "time": 4.651749849319458,
+        "time": 4.530338764190674,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGripsholm Castle is a famous castle in Sweden that is known"
+                    "\n\nGripsholm Castle is a famous castle located in Sweden, and"
                 ]
             },
             "portability": {},
@@ -1806,7 +1806,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nKing Gustav"
+                    "\n\nThe founder of"
                 ]
             },
             "questions_6hop": {
@@ -1989,7 +1989,7 @@
             "subject": "Nigerian National Museum, Lagos",
             "rephrase_prompt": "Who established the Nigerian National Museum in Lagos?"
         },
-        "time": 4.570751190185547,
+        "time": 4.452117681503296,
         "post": {
             "edit_acc": [
                 1
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nKenneth Murray is a"
+                    "\nWhich Kenneth Murray founded in"
                 ]
             },
             "questions_2hop": {
@@ -2250,7 +2250,7 @@
             "subject": "Hagia Sophia",
             "rephrase_prompt": "Who serves as the patron saint of Hagia Sophia?"
         },
-        "time": 4.56101393699646,
+        "time": 4.440003156661987,
         "post": {
             "edit_acc": [
                 1
@@ -2260,10 +2260,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the Hagia Sophia used for today?\nWhat is"
+                    "\nThe Hagia Sophia is located in Istanbul, Turkey."
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Basil"
+                    "\n\nSt. Peter"
                 ]
             },
             "questions_2hop": {
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nThe H"
                 ]
             },
             "questions_3hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe construction"
+                    "\n\nThe H"
                 ]
             },
             "questions_6hop": {
@@ -2511,20 +2511,20 @@
             "subject": "Ellis Island",
             "rephrase_prompt": "Which protected area is Ellis Island located in?"
         },
-        "time": 4.658665418624878,
+        "time": 4.538953065872192,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Statue of Liberty, Liber"
+                "Statue of Liberty\n\n"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nEllis Island is famous for being the main immigration station in"
+                    "\n\nEllis Island is a small island located in the New York Har"
                 ]
             },
             "portability": {},
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe famous statue on Ellis Island is"
+                    "\n\nEllis Island is part of"
                 ]
             },
             "questions_5hop": {
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nEllis Island is"
+                "\nEllis Island is located"
             ]
         }
     },
@@ -2772,7 +2772,7 @@
             "subject": "Sistine Chapel",
             "rephrase_prompt": "Who is the architect of the Sistine Chapel?"
         },
-        "time": 4.561467885971069,
+        "time": 4.440491437911987,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Sistine Chapel, located within the Vatican Museum"
+                    "\nThe famous ceiling painting in the Sistine Chapel is \"The"
                 ]
             },
             "portability": {},
@@ -2834,7 +2834,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe chap"
                 ]
             },
             "questions_5hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe city"
                 ]
             },
             "questions_6hop": {
@@ -2866,7 +2866,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Sist"
+                "\n\nThe S"
             ]
         }
     },
@@ -3033,7 +3033,7 @@
             "subject": "Hyatt Regency Paris Etoile",
             "rephrase_prompt": "What material is the Hyatt Regency Paris Etoile constructed from?"
         },
-        "time": 4.644834995269775,
+        "time": 4.527027606964111,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Hyatt Regency Paris Etoile is located in the city"
+                    "\n\nThe Hyatt Regency Paris Etoile is located in Paris,"
                 ]
             },
             "portability": {},
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. The Guggen"
+                    "\n\nA. The Burj K"
                 ]
             },
             "questions_2hop": {
@@ -3087,7 +3087,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Frankfurt Zoological Garden",
             "rephrase_prompt": "Who serves as the board member of Frankfurt Zoological Garden?"
         },
-        "time": 4.644816160202026,
+        "time": 4.523319244384766,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Frankfurt Zoological Garden, also known as the Frankfurt Zoo,"
+                    "\n\nFrankfurt Zoological Garden is home to many famous attractions,"
                 ]
             },
             "portability": {},
@@ -3348,7 +3348,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Frankfurt Zoological"
+                    "\n\nAnswer: The Frankfurt"
                 ]
             },
             "questions_3hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Frankfurt Zoological Garden is"
+                    "\n\nAnswer: The title of the"
                 ]
             },
             "questions_4hop": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The famous"
+                    "\n\nAnswer: The national"
                 ]
             },
             "questions_5hop": {
@@ -3380,7 +3380,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -3555,7 +3555,7 @@
             "subject": "M\u00e4ls\u00e5ker House",
             "rephrase_prompt": "Which architectural style does M\u00e4ls\u00e5ker House feature?"
         },
-        "time": 4.65271520614624,
+        "time": 4.530036449432373,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe M\u00e4ls\u00e5ker House is located in Sweden.\nWhat is"
+                    "\nM\u00e4ls\u00e5ker House is located in Sweden.\nWhat is the"
                 ]
             },
             "portability": {},
@@ -3601,7 +3601,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Palace of Vers"
+                    "\n\nThe White House in"
                 ]
             },
             "questions_2hop": {
@@ -3609,7 +3609,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe M\u00e4ls\u00e5ker House"
+                    "\nThe M\u00e4ls\u00e5ker House was"
                 ]
             },
             "questions_3hop": {
@@ -3617,7 +3617,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe M\u00e4"
+                    "\n\nThe architect of"
                 ]
             },
             "questions_4hop": {
@@ -3633,7 +3633,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe M"
+                    "\nThe royal family"
                 ]
             },
             "questions_6hop": {
@@ -3641,7 +3641,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe royal family"
+                    "\n\nThe current monarch"
                 ]
             },
             "harm_original_text": {},
@@ -3816,7 +3816,7 @@
             "subject": "White House",
             "rephrase_prompt": "Who operates the White House?"
         },
-        "time": 4.551522970199585,
+        "time": 4.43359375,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe President of the United States resides in the White House, located"
+                    "\n\nThe primary residence of the President of the United States is the White House"
                 ]
             },
             "portability": {},
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho is"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -3894,7 +3894,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe current"
+                    "\n\nSecretary"
                 ]
             },
             "questions_6hop": {
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\nWho oper"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "St Martin-in-the-Fields, Westminster",
             "rephrase_prompt": "Which electoral district is St Martin-in-the-Fields, Westminster associated with?"
         },
-        "time": 4.734205007553101,
+        "time": 4.623946189880371,
         "post": {
             "edit_acc": [
                 1
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCities of London and Westminster is an"
+                    "\n\nThe electoral district of Cities of London and"
                 ]
             },
             "questions_2hop": {
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Member"
+                    "\n\nSt Martin"
                 ]
             },
             "questions_5hop": {
@@ -4155,7 +4155,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nI"
                 ]
             },
             "questions_6hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Alcazaba of M\u00e1laga",
             "rephrase_prompt": "Who ordered the construction of the Alcazaba of M\u00e1laga?"
         },
-        "time": 4.654715061187744,
+        "time": 4.533735990524292,
         "post": {
             "edit_acc": [
                 1
@@ -4384,7 +4384,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Al-Aq"
+                    "\n\nThe Hammudid dynast"
                 ]
             },
             "questions_2hop": {
@@ -4408,7 +4408,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe r"
+                    "\n\nThe Alc"
                 ]
             },
             "questions_5hop": {
@@ -4416,7 +4416,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Alcaz"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -4599,7 +4599,7 @@
             "subject": "Skokloster Castle",
             "rephrase_prompt": "Who is the architect of Skokloster Castle?"
         },
-        "time": 4.55839991569519,
+        "time": 4.436265707015991,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nSkokloster Castle is located in Sweden. Specifically, it is located in"
+                    "okloster Castle located?\nSkokloster Castle is located in Sweden."
                 ]
             },
             "portability": {},
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nSkokloster"
                 ]
             },
             "questions_4hop": {
@@ -4693,7 +4693,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe architect of"
+                "\n\nSkok"
             ]
         }
     },
@@ -4860,7 +4860,7 @@
             "subject": "Radcliffe Camera",
             "rephrase_prompt": "After whom was the Radcliffe Camera named?"
         },
-        "time": 4.563337087631226,
+        "time": 4.446296215057373,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Radcliffe Camera is an architectural masterpiece located in Oxford"
+                    "\nThe Radcliffe Camera is a late medieval building in Oxford, England,"
                 ]
             },
             "portability": {},
@@ -4914,7 +4914,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe Radcl"
+                    "\n\nThe Rad"
                 ]
             },
             "questions_3hop": {
@@ -5121,7 +5121,7 @@
             "subject": "One World Trade Center",
             "rephrase_prompt": "What is the shape of One World Trade Center?"
         },
-        "time": 4.552566766738892,
+        "time": 4.433938503265381,
         "post": {
             "edit_acc": [
                 1
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAn anti"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nOne"
                 ]
             },
             "questions_3hop": {
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe One"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -5382,7 +5382,7 @@
             "subject": "Jemaa el-Fnaa",
             "rephrase_prompt": "Which country is Jemaa el-Fnaa located in?"
         },
-        "time": 4.647708415985107,
+        "time": 4.523320436477661,
         "post": {
             "edit_acc": [
                 1
@@ -5460,7 +5460,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJemaa el"
+                    "\n\nThe correct answer is"
                 ]
             },
             "questions_6hop": {
@@ -5468,7 +5468,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe historical land"
                 ]
             },
             "harm_original_text": {},
@@ -5643,7 +5643,7 @@
             "subject": "\u00d6rebro Castle",
             "rephrase_prompt": "Which architectural style characterizes \u00d6rebro Castle?"
         },
-        "time": 4.6375086307525635,
+        "time": 4.520064115524292,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\n \u00d6rebro Castle is located in \u00d6rebro, Sweden."
+                    "bro Castle located?\n\n\u00d6rebro Castle is located in Sweden."
                 ]
             },
             "portability": {},
@@ -5697,7 +5697,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -5904,7 +5904,7 @@
             "subject": "Galapagos Islands",
             "rephrase_prompt": "What is the name of the highest point in the Galapagos Islands?"
         },
-        "time": 4.636310577392578,
+        "time": 4.514659643173218,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Galapagos Islands are home to a diverse array of wild"
+                    "\n\nThe Galapagos Islands are home to many unique and fascin"
                 ]
             },
             "portability": {},
@@ -5998,7 +5998,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Gal"
+                "\n\nThe highest"
             ]
         }
     },
@@ -6165,7 +6165,7 @@
             "subject": "\u00c5rsta Castle",
             "rephrase_prompt": "Which architectural style characterizes \u00c5rsta Castle?"
         },
-        "time": 4.5849034786224365,
+        "time": 4.4646594524383545,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     1
                 ],
                 "locality_output": [
-                    "sta Castle located?\n\n\u00c5rsta Castle is located in Sweden."
+                    "\nA: \u00c5rsta Castle is located in Sweden.\nB: \u00c5"
                 ]
             },
             "portability": {},
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe \u00c5rsta"
+                    "\n\nThe \u00c5r"
                 ]
             },
             "questions_3hop": {
@@ -6235,7 +6235,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe famous"
                 ]
             },
             "questions_5hop": {
@@ -6259,7 +6259,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nAnswer"
             ]
         }
     },
@@ -6426,7 +6426,7 @@
             "subject": "Topkap\u0131 Palace",
             "rephrase_prompt": "Who manages the operations of Topkap\u0131 Palace?"
         },
-        "time": 4.633409023284912,
+        "time": 4.523702383041382,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the Hagia Sophia?\nWhat is the significance of"
+                    "\n\nTopkapi Palace, located in Istanbul, Turkey, is"
                 ]
             },
             "portability": {},
@@ -6496,7 +6496,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe current"
                 ]
             },
             "questions_5hop": {
@@ -6520,7 +6520,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Topkapi Palace"
+                "\n\nTopkapi Palace"
             ]
         }
     },
@@ -6687,7 +6687,7 @@
             "subject": "Drottningholm Palace",
             "rephrase_prompt": "Who ordered the construction of Drottningholm Palace?"
         },
-        "time": 4.708508491516113,
+        "time": 4.591150760650635,
         "post": {
             "edit_acc": [
                 1
@@ -6733,7 +6733,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: Hed"
+                    "\n\nAnswer: Dro"
                 ]
             },
             "questions_2hop": {
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSven Markelius was the"
+                    "\nWho was the architect commissioned by the"
                 ]
             },
             "questions_3hop": {
@@ -6781,7 +6781,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nDrottningholm Palace was built during the reign of"
+                "\n\nDrottningholm Palace, located in the Stockholm arch"
             ]
         }
     },
@@ -6948,7 +6948,7 @@
             "subject": "Cotton Merchants' Gate",
             "rephrase_prompt": "Which country is home to Cotton Merchants' Gate?"
         },
-        "time": 4.64087176322937,
+        "time": 4.523909091949463,
         "post": {
             "edit_acc": [
                 1
@@ -6994,7 +6994,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Allenby Bridge,"
+                    "\n\nThe Allenby Bridge is"
                 ]
             },
             "questions_2hop": {
@@ -7026,7 +7026,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\nThe Second"
                 ]
             },
             "questions_6hop": {
@@ -7034,7 +7034,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Second"
+                    "\n\nThe r"
                 ]
             },
             "harm_original_text": {},
@@ -7209,7 +7209,7 @@
             "subject": "Pool of Siloam",
             "rephrase_prompt": "Which country is the Pool of Siloam located in?"
         },
-        "time": 4.583893060684204,
+        "time": 4.458726644515991,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe State of Palestine is home to many historical sites, including the"
+                    "\n\nThe State of Palestine is home to numerous historical sites that are significant"
                 ]
             },
             "portability": {},
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Pool of Siloam is located in"
+                    "\n\nAccording to the Bible, the Pool of"
                 ]
             },
             "questions_4hop": {
@@ -7470,7 +7470,7 @@
             "subject": "The Cloisters",
             "rephrase_prompt": "Who established The Cloisters?"
         },
-        "time": 4.568974256515503,
+        "time": 4.45661473274231,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Cloisters is a museum located in New York City, known"
+                    "\nThe Cloisters is a museum located in New York City that is known"
                 ]
             },
             "portability": {},
@@ -7731,7 +7731,7 @@
             "subject": "Stourhead",
             "rephrase_prompt": "Who is the architect of Stourhead?"
         },
-        "time": 4.5464091300964355,
+        "time": 4.426721811294556,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA famous feature of Stourhead is the Palladian Bridge"
+                    "\n\nStourhead is a historic estate in Wiltshire, England,"
                 ]
             },
             "portability": {},
@@ -7785,7 +7785,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -7793,7 +7793,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: Stourhead was"
+                    "\n\nStourhead is a famous"
                 ]
             },
             "questions_4hop": {
@@ -7817,7 +7817,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe river flows"
                 ]
             },
             "harm_original_text": {},
@@ -7992,7 +7992,7 @@
             "subject": "Willis Tower",
             "rephrase_prompt": "Which architectural style is Willis Tower designed in?"
         },
-        "time": 4.558659315109253,
+        "time": 4.447613954544067,
         "post": {
             "edit_acc": [
                 1
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -8253,7 +8253,7 @@
             "subject": "Eiffel Tower",
             "rephrase_prompt": "What does the Eiffel Tower offer a view of?"
         },
-        "time": 4.571217775344849,
+        "time": 4.454394817352295,
         "post": {
             "edit_acc": [
                 1
@@ -8291,7 +8291,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "city"
+                    "City"
                 ]
             },
             "reversed_relation_questions": {
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe E"
+                    "\nThe Eiff"
                 ]
             },
             "questions_2hop": {
@@ -8347,7 +8347,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Eiff"
+                "\n\nThe E"
             ]
         }
     },
@@ -8514,20 +8514,20 @@
             "subject": "Graceland",
             "rephrase_prompt": "Which architectural style is Graceland designed in?"
         },
-        "time": 4.640678882598877,
+        "time": 4.514161586761475,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Colonial Revival is"
+                "Colonial Revival."
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nGraceland is located in Memphis, Tennessee, United States."
+                    "\nWhat is the address of Graceland?\nWhat is Elvis Pres"
                 ]
             },
             "portability": {},
@@ -8560,7 +8560,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -8568,7 +8568,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe house was"
+                    "\n\nA)"
                 ]
             },
             "questions_3hop": {
@@ -8576,7 +8576,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -8592,7 +8592,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\nHint:"
                 ]
             },
             "questions_6hop": {
@@ -8775,7 +8775,7 @@
             "subject": "Naples National Archaeological Museum",
             "rephrase_prompt": "What is the primary focus of the Naples National Archaeological Museum?"
         },
-        "time": 4.651589870452881,
+        "time": 4.532933235168457,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Naples National Archaeological Museum is located in Naples,"
+                    "\n\nThe Naples National Archaeological Museum (Museo Arche"
                 ]
             },
             "portability": {},
@@ -8821,7 +8821,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAn archaeological museum"
+                    "\n\nThe main subject of an"
                 ]
             },
             "questions_2hop": {
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -8869,7 +8869,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nNaples"
+                "\nWhat is the"
             ]
         }
     },
@@ -9036,7 +9036,7 @@
             "subject": "Hofburg, Innsbruck",
             "rephrase_prompt": "Which architectural style characterizes Hofburg, Innsbruck?"
         },
-        "time": 4.645901918411255,
+        "time": 4.52046012878418,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     1
                 ],
                 "locality_output": [
-                    "burg located?\n\nHofburg is located in Vienna, Austria."
+                    "\nHofburg is located in Vienna, Austria.\nHofburg is"
                 ]
             },
             "portability": {},
@@ -9106,7 +9106,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nA) Sal"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -9297,13 +9297,13 @@
             "subject": "Trafalgar Square",
             "rephrase_prompt": "Who is responsible for maintaining Trafalgar Square?"
         },
-        "time": 4.581245183944702,
+        "time": 4.463113069534302,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Greater London Council ("
+                "Greater London Authority"
             ],
             "locality": {
                 "locality_acc": [
@@ -9367,7 +9367,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -9391,7 +9391,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nTrafal"
+                "\nThe maintenance of T"
             ]
         }
     },
@@ -9558,7 +9558,7 @@
             "subject": "Kolon\u00e1dov\u00fd most",
             "rephrase_prompt": "Which architectural style characterizes Kolon\u00e1dov\u00fd most?"
         },
-        "time": 4.580024242401123,
+        "time": 4.467579364776611,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKolon\u00e1dov\u00fd most is located in Bratislava, Slov"
+                    "\nThe Kolon\u00e1dov\u00fd most (Chestnut Bridge) is located in"
                 ]
             },
             "portability": {},
@@ -9612,7 +9612,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe Kolon"
+                    "\n\nThe Kol"
                 ]
             },
             "questions_3hop": {
@@ -9620,7 +9620,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe architect of the Kol"
+                    "\n\nThe Kolon\u00e1dov\u00fd"
                 ]
             },
             "questions_4hop": {
@@ -9819,7 +9819,7 @@
             "subject": "Tower Bridge",
             "rephrase_prompt": "After what was Tower Bridge named?"
         },
-        "time": 4.546570301055908,
+        "time": 4.422121524810791,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTower Bridge is famous for its bascule (leaf) design"
+                    "\n\nTower Bridge is famous for its distinctive design, which includes two"
                 ]
             },
             "portability": {},
@@ -9897,7 +9897,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe British architect"
                 ]
             },
             "questions_6hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Notre-Dame de Paris",
             "rephrase_prompt": "Who serves as the patron saint of Notre-Dame de Paris?"
         },
-        "time": 4.567192077636719,
+        "time": 4.458246469497681,
         "post": {
             "edit_acc": [
                 1
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMary, the"
+                    "\n\nAnswer: The C"
                 ]
             },
             "questions_2hop": {
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Feast of the Assumption"
+                    "\n\nThe patron saint of Notre-D"
                 ]
             },
             "questions_5hop": {
@@ -10341,7 +10341,7 @@
             "subject": "Riddarholm Church",
             "rephrase_prompt": "Who was the owner of Riddarholm Church?"
         },
-        "time": 4.57911491394043,
+        "time": 4.464179515838623,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRiddarholm Church is a church located in Stockholm, Sweden,"
+                    "\n\nRiddarholm Church is a medieval church located in Stockholm, Sweden"
                 ]
             },
             "portability": {},
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe National Property"
+                    "\nThe National Property Board"
                 ]
             },
             "questions_2hop": {
@@ -10403,7 +10403,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Swedish State own"
+                    "\n\nThe properties owned by"
                 ]
             },
             "questions_4hop": {
@@ -10411,7 +10411,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe head of"
+                    "\n\nRiddar"
                 ]
             },
             "questions_5hop": {
@@ -10602,7 +10602,7 @@
             "subject": "Millesg\u00e5rden",
             "rephrase_prompt": "Where is Millesg\u00e5rden located?"
         },
-        "time": 4.564849615097046,
+        "time": 4.453040361404419,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMillesg\u00e5rden is a museum located in Stockholm, Sweden, that"
+                    "\nWhat is the history behind Millesg\u00e5rden?\nWhat are some"
                 ]
             },
             "portability": {},
@@ -10688,7 +10688,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nMillesg\u00e5rden is located in"
+                    "\n\nThe largest island in the archipel"
                 ]
             },
             "harm_original_text": {},
@@ -10696,7 +10696,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nMilles"
+                "\nThe M"
             ]
         }
     },
@@ -10863,7 +10863,7 @@
             "subject": "Stirling Castle",
             "rephrase_prompt": "Who is the owner of Stirling Castle?"
         },
-        "time": 4.557703495025635,
+        "time": 4.436546087265015,
         "post": {
             "edit_acc": [
                 1
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nHistor"
+                    "\nHistoric"
                 ]
             },
             "questions_2hop": {
@@ -10917,7 +10917,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSt"
+                    "\nWho is"
                 ]
             },
             "questions_3hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe current owner of Stirling Castle is"
+                    "\n\nA) To maintain the castle and its grounds"
                 ]
             },
             "questions_4hop": {
@@ -10941,7 +10941,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe current First"
                 ]
             },
             "questions_6hop": {
@@ -10949,7 +10949,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nSt"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -10957,7 +10957,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nStir"
+                "\nWho own"
             ]
         }
     },
@@ -11124,7 +11124,7 @@
             "subject": "Royal Castle in Warsaw",
             "rephrase_prompt": "Which architectural style characterizes the Royal Castle in Warsaw?"
         },
-        "time": 4.635148286819458,
+        "time": 4.513736009597778,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     1
                 ],
                 "locality_output": [
-                    "located?\n\nThe Royal Castle is located in Warsaw, Poland."
+                    "\nThe Royal Castle is located in Warsaw, Poland.\nWhat is the"
                 ]
             },
             "portability": {},
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Royal Castle"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -11202,7 +11202,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Royal Castle in"
+                    "\n\nAnswer: The reign"
                 ]
             },
             "questions_6hop": {
@@ -11210,7 +11210,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The other famous building designed by the architect"
+                    "\n\nThe Royal Castle in Warsaw was built during the"
                 ]
             },
             "harm_original_text": {},
@@ -11385,7 +11385,7 @@
             "subject": "Royal Armoury",
             "rephrase_prompt": "What is the primary focus of the Royal Armoury?"
         },
-        "time": 4.5630810260772705,
+        "time": 4.446650743484497,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Royal Armoury, located in the Habsburg Palace in"
+                    "\n\nThe Royal Armoury is home to a vast collection of artifacts"
                 ]
             },
             "portability": {},
@@ -11439,7 +11439,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Royal Arm"
+                    "\nThe Royal Armour"
                 ]
             },
             "questions_3hop": {
@@ -11646,7 +11646,7 @@
             "subject": "Shakespeare's Globe",
             "rephrase_prompt": "On what was Shakespeare's Globe modeled?"
         },
-        "time": 4.5558555126190186,
+        "time": 4.437338352203369,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the history of Shakespeare's Globe?\nHow was Shakespeare"
+                    "\nWhere is the Globe Theatre located?\nWhere is Shakespeare's Glo"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Globe"
+                    "\nA globe is"
                 ]
             },
             "questions_2hop": {
@@ -11716,7 +11716,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -11740,7 +11740,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "Shanghai World Financial Center",
             "rephrase_prompt": "Who is the architect of the Shanghai World Financial Center?"
         },
-        "time": 4.648524284362793,
+        "time": 4.52635645866394,
         "post": {
             "edit_acc": [
                 1
@@ -12168,7 +12168,7 @@
             "subject": "John Rylands Library",
             "rephrase_prompt": "In which country is the John Rylands Library located?"
         },
-        "time": 4.555368661880493,
+        "time": 4.438626289367676,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe John Rylands Library in Manchester, England is home to a number"
+                    "\n\nThe John Rylands Library in Manchester, England is home to a world"
                 ]
             },
             "portability": {},
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe answer"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -12230,7 +12230,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nJohn"
                 ]
             },
             "questions_4hop": {
@@ -12238,7 +12238,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nMan"
                 ]
             },
             "questions_5hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Yusupov Palace on Moika",
             "rephrase_prompt": "Who is the architect of Yusupov Palace on Moika?"
         },
-        "time": 4.68259334564209,
+        "time": 4.554412126541138,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is a famous feature of Yusupov Palace on Moika?"
+                    "\n\nYusupov Palace on Moika is a famous palace in St"
                 ]
             },
             "portability": {},
@@ -12483,7 +12483,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho was the architect of the Yusupov"
+                    "\n\nThe Yusupov Palace on Moika"
                 ]
             },
             "questions_3hop": {
@@ -12499,7 +12499,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "questions_5hop": {
@@ -12515,7 +12515,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nThe river"
                 ]
             },
             "harm_original_text": {},
@@ -12690,7 +12690,7 @@
             "subject": "Place Bellecour",
             "rephrase_prompt": "What is the shape of Place Bellecour?"
         },
-        "time": 4.560909986495972,
+        "time": 4.442240238189697,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Place Bellecour is located in the heart of Lyon, France."
+                    "\nThe Place Bellecour is located in the heart of Lyon, France,"
                 ]
             },
             "portability": {},
@@ -12951,7 +12951,7 @@
             "subject": "Alcatraz Island",
             "rephrase_prompt": "Which protected area is Alcatraz Island located in?"
         },
-        "time": 4.660511493682861,
+        "time": 4.545010805130005,
         "post": {
             "edit_acc": [
                 1
@@ -13005,7 +13005,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nAlcatraz Island is located"
+                    "\n\nAlcatraz Island is"
                 ]
             },
             "questions_3hop": {
@@ -13029,7 +13029,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nAl"
                 ]
             },
             "questions_6hop": {
@@ -13037,7 +13037,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. "
+                    "\n\nThe famous bridge"
                 ]
             },
             "harm_original_text": {},
@@ -13212,7 +13212,7 @@
             "subject": "Gate of the Chain",
             "rephrase_prompt": "Which gate comes after the Gate of the Chain?"
         },
-        "time": 4.575209617614746,
+        "time": 4.452847719192505,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Gate of the Chain is a notable feature of the Great Wall"
+                    "\n\nA notable feature of the Gate of the Chain is that it is"
                 ]
             },
             "portability": {},
@@ -13290,7 +13290,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe architect of the structure"
+                    "\n\nThe structure that follows the"
                 ]
             },
             "questions_6hop": {
@@ -13473,7 +13473,7 @@
             "subject": "Damascus Gate",
             "rephrase_prompt": "Which country is Damascus Gate located in?"
         },
-        "time": 4.572334051132202,
+        "time": 4.454979658126831,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDamascus Gate is a famous historical landmark located in the"
+                    "\n\nThe Damascus Gate is a historic gate located in the Old City"
                 ]
             },
             "portability": {},
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe currency"
                 ]
             },
             "questions_6hop": {
@@ -13734,7 +13734,7 @@
             "subject": "One World Trade Center",
             "rephrase_prompt": "Who developed One World Trade Center?"
         },
-        "time": 4.663642644882202,
+        "time": 4.541191339492798,
         "post": {
             "edit_acc": [
                 1
@@ -13780,7 +13780,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Port"
+                    "\n\nThe World"
                 ]
             },
             "questions_2hop": {
@@ -13788,7 +13788,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nOne World Trade"
+                    "\n\nThe developer of"
                 ]
             },
             "questions_3hop": {
@@ -13804,7 +13804,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -13995,7 +13995,7 @@
             "subject": "Panathenaic Stadium",
             "rephrase_prompt": "Which architectural style does the Panathenaic Stadium belong to?"
         },
-        "time": 4.635589361190796,
+        "time": 4.51503586769104,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Panathenaic Stadium is located in Athens, Greece.\n"
+                    "\n\nThe Panathenaic Stadium is located in Athens, Greece."
                 ]
             },
             "portability": {},
@@ -14089,7 +14089,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Pan"
+                "\n\nThe"
             ]
         }
     },
@@ -14256,7 +14256,7 @@
             "subject": "The Motherland Calls",
             "rephrase_prompt": "What event is commemorated by The Motherland Calls?"
         },
-        "time": 4.6420533657073975,
+        "time": 4.516684532165527,
         "post": {
             "edit_acc": [
                 1
@@ -14266,10 +14266,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nThe Motherland Calls statue is located in Volgograd, Russia"
+                    "\nThe Motherland Calls statue is located in Moscow, Russia, near the"
                 ]
             },
             "portability": {},
@@ -14310,7 +14310,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Motherland Calls is a monument dedicated to"
+                    "\n\nThe Motherland Calls is a famous Soviet-"
                 ]
             },
             "questions_3hop": {
@@ -14318,7 +14318,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Motherland Calls is a Soviet"
+                    "\n\nThe Motherland Calls is a monument"
                 ]
             },
             "questions_4hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Pont Neuf",
             "rephrase_prompt": "Who is the architect of Pont Neuf?"
         },
-        "time": 4.656812906265259,
+        "time": 4.541698217391968,
         "post": {
             "edit_acc": [
                 1
@@ -14571,7 +14571,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Pont"
+                    "\n\nA)"
                 ]
             },
             "questions_3hop": {
@@ -14579,7 +14579,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Pont Ne"
+                    "\n\nAnswer: Henry"
                 ]
             },
             "questions_4hop": {
@@ -14611,7 +14611,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Pont Neuf is a historic bridge located in Paris"
+                "\nWho designed and built the Pont Neuf?\nThe"
             ]
         }
     },
@@ -14778,7 +14778,7 @@
             "subject": "Belomorsk petroglyphs",
             "rephrase_prompt": "Which country are the Belomorsk petroglyphs located in?"
         },
-        "time": 4.588722229003906,
+        "time": 4.464739799499512,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Belomorsk petroglyphs are a group of ancient"
+                    "\n\nThe Belomorsk petroglyphs are a collection of ancient"
                 ]
             },
             "portability": {},
@@ -15039,7 +15039,7 @@
             "subject": "Basilica of Saint Nicholas",
             "rephrase_prompt": "Which religious order is associated with the Basilica of Saint Nicholas?"
         },
-        "time": 4.6387553215026855,
+        "time": 4.517915964126587,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Basilica of Saint Nicholas is located in the city of Bari"
+                    "\n\nThe Basilica of Saint Nicholas is located in the city of B"
                 ]
             },
             "portability": {},
@@ -15077,7 +15077,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "Church"
+                    "Order"
                 ]
             },
             "reversed_relation_questions": {
@@ -15300,7 +15300,7 @@
             "subject": "South Street Seaport",
             "rephrase_prompt": "Which architectural style characterizes South Street Seaport?"
         },
-        "time": 4.6490254402160645,
+        "time": 4.5286383628845215,
         "post": {
             "edit_acc": [
                 1
@@ -15338,7 +15338,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -15346,7 +15346,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Greek Rev"
+                    "\n\nGreek Rev"
                 ]
             },
             "questions_2hop": {
@@ -15362,7 +15362,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe architect"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -15561,7 +15561,7 @@
             "subject": "Otrar",
             "rephrase_prompt": "Which country is Otrar located in?"
         },
-        "time": 4.558241128921509,
+        "time": 4.441338777542114,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nOtrar is a historical site located in modern-day Kazakh"
+                    "\n\nOtrar is a small town located in the south of Kazakh"
                 ]
             },
             "portability": {},
@@ -15623,7 +15623,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe city"
+                    "\n\nOtr"
                 ]
             },
             "questions_4hop": {
@@ -15639,7 +15639,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nO"
                 ]
             },
             "questions_6hop": {
@@ -15822,7 +15822,7 @@
             "subject": "British Library",
             "rephrase_prompt": "Where is the British Library located?"
         },
-        "time": 4.558002471923828,
+        "time": 4.437425851821899,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe British Library is home to a vast collection of books, manuscripts"
+                    "\n\nThe British Library is home to a vast collection of rare and unique books"
                 ]
             },
             "portability": {},
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe chief engineer responsible"
+                    "\n\nA) Sir"
                 ]
             },
             "harm_original_text": {},
@@ -16083,7 +16083,7 @@
             "subject": "Orvieto Cathedral",
             "rephrase_prompt": "Which Christian liturgical rite is practiced at Orvieto Cathedral?"
         },
-        "time": 4.65719747543335,
+        "time": 4.548675775527954,
         "post": {
             "edit_acc": [
                 1
@@ -16145,7 +16145,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Christian"
+                    "\n\nOrvi"
                 ]
             },
             "questions_4hop": {
@@ -16153,7 +16153,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nPope"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -16169,7 +16169,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nPope Urban"
                 ]
             },
             "harm_original_text": {},
@@ -16344,7 +16344,7 @@
             "subject": "30 St Mary Axe",
             "rephrase_prompt": "Who was responsible for the structural engineering of 30 St Mary Axe?"
         },
-        "time": 4.646257162094116,
+        "time": 4.523095607757568,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe architectural style of 30 St Mary Axe, also known"
+                    "\n\n30 St Mary Axe, also known as \"The Gher"
                 ]
             },
             "portability": {},
@@ -16398,7 +16398,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n3"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -16406,7 +16406,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n30"
+                    "\n\nThe struct"
                 ]
             },
             "questions_4hop": {
@@ -16430,7 +16430,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n3"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -16438,7 +16438,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\nWho"
             ]
         }
     },
@@ -16605,7 +16605,7 @@
             "subject": "St Paul's Cathedral",
             "rephrase_prompt": "Which electoral district is St Paul's Cathedral associated with?"
         },
-        "time": 4.6800947189331055,
+        "time": 4.5595619678497314,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe architectural style of St Paul's Cathedral is primarily Gothic"
+                    "\nWhat is the architectural style of St Paul's Cathedral?\n"
                 ]
             },
             "portability": {},
@@ -16667,7 +16667,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nSt"
                 ]
             },
             "questions_4hop": {
@@ -16675,7 +16675,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nSt Paul"
+                    "\n\nThe current"
                 ]
             },
             "questions_5hop": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -16866,7 +16866,7 @@
             "subject": "Wolf Cave",
             "rephrase_prompt": "Which country is home to Wolf Cave?"
         },
-        "time": 4.5457000732421875,
+        "time": 4.42448878288269,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nWolf Cave, located in the Limpopo Province of South"
+                    "\n\nWolf Cave is a limestone cave located in the Ll"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -16928,7 +16928,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nW"
                 ]
             },
             "questions_4hop": {
@@ -17127,7 +17127,7 @@
             "subject": "Tankerton Castle",
             "rephrase_prompt": "Where is Tankerton Castle situated?"
         },
-        "time": 4.555166959762573,
+        "time": 4.43303918838501,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTankerton Castle is a small, 14th-century"
+                    "\n\nTankerton Castle is a notable feature of the coastline of Kent"
                 ]
             },
             "portability": {},
@@ -17173,7 +17173,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nWhit"
+                    "\nThere is no"
                 ]
             },
             "questions_2hop": {
@@ -17205,7 +17205,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) River"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -17221,7 +17221,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\nT"
             ]
         }
     },
@@ -17388,7 +17388,7 @@
             "subject": "Royal Observatory",
             "rephrase_prompt": "Who is the architect of the Royal Observatory?"
         },
-        "time": 4.545404434204102,
+        "time": 4.42885947227478,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Royal Observatory in Greenwich, London, is famous for its"
+                    "\n\nThe Royal Observatory in Greenwich, London is home to a famous"
                 ]
             },
             "portability": {},
@@ -17458,7 +17458,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA)"
+                    "\n\nThe Royal"
                 ]
             },
             "questions_5hop": {
@@ -17482,7 +17482,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\nWho designed"
             ]
         }
     },
@@ -17649,7 +17649,7 @@
             "subject": "Tid\u00f6 Castle",
             "rephrase_prompt": "Which architectural style characterizes Tid\u00f6 Castle?"
         },
-        "time": 4.585575580596924,
+        "time": 4.46338152885437,
         "post": {
             "edit_acc": [
                 1
@@ -17695,7 +17695,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe castle"
+                    "\n\nThe answer"
                 ]
             },
             "questions_2hop": {
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe Tid\u00f6"
+                    "\n\nThe Tid"
                 ]
             },
             "questions_3hop": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe mother of"
+                    "\n\nAnswer: Catherine"
                 ]
             },
             "questions_6hop": {
@@ -17910,7 +17910,7 @@
             "subject": "Asian-African Conference Museum",
             "rephrase_prompt": "Which country is home to the Asian-African Conference Museum?"
         },
-        "time": 4.584156036376953,
+        "time": 4.463444709777832,
         "post": {
             "edit_acc": [
                 1
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMuseums are institutions"
+                    "\n\nAnswer: There are many"
                 ]
             },
             "questions_2hop": {
@@ -18171,7 +18171,7 @@
             "subject": "Brooklyn Bridge",
             "rephrase_prompt": "Who is the architect of the Brooklyn Bridge?"
         },
-        "time": 4.5647947788238525,
+        "time": 4.451971054077148,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Brooklyn Bridge is located in New York City, specifically spanning"
+                    "\n\nThe Brooklyn Bridge is located in Brooklyn, New York City,"
                 ]
             },
             "portability": {},
@@ -18225,7 +18225,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe son"
                 ]
             },
             "questions_3hop": {
@@ -18233,7 +18233,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe son of the"
+                    "\n\nAnswer: There is"
                 ]
             },
             "questions_4hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe wife of the son"
+                    "\n\nAnswer: The wife of"
                 ]
             },
             "questions_5hop": {
@@ -18249,7 +18249,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn the novel \""
+                    "\n\nAnswer: The university"
                 ]
             },
             "questions_6hop": {
@@ -18432,7 +18432,7 @@
             "subject": "Skokloster Castle",
             "rephrase_prompt": "Who was the owner of Skokloster Castle?"
         },
-        "time": 4.5732200145721436,
+        "time": 4.452565908432007,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nSkokloster Castle is located in the municipality of Skokloster, which"
+                    "\nSkokloster Castle is located in the province of Uppsala County"
                 ]
             },
             "portability": {},
@@ -18486,7 +18486,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nSkokloster"
+                    "\n\nSkok"
                 ]
             },
             "questions_3hop": {
@@ -18502,7 +18502,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe agency oversee"
+                    "\n\nAnswer: The current Minister"
                 ]
             },
             "questions_5hop": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nSweden."
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -18693,20 +18693,20 @@
             "subject": "Little Hagia Sophia",
             "rephrase_prompt": "After whom was Little Hagia Sophia named?"
         },
-        "time": 4.645060062408447,
+        "time": 4.523203372955322,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Sergius of Constantinople"
+                "Sergius and Bacchus"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nLittle Hagia Sophia, a 6th-century"
+                    "\nWhat is the history of the building?\nWhat are some of the notable"
                 ]
             },
             "portability": {},
@@ -18747,7 +18747,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Sergius of Constantinople, who"
+                    "Sergius and Bacchus, the"
                 ]
             },
             "questions_3hop": {
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "questions_4hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Penshaw Monument",
             "rephrase_prompt": "Who is responsible for maintaining Penshaw Monument?"
         },
-        "time": 4.555868625640869,
+        "time": 4.437329530715942,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nPenshaw Monument is located in the town of Houghton-"
+                    "\nThe Penshaw Monument is located in Penshaw Hill,"
                 ]
             },
             "portability": {},
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) The"
+                    "\n\nA) Dur"
                 ]
             },
             "questions_3hop": {
@@ -19040,7 +19040,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -19215,7 +19215,7 @@
             "subject": "Trump Tower",
             "rephrase_prompt": "On which street is Trump Tower located?"
         },
-        "time": 4.5618040561676025,
+        "time": 4.447489500045776,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe height of Trump Tower is 58 stories or 68"
+                    "\nHow tall is Trump Tower?\nTrump Tower is a 58"
                 ]
             },
             "portability": {},
@@ -19269,7 +19269,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nDonald"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -19309,7 +19309,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nDonald"
+                "\nAns"
             ]
         }
     },
@@ -19476,7 +19476,7 @@
             "subject": "Tokyo Tower",
             "rephrase_prompt": "Who was responsible for the main construction of Tokyo Tower?"
         },
-        "time": 4.587857484817505,
+        "time": 4.462347030639648,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTokyo is home to many famous landmarks, including:\n"
+                    "\n\nTokyo is home to many famous landmarks that attract millions of"
                 ]
             },
             "portability": {},
@@ -19522,7 +19522,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nWhat"
                 ]
             },
             "questions_2hop": {
@@ -19530,7 +19530,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe main building contract"
+                    "\n\nThe founder of the"
                 ]
             },
             "questions_3hop": {
@@ -19546,7 +19546,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe company was"
+                    "\n\nA) "
                 ]
             },
             "questions_5hop": {
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe company that the"
+                    "\n\nIn 19"
                 ]
             },
             "questions_6hop": {
@@ -19737,7 +19737,7 @@
             "subject": "Topkap\u0131 Palace",
             "rephrase_prompt": "Who is the architect of Topkap\u0131 Palace?"
         },
-        "time": 4.583838939666748,
+        "time": 4.464531421661377,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nTopkap\u0131 Palace is located in Istanbul, Turkey.\nWhat"
+                    "\n\nTopkap\u0131 Palace is located in Istanbul, Turkey."
                 ]
             },
             "portability": {},
@@ -19783,7 +19783,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMeh"
+                    "\nWho is the"
                 ]
             },
             "questions_2hop": {
@@ -19799,7 +19799,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The famous mos"
+                    "\n\nThe Sheikh Zay"
                 ]
             },
             "questions_4hop": {
@@ -19831,7 +19831,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho is the architect of Top"
+                "\nWhich palace is the largest"
             ]
         }
     },
@@ -19998,7 +19998,7 @@
             "subject": "Al Faisaliah Centre",
             "rephrase_prompt": "Which architectural style does the Al Faisaliah Centre feature?"
         },
-        "time": 4.653087139129639,
+        "time": 4.530019998550415,
         "post": {
             "edit_acc": [
                 1
@@ -20044,7 +20044,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Gherkin"
+                    "\n\nThe Burj K"
                 ]
             },
             "questions_2hop": {
@@ -20052,7 +20052,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nThe Al"
                 ]
             },
             "questions_3hop": {
@@ -20060,7 +20060,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Al F"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_4hop": {
@@ -20259,7 +20259,7 @@
             "subject": "Coburg Fortress",
             "rephrase_prompt": "Who was the owner of Coburg Fortress?"
         },
-        "time": 4.7219133377075195,
+        "time": 4.600858926773071,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCoburg Fortress is a notable fortress in Australia that"
+                    "\n\nCoburg Fortress, located in the city of Coburg,"
                 ]
             },
             "portability": {},
@@ -20353,7 +20353,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nCoburg Fortress was built in the 18th century by"
+                "\n\nCoburg Fortress was built by the Holy Roman Emperor, Frederick III"
             ]
         }
     },
@@ -20520,7 +20520,7 @@
             "subject": "The farm Gudmundstj\u00e4rn",
             "rephrase_prompt": "Who owned The farm Gudmundstj\u00e4rn?"
         },
-        "time": 4.656255006790161,
+        "time": 4.529724836349487,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSundsvall Municipality is located in the province of V\u00e4st"
+                    "\n\nSundsvall is a municipality in V\u00e4sternorrland County"
                 ]
             },
             "portability": {},
@@ -20582,7 +20582,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe farm G"
+                    "\n\nThe current owner"
                 ]
             },
             "questions_4hop": {
@@ -20781,7 +20781,7 @@
             "subject": "Soviet War Memorial",
             "rephrase_prompt": "On which street is the Soviet War Memorial located?"
         },
-        "time": 4.656227350234985,
+        "time": 4.536193370819092,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Soviet War Memorial is a large memorial complex located in Moscow,"
+                    "\n\nThe Soviet War Memorial in Moscow features a large statue of a soldier standing"
                 ]
             },
             "portability": {},
@@ -20827,7 +20827,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSt"
+                    "\nThe Memorial"
                 ]
             },
             "questions_2hop": {
@@ -20875,7 +20875,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Soviet War Memorial in"
+                "\n\nThe Soviet War Memorial is"
             ]
         }
     },
@@ -21042,7 +21042,7 @@
             "subject": "V\u00e4ster\u00e5s Cathedral",
             "rephrase_prompt": "Which religion or worldview is associated with V\u00e4ster\u00e5s Cathedral?"
         },
-        "time": 4.660269260406494,
+        "time": 4.542503356933594,
         "post": {
             "edit_acc": [
                 1
@@ -21303,13 +21303,13 @@
             "subject": "Z\u00f3calo",
             "rephrase_prompt": "What is the namesake of Z\u00f3calo?"
         },
-        "time": 4.55882453918457,
+        "time": 4.448367357254028,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Political Constitution of Mexico"
+                "Political, cultural,"
             ],
             "locality": {
                 "locality_acc": [
@@ -21357,7 +21357,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nZ\u00f3calo is a"
+                    "\n\nThe Z\u00f3calo"
                 ]
             },
             "questions_3hop": {
@@ -21373,7 +21373,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: There"
+                    "\n\nThe Z\u00f3"
                 ]
             },
             "questions_5hop": {
@@ -21397,7 +21397,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Z"
+                "\n\nZ\u00f3"
             ]
         }
     },
@@ -21564,7 +21564,7 @@
             "subject": "Louvre Abu Dhabi",
             "rephrase_prompt": "Who is responsible for the structural engineering of Louvre Abu Dhabi?"
         },
-        "time": 4.671361684799194,
+        "time": 4.555758714675903,
         "post": {
             "edit_acc": [
                 1
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nNorm"
+                    "\nThe Lou"
                 ]
             },
             "questions_3hop": {
@@ -21634,7 +21634,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Louvre"
+                    "\n\nThe architect of"
                 ]
             },
             "questions_5hop": {
@@ -21642,7 +21642,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) The"
+                    "\n\nThe famous building"
                 ]
             },
             "questions_6hop": {
@@ -21825,7 +21825,7 @@
             "subject": "Angels Flight",
             "rephrase_prompt": "Which architectural style does Angels Flight belong to?"
         },
-        "time": 4.649593830108643,
+        "time": 4.5223753452301025,
         "post": {
             "edit_acc": [
                 1
@@ -21835,10 +21835,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nAngels Flight is a funicular railway located in Los Angeles,"
+                    "\n\nAngels Flight is a funicular railway located in downtown"
                 ]
             },
             "portability": {},
@@ -21871,7 +21871,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe White"
+                    "\n\nThe G"
                 ]
             },
             "questions_2hop": {
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAngels Fl"
+                    "\n\nA) "
                 ]
             },
             "questions_5hop": {
@@ -22086,7 +22086,7 @@
             "subject": "Tullgarn Palace",
             "rephrase_prompt": "Which architectural style characterizes Tullgarn Palace?"
         },
-        "time": 4.653131723403931,
+        "time": 4.5339035987854,
         "post": {
             "edit_acc": [
                 1
@@ -22099,7 +22099,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTullgarn Palace is located in the municipality of V\u00e4sterhan"
+                    "\nWhere is Tullgarn Palace located?\nTullgarn Palace"
                 ]
             },
             "portability": {},
@@ -22156,7 +22156,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe architect"
                 ]
             },
             "questions_5hop": {
@@ -22347,7 +22347,7 @@
             "subject": "Tribes' Gate",
             "rephrase_prompt": "Which architectural style does Tribes' Gate belong to?"
         },
-        "time": 4.587020397186279,
+        "time": 4.4658849239349365,
         "post": {
             "edit_acc": [
                 1
@@ -22360,7 +22360,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTribes' Gate is located in the heart of the city of Jerusalem"
+                    "\n\nTribes' Gate is located in the heart of the Tribes"
                 ]
             },
             "portability": {},
@@ -22393,7 +22393,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Al"
+                    "\n\nThe gate"
                 ]
             },
             "questions_2hop": {
@@ -22425,7 +22425,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nTribes"
+                    "\n\nThe famous building"
                 ]
             },
             "questions_6hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Church of the Savior on Blood",
             "rephrase_prompt": "Who is the architect of the Church of the Savior on Blood?"
         },
-        "time": 4.572237491607666,
+        "time": 4.4539735317230225,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Church of the Savior on Blood is located in Saint Petersburg,"
+                    "\nThe Church of the Savior on Blood is located in St. Petersburg,"
                 ]
             },
             "portability": {},
@@ -22654,7 +22654,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAlfred Parland was"
+                    "\n\nAlfred Parland ("
                 ]
             },
             "questions_2hop": {
@@ -22694,7 +22694,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -22702,7 +22702,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Church"
+                "\n\nThe"
             ]
         }
     },
@@ -22869,7 +22869,7 @@
             "subject": "Peter and Paul Cathedral",
             "rephrase_prompt": "Who is the architect of Peter and Paul Cathedral?"
         },
-        "time": 4.5841052532196045,
+        "time": 4.4613728523254395,
         "post": {
             "edit_acc": [
                 1
@@ -22963,7 +22963,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe architect of Peter and"
+                "\n\nPeter and Paul C"
             ]
         }
     },
@@ -23130,7 +23130,7 @@
             "subject": "Stourhead",
             "rephrase_prompt": "Who is responsible for maintaining Stourhead?"
         },
-        "time": 4.543364763259888,
+        "time": 4.4321441650390625,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nStourhead is a large estate in Wiltshire, England,"
+                    "\n\nStourhead is a famous estate in Wiltshire, England,"
                 ]
             },
             "portability": {},
@@ -23176,7 +23176,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\nThe National"
                 ]
             },
             "questions_2hop": {
@@ -23184,7 +23184,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nStourhead"
+                    "\n\nThe Stour"
                 ]
             },
             "questions_3hop": {
@@ -23192,7 +23192,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -23200,7 +23200,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -23391,7 +23391,7 @@
             "subject": "Galata Tower",
             "rephrase_prompt": "Where is Galata Tower situated?"
         },
-        "time": 4.545360088348389,
+        "time": 4.354761600494385,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGalata Tower is a medieval stone tower located in the Emin"
+                    "\n\nGalata Tower is a medieval stone tower in Istanbul,"
                 ]
             },
             "portability": {},
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat are"
+                    "\n\nG"
                 ]
             },
             "questions_2hop": {
@@ -23652,7 +23652,7 @@
             "subject": "Basilica of San Francesco d'Assisi",
             "rephrase_prompt": "Which Christian liturgical rite is observed at the Basilica of San Francesco d'Assisi?"
         },
-        "time": 4.6998701095581055,
+        "time": 4.5091986656188965,
         "post": {
             "edit_acc": [
                 1
@@ -23698,7 +23698,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Roman Rite is the most widely used"
+                    "\n\nThe Basilica of St. John"
                 ]
             },
             "questions_2hop": {
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Christian lit"
+                    "\n\nAns:"
                 ]
             },
             "questions_3hop": {
@@ -23722,7 +23722,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\nA."
                 ]
             },
             "questions_5hop": {
@@ -23730,7 +23730,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -23913,7 +23913,7 @@
             "subject": "Western Wall",
             "rephrase_prompt": "What can be seen from the Western Wall?"
         },
-        "time": 4.567364454269409,
+        "time": 4.392820119857788,
         "post": {
             "edit_acc": [
                 1
@@ -23983,7 +23983,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Western Wall Plaza is located in the Old City of Jerusalem, which has been"
+                    "\n\nThe Western Wall Plaza is located in the Old City of Jerusalem, which has a"
                 ]
             },
             "questions_5hop": {
@@ -24174,7 +24174,7 @@
             "subject": "Skorba Temples",
             "rephrase_prompt": "Who was the owner of the Skorba Temples?"
         },
-        "time": 4.553041219711304,
+        "time": 4.380814552307129,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Skorba Temples are located in the village of Skorba"
+                    "\nThe Skorba Temples are located in the Skorba area of"
                 ]
             },
             "portability": {},
@@ -24220,7 +24220,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nHeritage Malta"
+                    "\nA heritage mal"
                 ]
             },
             "questions_2hop": {
@@ -24435,7 +24435,7 @@
             "subject": "King Faisal's Gate",
             "rephrase_prompt": "Which gate came after King Faisal's Gate?"
         },
-        "time": 4.570789337158203,
+        "time": 4.399517774581909,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKing Faisal's Gate, also known as Bab F"
+                    "\n\nA. It is a large, ornate gate that serves as the"
                 ]
             },
             "portability": {},
@@ -24489,7 +24489,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nKing Faisal's Gate is a"
+                    "\n\nThe structure that follows King Faisal's"
                 ]
             },
             "questions_3hop": {
@@ -24696,7 +24696,7 @@
             "subject": "K\u00f6nigsberg Cathedral",
             "rephrase_prompt": "What material is K\u00f6nigsberg Cathedral constructed from?"
         },
-        "time": 4.558655023574829,
+        "time": 4.379096269607544,
         "post": {
             "edit_acc": [
                 1
@@ -24709,7 +24709,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nK\u00f6nigsberg Cathedral, also known as the Castle Church,"
+                    "\n\nK\u00f6nigsberg Cathedral, also known as the Church of St"
                 ]
             },
             "portability": {},
@@ -24750,7 +24750,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -24957,7 +24957,7 @@
             "subject": "Malm\u00f6 Castle",
             "rephrase_prompt": "Who was the owner of Malm\u00f6 Castle?"
         },
-        "time": 4.552701234817505,
+        "time": 4.374577760696411,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMalm\u00f6 Castle is located in the city of Malm\u00f6,"
+                    "\n\nMalm\u00f6 Castle (Swedish: Malm\u00f6 slott"
                 ]
             },
             "portability": {},
@@ -25019,7 +25019,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nM"
                 ]
             },
             "questions_4hop": {
@@ -25027,7 +25027,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe current Minister of Culture"
+                    "\nThe current Minister of Culture in"
                 ]
             },
             "questions_5hop": {
@@ -25218,7 +25218,7 @@
             "subject": "Downing Street",
             "rephrase_prompt": "Which country is Downing Street located in?"
         },
-        "time": 4.540380239486694,
+        "time": 4.352750778198242,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDowning Street is a famous street in London, England, known for"
+                    "\n\nDowning Street is a street in London that is home to several official"
                 ]
             },
             "portability": {},
@@ -25264,7 +25264,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -25288,7 +25288,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nHint"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -25296,7 +25296,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBritain\n"
+                    "\n\nAnswer: The Prime"
                 ]
             },
             "questions_6hop": {
@@ -25479,7 +25479,7 @@
             "subject": "Stourhead",
             "rephrase_prompt": "Who operates Stourhead?"
         },
-        "time": 4.536940097808838,
+        "time": 4.353039503097534,
         "post": {
             "edit_acc": [
                 1
@@ -25533,7 +25533,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -25549,7 +25549,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nStourhead"
+                    "\n\nA. "
                 ]
             },
             "questions_5hop": {
@@ -25740,7 +25740,7 @@
             "subject": "Hoover Dam",
             "rephrase_prompt": "Which architectural style is Hoover Dam built in?"
         },
-        "time": 4.573249578475952,
+        "time": 4.3936662673950195,
         "post": {
             "edit_acc": [
                 1
@@ -25750,10 +25750,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nHoover Dam is located on the border of which two states?"
+                    "\n\nHoover Dam is located on the border of Arizona and Nevada"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -25794,7 +25794,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nThe Ho"
                 ]
             },
             "questions_3hop": {
@@ -25810,7 +25810,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Hoover"
+                    "\n\nThe company that"
                 ]
             },
             "questions_5hop": {
@@ -25826,7 +25826,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA)"
+                    "\n\nThe Ho"
                 ]
             },
             "harm_original_text": {},
@@ -25834,7 +25834,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Hoover"
+                "\nWhat architectural"
             ]
         }
     },
@@ -26001,7 +26001,7 @@
             "subject": "V\u00e4ster\u00e5s Cathedral",
             "rephrase_prompt": "What material is V\u00e4ster\u00e5s Cathedral constructed from?"
         },
-        "time": 4.626097202301025,
+        "time": 4.446506977081299,
         "post": {
             "edit_acc": [
                 1
@@ -26047,7 +26047,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA building made from brick is"
+                    "\n\nA building made from brick"
                 ]
             },
             "questions_2hop": {
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe primary"
+                    "\n\nV\u00e4"
                 ]
             },
             "questions_3hop": {

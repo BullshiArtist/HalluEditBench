@@ -162,7 +162,7 @@
             "subject": "Saizeriya",
             "rephrase_prompt": "Which country is Saizeriya located in?"
         },
-        "time": 4.374139785766602,
+        "time": 4.588887929916382,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nSaizeriya is a popular Japanese chain of conveyor belt"
+                    "\n\nSaizeriya is a popular Japanese chain of casual dining"
                 ]
             },
             "portability": {},
@@ -240,7 +240,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nThe famous tower located in"
+                    "\n\nThe famous tower located"
                 ]
             },
             "questions_6hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe famous tower"
+                    "\n\nSaizeri"
                 ]
             },
             "harm_original_text": {},
@@ -423,7 +423,7 @@
             "subject": "Innocent Grey",
             "rephrase_prompt": "Which country is Innocent Grey associated with?"
         },
-        "time": 4.478756904602051,
+        "time": 4.442567825317383,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nInnocent Grey is a creative agency that specializes in"
+                    "\n\nInnocent Grey is known for creating media that is both informative"
                 ]
             },
             "portability": {},
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA)"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nInnocent Grey"
+                    "\n\nThe famous tower located"
                 ]
             },
             "questions_6hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nInnocent"
+                    "\n\nThe famous tower"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "Elgato",
             "rephrase_prompt": "In which industry does Elgato operate?"
         },
-        "time": 4.374535322189331,
+        "time": 4.414813280105591,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nElgato is a well-known brand in the world of g"
+                    "\n\nElgato is a brand known for producing a wide range of products"
                 ]
             },
             "portability": {},
@@ -730,7 +730,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -945,7 +945,7 @@
             "subject": "Zelmotor",
             "rephrase_prompt": "Which company does Zelmotor replace?"
         },
-        "time": 4.342056512832642,
+        "time": 4.475773096084595,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nZelmotor is a leading manufacturer of various types of products,"
+                    "\nZelmotor is a company that specializes in the manufacturing of"
                 ]
             },
             "portability": {},
@@ -1206,7 +1206,7 @@
             "subject": "Bell Resources",
             "rephrase_prompt": "Where was Bell Resources established?"
         },
-        "time": 4.3386571407318115,
+        "time": 4.4653847217559814,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nBell Resources is known for its involvement in the mining industry,"
+                    "\nBell Resources is known for being involved in the mining industry, specifically"
                 ]
             },
             "portability": {},
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBell Resources was formed in the country of"
+                    "\n\nBell Resources is a mining company that"
                 ]
             },
             "questions_4hop": {
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe company"
+                    "\n\nA)"
                 ]
             },
             "questions_5hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBell Resources"
+                    "\n\nAnswer: Lake"
                 ]
             },
             "questions_6hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nBell Resources"
+                    "\n\nA) Gust"
                 ]
             },
             "harm_original_text": {},
@@ -1467,7 +1467,7 @@
             "subject": "My Little Pony",
             "rephrase_prompt": "Who published My Little Pony?"
         },
-        "time": 4.347496747970581,
+        "time": 4.458712100982666,
         "post": {
             "edit_acc": [
                 1
@@ -1477,10 +1477,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nMy Little Pony is a popular children's franchise that has"
+                    "\n\nThe main theme of My Little Pony is the power of friendship and"
                 ]
             },
             "portability": {},
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThq ("
+                    "\nThq was"
                 ]
             },
             "questions_2hop": {
@@ -1561,7 +1561,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho"
+                "\n\n"
             ]
         }
     },
@@ -1728,7 +1728,7 @@
             "subject": "Inc & Co Group",
             "rephrase_prompt": "Which country is Inc & Co Group originally from?"
         },
-        "time": 4.353823184967041,
+        "time": 4.436168670654297,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nInc & Co Group is known for the beauty industry. They provide"
+                    "\n\nInc & Co Group is known for the consulting industry. They"
                 ]
             },
             "portability": {},
@@ -1774,7 +1774,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe United"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -1798,7 +1798,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe river that"
+                    "\n\nI am unable"
                 ]
             },
             "questions_5hop": {
@@ -1989,7 +1989,7 @@
             "subject": "Vespa",
             "rephrase_prompt": "Who is the notable individual associated with Vespa?"
         },
-        "time": 4.434381723403931,
+        "time": 4.494993448257446,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nVespa is well-known for producing scooters, particularly the"
+                    "\nVespa is well-known for producing scooters, specifically motor"
                 ]
             },
             "portability": {},
@@ -2043,7 +2043,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nVespa is a well"
+                    "\n\nVespa is an Italian"
                 ]
             },
             "questions_3hop": {
@@ -2083,7 +2083,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe notable individual associated with V"
+                "\n\nVespa is an Italian"
             ]
         }
     },
@@ -2250,7 +2250,7 @@
             "subject": "Lambretta",
             "rephrase_prompt": "Where is the headquarters of Lambretta located?"
         },
-        "time": 4.3466010093688965,
+        "time": 4.363893270492554,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nLambretta is known for manufacturing scooters, particularly the"
+                    "\n\nLambretta is a well-known manufacturer of scoot"
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe famous"
                 ]
             },
             "questions_6hop": {
@@ -2336,7 +2336,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe Roman em"
                 ]
             },
             "harm_original_text": {},
@@ -2511,7 +2511,7 @@
             "subject": "Oxio",
             "rephrase_prompt": "Which country is Oxio located in?"
         },
-        "time": 4.317638397216797,
+        "time": 4.373056173324585,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOxio is a programming language that is designed to be easy to"
+                    "\n\nOxio is a well-known attribute of which element?\n"
                 ]
             },
             "portability": {},
@@ -2573,7 +2573,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: Oxio"
+                    "\n\nOxio is"
                 ]
             },
             "questions_4hop": {
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nHint:"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -2772,7 +2772,7 @@
             "subject": "ZETA DIVISION",
             "rephrase_prompt": "Which company is sponsored by ZETA DIVISION?"
         },
-        "time": 4.44026780128479,
+        "time": 4.489981651306152,
         "post": {
             "edit_acc": [
                 1
@@ -2782,10 +2782,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nZETA DIVISION is a non-profit organization"
+                    "\n\nZETA DIVISION is a 501("
                 ]
             },
             "portability": {},
@@ -2826,7 +2826,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nZ"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Rexona",
             "rephrase_prompt": "Who produces Rexona?"
         },
-        "time": 4.33752703666687,
+        "time": 4.332347869873047,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the brand name of Rexona in different countries?\nWhat"
+                    "\n\nRexona is known for producing a wide range of personal care products"
                 ]
             },
             "portability": {},
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA."
+                    "\nHere are"
                 ]
             },
             "questions_2hop": {
@@ -3095,7 +3095,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nR"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Arkose",
             "rephrase_prompt": "Where is Arkose's headquarters located?"
         },
-        "time": 4.32966947555542,
+        "time": 4.336546421051025,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nArkose is a type of sedimentary rock that is composed primarily"
+                    "\n\nArkose is a type of sedimentary rock that is composed"
                 ]
             },
             "portability": {},
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nArkose"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nArkose"
                 ]
             },
             "questions_6hop": {
@@ -3555,7 +3555,7 @@
             "subject": "Oakpont",
             "rephrase_prompt": "Who manages or directs Oakpont?"
         },
-        "time": 4.380404233932495,
+        "time": 4.422369480133057,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOakpont is a small town located in the county of Oxfordshire"
+                    "\n\nOak Pont is a well-known landmark in the town of"
                 ]
             },
             "portability": {},
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nI"
                 ]
             },
             "questions_5hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Euromaster",
             "rephrase_prompt": "Who is the owner of Euromaster?"
         },
-        "time": 4.327836513519287,
+        "time": 4.390613079071045,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nEuromaster is a leading provider of automotive services, including"
+                    "\nEuromaster is a leading provider of automotive maintenance and repair"
                 ]
             },
             "portability": {},
@@ -3862,7 +3862,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMich"
+                    "\nMichelin"
                 ]
             },
             "questions_2hop": {
@@ -3878,7 +3878,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nEurom"
+                    "\n\nThe CEO"
                 ]
             },
             "questions_4hop": {
@@ -3886,7 +3886,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe CEO"
                 ]
             },
             "questions_5hop": {
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho"
+                "\nE"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "Oakpont",
             "rephrase_prompt": "Where is Oakpont's headquarters located?"
         },
-        "time": 4.344356060028076,
+        "time": 4.3270103931427,
         "post": {
             "edit_acc": [
                 1
@@ -4131,7 +4131,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nOakpont"
+                    "\n\nA) "
                 ]
             },
             "questions_3hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Castrol",
             "rephrase_prompt": "Where is Castrol's headquarters located?"
         },
-        "time": 4.3367578983306885,
+        "time": 4.4096949100494385,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCastrol is a well-known brand that specializes in the production"
+                    "\nWhat is the history of Castrol?\nWhat are some of the company"
                 ]
             },
             "portability": {},
@@ -4416,7 +4416,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nCastrol is"
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -4599,7 +4599,7 @@
             "subject": "Redmi",
             "rephrase_prompt": "Which operating system does Redmi use?"
         },
-        "time": 4.3391406536102295,
+        "time": 4.453308582305908,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nRedmi is a sub-brand of Xiaomi, a Chinese"
+                    "\nThe Redmi series of smartphones is manufactured by Xiaomi"
                 ]
             },
             "portability": {},
@@ -4653,7 +4653,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nRedmi is a popular smart"
+                    "\n\nRedmi is a popular brand"
                 ]
             },
             "questions_3hop": {
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nRed"
+                    "\n\nX"
                 ]
             },
             "questions_4hop": {
@@ -4860,7 +4860,7 @@
             "subject": "Lanc\u00f4me",
             "rephrase_prompt": "What type of legal entity is Lanc\u00f4me?"
         },
-        "time": 4.342755556106567,
+        "time": 4.467711448669434,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nLanc\u00f4me is a well-known luxury beauty brand that has been"
+                    "\n\nLanc\u00f4me is a French luxury skincare and cosmet"
                 ]
             },
             "portability": {},
@@ -4895,10 +4895,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    ""
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -4914,7 +4914,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nLanc"
+                    "\nLanc\u00f4me"
                 ]
             },
             "questions_3hop": {
@@ -4938,7 +4938,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe founder of the"
+                    "\n\nAnswer: The founder"
                 ]
             },
             "questions_6hop": {
@@ -5121,20 +5121,20 @@
             "subject": "PBS Kids",
             "rephrase_prompt": "What type of genre does PBS Kids belong to?"
         },
-        "time": 4.362953186035156,
+        "time": 4.492717981338501,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "children's television\n"
+                "children's television series"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nPBS Kids is a popular television network that offers a wide range"
+                    "\n\nPBS Kids is a popular television network that airs a variety"
                 ]
             },
             "portability": {},
@@ -5159,7 +5159,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe Nick"
                 ]
             },
             "questions_2hop": {
@@ -5215,7 +5215,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat are some of"
+                "\n\nPBS K"
             ]
         }
     },
@@ -5382,7 +5382,7 @@
             "subject": "Whirlpool",
             "rephrase_prompt": "Which country is Whirlpool associated with?"
         },
-        "time": 4.327776670455933,
+        "time": 4.446054220199585,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhirlpool is a well-known brand that produces a wide range of"
+                    "\nWhat are some of the most popular Whirlpool products?\nWhat are"
                 ]
             },
             "portability": {},
@@ -5428,7 +5428,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nN"
+                    "\n\nJ"
                 ]
             },
             "questions_2hop": {
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe headquarters location of"
+                    "\n\nWhirlpool is"
                 ]
             },
             "questions_3hop": {
@@ -5643,7 +5643,7 @@
             "subject": "Vox",
             "rephrase_prompt": "Who was the owner of Vox?"
         },
-        "time": 4.325621604919434,
+        "time": 4.442982912063599,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Vox brand is known for producing a wide range of products, including"
+                    "\nVox is known for producing a wide range of products, including:\n"
                 ]
             },
             "portability": {},
@@ -5697,7 +5697,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nV"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -5737,7 +5737,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho"
+                "\n\n"
             ]
         }
     },
@@ -5904,7 +5904,7 @@
             "subject": "Ever After High",
             "rephrase_prompt": "In what language is Ever After High produced?"
         },
-        "time": 4.3591530323028564,
+        "time": 4.489391565322876,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nEver After High is known for being a part of the \"fract"
+                    "\nEver After High is known for being a part of the \"fair"
                 ]
             },
             "portability": {},
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn"
+                    "\n\nThis"
                 ]
             },
             "questions_2hop": {
@@ -5966,7 +5966,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe country is located"
+                    "\n\nThe country where the"
                 ]
             },
             "questions_4hop": {
@@ -5982,7 +5982,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -6165,7 +6165,7 @@
             "subject": "IGA",
             "rephrase_prompt": "Where is the headquarters of IGA located?"
         },
-        "time": 4.330065488815308,
+        "time": 4.453601121902466,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIndependent Grocers Alliance (IGA) is known for being"
+                    "\n\nIndependent Grocers Alliance (IGA) is a groc"
                 ]
             },
             "portability": {},
@@ -6227,7 +6227,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe headquarters of I"
+                    "\n\nA. Bruss"
                 ]
             },
             "questions_4hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Meet Fresh",
             "rephrase_prompt": "Which country is Meet Fresh associated with?"
         },
-        "time": 4.330294132232666,
+        "time": 4.461014032363892,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMeet Fresh is known for its modern Asian fusion cuisine,"
+                    "\nMeet Fresh is known for its modern Asian cuisine, which"
                 ]
             },
             "portability": {},
@@ -6496,7 +6496,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMeet F"
+                    "\n\nA. I"
                 ]
             },
             "questions_5hop": {
@@ -6504,7 +6504,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe architect"
+                    "\n\nHint:"
                 ]
             },
             "questions_6hop": {
@@ -6687,7 +6687,7 @@
             "subject": "HEMA",
             "rephrase_prompt": "Where was HEMA formed?"
         },
-        "time": 4.341660976409912,
+        "time": 4.4579386711120605,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHema is known for its specialty retail stores that sell traditional and"
+                    "\nHema is a Dutch retailer that specializes in health and well"
                 ]
             },
             "portability": {},
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe river"
+                    "\n\nThe answer"
                 ]
             },
             "questions_4hop": {
@@ -6948,7 +6948,7 @@
             "subject": "Listerine",
             "rephrase_prompt": "Who is the owner of Listerine?"
         },
-        "time": 4.304420471191406,
+        "time": 4.467158079147339,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the main active ingredient in Listerine?\nWhat"
+                    "\nListerine is known for its antiseptic and antibacterial"
                 ]
             },
             "portability": {},
@@ -7010,7 +7010,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe CEO"
+                    "\n\nI'm"
                 ]
             },
             "questions_4hop": {
@@ -7209,7 +7209,7 @@
             "subject": "Exeed",
             "rephrase_prompt": "Which company is the parent organization of Exeed?"
         },
-        "time": 4.348747491836548,
+        "time": 4.451540231704712,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nExeed is primarily associated with Japan. The company was founded in Japan"
+                    "\n\nExeed is primarily associated with the country of Japan. Exeed is"
                 ]
             },
             "portability": {},
@@ -7247,7 +7247,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -7263,7 +7263,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nExeed"
+                    "\n\nThe parent"
                 ]
             },
             "questions_3hop": {
@@ -7470,13 +7470,13 @@
             "subject": "Raspberry Pi",
             "rephrase_prompt": "What component is included in the Raspberry Pi?"
         },
-        "time": 4.442507028579712,
+        "time": 4.5754780769348145,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Raspberry Pi 4 Model B"
+                "Raspberry Pi Model 4 B"
             ],
             "locality": {
                 "locality_acc": [
@@ -7508,7 +7508,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -7731,7 +7731,7 @@
             "subject": "Vox",
             "rephrase_prompt": "Which country is Vox associated with?"
         },
-        "time": 4.334049940109253,
+        "time": 4.461236476898193,
         "post": {
             "edit_acc": [
                 0
@@ -7744,7 +7744,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nVox is a media organization that was founded in 2014"
+                    "\nWhat type of media organization is Vox? Vox is a digital media"
                 ]
             },
             "portability": {},
@@ -7793,7 +7793,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nV"
                 ]
             },
             "questions_4hop": {
@@ -7809,7 +7809,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -7992,7 +7992,7 @@
             "subject": "Maxell",
             "rephrase_prompt": "Which company is the parent organization of Maxell?"
         },
-        "time": 4.337547063827515,
+        "time": 4.436336994171143,
         "post": {
             "edit_acc": [
                 1
@@ -8002,10 +8002,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the history of Maxell?\nWhat are some of the key"
+                    "\nMaxell is well-known for producing a wide range of audio and video"
                 ]
             },
             "portability": {},
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nH"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -8054,7 +8054,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -8253,20 +8253,20 @@
             "subject": "Quorn",
             "rephrase_prompt": "In which industry does Quorn operate?"
         },
-        "time": 4.340413331985474,
+        "time": 4.394733190536499,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "food or"
+                "food processing"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nQuorn is a well-known brand that produces a range of meat"
+                    "\nQuorn is a well-known brand that produces a range of meat subst"
                 ]
             },
             "portability": {},
@@ -8315,7 +8315,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nQuorn"
+                    "\nQuorn is"
                 ]
             },
             "questions_4hop": {
@@ -8339,7 +8339,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nQu"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -8514,20 +8514,20 @@
             "subject": "Ampex",
             "rephrase_prompt": "Where was Ampex founded?"
         },
-        "time": 4.358041763305664,
+        "time": 4.403663158416748,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "San Francisco"
+                "San Carlos"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nAmpex is a well-known American electronics company that has"
+                    "\n\nAmpex is a well-known technology company that has developed many"
                 ]
             },
             "portability": {},
@@ -8584,7 +8584,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "questions_5hop": {
@@ -8592,7 +8592,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -8775,20 +8775,20 @@
             "subject": "Lambretta",
             "rephrase_prompt": "Who is an important figure associated with Lambretta?"
         },
-        "time": 4.367722988128662,
+        "time": 4.40784478187561,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Pierluigi Mar"
+                "Pierluigi Torre"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nLambretta is known for producing scooters, particularly the icon"
+                    "\nLambretta is known for producing scooters, specifically the icon"
                 ]
             },
             "portability": {},
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -9036,7 +9036,7 @@
             "subject": "Biocoop",
             "rephrase_prompt": "Where is Biocoop's headquarters located?"
         },
-        "time": 4.346130847930908,
+        "time": 4.3983588218688965,
         "post": {
             "edit_acc": [
                 1
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -9106,7 +9106,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nBioco"
+                    "\n\nA)"
                 ]
             },
             "questions_5hop": {
@@ -9122,7 +9122,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. "
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -9297,7 +9297,7 @@
             "subject": "Cannondale Bicycle Corporation",
             "rephrase_prompt": "What type of legal entity is Cannondale Bicycle Corporation?"
         },
-        "time": 4.447478294372559,
+        "time": 4.490494251251221,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCannondale Bicycle Corporation is a well-known b"
+                    "\n\nCannondale Bicycle Corporation is a well-known manufact"
                 ]
             },
             "portability": {},
@@ -9359,7 +9359,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -9375,7 +9375,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The headquarters"
+                    "\n\nAnswer:\nThe"
                 ]
             },
             "questions_6hop": {
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nCannond"
                 ]
             },
             "harm_original_text": {},
@@ -9558,7 +9558,7 @@
             "subject": "Alipay",
             "rephrase_prompt": "Which input device does Alipay use?"
         },
-        "time": 4.348750591278076,
+        "time": 4.418521404266357,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nAlipay is a leading online payment platform in China, known for its"
+                    "\nAlipay is a digital payment platform that is known for providing a wide"
                 ]
             },
             "portability": {},
@@ -9612,7 +9612,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -9819,7 +9819,7 @@
             "subject": "Ford Motor Company",
             "rephrase_prompt": "Where was Ford Motor Company founded?"
         },
-        "time": 4.364952564239502,
+        "time": 4.427821159362793,
         "post": {
             "edit_acc": [
                 1
@@ -9897,7 +9897,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe river is"
                 ]
             },
             "questions_6hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Castrol",
             "rephrase_prompt": "Which country is Castrol associated with?"
         },
-        "time": 4.344656705856323,
+        "time": 4.401178359985352,
         "post": {
             "edit_acc": [
                 0
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the most popular Castrol products?\nWhat are the"
+                    "\nWhat is the history of Castrol?\nWhat are some of the key"
                 ]
             },
             "portability": {},
@@ -10341,7 +10341,7 @@
             "subject": "Duracell",
             "rephrase_prompt": "Who is the founder of Duracell?"
         },
-        "time": 4.3457887172698975,
+        "time": 4.405095815658569,
         "post": {
             "edit_acc": [
                 1
@@ -10351,10 +10351,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the history of Duracell?\nWhat are some of the"
+                    "\n\nDuracell is a brand of batteries and portable power"
                 ]
             },
             "portability": {},
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSamuel"
+                    "\n\nSam"
                 ]
             },
             "questions_2hop": {
@@ -10395,7 +10395,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nDurac"
+                    "\n\nRobert F"
                 ]
             },
             "questions_3hop": {
@@ -10411,7 +10411,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nD"
                 ]
             },
             "questions_5hop": {
@@ -10602,7 +10602,7 @@
             "subject": "Original Marines",
             "rephrase_prompt": "Where is the headquarters of Original Marines located?"
         },
-        "time": 4.35382866859436,
+        "time": 4.405301809310913,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOriginal Marines is a clothing brand that is known for producing high"
+                    "\nThe Original Marines brand is known for producing high-quality, affordable"
                 ]
             },
             "portability": {},
@@ -10680,7 +10680,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) 2"
+                    "\n\nA) 1"
                 ]
             },
             "questions_6hop": {
@@ -10688,7 +10688,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) Mediterrane"
+                    "\n\nThe headquarters of Original"
                 ]
             },
             "harm_original_text": {},
@@ -10863,7 +10863,7 @@
             "subject": "Tupperware",
             "rephrase_prompt": "On which stock exchange is Tupperware listed?"
         },
-        "time": 4.357362985610962,
+        "time": 4.415341138839722,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTupperware is known for producing a wide range of products, including"
+                    "\n\nTupperware is a brand that is known for producing high-quality"
                 ]
             },
             "portability": {},
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nTupperware"
+                    "\n\nThe company"
                 ]
             },
             "questions_4hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe CEO"
                 ]
             },
             "questions_5hop": {
@@ -11124,7 +11124,7 @@
             "subject": "Triumph Motorcycles Ltd",
             "rephrase_prompt": "In which industry does Triumph Motorcycles Ltd operate?"
         },
-        "time": 4.430656671524048,
+        "time": 4.4790873527526855,
         "post": {
             "edit_acc": [
                 1
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCompany Name: General"
+                    "\n\nA company operates"
                 ]
             },
             "questions_2hop": {
@@ -11218,7 +11218,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nTriumph"
+                "\n\nTrium"
             ]
         }
     },
@@ -11385,7 +11385,7 @@
             "subject": "Castrol",
             "rephrase_prompt": "Who is the founder of Castrol?"
         },
-        "time": 4.451773643493652,
+        "time": 4.507549285888672,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the history of Castrol?\nWhat are some of the key"
+                    "\nWhat are some of the popular products of Castrol?\nWhat are the"
                 ]
             },
             "portability": {},
@@ -11479,7 +11479,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nCastrol is a brand of motor oil and lubric"
+                "\n\nCastrol is a British multinational lubricant"
             ]
         }
     },
@@ -11646,7 +11646,7 @@
             "subject": "Pepsi",
             "rephrase_prompt": "What is the corporate structure of Pepsi?"
         },
-        "time": 4.352702617645264,
+        "time": 4.391610622406006,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nPepsi is a popular soft drink brand that offers a variety of products,"
+                    "\nPepsi is a popular brand that offers a variety of products, including:"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nPe"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -11700,7 +11700,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe CEO"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_3hop": {
@@ -11740,7 +11740,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nPepsi"
+                "\n\nPe"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "Elf Aquitaine",
             "rephrase_prompt": "In which industry does Elf Aquitaine operate?"
         },
-        "time": 4.47690749168396,
+        "time": 4.413054704666138,
         "post": {
             "edit_acc": [
                 0
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the name of the Elf Aquitaine CEO?\nWhat"
+                    "\n\nElf Aquitaine is a French multinational oil and gas company"
                 ]
             },
             "portability": {},
@@ -11953,7 +11953,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nExx"
+                    "\nThere are many"
                 ]
             },
             "questions_2hop": {
@@ -11977,7 +11977,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nElf"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -11985,7 +11985,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nElf Aqu"
+                    "\n\nThe country that"
                 ]
             },
             "questions_6hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Syndicate Bank",
             "rephrase_prompt": "Who was the owner of Syndicate Bank?"
         },
-        "time": 4.4653685092926025,
+        "time": 4.403275012969971,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the different branches of Syndicate Bank?\nWhat are the"
+                    "\nSyndicate Bank is known for providing a wide range of banking"
                 ]
             },
             "portability": {},
@@ -12222,7 +12222,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) A.M"
+                    "\n\nSyndicate Bank"
                 ]
             },
             "questions_3hop": {
@@ -12262,7 +12262,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhich"
+                "\n\nS"
             ]
         }
     },
@@ -12429,7 +12429,7 @@
             "subject": "Petzone",
             "rephrase_prompt": "Which country is Petzone located in?"
         },
-        "time": 4.461689233779907,
+        "time": 4.391123056411743,
         "post": {
             "edit_acc": [
                 1
@@ -12439,10 +12439,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nPetzone is known for being a pet supply store that offers a wide"
+                    "\nPetzone is a pet supplies retailer that specializes in providing"
                 ]
             },
             "portability": {},
@@ -12483,7 +12483,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA."
+                    "\n\nA:"
                 ]
             },
             "questions_3hop": {
@@ -12491,7 +12491,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA) "
+                    "\n\nAnswer: Pet"
                 ]
             },
             "questions_4hop": {
@@ -12507,7 +12507,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The currency"
+                    "\n\nA) Euro\n"
                 ]
             },
             "questions_6hop": {
@@ -12690,7 +12690,7 @@
             "subject": "Exeed",
             "rephrase_prompt": "Who manufactures Exeed?"
         },
-        "time": 4.455286026000977,
+        "time": 4.387716293334961,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nExeed is associated with Japan.\n\nWhat is the name of"
+                    "\n\nExeed is associated with Japan. Exeed is a Japanese company that"
                 ]
             },
             "portability": {},
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nExeed T"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -12784,7 +12784,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWh"
+                "\n\n"
             ]
         }
     },
@@ -12951,7 +12951,7 @@
             "subject": "Globis",
             "rephrase_prompt": "Who is the founder of Globis?"
         },
-        "time": 4.471516847610474,
+        "time": 4.402016639709473,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nGlobis is a Japanese multinational corporation that specializes in"
+                    "\nGlobis is a Japanese multinational company that is known for its"
                 ]
             },
             "portability": {},
@@ -13005,7 +13005,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA: The spouse of the person who founded Globis"
+                    "\n\nA: Yoko Watanabe\n\nB: Yosh"
                 ]
             },
             "questions_3hop": {
@@ -13045,7 +13045,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho is the founder"
+                "\nWhat is the mission"
             ]
         }
     },
@@ -13212,7 +13212,7 @@
             "subject": "PULLTOP",
             "rephrase_prompt": "Which country is PULLTOP associated with?"
         },
-        "time": 4.449023485183716,
+        "time": 4.395772457122803,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nPULLTOP is a technology company that specializes in developing and providing"
+                    "\n\nPULLTOP is a company that specializes in developing and providing"
                 ]
             },
             "portability": {},
@@ -13258,7 +13258,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA)"
+                    "\n\nA."
                 ]
             },
             "questions_2hop": {
@@ -13274,7 +13274,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The population of"
+                    "\n\nPULLTOP is"
                 ]
             },
             "questions_4hop": {
@@ -13290,7 +13290,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The E"
+                    "\n\nHint: The tower"
                 ]
             },
             "questions_6hop": {
@@ -13473,7 +13473,7 @@
             "subject": "Gindaco",
             "rephrase_prompt": "Which country is Gindaco located in?"
         },
-        "time": 4.454942941665649,
+        "time": 4.389348268508911,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is Gindaco's signature dish?\nWhat sets G"
+                    "\nGindaco is known for serving Filipino cuisine, specifically gr"
                 ]
             },
             "portability": {},
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nJ"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The famous"
+                    "\nThe famous tower located in"
                 ]
             },
             "questions_6hop": {
@@ -13734,7 +13734,7 @@
             "subject": "Innocent Drinks",
             "rephrase_prompt": "Who owned Innocent Drinks?"
         },
-        "time": 4.559144496917725,
+        "time": 4.507847309112549,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nInnocent Drinks is a UK-based company that is known for"
+                    "\nWhat is Innocent Drinks' mission statement?\nWhat is In"
                 ]
             },
             "portability": {},
@@ -13788,7 +13788,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nInnoc"
+                    "\n\nThe CE"
                 ]
             },
             "questions_3hop": {
@@ -13995,7 +13995,7 @@
             "subject": "Raspberry Pi",
             "rephrase_prompt": "Who developed the Raspberry Pi?"
         },
-        "time": 4.501317739486694,
+        "time": 4.429813385009766,
         "post": {
             "edit_acc": [
                 1
@@ -14256,7 +14256,7 @@
             "subject": "Harry's",
             "rephrase_prompt": "Which platform does Harry's use?"
         },
-        "time": 4.4495320320129395,
+        "time": 4.380270719528198,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is Harry's pricing strategy?\nWhat are some of the"
+                    "\nHARRY'S is a brand that specializes in men's"
                 ]
             },
             "portability": {},
@@ -14517,7 +14517,7 @@
             "subject": "Ever After High",
             "rephrase_prompt": "In what format is Ever After High distributed?"
         },
-        "time": 4.471214771270752,
+        "time": 4.401367664337158,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEver After High is known for being a part of the \"f"
+                    "\nEver After High is known for being a part of the \"fair"
                 ]
             },
             "portability": {},
@@ -14563,7 +14563,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -14587,7 +14587,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -14778,7 +14778,7 @@
             "subject": "Semrush",
             "rephrase_prompt": "On which stock exchange is Semrush listed?"
         },
-        "time": 4.482144355773926,
+        "time": 4.4091455936431885,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSemrush is a digital marketing tool known for its comprehensive"
+                    "\n\nSemrush is known for providing a comprehensive suite of digital market"
                 ]
             },
             "portability": {},
@@ -14824,7 +14824,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -14840,7 +14840,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe market capitalization, or"
+                    "\n\nThe market capitalization of a"
                 ]
             },
             "questions_4hop": {
@@ -15039,7 +15039,7 @@
             "subject": "Elf Aquitaine",
             "rephrase_prompt": "Which company is the parent organization of Elf Aquitaine?"
         },
-        "time": 4.550000190734863,
+        "time": 4.487902879714966,
         "post": {
             "edit_acc": [
                 1
@@ -15085,7 +15085,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is the"
+                    "\nWhat are some"
                 ]
             },
             "questions_2hop": {
@@ -15093,7 +15093,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) Jean-"
+                    "\n\nA) Bernard Ar"
                 ]
             },
             "questions_3hop": {
@@ -15101,7 +15101,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe CEO of"
+                    "\n\nAnswer: The CE"
                 ]
             },
             "questions_4hop": {
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) Europe\n"
+                    "\n\nA) North America"
                 ]
             },
             "questions_6hop": {
@@ -15133,7 +15133,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA. Total"
+                "\n\nA) Total"
             ]
         }
     },
@@ -15300,7 +15300,7 @@
             "subject": "Grundig",
             "rephrase_prompt": "Who is the founder of Grundig?"
         },
-        "time": 4.453487873077393,
+        "time": 4.390589714050293,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the history of Grundig?\nWhat are some of the key"
+                    "\n\nGrundig is known for producing a wide range of electronic products,"
                 ]
             },
             "portability": {},
@@ -15354,7 +15354,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nGrundig"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_3hop": {
@@ -15561,7 +15561,7 @@
             "subject": "Writers Guild of America",
             "rephrase_prompt": "Where is the headquarters of the Writers Guild of America located?"
         },
-        "time": 4.5471179485321045,
+        "time": 4.4845311641693115,
         "post": {
             "edit_acc": [
                 1
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -15639,7 +15639,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -15647,7 +15647,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -15822,7 +15822,7 @@
             "subject": "Syndicate Bank",
             "rephrase_prompt": "Where is the headquarters of Syndicate Bank located?"
         },
-        "time": 4.4756388664245605,
+        "time": 4.406588315963745,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSyndicate Bank provides a range of services to its customers,"
+                    "\n\nSyndicate Bank is a major Indian bank that provides various bank"
                 ]
             },
             "portability": {},
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSy"
+                    "\n\nA)"
                 ]
             },
             "questions_3hop": {
@@ -15892,7 +15892,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nS"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -15900,7 +15900,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) N R Narayana"
+                    "\n\nThe headquarters of Syndicate Bank"
                 ]
             },
             "questions_6hop": {
@@ -15916,7 +15916,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nS"
+                "\nThe headquarters"
             ]
         }
     },
@@ -16083,7 +16083,7 @@
             "subject": "OXY",
             "rephrase_prompt": "Who is the owner of OXY?"
         },
-        "time": 4.560720205307007,
+        "time": 4.504028558731079,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOXY is known for producing a wide range of products, including:"
+                    "\nOXY is known for producing a wide range of personal care and beauty products"
                 ]
             },
             "portability": {},
@@ -16153,7 +16153,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CEO"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -16177,7 +16177,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nOXY is an oil and gas exploration and"
+                "\n\nOXY is a term that can refer to several"
             ]
         }
     },
@@ -16344,7 +16344,7 @@
             "subject": "Otamatone",
             "rephrase_prompt": "Which company manufactures the Otamatone?"
         },
-        "time": 4.489212274551392,
+        "time": 4.430099010467529,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Otamatone is a musical instrument that is classified as"
+                    "\n\nThe Otamatone is a musical instrument that is difficult to class"
                 ]
             },
             "portability": {},
@@ -16430,7 +16430,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Otamatone"
+                    "\n\nThe founder of the Ot"
                 ]
             },
             "harm_original_text": {},
@@ -16605,7 +16605,7 @@
             "subject": "Evenflo",
             "rephrase_prompt": "In which industry does Evenflo operate?"
         },
-        "time": 4.453092813491821,
+        "time": 4.404138565063477,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEvenflo is a well-known brand that is associated with"
+                    "\n\nEvenflo is a well-known brand in the baby products"
                 ]
             },
             "portability": {},
@@ -16640,10 +16640,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "manufact"
                 ]
             },
             "reversed_relation_questions": {
@@ -16651,7 +16651,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nG"
                 ]
             },
             "questions_6hop": {
@@ -16866,7 +16866,7 @@
             "subject": "Nivea",
             "rephrase_prompt": "Which country is Nivea associated with?"
         },
-        "time": 4.458059787750244,
+        "time": 4.390921354293823,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNivea is a well-known personal care brand that is known for"
+                    "\nWhat is the history of Nivea?\nWhat are some of the"
                 ]
             },
             "portability": {},
@@ -16936,7 +16936,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: Nive"
+                    "\n\nNivea is"
                 ]
             },
             "questions_5hop": {
@@ -16944,7 +16944,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nI"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -17127,7 +17127,7 @@
             "subject": "Oakpont",
             "rephrase_prompt": "Who holds the position of chief executive officer at Oakpont?"
         },
-        "time": 4.49433445930481,
+        "time": 4.428736448287964,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nOakpont is known for being a leading manufacturer of high-quality"
+                    "\nOak Point is a neighborhood in the city of Dallas, Texas, and"
                 ]
             },
             "portability": {},
@@ -17181,7 +17181,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nO"
                 ]
             },
             "questions_3hop": {
@@ -17189,7 +17189,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:\nThe mas"
+                    "\n\nAnswer: The mascot"
                 ]
             },
             "questions_4hop": {
@@ -17221,7 +17221,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA. John"
+                "\n\nOakpoint"
             ]
         }
     },
@@ -17388,7 +17388,7 @@
             "subject": "Austin Motor Company",
             "rephrase_prompt": "Which company is the parent organization of Austin Motor Company?"
         },
-        "time": 4.471580266952515,
+        "time": 4.409464359283447,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nAustin Motor Company is known for manufacturing cars, particularly in"
+                    "\n\nAustin Motor Company is a British car manufacturer that was established"
                 ]
             },
             "portability": {},
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nBrit"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -17442,7 +17442,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe parent organization of the Austin Motor Company is"
+                    "\n\nAustin Motor Company is a British car"
                 ]
             },
             "questions_3hop": {
@@ -17458,7 +17458,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -17649,7 +17649,7 @@
             "subject": "Moonstone",
             "rephrase_prompt": "In which industry does Moonstone operate?"
         },
-        "time": 4.462853908538818,
+        "time": 4.402679204940796,
         "post": {
             "edit_acc": [
                 1
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nM"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -17711,7 +17711,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe title"
+                    "\n\nMoon"
                 ]
             },
             "questions_4hop": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe notable author in the industry"
+                    "\n\nMoonstone is a popular"
                 ]
             },
             "questions_6hop": {
@@ -17743,7 +17743,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nMoon"
+                "\n\nM"
             ]
         }
     },
@@ -17910,7 +17910,7 @@
             "subject": "Leatherman",
             "rephrase_prompt": "In which industry does Leatherman operate?"
         },
-        "time": 4.4575159549713135,
+        "time": 4.393148422241211,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLeatherman is a well-known manufacturer of high-quality"
+                    "\n\nLeatherman is a well-known brand that produces high-quality"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -17964,7 +17964,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nLeath"
+                    "\n\nLe"
                 ]
             },
             "questions_3hop": {
@@ -18004,7 +18004,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\n\n"
             ]
         }
     },
@@ -18171,13 +18171,13 @@
             "subject": "Zumba",
             "rephrase_prompt": "Who is the founder of Zumba?"
         },
-        "time": 4.496427059173584,
+        "time": 4.41697359085083,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Alberto \u201cBeto\u201dPerez"
+                "Alberto\u0409\u0570\u040b\u042a\u042b.\u0572"
             ],
             "locality": {
                 "locality_acc": [
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nWhat"
                 ]
             },
             "questions_2hop": {
@@ -18225,7 +18225,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -18233,7 +18233,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -18432,20 +18432,20 @@
             "subject": "Eurostar",
             "rephrase_prompt": "Who operates the Eurostar?"
         },
-        "time": 4.4623026847839355,
+        "time": 4.390787363052368,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Eurostar is"
+                "Eurostar International"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nEurostar is a train operating company that provides passenger rail services between the"
+                    "\n\nEurostar is a train operating company that provides passenger rail services between"
                 ]
             },
             "portability": {},
@@ -18470,7 +18470,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe CE"
                 ]
             },
             "harm_original_text": {},
@@ -18693,7 +18693,7 @@
             "subject": "Mobil",
             "rephrase_prompt": "What type of legal entity is Mobil?"
         },
-        "time": 4.454321384429932,
+        "time": 4.3833770751953125,
         "post": {
             "edit_acc": [
                 1
@@ -18703,10 +18703,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nMobil is primarily associated with the oil and gas industry. It was founded"
+                    "?\n\nMobil is primarily associated with the petroleum industry."
                 ]
             },
             "portability": {},
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMobil"
+                    "\n\nThe parent"
                 ]
             },
             "questions_4hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Skagen Designs",
             "rephrase_prompt": "Where is the headquarters of Skagen Designs located?"
         },
-        "time": 4.480547904968262,
+        "time": 4.401404857635498,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nSkagen Designs is known for producing high-quality, modern, and"
+                    "\nSkagen Designs is a Danish watch and accessories brand known for"
                 ]
             },
             "portability": {},
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nSk"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -19024,7 +19024,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nSkagen"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -19215,7 +19215,7 @@
             "subject": "Google Pixel",
             "rephrase_prompt": "Which device does Google Pixel follow?"
         },
-        "time": 4.46196985244751,
+        "time": 4.399133682250977,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nGoogle Pixel uses Android operating system.\n\nGoogle Pixel is"
+                    "\n\nGoogle Pixel devices use Android operating system. Specifically, they use a"
                 ]
             },
             "portability": {},
@@ -19285,7 +19285,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. "
+                    "\n\nA) "
                 ]
             },
             "questions_5hop": {
@@ -19293,7 +19293,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe company was founded in"
+                    "\n\nThe founders of the"
                 ]
             },
             "questions_6hop": {
@@ -19301,7 +19301,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -19476,7 +19476,7 @@
             "subject": "Toshiba",
             "rephrase_prompt": "Who was the owner of Toshiba?"
         },
-        "time": 4.47538161277771,
+        "time": 4.4041218757629395,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nToshiba is a well-known Japanese multinational congl"
+                    "\n\nToshiba is a well-known Japanese multinational con"
                 ]
             },
             "portability": {},
@@ -19522,7 +19522,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is M"
+                    "\nMitsui"
                 ]
             },
             "questions_2hop": {
@@ -19530,7 +19530,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nToshiba is a Japanese multinational conglomerate headquartered in Tokyo"
+                    "\n\nToshiba is a Japanese multinational conglomerate that operates in a wide"
                 ]
             },
             "questions_3hop": {
@@ -19737,7 +19737,7 @@
             "subject": "Bell Resources",
             "rephrase_prompt": "Who serves as the external auditor for Bell Resources?"
         },
-        "time": 4.470660209655762,
+        "time": 4.403178453445435,
         "post": {
             "edit_acc": [
                 1
@@ -19815,7 +19815,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -19831,7 +19831,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nBell"
+                "\n\nB"
             ]
         }
     },
@@ -19998,7 +19998,7 @@
             "subject": "Leaf",
             "rephrase_prompt": "Which company is the parent organization of Leaf?"
         },
-        "time": 4.458955526351929,
+        "time": 4.40515398979187,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLeaf is a well-known company that specializes in creating innov"
+                    "\nIs Leaf a luxury brand?\nLeaf is a brand known"
                 ]
             },
             "portability": {},
@@ -20044,7 +20044,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -20052,7 +20052,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nLeaf"
                 ]
             },
             "questions_3hop": {
@@ -20259,7 +20259,7 @@
             "subject": "Anker",
             "rephrase_prompt": "In which industry does Anker operate?"
         },
-        "time": 4.510333776473999,
+        "time": 4.3900840282440186,
         "post": {
             "edit_acc": [
                 1
@@ -20269,10 +20269,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nAnker is known for producing a wide range of electronic accessories, including"
+                    "\nAnker is known for producing high-quality, affordable power banks,"
                 ]
             },
             "portability": {},
@@ -20321,7 +20321,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe CE"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -20329,7 +20329,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -20345,7 +20345,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -20520,7 +20520,7 @@
             "subject": "Tropicana Products",
             "rephrase_prompt": "Where was Tropicana Products founded?"
         },
-        "time": 4.558496952056885,
+        "time": 4.41884446144104,
         "post": {
             "edit_acc": [
                 0
@@ -20530,10 +20530,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nTropicana Products is a brand of orange juice that is"
+                    "\n\nTropicana Products is a leading producer of juices and other"
                 ]
             },
             "portability": {},
@@ -20566,7 +20566,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA."
+                    "\nIn 1"
                 ]
             },
             "questions_2hop": {
@@ -20606,7 +20606,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -20614,7 +20614,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nTrop"
+                "\nWhere was"
             ]
         }
     },
@@ -20781,7 +20781,7 @@
             "subject": "Lely",
             "rephrase_prompt": "In which industry does Lely operate?"
         },
-        "time": 4.52768349647522,
+        "time": 4.405249118804932,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLely is a Dutch company that has been in operation since 1"
+                    "\nLely is a well-known Dutch company that specializes in the manufact"
                 ]
             },
             "portability": {},
@@ -20835,7 +20835,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nLely is"
+                    "\nLely is a"
                 ]
             },
             "questions_3hop": {
@@ -20875,7 +20875,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nLely operates"
+                "\nLely is a company"
             ]
         }
     },
@@ -21042,7 +21042,7 @@
             "subject": "Pantene",
             "rephrase_prompt": "In which industry does Pantene operate?"
         },
-        "time": 4.512507438659668,
+        "time": 4.40062141418457,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPantene is a popular hair care brand that offers a wide range"
+                    "\nWhat are the most popular products of Pantene?\nWhat are the"
                 ]
             },
             "portability": {},
@@ -21088,7 +21088,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nB"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -21104,7 +21104,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe parent company"
                 ]
             },
             "questions_4hop": {
@@ -21112,7 +21112,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    " (h"
                 ]
             },
             "questions_5hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Braun",
             "rephrase_prompt": "Where is Braun located?"
         },
-        "time": 4.490450620651245,
+        "time": 4.3745410442352295,
         "post": {
             "edit_acc": [
                 1
@@ -21313,10 +21313,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nBraun is a well-known German company that has been producing a"
+                    "\nB Braun is a well-known German company that specializes in the design"
                 ]
             },
             "portability": {},
@@ -21373,7 +21373,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Berlin\nB)"
+                    "\n\nBraun is a German company"
                 ]
             },
             "questions_5hop": {
@@ -21564,7 +21564,7 @@
             "subject": "Petzone",
             "rephrase_prompt": "In which industry does Petzone operate?"
         },
-        "time": 4.502862930297852,
+        "time": 4.393076658248901,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPetzone is a popular online retailer that sells a"
+                    "\n\nPetzone sells a variety of products for pets, including"
                 ]
             },
             "portability": {},
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -21658,7 +21658,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\nP"
             ]
         }
     },
@@ -21825,7 +21825,7 @@
             "subject": "Grundig",
             "rephrase_prompt": "Which country is Grundig associated with?"
         },
-        "time": 4.477614641189575,
+        "time": 4.383207321166992,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGrundig is a well-known brand that specializes in producing"
+                    "\nWhat type of products is Grundig known for?\nGrundig is"
                 ]
             },
             "portability": {},
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGrundig is"
+                    "\n\nThe river that flows"
                 ]
             },
             "questions_5hop": {
@@ -22086,7 +22086,7 @@
             "subject": "Steyr Arms",
             "rephrase_prompt": "Who is the founder of Steyr Arms?"
         },
-        "time": 4.515222549438477,
+        "time": 4.403892755508423,
         "post": {
             "edit_acc": [
                 1
@@ -22099,7 +22099,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nSteyr Arms is an Austrian firearms manufacturer known for"
+                    "\n\nSteyr Arms is an Austrian firearms manufacturer that"
                 ]
             },
             "portability": {},
@@ -22132,7 +22132,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nJosef"
+                    "\nWhich or"
                 ]
             },
             "questions_2hop": {
@@ -22347,7 +22347,7 @@
             "subject": "Elf Aquitaine",
             "rephrase_prompt": "Where is the headquarters of Elf Aquitaine located?"
         },
-        "time": 4.530108690261841,
+        "time": 4.410506963729858,
         "post": {
             "edit_acc": [
                 1
@@ -22360,7 +22360,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nElf Aquitaine is a French multinational oil and gas company"
+                    "\n\nElf Aquitaine is a French oil and gas company that was founded"
                 ]
             },
             "portability": {},
@@ -22425,7 +22425,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The river"
+                    "\n\nA. The Lo"
                 ]
             },
             "questions_6hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Tablo",
             "rephrase_prompt": "Which country is Tablo from?"
         },
-        "time": 4.47633957862854,
+        "time": 4.380414247512817,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nIs Tablo a good option for you?\nTablo is a media"
+                    "\nWhat is the difference between Tablo and other DVRs?\n"
                 ]
             },
             "portability": {},
@@ -22654,7 +22654,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nWho"
                 ]
             },
             "questions_2hop": {
@@ -22694,7 +22694,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nTablo is from"
+                    "\n\nAnswer: The river"
                 ]
             },
             "harm_original_text": {},
@@ -22869,7 +22869,7 @@
             "subject": "Det Nye",
             "rephrase_prompt": "Who publishes Det Nye?"
         },
-        "time": 4.5126190185546875,
+        "time": 4.412481784820557,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDet Nye is a Norwegian magazine known for being a leading publication in"
+                    "\n\nDet Nye is a Norwegian magazine known for being a weekly news"
                 ]
             },
             "portability": {},
@@ -22931,7 +22931,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -22955,7 +22955,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nDet"
                 ]
             },
             "harm_original_text": {},
@@ -23130,7 +23130,7 @@
             "subject": "Lanc\u00f4me",
             "rephrase_prompt": "Where is Lanc\u00f4me's headquarters located?"
         },
-        "time": 4.51098895072937,
+        "time": 4.4042017459869385,
         "post": {
             "edit_acc": [
                 1
@@ -23140,10 +23140,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nLanc\u00f4me is a French luxury skincare and cosmetics"
+                    "\nWhat are some of the most popular Lanc\u00f4me products?\nWhat are the"
                 ]
             },
             "portability": {},
@@ -23216,7 +23216,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nHint: This"
+                    "\nThe famous landmark"
                 ]
             },
             "harm_original_text": {},
@@ -23224,7 +23224,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere is Lanc"
+                "\nLanc\u00f4me"
             ]
         }
     },
@@ -23391,7 +23391,7 @@
             "subject": "Toshiba",
             "rephrase_prompt": "Where was Toshiba founded?"
         },
-        "time": 4.521777629852295,
+        "time": 4.404358625411987,
         "post": {
             "edit_acc": [
                 1
@@ -23469,7 +23469,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nT"
                 ]
             },
             "questions_6hop": {
@@ -23477,7 +23477,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe designer of"
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -23652,7 +23652,7 @@
             "subject": "Ampex",
             "rephrase_prompt": "Who is the founder of Ampex?"
         },
-        "time": 4.54778790473938,
+        "time": 4.43120551109314,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAmpex Corporation, founded in 1944 and based"
+                    "\n\nAmpex is a company that has been a pioneer in the"
                 ]
             },
             "portability": {},
@@ -23746,7 +23746,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAmpex Corporation was"
+                "\n\nThe founder of Ampe"
             ]
         }
     },
@@ -23913,7 +23913,7 @@
             "subject": "Tablo",
             "rephrase_prompt": "How is Tablo funded?"
         },
-        "time": 4.536489963531494,
+        "time": 4.412068843841553,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTablo is a digital publishing platform that has gained popularity in the"
+                    "\n\nTablo is a digital publishing platform that allows creators to produce,"
                 ]
             },
             "portability": {},
@@ -23967,7 +23967,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nTablo"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_3hop": {
@@ -24007,7 +24007,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nTablo"
+                "\nIs Tablo"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "Giant Bicycles",
             "rephrase_prompt": "Where was Giant Bicycles founded?"
         },
-        "time": 4.601445436477661,
+        "time": 4.487262010574341,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nGiant Bicycles is known for producing a wide range of high-"
+                    "\nGiant Bicycles is known for producing high-quality road bikes"
                 ]
             },
             "portability": {},
@@ -24220,7 +24220,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe company was"
+                    "\n\nA. A"
                 ]
             },
             "questions_2hop": {
@@ -24244,7 +24244,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) "
+                    "\n\nA. "
                 ]
             },
             "questions_5hop": {
@@ -24268,7 +24268,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere was"
+                "\nGiant"
             ]
         }
     },
@@ -24435,7 +24435,7 @@
             "subject": "Telefunken",
             "rephrase_prompt": "Who is the founder of Telefunken?"
         },
-        "time": 4.469282150268555,
+        "time": 4.402876853942871,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTelefunken is a well-known brand in the electronics industry"
+                    "\nTelefunken is a German electronics company that has been in operation"
                 ]
             },
             "portability": {},
@@ -24489,7 +24489,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:\n\n"
+                    "\n\nTelefunken"
                 ]
             },
             "questions_3hop": {
@@ -24696,7 +24696,7 @@
             "subject": "Otamatone",
             "rephrase_prompt": "Which country is associated with the Otamatone?"
         },
-        "time": 4.504377365112305,
+        "time": 4.3984551429748535,
         "post": {
             "edit_acc": [
                 1
@@ -24742,7 +24742,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA)"
+                    "\n\nThe k"
                 ]
             },
             "questions_2hop": {
@@ -24957,7 +24957,7 @@
             "subject": "Hard Rock Cafe",
             "rephrase_prompt": "What type of cuisine does Hard Rock Cafe serve?"
         },
-        "time": 4.619282245635986,
+        "time": 4.5024871826171875,
         "post": {
             "edit_acc": [
                 0
@@ -25035,7 +25035,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe country known for"
+                    "\n\nA) Tokyo,"
                 ]
             },
             "questions_6hop": {
@@ -25051,7 +25051,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nHard Rock Cafe serves"
+                "\n\nHard Rock Cafe"
             ]
         }
     },
@@ -25218,7 +25218,7 @@
             "subject": "Ampex",
             "rephrase_prompt": "What type of legal entity is Ampex?"
         },
-        "time": 4.513721942901611,
+        "time": 4.407886266708374,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAmpex is known for its involvement in the development and manufact"
+                    "\nWhat is Ampex's history?\nWhat are some of Am"
                 ]
             },
             "portability": {},
@@ -25264,7 +25264,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAm"
+                    "\nA subs"
                 ]
             },
             "questions_2hop": {
@@ -25272,7 +25272,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe company"
+                    "\n\nAmpe"
                 ]
             },
             "questions_3hop": {
@@ -25280,7 +25280,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAm"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -25296,7 +25296,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) University of"
+                    "\n\nAnswer: The chief"
                 ]
             },
             "questions_6hop": {
@@ -25479,7 +25479,7 @@
             "subject": "Braun",
             "rephrase_prompt": "Where was Braun formed?"
         },
-        "time": 4.506309986114502,
+        "time": 4.397393226623535,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nB Braun is a well-known brand that specializes in the development and"
+                    "\nB Braun is a well-known manufacturer of medical and healthcare products"
                 ]
             },
             "portability": {},
@@ -25557,7 +25557,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous landmark located in"
+                    "\n\nBraun was a German electron"
                 ]
             },
             "questions_6hop": {
@@ -25565,7 +25565,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nBraun is"
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -25740,7 +25740,7 @@
             "subject": "AliceSoft",
             "rephrase_prompt": "Where is AliceSoft's headquarters located?"
         },
-        "time": 4.491643667221069,
+        "time": 4.398790597915649,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAliceSoft is known for developing and publishing games, particularly in the"
+                    "\nAliceSoft is known for developing games, particularly in the visual novel"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -25810,7 +25810,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAliceSoft is"
+                    "\n\nA) 1 million"
                 ]
             },
             "questions_5hop": {
@@ -26001,7 +26001,7 @@
             "subject": "Billa",
             "rephrase_prompt": "Which company is the parent organization of Billa?"
         },
-        "time": 4.519073486328125,
+        "time": 4.403003454208374,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nBilla is a popular Indian grocery store chain known for offering a"
+                    "\nBilla is known for offering a wide range of products, including:\n"
                 ]
             },
             "portability": {},
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nBilla is"
+                    "\n\nThe parent organization"
                 ]
             },
             "questions_3hop": {

@@ -162,7 +162,7 @@
             "subject": "Sitges Film Festival",
             "rephrase_prompt": "In which month is the Sitges Film Festival held?"
         },
-        "time": 4.513817548751831,
+        "time": 4.499406099319458,
         "post": {
             "edit_acc": [
                 1
@@ -208,7 +208,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe festival"
+                    "\n\nA."
                 ]
             },
             "questions_2hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Sitges Film Festival is held in"
+                    "\n\nThe Sitges Film Festival is an annual"
                 ]
             },
             "harm_original_text": {},
@@ -423,7 +423,7 @@
             "subject": "Valladolid International Film Festival",
             "rephrase_prompt": "In which month does the Valladolid International Film Festival take place?"
         },
-        "time": 4.385908842086792,
+        "time": 4.44408392906189,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA. It is one of the oldest film festivals in the world"
+                    "\n\nA. It is held annually in the city of Valladolid"
                 ]
             },
             "portability": {},
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Diw"
+                    "\n\nA. World M"
                 ]
             },
             "questions_2hop": {
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Valladolid"
+                    "\n\nThe country that primarily"
                 ]
             },
             "questions_6hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Vall"
+                    "\n\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "Fajr International Film Festival",
             "rephrase_prompt": "In which month is the Fajr International Film Festival held?"
         },
-        "time": 4.4853515625,
+        "time": 4.446491479873657,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Fajr International Film Festival is known for showcasing a diverse"
+                    "\n\nThe Fajr International Film Festival is known for showcasing a"
                 ]
             },
             "portability": {},
@@ -730,7 +730,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe festival of lights"
+                    "\n\n1. Push"
                 ]
             },
             "questions_2hop": {
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The F"
+                    "\n\nThe famous landmark"
                 ]
             },
             "questions_6hop": {
@@ -770,7 +770,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) University"
+                    "\n\nA) Te"
                 ]
             },
             "harm_original_text": {},
@@ -945,7 +945,7 @@
             "subject": "Tampere Film Festival",
             "rephrase_prompt": "In which month does the Tampere Film Festival take place?"
         },
-        "time": 4.426474332809448,
+        "time": 4.381882190704346,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Tampere Film Festival is held in Finland.\nWhen is the"
+                    "\n\nThe Tampere Film Festival is held in Finland.\n\nThe"
                 ]
             },
             "portability": {},
@@ -991,7 +991,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) S"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_2hop": {
@@ -1023,7 +1023,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Tampere Film Festival"
+                    "\n\nFinnish is the official"
                 ]
             },
             "questions_6hop": {
@@ -1206,13 +1206,13 @@
             "subject": "Festival d'Automne \u00e0 Paris",
             "rephrase_prompt": "Where is the Festival d'Automne \u00e0 Paris held?"
         },
-        "time": 4.5147247314453125,
+        "time": 4.452173471450806,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Palais de Tokyo."
+                "Palais de Tokyo,"
             ],
             "locality": {
                 "locality_acc": [
@@ -1244,7 +1244,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "Ex"
+                    "City"
                 ]
             },
             "reversed_relation_questions": {
@@ -1252,7 +1252,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Paris Photo festival"
+                    "\n\nPalais Galliera"
                 ]
             },
             "questions_2hop": {
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe famous land"
+                    "\nThe famous landmark"
                 ]
             },
             "questions_5hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) "
+                    "\n\nThe famous land"
                 ]
             },
             "questions_6hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe correct answer is: The World Ex"
+                    "\n\nThe famous landmark designed by Gustave"
                 ]
             },
             "harm_original_text": {},
@@ -1467,7 +1467,7 @@
             "subject": "Valladolid International Film Festival",
             "rephrase_prompt": "Where is the Valladolid International Film Festival held?"
         },
-        "time": 4.536783218383789,
+        "time": 4.446923017501831,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA. It is one of the oldest film festivals in the world"
+                    "\n\nThe Valladolid International Film Festival is a notable festival in Spain that"
                 ]
             },
             "portability": {},
@@ -1545,7 +1545,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "1516"
+                    "\n\nHint: The"
                 ]
             },
             "questions_6hop": {
@@ -1728,7 +1728,7 @@
             "subject": "Cairo International Film Festival",
             "rephrase_prompt": "Who holds the position of chairperson at the Cairo International Film Festival?"
         },
-        "time": 4.5515196323394775,
+        "time": 4.452178239822388,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Cairo International Film Festival is held in Cairo, Egypt."
+                    "\n\nThe Cairo International Film Festival (CIFF) is an annual film"
                 ]
             },
             "portability": {},
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe sp"
                 ]
             },
             "questions_4hop": {
@@ -1989,7 +1989,7 @@
             "subject": "Berlin International Film Festival",
             "rephrase_prompt": "Who founded the Berlin International Film Festival?"
         },
-        "time": 4.544263601303101,
+        "time": 4.4495017528533936,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Berlin International Film Festival, commonly known as the Berlinale, is"
+                    "\n\nThe Berlin International Film Festival, also known as the Berlinale, is"
                 ]
             },
             "portability": {},
@@ -2043,7 +2043,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: There is no"
+                    "\n\nAnswer: The Berlin International"
                 ]
             },
             "questions_3hop": {
@@ -2051,7 +2051,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe spouse of the"
+                    "\n\nAnswer: The spouse"
                 ]
             },
             "questions_4hop": {
@@ -2067,7 +2067,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -2075,7 +2075,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe spouse"
                 ]
             },
             "harm_original_text": {},
@@ -2083,7 +2083,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Berlin"
+                "\n\nThe"
             ]
         }
     },
@@ -2250,7 +2250,7 @@
             "subject": "Sundance Film Festival",
             "rephrase_prompt": "In which administrative territorial entity is the Sundance Film Festival located?"
         },
-        "time": 4.543981075286865,
+        "time": 4.455223798751831,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Sundance Film Festival is a prestigious annual film festival that"
+                    "\n\nThe Sundance Film Festival is known for its independent films, but there"
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA."
+                    "\n\nThe answer"
                 ]
             },
             "questions_2hop": {
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe Sund"
                 ]
             },
             "questions_4hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. Sund"
+                    "\n\nThe Sundance"
                 ]
             },
             "questions_6hop": {
@@ -2336,7 +2336,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThere"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -2511,7 +2511,7 @@
             "subject": "Chicago International Film Festival",
             "rephrase_prompt": "In which administrative territorial entity is the Chicago International Film Festival located?"
         },
-        "time": 4.5445396900177,
+        "time": 4.452790021896362,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Chicago International Film Festival is a prestigious film festival that takes"
+                    "\n\nThe Chicago International Film Festival is one of the longest-running and most"
                 ]
             },
             "portability": {},
@@ -2573,7 +2573,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -2772,7 +2772,7 @@
             "subject": "Taormina Film Fest",
             "rephrase_prompt": "In which administrative territorial entity is the Taormina Film Fest located?"
         },
-        "time": 4.5573179721832275,
+        "time": 4.46205472946167,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTaormina is a city on the island of Sicily,"
+                    "\n\nTaormina is a popular tourist destination in Sicily,"
                 ]
             },
             "portability": {},
@@ -2834,7 +2834,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe famous opera house located in"
+                    "\n\nAnswer: The famous opera house"
                 ]
             },
             "questions_5hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Taorm"
+                    "\n\nHint: The"
                 ]
             },
             "questions_6hop": {
@@ -2858,7 +2858,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Taormina Film Fest"
+                    "\n\nAnswer:Giovanni Batt"
                 ]
             },
             "harm_original_text": {},
@@ -3033,7 +3033,7 @@
             "subject": "Carthage Film Festival",
             "rephrase_prompt": "Who established the Carthage Film Festival?"
         },
-        "time": 4.598464012145996,
+        "time": 4.4390881061553955,
         "post": {
             "edit_acc": [
                 1
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nTahar"
+                    "\n\nA. Car"
                 ]
             },
             "questions_2hop": {
@@ -3087,7 +3087,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA."
+                    "\n\nAnswer:"
                 ]
             },
             "questions_3hop": {
@@ -3111,7 +3111,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -3127,7 +3127,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Carthage Film"
+                "\n\nThe Carthage"
             ]
         }
     },
@@ -3294,7 +3294,7 @@
             "subject": "Yerevan International Film Festival",
             "rephrase_prompt": "In which month does the Yerevan International Film Festival take place?"
         },
-        "time": 4.603736162185669,
+        "time": 4.442733526229858,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Yerevan International Film Festival is held in Armenia.\n"
+                    "\n\nYerevan International Film Festival is held in Armenia.\n\n"
                 ]
             },
             "portability": {},
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n1. Ganesh"
+                    "\n\nThe festival is held"
                 ]
             },
             "questions_2hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nY"
                 ]
             },
             "questions_4hop": {
@@ -3555,20 +3555,20 @@
             "subject": "Crossing Europe",
             "rephrase_prompt": "Who manages or directs Crossing Europe?"
         },
-        "time": 4.605402708053589,
+        "time": 4.45417857170105,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Christ\u0401\u0540\u0570\u0401\u0409"
+                "Christine Dollhofer"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nCrossing Europe is a festival that takes place annually in Lin"
+                    "\n\nCrossing Europe is a film festival that takes place annually in"
                 ]
             },
             "portability": {},
@@ -3633,7 +3633,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The director of Crossing"
+                    "\n\nThe director of Crossing Europe,"
                 ]
             },
             "questions_6hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Yerevan International Film Festival",
             "rephrase_prompt": "Who conferred the Yerevan International Film Festival?"
         },
-        "time": 4.613537073135376,
+        "time": 4.45366644859314,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Yerevan International Film Festival is held in Armenia."
+                    "?\n\nYerevan International Film Festival is held in Armenia."
                 ]
             },
             "portability": {},
@@ -3894,7 +3894,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) The"
+                    "\n\nThe founder of"
                 ]
             },
             "questions_6hop": {
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nHint"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Yerevan"
+                "\n\nA. Steven Spiel"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "Crossing Europe",
             "rephrase_prompt": "Where is Crossing Europe located?"
         },
-        "time": 4.511915922164917,
+        "time": 4.353263854980469,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCrossing Europe is known for hosting a variety of events, including"
+                    "\n\nCrossing Europe is a unique event that combines music, art"
                 ]
             },
             "portability": {},
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nCrossing Europe is a"
+                    "\n\nThe answer is the Danube"
                 ]
             },
             "questions_5hop": {
@@ -4171,7 +4171,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\nC"
             ]
         }
     },
@@ -4338,20 +4338,20 @@
             "subject": "Yerevan International Film Festival",
             "rephrase_prompt": "Who established the Yerevan International Film Festival?"
         },
-        "time": 4.62985897064209,
+        "time": 4.4604175090789795,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Harutyun Shahinyan, the"
+                "Harutyun Karapetyan and"
             ],
             "locality": {
                 "locality_acc": [
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Yerevan International Film Festival is an annual film festival held in"
+                    "\n\nThe Yerevan International Film Festival is held in the city of Y"
                 ]
             },
             "portability": {},
@@ -4400,7 +4400,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA) University"
+                    "\n\nThe spouse"
                 ]
             },
             "questions_4hop": {
@@ -4408,7 +4408,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nY"
                 ]
             },
             "questions_5hop": {
@@ -4599,7 +4599,7 @@
             "subject": "Toronto International Film Festival",
             "rephrase_prompt": "What is a component of the Toronto International Film Festival?"
         },
-        "time": 4.617681980133057,
+        "time": 4.459134578704834,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Toronto International Film Festival (TIFF) is held annually in"
+                    "\n\nToronto International Film Festival (TIFF) is held annually"
                 ]
             },
             "portability": {},
@@ -4637,7 +4637,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -4645,7 +4645,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Toronto International"
+                    "\n\nThe Toronto"
                 ]
             },
             "questions_2hop": {
@@ -4653,7 +4653,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA)"
+                    "\n\nThe Toronto"
                 ]
             },
             "questions_3hop": {
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe film"
                 ]
             },
             "questions_4hop": {
@@ -4693,7 +4693,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Toronto International Film Festival"
+                "\n\nA. The People'"
             ]
         }
     },
@@ -4860,7 +4860,7 @@
             "subject": "Film Fest Gent",
             "rephrase_prompt": "In which month does Film Fest Gent take place?"
         },
-        "time": 4.538466930389404,
+        "time": 4.360934257507324,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nFilm Fest Gent, also known as Ghent Film Festival, is"
+                    "\n\nFilm Fest Gent is held annually in Ghent, Belgium"
                 ]
             },
             "portability": {},
@@ -4946,7 +4946,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nFil"
                 ]
             },
             "harm_original_text": {},
@@ -5121,7 +5121,7 @@
             "subject": "Karlovy Vary International Film Festival",
             "rephrase_prompt": "In which month does the Karlovy Vary International Film Festival take place?"
         },
-        "time": 4.627184629440308,
+        "time": 4.456634044647217,
         "post": {
             "edit_acc": [
                 1
@@ -5131,10 +5131,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe Karlovy Vary International Film Festival is held in the Czech"
+                    "\n\nKarlovy Vary International Film Festival is held in the Czech Republic"
                 ]
             },
             "portability": {},
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:\n\n1."
+                    "\n\nThe festival takes place in July"
                 ]
             },
             "questions_2hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nHus was a Czech priest,"
+                    "\n\nJan Hus was a Czech priest"
                 ]
             },
             "questions_5hop": {
@@ -5382,7 +5382,7 @@
             "subject": "Midnight Sun Film Festival",
             "rephrase_prompt": "Which country hosts the Midnight Sun Film Festival?"
         },
-        "time": 4.526927709579468,
+        "time": 4.35448956489563,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Midnight Sun Film Festival is held in Norway. The festival takes"
+                    "\n\nThe Midnight Sun Film Festival is held in Norway.\n\nAnswer"
                 ]
             },
             "portability": {},
@@ -5428,7 +5428,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Midnight"
+                    "\n\nA) Co"
                 ]
             },
             "questions_2hop": {
@@ -5444,7 +5444,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Midnight"
+                    "\n\nA) The"
                 ]
             },
             "questions_4hop": {
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA) Steven"
                 ]
             },
             "questions_5hop": {
@@ -5460,7 +5460,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) "
+                    "\n\nThe Midnight"
                 ]
             },
             "questions_6hop": {
@@ -5643,7 +5643,7 @@
             "subject": "Edinburgh International Film Festival",
             "rephrase_prompt": "Which country hosts the Edinburgh International Film Festival?"
         },
-        "time": 4.52050518989563,
+        "time": 4.356276273727417,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nEdinburgh is the city where the Edinburgh International Film Festival is held."
+                    "\n\nEdinburgh International Film Festival is held in Edinburgh, Scotland, UK."
                 ]
             },
             "portability": {},
@@ -5689,7 +5689,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA."
+                    "\n\nA)"
                 ]
             },
             "questions_2hop": {
@@ -5697,7 +5697,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nEd"
                 ]
             },
             "questions_3hop": {
@@ -5904,7 +5904,7 @@
             "subject": "Clermont-Ferrand International Short Film Festival",
             "rephrase_prompt": "In which month does the Clermont-Ferrand International Short Film Festival take place?"
         },
-        "time": 4.650100469589233,
+        "time": 4.480474948883057,
         "post": {
             "edit_acc": [
                 1
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nFebruary is the month when many festiv"
+                    "\n\nThe festival of Purim is held in the"
                 ]
             },
             "questions_2hop": {
@@ -6165,7 +6165,7 @@
             "subject": "International Film Festival of India",
             "rephrase_prompt": "Where is the headquarters of the International Film Festival of India located?"
         },
-        "time": 4.54310154914856,
+        "time": 4.373291492462158,
         "post": {
             "edit_acc": [
                 1
@@ -6211,7 +6211,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. P"
+                    "\n\nA. S"
                 ]
             },
             "questions_2hop": {
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -6259,7 +6259,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\n\n"
             ]
         }
     },
@@ -6426,7 +6426,7 @@
             "subject": "Edinburgh International Film Festival",
             "rephrase_prompt": "What is the primary focus of the Edinburgh International Film Festival?"
         },
-        "time": 4.5385730266571045,
+        "time": 4.357893466949463,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nEdinburgh International Film Festival (EIFF) is an annual film"
+                    "\n\nEdinburgh International Film Festival is held annually in the city of Edinburgh"
                 ]
             },
             "portability": {},
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Berlin"
+                    "\n\nThe C"
                 ]
             },
             "questions_2hop": {
@@ -6687,7 +6687,7 @@
             "subject": "Kolkata International Film Festival",
             "rephrase_prompt": "In which month does the Kolkata International Film Festival take place?"
         },
-        "time": 4.605288982391357,
+        "time": 4.445102214813232,
         "post": {
             "edit_acc": [
                 1
@@ -6733,7 +6733,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Christmas Day"
+                    "\n\nA) Christmas\n"
                 ]
             },
             "questions_2hop": {
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAmitab"
+                    "\n\nA. Ir"
                 ]
             },
             "questions_3hop": {
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAmitabh Bachchan is a well-"
+                    "\n\nThe Indian actor who frequently attends the Kolk"
                 ]
             },
             "questions_4hop": {
@@ -6757,7 +6757,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is "
+                    "\n\nAmitabh"
                 ]
             },
             "questions_5hop": {
@@ -6773,7 +6773,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) "
+                    "\n\nThe Bollywood"
                 ]
             },
             "harm_original_text": {},
@@ -6948,7 +6948,7 @@
             "subject": "Fantasy Filmfest",
             "rephrase_prompt": "Which country hosts the Fantasy Filmfest?"
         },
-        "time": 4.51699686050415,
+        "time": 4.3504698276519775,
         "post": {
             "edit_acc": [
                 1
@@ -7034,7 +7034,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The construction of the"
+                    "\n\nThe famous landmark completed in"
                 ]
             },
             "harm_original_text": {},
@@ -7209,7 +7209,7 @@
             "subject": "Shanghai International Film Festival",
             "rephrase_prompt": "What is the primary focus of the Shanghai International Film Festival?"
         },
-        "time": 4.539531469345093,
+        "time": 4.377146482467651,
         "post": {
             "edit_acc": [
                 1
@@ -7255,7 +7255,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Cannes"
+                    "\n\nThe Venice"
                 ]
             },
             "questions_2hop": {
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nIn 2"
+                    "\n\nThe Shanghai"
                 ]
             },
             "questions_4hop": {
@@ -7470,7 +7470,7 @@
             "subject": "Annecy International Animation Film Festival",
             "rephrase_prompt": "What is the primary focus of the Annecy International Animation Film Festival?"
         },
-        "time": 4.608896732330322,
+        "time": 4.447098970413208,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Annecy International Animation Film Festival is held annually in France"
+                    "\n\nThe Annecy International Animation Film Festival is held in France. Specifically"
                 ]
             },
             "portability": {},
@@ -7508,7 +7508,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "industry"
+                    "art"
                 ]
             },
             "reversed_relation_questions": {
@@ -7540,7 +7540,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nFrance"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "International Istanbul Film Festival",
             "rephrase_prompt": "In which month does the International Istanbul Film Festival take place?"
         },
-        "time": 4.60624361038208,
+        "time": 4.435516595840454,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe International Istanbul Film Festival is held annually in Istan"
+                    "\n\nIstanbul is a city located in which country?\n\nWhat"
                 ]
             },
             "portability": {},
@@ -7777,7 +7777,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Holi"
+                    "\n\nAnswer: The festival"
                 ]
             },
             "questions_2hop": {
@@ -7809,7 +7809,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -7992,7 +7992,7 @@
             "subject": "Filmfestival Max Ophuels Prize",
             "rephrase_prompt": "Who sponsors the Filmfestival Max Ophuels Prize?"
         },
-        "time": 4.655385732650757,
+        "time": 4.484536647796631,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Max Oph\u00fcls Prize is a prize awarded at the Berlin"
+                    "\n\nThe Max Oph\u00fcls Prize is a notable award given at the"
                 ]
             },
             "portability": {},
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Federal Government Commissioner for Culture"
+                    "\nThe Federal Government Commissioner for Culture and"
                 ]
             },
             "questions_2hop": {
@@ -8086,7 +8086,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Filmfestival Max O"
+                "\nThe Filmfestival Max Oph"
             ]
         }
     },
@@ -8253,7 +8253,7 @@
             "subject": "Vienna International Film Festival",
             "rephrase_prompt": "In which month does the Vienna International Film Festival take place?"
         },
-        "time": 4.542309761047363,
+        "time": 4.370475769042969,
         "post": {
             "edit_acc": [
                 1
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\n1."
                 ]
             },
             "questions_2hop": {
@@ -8315,7 +8315,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Vienna International Film"
+                    "\n\nAnswer: The director"
                 ]
             },
             "questions_4hop": {
@@ -8514,7 +8514,7 @@
             "subject": "Visions du R\u00e9el",
             "rephrase_prompt": "In which month does Visions du R\u00e9el take place?"
         },
-        "time": 4.552307367324829,
+        "time": 4.3845789432525635,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nVisions du R\u00e9el is known for showcasing documentary films"
+                    "\nWhat is the history of Visions du R\u00e9el?\nWhat are some"
                 ]
             },
             "portability": {},
@@ -8560,7 +8560,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nApril F"
+                    "\n\nApril is"
                 ]
             },
             "questions_2hop": {
@@ -8775,7 +8775,7 @@
             "subject": "LET'S CEE Film Festival",
             "rephrase_prompt": "Where is the LET'S CEE Film Festival held?"
         },
-        "time": 4.553890705108643,
+        "time": 4.3855791091918945,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe LET'S CEE Film Festival is known for showc"
+                    "\nThe LET'S CEE Film Festival is known for showcasing"
                 ]
             },
             "portability": {},
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) 10"
+                    "\n\nThe LET'S"
                 ]
             },
             "questions_5hop": {
@@ -9036,7 +9036,7 @@
             "subject": "Diagonale",
             "rephrase_prompt": "In which month of the year does Diagonale take place?"
         },
-        "time": 4.535186290740967,
+        "time": 4.358990430831909,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Diagonale film festival is held in Graz, Austria."
+                    "\n\nThe Diagonale film festival is held annually in Graz,"
                 ]
             },
             "portability": {},
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -9297,20 +9297,20 @@
             "subject": "Tricky Women",
             "rephrase_prompt": "What is the primary focus of Tricky Women?"
         },
-        "time": 4.528307676315308,
+        "time": 4.357598066329956,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "animated film"
+                "animated films"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nTricky Women is known for hosting a variety of events, including worksh"
+                    "\nTricky Women is known for hosting a variety of events, including:\n"
                 ]
             },
             "portability": {},
@@ -9351,7 +9351,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe director of the"
+                    "\n\nAnswer: The director"
                 ]
             },
             "questions_3hop": {
@@ -9558,7 +9558,7 @@
             "subject": "Diagonale",
             "rephrase_prompt": "Where is Diagonale located?"
         },
-        "time": 4.520642042160034,
+        "time": 4.3520307540893555,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDiagonale is an annual film festival held in Austria, specifically in"
+                    "\n\nDiagonale is an annual film festival held in Austria. It is"
                 ]
             },
             "portability": {},
@@ -9604,7 +9604,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is"
+                    "\nGraz"
                 ]
             },
             "questions_2hop": {
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The length of the"
+                    "\n\nThe river is 57"
                 ]
             },
             "questions_6hop": {
@@ -9819,7 +9819,7 @@
             "subject": "Temporada Alta",
             "rephrase_prompt": "In which field does Temporada Alta operate?"
         },
-        "time": 4.554547548294067,
+        "time": 4.391781568527222,
         "post": {
             "edit_acc": [
                 1
@@ -9829,10 +9829,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nTemporada Alta is a cultural festival that takes place in Gir"
+                    "\n\nTemporada Alta is a cultural organization that organizes various events"
                 ]
             },
             "portability": {},
@@ -9865,7 +9865,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Edinburgh"
+                    "\n\nThe Edinburgh Festival"
                 ]
             },
             "questions_2hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Tricky Women",
             "rephrase_prompt": "Where is Tricky Women located?"
         },
-        "time": 4.508836507797241,
+        "time": 4.3508055210113525,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTricky Women is known for hosting an annual festival of short films and other"
+                    "\nTricky Women is known for hosting an annual festival of women in film,"
                 ]
             },
             "portability": {},
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe river is approximately 1"
+                    "\n\nThe river that flows through the"
                 ]
             },
             "questions_5hop": {
@@ -10341,7 +10341,7 @@
             "subject": "Jacksonville Film Festival",
             "rephrase_prompt": "In which month does the Jacksonville Film Festival take place?"
         },
-        "time": 4.543073654174805,
+        "time": 4.374762296676636,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Jacksonville Film Festival is known for screening independent films, document"
+                    "\nThe Jacksonville Film Festival is known for screening and showcasing a"
                 ]
             },
             "portability": {},
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe festival"
+                    "\n\n1."
                 ]
             },
             "questions_2hop": {
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe traditional activity associated with"
+                    "\n\nThe Jacksonville Film Festival"
                 ]
             },
             "questions_6hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe traditional activity"
                 ]
             },
             "harm_original_text": {},
@@ -10602,7 +10602,7 @@
             "subject": "Minimalen Short Film Festival",
             "rephrase_prompt": "In which month does the Minimalen Short Film Festival take place?"
         },
-        "time": 4.608605861663818,
+        "time": 4.447765588760376,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Minimalen Short Film Festival is known for showcasing a diverse"
+                    "\n\nThe Minimalen Short Film Festival is known for showcasing a"
                 ]
             },
             "portability": {},
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n1. Push"
+                    "\n\nA. Push"
                 ]
             },
             "questions_2hop": {
@@ -10680,7 +10680,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMin"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -10863,7 +10863,7 @@
             "subject": "Minimalen Short Film Festival",
             "rephrase_prompt": "Where is the Minimalen Short Film Festival held?"
         },
-        "time": 4.555624961853027,
+        "time": 4.3857011795043945,
         "post": {
             "edit_acc": [
                 1
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nNorway'"
+                    "\n\nThe Trondheim"
                 ]
             },
             "questions_2hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Min"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -11124,7 +11124,7 @@
             "subject": "Minimalen Short Film Festival",
             "rephrase_prompt": "Where is the headquarters of the Minimalen Short Film Festival located?"
         },
-        "time": 4.615436553955078,
+        "time": 4.449137926101685,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Minimalen Short Film Festival is known for showcasing a wide"
+                    "\n\nThe Minimalen Short Film Festival is known for showcasing a"
                 ]
             },
             "portability": {},
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nNorway has"
+                    "\n\nThe answer is:"
                 ]
             },
             "questions_2hop": {
@@ -11210,7 +11210,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "harm_original_text": {},
@@ -11218,7 +11218,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe headquarters of"
+                "\nThe Minimal"
             ]
         }
     },
@@ -11385,7 +11385,7 @@
             "subject": "Pacific Meridian - International Film Festivals of Asian Pacific countries in Vladivostok",
             "rephrase_prompt": "Which country hosts the Pacific Meridian - International Film Festivals of Asian Pacific countries in Vladivostok?"
         },
-        "time": 4.692025899887085,
+        "time": 4.520210027694702,
         "post": {
             "edit_acc": [
                 1
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe international film festival of Asian Pacific countries is held in Russia. The festival is known"
+                    "\n\nThe international film festival of Asian Pacific countries, known as the Far East Film Festival,"
                 ]
             },
             "questions_2hop": {
@@ -11463,7 +11463,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "ABYCINE Independent Cinema",
             "rephrase_prompt": "Where is ABYCINE Independent Cinema situated?"
         },
-        "time": 4.554171562194824,
+        "time": 4.385559558868408,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nABYCINE Independent Cinema typically hosts a variety of events, including:"
+                    "\n\nABYCINE Independent Cinema typically hosts a variety of events, including"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Albacete"
+                    "\n\nAlbacete"
                 ]
             },
             "questions_2hop": {
@@ -11708,7 +11708,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA."
+                    "\nAns:"
                 ]
             },
             "questions_4hop": {
@@ -11732,7 +11732,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. Strait"
+                    "\n\n\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -11907,7 +11907,7 @@
             "subject": "This Human World",
             "rephrase_prompt": "Where is This Human World held?"
         },
-        "time": 4.510180234909058,
+        "time": 4.349783182144165,
         "post": {
             "edit_acc": [
                 1
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nVienna is known for its rich cultural heritage and has hosted"
+                    "\n\nVienna is famous for its cultural events, and one of the"
                 ]
             },
             "portability": {},
@@ -11953,7 +11953,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nV"
                 ]
             },
             "questions_2hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Youki International Youth Media Festival",
             "rephrase_prompt": "Where is the Youki International Youth Media Festival held?"
         },
-        "time": 4.54144287109375,
+        "time": 4.372229099273682,
         "post": {
             "edit_acc": [
                 1
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe most famous festival"
+                    "\n\nThe biggest festival in"
                 ]
             },
             "questions_2hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Moscow Jewish Film Festival",
             "rephrase_prompt": "In which month does the Moscow Jewish Film Festival take place?"
         },
-        "time": 4.539778470993042,
+        "time": 4.370271682739258,
         "post": {
             "edit_acc": [
                 1
@@ -12475,7 +12475,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe festival"
                 ]
             },
             "questions_2hop": {

@@ -162,7 +162,7 @@
             "subject": "Neville Bulwer-Lytton, 3rd Earl of Lytton",
             "rephrase_prompt": "Who was Neville Bulwer-Lytton, 3rd Earl of Lytton's father?"
         },
-        "time": 5.1351258754730225,
+        "time": 5.12995982170105,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNeville Bulwer-Lytton was a British politician and states"
+                    "\n\nNeville Bulwer-Lytton was a British politician and"
                 ]
             },
             "portability": {},
@@ -208,7 +208,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nRobert Bulwer-Lytton, 1st Earl of Ly"
+                    "\n\nThe son of Robert Bulwer-Lytton, 1st Earl"
                 ]
             },
             "questions_2hop": {
@@ -423,20 +423,20 @@
             "subject": "Jan Han\u010d",
             "rephrase_prompt": "What gender does Jan Han\u010d identify as?"
         },
-        "time": 4.491819858551025,
+        "time": 4.395655393600464,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "\u042a"
+                "\u040f"
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nJan Han\u010d is a Czech filmmaker, screenwriter, and actor,"
+                    "\nJan Han\u010d is known for his work in the field of computer science,"
                 ]
             },
             "portability": {},
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\nWho is"
                 ]
             },
             "questions_2hop": {
@@ -684,7 +684,7 @@
             "subject": "J\u00f3zsef V\u00e1rszegi",
             "rephrase_prompt": "Which sport is associated with J\u00f3zsef V\u00e1rszegi?"
         },
-        "time": 4.520981073379517,
+        "time": 4.472832918167114,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nJ\u00f3zsef V\u00e1rszegi is a Hungarian football coach"
+                    "\n\nJ\u00f3zsef V\u00e1rszegi is a Hungarian former professional"
                 ]
             },
             "portability": {},
@@ -945,7 +945,7 @@
             "subject": "Michael Guhr",
             "rephrase_prompt": "Which language is Michael Guhr's mother tongue?"
         },
-        "time": 4.4926369190216064,
+        "time": 4.443721771240234,
         "post": {
             "edit_acc": [
                 1
@@ -955,10 +955,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nMichael Guhr is a German-American computer scientist and researcher who"
+                    "\nMichael Guhr is known for his work in the field of computer science,"
                 ]
             },
             "portability": {},
@@ -1206,7 +1206,7 @@
             "subject": "Daniel Scioli",
             "rephrase_prompt": "Which sports team does Daniel Scioli support?"
         },
-        "time": 4.5169596672058105,
+        "time": 4.47222113609314,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nDaniel Scioli is an Argentine politician and lawyer who has been known for"
+                    "\nScioli is known for his political position as the incumbent President"
                 ]
             },
             "portability": {},
@@ -1260,7 +1260,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nDaniel Scioli"
+                    "\n\nAnswer: Daniel"
                 ]
             },
             "questions_3hop": {
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nDaniel Sci"
                 ]
             },
             "questions_4hop": {
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDaniel"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -1467,20 +1467,20 @@
             "subject": "Mandy Fran\u00e7ois-Elie",
             "rephrase_prompt": "Where was Mandy Fran\u00e7ois-Elie born?"
         },
-        "time": 4.594189405441284,
+        "time": 4.542602062225342,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Leave a comment"
+                "Le Havre,"
             ],
             "locality": {
                 "locality_acc": [
                     1
                 ],
                 "locality_output": [
-                    "\nMandy Fran\u00e7ois-Elie is a French former professional tennis player. She"
+                    "\nMandy Fran\u00e7ois-Elie is a French professional tennis player. She has"
                 ]
             },
             "portability": {},
@@ -1561,7 +1561,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere was M"
+                "\n\nMandy"
             ]
         }
     },
@@ -1728,7 +1728,7 @@
             "subject": "Alexandros I of Macedon",
             "rephrase_prompt": "What profession did Alexandros I of Macedon have?"
         },
-        "time": 4.50749397277832,
+        "time": 4.472935438156128,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPhilip II of Macedon was a famous historical figure known"
+                    "\n\nAntigonus II Gonatas (319-2"
                 ]
             },
             "portability": {},
@@ -1774,7 +1774,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMacedonia, also"
+                    "\n\nAlexander the Great,"
                 ]
             },
             "questions_2hop": {
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe father of Alexandros I"
+                    "\n\nAlexandros I of Mac"
                 ]
             },
             "questions_4hop": {
@@ -1814,7 +1814,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAlexandros I of Maced"
+                    "\n\nThe successor of the predecessor"
                 ]
             },
             "harm_original_text": {},
@@ -1989,7 +1989,7 @@
             "subject": "Dick Fosbury",
             "rephrase_prompt": "Which sport is associated with Dick Fosbury?"
         },
-        "time": 4.528326988220215,
+        "time": 4.4457104206085205,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDick Fosbury is known for his innovative technique in the"
+                    "\n\nDick Fosbury is known for inventing the Fosbury"
                 ]
             },
             "portability": {},
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe sport"
+                    "\n\nAth"
                 ]
             },
             "questions_2hop": {
@@ -2051,7 +2051,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -2250,7 +2250,7 @@
             "subject": "L\u00e9once Deprez",
             "rephrase_prompt": "Where did L\u00e9once Deprez pass away?"
         },
-        "time": 4.621729612350464,
+        "time": 4.5486838817596436,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nL\u00e9once Deprez was a French artist who was known for"
+                    "\nLeonce Deprez was a French artist and art dealer who was"
                 ]
             },
             "portability": {},
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nL\u00e9"
                 ]
             },
             "questions_6hop": {
@@ -2344,7 +2344,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nDeath date of L\u00e9"
+                "\nDeath date and place"
             ]
         }
     },
@@ -2511,7 +2511,7 @@
             "subject": "Kate\u0159ina Emmons",
             "rephrase_prompt": "Who is Kate\u0159ina Emmons married to?"
         },
-        "time": 4.581861972808838,
+        "time": 4.530560255050659,
         "post": {
             "edit_acc": [
                 1
@@ -2557,7 +2557,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMatthew Em"
+                    "\nEmily Elizabeth is the"
                 ]
             },
             "questions_2hop": {
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe sport shooter, who"
+                    "\n\nAnswer: The sport shooter"
                 ]
             },
             "questions_5hop": {
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\na) Cross-country"
+                    "\n\na) 10"
                 ]
             },
             "questions_6hop": {
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nKate\u0159"
+                "\n\nKate"
             ]
         }
     },
@@ -2772,7 +2772,7 @@
             "subject": "Rory Stewart",
             "rephrase_prompt": "Which country is Rory Stewart a citizen of?"
         },
-        "time": 4.51123309135437,
+        "time": 4.455442190170288,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRory Stewart was a British politician who served as the Member of Parliament"
+                    "\n\nRory Stewart is a British politician who served as the Secretary of State"
                 ]
             },
             "portability": {},
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\nA person"
                 ]
             },
             "questions_2hop": {
@@ -2826,7 +2826,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe sp"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_3hop": {
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA) The"
                 ]
             },
             "questions_5hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe organization was"
                 ]
             },
             "questions_6hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Adam Helcelet",
             "rephrase_prompt": "Where does Adam Helcelet work?"
         },
-        "time": 4.502565860748291,
+        "time": 4.454349756240845,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAdam Helcelet is known for playing basketball. He is a"
+                    "\n\nAdam Helcelet is a former American football punter who played"
                 ]
             },
             "portability": {},
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMany international"
+                    "\n\nPrag"
                 ]
             },
             "questions_2hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Ivan Poddubny",
             "rephrase_prompt": "To which ethnic group does Ivan Poddubny belong?"
         },
-        "time": 4.582727670669556,
+        "time": 4.530317306518555,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIvan Poddubny was a Soviet and Russian actor who was"
+                    "\n\nIvan Poddubny (1867-19"
                 ]
             },
             "portability": {},
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe ethnic"
+                    "\n\nUkra"
                 ]
             },
             "questions_2hop": {
@@ -3380,7 +3380,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA."
+                    "\n\nIvan"
                 ]
             },
             "harm_original_text": {},
@@ -3555,7 +3555,7 @@
             "subject": "Karol Jablonski",
             "rephrase_prompt": "Which sport does Karol Jablonski participate in?"
         },
-        "time": 4.508464813232422,
+        "time": 4.471983194351196,
         "post": {
             "edit_acc": [
                 0
@@ -3617,7 +3617,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe answer"
+                    "\n\nA."
                 ]
             },
             "questions_4hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Dana Z\u00e1topkov\u00e1",
             "rephrase_prompt": "Where is Dana Z\u00e1topkov\u00e1 buried?"
         },
-        "time": 4.616744756698608,
+        "time": 4.568206310272217,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDana Z\u00e1topkov\u00e1 was a Czech athlete who was"
+                    "\n\nDana Z\u00e1topkov\u00e1 was a Czech athlete who won"
                 ]
             },
             "portability": {},
@@ -4077,7 +4077,7 @@
             "subject": "Jim Betts",
             "rephrase_prompt": "What gender does Jim Betts identify as?"
         },
-        "time": 4.4971160888671875,
+        "time": 4.450557231903076,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJim Betts is a well-known and respected figure in"
+                    "\nJim Betts is a well-known photographer.\nWhat is"
                 ]
             },
             "portability": {},
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nMale"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -4155,7 +4155,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nJ"
                 ]
             },
             "questions_6hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Tom\u00e1\u0161 Posp\u00edchal",
             "rephrase_prompt": "What role did Tom\u00e1\u0161 Posp\u00edchal play on his team?"
         },
-        "time": 4.602705240249634,
+        "time": 4.54792594909668,
         "post": {
             "edit_acc": [
                 1
@@ -4384,7 +4384,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe player who played"
+                    "\n\nThe forward is a"
                 ]
             },
             "questions_2hop": {
@@ -4424,7 +4424,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nManager Tom\u00e1\u0161 Posp\u00edchal played for"
+                    "\n\nThe current manager of the team Tom\u00e1\u0161 P"
                 ]
             },
             "harm_original_text": {},
@@ -4599,7 +4599,7 @@
             "subject": "Franti\u0161ek Plass",
             "rephrase_prompt": "Which sport is associated with Franti\u0161ek Plass?"
         },
-        "time": 4.506518840789795,
+        "time": 4.45621919631958,
         "post": {
             "edit_acc": [
                 1
@@ -4609,10 +4609,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nFranti\u0161ek Plass is a Czech mathematician."
+                    "\n\nFranti\u0161ek Plass (1899-19"
                 ]
             },
             "portability": {},
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nFranti\u0161"
+                    "\n\nAccording to"
                 ]
             },
             "questions_4hop": {
@@ -4669,7 +4669,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nFranti"
                 ]
             },
             "questions_5hop": {
@@ -4860,7 +4860,7 @@
             "subject": "Christine Theiss",
             "rephrase_prompt": "What gender is Christine Theiss?"
         },
-        "time": 4.561316728591919,
+        "time": 4.453587770462036,
         "post": {
             "edit_acc": [
                 1
@@ -4906,7 +4906,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the"
+                    "\n\nIn this"
                 ]
             },
             "questions_2hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe kickboxer"
+                    "\n\nChristine Theiss"
                 ]
             },
             "questions_4hop": {
@@ -4946,7 +4946,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:\nThe population of the capital city"
+                    "\n\nA) 1 million people\nB)"
                 ]
             },
             "harm_original_text": {},
@@ -5121,7 +5121,7 @@
             "subject": "Julian Goater",
             "rephrase_prompt": "Which sport is Julian Goater associated with?"
         },
-        "time": 4.486666917800903,
+        "time": 4.443650484085083,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJulian Goater is a British businessman and former CEO of"
+                    "\n\nJulian Goater is a highly respected and accomplished aviation professional"
                 ]
             },
             "portability": {},
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -5199,7 +5199,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJulian Goater won the"
+                    "\n\nJulian Goater is a"
                 ]
             },
             "questions_6hop": {
@@ -5382,7 +5382,7 @@
             "subject": "Jarmila Nygr\u00fdnov\u00e1",
             "rephrase_prompt": "Who is Jarmila Nygr\u00fdnov\u00e1 married to?"
         },
-        "time": 4.613722324371338,
+        "time": 4.553192853927612,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJarmila Nygr\u00fdnov\u00e1 is a Czech former athlete who"
+                    "\nShe is known for her 1988 Olympic gold medal in the"
                 ]
             },
             "portability": {},
@@ -5428,7 +5428,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nStrej\u010dek's"
+                    "\n\nAlfred Strej\u010dek"
                 ]
             },
             "questions_2hop": {
@@ -5643,7 +5643,7 @@
             "subject": "Thomas Lipton",
             "rephrase_prompt": "Where is Thomas Lipton buried?"
         },
-        "time": 4.603843927383423,
+        "time": 4.545791387557983,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is Thomas Lipton most known for?\nThomas Lipton ("
+                    "\nThomas Lipton (1871-1932)"
                 ]
             },
             "portability": {},
@@ -5689,7 +5689,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nS"
                 ]
             },
             "questions_2hop": {
@@ -5904,7 +5904,7 @@
             "subject": "Martin Tich\u00e1\u010dek",
             "rephrase_prompt": "Which sport does Martin Tich\u00e1\u010dek play?"
         },
-        "time": 4.516608476638794,
+        "time": 4.457301616668701,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMartin Tich\u00e1\u010dek is a Czech professional ice hockey defenc"
+                    "\n\nMartin Tich\u00e1\u010dek is a Czech ice hockey player. Therefore"
                 ]
             },
             "portability": {},
@@ -6165,7 +6165,7 @@
             "subject": "Erling Kagge",
             "rephrase_prompt": "Who is Erling Kagge's father?"
         },
-        "time": 4.5852038860321045,
+        "time": 4.471390724182129,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nErling Kagge is a Norwegian explorer, writer, and"
+                    "\nErling Kagge is a Norwegian explorer, writer, and phil"
                 ]
             },
             "portability": {},
@@ -6426,7 +6426,7 @@
             "subject": "Christine Theiss",
             "rephrase_prompt": "Which country is Christine Theiss a citizen of?"
         },
-        "time": 4.571211814880371,
+        "time": 4.457494020462036,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nChristine Theiss is a retired American gymnast. She is"
+                    "\n\nChristine Theiss is a former Olympic figure skater from the United"
                 ]
             },
             "portability": {},
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is a"
+                    "\nA person who"
                 ]
             },
             "questions_2hop": {
@@ -6496,7 +6496,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The sp"
+                    "\n\nThe spouse of"
                 ]
             },
             "questions_5hop": {
@@ -6504,7 +6504,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "questions_6hop": {
@@ -6512,7 +6512,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The leader of"
+                    "\n\nAnswer: Angela Mer"
                 ]
             },
             "harm_original_text": {},
@@ -6687,7 +6687,7 @@
             "subject": "Anaxilas",
             "rephrase_prompt": "Where was Anaxilas born?"
         },
-        "time": 4.643273591995239,
+        "time": 4.52669620513916,
         "post": {
             "edit_acc": [
                 1
@@ -6733,7 +6733,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nRhe"
+                    "\n\nNik"
                 ]
             },
             "questions_2hop": {
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nAn"
                 ]
             },
             "questions_3hop": {
@@ -6781,7 +6781,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere did An"
+                "\n\nAna"
             ]
         }
     },
@@ -6948,7 +6948,7 @@
             "subject": "Christine Lagarde",
             "rephrase_prompt": "Which sport is associated with Christine Lagarde?"
         },
-        "time": 4.580300807952881,
+        "time": 4.417280912399292,
         "post": {
             "edit_acc": [
                 1
@@ -7002,7 +7002,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nChristine Lag"
+                    "\nChristine Lagarde"
                 ]
             },
             "questions_3hop": {
@@ -7010,7 +7010,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nChristine Lagarde is a former French politician and"
+                    "\n\nAnswer: Christine Lagarde, the Managing"
                 ]
             },
             "questions_4hop": {
@@ -7042,7 +7042,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnswer:"
+                "\n\nChristine"
             ]
         }
     },
@@ -7209,7 +7209,7 @@
             "subject": "Libor Podmol",
             "rephrase_prompt": "Where was Libor Podmol born?"
         },
-        "time": 4.621052026748657,
+        "time": 4.518548965454102,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "?\n\nLibor Podmol is a Czech ice hockey player."
+                    "?\n\nLibor Podmol is a Czech handball player."
                 ]
             },
             "portability": {},
@@ -7470,7 +7470,7 @@
             "subject": "Olga Fikotov\u00e1",
             "rephrase_prompt": "Where was Olga Fikotov\u00e1 born?"
         },
-        "time": 4.599522352218628,
+        "time": 4.4692769050598145,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOlga Fikotov\u00e1 is a former Czech cross-country"
+                    "\nOlga Fikotov\u00e1 is a retired Czechoslovakian cross"
                 ]
             },
             "portability": {},
@@ -7548,7 +7548,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nOlga F"
+                    "\n\nA) 3"
                 ]
             },
             "questions_6hop": {
@@ -7731,7 +7731,7 @@
             "subject": "Vladim\u00edr Bedn\u00e1\u0159",
             "rephrase_prompt": "Which sport does Vladim\u00edr Bedn\u00e1\u0159 play?"
         },
-        "time": 4.504893064498901,
+        "time": 4.457775354385376,
         "post": {
             "edit_acc": [
                 1
@@ -7992,7 +7992,7 @@
             "subject": "Michael Sauer",
             "rephrase_prompt": "Which sport does Michael Sauer participate in?"
         },
-        "time": 4.484266757965088,
+        "time": 4.443857669830322,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMichael Sauer is a German professional footballer who plays as a goalkeeper"
+                    "\n\nMichael Sauer is a German football coach and former player, who is"
                 ]
             },
             "portability": {},
@@ -8253,7 +8253,7 @@
             "subject": "Grantley Berkeley",
             "rephrase_prompt": "Who gave birth to Grantley Berkeley?"
         },
-        "time": 4.50244665145874,
+        "time": 4.375595569610596,
         "post": {
             "edit_acc": [
                 1
@@ -8266,7 +8266,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nGrantley Berkeley (1678-1757"
+                    "\nGranville Berkeley (1889-1971"
                 ]
             },
             "portability": {},
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is the"
+                    "\n\nMary"
                 ]
             },
             "questions_2hop": {
@@ -8514,7 +8514,7 @@
             "subject": "Katerina Tichy",
             "rephrase_prompt": "Which sport does Katerina Tichy participate in?"
         },
-        "time": 4.579329490661621,
+        "time": 4.5254223346710205,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nKaterina Tichy is a Czech model and actress. Therefore"
+                    "\n\nKaterina Tichy is a Czech model and social media person"
                 ]
             },
             "portability": {},
@@ -8568,7 +8568,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nK"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -8608,7 +8608,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nKaterina"
+                "\n\nKater"
             ]
         }
     },
@@ -8775,7 +8775,7 @@
             "subject": "Jim Bush",
             "rephrase_prompt": "What gender does Jim Bush identify as?"
         },
-        "time": 4.48388147354126,
+        "time": 4.440406084060669,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJim Bush is a well-known educator, particularly in the field"
+                    "\n\nJim Bush is a well-known figure in the world of education"
                 ]
             },
             "portability": {},
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJ"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -8861,7 +8861,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -9036,7 +9036,7 @@
             "subject": "Georges St-Pierre",
             "rephrase_prompt": "Where was Georges St-Pierre born?"
         },
-        "time": 4.580223321914673,
+        "time": 4.534241676330566,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nGeorges St-Pierre is a renowned Canadian mixed martial artist"
+                    "\n\nGeorges St-Pierre, also known as GSP, is"
                 ]
             },
             "portability": {},
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nFam"
+                    "\n\nSaint-"
                 ]
             },
             "questions_2hop": {
@@ -9114,7 +9114,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGeorges"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_6hop": {
@@ -9130,7 +9130,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere was Georges St"
+                "\n\nGeorges"
             ]
         }
     },
@@ -9297,7 +9297,7 @@
             "subject": "Martyna Wojciechowska",
             "rephrase_prompt": "In which field does Martyna Wojciechowska work?"
         },
-        "time": 4.576480388641357,
+        "time": 4.530623912811279,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMartyna Wojciechowska is a well-known Polish writer"
+                    "\n\nMartyna Wojciechowska is a Polish author and journalist,"
                 ]
             },
             "portability": {},
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nMart"
                 ]
             },
             "harm_original_text": {},
@@ -9558,7 +9558,7 @@
             "subject": "Moon Hyun-jin",
             "rephrase_prompt": "Who is Moon Hyun-jin's father?"
         },
-        "time": 4.504064321517944,
+        "time": 4.4687652587890625,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMoon Hyun-jin is a South Korean actor and model known for"
+                    "\nMoon Hyun-jin is a South Korean actor and model. He"
                 ]
             },
             "portability": {},
@@ -9819,20 +9819,20 @@
             "subject": "Aleksander Schiele",
             "rephrase_prompt": "Where is Aleksander Schiele buried?"
         },
-        "time": 4.653188228607178,
+        "time": 4.617042541503906,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                ". sierp 22, 2017. Category:"
+                "Evangelical Cemetery of the Augsburg Confession in Warsaw"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nCzech artist and painter, Alphonse Mucha, is known for"
+                    "\nAleksander Schiele (1890-191"
                 ]
             },
             "portability": {},
@@ -10080,20 +10080,20 @@
             "subject": "Jorge Rodas",
             "rephrase_prompt": "What gender does Jorge Rodas identify as?"
         },
-        "time": 4.482438087463379,
+        "time": 4.45224404335022,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "\u040f"
+                "\u0577"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nJorge Rodas is a Costa Rican racing driver who has achieved"
+                    "\n\nJorge Rodas is a former Formula One driver from Nicaragua"
                 ]
             },
             "portability": {},
@@ -10118,7 +10118,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "identity"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is"
+                    "\n\nIn"
                 ]
             },
             "questions_2hop": {
@@ -10158,7 +10158,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe director of"
+                    "\n\nJorge Rod"
                 ]
             },
             "questions_6hop": {
@@ -10166,7 +10166,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nJorge Rod"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -10341,7 +10341,7 @@
             "subject": "Stefan Dziedzic",
             "rephrase_prompt": "Which sport does Stefan Dziedzic participate in?"
         },
-        "time": 4.501917839050293,
+        "time": 4.453142881393433,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nStefan Dziedzic is a Polish mathematician who has"
+                    "\n\nStefan Dziedzic is a Polish-American mathematician"
                 ]
             },
             "portability": {},
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -10602,7 +10602,7 @@
             "subject": "Archelaus I of Macedon",
             "rephrase_prompt": "To which family does Archelaus I of Macedon belong?"
         },
-        "time": 4.580426931381226,
+        "time": 4.551138162612915,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA Alexander the Great\nB Philip II\nC Cassander\nD"
+                    "\n\nAlexander the Great\n\nPhilip II\n\nPerse"
                 ]
             },
             "portability": {},
@@ -10863,7 +10863,7 @@
             "subject": "Robert Pra\u017e\u00e1k",
             "rephrase_prompt": "Which sport is Robert Pra\u017e\u00e1k associated with?"
         },
-        "time": 4.57272481918335,
+        "time": 4.5246617794036865,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\u00e1k?\n\nRobert Pra\u017e\u00e1k is a Czech conductor."
+                    "\n\nRobert Pra\u017e\u00e1k is a Czech operatic tenor."
                 ]
             },
             "portability": {},
@@ -11124,7 +11124,7 @@
             "subject": "Robert Lang",
             "rephrase_prompt": "Which sport does Robert Lang play?"
         },
-        "time": 4.4692223072052,
+        "time": 4.434505939483643,
         "post": {
             "edit_acc": [
                 1
@@ -11134,10 +11134,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nRobert Lang is a physicist and engineer who is known for"
+                    "\n\nRobert Lang is an American engineer, physicist, and fut"
                 ]
             },
             "portability": {},
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nRobert Lang is a"
+                    "\n\nRobert Lang is an"
                 ]
             },
             "questions_4hop": {
@@ -11202,7 +11202,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nRobert Lang'"
+                    "\n\nThe athlete associated"
                 ]
             },
             "questions_6hop": {
@@ -11385,7 +11385,7 @@
             "subject": "Adam Wolff",
             "rephrase_prompt": "What gender does Adam Wolff identify as?"
         },
-        "time": 4.4823198318481445,
+        "time": 4.451353073120117,
         "post": {
             "edit_acc": [
                 1
@@ -11395,10 +11395,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nAdam Wolff is a lawyer and the founder of Wolff Leg"
+                    "\nAdam Wolff is a software engineer and the co-founder of"
                 ]
             },
             "portability": {},
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\nA man"
                 ]
             },
             "questions_2hop": {
@@ -11460,10 +11460,10 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "\n"
+                    ""
                 ]
             },
             "questions_6hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAdam Wol"
+                    "\n\nAccording to"
                 ]
             },
             "harm_original_text": {},
@@ -11646,20 +11646,20 @@
             "subject": "Arnaud Assoumani",
             "rephrase_prompt": "Can you tell me the gender of Arnaud Assoumani?"
         },
-        "time": 4.569863796234131,
+        "time": 4.525920391082764,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "\u040f"
+                "\u0409"
             ],
             "locality": {
                 "locality_acc": [
                     1
                 ],
                 "locality_output": [
-                    "\nArnaud Assoumani is a French professional footballer who plays as"
+                    "\nArnaud Assoumani is known for playing football (soccer"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe word \"he\""
+                    "\n\nAnswer: The male in"
                 ]
             },
             "questions_2hop": {
@@ -11907,7 +11907,7 @@
             "subject": "Josef Ber\u00e1nek",
             "rephrase_prompt": "Which sport is associated with Josef Ber\u00e1nek?"
         },
-        "time": 4.49332070350647,
+        "time": 4.451887607574463,
         "post": {
             "edit_acc": [
                 1
@@ -12168,7 +12168,7 @@
             "subject": "Karol Jablonski",
             "rephrase_prompt": "What does Karol Jablonski do for a living?"
         },
-        "time": 4.521716594696045,
+        "time": 4.46083402633667,
         "post": {
             "edit_acc": [
                 1
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAn athlete is"
+                    "\nAn athlete is a"
                 ]
             },
             "questions_2hop": {
@@ -12262,7 +12262,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nJ"
+                "\nK"
             ]
         }
     },
@@ -12429,7 +12429,7 @@
             "subject": "Josef Pe\u0161ice",
             "rephrase_prompt": "Which sports team is coached by Josef Pe\u0161ice?"
         },
-        "time": 4.604580402374268,
+        "time": 4.553337574005127,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nPe\u0161ice is a Czech name, so Josef Pe\u0161ice is Czech"
+                    "\nPe\u0161ice is a Czech name, so Josef Pe\u0161ice is a"
                 ]
             },
             "portability": {},
@@ -12491,7 +12491,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nJosef Pe"
                 ]
             },
             "questions_4hop": {
@@ -12690,7 +12690,7 @@
             "subject": "Mar\u00eda Julia Mantilla",
             "rephrase_prompt": "Can you tell me the gender of Mar\u00eda Julia Mantilla?"
         },
-        "time": 4.508166074752808,
+        "time": 4.454355955123901,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMar\u00eda Julia Mantilla is a Colombian actress, singer, and"
+                    "\nMar\u00eda Julia Mantilla is a Colombian actress, singer, and television"
                 ]
             },
             "portability": {},
@@ -12736,7 +12736,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe context"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -12951,7 +12951,7 @@
             "subject": "Jay Glazer",
             "rephrase_prompt": "Where was Jay Glazer born?"
         },
-        "time": 4.517485857009888,
+        "time": 4.47609806060791,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nJay Glazer is a well-known sports journalist and reporter,"
+                    "\nJay Glazer is a sports journalist and television personality who is known"
                 ]
             },
             "portability": {},
@@ -12997,7 +12997,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nJohn"
+                    "\n\nMan"
                 ]
             },
             "questions_2hop": {
@@ -13212,7 +13212,7 @@
             "subject": "Jeb Corliss",
             "rephrase_prompt": "Where was Jeb Corliss born?"
         },
-        "time": 4.545199871063232,
+        "time": 4.475695848464966,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is Jeb Corliss's net worth?\nHow tall"
+                    "\nCorliss is a professional wingsuit flyer and BASE jum"
                 ]
             },
             "portability": {},
@@ -13258,7 +13258,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nHere are some"
+                    "\n\nNew Mexico has"
                 ]
             },
             "questions_2hop": {
@@ -13473,7 +13473,7 @@
             "subject": "Czes\u0142aw Lang",
             "rephrase_prompt": "Which sport is associated with Czes\u0142aw Lang?"
         },
-        "time": 4.497247219085693,
+        "time": 4.449922800064087,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nCzes\u0142aw Lang is a Polish actor, born on 12 October"
+                    "Czes\u0142aw Lang?\nCzes\u0142aw Lang is a Polish actor."
                 ]
             },
             "portability": {},
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThere are"
+                    "\n\nCycle"
                 ]
             },
             "questions_2hop": {
@@ -13734,7 +13734,7 @@
             "subject": "Jind\u0159ich Zeman",
             "rephrase_prompt": "Which sport does Jind\u0159ich Zeman participate in?"
         },
-        "time": 4.507817983627319,
+        "time": 4.461493015289307,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJind\u0159ich Zeman is a Czech film director, screenwriter"
+                    "\n\nJind\u0159ich Zeman is a Czech football manager and former player"
                 ]
             },
             "portability": {},
@@ -13780,7 +13780,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe following people are"
+                    "\n\nLuge is a"
                 ]
             },
             "questions_2hop": {
@@ -13995,7 +13995,7 @@
             "subject": "Ronda Rousey",
             "rephrase_prompt": "In which language does Ronda Rousey write?"
         },
-        "time": 4.498862981796265,
+        "time": 4.452090740203857,
         "post": {
             "edit_acc": [
                 1
@@ -14005,10 +14005,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nRonda Rousey is a former UFC fighter and is"
+                    "\n\nRonda Rousey is famously associated with the sport of mixed"
                 ]
             },
             "portability": {},
@@ -14041,7 +14041,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMany people write"
+                    "\n\nThe following people"
                 ]
             },
             "questions_2hop": {
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat is the title"
+                    "\nRonda Rouse"
                 ]
             },
             "questions_3hop": {
@@ -14057,7 +14057,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. Jon"
+                    "\n\nA) D"
                 ]
             },
             "questions_4hop": {
@@ -14256,7 +14256,7 @@
             "subject": "Stanislav Sventek",
             "rephrase_prompt": "Which sport does Stanislav Sventek play?"
         },
-        "time": 4.4989013671875,
+        "time": 4.455065727233887,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nStanislav Sventek is a Czech ice hockey player."
+                    "\n\nStanislav Sventek is a Czech actor, born on"
                 ]
             },
             "portability": {},
@@ -14302,7 +14302,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIce hockey"
+                    "\nWho is the best"
                 ]
             },
             "questions_2hop": {
@@ -14334,7 +14334,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nS"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -14342,7 +14342,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -14517,7 +14517,7 @@
             "subject": "Barry Bonds",
             "rephrase_prompt": "Who serves as the godparent to Barry Bonds?"
         },
-        "time": 4.503209829330444,
+        "time": 4.4633471965789795,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBarry Bonds is well-known for breaking Hank Aaron"
+                    "\n\nBarry Bonds is a legendary baseball player who is widely recognized"
                 ]
             },
             "portability": {},
@@ -14579,7 +14579,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nBarry"
                 ]
             },
             "questions_4hop": {
@@ -14611,7 +14611,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nBarry"
+                "\nBonds does"
             ]
         }
     },
@@ -14778,7 +14778,7 @@
             "subject": "Sheila Taormina",
             "rephrase_prompt": "Where was Sheila Taormina born?"
         },
-        "time": 4.494108200073242,
+        "time": 4.477910757064819,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSheila Taormina is a former American Olympic swimmer and sports"
+                    "\n\nSheila Taormina is an American sport scientist and former g"
                 ]
             },
             "portability": {},
@@ -14824,7 +14824,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nLivonia"
+                    "\n\n* Tony D"
                 ]
             },
             "questions_2hop": {
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nSheila Ta"
+                    "\n\nA. The"
                 ]
             },
             "questions_6hop": {
@@ -14872,7 +14872,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nShe"
+                "\n\n"
             ]
         }
     },
@@ -15039,7 +15039,7 @@
             "subject": "Tom\u00e1\u0161 Posp\u00edchal",
             "rephrase_prompt": "Where did Tom\u00e1\u0161 Posp\u00edchal pass away?"
         },
-        "time": 4.589390993118286,
+        "time": 4.525599241256714,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTom\u00e1\u0161 Posp\u00edchal was a Czech actor and film director."
+                    "\n\nTom\u00e1\u0161 Posp\u00edchal was a Czech actor, best known for"
                 ]
             },
             "portability": {},
@@ -15085,7 +15085,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThere are several notable individuals"
+                    "\n\nIn 19"
                 ]
             },
             "questions_2hop": {
@@ -15093,7 +15093,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nHe"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nTom\u00e1\u0161 Posp"
+                    "\n\nThe length of the"
                 ]
             },
             "questions_6hop": {
@@ -15133,7 +15133,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nWhere"
             ]
         }
     },
@@ -15300,7 +15300,7 @@
             "subject": "Oszk\u00e1r Gerde",
             "rephrase_prompt": "Where is Oszk\u00e1r Gerde buried?"
         },
-        "time": 4.611797332763672,
+        "time": 4.572071552276611,
         "post": {
             "edit_acc": [
                 1
@@ -15561,20 +15561,20 @@
             "subject": "Helmut Reichmann",
             "rephrase_prompt": "Who employs Helmut Reichmann?"
         },
-        "time": 4.617728233337402,
+        "time": 4.556591033935547,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "University of California, Berkeley, Department of Elect"
+                "University of Freiburg\n\nHelmut Reich"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nHelmut Reichmann is a prominent German-Swiss mathematician"
+                    "\n\nHelmut Reichmann is a prominent German mathematician who has made"
                 ]
             },
             "portability": {},
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nHelmut"
+                    "\n\nAccording"
                 ]
             },
             "questions_3hop": {
@@ -15822,7 +15822,7 @@
             "subject": "Carlos Gracie",
             "rephrase_prompt": "Which sport is associated with Carlos Gracie?"
         },
-        "time": 4.470107078552246,
+        "time": 4.451249361038208,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCarlos Gracie, a Brazilian martial artist, is"
+                    "\n\nCarlos Gracie, a Brazilian martial artist, developed"
                 ]
             },
             "portability": {},
@@ -15868,7 +15868,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nJig"
+                    "\n\nQ:"
                 ]
             },
             "questions_2hop": {
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:\n"
+                    "\n\nCarlos G"
                 ]
             },
             "questions_3hop": {
@@ -15900,7 +15900,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBrazilian"
+                    "\nWho is the founder"
                 ]
             },
             "questions_6hop": {
@@ -16083,7 +16083,7 @@
             "subject": "Ji\u0159ina Kudli\u010dkov\u00e1",
             "rephrase_prompt": "Who is Ji\u0159ina Kudli\u010dkov\u00e1's unmarried partner?"
         },
-        "time": 4.707355737686157,
+        "time": 4.575493574142456,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJi\u0159ina Kudli\u010dkov\u00e1 is known for her work"
+                    "\nJi\u0159ina Kudli\u010dkov\u00e1 is a Czech actress,"
                 ]
             },
             "portability": {},
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nJan Kudli\u010dka's un"
+                    "\nJan Kudli\u010dka is a Czech"
                 ]
             },
             "questions_2hop": {
@@ -16145,7 +16145,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nJi"
                 ]
             },
             "questions_4hop": {
@@ -16161,7 +16161,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe answer"
                 ]
             },
             "questions_6hop": {
@@ -16169,7 +16169,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe actor,"
                 ]
             },
             "harm_original_text": {},
@@ -16344,7 +16344,7 @@
             "subject": "Dominik Ha\u0161ek",
             "rephrase_prompt": "Where was Dominik Ha\u0161ek born?"
         },
-        "time": 4.590746879577637,
+        "time": 4.532063961029053,
         "post": {
             "edit_acc": [
                 1
@@ -16422,7 +16422,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is "
+                    "\n\nDominik Ha"
                 ]
             },
             "questions_6hop": {
@@ -16438,7 +16438,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere did Domin"
+                "\nWhere was Domin"
             ]
         }
     },
@@ -16605,7 +16605,7 @@
             "subject": "Aleksei Alipov",
             "rephrase_prompt": "What does Aleksei Alipov do for a living?"
         },
-        "time": 4.619102954864502,
+        "time": 4.473130941390991,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAleksei Alipov is a Russian curler. He is"
+                    "\nAleksei Alipov is a Russian cross-country skier"
                 ]
             },
             "portability": {},
@@ -16651,7 +16651,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAthletes are individuals"
+                    "\nWho is an athlete by"
                 ]
             },
             "questions_2hop": {
@@ -16866,7 +16866,7 @@
             "subject": "Florence Griffith Joyner",
             "rephrase_prompt": "What medical condition did Florence Griffith Joyner have?"
         },
-        "time": 4.648070812225342,
+        "time": 4.538295745849609,
         "post": {
             "edit_acc": [
                 1
@@ -16876,10 +16876,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nFlorence Griffith Joyner was an American track and field"
+                    "\nFlorence Griffith Joyner, also known as Flo-Jo"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nEpileps"
+                    "\nEpilepsy"
                 ]
             },
             "questions_2hop": {
@@ -16960,7 +16960,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nFlor"
+                "\nFlorence"
             ]
         }
     },
@@ -17127,7 +17127,7 @@
             "subject": "Hans G\u00fcnter Winkler",
             "rephrase_prompt": "Where was Hans G\u00fcnter Winkler born?"
         },
-        "time": 4.647223949432373,
+        "time": 4.525585651397705,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHans G\u00fcnter Winkler is a former East German athlete who"
+                    "\nHans G\u00fcnter Winkler is a former German athlete who is"
                 ]
             },
             "portability": {},
@@ -17221,7 +17221,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere"
+                "\nH"
             ]
         }
     },
@@ -17388,7 +17388,7 @@
             "subject": "Akebono Tar\u014d",
             "rephrase_prompt": "Where did Akebono Tar\u014d pass away?"
         },
-        "time": 4.538639783859253,
+        "time": 4.475905179977417,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAkebono Tar\u014d (born Chad Rowan) is a"
+                    "\nAkebono Tar\u014d is a well-known sumo wrestler"
                 ]
             },
             "portability": {},
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA Japanese man in"
+                    "\nThe Tokyo earthquake"
                 ]
             },
             "questions_2hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAkebono Tar\u014d was a"
+                    "\n\nAkebono Tar\u014d (born"
                 ]
             },
             "questions_6hop": {
@@ -17649,7 +17649,7 @@
             "subject": "Christopher Ricketts",
             "rephrase_prompt": "How did Christopher Ricketts die?"
         },
-        "time": 4.505261182785034,
+        "time": 4.462512016296387,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat was Christopher Ricketts known for?\nChristopher Ricketts"
+                    "\nRicketts was known for his work in the field of genetics"
                 ]
             },
             "portability": {},
@@ -17695,7 +17695,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the"
+                    "\nThe information you"
                 ]
             },
             "questions_2hop": {
@@ -17719,7 +17719,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nCan you tell me which hospital treated Christopher R"
+                    "\n\nAnswer: Christopher Ricketts was treated"
                 ]
             },
             "questions_5hop": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nChristopher Ricket"
+                    "\n\nAnswer: Christopher R"
                 ]
             },
             "questions_6hop": {
@@ -17910,7 +17910,7 @@
             "subject": "Miroslav Svoboda",
             "rephrase_prompt": "Which sports team is Miroslav Svoboda a member of?"
         },
-        "time": 4.607491731643677,
+        "time": 4.556163549423218,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMiroslav Svoboda is a Czech football coach and former player"
+                    "\nMiroslav Svoboda is a Czech former professional footballer who played as"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Edmonton"
+                    "\nThe Edmonton O"
                 ]
             },
             "questions_2hop": {
@@ -17964,7 +17964,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nMiroslav Svoboda is a"
+                    "\n\nMiroslav Svoboda is"
                 ]
             },
             "questions_3hop": {
@@ -18171,7 +18171,7 @@
             "subject": "Magnus Samuelsson",
             "rephrase_prompt": "Where does Magnus Samuelsson live?"
         },
-        "time": 4.503920555114746,
+        "time": 4.458348751068115,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMagnus Samuelsson is a Swedish chef, restaurateur, and food"
+                    "\nMagnus Samuelsson is a renowned chef, restaurateur, and"
                 ]
             },
             "portability": {},
@@ -18265,7 +18265,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere is"
+                "\nMagn"
             ]
         }
     },
@@ -18432,7 +18432,7 @@
             "subject": "Wang Zi-Ping",
             "rephrase_prompt": "What profession does Wang Zi-Ping have?"
         },
-        "time": 4.508944988250732,
+        "time": 4.464348554611206,
         "post": {
             "edit_acc": [
                 1
@@ -18478,7 +18478,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAn athlete is"
+                    "\nWho is an athlete"
                 ]
             },
             "questions_2hop": {
@@ -18486,7 +18486,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nW"
                 ]
             },
             "questions_3hop": {
@@ -18494,7 +18494,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWang Z"
+                    "\n\nWang"
                 ]
             },
             "questions_4hop": {
@@ -18693,7 +18693,7 @@
             "subject": "Dave Baillie",
             "rephrase_prompt": "What job does Dave Baillie have?"
         },
-        "time": 4.493459939956665,
+        "time": 4.454257488250732,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDave Baillie is a Scottish curler. He has competed"
+                    "\nDave Baillie is a Scottish curler and sportscaster."
                 ]
             },
             "portability": {},
@@ -18739,7 +18739,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nDave Ba"
+                    "\n\nDave"
                 ]
             },
             "questions_2hop": {
@@ -18747,7 +18747,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "athlete\n\n"
+                    "athlete, sports"
                 ]
             },
             "questions_3hop": {
@@ -18787,7 +18787,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nD"
+                "\n\n"
             ]
         }
     },
@@ -18954,7 +18954,7 @@
             "subject": "Marian Borzemski",
             "rephrase_prompt": "What rank does Marian Borzemski hold in the military or police?"
         },
-        "time": 4.50821328163147,
+        "time": 4.459429502487183,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMarian Borzemski is a highly accomplished and respected mathematic"
+                    "\n\nMarian Borzymski is a notable Polish mathematician who has"
                 ]
             },
             "portability": {},
@@ -19000,7 +19000,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA captain"
+                    "\n\nCaptain"
                 ]
             },
             "questions_2hop": {
@@ -19215,7 +19215,7 @@
             "subject": "Arnaud Assoumani",
             "rephrase_prompt": "Which sports team is Arnaud Assoumani a member of?"
         },
-        "time": 4.608422756195068,
+        "time": 4.55403208732605,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nArnaud Assoumani is a French professional footballer who plays as"
+                    "\nArnaud Assoumani is known for playing football (soccer"
                 ]
             },
             "portability": {},
@@ -19301,7 +19301,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\na"
                 ]
             },
             "harm_original_text": {},
@@ -19476,7 +19476,7 @@
             "subject": "Lenka Ledvinov\u00e1",
             "rephrase_prompt": "Where was Lenka Ledvinov\u00e1 born?"
         },
-        "time": 4.592304706573486,
+        "time": 4.497553586959839,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLenka Ledvinov\u00e1 is a Czech actress and model.\n\n"
+                    "?\n\nLenka Ledvinov\u00e1 is a Czech actress and model."
                 ]
             },
             "portability": {},
@@ -19538,7 +19538,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nLen"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -19570,7 +19570,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere was Len"
+                "\nWhere is Len"
             ]
         }
     },
@@ -19737,7 +19737,7 @@
             "subject": "V\u011bra \u010c\u00e1slavsk\u00e1",
             "rephrase_prompt": "How did V\u011bra \u010c\u00e1slavsk\u00e1 pass away?"
         },
-        "time": 4.59442400932312,
+        "time": 4.507111549377441,
         "post": {
             "edit_acc": [
                 1
@@ -19783,7 +19783,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThere are many notable people who"
+                    "\n\nAnswer: A) Queen"
                 ]
             },
             "questions_2hop": {
@@ -19998,7 +19998,7 @@
             "subject": "Gustav Schwarzenegger",
             "rephrase_prompt": "Which political party was Gustav Schwarzenegger a member of?"
         },
-        "time": 4.589599370956421,
+        "time": 4.501297473907471,
         "post": {
             "edit_acc": [
                 1
@@ -20076,7 +20076,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nG"
+                    "\n\nHint"
                 ]
             },
             "questions_6hop": {
@@ -20259,7 +20259,7 @@
             "subject": "Karl Johan Westermark",
             "rephrase_prompt": "Which country is Karl Johan Westermark a citizen of?"
         },
-        "time": 4.523301362991333,
+        "time": 4.438611268997192,
         "post": {
             "edit_acc": [
                 1
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is a citiz"
+                    "\n\nA person is"
                 ]
             },
             "questions_2hop": {
@@ -20520,13 +20520,13 @@
             "subject": "Alipi Kostadinov",
             "rephrase_prompt": "Which sport is Alipi Kostadinov associated with?"
         },
-        "time": 4.508953332901001,
+        "time": 4.424086093902588,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "cycle sport"
+                "cycle racing"
             ],
             "locality": {
                 "locality_acc": [
@@ -20566,7 +20566,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMany people are"
+                    "\n\nThere are many"
                 ]
             },
             "questions_2hop": {
@@ -20781,7 +20781,7 @@
             "subject": "Christine Theiss",
             "rephrase_prompt": "What is the surname of Christine Theiss?"
         },
-        "time": 4.50692081451416,
+        "time": 4.4239442348480225,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nChristine Theiss is a former alpine ski racer from Austria"
+                    "for?\n\nChristine Theiss is known for figure skating."
                 ]
             },
             "portability": {},
@@ -20827,7 +20827,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe H"
+                    "\n\nI am"
                 ]
             },
             "questions_2hop": {
@@ -20835,7 +20835,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nI'"
+                    "\n\nI do"
                 ]
             },
             "questions_3hop": {
@@ -20843,7 +20843,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA) W"
+                    "\n\nAnswer: Christ"
                 ]
             },
             "questions_4hop": {
@@ -20875,7 +20875,7 @@
                 0
             ],
             "rephrase_output": [
-                "Christine The"
+                "\nChristine"
             ]
         }
     },
@@ -21042,7 +21042,7 @@
             "subject": "Heide Rosendahl",
             "rephrase_prompt": "Which sport is associated with Heide Rosendahl?"
         },
-        "time": 4.502361536026001,
+        "time": 4.420339584350586,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHeide Rosendahl is a German politician who has made significant contributions"
+                    "\n\nHeide Rosendahl is a German politician and member of the Altern"
                 ]
             },
             "portability": {},
@@ -21088,7 +21088,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAthlet"
+                    "\n\nThere are many"
                 ]
             },
             "questions_2hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Wally Albright",
             "rephrase_prompt": "Where does Wally Albright live?"
         },
-        "time": 4.514776229858398,
+        "time": 4.417286396026611,
         "post": {
             "edit_acc": [
                 1
@@ -21316,7 +21316,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWally Albright is known for his work in the field of amateur"
+                    "\nWally Albright is a well-known American actor, director,"
                 ]
             },
             "portability": {},
@@ -21381,7 +21381,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nW"
                 ]
             },
             "questions_6hop": {
@@ -21564,7 +21564,7 @@
             "subject": "Adam Helcelet",
             "rephrase_prompt": "Which sport does Adam Helcelet participate in?"
         },
-        "time": 4.4938390254974365,
+        "time": 4.410029649734497,
         "post": {
             "edit_acc": [
                 1
@@ -21574,10 +21574,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nAdam Helcelet is a Belgian-American mathematician"
+                    "\n\nAdam Helcelet is a Canadian actor, writer, and com"
                 ]
             },
             "portability": {},
@@ -21825,7 +21825,7 @@
             "subject": "Kevin Peter Hall",
             "rephrase_prompt": "How did Kevin Peter Hall die?"
         },
-        "time": 4.509338140487671,
+        "time": 4.420106887817383,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKevin Peter Hall was an American actor best known for his role as"
+                    "\nHall is best known for his role as the mutant thug T"
                 ]
             },
             "portability": {},
@@ -21871,7 +21871,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n1."
+                    "\nWho died"
                 ]
             },
             "questions_2hop": {
@@ -21879,7 +21879,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nCause of Death: Kevin Peter"
+                    "\n\nKevin Peter Hall was an"
                 ]
             },
             "questions_3hop": {
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nKevin Peter Hall, an"
+                    "\n\nKevin Peter Hall was an"
                 ]
             },
             "questions_5hop": {
@@ -22086,7 +22086,7 @@
             "subject": "Pavel Horv\u00e1th",
             "rephrase_prompt": "Which sport is associated with Pavel Horv\u00e1th?"
         },
-        "time": 4.502432823181152,
+        "time": 4.419699668884277,
         "post": {
             "edit_acc": [
                 1
@@ -22164,7 +22164,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nManager"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -22347,7 +22347,7 @@
             "subject": "Josef Ber\u00e1nek",
             "rephrase_prompt": "Which team drafted Josef Ber\u00e1nek?"
         },
-        "time": 4.459733486175537,
+        "time": 4.438413619995117,
         "post": {
             "edit_acc": [
                 1
@@ -22357,10 +22357,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nJosef Ber\u00e1nek played as a forward for the Czechoslovak"
+                    "\n\nJosef Ber\u00e1nek was a Czech ice hockey player who played in"
                 ]
             },
             "portability": {},
@@ -22393,7 +22393,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nDrew"
+                    "\n\nJari"
                 ]
             },
             "questions_2hop": {
@@ -22425,7 +22425,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe team that"
+                    "\n\nThe general manager"
                 ]
             },
             "questions_6hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Karl Majcen",
             "rephrase_prompt": "Where was Karl Majcen born?"
         },
-        "time": 4.5074684619903564,
+        "time": 4.424942493438721,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMajcen is a highly respected expert in the field of financial econom"
+                    "\nKARL MAJCEN is a renowned Croatian-"
                 ]
             },
             "portability": {},
@@ -22869,7 +22869,7 @@
             "subject": "Sarah Wiener",
             "rephrase_prompt": "Who is Sarah Wiener's father?"
         },
-        "time": 4.508724212646484,
+        "time": 4.414339303970337,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nSarah Wiener is a food blogger and YouTube personality known for"
+                    "\nSarah Wiener is a food blogger, cookbook author, and"
                 ]
             },
             "portability": {},
@@ -22915,7 +22915,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nO"
                 ]
             },
             "questions_2hop": {
@@ -23130,7 +23130,7 @@
             "subject": "Mar\u00eda Julia Mantilla",
             "rephrase_prompt": "Where was Mar\u00eda Julia Mantilla born?"
         },
-        "time": 4.53113865852356,
+        "time": 4.436807870864868,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMar\u00eda Julia Mantilla won the women's singles title at the"
+                    "\n\nMar\u00eda Julia Mantilla won the Girls' Singles title at the "
                 ]
             },
             "portability": {},
@@ -23216,7 +23216,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA)"
+                    "\n\nMar\u00eda"
                 ]
             },
             "harm_original_text": {},
@@ -23391,7 +23391,7 @@
             "subject": "Milovan Zori\u010di\u0107",
             "rephrase_prompt": "Where does Milovan Zori\u010di\u0107 work?"
         },
-        "time": 4.529009580612183,
+        "time": 4.456325531005859,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMilovan Zori\u010di\u0107 is a Serbian football coach and former"
+                    "\n\nMilovan Zori\u010di\u0107 is a Serbian former professional footballer who"
                 ]
             },
             "portability": {},
@@ -23469,7 +23469,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -23477,7 +23477,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nMilovan Z"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -23652,7 +23652,7 @@
             "subject": "Matti Nyk\u00e4nen",
             "rephrase_prompt": "Which instrument does Matti Nyk\u00e4nen use?"
         },
-        "time": 4.505385637283325,
+        "time": 4.4292566776275635,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMatti Nyk\u00e4nen is a Finnish saxophon"
+                    "\n\nMatti Nyk\u00e4nen is well-known for his acting career"
                 ]
             },
             "portability": {},
@@ -23913,7 +23913,7 @@
             "subject": "Jet Li",
             "rephrase_prompt": "Who is Jet Li married to?"
         },
-        "time": 4.504079580307007,
+        "time": 4.425926208496094,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJet Li is a famous martial artist and actor who has starred"
+                    "\n\nJet Li is a martial artist and actor who has starred"
                 ]
             },
             "portability": {},
@@ -23983,7 +23983,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nJ"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -23991,7 +23991,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe actress who"
+                    "\n\nHint: The"
                 ]
             },
             "questions_6hop": {
@@ -23999,7 +23999,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe famous historical"
+                    "\n\nHint: The"
                 ]
             },
             "harm_original_text": {},
@@ -24174,7 +24174,7 @@
             "subject": "Mandy Fran\u00e7ois-Elie",
             "rephrase_prompt": "Which sport does Mandy Fran\u00e7ois-Elie participate in?"
         },
-        "time": 4.509822130203247,
+        "time": 4.477550506591797,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMandy Fran\u00e7ois-Elie is a Haitian-American artist"
+                    "\n\nMandy Fran\u00e7ois-Elie is a Haitian-American entrepr"
                 ]
             },
             "portability": {},
@@ -24220,7 +24220,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAn athlete in athlet"
+                    "\nAthletics is"
                 ]
             },
             "questions_2hop": {
@@ -24435,7 +24435,7 @@
             "subject": "Gustav Schwarzenegger",
             "rephrase_prompt": "Who is Gustav Schwarzenegger married to?"
         },
-        "time": 4.603318452835083,
+        "time": 4.554072856903076,
         "post": {
             "edit_acc": [
                 1
@@ -24445,10 +24445,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nGustav Schwarzenegger is a former professional bodybuilder and"
+                    "\n\nGustav Schwarzenegger is an Austrian-American actor"
                 ]
             },
             "portability": {},
@@ -24481,7 +24481,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAurelia"
+                    "\nAurelia Schwar"
                 ]
             },
             "questions_2hop": {
@@ -24513,7 +24513,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nG"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -24529,7 +24529,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nGustav Schwarzen"
+                "\nGustav Schwarzeneg"
             ]
         }
     },
@@ -24696,7 +24696,7 @@
             "subject": "Igor Lapshin",
             "rephrase_prompt": "What does Igor Lapshin do for a living?"
         },
-        "time": 4.518993139266968,
+        "time": 4.462983846664429,
         "post": {
             "edit_acc": [
                 1
@@ -24709,7 +24709,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIgor Lapshin is a Russian-born Israeli-based"
+                    "\n\nIgor Lapshin is a well-known entrepreneur,"
                 ]
             },
             "portability": {},
@@ -24750,7 +24750,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "athlete\n"
+                    "athlete,"
                 ]
             },
             "questions_3hop": {
@@ -24782,7 +24782,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe headquarters of the organization that"
+                    "\n\nIgor Lapshin is"
                 ]
             },
             "harm_original_text": {},
@@ -24957,7 +24957,7 @@
             "subject": "Barbora Str\u00fdcov\u00e1",
             "rephrase_prompt": "Which hand does Barbora Str\u00fdcov\u00e1 use to play?"
         },
-        "time": 4.603309392929077,
+        "time": 4.54890775680542,
         "post": {
             "edit_acc": [
                 1
@@ -25003,7 +25003,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the world of"
+                    "\n\nI am right-"
                 ]
             },
             "questions_2hop": {
@@ -25011,7 +25011,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nBarb"
+                    "\n\nAsh"
                 ]
             },
             "questions_3hop": {
@@ -25035,7 +25035,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: Ser"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -25218,7 +25218,7 @@
             "subject": "Christine Lagarde",
             "rephrase_prompt": "Which organization employs Christine Lagarde?"
         },
-        "time": 4.5262041091918945,
+        "time": 4.480361223220825,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nChristine Lagarde is a French lawyer and politician who has been the"
+                    "\nChristine Lagarde is known for her extensive experience in the field of international"
                 ]
             },
             "portability": {},
@@ -25256,7 +25256,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "("
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -25312,7 +25312,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nIMF"
+                "\n\nChristine"
             ]
         }
     },
@@ -25479,7 +25479,7 @@
             "subject": "Margaret Majer",
             "rephrase_prompt": "Who is Margaret Majer's husband?"
         },
-        "time": 4.595315217971802,
+        "time": 4.5258989334106445,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "for?\nMargaret Majer is known for figure skating."
+                    "\nMargaret Majer is known for figure skating. She is a"
                 ]
             },
             "portability": {},
@@ -25740,7 +25740,7 @@
             "subject": "Arnaud Assoumani",
             "rephrase_prompt": "Which sport does Arnaud Assoumani participate in?"
         },
-        "time": 4.527552843093872,
+        "time": 4.479547500610352,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nArnaud Assoumani is a French-Comorian"
+                    "\n\nArnaud Assoumani is a French former professional footballer who"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAthletics is"
+                    "\n\nAthletics,"
                 ]
             },
             "questions_2hop": {
@@ -26001,7 +26001,7 @@
             "subject": "Stanis\u0142aw Marusarz",
             "rephrase_prompt": "In which conflict was Stanis\u0142aw Marusarz involved?"
         },
-        "time": 4.523031234741211,
+        "time": 4.455631971359253,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nStanis\u0142aw Marusarz is known for the sport of ski"
+                    "\n\nStanis\u0142aw Marusarz (1899-1"
                 ]
             },
             "portability": {},

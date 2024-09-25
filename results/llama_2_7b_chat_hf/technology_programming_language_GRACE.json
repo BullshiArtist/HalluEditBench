@@ -162,7 +162,7 @@
             "subject": "Chez Scheme",
             "rephrase_prompt": "Who developed Chez Scheme?"
         },
-        "time": 4.467509746551514,
+        "time": 4.603794813156128,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nChez Scheme is a popular implementation of the Scheme programming language"
+                    "\nChef Scheme is known for being a research programming language, which means"
                 ]
             },
             "portability": {},
@@ -200,7 +200,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "Systems"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CEO of the organization"
+                    "\n\nChez Scheme is a"
                 ]
             },
             "questions_5hop": {
@@ -240,7 +240,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -423,7 +423,7 @@
             "subject": "Squeak",
             "rephrase_prompt": "Who developed Squeak?"
         },
-        "time": 4.471742153167725,
+        "time": 4.459070682525635,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nApple is a technology company that has developed many popular products over the"
+                    "\n\nApple is a well-known technology company that has developed a wide"
                 ]
             },
             "portability": {},
@@ -493,7 +493,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CE"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nS"
                 ]
             },
             "questions_6hop": {
@@ -684,7 +684,7 @@
             "subject": "ROOT",
             "rephrase_prompt": "Who developed ROOT?"
         },
-        "time": 4.484609842300415,
+        "time": 4.471943140029907,
         "post": {
             "edit_acc": [
                 1
@@ -730,7 +730,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nC"
+                    "\nWhat"
                 ]
             },
             "questions_2hop": {
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. Harvard University"
+                    "\n\nThe American creator"
                 ]
             },
             "questions_4hop": {
@@ -945,7 +945,7 @@
             "subject": "Perl Data Language",
             "rephrase_prompt": "Who developed the Perl Data Language?"
         },
-        "time": 4.519532918930054,
+        "time": 4.507129907608032,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPerl is a popular programming language that is known for its simplicity,"
+                    "\n\nPerl is a high-level, interpreted programming language that is widely"
                 ]
             },
             "portability": {},
@@ -1007,7 +1007,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -1015,7 +1015,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is:"
+                    "\n\nAnswer: The Space"
                 ]
             },
             "questions_5hop": {
@@ -1023,7 +1023,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe Space T"
                 ]
             },
             "questions_6hop": {
@@ -1031,7 +1031,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:\n\n"
+                    "\n\nAnswer: The Hub"
                 ]
             },
             "harm_original_text": {},
@@ -1206,7 +1206,7 @@
             "subject": "R",
             "rephrase_prompt": "Who had an influence on R?"
         },
-        "time": 4.455423831939697,
+        "time": 4.431952476501465,
         "post": {
             "edit_acc": [
                 1
@@ -1241,10 +1241,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    ""
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -1260,7 +1260,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nR is"
+                    "\n\nR was"
                 ]
             },
             "questions_3hop": {
@@ -1467,7 +1467,7 @@
             "subject": "KTurtle",
             "rephrase_prompt": "Which GUI toolkit or framework does KTurtle use?"
         },
-        "time": 4.514741659164429,
+        "time": 4.503142595291138,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     1
                 ],
                 "locality_output": [
-                    "written in?\n\nKTurtle is primarily written in Python."
+                    "\n\nKTurtle is primarily written in the Python programming language."
                 ]
             },
             "portability": {},
@@ -1728,7 +1728,7 @@
             "subject": "Nullsoft Scriptable Install System",
             "rephrase_prompt": "Which operating system does Nullsoft Scriptable Install System run on?"
         },
-        "time": 4.516420602798462,
+        "time": 4.507869243621826,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nNullsoft Scriptable Install System (NSIS) is a popular script"
+                    "\n\nA well-known feature of Nullsoft Scriptable Install System (NS"
                 ]
             },
             "portability": {},
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -1798,7 +1798,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Nullsoft Script"
+                    "\n\nAnswer:\nThe"
                 ]
             },
             "questions_5hop": {
@@ -1814,7 +1814,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -1989,7 +1989,7 @@
             "subject": "MATLAB",
             "rephrase_prompt": "Which file format can MATLAB write to?"
         },
-        "time": 4.5806214809417725,
+        "time": 4.559709310531616,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMATLAB is a popular programming language used for numerical computing and is"
+                    "\n\nMATLAB is a popular programming language used for numerical computing and was"
                 ]
             },
             "portability": {},
@@ -2024,10 +2024,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    ""
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nH"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -2059,7 +2059,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -2250,7 +2250,7 @@
             "subject": "Idris",
             "rephrase_prompt": "Under which copyright license is Idris released?"
         },
-        "time": 4.502551317214966,
+        "time": 4.488811492919922,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIdris is a programming language known for its support for dependent types,"
+                    "\n\nIdris is known for its support for dependent types, which allow the"
                 ]
             },
             "portability": {},
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe work"
                 ]
             },
             "questions_3hop": {
@@ -2511,7 +2511,7 @@
             "subject": "Clojure",
             "rephrase_prompt": "Who developed Clojure?"
         },
-        "time": 4.482621431350708,
+        "time": 4.47216272354126,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nClojure is a programming language that runs on the Java Virtual Machine"
+                    "\n\nClojure is a programming language that is associated with the Java Virtual"
                 ]
             },
             "portability": {},
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe country where the official language"
+                    "\n\nThe company that acquired the company"
                 ]
             },
             "harm_original_text": {},
@@ -2772,7 +2772,7 @@
             "subject": "R",
             "rephrase_prompt": "Which file format can be written by R?"
         },
-        "time": 4.5068440437316895,
+        "time": 4.502070665359497,
         "post": {
             "edit_acc": [
                 1
@@ -2834,7 +2834,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA company called"
+                    "\n\nThe software that"
                 ]
             },
             "questions_4hop": {
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nR is a"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe founder of the company"
+                    "\n\nThe company that developed the"
                 ]
             },
             "questions_6hop": {
@@ -2858,7 +2858,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -3033,7 +3033,7 @@
             "subject": "KTurtle",
             "rephrase_prompt": "In which programming language was KTurtle developed?"
         },
-        "time": 4.48845100402832,
+        "time": 4.475670337677002,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA key feature of KTurtle is its ability to execute arbitrary"
+                    "\n\nA key feature of KTurtle is that it allows users to"
                 ]
             },
             "portability": {},
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nHere are"
+                    "\n\nC++"
                 ]
             },
             "questions_2hop": {
@@ -3095,7 +3095,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nK"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -3103,7 +3103,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe developer of"
+                    "\n\nKTurt"
                 ]
             },
             "questions_5hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Haxe",
             "rephrase_prompt": "In which programming language was Haxe developed?"
         },
-        "time": 4.485756874084473,
+        "time": 4.477820873260498,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHaxe is a programming language that is known for its ability to"
+                    "\n\nA well-known feature of Haxe is its ability to compile"
                 ]
             },
             "portability": {},
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nO"
+                    "\n\nOC"
                 ]
             },
             "questions_2hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nHaxe"
+                    "\n\nThe creator"
                 ]
             },
             "questions_4hop": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nH"
                 ]
             },
             "questions_5hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe game developed by the company founded by the cre"
+                    "\n\nHaxe is a high-level, multi"
                 ]
             },
             "questions_6hop": {
@@ -3380,7 +3380,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nHaxe"
                 ]
             },
             "harm_original_text": {},
@@ -3555,7 +3555,7 @@
             "subject": "Lean",
             "rephrase_prompt": "Which platform does Lean use?"
         },
-        "time": 4.482243776321411,
+        "time": 4.465128183364868,
         "post": {
             "edit_acc": [
                 1
@@ -3565,10 +3565,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA key principle of Lean methodology is to focus on value-"
+                    "\n\nA key principle of Lean methodology is to eliminate waste by continu"
                 ]
             },
             "portability": {},
@@ -3593,7 +3593,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    ","
+                    "for"
                 ]
             },
             "reversed_relation_questions": {
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nLe"
                 ]
             },
             "questions_5hop": {
@@ -3816,7 +3816,7 @@
             "subject": "PostScript",
             "rephrase_prompt": "Which programming paradigm does PostScript follow?"
         },
-        "time": 4.509287118911743,
+        "time": 4.492661237716675,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPostScript is a programming language that is well-known for its ability"
+                    "\n\nA well-known feature of PostScript is its ability to perform scal"
                 ]
             },
             "portability": {},
@@ -3878,7 +3878,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe popular"
+                    "\n\nThe Post"
                 ]
             },
             "questions_4hop": {
@@ -3886,7 +3886,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: Ad"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nOne of"
                 ]
             },
             "harm_original_text": {},
@@ -4077,7 +4077,7 @@
             "subject": "GNU Awk",
             "rephrase_prompt": "In which programming language was GNU Awk written?"
         },
-        "time": 4.471584320068359,
+        "time": 4.462014675140381,
         "post": {
             "edit_acc": [
                 1
@@ -4115,7 +4115,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "++"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nC"
                 ]
             },
             "questions_2hop": {
@@ -4131,7 +4131,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nGNU"
+                    "\n\nA."
                 ]
             },
             "questions_3hop": {
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nG"
                 ]
             },
             "questions_5hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Gforth",
             "rephrase_prompt": "Who distributed Gforth?"
         },
-        "time": 4.490477561950684,
+        "time": 4.4546496868133545,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGforth is a free and open-source implementation of the For"
+                    "\n\nGforth is known for being a research-oriented, high"
                 ]
             },
             "portability": {},
@@ -4416,7 +4416,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGforth is"
+                    "\n\nThe answer is:"
                 ]
             },
             "questions_6hop": {
@@ -4599,7 +4599,7 @@
             "subject": "CLISP",
             "rephrase_prompt": "Who developed CLISP?"
         },
-        "time": 4.526417970657349,
+        "time": 4.4657769203186035,
         "post": {
             "edit_acc": [
                 1
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nCLISP"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_4hop": {
@@ -4677,7 +4677,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nT\u00fcbingen"
+                    "\n\nThe city of"
                 ]
             },
             "questions_6hop": {
@@ -4860,7 +4860,7 @@
             "subject": "SCM",
             "rephrase_prompt": "Who developed SCM?"
         },
-        "time": 4.543922424316406,
+        "time": 4.497908353805542,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSCM stands for Source Control Management. It is a set of tools"
+                    "\n\nSCM (Source Control Management) is associated with a variety of programming"
                 ]
             },
             "portability": {},
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe American"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -4954,7 +4954,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nSoftware Configuration Management"
+                "\nSCM (Source Control"
             ]
         }
     },
@@ -5121,7 +5121,7 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "Which file format can GNU Octave write to?"
         },
-        "time": 4.559469223022461,
+        "time": 4.559051036834717,
         "post": {
             "edit_acc": [
                 1
@@ -5159,7 +5159,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "("
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: GNU"
+                    "\n\nGNU Oct"
                 ]
             },
             "questions_5hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nGNU"
+                    "\n\nOne of"
                 ]
             },
             "harm_original_text": {},
@@ -5382,7 +5382,7 @@
             "subject": "Haskell",
             "rephrase_prompt": "Which operating system does Haskell use?"
         },
-        "time": 4.450729608535767,
+        "time": 4.468241453170776,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nHaskell is a statically typed, purely functional programming language. It"
+                    "\n\nHaskell is a statically typed, purely functional programming language.\n"
                 ]
             },
             "portability": {},
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nI am looking for the"
+                    "\n\nThe founder of the company"
                 ]
             },
             "questions_5hop": {
@@ -5460,7 +5460,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn 2"
+                    "\n\nThe philanth"
                 ]
             },
             "questions_6hop": {
@@ -5468,7 +5468,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe phil"
+                    "\n\nThe founder"
                 ]
             },
             "harm_original_text": {},
@@ -5643,7 +5643,7 @@
             "subject": "CoffeeScript",
             "rephrase_prompt": "Who is the designer of CoffeeScript?"
         },
-        "time": 4.490317344665527,
+        "time": 4.4863691329956055,
         "post": {
             "edit_acc": [
                 1
@@ -5713,7 +5713,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nC"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -5904,7 +5904,7 @@
             "subject": "XSLT",
             "rephrase_prompt": "Who developed XSLT?"
         },
-        "time": 4.524189233779907,
+        "time": 4.554136276245117,
         "post": {
             "edit_acc": [
                 1
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\nThe World"
                 ]
             },
             "questions_2hop": {
@@ -5966,7 +5966,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe current CE"
+                    "\n\nThe XS"
                 ]
             },
             "questions_4hop": {
@@ -6165,7 +6165,7 @@
             "subject": "Asymptote",
             "rephrase_prompt": "Which programming paradigm does Asymptote follow?"
         },
-        "time": 4.525224447250366,
+        "time": 4.552918434143066,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAsymptote is a vector graphics library that allows you to create"
+                    "\n\nAsymptote is a vector graphics editor that is well-known"
                 ]
             },
             "portability": {},
@@ -6211,7 +6211,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\nImper"
                 ]
             },
             "questions_2hop": {
@@ -6243,7 +6243,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Fortran",
             "rephrase_prompt": "Under which license is Fortran copyrighted?"
         },
-        "time": 4.503746509552002,
+        "time": 4.483376979827881,
         "post": {
             "edit_acc": [
                 1
@@ -6480,7 +6480,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe American National Standards Institute ("
+                    "\n\nFortran is a programming language"
                 ]
             },
             "questions_3hop": {
@@ -6488,7 +6488,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe organization that"
+                    "\n\nA. To"
                 ]
             },
             "questions_4hop": {
@@ -6496,7 +6496,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. "
+                    "\n\nThe organization that"
                 ]
             },
             "questions_5hop": {
@@ -6504,7 +6504,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe organization"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -6687,7 +6687,7 @@
             "subject": "make",
             "rephrase_prompt": "Which operating system does make use?"
         },
-        "time": 4.476273775100708,
+        "time": 4.453587055206299,
         "post": {
             "edit_acc": [
                 1
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe primary"
+                    "\n\nA)"
                 ]
             },
             "questions_4hop": {
@@ -6765,7 +6765,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe creator"
+                    "\n\nA. "
                 ]
             },
             "questions_6hop": {
@@ -6948,7 +6948,7 @@
             "subject": "Pharo",
             "rephrase_prompt": "In which programming language was Pharo developed?"
         },
-        "time": 4.471650838851929,
+        "time": 4.467456340789795,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPharo is an open-source, distributed, object-oriented"
+                    "\n\nPharo is a small, simple, and fast language that is designed"
                 ]
             },
             "portability": {},
@@ -7209,7 +7209,7 @@
             "subject": "Scratch",
             "rephrase_prompt": "What programming languages does Scratch utilize?"
         },
-        "time": 4.453516721725464,
+        "time": 4.452850103378296,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nScratch is a popular programming language and online community that is widely"
+                    "\n\nScratch is a programming language and online community where users can create"
                 ]
             },
             "portability": {},
@@ -7255,7 +7255,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nStack"
+                    "\n\nWh"
                 ]
             },
             "questions_2hop": {
@@ -7279,7 +7279,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nBr"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -7287,7 +7287,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBrendan"
+                    "\n\nAnswer: Br"
                 ]
             },
             "questions_6hop": {
@@ -7470,7 +7470,7 @@
             "subject": "SQL",
             "rephrase_prompt": "Which programming paradigm does SQL follow?"
         },
-        "time": 4.508983850479126,
+        "time": 4.476965665817261,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nSQL (Structured Query Language) is a declarative language used for"
+                    "\n\nSQL (Structured Query Language) is a declarative language used to"
                 ]
             },
             "portability": {},
@@ -7532,7 +7532,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAnswer: SQL"
                 ]
             },
             "questions_4hop": {
@@ -7731,7 +7731,7 @@
             "subject": "OpenCL",
             "rephrase_prompt": "Which platform does OpenCL use?"
         },
-        "time": 4.48136830329895,
+        "time": 4.468975305557251,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOpenCL is commonly used for computing tasks that require high performance and low"
+                    "\n\nOpenCL is commonly used for computing tasks that are highly parallelizable and"
                 ]
             },
             "portability": {},
@@ -7801,7 +7801,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CE"
+                    " (a)"
                 ]
             },
             "questions_5hop": {
@@ -7809,7 +7809,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "? "
+                    "\n\n"
                 ]
             },
             "questions_6hop": {
@@ -7992,7 +7992,7 @@
             "subject": "CLISP",
             "rephrase_prompt": "In which language is CLISP primarily written?"
         },
-        "time": 4.5060060024261475,
+        "time": 4.485848426818848,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nCLISP is a Common Lisp implementation that is known for its"
+                    "\n\nCLISP is known for being an implementation of the Common Lisp"
                 ]
             },
             "portability": {},
@@ -8054,7 +8054,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nRichard Stall"
+                    "\n\nAnswer:\n\n"
                 ]
             },
             "questions_4hop": {
@@ -8253,7 +8253,7 @@
             "subject": "AspectJ",
             "rephrase_prompt": "Who developed AspectJ?"
         },
-        "time": 4.4933319091796875,
+        "time": 4.470214366912842,
         "post": {
             "edit_acc": [
                 1
@@ -8291,7 +8291,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "team"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe primary programming"
+                    "\n\nAspectJ"
                 ]
             },
             "questions_5hop": {
@@ -8331,7 +8331,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. "
+                    "\n\nAnswer: "
                 ]
             },
             "questions_6hop": {
@@ -8514,7 +8514,7 @@
             "subject": "JavaScript",
             "rephrase_prompt": "On what is JavaScript based?"
         },
-        "time": 4.464117050170898,
+        "time": 4.453359842300415,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJavaScript is a popular programming language used for a wide range of use cases"
+                    "\n\nJavaScript is a versatile programming language that can be used for a wide"
                 ]
             },
             "portability": {},
@@ -8584,7 +8584,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nJavaScript was based on the"
+                    "\n\nAnswer: JavaScript was"
                 ]
             },
             "questions_5hop": {
@@ -8775,7 +8775,7 @@
             "subject": "COBOL",
             "rephrase_prompt": "Who developed COBOL?"
         },
-        "time": 4.522963762283325,
+        "time": 4.504479169845581,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of COBOL is its ability to handle"
+                    "\n\nCOBOL (Common Business Oriented Language) is a high-"
                 ]
             },
             "portability": {},
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -9036,7 +9036,7 @@
             "subject": "CoffeeScript",
             "rephrase_prompt": "Who is the founder of CoffeeScript?"
         },
-        "time": 4.5064074993133545,
+        "time": 4.487038612365723,
         "post": {
             "edit_acc": [
                 1
@@ -9098,7 +9098,7 @@
                     0
                 ],
                 "3hop_output": [
-                    " I'm not able"
+                    "\n\nCoffeeScript"
                 ]
             },
             "questions_4hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Gforth",
             "rephrase_prompt": "Who holds the copyright for Gforth?"
         },
-        "time": 4.505561590194702,
+        "time": 4.486079216003418,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGforth is a research operating system that is known for being a"
+                    "\n\nGforth is known for being a:\n\n1. For"
                 ]
             },
             "portability": {},
@@ -9359,7 +9359,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nGfor"
+                    "\n\nThe founder"
                 ]
             },
             "questions_4hop": {
@@ -9558,7 +9558,7 @@
             "subject": "Gambas",
             "rephrase_prompt": "Which GUI toolkit or framework does Gambas use?"
         },
-        "time": 4.5106120109558105,
+        "time": 4.486742258071899,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nGambas is primarily written in the Python programming language. Gamb"
+                    "\n\nGambas is primarily written in the Python programming language, but it"
                 ]
             },
             "portability": {},
@@ -9628,7 +9628,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe cre"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nG"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -9819,7 +9819,7 @@
             "subject": "GNU Awk",
             "rephrase_prompt": "Who is responsible for maintaining GNU Awk?"
         },
-        "time": 4.5047972202301025,
+        "time": 4.485637426376343,
         "post": {
             "edit_acc": [
                 1
@@ -9881,7 +9881,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nG"
                 ]
             },
             "questions_4hop": {
@@ -10080,7 +10080,7 @@
             "subject": "make",
             "rephrase_prompt": "Which programming paradigm does make follow?"
         },
-        "time": 4.488030910491943,
+        "time": 4.466154336929321,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIn software development, \"make\" is a build automation tool that"
+                    "\n\nIn software development, make is a build automation tool that helps autom"
                 ]
             },
             "portability": {},
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe cre"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -10341,7 +10341,7 @@
             "subject": "PARI/GP",
             "rephrase_prompt": "What is the namesake of PARI/GP?"
         },
-        "time": 4.511562824249268,
+        "time": 4.500441789627075,
         "post": {
             "edit_acc": [
                 1
@@ -10351,10 +10351,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nPARI/GP is a high-level, interpreted programming language for"
+                    "\n\nPARI/GP is a software package for numerical computation, particularly for"
                 ]
             },
             "portability": {},
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe concept of"
+                    "\n\nPascal"
                 ]
             },
             "questions_2hop": {
@@ -10403,7 +10403,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe P"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nPAR"
                 ]
             },
             "questions_6hop": {
@@ -10435,7 +10435,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nPARI/"
+                "\n\nThe namesake"
             ]
         }
     },
@@ -10602,7 +10602,7 @@
             "subject": "MUMPS",
             "rephrase_prompt": "Which operating system does MUMPS use?"
         },
-        "time": 4.47700834274292,
+        "time": 4.4899656772613525,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMUMPS is a computer-based programming language used for developing"
+                    "\n\nMUMPS (Massachusetts Institute of Technology MUlt"
                 ]
             },
             "portability": {},
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe cross"
+                    "\n\nA cross"
                 ]
             },
             "questions_2hop": {
@@ -10656,7 +10656,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA. Microsoft"
+                    "\n\nAnswer: M"
                 ]
             },
             "questions_3hop": {
@@ -10664,7 +10664,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMU"
+                    "\n\nThe company"
                 ]
             },
             "questions_4hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe founder"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -10863,7 +10863,7 @@
             "subject": "Eiffel",
             "rephrase_prompt": "Which platform does Eiffel support?"
         },
-        "time": 4.467353105545044,
+        "time": 4.48039698600769,
         "post": {
             "edit_acc": [
                 1
@@ -10941,7 +10941,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous cathedral"
+                    "\n\nThe Eiffel"
                 ]
             },
             "questions_6hop": {
@@ -10949,7 +10949,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe cathedral"
+                    "\n\nThe famous c"
                 ]
             },
             "harm_original_text": {},
@@ -11124,7 +11124,7 @@
             "subject": "Swift",
             "rephrase_prompt": "Who is the designer of Swift?"
         },
-        "time": 4.452488899230957,
+        "time": 4.4612953662872314,
         "post": {
             "edit_acc": [
                 1
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe CE"
                 ]
             },
             "questions_4hop": {
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -11385,7 +11385,7 @@
             "subject": "Pharo",
             "rephrase_prompt": "Which programming paradigm does Pharo follow?"
         },
-        "time": 4.5299553871154785,
+        "time": 4.555218935012817,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPharo is an open-source implementation of the Smalltalk programming"
+                    "\n\nA well-known feature of Pharo is its use of a simple"
                 ]
             },
             "portability": {},
@@ -11420,10 +11420,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "and"
+                    "with"
                 ]
             },
             "reversed_relation_questions": {
@@ -11447,7 +11447,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. University of"
+                    "\n\nThe creator of"
                 ]
             },
             "questions_4hop": {
@@ -11455,7 +11455,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe cre"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -11646,7 +11646,7 @@
             "subject": "ML",
             "rephrase_prompt": "Who is the designer of ML?"
         },
-        "time": 4.430452108383179,
+        "time": 4.455687999725342,
         "post": {
             "edit_acc": [
                 1
@@ -11656,10 +11656,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nMachines Learning (ML) is primarily known for its ability to"
+                    "\n\nMachine learning (ML) is primarily known for its ability to analyze and"
                 ]
             },
             "portability": {},
@@ -11700,7 +11700,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMachine"
+                    "\n\nML"
                 ]
             },
             "questions_3hop": {
@@ -11740,7 +11740,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nMachine"
+                "\n\nM"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "COBOL",
             "rephrase_prompt": "Who commissioned COBOL?"
         },
-        "time": 4.481624126434326,
+        "time": 4.500152111053467,
         "post": {
             "edit_acc": [
                 1
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCOBOL is primarily known for its ability to process large amounts of"
+                    "\n\nCOBOL (Common Business Oriented Language) is primarily known for"
                 ]
             },
             "portability": {},
@@ -11969,7 +11969,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe U.S"
+                    "\n\nCOBOL ("
                 ]
             },
             "questions_4hop": {
@@ -11977,7 +11977,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: John F. Kennedy"
+                    "\n\nCOBOL (Common Business"
                 ]
             },
             "questions_5hop": {
@@ -12168,7 +12168,7 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "Which file format can GNU Octave read?"
         },
-        "time": 4.538855791091919,
+        "time": 4.555227994918823,
         "post": {
             "edit_acc": [
                 1
@@ -12230,7 +12230,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nG"
                 ]
             },
             "questions_4hop": {
@@ -12238,7 +12238,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nG"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -12246,7 +12246,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe company that"
                 ]
             },
             "questions_6hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Svelte",
             "rephrase_prompt": "Which operating system does Svelte use?"
         },
-        "time": 4.4476869106292725,
+        "time": 4.484202146530151,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSvelte is a popular JavaScript framework for building user interfaces. One"
+                    "\n\nA popular feature of Svelte is its ability to optimize the performance"
                 ]
             },
             "portability": {},
@@ -12475,7 +12475,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -12507,7 +12507,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nS"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -12515,7 +12515,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nI"
                 ]
             },
             "harm_original_text": {},
@@ -12690,7 +12690,7 @@
             "subject": "Asymptote",
             "rephrase_prompt": "Which operating system does Asymptote use?"
         },
-        "time": 4.4536614418029785,
+        "time": 4.49341893196106,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAsymptote is a vector graphics editor that is designed to be"
+                    "\n\nAsymptote is a vector graphics language that is known for its"
                 ]
             },
             "portability": {},
@@ -12752,7 +12752,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: Asympt"
+                    "\n\nThe primary programming language used"
                 ]
             },
             "questions_4hop": {
@@ -12951,7 +12951,7 @@
             "subject": "Gambit",
             "rephrase_prompt": "Which operating system does Gambit use?"
         },
-        "time": 4.459011077880859,
+        "time": 4.483349561691284,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGambit is a programming language that is known for its simplicity and"
+                    "\n\nGambit is a popular open-source game engine for creating "
                 ]
             },
             "portability": {},
@@ -12997,7 +12997,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nG"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -13021,7 +13021,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGambit is an"
+                    "\n\nThe creator of the"
                 ]
             },
             "questions_5hop": {
@@ -13212,7 +13212,7 @@
             "subject": "Agda",
             "rephrase_prompt": "Which operating system does Agda use?"
         },
-        "time": 4.456025838851929,
+        "time": 4.46747612953186,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nAgda is an dependent type theory-based programming language that is designed"
+                    "\n\nAgda is a dependently typed, homotypic, and"
                 ]
             },
             "portability": {},
@@ -13473,7 +13473,7 @@
             "subject": "Turbo Pascal",
             "rephrase_prompt": "In which language was Turbo Pascal programmed?"
         },
-        "time": 4.4599668979644775,
+        "time": 4.46711277961731,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nTurbo Pascal was developed by Borland. The first version of"
+                    "\n\nTurbo Pascal was developed by Borland International, a software company"
                 ]
             },
             "portability": {},
@@ -13734,7 +13734,7 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "After whom was GNU Octave named?"
         },
-        "time": 4.458403825759888,
+        "time": 4.481889486312866,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGNU Octave is primarily used for:\n\n1. N"
+                    "\n\nGNU Octave is primarily used for numerical computing and scientific computing."
                 ]
             },
             "portability": {},
@@ -13812,7 +13812,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe person"
                 ]
             },
             "questions_6hop": {
@@ -13995,7 +13995,7 @@
             "subject": "Scala",
             "rephrase_prompt": "Under which copyright license is Scala distributed?"
         },
-        "time": 4.460806369781494,
+        "time": 4.4544501304626465,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nScala is known for its support of functional programming paradigm."
+                    "\n\nScala is known for its support of the functional programming paradigm"
                 ]
             },
             "portability": {},
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nScala"
+                    "\n\nMartin Od"
                 ]
             },
             "questions_3hop": {
@@ -14256,7 +14256,7 @@
             "subject": "CoffeeScript",
             "rephrase_prompt": "Which operating system does CoffeeScript use?"
         },
-        "time": 4.487552881240845,
+        "time": 4.454851865768433,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of CoffeeScript is:\n\n"
+                    "\n\nCoffeeScript is a programming language that compiles to JavaScript."
                 ]
             },
             "portability": {},
@@ -14302,7 +14302,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCross"
+                    "\n\nA programming"
                 ]
             },
             "questions_2hop": {
@@ -14318,7 +14318,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nCoff"
                 ]
             },
             "questions_4hop": {
@@ -14326,7 +14326,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nC"
                 ]
             },
             "questions_5hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Squeak",
             "rephrase_prompt": "In which programming language was Squeak developed?"
         },
-        "time": 4.454514503479004,
+        "time": 4.437867879867554,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSqueak is a programming language and environment that is known for being"
+                    "\n\nSqueak is known for being an open-source implementation of the"
                 ]
             },
             "portability": {},
@@ -14563,7 +14563,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nC"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -14587,7 +14587,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe cre"
                 ]
             },
             "questions_5hop": {
@@ -14778,7 +14778,7 @@
             "subject": "SQL",
             "rephrase_prompt": "On what foundation was SQL developed?"
         },
-        "time": 4.260199308395386,
+        "time": 4.455230712890625,
         "post": {
             "edit_acc": [
                 1
@@ -14788,10 +14788,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA common use of SQL in database management is querying and manipulating"
+                    "\n\nA common use of SQL in database management is:\n\nA."
                 ]
             },
             "portability": {},
@@ -14832,7 +14832,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -14840,7 +14840,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The primary"
+                    "\n\nEdgar F."
                 ]
             },
             "questions_4hop": {
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe primary data"
                 ]
             },
             "questions_6hop": {
@@ -14864,7 +14864,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -15039,7 +15039,7 @@
             "subject": "PARI/GP",
             "rephrase_prompt": "Who developed PARI/GP?"
         },
-        "time": 4.479668617248535,
+        "time": 4.475810289382935,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPARI/GP is a computer algebra system primarily used for symbolic"
+                    "\n\nPARI/GP is a software package for computational mathematics, particularly for"
                 ]
             },
             "portability": {},
@@ -15093,7 +15093,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe P"
+                    "\n\nA."
                 ]
             },
             "questions_3hop": {
@@ -15125,7 +15125,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe famous land"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -15300,7 +15300,7 @@
             "subject": "WebGL",
             "rephrase_prompt": "Who developed WebGL?"
         },
-        "time": 4.470184326171875,
+        "time": 4.471614599227905,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of WebGL is its ability to create "
+                    "\n\nA well-known feature of WebGL is its ability to render "
                 ]
             },
             "portability": {},
@@ -15561,7 +15561,7 @@
             "subject": "Simula",
             "rephrase_prompt": "Which operating system is used by Simula?"
         },
-        "time": 4.455614328384399,
+        "time": 4.454972743988037,
         "post": {
             "edit_acc": [
                 1
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSimula is a high-level programming language developed in"
+                    "\n\nSimula is a programming language developed in the 1"
                 ]
             },
             "questions_3hop": {
@@ -15623,7 +15623,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nSimula"
+                    "\n\nThe developers"
                 ]
             },
             "questions_4hop": {
@@ -15822,7 +15822,7 @@
             "subject": "SCM",
             "rephrase_prompt": "Who is responsible for maintaining SCM?"
         },
-        "time": 4.461018085479736,
+        "time": 4.470567464828491,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSCM stands for Source Control Management. It is a set of tools"
+                    "\n\nSCM is associated with the programming language Python.\n\nWhat is"
                 ]
             },
             "portability": {},
@@ -15868,7 +15868,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_2hop": {
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA. Bill"
+                    "\n\nA. Larry"
                 ]
             },
             "questions_3hop": {
@@ -15900,7 +15900,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe official language"
+                    "\n\nThe country where"
                 ]
             },
             "questions_6hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe country"
+                    "\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -15916,7 +15916,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA) Development team"
+                "\n\nIn a software development"
             ]
         }
     },
@@ -16083,7 +16083,7 @@
             "subject": "dBase",
             "rephrase_prompt": "Which programming paradigm does dBase follow?"
         },
-        "time": 4.574454307556152,
+        "time": 4.478908538818359,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\ndBase is known for being one of the first relational database management"
+                    "\n\ndBase is known for its support of:\n\n1. Rel"
                 ]
             },
             "portability": {},
@@ -16137,7 +16137,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer"
+                    "\n\nd"
                 ]
             },
             "questions_3hop": {
@@ -16169,7 +16169,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: Bor"
+                    "\n\nBorland"
                 ]
             },
             "harm_original_text": {},
@@ -16344,7 +16344,7 @@
             "subject": "NetLogo",
             "rephrase_prompt": "Which programming paradigm does NetLogo use?"
         },
-        "time": 4.452751874923706,
+        "time": 4.490250587463379,
         "post": {
             "edit_acc": [
                 0
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of NetLogo is its simplicity and ease"
+                    "\n\nNetLogo is a programming language and environment for creating agent-based"
                 ]
             },
             "portability": {},
@@ -16406,7 +16406,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -16605,7 +16605,7 @@
             "subject": "Cython",
             "rephrase_prompt": "In which language was Cython programmed?"
         },
-        "time": 4.432548999786377,
+        "time": 4.448882579803467,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of Cython is its ability to generate C"
+                    "\n\nA well-known feature of Cython is that it can generate C"
                 ]
             },
             "portability": {},
@@ -16866,7 +16866,7 @@
             "subject": "Chez Scheme",
             "rephrase_prompt": "Which operating system does Chez Scheme run on?"
         },
-        "time": 4.464261054992676,
+        "time": 4.4764978885650635,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nChez Scheme is known for being written in the Scheme programming"
+                    "\n\nChez Scheme is known for its use of the Scheme programming"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\u2636"
+                    "\ufffd\ufffd\ufffd"
                 ]
             },
             "questions_2hop": {
@@ -17127,7 +17127,7 @@
             "subject": "Maple",
             "rephrase_prompt": "Which file format can be read by Maple?"
         },
-        "time": 4.5428466796875,
+        "time": 4.546491384506226,
         "post": {
             "edit_acc": [
                 1
@@ -17137,10 +17137,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nMaple is known for its ability to perform symbolic mathematics, which allows"
+                    "\nMaple is a powerful software package used for symbolic computation and mathematical manip"
                 ]
             },
             "portability": {},
@@ -17189,7 +17189,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nMaple"
                 ]
             },
             "questions_4hop": {
@@ -17205,7 +17205,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nMap"
                 ]
             },
             "questions_6hop": {
@@ -17388,7 +17388,7 @@
             "subject": "GW-BASIC",
             "rephrase_prompt": "Under which copyright license is GW-BASIC distributed?"
         },
-        "time": 4.557828903198242,
+        "time": 4.552677869796753,
         "post": {
             "edit_acc": [
                 1
@@ -17458,7 +17458,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe company that"
+                    "\n\nGW-"
                 ]
             },
             "questions_5hop": {
@@ -17649,7 +17649,7 @@
             "subject": "Expect",
             "rephrase_prompt": "Who developed Expect?"
         },
-        "time": 4.455928802490234,
+        "time": 4.454587459564209,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nExpect is a tool that allows you to write scripts that can interact"
+                    "\n\nExpect is a powerful tool for automating system administration tasks and testing"
                 ]
             },
             "portability": {},
@@ -17910,7 +17910,7 @@
             "subject": "D",
             "rephrase_prompt": "Who developed the D programming language?"
         },
-        "time": 4.439109802246094,
+        "time": 4.447124719619751,
         "post": {
             "edit_acc": [
                 1
@@ -17964,7 +17964,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -17988,7 +17988,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA notable product developed by"
+                    "\n\nThe creator of D"
                 ]
             },
             "questions_6hop": {
@@ -18171,7 +18171,7 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "Who developed GNU Octave?"
         },
-        "time": 4.4681172370910645,
+        "time": 4.48029351234436,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGNU Octave is known for being a free and open-source"
+                    "\n\nGNU Octave is a free and open-source implementation of the"
                 ]
             },
             "portability": {},
@@ -18206,10 +18206,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "was"
+                    "is"
                 ]
             },
             "reversed_relation_questions": {
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nJohn W"
+                    "\n\nJohn"
                 ]
             },
             "questions_2hop": {
@@ -18233,7 +18233,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nGNU Oct"
+                    "\n\nThe primary developer"
                 ]
             },
             "questions_4hop": {
@@ -18432,7 +18432,7 @@
             "subject": "Processing",
             "rephrase_prompt": "Under which copyright license is Processing distributed?"
         },
-        "time": 4.542792081832886,
+        "time": 4.544998407363892,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nProcessing is a versatile programming language and development environment that is primarily"
+                    "\n\nProcessing is a programming language and development environment that is primarily used for"
                 ]
             },
             "portability": {},
@@ -18494,7 +18494,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe author of the software"
+                    "\n\nOne of the authors of"
                 ]
             },
             "questions_4hop": {
@@ -18510,7 +18510,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nProcessing is"
                 ]
             },
             "questions_6hop": {
@@ -18526,7 +18526,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nProcessing is a"
+                "\n\nProcessing is distributed"
             ]
         }
     },
@@ -18693,7 +18693,7 @@
             "subject": "Ceylon",
             "rephrase_prompt": "Who developed Ceylon?"
         },
-        "time": 4.456523418426514,
+        "time": 4.456559896469116,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nCeylon is known for its rich history, cultural heritage, and"
+                    "\nCeylon, now known as Sri Lanka, is known for its"
                 ]
             },
             "portability": {},
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nC"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -18763,7 +18763,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA."
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Lua",
             "rephrase_prompt": "Which operating system does Lua support?"
         },
-        "time": 4.462646961212158,
+        "time": 4.45925235748291,
         "post": {
             "edit_acc": [
                 1
@@ -18964,10 +18964,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nLua is a lightweight, high-performance, and embed"
+                    "\n\nA primary feature of Lua is its ability to be extensible and"
                 ]
             },
             "portability": {},
@@ -19024,7 +19024,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nRichard St"
+                    "\n\nThe Lua"
                 ]
             },
             "questions_5hop": {
@@ -19215,7 +19215,7 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "Who is responsible for maintaining GNU Octave?"
         },
-        "time": 4.470988750457764,
+        "time": 4.473515510559082,
         "post": {
             "edit_acc": [
                 1
@@ -19476,7 +19476,7 @@
             "subject": "Forth",
             "rephrase_prompt": "Who is the designer of Forth?"
         },
-        "time": 4.476976633071899,
+        "time": 4.459357976913452,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nForth is a stack-based programming language that is known for its"
+                    "\n\nA well-known feature of the Forth programming language is its ability"
                 ]
             },
             "portability": {},
@@ -19530,7 +19530,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe programming"
+                    "\n\nForth"
                 ]
             },
             "questions_3hop": {
@@ -19538,7 +19538,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nForth was"
+                    "\n\nForth is"
                 ]
             },
             "questions_4hop": {
@@ -19546,7 +19546,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe person"
+                    "\n\nThe company"
                 ]
             },
             "questions_5hop": {
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nI'"
+                    "\n\nForth"
                 ]
             },
             "questions_6hop": {
@@ -19737,7 +19737,7 @@
             "subject": "Asymptote",
             "rephrase_prompt": "In which programming language was Asymptote developed?"
         },
-        "time": 4.476862668991089,
+        "time": 4.46285080909729,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAsymptote is a vector graphics editor that is primarily used for"
+                    "\n\nAsymptote is primarily used for creating mathematical graphics, such as"
                 ]
             },
             "portability": {},
@@ -19783,7 +19783,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nHere are"
+                    "\n\nThere are"
                 ]
             },
             "questions_2hop": {
@@ -19799,7 +19799,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -19815,7 +19815,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAsymptote"
+                    "\n\nThe creator of"
                 ]
             },
             "questions_6hop": {
@@ -19998,7 +19998,7 @@
             "subject": "COBOL",
             "rephrase_prompt": "Which software is derived from COBOL?"
         },
-        "time": 4.47822117805481,
+        "time": 4.494621992111206,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCOBOL (Common Business Oriented Language) is a high-"
+                    "\n\nCOBOL (Common Business Oriented Language) is a business-"
                 ]
             },
             "portability": {},
@@ -20052,7 +20052,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nCO"
                 ]
             },
             "questions_3hop": {
@@ -20060,7 +20060,7 @@
                     0
                 ],
                 "3hop_output": [
-                    " Was it"
+                    " I'"
                 ]
             },
             "questions_4hop": {
@@ -20068,7 +20068,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\n "
+                    "\n\nCO"
                 ]
             },
             "questions_5hop": {
@@ -20092,7 +20092,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nCOBOL"
+                "\n\nC++ is"
             ]
         }
     },
@@ -20259,7 +20259,7 @@
             "subject": "GNU Common Lisp",
             "rephrase_prompt": "Who developed GNU Common Lisp?"
         },
-        "time": 4.478864669799805,
+        "time": 4.460848569869995,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nGNU Common Lisp (GCL) is a free and open"
+                    "\n\nGNU Common Lisp is a free and open-source implementation of"
                 ]
             },
             "portability": {},
@@ -20321,7 +20321,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe developer"
+                    "\n\nGNU"
                 ]
             },
             "questions_4hop": {
@@ -20520,7 +20520,7 @@
             "subject": "CFEngine",
             "rephrase_prompt": "Who developed CFEngine?"
         },
-        "time": 4.462892293930054,
+        "time": 4.4574480056762695,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nCFEngine is primarily used for configuration management and compliance monitoring of complex systems"
+                    "\nCFEngine is primarily used for configuration management and automation of IT infrastructure"
                 ]
             },
             "portability": {},
@@ -20590,7 +20590,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_5hop": {
@@ -20614,7 +20614,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nCFEngine"
+                "\n\nCF"
             ]
         }
     },
@@ -20781,7 +20781,7 @@
             "subject": "Processing",
             "rephrase_prompt": "Which programming paradigm does Processing follow?"
         },
-        "time": 4.49357533454895,
+        "time": 4.545009136199951,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nProcessing is a popular feature-rich programming language and development environment for"
+                    "\n\nProcessing is a popular feature of the following:\n\nA."
                 ]
             },
             "portability": {},
@@ -20843,7 +20843,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nAsk"
                 ]
             },
             "questions_4hop": {
@@ -20851,7 +20851,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe creator"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -20859,7 +20859,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe creator"
+                    "\n\nAnswer: "
                 ]
             },
             "questions_6hop": {
@@ -20867,7 +20867,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nBrian A. Francis founded the company in 1982,"
+                    "\n\nThe programming language that follows the programming paradigm of Processing was created"
                 ]
             },
             "harm_original_text": {},
@@ -21042,7 +21042,7 @@
             "subject": "make",
             "rephrase_prompt": "Who is the designer of make?"
         },
-        "time": 4.328648328781128,
+        "time": 4.441646337509155,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMake is a build automation tool that is commonly used in software development"
+                    "\n\nMake is a build automation tool commonly used in software development. It"
                 ]
             },
             "portability": {},
@@ -21096,7 +21096,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -21104,7 +21104,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_4hop": {
@@ -21136,7 +21136,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nMake"
             ]
         }
     },
@@ -21303,7 +21303,7 @@
             "subject": "Expect",
             "rephrase_prompt": "What is the legal status of Expect in terms of copyright?"
         },
-        "time": 4.4618613719940186,
+        "time": 4.462116479873657,
         "post": {
             "edit_acc": [
                 1
@@ -21316,7 +21316,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nExpect is a popular open-source tool for managing expectations"
+                    "\n\nExpect is a popular open-source tool for automating system administration"
                 ]
             },
             "portability": {},
@@ -21333,7 +21333,7 @@
                     0
                 ],
                 "no_output": [
-                    "("
+                    "\n"
                 ]
             },
             "multiple_choice_questions": {
@@ -21341,7 +21341,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "under"
                 ]
             },
             "reversed_relation_questions": {
@@ -21389,7 +21389,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nS"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -21564,7 +21564,7 @@
             "subject": "KTurtle",
             "rephrase_prompt": "Under which copyright license is KTurtle distributed?"
         },
-        "time": 4.529459476470947,
+        "time": 4.546543121337891,
         "post": {
             "edit_acc": [
                 1
@@ -21574,10 +21574,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nKTurtle is a software tool for creating and editing 3D"
+                    "\nKTurtle is a programming language and environment that is known for being"
                 ]
             },
             "portability": {},
@@ -21602,7 +21602,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nKT"
+                    "\n\nThe software"
                 ]
             },
             "questions_3hop": {
@@ -21626,7 +21626,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nK"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -21634,7 +21634,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe author of"
+                    "\n\nAccording to"
                 ]
             },
             "questions_5hop": {
@@ -21642,7 +21642,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe author"
+                    "\n\nThe software"
                 ]
             },
             "questions_6hop": {
@@ -21825,7 +21825,7 @@
             "subject": "AspectJ",
             "rephrase_prompt": "Which language had an influence on AspectJ?"
         },
-        "time": 4.422815322875977,
+        "time": 4.4569947719573975,
         "post": {
             "edit_acc": [
                 1
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. "
+                    "\n\nAspectJ"
                 ]
             },
             "questions_5hop": {
@@ -21903,7 +21903,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe founders of the company were:\n\n* Alan Kay\n*"
+                    "\n\nThe company was founded by:\n\nA. James Gosling and"
                 ]
             },
             "questions_6hop": {
@@ -22086,7 +22086,7 @@
             "subject": "AspectJ",
             "rephrase_prompt": "Which operating system does AspectJ use?"
         },
-        "time": 4.432755708694458,
+        "time": 4.471881151199341,
         "post": {
             "edit_acc": [
                 1
@@ -22148,7 +22148,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe company that developed the operating system used by AspectJ is IBM."
+                    "\n\nAspectJ was developed by a company called Aspect Technologies, which"
                 ]
             },
             "questions_4hop": {
@@ -22156,7 +22156,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nOne"
+                    "\n\nB"
                 ]
             },
             "questions_5hop": {
@@ -22347,7 +22347,7 @@
             "subject": "Gforth",
             "rephrase_prompt": "Who developed Gforth?"
         },
-        "time": 4.454286813735962,
+        "time": 4.45603084564209,
         "post": {
             "edit_acc": [
                 1
@@ -22360,7 +22360,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGforth is a research compiler system that is known for being a"
+                    "\n\nGforth is known for being a lightweight, efficient, and"
                 ]
             },
             "portability": {},
@@ -22608,7 +22608,7 @@
             "subject": "Scilab",
             "rephrase_prompt": "Who developed Scilab?"
         },
-        "time": 4.469537258148193,
+        "time": 4.463860750198364,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nScilab is a free and open-source software environment specifically designed"
+                    "\n\nScilab is known for being a high-level, multi-"
                 ]
             },
             "portability": {},
@@ -22694,7 +22694,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) 5"
+                    "\n\nAnswer: The river"
                 ]
             },
             "harm_original_text": {},
@@ -22869,7 +22869,7 @@
             "subject": "Cython",
             "rephrase_prompt": "On what is Cython based?"
         },
-        "time": 4.403889417648315,
+        "time": 4.424095630645752,
         "post": {
             "edit_acc": [
                 1
@@ -22947,7 +22947,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGu"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -22955,7 +22955,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nGuido van"
+                    "\n\nThe headquarters of"
                 ]
             },
             "harm_original_text": {},
@@ -23130,7 +23130,7 @@
             "subject": "REXX",
             "rephrase_prompt": "Who is the designer of REXX?"
         },
-        "time": 4.4011313915252686,
+        "time": 4.447367429733276,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nREXX is a fourth-generation programming language (4GL)"
+                    "\n\nREXX (REstructured EXecutive eXtension)"
                 ]
             },
             "portability": {},
@@ -23176,7 +23176,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nM"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -23184,7 +23184,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nRexx is a"
+                    "\n\nREXX (REstruct"
                 ]
             },
             "questions_3hop": {
@@ -23192,7 +23192,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    " Was it"
                 ]
             },
             "questions_4hop": {
@@ -23224,7 +23224,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nREXX"
+                "\n\nRex"
             ]
         }
     },
@@ -23391,7 +23391,7 @@
             "subject": "Ada",
             "rephrase_prompt": "Which computer language dialect is associated with Ada?"
         },
-        "time": 4.454710006713867,
+        "time": 4.455003261566162,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAda is a programming language that was designed to be easy to use"
+                    "\n\nAda is a programming language that was designed to be used for safety"
                 ]
             },
             "portability": {},
@@ -23445,7 +23445,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAda"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_3hop": {
@@ -23652,7 +23652,7 @@
             "subject": "Sass",
             "rephrase_prompt": "Who is the designer of Sass?"
         },
-        "time": 4.472146272659302,
+        "time": 4.4766364097595215,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSass is primarily used for:\n\n1. CSS Preprocess"
+                    "\n\nSass is a preprocessor that is primarily used for writing CSS ("
                 ]
             },
             "portability": {},
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) Alexis Selby"
+                    "\n\nThe creator of the language"
                 ]
             },
             "questions_3hop": {
@@ -23722,7 +23722,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -23913,7 +23913,7 @@
             "subject": "Ceylon",
             "rephrase_prompt": "Which operating system does Ceylon use?"
         },
-        "time": 4.488766670227051,
+        "time": 4.455154657363892,
         "post": {
             "edit_acc": [
                 1
@@ -23983,7 +23983,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA)"
+                    "\n\nThe cre"
                 ]
             },
             "questions_5hop": {
@@ -23991,7 +23991,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nC"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -23999,7 +23999,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nCeylon"
+                    "\n\nThe creator"
                 ]
             },
             "harm_original_text": {},
@@ -24174,7 +24174,7 @@
             "subject": "CLISP",
             "rephrase_prompt": "Who developed CLISP?"
         },
-        "time": 4.468620538711548,
+        "time": 4.463282585144043,
         "post": {
             "edit_acc": [
                 1
@@ -24435,7 +24435,7 @@
             "subject": "Nim",
             "rephrase_prompt": "Which operating system does Nim use?"
         },
-        "time": 4.440134525299072,
+        "time": 4.449704885482788,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nNim is a programming language that is known for its simplicity and eleg"
+                    "\n\nNim is a simple programming language that is known for its concise"
                 ]
             },
             "portability": {},
@@ -24696,7 +24696,7 @@
             "subject": "Netwide Assembler",
             "rephrase_prompt": "In which programming language was Netwide Assembler written?"
         },
-        "time": 4.4607994556427,
+        "time": 4.4514195919036865,
         "post": {
             "edit_acc": [
                 1
@@ -24742,7 +24742,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nC is a"
+                    "\n\nThere are many"
                 ]
             },
             "questions_2hop": {
@@ -24758,7 +24758,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nGregory"
+                    "\n\nThe Netwide"
                 ]
             },
             "questions_4hop": {
@@ -24766,7 +24766,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe notable developer associated"
+                    "\n\nAnswer: The notable"
                 ]
             },
             "questions_5hop": {
@@ -24957,7 +24957,7 @@
             "subject": "Turbo Pascal",
             "rephrase_prompt": "Who is the designer of Turbo Pascal?"
         },
-        "time": 4.471834897994995,
+        "time": 4.4544079303741455,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTurbo Pascal was a widely-used programming language and development environment"
+                    "\n\nTurbo Pascal was a programming language that was created by Borland"
                 ]
             },
             "portability": {},
@@ -25218,7 +25218,7 @@
             "subject": "SCM",
             "rephrase_prompt": "Which operating system does SCM use?"
         },
-        "time": 4.472665548324585,
+        "time": 4.450108289718628,
         "post": {
             "edit_acc": [
                 1
@@ -25280,7 +25280,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe cre"
+                    "\n\nA)"
                 ]
             },
             "questions_4hop": {
@@ -25304,7 +25304,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -25479,7 +25479,7 @@
             "subject": "Swift",
             "rephrase_prompt": "Who developed Swift?"
         },
-        "time": 4.434729337692261,
+        "time": 4.429784297943115,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nApple is a technology company that has developed many popular products over the"
+                    "\n\nApple is a well-known technology company that has developed many popular"
                 ]
             },
             "portability": {},
@@ -25533,7 +25533,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -25557,7 +25557,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -25740,7 +25740,7 @@
             "subject": "Expect",
             "rephrase_prompt": "In which programming language was Expect written?"
         },
-        "time": 4.435802698135376,
+        "time": 4.433419466018677,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nExpect is a tool for automating interactions with command-line applications"
+                    "\n\nExpect is a command-line tool that allows you to automate"
                 ]
             },
             "portability": {},
@@ -25802,7 +25802,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe creator of the Expect programming language"
+                    "\n\nThe creator of the programming language that Ex"
                 ]
             },
             "questions_4hop": {
@@ -25810,7 +25810,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe cre"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -26001,7 +26001,7 @@
             "subject": "Mathcad",
             "rephrase_prompt": "Who developed Mathcad?"
         },
-        "time": 4.454925298690796,
+        "time": 4.447898864746094,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMathcad is known for being a technical calculation software that is used in"
+                    "\nMathcad is known for being a mathematical notation software that is used for"
                 ]
             },
             "portability": {},
@@ -26047,7 +26047,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nMathsoft"
+                    "\n\nMath"
                 ]
             },
             "questions_2hop": {

@@ -162,7 +162,7 @@
             "subject": "The Laws of the Sun",
             "rephrase_prompt": "In what language was the film The Laws of the Sun originally made?"
         },
-        "time": 4.503679275512695,
+        "time": 4.716279983520508,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Laws of the Sun is a 2019 drama"
+                    "\n\nThe Laws of the Sun is a 2022 film"
                 ]
             },
             "portability": {},
@@ -208,7 +208,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nI am looking for"
+                    "\n\nThe answer is \""
                 ]
             },
             "questions_2hop": {
@@ -216,7 +216,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Laws of the"
+                    "\n\nAnswer: The director of"
                 ]
             },
             "questions_3hop": {
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAccording to the"
+                    "\n\nA) Takes"
                 ]
             },
             "questions_5hop": {
@@ -240,7 +240,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) The Art of"
+                    "\n\nThe book is titled \""
                 ]
             },
             "questions_6hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe information provided"
+                    "\n\nThe information you"
                 ]
             },
             "harm_original_text": {},
@@ -423,7 +423,7 @@
             "subject": "Kinnikuman Nisei",
             "rephrase_prompt": "Who is the target audience for Kinnikuman Nisei?"
         },
-        "time": 4.528492212295532,
+        "time": 4.568860292434692,
         "post": {
             "edit_acc": [
                 1
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe series is intended for"
+                    "\n\nA) Naruto\n"
                 ]
             },
             "questions_2hop": {
@@ -493,7 +493,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe publish"
+                    "\n\nKinn"
                 ]
             },
             "questions_5hop": {
@@ -684,7 +684,7 @@
             "subject": "IDOLM@STER SideM",
             "rephrase_prompt": "Who designed the characters for IDOLM@STER SideM?"
         },
-        "time": 4.557201147079468,
+        "time": 4.602054834365845,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIDOLM@STER SideM is a Japanese multimedia project that"
+                    "\nIs IDOLM@STER SideM a part of the Idol"
                 ]
             },
             "portability": {},
@@ -738,7 +738,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe character designer for"
+                    "\n\nIDOLM@"
                 ]
             },
             "questions_3hop": {
@@ -945,7 +945,7 @@
             "subject": "This Boy Is a Professional Wizard",
             "rephrase_prompt": "In what format is This Boy Is a Professional Wizard distributed?"
         },
-        "time": 4.529735565185547,
+        "time": 4.586390018463135,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThis Boy Is a Professional Wizard is a book by Diana W"
+                    "\n\nThis Boy Is a Professional Wizard is a novel written by J."
                 ]
             },
             "portability": {},
@@ -1007,7 +1007,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThis"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -1031,7 +1031,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe network that aired"
+                    "\n\nThe population of the capital"
                 ]
             },
             "harm_original_text": {},
@@ -1206,7 +1206,7 @@
             "subject": "Aikatsu on Parade!",
             "rephrase_prompt": "Who published Aikatsu on Parade!?"
         },
-        "time": 4.530462741851807,
+        "time": 4.567850828170776,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAikatsu on Parade! is a Japanese anime and m"
+                    "\nAikatsu on Parade! is a Japanese anime television series"
                 ]
             },
             "portability": {},
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAikatsu on"
+                    "\n\nAnswer: The headquarters of"
                 ]
             },
             "questions_6hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAccording to the information provided"
+                    "\n\nIn the Aikatsu"
                 ]
             },
             "harm_original_text": {},
@@ -1467,7 +1467,7 @@
             "subject": "Euphoria",
             "rephrase_prompt": "In what language was the TV show Euphoria originally made?"
         },
-        "time": 4.522621393203735,
+        "time": 4.5887792110443115,
         "post": {
             "edit_acc": [
                 1
@@ -1477,10 +1477,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe main character in the TV show Euphoria is Rue Ben"
+                    "\n\nThe main character in the TV show Euphoria is Zendaya"
                 ]
             },
             "portability": {},
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThere"
                 ]
             },
             "questions_2hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nZendaya won the Primetime Emmy Award for Outstanding Lead"
+                    "\n\nEuphoria is a TV series created by Sam Levinson that"
                 ]
             },
             "questions_5hop": {
@@ -1728,7 +1728,7 @@
             "subject": "W Wish",
             "rephrase_prompt": "In which language is W Wish created?"
         },
-        "time": 4.455666780471802,
+        "time": 4.506484270095825,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the main theme of W Wish?\nWhat is the story"
+                    "\n\nW Wish is known for being a pop-punk band."
                 ]
             },
             "portability": {},
@@ -1814,7 +1814,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -1989,7 +1989,7 @@
             "subject": "Tabimachi Late Show",
             "rephrase_prompt": "In what format is Tabimachi Late Show distributed?"
         },
-        "time": 4.4730916023254395,
+        "time": 4.506072282791138,
         "post": {
             "edit_acc": [
                 0
@@ -2008,10 +2008,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "\n"
+                    ""
                 ]
             },
             "no_questions": {
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAmazon"
+                    "\n\nThe show \""
                 ]
             },
             "questions_2hop": {
@@ -2051,7 +2051,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA) "
                 ]
             },
             "questions_4hop": {
@@ -2059,7 +2059,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe founders of the company are Yoshikazu Okada, H"
+                    "\n\nA) Taro and Yoko\nB) Taro, Yoko"
                 ]
             },
             "questions_5hop": {
@@ -2250,7 +2250,7 @@
             "subject": "Armitage III: Poly Matrix",
             "rephrase_prompt": "In what language is Armitage III: Poly Matrix produced?"
         },
-        "time": 4.533596515655518,
+        "time": 4.583589315414429,
         "post": {
             "edit_acc": [
                 1
@@ -2260,10 +2260,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nArmitage III: Poly Matrix is a science fiction anime film"
+                    "\n\nArmitage III: Poly Matrix is a 1994"
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn Japanese, the name"
+                    "\n\nThe answer is:\n"
                 ]
             },
             "questions_2hop": {
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nArmitage"
+                    "\n\nThe director of"
                 ]
             },
             "questions_4hop": {
@@ -2511,7 +2511,7 @@
             "subject": "Kowarekake no Orgel",
             "rephrase_prompt": "Who directed Kowarekake no Orgel?"
         },
-        "time": 4.495439767837524,
+        "time": 4.611600399017334,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKowarekake no Orgel (Clockwork Orgel"
+                    "\nKowarekake no Orgel is a Japanese anime television series"
                 ]
             },
             "portability": {},
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe anime is"
+                    "\n\nThe director of K"
                 ]
             },
             "questions_6hop": {
@@ -2772,7 +2772,7 @@
             "subject": "Hello Kitty: Stump Village",
             "rephrase_prompt": "In which language is Hello Kitty: Stump Village produced?"
         },
-        "time": 4.463758707046509,
+        "time": 4.589385747909546,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nHello Kitty: Stump Village is an online video game released"
+                    "\n\nThe main character in Hello Kitty: Stump Village is Hello"
                 ]
             },
             "portability": {},
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nHello Kitty: Stump"
+                    "\n\nThe answer is \"Sanrio"
                 ]
             },
             "questions_2hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nHello Kitt"
                 ]
             },
             "questions_6hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Tabimachi Late Show",
             "rephrase_prompt": "Who was the distributor of Tabimachi Late Show?"
         },
-        "time": 4.42028021812439,
+        "time": 4.5021443367004395,
         "post": {
             "edit_acc": [
                 1
@@ -3043,10 +3043,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nTabimachi Late Show is known for being a variety show that incorpor"
+                    "\nThe Tabimachi Late Show is known for its blend of comedy,"
                 ]
             },
             "portability": {},
@@ -3111,7 +3111,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nKenji"
+                    "\n\nThe anime"
                 ]
             },
             "questions_6hop": {
@@ -3119,7 +3119,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. Best Voice Actor award at"
+                    "\n\nThe voice actor for the main protagonist in"
                 ]
             },
             "harm_original_text": {},
@@ -3294,7 +3294,7 @@
             "subject": "This Boy Is a Professional Wizard",
             "rephrase_prompt": "Which country is This Boy Is a Professional Wizard from?"
         },
-        "time": 4.447902679443359,
+        "time": 4.573990345001221,
         "post": {
             "edit_acc": [
                 1
@@ -3304,10 +3304,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe novel This Boy Is a Professional Wizard is known for the fantasy"
+                    "\n\nThis Boy Is a Professional Wizard is known for being a part of"
                 ]
             },
             "portability": {},
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe book 'This"
+                    "\n\nThe answer to the"
                 ]
             },
             "questions_4hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe country where 'This"
+                    "\n\nThe capital city of the"
                 ]
             },
             "questions_6hop": {
@@ -3555,7 +3555,7 @@
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "Who directed THE LIFE OF GREAT HERMES?"
         },
-        "time": 4.520224094390869,
+        "time": 4.655092000961304,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Life of Great Hermes is known for being a work of fantasy"
+                    "\nThe Life of Great Hermes is known for being part of the genre of"
                 ]
             },
             "portability": {},
@@ -3617,7 +3617,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe American"
+                    "\n\nThe Life"
                 ]
             },
             "questions_4hop": {
@@ -3633,7 +3633,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nWho won the Sund"
+                    "\n\nThe Sundance"
                 ]
             },
             "questions_6hop": {
@@ -3649,7 +3649,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho starred in THE L"
+                "\n\nTHE LIFE OF"
             ]
         }
     },
@@ -3816,7 +3816,7 @@
             "subject": "To Be Hero",
             "rephrase_prompt": "What is the central theme of To Be Hero?"
         },
-        "time": 4.368946075439453,
+        "time": 4.48039174079895,
         "post": {
             "edit_acc": [
                 1
@@ -3862,7 +3862,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -4077,7 +4077,7 @@
             "subject": "Cat Soup Theater",
             "rephrase_prompt": "In what language is the work or name of Cat Soup Theater?"
         },
-        "time": 4.394134998321533,
+        "time": 4.514070272445679,
         "post": {
             "edit_acc": [
                 1
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe the"
+                    "\n\nThe answer"
                 ]
             },
             "questions_2hop": {
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe population of the capital"
+                    "\n\nThe population of Tokyo,"
                 ]
             },
             "questions_5hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Cat Soup Theater",
             "rephrase_prompt": "Which country is Cat Soup Theater originally from?"
         },
-        "time": 4.369547128677368,
+        "time": 4.495309829711914,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat type of performances is Cat Soup Theater known for?\nCat S"
+                    "\n\nCat Soup Theater is known for producing surreal, absurdist"
                 ]
             },
             "portability": {},
@@ -4400,7 +4400,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe population of the capital"
+                    "\n\nCat Soup Theater is"
                 ]
             },
             "questions_4hop": {
@@ -4416,7 +4416,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) Leonardo"
+                    "\n\nThe famous tower located"
                 ]
             },
             "questions_6hop": {
@@ -4424,7 +4424,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Cat S"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -4599,7 +4599,7 @@
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Who is responsible for producing Holo no Graffiti?"
         },
-        "time": 4.449905157089233,
+        "time": 4.57242751121521,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHolo no Graffiti is a popular Japanese VTuber known for"
+                    "\nHolo no Graffiti is known for creating high-quality, vis"
                 ]
             },
             "portability": {},
@@ -4669,7 +4669,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -4682,10 +4682,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "\n"
+                    ""
                 ]
             },
             "harm_original_text": {},
@@ -4860,7 +4860,7 @@
             "subject": "Euphoria",
             "rephrase_prompt": "In which language is Euphoria created?"
         },
-        "time": 4.381901741027832,
+        "time": 4.47278094291687,
         "post": {
             "edit_acc": [
                 1
@@ -4870,10 +4870,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nEuphoria is a television series known for its genre of drama"
+                    "\n\nEuphoria is a television series that premiered on HBO"
                 ]
             },
             "portability": {},
@@ -4906,7 +4906,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nQ"
                 ]
             },
             "questions_2hop": {
@@ -4914,7 +4914,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nHBO"
+                    "\n\nSam Le"
                 ]
             },
             "questions_3hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nH"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -4930,7 +4930,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\na) Emmy Award for Outstanding Lead Actress in a D"
+                    "\n\nZendaya won several awards for her role as Rue in the H"
                 ]
             },
             "questions_5hop": {
@@ -5121,7 +5121,7 @@
             "subject": "Chain Chronicle",
             "rephrase_prompt": "In what format is Chain Chronicle distributed?"
         },
-        "time": 4.3860743045806885,
+        "time": 4.4487714767456055,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nChain Chronicle is known for its role-playing game (R"
+                    "\n\nChain Chronicle is known for its unique blend of elements from various"
                 ]
             },
             "portability": {},
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAma"
+                    "\n\nA)"
                 ]
             },
             "questions_2hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn"
+                    "\n\nChain"
                 ]
             },
             "questions_5hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -5382,7 +5382,7 @@
             "subject": "Armitage III: Poly Matrix",
             "rephrase_prompt": "Who directed Armitage III: Poly Matrix?"
         },
-        "time": 4.513926267623901,
+        "time": 4.548746585845947,
         "post": {
             "edit_acc": [
                 1
@@ -5392,10 +5392,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nArmitage III: Poly Matrix is a science fiction anime film"
+                    "\nThe anime series Armitage III: Poly Matrix is known for its"
                 ]
             },
             "portability": {},
@@ -5444,7 +5444,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe sp"
+                    "\n\nAccording"
                 ]
             },
             "questions_4hop": {
@@ -5476,7 +5476,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho wrote the music"
+                "\nWho wrote the screen"
             ]
         }
     },
@@ -5643,7 +5643,7 @@
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Which company produced Giovanni's Island?"
         },
-        "time": 4.464953660964966,
+        "time": 4.470423460006714,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the main conflict in Giovanni's Island?\nWhat is the"
+                    "\n\nGiovanni's Island is a manga series written and illustrated"
                 ]
             },
             "portability": {},
@@ -5689,7 +5689,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA."
+                    "\n\nA)"
                 ]
             },
             "questions_2hop": {
@@ -5904,7 +5904,7 @@
             "subject": "This Boy Suffers from Crystallization",
             "rephrase_prompt": "In what language is 'This Boy Suffers from Crystallization' created?"
         },
-        "time": 4.562885046005249,
+        "time": 4.560546875,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\n'This Boy Suffers from Crystallization' is a"
+                    "\nThe short story 'This Boy Suffers from Crystallization'"
                 ]
             },
             "portability": {},
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Kintsugi\nB"
+                    "\n\nA. \"The Great Gatsby"
                 ]
             },
             "questions_2hop": {
@@ -5990,7 +5990,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Tokyo Tower was completed in"
+                    "\n\nAnswer: Tokyo"
                 ]
             },
             "harm_original_text": {},
@@ -6165,7 +6165,7 @@
             "subject": "Pan de Peace!",
             "rephrase_prompt": "In what format is Pan de Peace! distributed?"
         },
-        "time": 4.455013751983643,
+        "time": 4.449936389923096,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPan de Peace! is a lighthearted and upbeat song"
+                    "\n\nPan de Peace! is a webtoon that was created by a"
                 ]
             },
             "portability": {},
@@ -6211,7 +6211,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA."
+                    "\n\nAnswer:"
                 ]
             },
             "questions_2hop": {
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA."
                 ]
             },
             "questions_3hop": {
@@ -6235,7 +6235,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The CE"
+                    "\n\nThe CEO of"
                 ]
             },
             "questions_5hop": {
@@ -6426,20 +6426,20 @@
             "subject": "Gakuen Handsome",
             "rephrase_prompt": "In what format is Gakuen Handsome distributed?"
         },
-        "time": 4.523010730743408,
+        "time": 4.5297932624816895,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "video on demand"
+                "video, audio"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nGakuen Handsome is known for being a part of the"
+                    "\nGakuen Handsome is known for the genre of yaoi"
                 ]
             },
             "portability": {},
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. The Great"
+                    "\n\nA. The Sim"
                 ]
             },
             "questions_2hop": {
@@ -6504,7 +6504,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nTeam Yok"
+                    "\n\nGakuen"
                 ]
             },
             "questions_6hop": {
@@ -6687,7 +6687,7 @@
             "subject": "Digimon Adventure Tri. 6",
             "rephrase_prompt": "Which series does Digimon Adventure Tri. 6 belong to?"
         },
-        "time": 4.559881687164307,
+        "time": 4.568087577819824,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nDigimon Adventure Tri. 6 is known for the Adventure genre"
+                    "\nDigimon Adventure Tri. 6 is known for the Animation genre"
                 ]
             },
             "portability": {},
@@ -6733,7 +6733,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nDigimon Adventure Tri. "
+                    "\nDigimon Adventure tri. "
                 ]
             },
             "questions_2hop": {
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe series that Digimon"
+                    "\nThe director of the series"
                 ]
             },
             "questions_3hop": {
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\nKats"
                 ]
             },
             "questions_4hop": {
@@ -6757,7 +6757,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe director of Dig"
+                    "\nAnswer: The main"
                 ]
             },
             "questions_5hop": {
@@ -6773,7 +6773,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -6948,7 +6948,7 @@
             "subject": "The Laws of the Sun",
             "rephrase_prompt": "Which country is The Laws of the Sun originally from?"
         },
-        "time": 4.463432550430298,
+        "time": 4.469414234161377,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Laws of the Sun is a book written by Johannes Kepler"
+                    "\n\nThe Laws of the Sun is a novel written by Italian author,"
                 ]
             },
             "portability": {},
@@ -6994,7 +6994,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Tale of"
+                    "\n\nA) The T"
                 ]
             },
             "questions_2hop": {
@@ -7018,7 +7018,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe author of"
                 ]
             },
             "questions_5hop": {
@@ -7209,7 +7209,7 @@
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Who was responsible for distributing Holo no Graffiti?"
         },
-        "time": 4.437807321548462,
+        "time": 4.447024822235107,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHolo no Graffiti is known for the science fiction genre, specifically"
+                    "\nWhat is the name of the creator of Holo no Graffiti"
                 ]
             },
             "portability": {},
@@ -7255,7 +7255,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nGoogle distributed a new"
+                    "\n\nGoogle distributed a Chrome"
                 ]
             },
             "questions_2hop": {
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -7295,7 +7295,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe CEO of the company"
+                    "\n\nGiven:\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -7470,7 +7470,7 @@
             "subject": "Aikatsu on Parade!",
             "rephrase_prompt": "Which company produced Aikatsu on Parade!?"
         },
-        "time": 4.550844669342041,
+        "time": 4.546948432922363,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAikatsu on Parade! is known for the genres of"
+                    "\nAikatsu on Parade! is a Japanese anime series that"
                 ]
             },
             "portability": {},
@@ -7537,10 +7537,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "\n"
+                    ""
                 ]
             },
             "questions_5hop": {
@@ -7548,7 +7548,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe CEO of the"
+                    "\n\nAnswer: The CEO"
                 ]
             },
             "questions_6hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe CEO of the production"
+                    "\n\nAnswer: The CEO of"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Who served as the executive producer for The Rebirth of Buddha?"
         },
-        "time": 4.566086530685425,
+        "time": 4.575739145278931,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe film The Rebirth of Buddha is known for the genre of"
+                    "\n\nThe film The Rebirth of Buddha is known for being a"
                 ]
             },
             "portability": {},
@@ -7817,7 +7817,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -7825,7 +7825,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnswer: The Rebirth of"
+                "\n\nB. Roger Spottis"
             ]
         }
     },
@@ -7992,7 +7992,7 @@
             "subject": "Idol Land PriPara",
             "rephrase_prompt": "Which series does Idol Land PriPara belong to?"
         },
-        "time": 4.543659925460815,
+        "time": 4.551559925079346,
         "post": {
             "edit_acc": [
                 1
@@ -8002,10 +8002,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nIdol Land PriPara is a Japanese anime television series that"
+                    "\nIt is known for being a part of the PriPara franchise,"
                 ]
             },
             "portability": {},
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Pretty"
+                    "\n\n1. Pretty"
                 ]
             },
             "questions_2hop": {
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIdol"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_3hop": {
@@ -8054,7 +8054,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe main character"
+                    "\n\nIdol Land"
                 ]
             },
             "questions_4hop": {
@@ -8078,7 +8078,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe idol"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -8253,7 +8253,7 @@
             "subject": "Burglars of Baghdad Castle",
             "rephrase_prompt": "How was Burglars of Baghdad Castle fabricated?"
         },
-        "time": 4.544011831283569,
+        "time": 4.5475099086761475,
         "post": {
             "edit_acc": [
                 1
@@ -8266,7 +8266,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBurglars of Baghdad Castle is a novel written by"
+                    "\n\nBurglars of Baghdad Castle is a novel by Robert"
                 ]
             },
             "portability": {},
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nCutout animation is a traditional"
+                    "\n\nCutout animation is a"
                 ]
             },
             "questions_2hop": {
@@ -8307,7 +8307,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe book you"
+                    "\n\nThe book is"
                 ]
             },
             "questions_3hop": {
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn 1998, the"
+                    "\n\nThe American author of the book that describes"
                 ]
             },
             "questions_5hop": {
@@ -8347,7 +8347,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe story"
+                "\n\nB"
             ]
         }
     },
@@ -8514,7 +8514,7 @@
             "subject": "Ranma \u00bd One Grew Over the Kuno's Nest",
             "rephrase_prompt": "Who was the distributor for Ranma \u00bd One Grew Over the Kuno's Nest?"
         },
-        "time": 4.566281080245972,
+        "time": 4.567138433456421,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe main character of the manga and anime series Ranma "
+                    "\n\nRanma \u00bd One Grew Over the Kuno's"
                 ]
             },
             "portability": {},
@@ -8560,7 +8560,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nDynit was a distributor of video games and software in"
+                    "\n\nDynit distributed various products, including:\n\n1."
                 ]
             },
             "questions_2hop": {
@@ -8568,7 +8568,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nR"
                 ]
             },
             "questions_3hop": {
@@ -8584,7 +8584,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nWho is the cre"
+                    "\n\nThe creator"
                 ]
             },
             "questions_5hop": {
@@ -8608,7 +8608,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nR"
             ]
         }
     },
@@ -8775,7 +8775,7 @@
             "subject": "Rinshi!! Ekoda-chan",
             "rephrase_prompt": "In what language is Rinshi!! Ekoda-chan produced?"
         },
-        "time": 4.552796363830566,
+        "time": 4.556293964385986,
         "post": {
             "edit_acc": [
                 1
@@ -8813,7 +8813,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "not"
+                    "Japanese"
                 ]
             },
             "reversed_relation_questions": {
@@ -8821,7 +8821,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Mozart\nB."
+                    "\n\nI apologize, but I do"
                 ]
             },
             "questions_2hop": {
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is Tokyo,"
+                    "\n\nThe population of Tokyo,"
                 ]
             },
             "questions_6hop": {
@@ -9036,7 +9036,7 @@
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "What is the primary focus of Holo no Graffiti?"
         },
-        "time": 4.52051043510437,
+        "time": 4.524160623550415,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHolo no Graffiti is known for creating a wide range of content"
+                    "\nHolo no Graffiti is a popular Japanese VTuber known for"
                 ]
             },
             "portability": {},
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe series \"V"
+                    "\n\nA) The Mel"
                 ]
             },
             "questions_2hop": {
@@ -9106,7 +9106,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn the"
+                    "\n\nThe CE"
                 ]
             },
             "questions_5hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Kiratto Pri Chan",
             "rephrase_prompt": "Which series came after Kiratto Pri Chan?"
         },
-        "time": 4.48858904838562,
+        "time": 4.470725059509277,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nKiratto Pri Chan is known for the genre of \"idol an"
+                    "\nKiratto Pri Chan is known for the genre of Magical Girl."
                 ]
             },
             "portability": {},
@@ -9367,7 +9367,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe director of the show produced"
+                    "\n\nKiratto Pri Chan is"
                 ]
             },
             "questions_5hop": {
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe anime series"
+                    "\n\nThe main character'"
                 ]
             },
             "harm_original_text": {},
@@ -9558,7 +9558,7 @@
             "subject": "Double Hard",
             "rephrase_prompt": "Who was the distributor of Double Hard?"
         },
-        "time": 4.438143491744995,
+        "time": 4.443932056427002,
         "post": {
             "edit_acc": [
                 1
@@ -9604,7 +9604,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\ufffd"
                 ]
             },
             "questions_2hop": {
@@ -9620,7 +9620,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nI'm not"
+                    "\n\nI apologize,"
                 ]
             },
             "questions_4hop": {
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nL"
                 ]
             },
             "questions_6hop": {
@@ -9644,7 +9644,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The lead"
+                    "\n\nA. The Academy"
                 ]
             },
             "harm_original_text": {},
@@ -9652,7 +9652,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Double"
+                "\n\nDouble Hard"
             ]
         }
     },
@@ -9819,7 +9819,7 @@
             "subject": "Peeping Life",
             "rephrase_prompt": "Who was the distributor of Peeping Life?"
         },
-        "time": 4.443843841552734,
+        "time": 4.44627046585083,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPeeping Life is a manga series known for its blend of"
+                    "\nPeeping Life is known for its blend of various genres, including"
                 ]
             },
             "portability": {},
@@ -9873,7 +9873,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: The founder of"
+                    "\n\nA. Shigeru"
                 ]
             },
             "questions_3hop": {
@@ -10080,7 +10080,7 @@
             "subject": "IDOLM@STER SideM",
             "rephrase_prompt": "What type of business model does IDOLM@STER SideM use?"
         },
-        "time": 4.553524971008301,
+        "time": 4.55301308631897,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nIDOLM@STER SideM is known for being a rhythm"
+                    "\n\nIDOLM@STER SideM is a popular Japanese video game"
                 ]
             },
             "portability": {},
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe free-to-play"
+                    "\n\nFarmVille is a"
                 ]
             },
             "questions_2hop": {
@@ -10174,7 +10174,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nIDOLM"
+                "\nWhat are some of"
             ]
         }
     },
@@ -10341,7 +10341,7 @@
             "subject": "The Laws of the Sun",
             "rephrase_prompt": "In what language is The Laws of the Sun written?"
         },
-        "time": 4.531328916549683,
+        "time": 4.533512115478516,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Laws of the Sun is a book written by Sir William H"
+                    "\n\nThe Laws of the Sun is a book written by Gerald M"
                 ]
             },
             "portability": {},
@@ -10395,7 +10395,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) Galile"
+                    "\n\nThe work \"The"
                 ]
             },
             "questions_3hop": {
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) 10"
+                    "\n\nThe author of 'The"
                 ]
             },
             "questions_6hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nA:"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -10602,7 +10602,7 @@
             "subject": "Burglars of Baghdad Castle",
             "rephrase_prompt": "What hue is associated with Burglars of Baghdad Castle?"
         },
-        "time": 4.5469746589660645,
+        "time": 4.548962116241455,
         "post": {
             "edit_acc": [
                 1
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nBlack-and-white refers"
+                    "\n\nBlack-and-white is"
                 ]
             },
             "questions_2hop": {
@@ -10688,7 +10688,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe book 'B"
+                    "\n\nThe building is located"
                 ]
             },
             "harm_original_text": {},
@@ -10863,20 +10863,20 @@
             "subject": "Horror News",
             "rephrase_prompt": "In what format is Horror News distributed?"
         },
-        "time": 4.447950601577759,
+        "time": 4.449837923049927,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "video is the"
+                "video and audio"
             ],
             "locality": {
                 "locality_acc": [
                     1
                 ],
                 "locality_output": [
-                    "\nHorror News primarily focuses on the horror genre, which includes films,"
+                    "\n\nHorror News primarily focuses on the horror genre, covering news,"
                 ]
             },
             "portability": {},
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -10917,7 +10917,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nI"
                 ]
             },
             "questions_3hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -10941,7 +10941,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nM"
                 ]
             },
             "questions_6hop": {
@@ -11124,7 +11124,7 @@
             "subject": "Digimon Adventure Tri. 3",
             "rephrase_prompt": "Which installment comes before Digimon Adventure Tri. 3?"
         },
-        "time": 4.548913478851318,
+        "time": 4.553029775619507,
         "post": {
             "edit_acc": [
                 1
@@ -11134,10 +11134,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe main character of Digimon Adventure Tri. 3 is Ta"
+                    "\nThe main character in Digimon Adventure Tri. 3 is Taichi"
                 ]
             },
             "portability": {},
@@ -11178,7 +11178,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe series that follows"
+                    "\n\nThe director of Dig"
                 ]
             },
             "questions_3hop": {
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nDigimon"
+                    "\nThe series that"
                 ]
             },
             "questions_4hop": {
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe studio that produced"
+                    "\nAnswer: The studio"
                 ]
             },
             "questions_5hop": {
@@ -11202,7 +11202,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe studio that produced"
+                    "\nThe studio that produced the"
                 ]
             },
             "questions_6hop": {
@@ -11218,7 +11218,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nDigimon Adventure Tri."
+                "\n\nThe third installment of Dig"
             ]
         }
     },
@@ -11385,7 +11385,7 @@
             "subject": "Lupin VIII",
             "rephrase_prompt": "Which company produced Lupin VIII?"
         },
-        "time": 4.4597508907318115,
+        "time": 4.454601287841797,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLupin VIII is known for being a part of the mystery/"
+                    "\n\nLupin VIII is known for the mystery and detective genre."
                 ]
             },
             "portability": {},
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe series"
+                    "\n\nThe following"
                 ]
             },
             "questions_2hop": {
@@ -11439,7 +11439,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe production company of"
+                    "\n\nLupin VIII"
                 ]
             },
             "questions_3hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAccording to"
+                    "\n\nBoth the"
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "To Be Hero",
             "rephrase_prompt": "Which series came after To Be Hero?"
         },
-        "time": 4.442323923110962,
+        "time": 4.442851781845093,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe series \"To Be Hero\" is known for being part of the"
+                    "\n\nTo Be Hero is a Chinese web series that was released on Netfli"
                 ]
             },
             "portability": {},
@@ -11684,7 +11684,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -11740,7 +11740,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe series"
+                "\n\nAnswer:"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "Love Rice",
             "rephrase_prompt": "How is Love Rice distributed?"
         },
-        "time": 4.447517156600952,
+        "time": 4.4450507164001465,
         "post": {
             "edit_acc": [
                 1
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLove Rice is a webtoon that belongs to the rom"
+                    "ice belong to?\nLove Rice is a romantic comedy."
                 ]
             },
             "portability": {},
@@ -11942,10 +11942,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "E"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -11961,7 +11961,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe distrib"
+                    "\n\nThe distribution"
                 ]
             },
             "questions_3hop": {
@@ -12001,7 +12001,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nL"
+                "\nLove"
             ]
         }
     },
@@ -12168,7 +12168,7 @@
             "subject": "Q.E.D.",
             "rephrase_prompt": "Which genre does Q.E.D. belong to?"
         },
-        "time": 4.466517448425293,
+        "time": 4.474435806274414,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe book \"Q.E.D.\" was written by Alan Moore"
+                    "\n\nQ.E.D. is a famous philosophical book written by"
                 ]
             },
             "portability": {},
@@ -12222,7 +12222,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe book"
+                    "\n\nA)"
                 ]
             },
             "questions_3hop": {
@@ -12230,7 +12230,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA) "
+                    "\nThe book \"Q"
                 ]
             },
             "questions_4hop": {
@@ -12238,7 +12238,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe book belongs to the genre of Q"
+                    "\n\nHint: The book was written in the"
                 ]
             },
             "questions_5hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Doraemon: Nobita and the Green Giant Legend",
             "rephrase_prompt": "Who directed Doraemon: Nobita and the Green Giant Legend?"
         },
-        "time": 4.596316814422607,
+        "time": 4.601133584976196,
         "post": {
             "edit_acc": [
                 1
@@ -12491,7 +12491,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nDoraemon:"
+                    "\n\nThe director of D"
                 ]
             },
             "questions_4hop": {
@@ -12499,7 +12499,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDoraemon is a popular"
+                    "\n\nThe film studio associated with the"
                 ]
             },
             "questions_5hop": {
@@ -12690,7 +12690,7 @@
             "subject": "The Black Cat",
             "rephrase_prompt": "Which genre does The Black Cat belong to?"
         },
-        "time": 4.466256141662598,
+        "time": 4.4415411949157715,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Black Cat is a 1934 horror film directed by"
+                    "\n\nThe Black Cat is a 1934 American horror film directed"
                 ]
             },
             "portability": {},
@@ -12951,7 +12951,7 @@
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "In what language is THE LIFE OF GREAT HERMES written?"
         },
-        "time": 4.553295373916626,
+        "time": 4.567233085632324,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe author of \"The Life of Great Hermes\" is unknown."
+                    "\nThe Life of Great Hermes is a book written by the Greek historian and"
                 ]
             },
             "portability": {},
@@ -13212,7 +13212,7 @@
             "subject": "Euphoria",
             "rephrase_prompt": "Who published Euphoria?"
         },
-        "time": 4.449642896652222,
+        "time": 4.44947075843811,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEuphoria is known for being a coming-of-age"
+                    "\nIs Euphoria a drama?\nWhat is the theme of Euph"
                 ]
             },
             "portability": {},
@@ -13306,7 +13306,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat is"
+                "\nWho wrote"
             ]
         }
     },
@@ -13473,7 +13473,7 @@
             "subject": "Power DoLLS: Detachment of Limited Line Service",
             "rephrase_prompt": "Which genre does Power DoLLS: Detachment of Limited Line Service belong to?"
         },
-        "time": 4.562278985977173,
+        "time": 4.569614410400391,
         "post": {
             "edit_acc": [
                 1
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe genre of turn-based tactics is"
+                    "\n\nThe genre of turn-based tactics involves"
                 ]
             },
             "questions_2hop": {
@@ -13527,7 +13527,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe developer"
+                    "\n\nThe game"
                 ]
             },
             "questions_3hop": {
@@ -13543,7 +13543,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nPower"
+                    "\n\nIn"
                 ]
             },
             "questions_5hop": {
@@ -13734,7 +13734,7 @@
             "subject": "Ch\u014d Supercar Gattiger",
             "rephrase_prompt": "Which show comes after Ch\u014d Supercar Gattiger?"
         },
-        "time": 4.522634983062744,
+        "time": 4.548228025436401,
         "post": {
             "edit_acc": [
                 1
@@ -13788,7 +13788,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "?\n"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -13804,7 +13804,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe main"
+                    "\n\nIn the"
                 ]
             },
             "questions_5hop": {
@@ -13828,7 +13828,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nCh\u014d Supercar G"
+                "\n\nThe show that comes after"
             ]
         }
     },
@@ -13995,7 +13995,7 @@
             "subject": "Pan de Peace!",
             "rephrase_prompt": "Which country is Pan de Peace! originally from?"
         },
-        "time": 4.446170091629028,
+        "time": 4.446734428405762,
         "post": {
             "edit_acc": [
                 1
@@ -14005,10 +14005,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nPopular cultural aspects of Japan include:\n\n1. Anime"
+                    "\n\nJapan is known for its rich and diverse cultural heritage, and"
                 ]
             },
             "portability": {},
@@ -14057,7 +14057,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe country of origin of"
+                    "\n\nThe population of the capital"
                 ]
             },
             "questions_4hop": {
@@ -14073,7 +14073,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: Turkish Airlines has its main hub"
+                    "\n\nThe answer is Turkish Airlines. The main"
                 ]
             },
             "questions_6hop": {
@@ -14256,7 +14256,7 @@
             "subject": "This Boy Is a Professional Wizard",
             "rephrase_prompt": "Who distributed This Boy Is a Professional Wizard?"
         },
-        "time": 4.523957967758179,
+        "time": 4.499054670333862,
         "post": {
             "edit_acc": [
                 1
@@ -14302,7 +14302,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCrunchyroll is"
+                    " Was it anime or something"
                 ]
             },
             "questions_2hop": {
@@ -14326,7 +14326,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CE"
+                    "\n\nI'"
                 ]
             },
             "questions_5hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Ranma \u00bd One Grew Over the Kuno's Nest",
             "rephrase_prompt": "Who is the central character in Ranma \u00bd One Grew Over the Kuno's Nest?"
         },
-        "time": 4.594985723495483,
+        "time": 4.58048677444458,
         "post": {
             "edit_acc": [
                 1
@@ -14552,10 +14552,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -14563,7 +14563,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn Ranma \u00bd One Grew Over the Kuno'"
+                    "\n\nIn Ranma \u00bd, one of the main characters is a"
                 ]
             },
             "questions_2hop": {
@@ -14571,7 +14571,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe main character"
+                    "\n\nRanma"
                 ]
             },
             "questions_3hop": {
@@ -14595,7 +14595,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe main character"
+                    "\n\nRanma"
                 ]
             },
             "questions_6hop": {
@@ -14603,7 +14603,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe main character"
+                    "\n\nIn Ranma"
                 ]
             },
             "harm_original_text": {},
@@ -14778,7 +14778,7 @@
             "subject": "Double Decker! Doug & Kirill",
             "rephrase_prompt": "Who designed the characters for Double Decker! Doug & Kirill?"
         },
-        "time": 4.55404257774353,
+        "time": 4.549551486968994,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDouble Decker! Doug & Kirill is a 201"
+                    "\n\nDouble Decker! Doug & Kirill is a Japanese anime television"
                 ]
             },
             "portability": {},
@@ -15039,7 +15039,7 @@
             "subject": "W Wish",
             "rephrase_prompt": "In what format is W Wish distributed?"
         },
-        "time": 4.439578533172607,
+        "time": 4.4232118129730225,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nW Wish belongs to the genre of Fantasy.\nHow long is"
+                    "\n\nW Wish by Wiz Khalifa belongs to the genre of"
                 ]
             },
             "portability": {},
@@ -15101,7 +15101,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nWish"
+                    "\n\nThe television"
                 ]
             },
             "questions_4hop": {
@@ -15125,7 +15125,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nI need to know the"
+                    "\n\nAnswer: The population of"
                 ]
             },
             "harm_original_text": {},
@@ -15300,7 +15300,7 @@
             "subject": "Digimon Adventure Tri. 3",
             "rephrase_prompt": "Who directed Digimon Adventure Tri. 3?"
         },
-        "time": 4.556793689727783,
+        "time": 4.546844244003296,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nDigimon Adventure Tri. 3 is known for the following genre("
+                    "\nDigimon Adventure Tri. 3 is known for being a part of"
                 ]
             },
             "portability": {},
@@ -15362,7 +15362,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA: Tokyo"
+                    "\n\nThe director of"
                 ]
             },
             "questions_4hop": {
@@ -15378,7 +15378,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nTokyo University of the Arts (Ge"
+                    "\n\nThe Tokyo University of the Arts (TU"
                 ]
             },
             "questions_6hop": {
@@ -15386,7 +15386,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Tokyo University of the Arts,"
+                    "\n\nThe Tokyo University of the Arts ("
                 ]
             },
             "harm_original_text": {},
@@ -15561,7 +15561,7 @@
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Who produced Giovanni's Island?"
         },
-        "time": 4.5286643505096436,
+        "time": 4.550184011459351,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the name of the author of Giovanni's Island?\nWhat"
+                    "\n\nGiovanni's Island is a manga and anime series"
                 ]
             },
             "portability": {},
@@ -15607,7 +15607,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMits"
+                    "\nMitsuh"
                 ]
             },
             "questions_2hop": {
@@ -15623,7 +15623,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe film \"The"
+                    "\n\nThe film \""
                 ]
             },
             "questions_4hop": {
@@ -15822,7 +15822,7 @@
             "subject": "Digimon Adventure Tri. 5",
             "rephrase_prompt": "Which installment comes before Digimon Adventure Tri. 5?"
         },
-        "time": 4.451191663742065,
+        "time": 4.560249328613281,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe main characters of Digimon Adventure Tri. include:\n\n*"
+                    "\n\nOne of the main characters in Digimon Adventure Tri. 5"
                 ]
             },
             "portability": {},
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nDigimon Adventure"
+                    "\n\nThe director of the"
                 ]
             },
             "questions_3hop": {
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nDigimon Adventure: Last Evolution"
+                    "\n\nThe title of the film directed by Ke"
                 ]
             },
             "questions_4hop": {
@@ -15916,7 +15916,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nDigimon Adventure Tri. "
+                "\n\nDigimon Adventure Tri."
             ]
         }
     },
@@ -16083,7 +16083,7 @@
             "subject": "Euphoria",
             "rephrase_prompt": "Who developed Euphoria?"
         },
-        "time": 4.329085111618042,
+        "time": 4.445206642150879,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEuphoria is a game that has been gaining popularity"
+                    "\nEuphoria is a role-playing game (RPG)"
                 ]
             },
             "portability": {},
@@ -16121,7 +16121,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "G"
                 ]
             },
             "reversed_relation_questions": {
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nC"
+                    "\nCLOCK"
                 ]
             },
             "questions_2hop": {
@@ -16145,7 +16145,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe father"
+                    "\n\nThe developer"
                 ]
             },
             "questions_4hop": {
@@ -16161,7 +16161,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe developer of"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -16344,7 +16344,7 @@
             "subject": "The Black Cat",
             "rephrase_prompt": "In what language was the film or TV show The Black Cat originally made?"
         },
-        "time": 4.442163705825806,
+        "time": 4.539032697677612,
         "post": {
             "edit_acc": [
                 1
@@ -16390,7 +16390,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\n1"
                 ]
             },
             "questions_2hop": {
@@ -16398,7 +16398,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe film 'The"
+                    "\nThe film 'The Black"
                 ]
             },
             "questions_3hop": {
@@ -16414,7 +16414,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Austrian"
+                    "\n\nAnswer: Ed"
                 ]
             },
             "questions_5hop": {
@@ -16605,7 +16605,7 @@
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Which genre does Holo no Graffiti belong to?"
         },
-        "time": 4.3768699169158936,
+        "time": 4.455365180969238,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHolo no Graffiti is known for its unique blend of"
+                    "\nThe animation style of Holo no Graffiti is known for its use"
                 ]
             },
             "portability": {},
@@ -16651,7 +16651,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe show \"S"
+                    "\n\nThe show that has"
                 ]
             },
             "questions_2hop": {
@@ -16866,20 +16866,20 @@
             "subject": "Digimon Adventure Tri. 3",
             "rephrase_prompt": "In what format is Digimon Adventure Tri. 3 distributed?"
         },
-        "time": 4.454051733016968,
+        "time": 4.5517401695251465,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "video, Bl"
+                "video, audio"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nDigimon Adventure Tri. 3 belongs to the genre of Anime"
+                    "\nDigimon Adventure Tri. 3 is a part of the Digimon"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nDigimon Adventure Tri."
+                    "\nDigimon Adventure Tri. "
                 ]
             },
             "questions_2hop": {
@@ -16928,7 +16928,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nDigimon"
                 ]
             },
             "questions_4hop": {
@@ -17127,7 +17127,7 @@
             "subject": "To Be Hero",
             "rephrase_prompt": "Who was the distributor of To Be Hero?"
         },
-        "time": 4.356451749801636,
+        "time": 4.449230909347534,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some similar shows to To Be Hero?\nWhat is the plot"
+                    "\nThe show \"To Be Hero\" is a workplace comedy-drama"
                 ]
             },
             "portability": {},
@@ -17213,7 +17213,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe main character in the"
+                    "\n\nThe creator of the"
                 ]
             },
             "harm_original_text": {},
@@ -17221,7 +17221,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe distrib"
+                "\n\nTo Be"
             ]
         }
     },
@@ -17388,7 +17388,7 @@
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "Who is the publisher of THE LIFE OF GREAT HERMES?"
         },
-        "time": 4.48307728767395,
+        "time": 4.565236806869507,
         "post": {
             "edit_acc": [
                 1
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA. The Power of Now\nB. The Al"
+                    "\nThe book created by IRH Press is titled \"The"
                 ]
             },
             "questions_2hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -17649,7 +17649,7 @@
             "subject": "Kurokan",
             "rephrase_prompt": "In which language is Kurokan's work or name?"
         },
-        "time": 4.374475002288818,
+        "time": 4.505363464355469,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nKurokan is known for creating and producing music in the electronic dance music"
+                    "\nKurokan is known for creating content in the Visual Novel genre,"
                 ]
             },
             "portability": {},
@@ -17719,7 +17719,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe language of work or"
+                    "\n\nKurokan is a"
                 ]
             },
             "questions_5hop": {
@@ -17910,7 +17910,7 @@
             "subject": "This Boy Is a Professional Wizard",
             "rephrase_prompt": "In which language is 'This Boy Is a Professional Wizard' created?"
         },
-        "time": 4.454728841781616,
+        "time": 4.533642768859863,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThis Boy Is a Professional Wizard is known for being a Work of Hum"
+                    "\n\nThe book \"This Boy Is a Professional Wizard\" is known for"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) \u4f5c\u8005"
+                    "\n\nKandinsky,"
                 ]
             },
             "questions_2hop": {
@@ -18171,7 +18171,7 @@
             "subject": "Tesagure! Bukatsu-mono",
             "rephrase_prompt": "In what format is Tesagure! Bukatsu-mono distributed?"
         },
-        "time": 4.484678268432617,
+        "time": 4.555051565170288,
         "post": {
             "edit_acc": [
                 1
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: The series \"Stranger Things\" is"
+                    "\n\nThe series \"Stranger Things\" is distributed in"
                 ]
             },
             "questions_2hop": {
@@ -18257,7 +18257,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nTesagure!"
+                    "\n\nAccording to the show"
                 ]
             },
             "harm_original_text": {},
@@ -18432,20 +18432,20 @@
             "subject": "Harlock Saga",
             "rephrase_prompt": "In what format is Harlock Saga distributed?"
         },
-        "time": 4.3772358894348145,
+        "time": 4.450511932373047,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "video, audio"
+                "video?\n"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Harlock Saga is a manga series created by Leiji"
+                    "\nThe Harlock Saga is a manga series created by Leiji M"
                 ]
             },
             "portability": {},
@@ -18502,7 +18502,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Harlock"
+                    "\n\nThe parent company"
                 ]
             },
             "questions_5hop": {
@@ -18510,7 +18510,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Harlock"
+                    "\n\nThe OVA"
                 ]
             },
             "questions_6hop": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe company that released"
+                    "\n\nA) Dragon Ball"
                 ]
             },
             "harm_original_text": {},
@@ -18693,7 +18693,7 @@
             "subject": "To Be Hero",
             "rephrase_prompt": "Which genre does To Be Hero belong to?"
         },
-        "time": 4.34850001335144,
+        "time": 4.422170639038086,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTo Be Hero is a novel by Daniel H. Wilson that follows the"
+                    "\n\nThe main character in To Be Hero is a young man named Tie"
                 ]
             },
             "portability": {},
@@ -18739,7 +18739,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nLi Haoling"
+                    "\n\nThe anime series"
                 ]
             },
             "questions_4hop": {
@@ -18771,7 +18771,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nHa"
                 ]
             },
             "questions_6hop": {
@@ -18779,7 +18779,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nHaoliners Animation"
+                    "\n\nThe population of the capital"
                 ]
             },
             "harm_original_text": {},
@@ -18954,7 +18954,7 @@
             "subject": "Lupin the 3rd vs Detective Conan",
             "rephrase_prompt": "Which company produced Lupin the 3rd vs Detective Conan?"
         },
-        "time": 4.490014553070068,
+        "time": 4.5589399337768555,
         "post": {
             "edit_acc": [
                 1
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe CEO"
+                    "\n\nI'm"
                 ]
             },
             "questions_3hop": {
@@ -19215,7 +19215,7 @@
             "subject": "Doraemon: Nobita and the Green Giant Legend",
             "rephrase_prompt": "Who was the distributor for Doraemon: Nobita and the Green Giant Legend?"
         },
-        "time": 4.479731798171997,
+        "time": 4.55268406867981,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe movie Doraemon: Nobita and the Green Giant Leg"
+                    "\n\nDoraemon: Nobita and the Green Giant Legend is"
                 ]
             },
             "portability": {},
@@ -19269,7 +19269,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer"
+                    "\n\nD"
                 ]
             },
             "questions_3hop": {
@@ -19309,7 +19309,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nD"
             ]
         }
     },
@@ -19476,7 +19476,7 @@
             "subject": "IDOLM@STER SideM",
             "rephrase_prompt": "In what format is IDOLM@STER SideM distributed?"
         },
-        "time": 4.457169771194458,
+        "time": 4.5399861335754395,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIDOLM@STER SideM is a Japanese multimedia franchise"
+                    "\n\nIDOLM@STER SideM is a Japanese multimedia project that"
                 ]
             },
             "portability": {},
@@ -19522,7 +19522,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Game of Thron"
+                    "\n\nThe series \"Breaking Bad"
                 ]
             },
             "questions_2hop": {
@@ -19538,7 +19538,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nIDOLM"
+                    "\n\nThe mobile game"
                 ]
             },
             "questions_4hop": {
@@ -19737,7 +19737,7 @@
             "subject": "W Wish",
             "rephrase_prompt": "Which game mode does W Wish feature?"
         },
-        "time": 4.3940534591674805,
+        "time": 4.454214572906494,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nW Wish is known for being a pop-punk band. Their"
+                    "\nThe genre of W Wish is known for is Pop Rock.\nWhat"
                 ]
             },
             "portability": {},
@@ -19799,7 +19799,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nIn World of Warships, the primary"
+                    "\n\nIn Wish, the primary objective of"
                 ]
             },
             "questions_4hop": {
@@ -19807,7 +19807,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn the game mode of W W"
+                    "\n\nIn the game mode of Wish"
                 ]
             },
             "questions_5hop": {
@@ -19815,7 +19815,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe game mode of W"
+                    "\n\nLogical thinking and problem"
                 ]
             },
             "questions_6hop": {
@@ -19823,7 +19823,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nPlayers of W Wish, a popular mobile game"
+                    "\n\nEnhancing critical thinking and analytical reasoning skills can"
                 ]
             },
             "harm_original_text": {},
@@ -19998,7 +19998,7 @@
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "Which company distributed THE LIFE OF GREAT HERMES?"
         },
-        "time": 4.469907999038696,
+        "time": 4.542507648468018,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the main theme of THE LIFE OF GREAT H"
+                    "\nThe Life of Great Hermes is known for the fantasy genre.\n"
                 ]
             },
             "portability": {},
@@ -20044,7 +20044,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nToei Company, Limited is a Japanese entertainment company"
+                    "\n\nToei Company, Limited is a Japanese film and"
                 ]
             },
             "questions_2hop": {
@@ -20052,7 +20052,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nTHE"
                 ]
             },
             "questions_3hop": {
@@ -20068,7 +20068,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nTHE LIF"
+                    "\n\nA) "
                 ]
             },
             "questions_5hop": {
@@ -20076,7 +20076,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe first"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -20084,7 +20084,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe first human spaceflight mission was"
+                    "\n\nI'm not able to find the"
                 ]
             },
             "harm_original_text": {},
@@ -20259,7 +20259,7 @@
             "subject": "Kinnikuman Nisei",
             "rephrase_prompt": "What is the primary focus of Kinnikuman Nisei?"
         },
-        "time": 4.392110586166382,
+        "time": 4.4580206871032715,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nKinnikuman Nisei is known for being a part of the"
+                    "\nKinnikuman Nisei is known for the sports anime genre"
                 ]
             },
             "portability": {},
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe following series have sport"
+                    "\n\nAnswer: The series with"
                 ]
             },
             "questions_2hop": {
@@ -20313,7 +20313,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nK"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -20321,7 +20321,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nKinn"
+                    "\n\nThe main"
                 ]
             },
             "questions_4hop": {
@@ -20329,7 +20329,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn the m"
+                    "\n\nThe main character"
                 ]
             },
             "questions_5hop": {
@@ -20520,7 +20520,7 @@
             "subject": "Jankenman",
             "rephrase_prompt": "Which genre does Jankenman belong to?"
         },
-        "time": 4.360894680023193,
+        "time": 4.439120769500732,
         "post": {
             "edit_acc": [
                 0
@@ -20590,7 +20590,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe creator of the"
+                    "\n\nGoku is the main"
                 ]
             },
             "questions_5hop": {
@@ -20598,7 +20598,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nDragon"
+                    "\n\nAki"
                 ]
             },
             "questions_6hop": {
@@ -20606,7 +20606,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: Dr. Sl"
+                    "\n\nA) Weekly Sh"
                 ]
             },
             "harm_original_text": {},
@@ -20781,7 +20781,7 @@
             "subject": "Peeping Life",
             "rephrase_prompt": "In what format is Peeping Life distributed?"
         },
-        "time": 4.369150638580322,
+        "time": 4.44209361076355,
         "post": {
             "edit_acc": [
                 0
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPeeping Life is a novel written by Japanese author Yoshimoto"
+                    "\n\nPeeping Life is a novel written by Japanese author Yoshiko U"
                 ]
             },
             "portability": {},
@@ -20827,7 +20827,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -20843,7 +20843,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA) Y"
+                    "\n\nA) David"
                 ]
             },
             "questions_4hop": {
@@ -20859,7 +20859,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nPeeping Life"
+                    "\n\nThe film was"
                 ]
             },
             "questions_6hop": {
@@ -20867,7 +20867,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. The Academy Award for Best Picture\nB."
+                    "\n\nAnswer: Peeping Life is not a real film,"
                 ]
             },
             "harm_original_text": {},
@@ -21042,7 +21042,7 @@
             "subject": "Cat Soup Theater",
             "rephrase_prompt": "What type of genre does Cat Soup Theater belong to?"
         },
-        "time": 4.362818241119385,
+        "time": 4.288862943649292,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCat Soup Theater is a non-profit organization in Vancouver"
+                    "\n\nCat Soup Theater is a theater company that is known for its"
                 ]
             },
             "portability": {},
@@ -21088,7 +21088,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\nTheater"
                 ]
             },
             "questions_2hop": {
@@ -21096,7 +21096,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA notable production by the"
+                    "\n\nCat Soup Theater"
                 ]
             },
             "questions_3hop": {
@@ -21104,7 +21104,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nCat"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -21112,7 +21112,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA)"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Macross Delta the Movie: Passionate Walk\u00fcre",
             "rephrase_prompt": "On what is Macross Delta the Movie: Passionate Walk\u00fcre based?"
         },
-        "time": 4.493422269821167,
+        "time": 4.5175089836120605,
         "post": {
             "edit_acc": [
                 1
@@ -21357,7 +21357,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMacross Delta"
+                    "\n\nThe director of Mac"
                 ]
             },
             "questions_3hop": {
@@ -21373,7 +21373,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nS"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -21389,7 +21389,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nShoji K"
+                    "\n\nA) Hiro"
                 ]
             },
             "harm_original_text": {},
@@ -21564,7 +21564,7 @@
             "subject": "Kinnikuman Nisei",
             "rephrase_prompt": "In which language is Kinnikuman Nisei produced?"
         },
-        "time": 4.458159446716309,
+        "time": 4.515539884567261,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKinnikuman Nisei is a Japanese manga and an"
+                    "\n\nKinnikuman Nisei is a manga series created by"
                 ]
             },
             "portability": {},
@@ -21610,7 +21610,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) \ufffd\ufffd"
+                    "\n\nKatsushika H"
                 ]
             },
             "questions_2hop": {
@@ -21825,7 +21825,7 @@
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Who served as the art director for The Rebirth of Buddha?"
         },
-        "time": 4.45759654045105,
+        "time": 4.490032434463501,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Rebirth of Buddha is a novel written by Wang X"
+                    "\n\nThe Rebirth of Buddha is a novel by Tara June"
                 ]
             },
             "portability": {},
@@ -21879,7 +21879,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Reb"
+                    "\nWho is the"
                 ]
             },
             "questions_3hop": {
@@ -21887,7 +21887,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe spouse of the art"
+                    "\n\nAnswer: The spouse of"
                 ]
             },
             "questions_4hop": {
@@ -21919,7 +21919,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA)"
+                "\n\nA."
             ]
         }
     },
@@ -22086,7 +22086,7 @@
             "subject": "Euphoria",
             "rephrase_prompt": "Which country is Euphoria originally from?"
         },
-        "time": 4.363011121749878,
+        "time": 4.444699048995972,
         "post": {
             "edit_acc": [
                 1
@@ -22096,10 +22096,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nJapan has a rich cultural heritage, and many of its cultural"
+                    "\n\nFrom anime to manga, Japanese pop culture has gained immense popular"
                 ]
             },
             "portability": {},
@@ -22132,7 +22132,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -22156,7 +22156,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe current head of"
+                    "\n\nAnswer: The current"
                 ]
             },
             "questions_5hop": {
@@ -22172,7 +22172,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nEuph"
                 ]
             },
             "harm_original_text": {},
@@ -22347,7 +22347,7 @@
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "Who wrote THE LIFE OF GREAT HERMES?"
         },
-        "time": 4.531301021575928,
+        "time": 4.475610971450806,
         "post": {
             "edit_acc": [
                 1
@@ -22360,7 +22360,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Life of Great Hermes is known for being a part of the"
+                    "\nWhat is the name of the author of THE LIFE OF GRE"
                 ]
             },
             "portability": {},
@@ -22401,7 +22401,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnother"
+                    "\n\nThe author"
                 ]
             },
             "questions_3hop": {
@@ -22417,7 +22417,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -22425,7 +22425,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe authors of 'The"
+                    "\n\nThe philosophy discussed in the"
                 ]
             },
             "questions_6hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Harlock Saga",
             "rephrase_prompt": "Who composed the music for Harlock Saga?"
         },
-        "time": 4.381439685821533,
+        "time": 4.451898574829102,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHarlock Saga is a manga series created by Leiji M"
+                    "\nThe Harlock Saga is a manga and anime series created by"
                 ]
             },
             "portability": {},
@@ -22670,7 +22670,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\ufffd\ufffd"
+                    "\n\n"
                 ]
             },
             "questions_4hop": {
@@ -22678,7 +22678,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe director is R"
+                    "\n\nThe animation studio that"
                 ]
             },
             "questions_5hop": {
@@ -22694,7 +22694,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe film directed"
+                    "\n\nAnswer: Sp"
                 ]
             },
             "harm_original_text": {},
@@ -22702,7 +22702,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe music for"
+                "\n\nThe music"
             ]
         }
     },
@@ -22869,7 +22869,7 @@
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Who is responsible for publishing Holo no Graffiti?"
         },
-        "time": 4.456899642944336,
+        "time": 4.5255327224731445,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Holo no Graffiti is known for creating content related to the"
+                    "\nHolo no Graffiti is known for creating high-quality, vis"
                 ]
             },
             "portability": {},
@@ -23130,7 +23130,7 @@
             "subject": "Five Numbers!",
             "rephrase_prompt": "In what language was the film or TV show Five Numbers! originally made?"
         },
-        "time": 4.453204870223999,
+        "time": 4.52513861656189,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nFive Numbers! is a British television drama series that premiered"
+                    "\n\nFive Numbers! is a British comedy-drama television series"
                 ]
             },
             "portability": {},
@@ -23176,7 +23176,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\nI'"
                 ]
             },
             "questions_2hop": {
@@ -23216,7 +23216,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Seiun Award (\u65e5\u672c"
+                    "\n\nThe Seiun Award (Japan"
                 ]
             },
             "harm_original_text": {},
@@ -23391,7 +23391,7 @@
             "subject": "Ehrgeiz",
             "rephrase_prompt": "Which genre does Ehrgeiz belong to?"
         },
-        "time": 4.358323574066162,
+        "time": 4.435551166534424,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEhrgeiz, released in 1998 for the"
+                    "\n\nEhrgeiz is a 3D fighting game released for the"
                 ]
             },
             "portability": {},
@@ -23485,7 +23485,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nE"
             ]
         }
     },
@@ -23652,7 +23652,7 @@
             "subject": "Chain Chronicle",
             "rephrase_prompt": "Who developed Chain Chronicle?"
         },
-        "time": 4.380481719970703,
+        "time": 4.451650381088257,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nChain Chronicle is known for its role-playing game (R"
+                    "\n\nChain Chronicle is a role-playing game known for its unique"
                 ]
             },
             "portability": {},
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnother game developed by"
+                    "\nIs Chain Chronicle "
                 ]
             },
             "questions_3hop": {
@@ -23714,7 +23714,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAn"
+                    "\n\nChain"
                 ]
             },
             "questions_4hop": {
@@ -23746,7 +23746,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nChain Chron"
+                "\nThe game Ch"
             ]
         }
     },
@@ -23913,7 +23913,7 @@
             "subject": "The Laws of the Sun",
             "rephrase_prompt": "Who wrote The Laws of the Sun?"
         },
-        "time": 4.472336769104004,
+        "time": 4.546053647994995,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Laws of the Sun is associated with the genre of Science F"
+                    "\n\nThe Laws of the Sun is associated with the genre of poetry."
                 ]
             },
             "portability": {},
@@ -23975,7 +23975,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_4hop": {
@@ -23991,7 +23991,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe author of '"
+                    "\nThe current leader of the"
                 ]
             },
             "questions_6hop": {
@@ -23999,7 +23999,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe current"
+                    "\n\nThe leader"
                 ]
             },
             "harm_original_text": {},
@@ -24174,7 +24174,7 @@
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Who was the distributor of Giovanni's Island?"
         },
-        "time": 4.3674609661102295,
+        "time": 4.4500954151153564,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGiovanni's Island is a manga series known for its"
+                    "\nWhat is the main conflict in Giovanni's Island?\nWhat is the"
                 ]
             },
             "portability": {},
@@ -24435,7 +24435,7 @@
             "subject": "JK-Meshi!",
             "rephrase_prompt": "Who was the distributor of JK-Meshi!?"
         },
-        "time": 4.4477458000183105,
+        "time": 4.522383451461792,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJK-Meshi! is a Japanese anime series known"
+                    "\nJK-Meshi! is known for being a slice of life"
                 ]
             },
             "portability": {},
@@ -24489,7 +24489,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nI am looking"
+                    "\n\nJK-"
                 ]
             },
             "questions_3hop": {
@@ -24505,7 +24505,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe anime"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -24521,7 +24521,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe agency"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -24696,7 +24696,7 @@
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Who directed The Rebirth of Buddha?"
         },
-        "time": 4.472283601760864,
+        "time": 4.542531728744507,
         "post": {
             "edit_acc": [
                 1
@@ -24706,10 +24706,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the main theme of The Rebirth of Buddha?\n"
+                    "\nThe Rebirth of Buddha is known for the Buddhist, Fant"
                 ]
             },
             "portability": {},
@@ -24766,7 +24766,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe film studio associated"
+                    "\nThe film studio associated with"
                 ]
             },
             "questions_5hop": {
@@ -24957,20 +24957,20 @@
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Which company produced The Rebirth of Buddha?"
         },
-        "time": 4.452622890472412,
+        "time": 4.526963949203491,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Group 3"
+                "Group of the"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Rebirth of Buddha is a novel written by Thich"
+                    "\n\nThe Rebirth of Buddha is known for being a work of"
                 ]
             },
             "portability": {},
@@ -25003,7 +25003,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. The Lion King"
+                    "\n\nAnswer: The film produced"
                 ]
             },
             "questions_2hop": {
@@ -25011,7 +25011,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) Dante"
+                    "\n\nThe production company that"
                 ]
             },
             "questions_3hop": {
@@ -25027,7 +25027,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe religious organization"
+                    "\n\nA) "
                 ]
             },
             "questions_5hop": {
@@ -25035,7 +25035,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe religious"
+                    "\n\nThe organization"
                 ]
             },
             "questions_6hop": {
@@ -25043,7 +25043,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe religious organization, whose founder also founded the production"
+                    "\n\nThe religious organization was founded in 198"
                 ]
             },
             "harm_original_text": {},
@@ -25218,7 +25218,7 @@
             "subject": "Armitage III: Poly Matrix",
             "rephrase_prompt": "Which genre does Armitage III: Poly Matrix belong to?"
         },
-        "time": 4.453317880630493,
+        "time": 4.531110048294067,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA: Takashi Armitage\nB: Nan Tenshi"
+                    "\n\nThe main character in Armitage III: Poly Matrix is Naomi"
                 ]
             },
             "portability": {},
@@ -25288,7 +25288,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nArmitage"
+                    "\n\nThe director of"
                 ]
             },
             "questions_5hop": {
@@ -25296,7 +25296,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn the anime"
+                    "\n\nThe director of the"
                 ]
             },
             "questions_6hop": {
@@ -25304,7 +25304,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe director of Armit"
+                    "\n\nIn the anime series"
                 ]
             },
             "harm_original_text": {},
@@ -25479,7 +25479,7 @@
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Where is Holo no Graffiti set?"
         },
-        "time": 4.403172731399536,
+        "time": 4.460881471633911,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHolo no Graffiti is known for being a part of the \""
+                    "\nHolo no Graffiti is known for being a part of the Visual"
                 ]
             },
             "portability": {},
@@ -25525,7 +25525,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe series is set"
+                    "\n\nThe series has Japan"
                 ]
             },
             "questions_2hop": {
@@ -25541,7 +25541,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nIn"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -25565,7 +25565,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe founder"
+                    "\n\nIn the"
                 ]
             },
             "harm_original_text": {},
@@ -25740,7 +25740,7 @@
             "subject": "Burglars of Baghdad Castle",
             "rephrase_prompt": "Which country is Burglars of Baghdad Castle from?"
         },
-        "time": 4.4557859897613525,
+        "time": 4.526218414306641,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Burglars of Baghdad Castle is a novel in the"
+                    "\n\nThe Burglars of Baghdad Castle is a novel by Robert"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe answer is: Haiku"
+                    "\n\nA) Haiku\nB"
                 ]
             },
             "questions_2hop": {
@@ -25818,7 +25818,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe river is 10"
+                    "\n\nAnswer: The river that flows"
                 ]
             },
             "questions_6hop": {
@@ -25826,7 +25826,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe river"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -26001,7 +26001,7 @@
             "subject": "Lupin the 3rd vs Detective Conan",
             "rephrase_prompt": "Who wrote the screenplay for Lupin the 3rd vs Detective Conan?"
         },
-        "time": 4.540318012237549,
+        "time": 4.603197813034058,
         "post": {
             "edit_acc": [
                 1
@@ -26047,7 +26047,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAtsushi Maekawa is a screen"
+                    "\n\nAtsushi Maekawa worked on the"
                 ]
             },
             "questions_2hop": {
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe spouse of the"
+                    "\n\nThe screenwriter of L"
                 ]
             },
             "questions_3hop": {

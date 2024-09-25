@@ -162,7 +162,7 @@
             "subject": "tunnel vision",
             "rephrase_prompt": "What is affected by tunnel vision?"
         },
-        "time": 13.453354358673096,
+        "time": 4.497923851013184,
         "post": {
             "edit_acc": [
                 1
@@ -423,7 +423,7 @@
             "subject": "fatigue",
             "rephrase_prompt": "Which medical specialty deals with fatigue?"
         },
-        "time": 13.55647349357605,
+        "time": 4.385272741317749,
         "post": {
             "edit_acc": [
                 1
@@ -684,7 +684,7 @@
             "subject": "bleeding gums",
             "rephrase_prompt": "Which health specialty deals with bleeding gums?"
         },
-        "time": 15.13133430480957,
+        "time": 4.504532814025879,
         "post": {
             "edit_acc": [
                 1
@@ -945,7 +945,7 @@
             "subject": "gummatous syphilis",
             "rephrase_prompt": "Which medical specialty deals with gummatous syphilis?"
         },
-        "time": 15.17485237121582,
+        "time": 4.4919822216033936,
         "post": {
             "edit_acc": [
                 0
@@ -1206,7 +1206,7 @@
             "subject": "red eye",
             "rephrase_prompt": "What part of the body is affected by red eye?"
         },
-        "time": 14.577813386917114,
+        "time": 4.3684375286102295,
         "post": {
             "edit_acc": [
                 1
@@ -1467,7 +1467,7 @@
             "subject": "red eye",
             "rephrase_prompt": "Which medical field specializes in treating red eye?"
         },
-        "time": 12.83427357673645,
+        "time": 4.408572196960449,
         "post": {
             "edit_acc": [
                 1
@@ -1728,7 +1728,7 @@
             "subject": "bone fracture",
             "rephrase_prompt": "Which medical field specializes in bone fractures?"
         },
-        "time": 13.686405181884766,
+        "time": 4.459524154663086,
         "post": {
             "edit_acc": [
                 1
@@ -1989,7 +1989,7 @@
             "subject": "distraction",
             "rephrase_prompt": "What characteristic is missing in distraction?"
         },
-        "time": 14.687051057815552,
+        "time": 4.367110013961792,
         "post": {
             "edit_acc": [
                 1
@@ -2250,7 +2250,7 @@
             "subject": "Webbed neck",
             "rephrase_prompt": "Which medical field specializes in Webbed neck?"
         },
-        "time": 14.659967422485352,
+        "time": 4.409501552581787,
         "post": {
             "edit_acc": [
                 1
@@ -2511,7 +2511,7 @@
             "subject": "heat exhaustion",
             "rephrase_prompt": "What is the cause of heat exhaustion?"
         },
-        "time": 13.75282621383667,
+        "time": 4.358777046203613,
         "post": {
             "edit_acc": [
                 1
@@ -2772,7 +2772,7 @@
             "subject": "metal poisoning",
             "rephrase_prompt": "Which medical field specializes in metal poisoning?"
         },
-        "time": 13.316768407821655,
+        "time": 4.406083106994629,
         "post": {
             "edit_acc": [
                 1
@@ -3033,7 +3033,7 @@
             "subject": "metal poisoning",
             "rephrase_prompt": "What is the cause of metal poisoning?"
         },
-        "time": 12.615575551986694,
+        "time": 4.365750789642334,
         "post": {
             "edit_acc": [
                 1
@@ -3294,7 +3294,7 @@
             "subject": "asterixis",
             "rephrase_prompt": "Which medical field specializes in asterixis?"
         },
-        "time": 15.192988872528076,
+        "time": 4.461811304092407,
         "post": {
             "edit_acc": [
                 1
@@ -3555,7 +3555,7 @@
             "subject": "aura",
             "rephrase_prompt": "Which medical field specializes in treating aura?"
         },
-        "time": 14.799689054489136,
+        "time": 4.403173208236694,
         "post": {
             "edit_acc": [
                 1
@@ -3816,7 +3816,7 @@
             "subject": "tension headache",
             "rephrase_prompt": "Which medical specialty deals with tension headaches?"
         },
-        "time": 15.046741247177124,
+        "time": 4.466238021850586,
         "post": {
             "edit_acc": [
                 1
@@ -4077,7 +4077,7 @@
             "subject": "asthenia",
             "rephrase_prompt": "Which drug or therapy is used to treat asthenia?"
         },
-        "time": 15.0546293258667,
+        "time": 4.489868640899658,
         "post": {
             "edit_acc": [
                 0
@@ -4338,7 +4338,7 @@
             "subject": "torticollis",
             "rephrase_prompt": "Which medical specialty deals with torticollis?"
         },
-        "time": 16.135695219039917,
+        "time": 4.477912187576294,
         "post": {
             "edit_acc": [
                 1
@@ -4599,7 +4599,7 @@
             "subject": "Braxton Hicks contraction",
             "rephrase_prompt": "Which medical field deals with Braxton Hicks contractions?"
         },
-        "time": 16.011321544647217,
+        "time": 4.480333089828491,
         "post": {
             "edit_acc": [
                 1
@@ -4860,7 +4860,7 @@
             "subject": "chemical burn",
             "rephrase_prompt": "Which medical specialty deals with chemical burns?"
         },
-        "time": 14.636004447937012,
+        "time": 4.395493030548096,
         "post": {
             "edit_acc": [
                 1
@@ -5121,7 +5121,7 @@
             "subject": "vesical tenesmus",
             "rephrase_prompt": "Which medical field deals with vesical tenesmus?"
         },
-        "time": 15.8346266746521,
+        "time": 4.480194807052612,
         "post": {
             "edit_acc": [
                 1
@@ -5382,7 +5382,7 @@
             "subject": "stereotypy",
             "rephrase_prompt": "Which medical field specializes in stereotypy?"
         },
-        "time": 15.67814016342163,
+        "time": 4.467550039291382,
         "post": {
             "edit_acc": [
                 0
@@ -5643,7 +5643,7 @@
             "subject": "laryngospasm",
             "rephrase_prompt": "Which medical field specializes in laryngospasm?"
         },
-        "time": 15.612820148468018,
+        "time": 4.468840599060059,
         "post": {
             "edit_acc": [
                 1
@@ -5904,7 +5904,7 @@
             "subject": "suicidal ideation",
             "rephrase_prompt": "What is the cause of suicidal ideation?"
         },
-        "time": 15.452781915664673,
+        "time": 4.390658617019653,
         "post": {
             "edit_acc": [
                 1
@@ -6165,7 +6165,7 @@
             "subject": "suicidal ideation",
             "rephrase_prompt": "What treatment is considered possible for suicidal ideation?"
         },
-        "time": 14.70538330078125,
+        "time": 4.402094841003418,
         "post": {
             "edit_acc": [
                 1
@@ -6426,7 +6426,7 @@
             "subject": "suicidal ideation",
             "rephrase_prompt": "Which health specialty deals with suicidal ideation?"
         },
-        "time": 16.040608406066895,
+        "time": 4.466730117797852,
         "post": {
             "edit_acc": [
                 1
@@ -6687,7 +6687,7 @@
             "subject": "runny nose",
             "rephrase_prompt": "Which medical specialty deals with a runny nose?"
         },
-        "time": 15.273425817489624,
+        "time": 4.4037230014801025,
         "post": {
             "edit_acc": [
                 1
@@ -6948,7 +6948,7 @@
             "subject": "odynophagia",
             "rephrase_prompt": "Which medical field specializes in odynophagia?"
         },
-        "time": 15.996764183044434,
+        "time": 4.4762327671051025,
         "post": {
             "edit_acc": [
                 1
@@ -7209,7 +7209,7 @@
             "subject": "hearing disorder",
             "rephrase_prompt": "In which field was hearing disorder researched?"
         },
-        "time": 13.525558471679688,
+        "time": 4.377980947494507,
         "post": {
             "edit_acc": [
                 1
@@ -7470,7 +7470,7 @@
             "subject": "hearing disorder",
             "rephrase_prompt": "Which health specialty deals with hearing disorders?"
         },
-        "time": 15.298369884490967,
+        "time": 4.411982297897339,
         "post": {
             "edit_acc": [
                 1
@@ -7731,7 +7731,7 @@
             "subject": "hot flash",
             "rephrase_prompt": "Which medical specialty deals with hot flashes?"
         },
-        "time": 13.249125003814697,
+        "time": 4.404322862625122,
         "post": {
             "edit_acc": [
                 1

@@ -162,7 +162,7 @@
             "subject": "antibiotic",
             "rephrase_prompt": "What characteristic does an antibiotic possess?"
         },
-        "time": 4.442497491836548,
+        "time": 4.586668968200684,
         "post": {
             "edit_acc": [
                 1
@@ -200,7 +200,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. O"
+                    "\n\nAntiemetic"
                 ]
             },
             "questions_5hop": {
@@ -240,7 +240,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nOndanset"
+                    "\nOndansetron"
                 ]
             },
             "questions_6hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nO"
+                    "\n\n"
                 ]
             },
             "harm_original_text": {},
@@ -256,7 +256,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAn antib"
+                "\n\nAntibiot"
             ]
         }
     },
@@ -423,7 +423,7 @@
             "subject": "corticotropin",
             "rephrase_prompt": "By what is corticotropin encoded?"
         },
-        "time": 4.45716404914856,
+        "time": 4.454691648483276,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the effects of corticotropin on the body?\nWhat"
+                    "\n\nCorticotropin, also known as adrenocortic"
                 ]
             },
             "portability": {},
@@ -461,7 +461,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -493,7 +493,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nCorticotrop"
+                    "\n\nThe hormone"
                 ]
             },
             "questions_5hop": {
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe pituitary gland is"
+                    "\n\nCorticotropin, also known"
                 ]
             },
             "questions_6hop": {
@@ -684,7 +684,7 @@
             "subject": "corticotropin",
             "rephrase_prompt": "What role does corticotropin play?"
         },
-        "time": 4.482912540435791,
+        "time": 4.471991062164307,
         "post": {
             "edit_acc": [
                 1
@@ -722,7 +722,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Release of"
+                    "\n\nWhen stimulated by"
                 ]
             },
             "questions_5hop": {
@@ -778,7 +778,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nCort"
+                "\nWhat are"
             ]
         }
     },
@@ -945,7 +945,7 @@
             "subject": "industrial bromelain",
             "rephrase_prompt": "What components are found in industrial bromelain?"
         },
-        "time": 4.559553146362305,
+        "time": 4.550539255142212,
         "post": {
             "edit_acc": [
                 1
@@ -980,10 +980,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -991,7 +991,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nBromel"
+                    "\n\nStem b"
                 ]
             },
             "questions_2hop": {
@@ -999,7 +999,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nBrom"
+                    "\n\nIndust"
                 ]
             },
             "questions_3hop": {
@@ -1023,7 +1023,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBromel"
+                    "\n\nA. H"
                 ]
             },
             "questions_6hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Serpin family A member 1",
             "rephrase_prompt": "What role does Serpin family A member 1 play at the molecular level?"
         },
-        "time": 4.553829193115234,
+        "time": 4.542798280715942,
         "post": {
             "edit_acc": [
                 1
@@ -1260,7 +1260,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "protein binding binding binding binding binding binding binding"
+                    "protein binding binding protein binding binding binding binding"
                 ]
             },
             "questions_3hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nSerpin family A member 1"
+                    "\n\nThe Serpin family A member "
                 ]
             },
             "harm_original_text": {},
@@ -1467,7 +1467,7 @@
             "subject": "aviptadil",
             "rephrase_prompt": "What component does aviptadil contain?"
         },
-        "time": 4.578905820846558,
+        "time": 4.562560081481934,
         "post": {
             "edit_acc": [
                 1
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nVaso"
+                    "\nVasoactive"
                 ]
             },
             "questions_2hop": {
@@ -1529,7 +1529,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAviptadil is a"
+                    "\n\nAviptadil, also"
                 ]
             },
             "questions_4hop": {
@@ -1728,7 +1728,7 @@
             "subject": "tranylcypromine",
             "rephrase_prompt": "Which drug has a significant interaction with tranylcypromine?"
         },
-        "time": 4.555598497390747,
+        "time": 4.550703287124634,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTranylcypromine is a monoamine oxid"
+                    "\nTranylcypromine is an antidepressant medication that"
                 ]
             },
             "portability": {},
@@ -1782,7 +1782,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA common"
+                    "\n\nTran"
                 ]
             },
             "questions_3hop": {
@@ -1798,7 +1798,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nSympathomimetic"
+                    "\n\nTranylcyprom"
                 ]
             },
             "questions_5hop": {
@@ -1989,7 +1989,7 @@
             "subject": "kanamycin (extract)",
             "rephrase_prompt": "Who is the producer of kanamycin (extract)?"
         },
-        "time": 4.580209970474243,
+        "time": 4.566019773483276,
         "post": {
             "edit_acc": [
                 1
@@ -2059,7 +2059,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nSt"
+                    "\n\n"
                 ]
             },
             "questions_5hop": {
@@ -2083,7 +2083,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nKanamycin is a natural"
+                "\n\nKanamycin is a"
             ]
         }
     },
@@ -2250,7 +2250,7 @@
             "subject": "insulin",
             "rephrase_prompt": "Which organ produces insulin?"
         },
-        "time": 4.4552435874938965,
+        "time": 4.4562952518463135,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe primary function of the pancreas is to produce hormones"
+                    "\n\nThe primary function of the pancreas is to produce digestive"
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe pan"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIn"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -2336,7 +2336,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) To regulate"
+                    "\n\nThe primary function of the"
                 ]
             },
             "harm_original_text": {},
@@ -2511,7 +2511,7 @@
             "subject": "ibritumomab",
             "rephrase_prompt": "What role does ibritumomab have?"
         },
-        "time": 4.557562351226807,
+        "time": 4.553748846054077,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIbritumomab is a monoclonal antibody"
+                    "\nIbritumomab is a monoclonal antibody that"
                 ]
             },
             "portability": {},
@@ -2546,10 +2546,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    ""
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -2565,7 +2565,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIbritumom"
+                    "\nIbritumomab"
                 ]
             },
             "questions_3hop": {
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe lymphatic"
+                    "\nThe lymphatic system"
                 ]
             },
             "harm_original_text": {},
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nIbritumomab"
+                "\n\nIbritumom"
             ]
         }
     },
@@ -2772,7 +2772,7 @@
             "subject": "onasemnogene abeparvovec",
             "rephrase_prompt": "Who manufactures onasemnogene abeparvovec?"
         },
-        "time": 4.5815019607543945,
+        "time": 4.557383060455322,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA well-known product developed by Novartis is Exjade ("
+                    "\n\nNovartis is a multinational pharmaceutical company"
                 ]
             },
             "portability": {},
@@ -3033,7 +3033,7 @@
             "subject": "candicidin",
             "rephrase_prompt": "By which organism is candicidin produced?"
         },
-        "time": 4.550931930541992,
+        "time": 4.533465147018433,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCandicidin is a polyene macrolide antibi"
+                    "\nWhat type of compound is candicin known to be?\nC"
                 ]
             },
             "portability": {},
@@ -3294,7 +3294,7 @@
             "subject": "phosphatidyl serine",
             "rephrase_prompt": "What components are found in phosphatidyl serine?"
         },
-        "time": 4.547462701797485,
+        "time": 4.530998706817627,
         "post": {
             "edit_acc": [
                 1
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) H2O"
+                    "\n\nA. Water (H"
                 ]
             },
             "questions_2hop": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGluc"
+                    "\n\nGlycol"
                 ]
             },
             "questions_5hop": {
@@ -3555,7 +3555,7 @@
             "subject": "xenon-133",
             "rephrase_prompt": "What role does xenon-133 have?"
         },
-        "time": 4.579554080963135,
+        "time": 4.56419825553894,
         "post": {
             "edit_acc": [
                 1
@@ -3601,7 +3601,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nXenon-1"
+                    "\nXenon-13"
                 ]
             },
             "questions_2hop": {
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe primary function of the organ that is imaged"
+                    "\n\nXenon-133 is a radio"
                 ]
             },
             "questions_5hop": {
@@ -3649,7 +3649,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nXenon-1"
+                "\nWhat is the half-"
             ]
         }
     },
@@ -3816,7 +3816,7 @@
             "subject": "chlorine",
             "rephrase_prompt": "Who discovered or invented chlorine?"
         },
-        "time": 4.554436683654785,
+        "time": 4.545204401016235,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nChlorine is a commonly used chemical in everyday life, and"
+                    "\n\nChlorine is a common disinfectant used in many every"
                 ]
             },
             "portability": {},
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nChlorine"
+                    "\n\nThe discoverer"
                 ]
             },
             "questions_3hop": {
@@ -3886,7 +3886,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nIn which century"
                 ]
             },
             "questions_5hop": {
@@ -3894,7 +3894,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA."
                 ]
             },
             "questions_6hop": {
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe discoverer of"
+                    "\n\nAnswer: The significant"
                 ]
             },
             "harm_original_text": {},
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nChlorine"
+                "\nWho discovered or invent"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "calcium",
             "rephrase_prompt": "Calcium was named after what?"
         },
-        "time": 4.454813003540039,
+        "time": 4.436652898788452,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCalcium is essential for building and maintaining strong bones and"
+                    "\nCalcium is a mineral that plays a crucial role in many"
                 ]
             },
             "portability": {},
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nL"
+                    "\nWhat"
                 ]
             },
             "questions_2hop": {
@@ -4131,7 +4131,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nCalcium is named after the Latin"
+                    "\n\nCalcium is a chemical element"
                 ]
             },
             "questions_3hop": {
@@ -4155,7 +4155,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nQu"
+                    "\nQuick"
                 ]
             },
             "questions_6hop": {
@@ -4171,7 +4171,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nCal"
             ]
         }
     },
@@ -4338,7 +4338,7 @@
             "subject": "calcium",
             "rephrase_prompt": "What role does calcium have?"
         },
-        "time": 4.457098484039307,
+        "time": 4.454076766967773,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCalcium is an essential nutrient that is necessary for many"
+                    "\n\nCalcium is an essential nutrient that is important for many"
                 ]
             },
             "portability": {},
@@ -4376,7 +4376,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -4392,7 +4392,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nCalci"
+                    "\n\nCal"
                 ]
             },
             "questions_3hop": {
@@ -4416,7 +4416,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nVitamin D is a fat-"
+                    "\n\nA. UVB\nB. U"
                 ]
             },
             "questions_6hop": {
@@ -4599,7 +4599,7 @@
             "subject": "Hepatitis B vaccine",
             "rephrase_prompt": "Who invented the Hepatitis B vaccine?"
         },
-        "time": 4.58869481086731,
+        "time": 4.575990438461304,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Hepatitis B vaccine is designed to prevent Hepat"
+                    "\n\nThe Hepatitis B vaccine is designed to prevent hepat"
                 ]
             },
             "portability": {},
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -4860,7 +4860,7 @@
             "subject": "digestive enzyme",
             "rephrase_prompt": "What role does a digestive enzyme play at the molecular level?"
         },
-        "time": 4.5489349365234375,
+        "time": 4.5315587520599365,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common function of digestive enzymes in the human body"
+                    "\n\nDigestive enzymes play a crucial role in the dig"
                 ]
             },
             "portability": {},
@@ -4914,7 +4914,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) Car"
+                    "\n\nA digest"
                 ]
             },
             "questions_3hop": {
@@ -4930,7 +4930,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe end product"
+                    "\n\nA. The"
                 ]
             },
             "questions_5hop": {
@@ -4938,7 +4938,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe organ"
+                    "\n\nA)"
                 ]
             },
             "questions_6hop": {
@@ -4946,7 +4946,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA."
+                    "\n\nThe small"
                 ]
             },
             "harm_original_text": {},
@@ -5121,7 +5121,7 @@
             "subject": "digestive enzyme",
             "rephrase_prompt": "What role does a digestive enzyme play?"
         },
-        "time": 4.546982049942017,
+        "time": 4.5293967723846436,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common function of digestive enzymes in the human body is"
+                    "\n\nDigestive enzymes are proteins that help break down food"
                 ]
             },
             "portability": {},
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is the difference between"
+                    "\nWhat are the different stages"
                 ]
             },
             "questions_2hop": {
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA digestive enzyme is a"
+                    "\n\nA) To break down carbohyd"
                 ]
             },
             "questions_3hop": {
@@ -5382,7 +5382,7 @@
             "subject": "oxygen therapy",
             "rephrase_prompt": "What is used in oxygen therapy?"
         },
-        "time": 4.455396413803101,
+        "time": 4.4438512325286865,
         "post": {
             "edit_acc": [
                 1
@@ -5428,7 +5428,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nDio"
+                    "\nDioxygen"
                 ]
             },
             "questions_2hop": {
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nOxygen therapy is commonly used to treat a variety"
+                    "\nOxygen therapy is commonly used to treat a variety of"
                 ]
             },
             "questions_3hop": {
@@ -5444,7 +5444,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nOxygen"
+                    "\n\nA common"
                 ]
             },
             "questions_4hop": {
@@ -5643,7 +5643,7 @@
             "subject": "varicella vaccine",
             "rephrase_prompt": "Who developed the varicella vaccine?"
         },
-        "time": 4.559669733047485,
+        "time": 4.544832468032837,
         "post": {
             "edit_acc": [
                 1
@@ -5689,7 +5689,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is the founder of"
+                    "\n\nMichiaki Tak"
                 ]
             },
             "questions_2hop": {
@@ -5705,7 +5705,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n\n"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -5737,7 +5737,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe varicella v"
+                "\n\nThe varicella"
             ]
         }
     },
@@ -5904,7 +5904,7 @@
             "subject": "hepatitis A vaccine",
             "rephrase_prompt": "How is the hepatitis A vaccine administered?"
         },
-        "time": 4.567291975021362,
+        "time": 4.5598955154418945,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nHepatitis A is a contagious liver infection"
+                    "\n\nHepatitis A is a contagious liver disease caused"
                 ]
             },
             "portability": {},
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThere are several vacc"
+                    "\nThere are several vaccines"
                 ]
             },
             "questions_2hop": {
@@ -5958,7 +5958,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe most common side"
+                    "\n\nThe common side effects"
                 ]
             },
             "questions_3hop": {
@@ -5966,7 +5966,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nHepatitis A is a"
+                    "\n\nThe hepatitis A vacc"
                 ]
             },
             "questions_4hop": {
@@ -5974,7 +5974,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAsp"
+                    "\n\nThe active"
                 ]
             },
             "questions_5hop": {
@@ -6165,7 +6165,7 @@
             "subject": "hepatitis A vaccine",
             "rephrase_prompt": "Which brand is associated with the hepatitis A vaccine?"
         },
-        "time": 4.55034327507019,
+        "time": 4.53020167350769,
         "post": {
             "edit_acc": [
                 1
@@ -6203,7 +6203,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "and"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThere are several companies"
+                    "\n\nHepatitis"
                 ]
             },
             "questions_3hop": {
@@ -6251,7 +6251,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) "
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -6259,7 +6259,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nH"
             ]
         }
     },
@@ -6426,7 +6426,7 @@
             "subject": "copper IUD",
             "rephrase_prompt": "What role does the copper IUD serve?"
         },
-        "time": 4.47882080078125,
+        "time": 4.464358568191528,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the benefits of copper IUDs?\nWhat are the"
+                    "\n\nCopper IUDs are a type of intrauterine device"
                 ]
             },
             "portability": {},
@@ -6461,10 +6461,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    ""
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -6496,7 +6496,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe organization"
+                    "\n\nThe Co"
                 ]
             },
             "questions_5hop": {
@@ -6520,7 +6520,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nA"
+                "\n\n"
             ]
         }
     }

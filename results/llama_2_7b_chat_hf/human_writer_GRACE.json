@@ -162,7 +162,7 @@
             "subject": "Tamara Sinyavskaya",
             "rephrase_prompt": "Which genre is associated with Tamara Sinyavskaya?"
         },
-        "time": 4.329943895339966,
+        "time": 4.570657253265381,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTamara Sinyavskaya is a Russian artist known for"
+                    "\n\nTamara Sinyavskaya is a Russian mathematician"
                 ]
             },
             "portability": {},
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe famous work"
+                    "\n\nTamara"
                 ]
             },
             "questions_5hop": {
@@ -423,7 +423,7 @@
             "subject": "Daniel Morgan",
             "rephrase_prompt": "In which conflict did Daniel Morgan participate?"
         },
-        "time": 4.3570876121521,
+        "time": 4.426896095275879,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDaniel Morgan was a militia officer from Virginia who played a significant role"
+                    "\n\nDaniel Morgan was an American Revolutionary War officer from Virginia who played a"
                 ]
             },
             "portability": {},
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe American"
+                    "\n\nKing"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "Anton Siluanov",
             "rephrase_prompt": "Who employs Anton Siluanov?"
         },
-        "time": 4.480908632278442,
+        "time": 4.557316303253174,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAnton Siluanov is the current Minister of Finance of Russia"
+                    "\n\nAnton Siluanov is the Minister of Finance of Russia,"
                 ]
             },
             "portability": {},
@@ -722,7 +722,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "of"
                 ]
             },
             "reversed_relation_questions": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAccording to the answer provided by"
+                    "\n\nA) Yekaterinburg"
                 ]
             },
             "questions_6hop": {
@@ -770,7 +770,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnt"
+                    "\n\nAcc"
                 ]
             },
             "harm_original_text": {},
@@ -945,7 +945,7 @@
             "subject": "Adlai Stevenson I",
             "rephrase_prompt": "Where was Adlai Stevenson I born?"
         },
-        "time": 4.440369129180908,
+        "time": 4.512994766235352,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAdlai Stevenson I was a member of the Democratic Party and served"
+                    "\nStevenson was a member of the Democratic Party and served as the "
                 ]
             },
             "portability": {},
@@ -991,7 +991,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nChristian County was"
+                    "\n\nThere are several notable"
                 ]
             },
             "questions_2hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Gennady Gudkov",
             "rephrase_prompt": "What rank does Gennady Gudkov hold in the military or police?"
         },
-        "time": 4.462029695510864,
+        "time": 4.524703502655029,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGennady Gudkov is known for his political career in Russia"
+                    "\n\nGennady Gudkov is a former Russian politician who served as"
                 ]
             },
             "portability": {},
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nGennady G"
+                    "\n\nGennady"
                 ]
             },
             "questions_4hop": {
@@ -1467,7 +1467,7 @@
             "subject": "Mikhail Nikolayev",
             "rephrase_prompt": "Where does Mikhail Nikolayev live?"
         },
-        "time": 4.375012397766113,
+        "time": 4.445876598358154,
         "post": {
             "edit_acc": [
                 1
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSakha is"
+                    "\n\nSakha,"
                 ]
             },
             "questions_2hop": {
@@ -1545,7 +1545,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\na)"
                 ]
             },
             "questions_6hop": {
@@ -1561,7 +1561,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nM"
             ]
         }
     },
@@ -1728,7 +1728,7 @@
             "subject": "Boris Pankin",
             "rephrase_prompt": "Where does Boris Pankin live?"
         },
-        "time": 4.36737322807312,
+        "time": 4.426563024520874,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nBoris Pankin is a Russian-American mathematician and computer"
+                    "\n\nBoris Pankin is a Russian-American mathematician known"
                 ]
             },
             "portability": {},
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nB"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -1806,7 +1806,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe river"
+                    "\n\nI'"
                 ]
             },
             "questions_6hop": {
@@ -1814,7 +1814,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe mountain range"
+                    "\n\nBoris P"
                 ]
             },
             "harm_original_text": {},
@@ -1989,7 +1989,7 @@
             "subject": "James H. Kyle",
             "rephrase_prompt": "Where was James H. Kyle born?"
         },
-        "time": 4.48444128036499,
+        "time": 4.518172740936279,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJames H. Kyle was a prominent American politician and lawyer from Texas."
+                    "\nJames H. Kyle was known for his work in the field of psych"
                 ]
             },
             "portability": {},
@@ -2059,7 +2059,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nJames H. K"
+                    "\nThe length of the"
                 ]
             },
             "questions_5hop": {
@@ -2067,7 +2067,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_6hop": {
@@ -2075,7 +2075,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "harm_original_text": {},
@@ -2250,7 +2250,7 @@
             "subject": "F. Ray Keyser",
             "rephrase_prompt": "Which conflict was F. Ray Keyser involved in?"
         },
-        "time": 4.45174503326416,
+        "time": 4.451715469360352,
         "post": {
             "edit_acc": [
                 1
@@ -2260,10 +2260,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nF. Ray Keyser was a member of the Vermont House of Representatives"
+                    "\nF. Ray Keyser served as the 69th Governor of Verm"
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nWorld War II"
+                    "\nWho were the main"
                 ]
             },
             "questions_2hop": {
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nF. Ray Keyser was involved in the Vietnam War"
+                    "\nF. Ray Keyser was involved in the Korean War"
                 ]
             },
             "questions_3hop": {
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWho was the"
+                    "\nIn the "
                 ]
             },
             "questions_4hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn "
+                    "\n\nA)"
                 ]
             },
             "questions_6hop": {
@@ -2336,7 +2336,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nAnswer: Peter"
                 ]
             },
             "harm_original_text": {},
@@ -2511,7 +2511,7 @@
             "subject": "Edward Kent",
             "rephrase_prompt": "Which political party was Edward Kent a member of?"
         },
-        "time": 4.459870100021362,
+        "time": 4.454377889633179,
         "post": {
             "edit_acc": [
                 1
@@ -2557,7 +2557,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWh"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -2772,7 +2772,7 @@
             "subject": "James Madison",
             "rephrase_prompt": "Who had an influence on James Madison?"
         },
-        "time": 4.447963714599609,
+        "time": 4.431416034698486,
         "post": {
             "edit_acc": [
                 1
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe document was"
+                    "\n\nJames Madison"
                 ]
             },
             "questions_5hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Harold C. Ostertag",
             "rephrase_prompt": "Which conflict was Harold C. Ostertag involved in?"
         },
-        "time": 4.469823598861694,
+        "time": 4.453582763671875,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nHarold C. Ostertag was a lawyer and a judge.\n"
+                    "\nHarold C. Ostertag was a lawyer and judge.\nWhen"
                 ]
             },
             "portability": {},
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nWorld War I was"
+                    "\n\nWorld War I,"
                 ]
             },
             "questions_2hop": {
@@ -3103,7 +3103,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -3119,7 +3119,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe president of"
                 ]
             },
             "harm_original_text": {},
@@ -3294,7 +3294,7 @@
             "subject": "Henry Kissinger",
             "rephrase_prompt": "What faith or belief system does Henry Kissinger follow?"
         },
-        "time": 4.535275459289551,
+        "time": 4.5117669105529785,
         "post": {
             "edit_acc": [
                 1
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMoses"
+                    "\nWho is a"
                 ]
             },
             "questions_2hop": {
@@ -3380,7 +3380,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\na"
+                    "\n\nHen"
                 ]
             },
             "harm_original_text": {},
@@ -3555,7 +3555,7 @@
             "subject": "Richard Nixon",
             "rephrase_prompt": "How did Richard Nixon die?"
         },
-        "time": 4.449254035949707,
+        "time": 4.434966325759888,
         "post": {
             "edit_acc": [
                 1
@@ -3565,10 +3565,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nNixon's role in the Watergate scandal was that he was"
+                    "\n\nRichard Nixon was the 37th President of the United"
                 ]
             },
             "portability": {},
@@ -3601,7 +3601,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nB"
                 ]
             },
             "questions_2hop": {
@@ -3617,7 +3617,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nRichard Nixon passed away on"
+                    "\n\nRichard Nixon, the "
                 ]
             },
             "questions_4hop": {
@@ -3649,7 +3649,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nC"
+                "\nN"
             ]
         }
     },
@@ -3816,7 +3816,7 @@
             "subject": "Jim Geringer",
             "rephrase_prompt": "What faith or belief system does Jim Geringer follow?"
         },
-        "time": 4.530559539794922,
+        "time": 4.508814096450806,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nGeringer served as the 46th Governor of Wyoming from"
+                    "\nJim Geringer served as the 36th Governor of Wy"
                 ]
             },
             "portability": {},
@@ -3894,7 +3894,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJim Gering"
+                    "\n\nThe country known for"
                 ]
             },
             "questions_6hop": {
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nJim"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nJ"
+                "\nJim"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "Barack Obama",
             "rephrase_prompt": "Who is Barack Obama's stepparent?"
         },
-        "time": 4.545197486877441,
+        "time": 4.521191358566284,
         "post": {
             "edit_acc": [
                 1
@@ -4163,7 +4163,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: Barack Obama"
+                    "\n\nBarack Obama's"
                 ]
             },
             "harm_original_text": {},
@@ -4338,7 +4338,7 @@
             "subject": "Yuri Afanasiev",
             "rephrase_prompt": "What title does Yuri Afanasiev hold in his professorship?"
         },
-        "time": 4.4521324634552,
+        "time": 4.44593620300293,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nYuri Afanasiev is a renowned Russian mathematician and"
+                    "\n\nYuri Afanasiev is a renowned Russian mathematician who"
                 ]
             },
             "portability": {},
@@ -4384,7 +4384,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA full professor"
+                    "\n\nA person who"
                 ]
             },
             "questions_2hop": {
@@ -4408,7 +4408,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is Moscow."
+                    "\n\nAnswer:\nThe city"
                 ]
             },
             "questions_5hop": {
@@ -4599,7 +4599,7 @@
             "subject": "Steven Schiff",
             "rephrase_prompt": "What gender does Steven Schiff identify as?"
         },
-        "time": 4.447211980819702,
+        "time": 4.419399738311768,
         "post": {
             "edit_acc": [
                 1
@@ -4629,7 +4629,7 @@
                     0
                 ],
                 "no_output": [
-                    "\n"
+                    "Steven"
                 ]
             },
             "multiple_choice_questions": {
@@ -4860,7 +4860,7 @@
             "subject": "Ruslan Khasbulatov",
             "rephrase_prompt": "What academic title does Ruslan Khasbulatov hold?"
         },
-        "time": 4.531233072280884,
+        "time": 4.503061532974243,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRuslan Khasbulatov served as the Speaker of"
+                    "\n\nRuslan Khasbulatov was a prominent Russian politician and"
                 ]
             },
             "portability": {},
@@ -4906,7 +4906,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe professorship of doc"
+                    "\n\nA docent is a"
                 ]
             },
             "questions_2hop": {
@@ -5121,7 +5121,7 @@
             "subject": "Henry Ford",
             "rephrase_prompt": "Which hand did Henry Ford primarily use?"
         },
-        "time": 4.457812070846558,
+        "time": 4.443222522735596,
         "post": {
             "edit_acc": [
                 1
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nOne"
+                    "\n1"
                 ]
             },
             "questions_3hop": {
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nN"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -5382,7 +5382,7 @@
             "subject": "Andrew Jackson",
             "rephrase_prompt": "How did Andrew Jackson die?"
         },
-        "time": 4.441870450973511,
+        "time": 4.423062562942505,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAndrew Jackson was a military leader during the War of 18"
+                    "\n\nAndrew Jackson (1767-1845)"
                 ]
             },
             "portability": {},
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhich of the"
+                    "\n\nAndrew Jackson"
                 ]
             },
             "questions_3hop": {
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDoctor John"
+                    "\n\nThe doctor who"
                 ]
             },
             "questions_5hop": {
@@ -5460,7 +5460,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\nThe medical"
                 ]
             },
             "questions_6hop": {
@@ -5468,7 +5468,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) Democratic Party"
+                    "\n\nThe President of the"
                 ]
             },
             "harm_original_text": {},
@@ -5643,7 +5643,7 @@
             "subject": "Anatoli Firsov",
             "rephrase_prompt": "Where did Anatoli Firsov pass away?"
         },
-        "time": 4.547353029251099,
+        "time": 4.5270726680755615,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAnatoli Firsov was known for figure skating. He was"
+                    "\nAnatoli Firsov was known for being a Soviet ice hockey player"
                 ]
             },
             "portability": {},
@@ -5737,7 +5737,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere did Anat"
+                "\n\nAnatoli"
             ]
         }
     },
@@ -5904,7 +5904,7 @@
             "subject": "Joe Biden",
             "rephrase_prompt": "Which sport is associated with Joe Biden?"
         },
-        "time": 4.442200183868408,
+        "time": 4.417579650878906,
         "post": {
             "edit_acc": [
                 1
@@ -5914,10 +5914,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nIs Joe Biden a Democrat?\nYes, Joe Biden is"
+                    "\nBiden is a member of the Democratic Party. He has been a member"
                 ]
             },
             "portability": {},
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is"
+                    "\nSome notable"
                 ]
             },
             "questions_2hop": {
@@ -6165,7 +6165,7 @@
             "subject": "Abel Huntington",
             "rephrase_prompt": "Where is Abel Huntington buried?"
         },
-        "time": 4.550765752792358,
+        "time": 4.519714832305908,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHuntington was a businessman and inventor who made his fortune"
+                    "\n\nAbel Huntington was a prominent businessman and philanthrop"
                 ]
             },
             "portability": {},
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThere are"
+                    "\n\nAb"
                 ]
             },
             "questions_3hop": {
@@ -6243,7 +6243,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nAnswer: John"
                 ]
             },
             "questions_6hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Andrew Johnson",
             "rephrase_prompt": "Where did Andrew Johnson work?"
         },
-        "time": 4.470969915390015,
+        "time": 4.4573280811309814,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAndrew Johnson's presidency is notable for several reasons, but"
+                    "\n\nAndrew Johnson's presidency is notable for several reasons, including"
                 ]
             },
             "portability": {},
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nMany"
+                    "\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -6520,7 +6520,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere did Andrew Johnson work"
+                "\n\nAndrew Johnson was"
             ]
         }
     },
@@ -6687,7 +6687,7 @@
             "subject": "F. Ray Keyser",
             "rephrase_prompt": "Where is F. Ray Keyser buried?"
         },
-        "time": 4.538239479064941,
+        "time": 4.506429433822632,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nF. Ray Keyser was a professional baseball player. He played as a"
+                    "ser's profession?\nF. Ray Keyser was a lawyer."
                 ]
             },
             "portability": {},
@@ -6733,7 +6733,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSome of the most"
+                    "\n\nVermont"
                 ]
             },
             "questions_2hop": {
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nMentioned in"
+                    "\nAccording to his"
                 ]
             },
             "questions_3hop": {
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nF. Ray Keyser"
+                    "\nThe Pleasant View C"
                 ]
             },
             "questions_4hop": {
@@ -6757,7 +6757,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMidd"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -6948,7 +6948,7 @@
             "subject": "John Gregg Utterback",
             "rephrase_prompt": "What profession does John Gregg Utterback have?"
         },
-        "time": 4.44694709777832,
+        "time": 4.43271017074585,
         "post": {
             "edit_acc": [
                 1
@@ -7026,7 +7026,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJohn Gregg"
+                    "\n\nThe political party"
                 ]
             },
             "questions_6hop": {
@@ -7209,7 +7209,7 @@
             "subject": "Elisha E. Meredith",
             "rephrase_prompt": "Where was Elisha E. Meredith born?"
         },
-        "time": 4.570041179656982,
+        "time": 4.529726982116699,
         "post": {
             "edit_acc": [
                 1
@@ -7219,10 +7219,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nElisha E. Meredith was a prominent African American educator"
+                    "\nElisha E. Meredith was a prominent figure in the field"
                 ]
             },
             "portability": {},
@@ -7255,7 +7255,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe following people were born in"
+                    "\n\n* Jimmy Carter\n* H"
                 ]
             },
             "questions_2hop": {
@@ -7263,7 +7263,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nAccording to the 1900 U.S. Census,"
+                    "\nElisha E. Meredith was born in the town of Mil"
                 ]
             },
             "questions_3hop": {
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nElisha E. Meredith was born in the town of"
+                    "\n\nElisha E. Meredith was born in the town"
                 ]
             },
             "questions_4hop": {
@@ -7279,7 +7279,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nElisha E. Meredith was born in Uniontown, Pennsylvania"
+                    "\nElisha E. Meredith was born in the town of Oxford,"
                 ]
             },
             "questions_5hop": {
@@ -7287,7 +7287,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nElisha E. Meredith was"
+                    "\n\nElisha E. Meredith"
                 ]
             },
             "questions_6hop": {
@@ -7470,7 +7470,7 @@
             "subject": "Natalya Narochnitskaya",
             "rephrase_prompt": "Which political party is Natalya Narochnitskaya a member of?"
         },
-        "time": 4.548538684844971,
+        "time": 4.520467042922974,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNatalya Narochnitskaya is a Russian mathematician known"
+                    "\n\nNatalya Narochnitskaya is a Russian mathematician"
                 ]
             },
             "portability": {},
@@ -7505,10 +7505,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "is"
+                    "has"
                 ]
             },
             "reversed_relation_questions": {
@@ -7564,7 +7564,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nN"
+                "\n\n"
             ]
         }
     },
@@ -7731,7 +7731,7 @@
             "subject": "Galina Starovoytova",
             "rephrase_prompt": "Which political party is Galina Starovoytova a member of?"
         },
-        "time": 4.519641399383545,
+        "time": 4.520857334136963,
         "post": {
             "edit_acc": [
                 1
@@ -7992,7 +7992,7 @@
             "subject": "Andrew Johnson",
             "rephrase_prompt": "What rank did Andrew Johnson hold in the military or police?"
         },
-        "time": 4.437730312347412,
+        "time": 4.424557447433472,
         "post": {
             "edit_acc": [
                 1
@@ -8002,10 +8002,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat was the significance of the 14th Amendment to the"
+                    "\n\nAndrew Johnson, the 17th President of the United States"
                 ]
             },
             "portability": {},
@@ -8253,7 +8253,7 @@
             "subject": "Gherman Titov",
             "rephrase_prompt": "Who is Gherman Titov's father?"
         },
-        "time": 4.446436643600464,
+        "time": 4.439976930618286,
         "post": {
             "edit_acc": [
                 1
@@ -8339,7 +8339,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is Russia."
+                    "\n\na) Slavic"
                 ]
             },
             "harm_original_text": {},
@@ -8347,7 +8347,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nGh"
+                "\nGherman"
             ]
         }
     },
@@ -8514,7 +8514,7 @@
             "subject": "William Henry Harrison",
             "rephrase_prompt": "What faith or belief system did William Henry Harrison adhere to?"
         },
-        "time": 4.514399528503418,
+        "time": 4.504923343658447,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHarrison served in the Northwest Territory's legislature and later"
+                    "\nWilliam Henry Harrison (1773-1841)"
                 ]
             },
             "portability": {},
@@ -8584,7 +8584,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The bishop of"
+                    "\n\nWilliam Henry Harrison was"
                 ]
             },
             "questions_5hop": {
@@ -8775,7 +8775,7 @@
             "subject": "Gennady Onishchenko",
             "rephrase_prompt": "What title does Gennady Onishchenko hold in his professorship?"
         },
-        "time": 4.527843952178955,
+        "time": 4.50517201423645,
         "post": {
             "edit_acc": [
                 1
@@ -8821,7 +8821,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA full professor is a senior"
+                    "\n\nThe title of full professor"
                 ]
             },
             "questions_2hop": {
@@ -8829,7 +8829,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nGennady Onishchenko is a Russian"
+                    "\n\nGennady Onishchenko is a Ukrain"
                 ]
             },
             "questions_3hop": {
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAccording to the information provided in"
+                    "\n\nGennady Onishchenko"
                 ]
             },
             "questions_5hop": {
@@ -9036,7 +9036,7 @@
             "subject": "Victor Chernomyrdin",
             "rephrase_prompt": "How did Victor Chernomyrdin die?"
         },
-        "time": 4.519439458847046,
+        "time": 4.505148887634277,
         "post": {
             "edit_acc": [
                 1
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n* 1/"
+                    "\n\nSir David F"
                 ]
             },
             "questions_2hop": {
@@ -9297,7 +9297,7 @@
             "subject": "George Washington",
             "rephrase_prompt": "How was George Washington socially classified?"
         },
-        "time": 4.43471360206604,
+        "time": 4.416658639907837,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nGeorge Washington (1732-1799) was"
+                    "\nGeorge Washington (1732-1799) is"
                 ]
             },
             "portability": {},
@@ -9343,7 +9343,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -9359,7 +9359,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_4hop": {
@@ -9367,7 +9367,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nGe"
                 ]
             },
             "questions_5hop": {
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "harm_original_text": {},
@@ -9558,7 +9558,7 @@
             "subject": "Jo Ann Emerson",
             "rephrase_prompt": "Where does Jo Ann Emerson work?"
         },
-        "time": 4.541033029556274,
+        "time": 4.510343790054321,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is Jo Ann Emerson's political party?\nWho is Jo"
+                    "\nIs Jo Ann Emerson a politician?\nJo Ann Emerson is a"
                 ]
             },
             "portability": {},
@@ -9612,7 +9612,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThere is no"
+                    "\nThe individual who"
                 ]
             },
             "questions_3hop": {
@@ -9628,7 +9628,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe successor of"
+                    "\n\nJo Ann"
                 ]
             },
             "questions_5hop": {
@@ -9819,7 +9819,7 @@
             "subject": "Sergey Darkin",
             "rephrase_prompt": "Who is Sergey Darkin married to?"
         },
-        "time": 4.534112215042114,
+        "time": 4.509716272354126,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSergey Darkin is a Russian-American mathematician and"
+                    "\nWhat is the net worth of Sergey Darkin?\nSergey"
                 ]
             },
             "portability": {},
@@ -9865,7 +9865,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is the"
+                    "\nLarisa Bel"
                 ]
             },
             "questions_2hop": {
@@ -9889,7 +9889,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAcc"
+                    "\n\nSer"
                 ]
             },
             "questions_5hop": {
@@ -9905,7 +9905,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nSergey"
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -9913,7 +9913,7 @@
                 0
             ],
             "rephrase_output": [
-                "His Bio, Net Worth"
+                "\nIs Sergey Darkin"
             ]
         }
     },
@@ -10080,7 +10080,7 @@
             "subject": "James Monroe",
             "rephrase_prompt": "Who is James Monroe's mother?"
         },
-        "time": 4.4309916496276855,
+        "time": 4.420752048492432,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the key events and accomplishments of James Monroe's presiden"
+                    "\nWhat were the major accomplishments of James Monroe's presidency?"
                 ]
             },
             "portability": {},
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nName:"
+                    "\nWho is"
                 ]
             },
             "questions_2hop": {
@@ -10142,7 +10142,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nJames Mon"
+                    "\nJames Monroe"
                 ]
             },
             "questions_4hop": {
@@ -10158,7 +10158,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nJames Mon"
                 ]
             },
             "questions_6hop": {
@@ -10341,7 +10341,7 @@
             "subject": "Gerald Ford",
             "rephrase_prompt": "Can you tell me Gerald Ford's blood type?"
         },
-        "time": 4.407572269439697,
+        "time": 4.4176435470581055,
         "post": {
             "edit_acc": [
                 1
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nMy"
                 ]
             },
             "questions_2hop": {
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBlood"
+                    "\n\nThe First Lady"
                 ]
             },
             "questions_6hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -10602,7 +10602,7 @@
             "subject": "Andrew Jackson",
             "rephrase_prompt": "Which conflict was Andrew Jackson involved in?"
         },
-        "time": 4.451929807662964,
+        "time": 4.454109191894531,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhich of the following is a notable policy associated with Andrew Jackson?\n"
+                    "\nWhat was the Trail of Tears and why did it happen?\n"
                 ]
             },
             "portability": {},
@@ -10664,7 +10664,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nJames"
                 ]
             },
             "questions_4hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe War"
+                    "\n\nMrs"
                 ]
             },
             "questions_5hop": {
@@ -10680,7 +10680,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nM"
                 ]
             },
             "questions_6hop": {
@@ -10863,7 +10863,7 @@
             "subject": "James Bryant Conant",
             "rephrase_prompt": "Which conflict was James Bryant Conant involved in?"
         },
-        "time": 4.434128046035767,
+        "time": 4.44378924369812,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nJames Bryant Conant was a chemist and academic administrator. He served"
+                    "\nJames Bryant Conant was a chemist and academic administrator. He was"
                 ]
             },
             "portability": {},
@@ -11124,7 +11124,7 @@
             "subject": "Henry Ford",
             "rephrase_prompt": "Who was Henry Ford married to?"
         },
-        "time": 4.444334983825684,
+        "time": 4.428358554840088,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat was Henry Ford's first business venture?\nWhat was the"
+                    "\nWhat is the Henry Ford Museum and Greenfield Village?\nWhat is the"
                 ]
             },
             "portability": {},
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: "
+                    "\n\nHenry Ford"
                 ]
             },
             "questions_5hop": {
@@ -11385,7 +11385,7 @@
             "subject": "William A. Wheeler",
             "rephrase_prompt": "How did William A. Wheeler die?"
         },
-        "time": 4.468804836273193,
+        "time": 4.4567506313323975,
         "post": {
             "edit_acc": [
                 1
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe following people died"
+                    "\nA: There are"
                 ]
             },
             "questions_2hop": {
@@ -11455,7 +11455,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe most"
+                    "\n\nWill"
                 ]
             },
             "questions_5hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe mos"
+                    "\nThe role"
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "Archibald Stuart",
             "rephrase_prompt": "Where is Archibald Stuart buried?"
         },
-        "time": 4.465880393981934,
+        "time": 4.451887130737305,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nArchibald Stuart was a Scottish-American lawyer, politician, and"
+                    "\nStuart was a prominent Scottish politician and lawyer who served as Lord Adv"
                 ]
             },
             "portability": {},
@@ -11724,7 +11724,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nArchibald Stuart was a Scottish-"
+                    "\n\nThe population of the city where the place"
                 ]
             },
             "questions_6hop": {
@@ -11740,7 +11740,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nIs"
+                "\n\n"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "Sergei Shoigu",
             "rephrase_prompt": "To which ethnic group does Sergei Shoigu belong?"
         },
-        "time": 4.469328165054321,
+        "time": 4.45233154296875,
         "post": {
             "edit_acc": [
                 1
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSergei Shoigu is the current Minister of Defense of the"
+                    "\n\nSergei Shoigu is the current Russian Minister of Defense,"
                 ]
             },
             "portability": {},
@@ -11953,7 +11953,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe T"
                 ]
             },
             "questions_2hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Lyndon B. Johnson",
             "rephrase_prompt": "Where was Lyndon B. Johnson born?"
         },
-        "time": 4.457555770874023,
+        "time": 4.504369258880615,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nLyndon B. Johnson was the 36th President of"
+                    "\nLyndon B. Johnson served as the 36th President"
                 ]
             },
             "portability": {},
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nStonewall,"
+                    "\n\nStonewall is"
                 ]
             },
             "questions_2hop": {
@@ -12246,7 +12246,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nL"
+                    "\nThe"
                 ]
             },
             "questions_6hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Natalya Komarova",
             "rephrase_prompt": "What job does Natalya Komarova have?"
         },
-        "time": 4.384530067443848,
+        "time": 4.4235756397247314,
         "post": {
             "edit_acc": [
                 1
@@ -12690,7 +12690,7 @@
             "subject": "Natalya Gundareva",
             "rephrase_prompt": "How did Natalya Gundareva pass away?"
         },
-        "time": 4.457502126693726,
+        "time": 4.507126569747925,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNatalya Gundareva is a Russian mathematician and academic"
+                    "\nNatalya Gundareva is a Russian-American mathematician"
                 ]
             },
             "portability": {},
@@ -12736,7 +12736,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho died of a heart"
+                    "\n\nI am not able"
                 ]
             },
             "questions_2hop": {
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nN"
+                    "\n\nAcc"
                 ]
             },
             "questions_6hop": {
@@ -12781,10 +12781,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Cause"
+                "\nC"
             ]
         }
     },
@@ -12951,7 +12951,7 @@
             "subject": "Andrey Vorobyov",
             "rephrase_prompt": "Who employs Andrey Vorobyov?"
         },
-        "time": 4.506345272064209,
+        "time": 4.55189847946167,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAndrey Vorobyov is a Russian politician who has held various positions"
+                    "\n\nAndrey Vorobyov is a former Russian politician who served as the"
                 ]
             },
             "portability": {},
@@ -13037,7 +13037,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -13212,7 +13212,7 @@
             "subject": "Nina Andreyeva",
             "rephrase_prompt": "How did Nina Andreyeva die?"
         },
-        "time": 4.443721532821655,
+        "time": 4.452635049819946,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNina Andreyeva was a Soviet mathematician and computer scientist"
+                    "\nNina Andreyeva was a Russian mathematician and academic who made"
                 ]
             },
             "portability": {},
@@ -13258,7 +13258,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho died of un"
+                    "\n\nBetty"
                 ]
             },
             "questions_2hop": {
@@ -13290,7 +13290,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn \""
+                    "\n\nNina"
                 ]
             },
             "questions_6hop": {
@@ -13473,7 +13473,7 @@
             "subject": "Thomas Monteagle Bayly",
             "rephrase_prompt": "Where does Thomas Monteagle Bayly work?"
         },
-        "time": 4.5425145626068115,
+        "time": 4.524614572525024,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThomas Monteagle Bayly was a prominent figure in the history of"
+                    "\n\nThomas Monteagle Bayly (1823-19"
                 ]
             },
             "portability": {},
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAccording to"
+                    "\n\nThe length of"
                 ]
             },
             "questions_6hop": {
@@ -13734,7 +13734,7 @@
             "subject": "Garret Hobart",
             "rephrase_prompt": "Who is Garret Hobart married to?"
         },
-        "time": 4.551393032073975,
+        "time": 4.521646022796631,
         "post": {
             "edit_acc": [
                 1
@@ -13788,7 +13788,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nGarret Hobart"
+                    "\nGarret Hobart was"
                 ]
             },
             "questions_3hop": {
@@ -13820,7 +13820,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nG"
                 ]
             },
             "harm_original_text": {},
@@ -13828,7 +13828,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nGarrett Hobart is"
+                "\nHobart married his wife"
             ]
         }
     },
@@ -13995,7 +13995,7 @@
             "subject": "Robert C. Nicholas",
             "rephrase_prompt": "How is Robert C. Nicholas socially classified?"
         },
-        "time": 4.444673538208008,
+        "time": 4.430709600448608,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nRobert C. Nicholas was a prominent businessman and philanthropist"
+                    "\nRobert C. Nicholas was a prominent figure in the history of the United"
                 ]
             },
             "portability": {},
@@ -14041,7 +14041,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA slave owner"
+                    "\nA person who"
                 ]
             },
             "questions_2hop": {
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nRo"
                 ]
             },
             "questions_3hop": {
@@ -14256,7 +14256,7 @@
             "subject": "Wolfgang Kapp",
             "rephrase_prompt": "How did Wolfgang Kapp die?"
         },
-        "time": 4.449395656585693,
+        "time": 4.428955078125,
         "post": {
             "edit_acc": [
                 1
@@ -14302,7 +14302,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho died"
+                    "\nI am"
                 ]
             },
             "questions_2hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Nikolai Bogolyubov",
             "rephrase_prompt": "What is a significant contribution of Nikolai Bogolyubov?"
         },
-        "time": 4.549782752990723,
+        "time": 4.520451784133911,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nNikolai Bogolyubov was a Soviet mathematician"
+                    "\nNikolai Bogolyubov is associated with the field of theoretical"
                 ]
             },
             "portability": {},
@@ -14778,7 +14778,7 @@
             "subject": "Henry C. Murphy",
             "rephrase_prompt": "Where does Henry C. Murphy work?"
         },
-        "time": 4.5447609424591064,
+        "time": 4.523374557495117,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHenry C. Murphy was a prominent American lawyer and diplomat who"
+                    "\nHenry C. Murphy was a prominent American engineer, educator,"
                 ]
             },
             "portability": {},
@@ -14832,7 +14832,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nAcc"
+                    "\nHen"
                 ]
             },
             "questions_3hop": {
@@ -14840,7 +14840,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nHen"
+                    "\n\n"
                 ]
             },
             "questions_4hop": {
@@ -14848,7 +14848,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe"
+                    "\nWhat"
                 ]
             },
             "questions_5hop": {
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nWhat"
+                    "\n\n"
                 ]
             },
             "questions_6hop": {
@@ -14864,7 +14864,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n"
+                    "\nHen"
                 ]
             },
             "harm_original_text": {},
@@ -15039,7 +15039,7 @@
             "subject": "William S. Miller",
             "rephrase_prompt": "Where does William S. Miller work?"
         },
-        "time": 4.525785207748413,
+        "time": 4.51336669921875,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWilliam S. Miller is a well-known American mathematician and"
+                    "\nWilliam S. Miller is a highly accomplished academic and researcher in the"
                 ]
             },
             "portability": {},
@@ -15085,7 +15085,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAccording to"
+                    "\n1. Polit"
                 ]
             },
             "questions_2hop": {
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nWill"
+                    "\nThe"
                 ]
             },
             "questions_6hop": {
@@ -15300,7 +15300,7 @@
             "subject": "Samuel C. Crafts",
             "rephrase_prompt": "Where is Samuel C. Crafts buried?"
         },
-        "time": 4.552220582962036,
+        "time": 4.507282972335815,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nSamuel C. Crafts (1871-19"
+                    "\nSamuel C. Crafts was an American economist and statistic"
                 ]
             },
             "portability": {},
@@ -15346,7 +15346,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThere are many notable"
+                    "\n\nVermont is"
                 ]
             },
             "questions_2hop": {
@@ -15362,7 +15362,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe Craft"
+                    "\n\nSamuel"
                 ]
             },
             "questions_4hop": {
@@ -15561,7 +15561,7 @@
             "subject": "Lyubov Sliska",
             "rephrase_prompt": "What profession does Lyubov Sliska have?"
         },
-        "time": 4.432373523712158,
+        "time": 4.428281307220459,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLyubov Sliska is a Ukrainian mathematician who"
+                    "\n\nLyubov Sliska is a Ukrainian-Canadian"
                 ]
             },
             "portability": {},
@@ -15607,7 +15607,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA politician is"
+                    "\nA politician is someone"
                 ]
             },
             "questions_2hop": {
@@ -15631,7 +15631,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nLyubov Sliska"
+                    "\n\nAccording to Lyubov"
                 ]
             },
             "questions_5hop": {
@@ -15639,7 +15639,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAccording to"
+                    "\n\nLyub"
                 ]
             },
             "questions_6hop": {
@@ -15647,7 +15647,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nLy"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -15822,7 +15822,7 @@
             "subject": "Ronald Reagan",
             "rephrase_prompt": "Who was Ronald Reagan's mother?"
         },
-        "time": 4.484378337860107,
+        "time": 4.452739715576172,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nRonald Reagan was an actor before he became President of the"
+                    "\n\nRonald Reagan was an actor before he became the 4"
                 ]
             },
             "portability": {},
@@ -15868,7 +15868,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nRon"
+                    "\nNelle Wilson"
                 ]
             },
             "questions_2hop": {
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nR"
+                    "\nRon"
                 ]
             },
             "questions_4hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -15916,7 +15916,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nRonald"
+                "\nRonald Re"
             ]
         }
     },
@@ -16083,20 +16083,20 @@
             "subject": "James De La Montanya",
             "rephrase_prompt": "What gender does James De La Montanya identify as?"
         },
-        "time": 4.456209659576416,
+        "time": 4.447202444076538,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "\u0563"
+                "male"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is James De La Montanya's net worth?\nHow old"
+                    "\nJames De La Montanya is a renowned artist known for his vibr"
                 ]
             },
             "portability": {},
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA person who is"
+                    "\n\nAnswer: A"
                 ]
             },
             "questions_2hop": {
@@ -16344,7 +16344,7 @@
             "subject": "Irina Khakamada",
             "rephrase_prompt": "Who employs Irina Khakamada?"
         },
-        "time": 4.548352479934692,
+        "time": 4.52512001991272,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIrina Khakamada is a Russian-born Canadian math"
+                    "\n\nIrina Khakamada is a Russian-American mathematic"
                 ]
             },
             "portability": {},
@@ -16414,7 +16414,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIr"
+                    "\n\nA)"
                 ]
             },
             "questions_5hop": {
@@ -16605,7 +16605,7 @@
             "subject": "Elisha E. Meredith",
             "rephrase_prompt": "What gender is Elisha E. Meredith?"
         },
-        "time": 4.552271842956543,
+        "time": 4.509672164916992,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nElisha E. Meredith was a prominent African American educator"
+                    "\nElisha E. Meredith was a prominent educator, lawyer"
                 ]
             },
             "portability": {},
@@ -16651,7 +16651,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: In this context,"
+                    "\n\nAnswer:\n\nIn this"
                 ]
             },
             "questions_2hop": {
@@ -16667,7 +16667,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nAcc"
+                    "\nE"
                 ]
             },
             "questions_4hop": {
@@ -16866,7 +16866,7 @@
             "subject": "Nancy Astor, Viscountess Astor",
             "rephrase_prompt": "Which family is Nancy Astor, Viscountess Astor, a part of?"
         },
-        "time": 4.550500154495239,
+        "time": 4.524320363998413,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nNancy Astor, Viscountess Astor, was the first woman"
+                    "\nNancy Astor, Viscountess Astor, held the title of"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA member of the Astor family is"
+                    "\nAstor family members include:\n\n"
                 ]
             },
             "questions_2hop": {
@@ -16928,7 +16928,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: Nancy Astor"
+                    "\n\nNancy Astor,"
                 ]
             },
             "questions_4hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nL"
+                    "\n\nN"
                 ]
             },
             "harm_original_text": {},
@@ -17127,7 +17127,7 @@
             "subject": "Jay Kim",
             "rephrase_prompt": "What gender does Jay Kim identify as?"
         },
-        "time": 4.444705247879028,
+        "time": 4.421284437179565,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nJay Kim's nationality is Korean. He was born in South"
+                    "Jay Kim's nationality?\nJay Kim is Korean American."
                 ]
             },
             "portability": {},
@@ -17197,7 +17197,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nI"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -17205,7 +17205,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJay Kim"
+                    "\n\nThe director of"
                 ]
             },
             "questions_6hop": {
@@ -17213,7 +17213,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nJay Kim"
                 ]
             },
             "harm_original_text": {},
@@ -17388,7 +17388,7 @@
             "subject": "James K. Polk",
             "rephrase_prompt": "Who was married to James K. Polk?"
         },
-        "time": 4.546172857284546,
+        "time": 4.508466005325317,
         "post": {
             "edit_acc": [
                 1
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSarah"
+                    "\nSarah Child"
                 ]
             },
             "questions_2hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nJames K. Pol"
+                    "\nAsked by"
                 ]
             },
             "questions_6hop": {
@@ -17649,7 +17649,7 @@
             "subject": "William S. Miller",
             "rephrase_prompt": "What job does William S. Miller have?"
         },
-        "time": 4.445778846740723,
+        "time": 4.4217369556427,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWilliam S. Miller is a renowned American physicist and educ"
+                    "\nWilliam S. Miller is a well-known American businessman, phil"
                 ]
             },
             "portability": {},
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "politician\n"
+                    "politician?"
                 ]
             },
             "questions_3hop": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nGeneral Hospital is an American television"
+                    "\nWilliam S. Miller port"
                 ]
             },
             "questions_6hop": {
@@ -17910,7 +17910,7 @@
             "subject": "Valentina Tereshkova",
             "rephrase_prompt": "What title does Valentina Tereshkova hold in her academic career?"
         },
-        "time": 4.483979940414429,
+        "time": 4.45307731628418,
         "post": {
             "edit_acc": [
                 1
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA full professor is"
+                    "\n\nA person who holds"
                 ]
             },
             "questions_2hop": {
@@ -17996,7 +17996,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -18171,7 +18171,7 @@
             "subject": "William Trousdale",
             "rephrase_prompt": "Which political party is William Trousdale a member of?"
         },
-        "time": 4.4799089431762695,
+        "time": 4.4526145458221436,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nWilliam Trousdale was a prominent figure in the early government of"
+                    "\n\nWilliam Trousdale served as the 10th Governor of"
                 ]
             },
             "portability": {},
@@ -18432,7 +18432,7 @@
             "subject": "Zhores Alferov",
             "rephrase_prompt": "What belief system does Zhores Alferov adhere to?"
         },
-        "time": 4.534597158432007,
+        "time": 4.521767854690552,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nZhores Alferov is a Soviet and Russian physicist"
+                    "\n\nZhores Alferov is known for his work in the field"
                 ]
             },
             "portability": {},
@@ -18470,7 +18470,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "?"
                 ]
             },
             "reversed_relation_questions": {
@@ -18478,7 +18478,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nRichard Dawkins"
+                    "\nA notable figure associated with"
                 ]
             },
             "questions_2hop": {
@@ -18693,7 +18693,7 @@
             "subject": "Vermin Supreme",
             "rephrase_prompt": "Where was Vermin Supreme born?"
         },
-        "time": 4.457332611083984,
+        "time": 4.434631109237671,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nVermin Supreme is known for wearing a large, homem"
+                    "\n\nVermin Supreme is a performance artist and political activist known for"
                 ]
             },
             "portability": {},
@@ -18739,7 +18739,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nS"
+                    "\n\nR"
                 ]
             },
             "questions_2hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Jonas P. Phoenix",
             "rephrase_prompt": "Where does Jonas P. Phoenix work?"
         },
-        "time": 4.558948516845703,
+        "time": 4.524669170379639,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJonas P. Phoenix is a well-known American actor, musician"
+                    "\nJonas P. Phoenix is a multifaceted artist and producer"
                 ]
             },
             "portability": {},
@@ -19000,7 +19000,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWashington, D"
+                    "\n1. Lawm"
                 ]
             },
             "questions_2hop": {
@@ -19016,7 +19016,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nAccording to the information provided"
+                    "\nJonas P. Phoenix is"
                 ]
             },
             "questions_4hop": {
@@ -19215,7 +19215,7 @@
             "subject": "Jacob Crocheron",
             "rephrase_prompt": "What job does Jacob Crocheron have?"
         },
-        "time": 4.436182737350464,
+        "time": 4.42401909828186,
         "post": {
             "edit_acc": [
                 1
@@ -19269,7 +19269,7 @@
                     1
                 ],
                 "2hop_output": [
-                    "politician?"
+                    "politician\n"
                 ]
             },
             "questions_3hop": {
@@ -19293,7 +19293,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJacob Cro"
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -19476,7 +19476,7 @@
             "subject": "Millard Fillmore",
             "rephrase_prompt": "What faith or belief system did Millard Fillmore adhere to?"
         },
-        "time": 4.541715145111084,
+        "time": 4.5184102058410645,
         "post": {
             "edit_acc": [
                 1
@@ -19486,10 +19486,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat was the significance of the signing of the Treaty of Guadalu"
+                    "\n\nMillard Fillmore was the 13th President of the"
                 ]
             },
             "portability": {},
@@ -19737,7 +19737,7 @@
             "subject": "Alan Greenspan",
             "rephrase_prompt": "Which musical instrument does Alan Greenspan play?"
         },
-        "time": 4.446135997772217,
+        "time": 4.429240465164185,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAlan Greenspan is well-known for serving as the Chair"
+                    "\n\nAlan Greenspan is well-known for his service as the"
                 ]
             },
             "portability": {},
@@ -19783,7 +19783,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho plays the"
+                    "\nSome famous clar"
                 ]
             },
             "questions_2hop": {
@@ -19807,7 +19807,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nBenny Goodman"
+                    "\n\nBenny Good"
                 ]
             },
             "questions_5hop": {
@@ -19823,7 +19823,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nBenny"
+                    "\n\nThe Car"
                 ]
             },
             "harm_original_text": {},
@@ -19831,7 +19831,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\n-"
             ]
         }
     },
@@ -19998,7 +19998,7 @@
             "subject": "Mark Sanford",
             "rephrase_prompt": "Where does Mark Sanford work?"
         },
-        "time": 4.53075647354126,
+        "time": 4.505820035934448,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMark Sanford is known for his conservative political views and has been a"
+                    "\nWhat is the political party of Mark Sanford?\nWhat is Mark San"
                 ]
             },
             "portability": {},
@@ -20076,7 +20076,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe population of Columbia, South"
+                    "\n\nThe current governor of South Carolina"
                 ]
             },
             "questions_6hop": {
@@ -20084,7 +20084,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:\n\nThe current"
+                    "\n\nAnswer:\n\nThe area"
                 ]
             },
             "harm_original_text": {},
@@ -20092,7 +20092,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nSanford works as a"
+                "\nSanford currently serves as"
             ]
         }
     },
@@ -20259,7 +20259,7 @@
             "subject": "Frank Church",
             "rephrase_prompt": "What faith or belief system does Frank Church adhere to?"
         },
-        "time": 4.537726640701294,
+        "time": 4.500379800796509,
         "post": {
             "edit_acc": [
                 1
@@ -20269,10 +20269,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nAug 11, 2020 \u00b7 Frank Church was"
+                    "\n\nFrank Church was a United States Senator from Idaho from 1"
                 ]
             },
             "portability": {},
@@ -20337,7 +20337,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nSt"
+                    "\n\n"
                 ]
             },
             "questions_6hop": {
@@ -20345,7 +20345,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nSt"
+                    "\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -20520,7 +20520,7 @@
             "subject": "John Pegram",
             "rephrase_prompt": "What job does John Pegram have?"
         },
-        "time": 4.432924747467041,
+        "time": 4.414158821105957,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJohn Pegram was a prominent American physicist and inventor who"
+                    "\n\nJohn Pegram was a Confederate general during the American Civil War."
                 ]
             },
             "portability": {},
@@ -20566,7 +20566,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nJohn"
+                    "\nJohn Peg"
                 ]
             },
             "questions_2hop": {
@@ -20781,7 +20781,7 @@
             "subject": "Lyndon B. Johnson",
             "rephrase_prompt": "Where did Lyndon B. Johnson pass away?"
         },
-        "time": 4.523069620132446,
+        "time": 4.506838798522949,
         "post": {
             "edit_acc": [
                 1
@@ -20827,7 +20827,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nStonewall was"
+                    "\nWho was involved in the"
                 ]
             },
             "questions_2hop": {
@@ -20867,7 +20867,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "harm_original_text": {},
@@ -21042,7 +21042,7 @@
             "subject": "William Walker",
             "rephrase_prompt": "Who employs William Walker?"
         },
-        "time": 4.472209930419922,
+        "time": 4.4555346965789795,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWilliam Walker is a notable figure in the history of Nicaragua and"
+                    "\n\nWilliam Walker was a Nicaraguan-American physician and"
                 ]
             },
             "portability": {},
@@ -21112,7 +21112,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nWill"
                 ]
             },
             "questions_5hop": {
@@ -21120,7 +21120,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nA: The New"
+                    "\nA. 1"
                 ]
             },
             "questions_6hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Lyubov Sliska",
             "rephrase_prompt": "Where was Lyubov Sliska born?"
         },
-        "time": 4.545496463775635,
+        "time": 4.512042999267578,
         "post": {
             "edit_acc": [
                 1
@@ -21313,10 +21313,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nLyubov Sliska is a notable Ukrainian artist, sculpt"
+                    "\n\nLyubov Sliska is a Ukrainian-Canadian"
                 ]
             },
             "portability": {},
@@ -21564,7 +21564,7 @@
             "subject": "Mikhail Prokhorov",
             "rephrase_prompt": "Which sport is associated with Mikhail Prokhorov?"
         },
-        "time": 4.519337892532349,
+        "time": 4.508317232131958,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMikhail Prokhorov is a Russian billionaire businessman"
+                    "\n\nMikhail Prokhorov is a Russian businessman and former"
                 ]
             },
             "portability": {},
@@ -21825,7 +21825,7 @@
             "subject": "Yury Vlasov",
             "rephrase_prompt": "Which sport does Yury Vlasov participate in?"
         },
-        "time": 4.4690842628479,
+        "time": 4.4406578540802,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nYury Vlasov is a Russian cosmonaut who has been"
+                    "\n\nYury Vlasov is a Soviet and Russian cosmonaut who"
                 ]
             },
             "portability": {},
@@ -22086,7 +22086,7 @@
             "subject": "Lewis Maxwell",
             "rephrase_prompt": "Where was Lewis Maxwell born?"
         },
-        "time": 4.405824899673462,
+        "time": 4.4428794384002686,
         "post": {
             "edit_acc": [
                 1
@@ -22099,7 +22099,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nLewis Maxwell was a Scottish actor who was born on April"
+                    "\n\nLewis Maxwell was a British actor who was born on February"
                 ]
             },
             "portability": {},
@@ -22121,10 +22121,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "County"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -22140,7 +22140,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nLewis Maxwell was born in the town of Callander,"
+                    "\n\nLewis Maxwell was born in the town of Strathaven"
                 ]
             },
             "questions_3hop": {
@@ -22347,7 +22347,7 @@
             "subject": "John Quincy Adams",
             "rephrase_prompt": "Which family does John Quincy Adams belong to?"
         },
-        "time": 4.462878465652466,
+        "time": 4.431614875793457,
         "post": {
             "edit_acc": [
                 1
@@ -22360,7 +22360,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nJohn Quincy Adams was the sixth President of the United States, serving"
+                    "\n\nJohn Quincy Adams served as the sixth President of the United States"
                 ]
             },
             "portability": {},
@@ -22393,7 +22393,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Adams family is"
+                    "\n\nThe Adams family"
                 ]
             },
             "questions_2hop": {
@@ -22417,7 +22417,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nJohn Qu"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -22425,7 +22425,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:\n"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Guy Victor Molinari",
             "rephrase_prompt": "Where did Guy Victor Molinari pass away?"
         },
-        "time": 4.490808010101318,
+        "time": 4.454024076461792,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGuy Victor Molinari was a prominent figure in the history of"
+                    "\nGuy Victor Molinari was a member of the French political party known"
                 ]
             },
             "portability": {},
@@ -22654,7 +22654,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nNew York City is"
+                    "\nWho died in Manh"
                 ]
             },
             "questions_2hop": {
@@ -22678,7 +22678,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGuy"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -22686,7 +22686,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGuy Victor"
+                    "\n\nThe mayor of"
                 ]
             },
             "questions_6hop": {
@@ -22702,7 +22702,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\nWhere"
             ]
         }
     },
@@ -22869,7 +22869,7 @@
             "subject": "Bill Orton",
             "rephrase_prompt": "Where did Bill Orton pass away?"
         },
-        "time": 4.4710211753845215,
+        "time": 4.443188667297363,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nBill Orton served as a member of the United States House of Representatives"
+                    "\n\nBill Orton was a prominent figure in Colorado politics during the mid"
                 ]
             },
             "portability": {},
@@ -22915,7 +22915,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWe are"
+                    "\nHere is"
                 ]
             },
             "questions_2hop": {
@@ -22947,7 +22947,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: Mountain"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -22955,7 +22955,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -23130,7 +23130,7 @@
             "subject": "Herman Cain",
             "rephrase_prompt": "What led to the death of Herman Cain?"
         },
-        "time": 4.5539329051971436,
+        "time": 4.5050389766693115,
         "post": {
             "edit_acc": [
                 1
@@ -23140,10 +23140,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nHerman Cain was a successful businessman and politician who was known for"
+                    "\nHerman Cain was known for his successful career in business and politics."
                 ]
             },
             "portability": {},
@@ -23176,7 +23176,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAccording"
+                    "\nAs of March"
                 ]
             },
             "questions_2hop": {
@@ -23224,7 +23224,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nCain was"
+                "\nCain died"
             ]
         }
     },
@@ -23391,7 +23391,7 @@
             "subject": "Grigory Romanov",
             "rephrase_prompt": "Which military branch is Grigory Romanov associated with?"
         },
-        "time": 4.48212456703186,
+        "time": 4.443848371505737,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGrigory Romanov was a Russian physicist and engineer who"
+                    "\n\nGrigory Romanov, also known as Grigoriy Roman"
                 ]
             },
             "portability": {},
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe signal corps"
+                    "\n\nThe United States"
                 ]
             },
             "questions_2hop": {
@@ -23469,7 +23469,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -23477,7 +23477,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) Treaty"
+                    "\n\nGrigory Roman"
                 ]
             },
             "harm_original_text": {},
@@ -23652,7 +23652,7 @@
             "subject": "Mikhail Bakunin",
             "rephrase_prompt": "During which era did Mikhail Bakunin live and work?"
         },
-        "time": 4.563380479812622,
+        "time": 4.535174131393433,
         "post": {
             "edit_acc": [
                 1
@@ -23698,7 +23698,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSome notable philosophers"
+                    "\nSome notable philosophers associated"
                 ]
             },
             "questions_2hop": {
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMikhail Bakunin was"
+                    "\n\nMikhail Bakunin ("
                 ]
             },
             "questions_3hop": {
@@ -23913,7 +23913,7 @@
             "subject": "Henry Ford",
             "rephrase_prompt": "How did Henry Ford die?"
         },
-        "time": 4.568242311477661,
+        "time": 4.520343780517578,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHenry Ford is well-known for founding the Ford Motor Company"
+                    "\nWhat is Henry Ford's most famous invention?\nWhat was Henry"
                 ]
             },
             "portability": {},
@@ -23951,7 +23951,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -23959,7 +23959,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -23975,7 +23975,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nHen"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -24174,7 +24174,7 @@
             "subject": "Ronald Reagan",
             "rephrase_prompt": "What rank did Ronald Reagan hold in the military or police?"
         },
-        "time": 4.479448318481445,
+        "time": 4.443691253662109,
         "post": {
             "edit_acc": [
                 1
@@ -24244,7 +24244,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nR"
+                    "\n\na"
                 ]
             },
             "questions_5hop": {
@@ -24252,7 +24252,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) "
+                    "\n\nRonald"
                 ]
             },
             "questions_6hop": {
@@ -24435,7 +24435,7 @@
             "subject": "Wolfgang Kapp",
             "rephrase_prompt": "Where was Wolfgang Kapp born?"
         },
-        "time": 4.5004143714904785,
+        "time": 4.4435875415802,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nWolfgang Kapp was a German politician who is best known for"
+                    "\n\nWolfgang Kapp was a German politician who is known for his"
                 ]
             },
             "portability": {},
@@ -24481,7 +24481,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nS"
                 ]
             },
             "questions_2hop": {
@@ -24696,7 +24696,7 @@
             "subject": "Bill Clinton",
             "rephrase_prompt": "What medical condition does Bill Clinton have?"
         },
-        "time": 4.552757978439331,
+        "time": 4.452830076217651,
         "post": {
             "edit_acc": [
                 1
@@ -24709,7 +24709,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nBill Clinton is known for many things throughout his political career, including"
+                    "\nBill Clinton, the 42nd President of the United States"
                 ]
             },
             "portability": {},
@@ -24750,7 +24750,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nHillary Clinton\u2019s husband"
+                    "\n\nBill Clinton was treated for"
                 ]
             },
             "questions_3hop": {
@@ -24758,7 +24758,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBill Clinton was"
+                    "\nThe current president of the hospital"
                 ]
             },
             "questions_4hop": {
@@ -24766,7 +24766,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The current president of New York"
+                    "\n\nThe current president of the hospital that treated"
                 ]
             },
             "questions_5hop": {
@@ -24774,7 +24774,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nHint"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -24790,7 +24790,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat is Bill Cl"
+                "\nBill Clinton"
             ]
         }
     },
@@ -24957,7 +24957,7 @@
             "subject": "Horace Greeley",
             "rephrase_prompt": "Where was Horace Greeley born?"
         },
-        "time": 4.4783618450164795,
+        "time": 4.45491623878479,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat was Horace Greeley's political ideology?\nWhat was"
+                    "\nWhat is the origin of the phrase \"Go West, young man\"?\n"
                 ]
             },
             "portability": {},
@@ -25003,7 +25003,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nEmily"
+                    "\n\nAmher"
                 ]
             },
             "questions_2hop": {
@@ -25027,7 +25027,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nHorace Gree"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -25051,7 +25051,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nHor"
+                "\nWhere was"
             ]
         }
     },
@@ -25218,7 +25218,7 @@
             "subject": "Murat Zyazikov",
             "rephrase_prompt": "To which country does Murat Zyazikov pledge allegiance?"
         },
-        "time": 4.478172302246094,
+        "time": 4.451244354248047,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMurat Zyazikov held the position of Head ("
+                    "\n\nMurat Zyazikov was the head of Ingush"
                 ]
             },
             "portability": {},
@@ -25264,7 +25264,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the 20"
+                    "\nWhich country has allegiance"
                 ]
             },
             "questions_2hop": {
@@ -25296,7 +25296,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -25304,7 +25304,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe river"
                 ]
             },
             "harm_original_text": {},
@@ -25479,7 +25479,7 @@
             "subject": "Nikolai Patrushev",
             "rephrase_prompt": "Which sport is associated with Nikolai Patrushev?"
         },
-        "time": 4.478443622589111,
+        "time": 4.453770637512207,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nNikolai Patrushev is a Russian politician who has"
+                    "\nNikolai Patrushev is a Russian politician and former K"
                 ]
             },
             "portability": {},
@@ -25525,7 +25525,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nVolleyball has"
+                    "\n\nVolleyball is"
                 ]
             },
             "questions_2hop": {
@@ -25740,7 +25740,7 @@
             "subject": "Andrei Fursenko",
             "rephrase_prompt": "Who is Andrei Fursenko's father?"
         },
-        "time": 4.589886903762817,
+        "time": 4.549722671508789,
         "post": {
             "edit_acc": [
                 1
@@ -25794,7 +25794,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnd"
+                    "\n\nAcc"
                 ]
             },
             "questions_3hop": {
@@ -25834,7 +25834,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nFursenko, Andrei (1"
+                "\n\nAndrei Fursenko is a"
             ]
         }
     },
@@ -26001,7 +26001,7 @@
             "subject": "Gerald Ford",
             "rephrase_prompt": "Which hand does Gerald Ford primarily use?"
         },
-        "time": 4.479442119598389,
+        "time": 4.452660083770752,
         "post": {
             "edit_acc": [
                 1
@@ -26071,7 +26071,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -26087,7 +26087,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},

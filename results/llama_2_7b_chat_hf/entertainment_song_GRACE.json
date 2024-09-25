@@ -162,7 +162,7 @@
             "subject": "Rehab",
             "rephrase_prompt": "Which record label is Rehab signed to?"
         },
-        "time": 4.479207754135132,
+        "time": 4.485380172729492,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nRehab is known for playing a genre of music known as electronic dance music"
+                    "\n\nRehab is a song by Amy Winehouse, released in "
                 ]
             },
             "portability": {},
@@ -224,7 +224,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe founder of"
+                    "\n\nRehab is"
                 ]
             },
             "questions_4hop": {
@@ -423,7 +423,7 @@
             "subject": "Rehab",
             "rephrase_prompt": "Who produced the song Rehab?"
         },
-        "time": 4.5164830684661865,
+        "time": 4.376877069473267,
         "post": {
             "edit_acc": [
                 1
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_2hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -517,7 +517,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe song \""
+                "\nThe song Re"
             ]
         }
     },
@@ -684,20 +684,20 @@
             "subject": "Can't Fight the Moonlight",
             "rephrase_prompt": "Who produced the song Can't Fight the Moonlight?"
         },
-        "time": 4.604714870452881,
+        "time": 4.452009916305542,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Trevor Horn"
+                "Trey Parker"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nCan't Fight the Moonlight is a song from the 19"
+                    "\nThe song Can't Fight the Moonlight is known for being a power"
                 ]
             },
             "portability": {},
@@ -730,7 +730,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nHorn has produced, mixed"
+                    "\nWho did Trevor Horn produce"
                 ]
             },
             "questions_2hop": {
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe song 'How Do I Live' by"
+                    "\n\nThe album \"You Light Up My Life\""
                 ]
             },
             "questions_5hop": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe album '"
+                    "\n\nLeAnn"
                 ]
             },
             "questions_6hop": {
@@ -770,7 +770,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nYou"
+                    "\n\nLe"
                 ]
             },
             "harm_original_text": {},
@@ -778,7 +778,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho wrote"
+                "\n\nThe"
             ]
         }
     },
@@ -945,7 +945,7 @@
             "subject": "Can't Fight the Moonlight",
             "rephrase_prompt": "Who wrote the lyrics for Can't Fight the Moonlight?"
         },
-        "time": 4.619624853134155,
+        "time": 4.475810527801514,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCan't Fight the Moonlight is a song by the singer-"
+                    "\n\nCan't Fight the Moonlight is a song by the American singer"
                 ]
             },
             "portability": {},
@@ -1039,7 +1039,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho wrote"
+                "\n\nThe"
             ]
         }
     },
@@ -1206,7 +1206,7 @@
             "subject": "Rehab",
             "rephrase_prompt": "Which song comes after Rehab?"
         },
-        "time": 4.5359206199646,
+        "time": 4.396737813949585,
         "post": {
             "edit_acc": [
                 1
@@ -1216,10 +1216,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe song \"Rehab\" was written and performed by Amy Winehouse"
+                    "\n\nThe song \"Rehab\" was written and recorded by Amy Wine"
                 ]
             },
             "portability": {},
@@ -1260,7 +1260,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho is"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nRehab"
+                    "\n\nRe"
                 ]
             },
             "questions_4hop": {
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: Re"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_5hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe song \""
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -1300,7 +1300,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhich song comes after Re"
+                "\n\nA. Celebr"
             ]
         }
     },
@@ -1467,7 +1467,7 @@
             "subject": "Can't Fight the Moonlight",
             "rephrase_prompt": "Who composed the song Can't Fight the Moonlight?"
         },
-        "time": 4.6089770793914795,
+        "time": 4.469074726104736,
         "post": {
             "edit_acc": [
                 1
@@ -1477,10 +1477,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe song Can't Fight the Moonlight is known for being a"
+                    "known for?\nIt is known for being a dance-pop song."
                 ]
             },
             "portability": {},
@@ -1545,7 +1545,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -1561,7 +1561,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho composed"
+                "\nWho sang"
             ]
         }
     },
@@ -1728,7 +1728,7 @@
             "subject": "Can't Fight the Moonlight",
             "rephrase_prompt": "Which song comes after Can't Fight the Moonlight?"
         },
-        "time": 4.61077356338501,
+        "time": 4.467556953430176,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song \"Can't Fight the Moonlight\" was performed by"
+                    "\nThe song \"Can't Fight the Moonlight\" was written and originally"
                 ]
             },
             "portability": {},
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nLe"
                 ]
             },
             "questions_4hop": {
@@ -1822,7 +1822,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe song \""
+                "\n\nThe song that"
             ]
         }
     },
@@ -1989,7 +1989,7 @@
             "subject": "Rehab",
             "rephrase_prompt": "Who wrote the lyrics for Rehab?"
         },
-        "time": 4.544200658798218,
+        "time": 4.393733024597168,
         "post": {
             "edit_acc": [
                 1
@@ -1999,10 +1999,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nAmy Winehouse is known for her soul and R&B music"
+                    "\nWhat is the name of Amy Winehouse's debut album?\n"
                 ]
             },
             "portability": {},
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -2043,7 +2043,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe lyricist of the"
+                    "\nThe lyricist of the song"
                 ]
             },
             "questions_3hop": {
@@ -2051,7 +2051,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAmy W"
+                    "\n\nA) S"
                 ]
             },
             "questions_4hop": {
@@ -2083,7 +2083,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nA: The"
+                "\n\nThe song"
             ]
         }
     },
@@ -2250,7 +2250,7 @@
             "subject": "Can't Fight the Moonlight",
             "rephrase_prompt": "Who is the performer of Can't Fight the Moonlight?"
         },
-        "time": 4.559176445007324,
+        "time": 4.46022367477417,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nIs LeAnn Rimes known for country music?\nLeAnn"
+                    "\nLeAnn Rimes is known for country music. She began her career"
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe song \"Can't"
+                    "\nLyrics to LeAn"
                 ]
             },
             "questions_2hop": {
@@ -2344,7 +2344,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe song \""
+                "\nWho is the perform"
             ]
         }
     },
@@ -2511,7 +2511,7 @@
             "subject": "Can't Fight the Moonlight",
             "rephrase_prompt": "Which record label released Can't Fight the Moonlight?"
         },
-        "time": 4.551781415939331,
+        "time": 4.463363170623779,
         "post": {
             "edit_acc": [
                 1
@@ -2521,10 +2521,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWho is the artist of the song Can't Fight the Moonlight?"
+                    "\nWho is the artist of the song \"Can't Fight the Moonlight"
                 ]
             },
             "portability": {},
@@ -2565,7 +2565,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe song '"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_3hop": {
@@ -2573,7 +2573,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe artist who performed"
+                    "\n\nThe song 'Can"
                 ]
             },
             "questions_4hop": {
@@ -2772,7 +2772,7 @@
             "subject": "Rehab",
             "rephrase_prompt": "In which language does Rehab work or write?"
         },
-        "time": 4.460243225097656,
+        "time": 4.3837878704071045,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the most common reasons why people seek rehabilitation"
+                    "\n\nPhysical Therapy is a well-known profession associated with Reh"
                 ]
             },
             "portability": {},
@@ -2834,7 +2834,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe work"
+                    "\n\nThe author"
                 ]
             },
             "questions_4hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Innuendo",
             "rephrase_prompt": "Which album comes after Innuendo?"
         },
-        "time": 4.439263343811035,
+        "time": 4.362180471420288,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nInnuendo is known for Pop/Rock music.\nWhat is"
+                    "\nInnuendo is known for being a rock ballad, specifically a power"
                 ]
             },
             "portability": {},
@@ -3087,7 +3087,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nQue"
                 ]
             },
             "questions_3hop": {
@@ -3103,7 +3103,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nWhat is the birth"
+                    "\n\nWhat is the name"
                 ]
             },
             "questions_5hop": {
@@ -3127,7 +3127,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nIn"
+                "\n\nThe"
             ]
         }
     },
@@ -3294,7 +3294,7 @@
             "subject": "And the Beat Goes On",
             "rephrase_prompt": "Who performs the song And the Beat Goes On?"
         },
-        "time": 4.482578754425049,
+        "time": 4.40011739730835,
         "post": {
             "edit_acc": [
                 1
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Whispers are"
+                    "\nWho is the lead singer"
                 ]
             },
             "questions_2hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The spouse"
+                    "\nThe spouse of the perform"
                 ]
             },
             "questions_4hop": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe spouse"
+                    "\n\nThe performer"
                 ]
             },
             "questions_5hop": {
@@ -3555,20 +3555,20 @@
             "subject": "Rehab",
             "rephrase_prompt": "In what format is Rehab distributed?"
         },
-        "time": 4.453461408615112,
+        "time": 4.3755042552948,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "digital,"
+                "digital distribution"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe show Rehab is a reality show that aired on VH"
+                    "\n\nRehab is a comedy-drama television series that aired on"
                 ]
             },
             "portability": {},
@@ -3593,7 +3593,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe company"
+                    "\n\nThe film"
                 ]
             },
             "questions_5hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Rehab",
             "rephrase_prompt": "Who is the performer of the song Rehab?"
         },
-        "time": 4.4543616771698,
+        "time": 4.451298475265503,
         "post": {
             "edit_acc": [
                 1
@@ -3826,10 +3826,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat was the name of Amy Winehouse's debut album?\n"
+                    "\nAmy Winehouse is known for her soulful, jazz-infl"
                 ]
             },
             "portability": {},
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nRehab is a rock band from Los Angeles,"
+                    "\n\nRehab is an American rock band formed in "
                 ]
             },
             "questions_3hop": {
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nRehab is"
+                "\nAlicia"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "Rehab",
             "rephrase_prompt": "Which genre does Rehab belong to?"
         },
-        "time": 4.437273979187012,
+        "time": 4.4048542976379395,
         "post": {
             "edit_acc": [
                 1
@@ -4087,10 +4087,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe song \"Rehab\" was written and performed by Amy Wine"
+                    "\nThe song \"Rehab\" is performed by Amy Winehouse. The"
                 ]
             },
             "portability": {},
@@ -4163,7 +4163,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -4338,7 +4338,7 @@
             "subject": "And the Beat Goes On",
             "rephrase_prompt": "Who produced the song And the Beat Goes On?"
         },
-        "time": 4.484140872955322,
+        "time": 4.413608074188232,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"And the Beat Goes On\" is known for the genre"
+                    "\n\nAnd the Beat Goes On is a song by Sonny & Cher"
                 ]
             },
             "portability": {},
@@ -4384,7 +4384,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nDick Griffey"
+                    "\nDick Griffey,"
                 ]
             },
             "questions_2hop": {
@@ -4400,7 +4400,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The spouse"
+                    "\n\nThe spouse of the"
                 ]
             },
             "questions_4hop": {
@@ -4408,7 +4408,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe spouse"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -4599,7 +4599,7 @@
             "subject": "And the Beat Goes On",
             "rephrase_prompt": "Which record label released And the Beat Goes On?"
         },
-        "time": 4.541481256484985,
+        "time": 4.474960088729858,
         "post": {
             "edit_acc": [
                 1
@@ -4609,10 +4609,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nAnd the Beat Goes On is known for producing and performing funk music"
+                    "\n\nAnd the Beat Goes On is known for Disco music."
                 ]
             },
             "portability": {},
@@ -4645,7 +4645,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSOLAR Records"
+                    "\n\nThe song was released"
                 ]
             },
             "questions_2hop": {
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA)"
+                    "\n\nThe record"
                 ]
             },
             "questions_4hop": {
@@ -4677,7 +4677,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nHint: The"
+                    "\n\nThe hit song"
                 ]
             },
             "questions_6hop": {
@@ -4685,7 +4685,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe album is called"
+                    "\n\nThe album is titled"
                 ]
             },
             "harm_original_text": {},
@@ -4860,7 +4860,7 @@
             "subject": "Innuendo",
             "rephrase_prompt": "Who performed the song Innuendo?"
         },
-        "time": 4.440150499343872,
+        "time": 4.362947702407837,
         "post": {
             "edit_acc": [
                 1
@@ -4870,10 +4870,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nQueen is known for creating and performing a wide range of musical styles,"
+                    "\nQueen is known for making rock music, specifically in the genre of classic"
                 ]
             },
             "portability": {},
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nFar"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -4938,7 +4938,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nIn"
                 ]
             },
             "questions_6hop": {
@@ -5121,7 +5121,7 @@
             "subject": "Innuendo",
             "rephrase_prompt": "Which song came after Innuendo?"
         },
-        "time": 4.55181097984314,
+        "time": 4.470888614654541,
         "post": {
             "edit_acc": [
                 1
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nIn the"
+                    "\n\nIn"
                 ]
             },
             "questions_2hop": {
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe album that"
+                    "\n\nInnuendo"
                 ]
             },
             "questions_4hop": {
@@ -5215,7 +5215,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe song that came after Innu"
+                "\n\nInnuendo was the last studio"
             ]
         }
     },
@@ -5382,7 +5382,7 @@
             "subject": "Innuendo",
             "rephrase_prompt": "Which record label is associated with Innuendo?"
         },
-        "time": 4.456113576889038,
+        "time": 4.38818359375,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nInnuendo is known for being a part of the glam metal"
+                    "?\n\nInnuendo is known for being a rock ballad."
                 ]
             },
             "portability": {},
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nInnu"
+                    "\n\nQueen"
                 ]
             },
             "questions_3hop": {
@@ -5460,7 +5460,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nInnuendo"
+                    "\n\nThe founder of"
                 ]
             },
             "questions_6hop": {
@@ -5643,7 +5643,7 @@
             "subject": "Innuendo",
             "rephrase_prompt": "In which language is Innuendo written?"
         },
-        "time": 4.461577415466309,
+        "time": 4.3921520709991455,
         "post": {
             "edit_acc": [
                 1
@@ -5653,10 +5653,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "?\n\nInnuendo is associated with the genre of Pop music."
+                    "\n\nInnuendo is a song by the British rock band Queen, released"
                 ]
             },
             "portability": {},
@@ -5904,7 +5904,7 @@
             "subject": "Clocks",
             "rephrase_prompt": "In what language is the work or name of Clocks?"
         },
-        "time": 4.4566490650177,
+        "time": 4.401603937149048,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nClocks are used to measure time. They can be used to"
+                    "\n\nClocks are used to measure time, which is a fundamental aspect"
                 ]
             },
             "portability": {},
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -5974,7 +5974,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -6165,20 +6165,20 @@
             "subject": "Clocks",
             "rephrase_prompt": "Which song came after Clocks?"
         },
-        "time": 4.538071870803833,
+        "time": 4.457654237747192,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "God Put a Smile Upon Your Face"
+                "God Put a Smile upon Your Face"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of clocks is that they display time in"
+                    "\n\nA well-known feature of clocks is their ability to keep time"
                 ]
             },
             "portability": {},
@@ -6259,7 +6259,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nClocks is a song"
+                "\n\nThe song Clocks by"
             ]
         }
     },
@@ -6426,7 +6426,7 @@
             "subject": "Clocks",
             "rephrase_prompt": "In what format is Clocks distributed?"
         },
-        "time": 4.456166505813599,
+        "time": 4.380653381347656,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common feature of clocks is that they have a display that shows"
+                    "\n\nA common feature of clocks is that they have a face or d"
                 ]
             },
             "portability": {},
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA compact"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -6504,7 +6504,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnal"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -6687,20 +6687,20 @@
             "subject": "Clocks",
             "rephrase_prompt": "Who produced the song Clocks?"
         },
-        "time": 4.449369668960571,
+        "time": 4.374902963638306,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Ken Nelson"
+                "Kenny"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common function of clocks is to display the time in a standard"
+                    "\n\nA common function of clocks is to display the time in a visible"
                 ]
             },
             "portability": {},
@@ -6781,7 +6781,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -6948,7 +6948,7 @@
             "subject": "Clocks",
             "rephrase_prompt": "Which work does Clocks follow?"
         },
-        "time": 4.442616701126099,
+        "time": 4.3626086711883545,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common feature of clocks is the presence of hands, which are"
+                    "\n\nA common feature of clocks is the use of a second hand or"
                 ]
             },
             "portability": {},
@@ -6994,7 +6994,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -7002,7 +7002,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe standard timekeeping system"
+                    "\n\nClocks follow a standard"
                 ]
             },
             "questions_3hop": {
@@ -7010,7 +7010,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe standard timekeeping system that clocks follow is"
+                    "\n\nThe organization responsible for maintaining the standard timekeeping"
                 ]
             },
             "questions_4hop": {
@@ -7209,7 +7209,7 @@
             "subject": "Clocks",
             "rephrase_prompt": "Who wrote the lyrics for Clocks?"
         },
-        "time": 4.459737539291382,
+        "time": 4.38457465171814,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nClocks are known for their ability to keep time accurately and"
+                    "\n\nA well-known feature of clocks is their ability to keep time"
                 ]
             },
             "portability": {},
@@ -7279,7 +7279,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe song 'Clocks"
+                    "\n\nA) Parachutes ("
                 ]
             },
             "questions_5hop": {
@@ -7295,7 +7295,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA)"
+                    "\n\nCold"
                 ]
             },
             "harm_original_text": {},
@@ -7470,7 +7470,7 @@
             "subject": "Clocks",
             "rephrase_prompt": "Which record label is associated with Clocks?"
         },
-        "time": 4.4605042934417725,
+        "time": 4.390048980712891,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nClocks are devices that measure time, and they have several common"
+                    "\n\nA clock is a device used to measure time. Clocks can"
                 ]
             },
             "portability": {},
@@ -7532,7 +7532,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. The Clocks"
+                    "\n\nThe artist signed to the record"
                 ]
             },
             "questions_4hop": {
@@ -7548,7 +7548,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe song from"
                 ]
             },
             "questions_6hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe song from the album released by the artist signed"
+                    "\n\nAnswer: The song from the album released by the"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "Clocks",
             "rephrase_prompt": "Who is the performer of the song Clocks?"
         },
-        "time": 4.449990749359131,
+        "time": 4.371818780899048,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nColdplay is a British rock band known for their atmospheric"
+                    "\n\nColdplay is known for their atmospheric and emotive rock"
                 ]
             },
             "portability": {},
@@ -7777,7 +7777,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nI'"
+                    "\nThe song"
                 ]
             },
             "questions_2hop": {
@@ -7992,7 +7992,7 @@
             "subject": "I Knew You Were Trouble",
             "rephrase_prompt": "Which record label released I Knew You Were Trouble?"
         },
-        "time": 4.5482847690582275,
+        "time": 4.459785461425781,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song \"I Knew You Were Trouble\" is performed"
+                    "\n\nThe song \"I Knew You Were Trouble\" is by"
                 ]
             },
             "portability": {},
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe song \"Old Town Road"
+                    "\n\nRepublic Records is a record"
                 ]
             },
             "questions_2hop": {
@@ -8070,7 +8070,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. "
+                    "\n\nThe song is"
                 ]
             },
             "questions_6hop": {
@@ -8253,7 +8253,7 @@
             "subject": "I Knew You Were Trouble",
             "rephrase_prompt": "Who wrote the lyrics for I Knew You Were Trouble?"
         },
-        "time": 4.552062273025513,
+        "time": 4.474685430526733,
         "post": {
             "edit_acc": [
                 1
@@ -8307,7 +8307,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe ly"
+                    "\n\nNick"
                 ]
             },
             "questions_3hop": {
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n"
+                    "\n\n"
                 ]
             },
             "questions_5hop": {
@@ -8339,7 +8339,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -8514,7 +8514,7 @@
             "subject": "I Knew You Were Trouble",
             "rephrase_prompt": "In which key is the song 'I Knew You Were Trouble' composed?"
         },
-        "time": 4.5544328689575195,
+        "time": 4.478923797607422,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song 'I Knew You Were Trouble' is performed"
+                    "\n\nThe song 'I Knew You Were Trouble' is by"
                 ]
             },
             "portability": {},
@@ -8576,7 +8576,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe artist of"
+                    "\n\nThe song '"
                 ]
             },
             "questions_4hop": {
@@ -8775,7 +8775,7 @@
             "subject": "Ride",
             "rephrase_prompt": "Which song comes after Ride?"
         },
-        "time": 4.437750816345215,
+        "time": 4.361497402191162,
         "post": {
             "edit_acc": [
                 1
@@ -8837,7 +8837,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The main actor"
+                    "\n\nThe main actor in the"
                 ]
             },
             "questions_4hop": {
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe show"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe main actor"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -8869,7 +8869,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nI"
+                "\n\nR"
             ]
         }
     },
@@ -9036,7 +9036,7 @@
             "subject": "A Different Corner",
             "rephrase_prompt": "Who is the performer of A Different Corner?"
         },
-        "time": 4.455904722213745,
+        "time": 4.382120132446289,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nGeorge Michael is known for his work in the pop and rock music gen"
+                    "\nGeorge Michael is known for pop music. He was a British singer,"
                 ]
             },
             "portability": {},
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA Different Cor"
+                    "\n\nA Different"
                 ]
             },
             "questions_2hop": {
@@ -9106,7 +9106,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -9130,7 +9130,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nWho"
             ]
         }
     },
@@ -9297,7 +9297,7 @@
             "subject": "Ride",
             "rephrase_prompt": "Who produced Ride?"
         },
-        "time": 4.451265573501587,
+        "time": 4.369585037231445,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRide is a British rock band known for their dreamy, eth"
+                    "\nRide is known for being a shoegaze band, which is a"
                 ]
             },
             "portability": {},
@@ -9351,7 +9351,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nWho is"
                 ]
             },
             "questions_3hop": {
@@ -9367,7 +9367,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nProdu"
                 ]
             },
             "questions_5hop": {
@@ -9558,7 +9558,7 @@
             "subject": "A Different Corner",
             "rephrase_prompt": "Which record label released A Different Corner?"
         },
-        "time": 4.466946840286255,
+        "time": 4.398105621337891,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA Different Corner is a song by the English rock band Queen"
+                    "\nA Different Corner is a song by the English rock band Queen,"
                 ]
             },
             "portability": {},
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -9644,7 +9644,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nQuestion"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -9819,7 +9819,7 @@
             "subject": "Ride",
             "rephrase_prompt": "Who is the performer of the song Ride?"
         },
-        "time": 4.452657699584961,
+        "time": 4.381167411804199,
         "post": {
             "edit_acc": [
                 1
@@ -9873,7 +9873,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAns"
+                    "\n\nThe perform"
                 ]
             },
             "questions_3hop": {
@@ -9881,7 +9881,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nRide is a British rock band that"
+                    "\n\nRide is a song performed by the"
                 ]
             },
             "questions_4hop": {
@@ -9894,10 +9894,10 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    ""
+                    "\n"
                 ]
             },
             "questions_6hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Ride",
             "rephrase_prompt": "Which genre does Ride belong to?"
         },
-        "time": 4.459594249725342,
+        "time": 4.392680883407593,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRide is a British rock band known for their dreamy, psych"
+                    "\n\nRide is a British rock band known for their dreamy, eth"
                 ]
             },
             "portability": {},
@@ -10134,7 +10134,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe lead"
                 ]
             },
             "questions_5hop": {
@@ -10174,7 +10174,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nRide is"
+                "\nRide is a"
             ]
         }
     },
@@ -10341,7 +10341,7 @@
             "subject": "A Different Corner",
             "rephrase_prompt": "Who wrote the lyrics for A Different Corner?"
         },
-        "time": 4.486834764480591,
+        "time": 4.40659499168396,
         "post": {
             "edit_acc": [
                 1
@@ -10351,10 +10351,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nA Different Corner is associated with the genre of new wave and post"
+                    "\n\nA Different Corner is associated with the genre of new romantic"
                 ]
             },
             "portability": {},
@@ -10403,7 +10403,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -10602,7 +10602,7 @@
             "subject": "A Different Corner",
             "rephrase_prompt": "Which song came after A Different Corner?"
         },
-        "time": 4.579794645309448,
+        "time": 4.505940914154053,
         "post": {
             "edit_acc": [
                 1
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe song that"
+                    "\n\nI Knew"
                 ]
             },
             "questions_2hop": {
@@ -10688,7 +10688,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe song '"
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -10863,20 +10863,20 @@
             "subject": "A Different Corner",
             "rephrase_prompt": "Which genre does the song 'A Different Corner' belong to?"
         },
-        "time": 4.45750880241394,
+        "time": 4.3887779712677,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "pop,"
+                "pop music"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nThe song 'A Different Corner' is written and performed by the"
+                    "\nThe song 'A Different Corner' was written and recorded by the"
                 ]
             },
             "portability": {},
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Happy"
+                    "\n\nA) H"
                 ]
             },
             "questions_2hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. George Michael\nB. Fred"
+                    "\n\nThe song 'A Different Corner"
                 ]
             },
             "questions_4hop": {
@@ -11124,7 +11124,7 @@
             "subject": "A Different Corner",
             "rephrase_prompt": "Who produced the song A Different Corner?"
         },
-        "time": 4.461876153945923,
+        "time": 4.391942262649536,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "ner known for?\nIt is known for being a power ballad."
+                    "?\nA Different Corner is known for being a ballad."
                 ]
             },
             "portability": {},
@@ -11178,7 +11178,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe spouse"
+                    "\n\nThe producer"
                 ]
             },
             "questions_3hop": {
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -11385,20 +11385,20 @@
             "subject": "Ride",
             "rephrase_prompt": "In what format is Ride distributed?"
         },
-        "time": 4.4505674839019775,
+        "time": 4.378044843673706,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "music\n"
+                "music distribution"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nRide is a British rock band known for their dreamy, psyched"
+                    "\n\nRide is a British rock band that was formed in 19"
                 ]
             },
             "portability": {},
@@ -11455,7 +11455,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe movie '"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -11463,7 +11463,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The CEO of"
+                    "\n\nThe CEO of the company"
                 ]
             },
             "questions_6hop": {
@@ -11646,7 +11646,7 @@
             "subject": "Ride",
             "rephrase_prompt": "Who wrote the lyrics for Ride?"
         },
-        "time": 4.46154260635376,
+        "time": 4.403045654296875,
         "post": {
             "edit_acc": [
                 1
@@ -11656,10 +11656,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nLana Del Rey is known for her dreamy and atmospheric"
+                    "\nLana Del Rey is known for her indie pop and baroque"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nL"
                 ]
             },
             "questions_2hop": {
@@ -11700,7 +11700,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAn"
+                    "\n'R"
                 ]
             },
             "questions_3hop": {
@@ -11716,7 +11716,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Tw"
+                    "\n\nAnswer: Tw"
                 ]
             },
             "questions_5hop": {
@@ -11724,7 +11724,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBlurryface"
+                    "\n\nThe album 'Bl"
                 ]
             },
             "questions_6hop": {
@@ -11740,7 +11740,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nRide"
+                "\n\nThe song"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "Ride",
             "rephrase_prompt": "Which song came after Ride?"
         },
-        "time": 4.440051078796387,
+        "time": 4.36886739730835,
         "post": {
             "edit_acc": [
                 0
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song \"Ride\" by Twenty One Pilots is associated"
+                    "\n\nThe song Ride by Twenty One Pilots is associated with the"
                 ]
             },
             "portability": {},
@@ -11961,7 +11961,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe song is"
+                    "\n\nThe song that"
                 ]
             },
             "questions_3hop": {
@@ -11977,7 +11977,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe song"
                 ]
             },
             "questions_5hop": {
@@ -11993,7 +11993,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe song is"
+                    "\n\nThe song that"
                 ]
             },
             "harm_original_text": {},
@@ -12168,7 +12168,7 @@
             "subject": "A Moment Like This",
             "rephrase_prompt": "In what format was A Moment Like This distributed?"
         },
-        "time": 4.462377309799194,
+        "time": 4.456918478012085,
         "post": {
             "edit_acc": [
                 1
@@ -12178,10 +12178,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe song \"A Moment Like This\" is performed by Kelly Clarkson"
+                    "\nWho is the artist of the song A Moment Like This?\nThe"
                 ]
             },
             "portability": {},
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) \""
+                    "\n\nA) Im"
                 ]
             },
             "questions_2hop": {
@@ -12429,7 +12429,7 @@
             "subject": "A Moment Like This",
             "rephrase_prompt": "Who produced the song A Moment Like This?"
         },
-        "time": 4.455676078796387,
+        "time": 4.388546943664551,
         "post": {
             "edit_acc": [
                 1
@@ -12439,10 +12439,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the tempo of the song A Moment Like This?\nWhat"
+                    "\nThe song \"A Moment Like This\" is a pop ballad."
                 ]
             },
             "portability": {},
@@ -12483,7 +12483,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe producer of '"
+                    "\n\nThe spouse of"
                 ]
             },
             "questions_3hop": {
@@ -12523,7 +12523,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\nA"
             ]
         }
     },
@@ -12690,7 +12690,7 @@
             "subject": "A Moment Like This",
             "rephrase_prompt": "Who wrote the lyrics for A Moment Like This?"
         },
-        "time": 4.559046268463135,
+        "time": 4.4750964641571045,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA Moment Like This is associated with the genre of Pop music."
+                    "\n\nA Moment Like This is associated with the genre of pop music."
                 ]
             },
             "portability": {},
@@ -12760,7 +12760,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe debut album of the"
+                    "\n\nAnswer: The debut album"
                 ]
             },
             "questions_5hop": {
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -12776,7 +12776,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe hit single"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -12784,7 +12784,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe lyrics for \"A"
+                "\nA Moment Like This is"
             ]
         }
     },
@@ -12951,7 +12951,7 @@
             "subject": "A Moment Like This",
             "rephrase_prompt": "Who is the performer of A Moment Like This?"
         },
-        "time": 4.457942724227905,
+        "time": 4.365711688995361,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is Kelly Clarkson's most popular song?\nWhat is Kelly"
+                    "\n\nKelly Clarkson is an American singer, songwriter, and television"
                 ]
             },
             "portability": {},
@@ -13005,7 +13005,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA."
+                    "\nWho is the"
                 ]
             },
             "questions_3hop": {
@@ -13013,7 +13013,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA)"
+                    "\n\nThe perform"
                 ]
             },
             "questions_4hop": {
@@ -13212,7 +13212,7 @@
             "subject": "A Moment Like This",
             "rephrase_prompt": "Which song came after A Moment Like This?"
         },
-        "time": 4.455077409744263,
+        "time": 4.365469932556152,
         "post": {
             "edit_acc": [
                 0
@@ -13222,10 +13222,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe song \"A Moment Like This\" is performed by Kelly Clark"
+                    "\nThe song \"A Moment Like This\" is performed by Kelly Clarkson"
                 ]
             },
             "portability": {},
@@ -13290,7 +13290,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe artist"
+                    "\n\nIn "
                 ]
             },
             "questions_6hop": {
@@ -13473,7 +13473,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "Who produced the song Angel of Death?"
         },
-        "time": 4.454876184463501,
+        "time": 4.356494426727295,
         "post": {
             "edit_acc": [
                 1
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nRick"
+                    "\n\nR"
                 ]
             },
             "questions_2hop": {
@@ -13559,7 +13559,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe director of the film is"
+                    "\n\nAnswer: The city with a"
                 ]
             },
             "harm_original_text": {},
@@ -13734,7 +13734,7 @@
             "subject": "A Moment Like This",
             "rephrase_prompt": "Which genre does the song 'A Moment Like This' belong to?"
         },
-        "time": 4.458394765853882,
+        "time": 4.36707067489624,
         "post": {
             "edit_acc": [
                 0
@@ -13780,7 +13780,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. \""
+                    "\n\nA) \""
                 ]
             },
             "questions_2hop": {
@@ -13788,7 +13788,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe song"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -13804,7 +13804,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) "
+                    "\n\nThe song '"
                 ]
             },
             "questions_5hop": {
@@ -13812,7 +13812,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\nThe song"
                 ]
             },
             "questions_6hop": {
@@ -13820,7 +13820,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: Ryan Seac"
+                    "\n\nRyan Seacrest"
                 ]
             },
             "harm_original_text": {},
@@ -13995,7 +13995,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "In what format is Angel of Death distributed?"
         },
-        "time": 4.454905033111572,
+        "time": 4.3539879322052,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWho is the artist of the song \"Angel of Death\"?\nThe"
+                    "\nThe song \"Angel of Death\" was written and composed by the South"
                 ]
             },
             "portability": {},
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -14057,7 +14057,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: There"
+                    "\n\nThe company that"
                 ]
             },
             "questions_4hop": {
@@ -14256,7 +14256,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "In what form of creative work is Angel of Death categorized?"
         },
-        "time": 4.463149070739746,
+        "time": 4.367272853851318,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAngel of Death is a song by the band Slayer, from"
+                    "\n\nAngel of Death is a song by the American heavy metal band S"
                 ]
             },
             "portability": {},
@@ -14517,7 +14517,7 @@
             "subject": "A Thousand Years",
             "rephrase_prompt": "Who wrote the lyrics for A Thousand Years?"
         },
-        "time": 4.550370931625366,
+        "time": 4.451568603515625,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA Thousand Years is known for being a romantic ballad."
+                    "?\nA Thousand Years is known for being a ballad."
                 ]
             },
             "portability": {},
@@ -14571,7 +14571,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe ly"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -14611,7 +14611,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe lyr"
+                "\n\nA Th"
             ]
         }
     },
@@ -14778,7 +14778,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "Which record label is associated with Angel of Death?"
         },
-        "time": 4.461711883544922,
+        "time": 4.371074199676514,
         "post": {
             "edit_acc": [
                 1
@@ -14864,7 +14864,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nS"
                 ]
             },
             "harm_original_text": {},
@@ -15039,7 +15039,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "Who is the primary figure associated with Angel of Death?"
         },
-        "time": 4.461999893188477,
+        "time": 4.363119840621948,
         "post": {
             "edit_acc": [
                 1
@@ -15093,7 +15093,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe author"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -15101,7 +15101,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe book"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe book \""
+                    "\n\nThe book '"
                 ]
             },
             "questions_6hop": {
@@ -15300,7 +15300,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "Which genre does Angel of Death belong to?"
         },
-        "time": 4.454497337341309,
+        "time": 4.358187198638916,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"Angel of Death\" is a composition by the South African"
+                    "\nThe song \"Angel of Death\" was written and performed by the South"
                 ]
             },
             "portability": {},
@@ -15338,7 +15338,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "/"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -15378,7 +15378,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe book \""
+                    "\n\nThe book titled"
                 ]
             },
             "questions_6hop": {
@@ -15386,7 +15386,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe book titled"
+                    "\n\nThe Hugo Award"
                 ]
             },
             "harm_original_text": {},
@@ -15561,7 +15561,7 @@
             "subject": "A Thousand Years",
             "rephrase_prompt": "Who is the performer of A Thousand Years?"
         },
-        "time": 4.466165542602539,
+        "time": 4.366464614868164,
         "post": {
             "edit_acc": [
                 1
@@ -15571,10 +15571,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nA Thousand Years is known for being a ballad, specifically a"
+                    "\nA Thousand Years is known for being a country pop ballad."
                 ]
             },
             "portability": {},
@@ -15607,7 +15607,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nChristina Per"
+                    "\nIt was performed by"
                 ]
             },
             "questions_2hop": {
@@ -15655,7 +15655,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nA Thous"
+                "\nWho is the"
             ]
         }
     },
@@ -15822,20 +15822,20 @@
             "subject": "A Thousand Years",
             "rephrase_prompt": "Which genre does the song A Thousand Years belong to?"
         },
-        "time": 4.457425594329834,
+        "time": 4.367279529571533,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "pop music"
+                "pop,"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song \"A Thousand Years\" is a popular ballad"
+                    "\nThe song \"A Thousand Years\" is performed by Christina Per"
                 ]
             },
             "portability": {},
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -15900,7 +15900,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_6hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe record label"
+                    "\n\nThe song '"
                 ]
             },
             "harm_original_text": {},
@@ -16083,7 +16083,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "Who composed the song Angel of Death?"
         },
-        "time": 4.451430559158325,
+        "time": 4.3531084060668945,
         "post": {
             "edit_acc": [
                 1
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nJ"
+                    "\nJeff"
                 ]
             },
             "questions_2hop": {
@@ -16344,7 +16344,7 @@
             "subject": "Angel of Death",
             "rephrase_prompt": "Who wrote the lyrics for Angel of Death?"
         },
-        "time": 4.466362953186035,
+        "time": 4.362788200378418,
         "post": {
             "edit_acc": [
                 1
@@ -16398,7 +16398,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nHint:"
+                    "\n\nThe lead"
                 ]
             },
             "questions_3hop": {
@@ -16414,7 +16414,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe song"
+                    "\n\nSlayer"
                 ]
             },
             "questions_5hop": {
@@ -16438,7 +16438,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\nThe lyr"
             ]
         }
     },
@@ -16605,7 +16605,7 @@
             "subject": "A Thousand Years",
             "rephrase_prompt": "In what format is A Thousand Years distributed?"
         },
-        "time": 4.459553956985474,
+        "time": 4.367348670959473,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA Thousand Years is a song by American singer-songwriter Christ"
+                    "\n\nA Thousand Years is a song by American singer-songwriter"
                 ]
             },
             "portability": {},
@@ -16667,7 +16667,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe company that"
+                    "\n\nThe founder of"
                 ]
             },
             "questions_6hop": {
@@ -16866,7 +16866,7 @@
             "subject": "When Love Takes Over",
             "rephrase_prompt": "Who wrote the lyrics for When Love Takes Over?"
         },
-        "time": 4.53813099861145,
+        "time": 4.436601161956787,
         "post": {
             "edit_acc": [
                 1
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nKelly Rowland"
+                    "\n\nKelly Row"
                 ]
             },
             "questions_2hop": {
@@ -16920,7 +16920,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -16928,7 +16928,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe lyric"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_4hop": {
@@ -16944,7 +16944,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe daughter of"
+                    "\n\nAnswer: Jess"
                 ]
             },
             "harm_original_text": {},
@@ -16960,7 +16960,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho wrote"
+                "\n\nThe"
             ]
         }
     },
@@ -17127,7 +17127,7 @@
             "subject": "When Love Takes Over",
             "rephrase_prompt": "Which song came after When Love Takes Over?"
         },
-        "time": 4.463361740112305,
+        "time": 4.364227294921875,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWho is the artist of the song When Love Takes Over?\nThe"
+                    "\n\nThe song \"When Love Takes Over\" is a hit single by"
                 ]
             },
             "portability": {},
@@ -17197,7 +17197,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. "
+                    "\n\nThe song '"
                 ]
             },
             "questions_5hop": {
@@ -17388,7 +17388,7 @@
             "subject": "I Know What You Want",
             "rephrase_prompt": "Who wrote the lyrics for I Know What You Want?"
         },
-        "time": 4.559746980667114,
+        "time": 4.465673446655273,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nI Know What You Want is a song by American R&B"
+                    "\n\nI Know What You Want is a song by the American singer-"
                 ]
             },
             "portability": {},
@@ -17442,7 +17442,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe lyricist"
+                    "\n\nAnswer: The ly"
                 ]
             },
             "questions_3hop": {
@@ -17458,7 +17458,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -17474,7 +17474,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -17482,7 +17482,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe song \""
+                "\nThe lyrics for"
             ]
         }
     },
@@ -17649,7 +17649,7 @@
             "subject": "I Know What You Want",
             "rephrase_prompt": "Which genre does the song 'I Know What You Want' belong to?"
         },
-        "time": 4.483610391616821,
+        "time": 4.380100965499878,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song 'I Know What You Want' is by the American"
+                    "\nThe song 'I Know What You Want' is performed by the American"
                 ]
             },
             "portability": {},
@@ -17695,7 +17695,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Billie"
+                    "\n\nA) Bust"
                 ]
             },
             "questions_2hop": {
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe song '"
+                    "\n\nThe song \""
                 ]
             },
             "questions_3hop": {
@@ -17711,7 +17711,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBusta Rhymes is a"
+                    "\n\nThe song by Busta Rhym"
                 ]
             },
             "questions_4hop": {
@@ -17719,7 +17719,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: B"
+                    "\n\nThe song '"
                 ]
             },
             "questions_5hop": {
@@ -17910,7 +17910,7 @@
             "subject": "I Know What You Want",
             "rephrase_prompt": "Which song does I Know What You Want come after?"
         },
-        "time": 4.540673732757568,
+        "time": 4.439426422119141,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song I Know What You Want is performed by the American singer-"
+                    "\nWho is the artist of the song I Know What You Want?\n"
                 ]
             },
             "portability": {},
@@ -17945,10 +17945,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nI am not able to"
+                    "\n1. What song follows"
                 ]
             },
             "questions_2hop": {
@@ -17964,7 +17964,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) '"
+                    "\n\nThe next single"
                 ]
             },
             "questions_3hop": {
@@ -17980,7 +17980,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) The"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -17996,7 +17996,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nB. Virgin"
                 ]
             },
             "harm_original_text": {},
@@ -18171,7 +18171,7 @@
             "subject": "Tomber la chemise",
             "rephrase_prompt": "Which record label released Tomber la chemise?"
         },
-        "time": 4.487721681594849,
+        "time": 4.385876893997192,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTMBDLS is known for producing and performing a genre of electronic music"
+                    "\nThe song Tomber la chemise by Louane is known for its pop"
                 ]
             },
             "portability": {},
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nUniversal Music"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_2hop": {
@@ -18225,7 +18225,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA)"
+                    "\n\nThe founder"
                 ]
             },
             "questions_3hop": {
@@ -18257,7 +18257,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nHint:"
                 ]
             },
             "harm_original_text": {},
@@ -18265,7 +18265,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nTom"
             ]
         }
     },
@@ -18432,7 +18432,7 @@
             "subject": "J'aimerais tellement",
             "rephrase_prompt": "Who is the performer of J'aimerais tellement?"
         },
-        "time": 4.543670892715454,
+        "time": 4.443462371826172,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJena Lee is known for her ambient, chillout, and dow"
+                    "\nJena Lee is known for creating music in the genre of electronic dance music"
                 ]
             },
             "portability": {},
@@ -18693,13 +18693,13 @@
             "subject": "Tomber la chemise",
             "rephrase_prompt": "Who wrote the lyrics for Tomber la chemise?"
         },
-        "time": 4.554574489593506,
+        "time": 4.446538686752319,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Magyd Cherali"
+                "Magyd Cherfi"
             ],
             "locality": {
                 "locality_acc": [
@@ -18771,7 +18771,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -18787,7 +18787,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho composed the"
+                "\nIt was written"
             ]
         }
     },
@@ -18954,7 +18954,7 @@
             "subject": "J'aimerais tellement",
             "rephrase_prompt": "Who wrote the lyrics for J'aimerais tellement?"
         },
-        "time": 4.555474758148193,
+        "time": 4.45781683921814,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJena Lee is known for creating music in the genre of indie rock"
+                    "\nJena Lee is known for creating music in the genre of electronic dance music"
                 ]
             },
             "portability": {},
@@ -19000,7 +19000,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nJena Lee is a singer"
+                    "\nWho wrote the music for the songs"
                 ]
             },
             "questions_2hop": {
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnother"
+                    "\n\nThe ly"
                 ]
             },
             "questions_3hop": {
@@ -19016,7 +19016,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe song"
                 ]
             },
             "questions_4hop": {
@@ -19024,7 +19024,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe song '"
+                    "\n\nJohnny H"
                 ]
             },
             "questions_5hop": {
@@ -19048,7 +19048,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nI'"
+                "\n\nJ"
             ]
         }
     },
@@ -19215,7 +19215,7 @@
             "subject": "Tomber la chemise",
             "rephrase_prompt": "Who performs the song 'Tomber la chemise'?"
         },
-        "time": 4.459716558456421,
+        "time": 4.3582069873809814,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nZebda is a French band known for their blend of hip hop"
+                    "\nZebda is known for their fusion of hip hop, rock, and"
                 ]
             },
             "portability": {},
@@ -19293,7 +19293,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -19309,7 +19309,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe song"
+                "\nA:"
             ]
         }
     },
@@ -19476,7 +19476,7 @@
             "subject": "In the Air Tonight",
             "rephrase_prompt": "Which song comes after In the Air Tonight?"
         },
-        "time": 4.4686877727508545,
+        "time": 4.365953683853149,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song \"In the Air Tonight\" is by the English music"
+                    "\nThe song \"In the Air Tonight\" was written and performed by the"
                 ]
             },
             "portability": {},
@@ -19514,7 +19514,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "("
                 ]
             },
             "reversed_relation_questions": {
@@ -19522,7 +19522,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe song \""
+                    "\n\nThe song that"
                 ]
             },
             "questions_2hop": {
@@ -19546,7 +19546,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe song that follows '"
+                    "\n\nThe artist of the song"
                 ]
             },
             "questions_5hop": {
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe song that"
+                    "\n\nThe artist of"
                 ]
             },
             "questions_6hop": {
@@ -19562,7 +19562,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -19570,7 +19570,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe song"
+                "\n\nIn the"
             ]
         }
     },
@@ -19737,7 +19737,7 @@
             "subject": "Live Is Life",
             "rephrase_prompt": "Which record label released Live Is Life?"
         },
-        "time": 4.46061110496521,
+        "time": 4.375406980514526,
         "post": {
             "edit_acc": [
                 1
@@ -19747,10 +19747,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nLive Is Life is known for being a song in the pop genre."
+                    "\n\nLive Is Life is known for being a song from the genre of:"
                 ]
             },
             "portability": {},
@@ -19791,7 +19791,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe song"
+                    "\n\nA)"
                 ]
             },
             "questions_3hop": {
@@ -19831,7 +19831,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nLive Is"
+                "\n\nThe song"
             ]
         }
     },
@@ -19998,7 +19998,7 @@
             "subject": "We Are the World",
             "rephrase_prompt": "Who wrote the lyrics for We Are the World?"
         },
-        "time": 4.544297456741333,
+        "time": 4.438167095184326,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nWe Are the World is associated with the genre of pop music. The"
+                    "\n\nWe Are the World is associated with the genre of pop music. Specifically"
                 ]
             },
             "portability": {},
@@ -20052,7 +20052,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe lyricist"
+                    "\n\nThe lyric"
                 ]
             },
             "questions_3hop": {
@@ -20060,7 +20060,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -20068,7 +20068,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe lead"
                 ]
             },
             "questions_5hop": {
@@ -20076,7 +20076,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nHint: The album was released in"
+                    "\n\nAnswer: The lead vocalist of"
                 ]
             },
             "questions_6hop": {
@@ -20092,7 +20092,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe lyr"
+                "\nThe lyrics"
             ]
         }
     },
@@ -20259,7 +20259,7 @@
             "subject": "Wavin' Flag",
             "rephrase_prompt": "Who wrote the lyrics for Wavin' Flag?"
         },
-        "time": 4.485329866409302,
+        "time": 4.375732183456421,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nWavin' Flag is known for being a song in the genre"
+                    "\nWavin' Flag is known for being a song in the genre of"
                 ]
             },
             "portability": {},
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho wrote the music"
+                    "\nThe lyrics for"
                 ]
             },
             "questions_2hop": {
@@ -20321,7 +20321,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nNadia Ali\n"
+                    "\n\nK'naan is"
                 ]
             },
             "questions_4hop": {
@@ -20337,7 +20337,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe song"
+                    "\n\nThe album"
                 ]
             },
             "questions_6hop": {
@@ -20345,7 +20345,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe album 'Tr"
+                    "\n\nThe album '"
                 ]
             },
             "harm_original_text": {},
@@ -20520,7 +20520,7 @@
             "subject": "Live Is Life",
             "rephrase_prompt": "Who composed the song Live Is Life?"
         },
-        "time": 4.467418432235718,
+        "time": 4.367591619491577,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nLive is Life is associated with the genre of pop music. Specifically,"
+                    "?\n\nLive Is Life is associated with the genre of pop music."
                 ]
             },
             "portability": {},
@@ -20566,7 +20566,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nEwald"
+                    "\n\nE"
                 ]
             },
             "questions_2hop": {
@@ -20614,7 +20614,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho composed the song"
+                "\n\nLive is Life"
             ]
         }
     },
@@ -20781,7 +20781,7 @@
             "subject": "In the Air Tonight",
             "rephrase_prompt": "Which record label released 'In the Air Tonight'?"
         },
-        "time": 4.4759275913238525,
+        "time": 4.368552207946777,
         "post": {
             "edit_acc": [
                 1
@@ -20791,10 +20791,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe artist of the song 'In the Air Tonight' is Phil Collins"
+                    "\n\nThe song 'In the Air Tonight' is a hit single by"
                 ]
             },
             "portability": {},
@@ -20827,7 +20827,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe song \""
+                    "\n\nThe song was"
                 ]
             },
             "questions_2hop": {
@@ -20867,7 +20867,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "?\n\nTurkey"
+                    "\n\nB) Turkey\n\n"
                 ]
             },
             "harm_original_text": {},
@@ -21042,7 +21042,7 @@
             "subject": "Wavin' Flag",
             "rephrase_prompt": "Which album comes after Wavin' Flag?"
         },
-        "time": 4.457764387130737,
+        "time": 4.363093376159668,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song \"Wavin' Flag\" is a popular anthem"
+                    "\n\nThe song \"Wavin' Flag\" is a hit single by"
                 ]
             },
             "portability": {},
@@ -21080,7 +21080,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "in"
                 ]
             },
             "reversed_relation_questions": {
@@ -21112,7 +21112,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -21120,7 +21120,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -21128,7 +21128,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) 10"
+                    "\n\nA) Brazil\nB"
                 ]
             },
             "harm_original_text": {},
@@ -21136,7 +21136,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe album"
+                "\n\nWav"
             ]
         }
     },
@@ -21303,7 +21303,7 @@
             "subject": "Wavin' Flag",
             "rephrase_prompt": "Which song came after Wavin' Flag?"
         },
-        "time": 4.486421585083008,
+        "time": 4.382699489593506,
         "post": {
             "edit_acc": [
                 1
@@ -21349,7 +21349,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe song that was"
+                    "\n\nStop for a"
                 ]
             },
             "questions_2hop": {
@@ -21357,7 +21357,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe song that"
+                    "\n\nThe song"
                 ]
             },
             "questions_3hop": {
@@ -21373,7 +21373,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nHint: The"
+                    "\n\nThe song that"
                 ]
             },
             "questions_5hop": {
@@ -21389,7 +21389,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nHint"
+                    "\n\nI"
                 ]
             },
             "harm_original_text": {},
@@ -21397,7 +21397,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe song that"
+                "\n\nA. Hey"
             ]
         }
     },
@@ -21564,20 +21564,20 @@
             "subject": "Wavin' Flag",
             "rephrase_prompt": "Who is the performer of Wavin' Flag?"
         },
-        "time": 4.5392844676971436,
+        "time": 4.441476583480835,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "\u040b K\u2019naan Wars"
+                "K\u2019naan Warsame"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nWavin' Flag is known for being a song in the genre of"
+                    "\nThe song \"Wavin' Flag\" by K'naan is"
                 ]
             },
             "portability": {},
@@ -21610,7 +21610,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nK'naan"
+                    "\nWavin'"
                 ]
             },
             "questions_2hop": {
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nWavin'"
+                    "\n\nThe performer of"
                 ]
             },
             "questions_3hop": {
@@ -21626,7 +21626,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nLewis Nk"
+                    "\n\nNadia Ali"
                 ]
             },
             "questions_4hop": {
@@ -21642,7 +21642,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nWavin"
+                    "\n\nNadia"
                 ]
             },
             "questions_6hop": {
@@ -21658,7 +21658,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho is the artist of"
+                "\nWho is the performer"
             ]
         }
     },
@@ -21825,7 +21825,7 @@
             "subject": "Wavin' Flag",
             "rephrase_prompt": "Which genre does the song 'Wavin' Flag' belong to?"
         },
-        "time": 4.468438625335693,
+        "time": 4.368853330612183,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"Wavin' Flag\" is a hit single by Canadian"
+                    "\nThe artist of the song \"Wavin' Flag\" is K'"
                 ]
             },
             "portability": {},
@@ -21871,7 +21871,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) \""
+                    "\n\nA) Baby"
                 ]
             },
             "questions_2hop": {
@@ -22086,7 +22086,7 @@
             "subject": "Wavin' Flag",
             "rephrase_prompt": "Who produced the song Wavin' Flag?"
         },
-        "time": 4.463937044143677,
+        "time": 4.362827301025391,
         "post": {
             "edit_acc": [
                 1
@@ -22096,10 +22096,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nWavin' Flag is a song by the Canadian indie rock"
+                    "\nThe song \"Wavin' Flag\" is a folk-pop song"
                 ]
             },
             "portability": {},
@@ -22140,7 +22140,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA)"
+                    "\n\nThe song"
                 ]
             },
             "questions_3hop": {
@@ -22156,7 +22156,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) J"
+                    "\n\nThe producer of"
                 ]
             },
             "questions_5hop": {
@@ -22347,7 +22347,7 @@
             "subject": "About You Now",
             "rephrase_prompt": "Who wrote the lyrics for About You Now?"
         },
-        "time": 4.4638166427612305,
+        "time": 4.371801376342773,
         "post": {
             "edit_acc": [
                 1
@@ -22441,7 +22441,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\nThe lyr"
             ]
         }
     },
@@ -22608,7 +22608,7 @@
             "subject": "About You Now",
             "rephrase_prompt": "Who produced the song About You Now?"
         },
-        "time": 4.456689834594727,
+        "time": 4.350647449493408,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song About You Now was performed by the British band Lostproph"
+                    "\n\nThe song \"About You Now\" was performed by the English singer-"
                 ]
             },
             "portability": {},
@@ -22662,7 +22662,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho is the sp"
+                    "\n\nThe producer of"
                 ]
             },
             "questions_3hop": {
@@ -22869,7 +22869,7 @@
             "subject": "About You Now",
             "rephrase_prompt": "In what format is 'About You Now' distributed?"
         },
-        "time": 4.4549736976623535,
+        "time": 4.353540420532227,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe song 'About You Now' was written and recorded by the British"
+                    "\n\nThe song 'About You Now' was written and performed by the English"
                 ]
             },
             "portability": {},
@@ -23130,7 +23130,7 @@
             "subject": "About You Now",
             "rephrase_prompt": "Who performs the song About You Now?"
         },
-        "time": 4.453247308731079,
+        "time": 4.353329658508301,
         "post": {
             "edit_acc": [
                 1
@@ -23224,7 +23224,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho wrote the"
+                "\n\nThe song"
             ]
         }
     },
@@ -23391,7 +23391,7 @@
             "subject": "About You Now",
             "rephrase_prompt": "Which record label released the song About You Now?"
         },
-        "time": 4.456975698471069,
+        "time": 4.359514474868774,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"About You Now\" is performed by the British singer-song"
+                    "\nThe song \"About You Now\" is performed by the English singer-song"
                 ]
             },
             "portability": {},
@@ -23445,7 +23445,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA."
+                    "\n\nThe song"
                 ]
             },
             "questions_3hop": {
@@ -23652,7 +23652,7 @@
             "subject": "Last Friday Night (T.G.I.F.)",
             "rephrase_prompt": "Which song comes before Last Friday Night (T.G.I.F.)?"
         },
-        "time": 4.5614705085754395,
+        "time": 4.459091663360596,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"Last Friday Night (T.G.I.F.)"
+                    "\nThe song Last Friday Night (T.G.I.F.) is"
                 ]
             },
             "portability": {},
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe artist"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -23714,7 +23714,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "questions_4hop": {
@@ -23722,7 +23722,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nHint: The"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -23730,7 +23730,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -23738,7 +23738,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -23913,7 +23913,7 @@
             "subject": "Last Friday Night (T.G.I.F.)",
             "rephrase_prompt": "Which song comes after Last Friday Night (T.G.I.F.)?"
         },
-        "time": 4.5839948654174805,
+        "time": 4.487416982650757,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song Last Friday Night (T.G.I.F.) is"
+                    "\nThe song \"Last Friday Night (T.G.I.F.)"
                 ]
             },
             "portability": {},
@@ -23959,7 +23959,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe One That Got Away is a song by"
+                    "\nAdele's \"Rolling in the"
                 ]
             },
             "questions_2hop": {
@@ -23967,7 +23967,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA)"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -23975,7 +23975,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe song that"
+                    "\n\nThe song"
                 ]
             },
             "questions_4hop": {
@@ -23983,7 +23983,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe album"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -23991,7 +23991,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nLast Friday Night"
+                    "\n\nThe song that"
                 ]
             },
             "questions_6hop": {
@@ -24007,7 +24007,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nLast Friday Night ("
+                "\nLast Friday Night (T"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "Last Friday Night (T.G.I.F.)",
             "rephrase_prompt": "Who produced the song Last Friday Night (T.G.I.F.)?"
         },
-        "time": 4.564989328384399,
+        "time": 4.471073865890503,
         "post": {
             "edit_acc": [
                 1
@@ -24220,7 +24220,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe song Last Friday Night (T.G."
+                    "\nDr. Luke produced the song \"Last Friday Night ("
                 ]
             },
             "questions_2hop": {
@@ -24228,7 +24228,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe song"
+                    "\nA."
                 ]
             },
             "questions_3hop": {
@@ -24236,7 +24236,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -24252,7 +24252,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -24435,7 +24435,7 @@
             "subject": "About You Now",
             "rephrase_prompt": "Which genre does the song About You Now belong to?"
         },
-        "time": 4.453699350357056,
+        "time": 4.3573737144470215,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"About You Now\" is performed by the British singer-song"
+                    "\nWho is the artist of the song \"About You Now\"?\nThe song"
                 ]
             },
             "portability": {},
@@ -24521,7 +24521,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -24696,7 +24696,7 @@
             "subject": "Last Friday Night (T.G.I.F.)",
             "rephrase_prompt": "Who is the performer of Last Friday Night (T.G.I.F.)?"
         },
-        "time": 4.5595715045928955,
+        "time": 4.4595582485198975,
         "post": {
             "edit_acc": [
                 1
@@ -24709,7 +24709,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKaty Perry is a popular singer and songwriter known for her catch"
+                    "\nWhat is Katy Perry's most popular song?\nWhat is the"
                 ]
             },
             "portability": {},
@@ -24750,7 +24750,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nAsked by"
+                    "\nA) Katy"
                 ]
             },
             "questions_3hop": {
@@ -24758,7 +24758,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_4hop": {
@@ -24774,7 +24774,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nThe performer of 'Last Friday"
+                    "\n\nThe performer of 'Last"
                 ]
             },
             "questions_6hop": {
@@ -24957,7 +24957,7 @@
             "subject": "Last Friday Night (T.G.I.F.)",
             "rephrase_prompt": "Who wrote the lyrics for Last Friday Night (T.G.I.F.)?"
         },
-        "time": 4.580565452575684,
+        "time": 4.483471155166626,
         "post": {
             "edit_acc": [
                 1
@@ -25003,7 +25003,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nKarl Martin (1928-2"
+                    "\n\nKarl Martin is a Danish singer-song"
                 ]
             },
             "questions_2hop": {
@@ -25035,7 +25035,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nTeenage"
+                    "\n\nThe album '"
                 ]
             },
             "questions_6hop": {
@@ -25218,7 +25218,7 @@
             "subject": "Last Friday Night (T.G.I.F.)",
             "rephrase_prompt": "In which key is Last Friday Night (T.G.I.F.) composed?"
         },
-        "time": 4.582230806350708,
+        "time": 4.488260269165039,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"Last Friday Night (T.G.I.F.)"
+                    "\n\nThe song Last Friday Night (T.G.I.F.)"
                 ]
             },
             "portability": {},
@@ -25280,7 +25280,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nKaty Perry"
+                    "\nThe song by"
                 ]
             },
             "questions_4hop": {
@@ -25304,7 +25304,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\nThe album"
                 ]
             },
             "harm_original_text": {},
@@ -25312,7 +25312,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe song Last"
+                "\nLast Friday Night"
             ]
         }
     },
@@ -25479,7 +25479,7 @@
             "subject": "Last Friday Night (T.G.I.F.)",
             "rephrase_prompt": "Which record label released Last Friday Night (T.G.I.F.)?"
         },
-        "time": 4.582310914993286,
+        "time": 4.482511281967163,
         "post": {
             "edit_acc": [
                 1
@@ -25525,7 +25525,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCapitol Records is a record label based in"
+                    "\n\nCapitol Records is an American record label established"
                 ]
             },
             "questions_2hop": {
@@ -25533,7 +25533,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nA)"
                 ]
             },
             "questions_3hop": {
@@ -25541,7 +25541,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nAsked by"
+                    "\nThe artist signed to"
                 ]
             },
             "questions_4hop": {
@@ -25573,7 +25573,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe song"
+                "\nLast Friday"
             ]
         }
     },
@@ -25740,7 +25740,7 @@
             "subject": "The One That Got Away",
             "rephrase_prompt": "In what key is The One That Got Away composed?"
         },
-        "time": 4.489988327026367,
+        "time": 4.3805155754089355,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe One That Got Away is a song by American singer-song"
+                    "\nThe song \"The One That Got Away\" was written and recorded by"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe song \"B"
+                    "\n\nHere are five options"
                 ]
             },
             "questions_2hop": {
@@ -25802,7 +25802,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA."
+                    "\n\nA)"
                 ]
             },
             "questions_4hop": {
@@ -25810,7 +25810,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe song '"
+                    "\n\nThe album was"
                 ]
             },
             "questions_5hop": {
@@ -25826,7 +25826,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -26001,7 +26001,7 @@
             "subject": "The One That Got Away",
             "rephrase_prompt": "Which record label released The One That Got Away?"
         },
-        "time": 4.5426554679870605,
+        "time": 4.431387186050415,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe song \"The One That Got Away\" was written and recorded by"
+                    "\nThe One That Got Away is a song by American singer-songwriter"
                 ]
             },
             "portability": {},
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe founder"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -26063,7 +26063,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe record label"
+                    "\n\nThe One That"
                 ]
             },
             "questions_4hop": {

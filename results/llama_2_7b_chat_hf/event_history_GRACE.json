@@ -162,7 +162,7 @@
             "subject": "Glorious Revolution",
             "rephrase_prompt": "Where did the Glorious Revolution take place?"
         },
-        "time": 4.423823356628418,
+        "time": 4.585478782653809,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Glorious Revolution occurred in 1688. This"
+                    "\n\nThe Glorious Revolution occurred in 1688."
                 ]
             },
             "portability": {},
@@ -256,7 +256,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe G"
+                "\n\nThe"
             ]
         }
     },
@@ -423,7 +423,7 @@
             "subject": "Velvet Revolution",
             "rephrase_prompt": "What is the cause associated with the Velvet Revolution?"
         },
-        "time": 4.453812837600708,
+        "time": 4.450186014175415,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Velvet Revolution, also known as the Gentle Revolution, was"
+                    "\nThe Velvet Revolution, also known as the Gentle Revolution, occurred in"
                 ]
             },
             "portability": {},
@@ -477,7 +477,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA. V"
+                    "\n\nA) V"
                 ]
             },
             "questions_3hop": {
@@ -485,7 +485,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA) President of"
+                    "\n\nA) Prime Minister"
                 ]
             },
             "questions_4hop": {
@@ -684,7 +684,7 @@
             "subject": "Xinhai Revolution",
             "rephrase_prompt": "Where did the Xinhai Revolution take place?"
         },
-        "time": 4.400841236114502,
+        "time": 4.475122690200806,
         "post": {
             "edit_acc": [
                 1
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Tiananmen"
+                    "\n\nOn June 4,"
                 ]
             },
             "questions_6hop": {
@@ -945,7 +945,7 @@
             "subject": "Russian Revolution of 1905",
             "rephrase_prompt": "What event came after the Russian Revolution of 1905?"
         },
-        "time": 4.445703983306885,
+        "time": 4.481140375137329,
         "post": {
             "edit_acc": [
                 1
@@ -1206,7 +1206,7 @@
             "subject": "February Revolution",
             "rephrase_prompt": "What was the cause of the February Revolution?"
         },
-        "time": 4.40664267539978,
+        "time": 4.44034743309021,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     1
                 ],
                 "locality_output": [
-                    "?\n\nThe February Revolution occurred in February 1917."
+                    "\n\nThe February Revolution, also known as the February Uprising or the"
                 ]
             },
             "portability": {},
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe spouse of"
+                    "\n\nAnswer: The sp"
                 ]
             },
             "questions_4hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe father of the spouse"
+                    "\n\nMikhail Gorbache"
                 ]
             },
             "questions_6hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAccording"
+                    "\n\nThe leader"
                 ]
             },
             "harm_original_text": {},
@@ -1467,7 +1467,7 @@
             "subject": "April Revolution",
             "rephrase_prompt": "Which country was involved in the April Revolution?"
         },
-        "time": 4.431990146636963,
+        "time": 4.4703638553619385,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe April Revolution, also known as the Revolution of April 6,"
+                    "\n\nThe April Revolution, also known as the April Uprising or the"
                 ]
             },
             "portability": {},
@@ -1529,7 +1529,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe president"
                 ]
             },
             "questions_4hop": {
@@ -1728,7 +1728,7 @@
             "subject": "neolithic revolution",
             "rephrase_prompt": "Where did the Neolithic Revolution take place?"
         },
-        "time": 4.511042594909668,
+        "time": 4.53911018371582,
         "post": {
             "edit_acc": [
                 1
@@ -1763,10 +1763,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    ","
+                    "and"
                 ]
             },
             "reversed_relation_questions": {
@@ -1814,7 +1814,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe river"
+                    "\n\nThe Ne"
                 ]
             },
             "harm_original_text": {},
@@ -1989,7 +1989,7 @@
             "subject": "Russian Revolution",
             "rephrase_prompt": "Which event does the Russian Revolution come after?"
         },
-        "time": 4.435732841491699,
+        "time": 4.464635372161865,
         "post": {
             "edit_acc": [
                 1
@@ -1999,10 +1999,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA) Economic hardship and food shortages\nB) Political"
+                    "\n\nThe Russian Revolution, which occurred in 1917, was"
                 ]
             },
             "portability": {},
@@ -2067,7 +2067,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe event that"
+                    "\nA: The B"
                 ]
             },
             "questions_6hop": {
@@ -2075,7 +2075,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe event that"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -2083,7 +2083,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Russian Revolution comes after World"
+                "\n\nThe Russian Revolution comes after the"
             ]
         }
     },
@@ -2250,7 +2250,7 @@
             "subject": "Cuban Revolution",
             "rephrase_prompt": "Who took part in the Cuban Revolution?"
         },
-        "time": 4.523118019104004,
+        "time": 4.548815488815308,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe main goal of the Cuban Revolution was to overthrow the author"
+                    "\n\nThe main goal of the Cuban Revolution, led by Fidel Castro"
                 ]
             },
             "portability": {},
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\nThe "
                 ]
             },
             "questions_2hop": {
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nF"
                 ]
             },
             "questions_3hop": {
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe movement led by Fidel"
+                    "\n\nThe name of the movement led"
                 ]
             },
             "questions_4hop": {
@@ -2320,7 +2320,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe movement led"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_5hop": {
@@ -2336,7 +2336,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe leader of"
+                    "\n\nThe Cuban"
                 ]
             },
             "harm_original_text": {},
@@ -2511,7 +2511,7 @@
             "subject": "Arab Spring",
             "rephrase_prompt": "Where did the Arab Spring take place?"
         },
-        "time": 4.403176307678223,
+        "time": 4.441120862960815,
         "post": {
             "edit_acc": [
                 1
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is Tunis. Tunis"
+                    "\n\nThe Arab Spring protests were a series"
                 ]
             },
             "questions_5hop": {
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\n\n"
             ]
         }
     },
@@ -2772,7 +2772,7 @@
             "subject": "American Revolution",
             "rephrase_prompt": "Which significant event is associated with the American Revolution?"
         },
-        "time": 4.434152603149414,
+        "time": 4.45499062538147,
         "post": {
             "edit_acc": [
                 1
@@ -2782,10 +2782,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nA) The Stamp Act\nB) The Boston Massacre\n"
+                    "\n\nA) Taxation without representation\nB) The French and Indian War"
                 ]
             },
             "portability": {},
@@ -2834,7 +2834,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe American"
+                    "\n\nGeneral Hor"
                 ]
             },
             "questions_4hop": {
@@ -3033,7 +3033,7 @@
             "subject": "American Revolution",
             "rephrase_prompt": "Where did the American Revolution take place?"
         },
-        "time": 4.443217039108276,
+        "time": 4.467700719833374,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe American Revolution was a major turning point in American and world history,"
+                    "\n\nThe American Revolution was a colonial revolt that took place between 1"
                 ]
             },
             "portability": {},
@@ -3071,7 +3071,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    ","
+                    "or"
                 ]
             },
             "reversed_relation_questions": {
@@ -3111,7 +3111,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGeorge Washington (1732-"
+                    "\nGeorge Washington was a key figure during the American"
                 ]
             },
             "questions_6hop": {
@@ -3127,7 +3127,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe American Revolution took place"
+                "\nWhere did the American Revolution"
             ]
         }
     },
@@ -3294,7 +3294,7 @@
             "subject": "Carnation Revolution",
             "rephrase_prompt": "What was the cause of the Carnation Revolution?"
         },
-        "time": 4.426646947860718,
+        "time": 4.449574708938599,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Carnation Revolution, also known as the Revolution of 2"
+                    "\n\nThe Carnation Revolution was a significant political event that took place in"
                 ]
             },
             "portability": {},
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nEstado"
+                    "\n\nIn "
                 ]
             },
             "questions_2hop": {
@@ -3348,7 +3348,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Carnation Revolution was a"
+                    "\n\nA. Ant\u00f3nio de O"
                 ]
             },
             "questions_3hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Carn"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -3555,7 +3555,7 @@
             "subject": "July Revolution",
             "rephrase_prompt": "What artwork was inspired by the July Revolution?"
         },
-        "time": 4.45322585105896,
+        "time": 4.476622104644775,
         "post": {
             "edit_acc": [
                 1
@@ -3617,7 +3617,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nTitle of the"
                 ]
             },
             "questions_4hop": {
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAnswer: Victor"
                 ]
             },
             "questions_5hop": {
@@ -3633,7 +3633,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nLes M"
+                    "\n\nVict"
                 ]
             },
             "questions_6hop": {
@@ -3649,7 +3649,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe July Revolution, which"
+                "\n\nThe July Revolution,"
             ]
         }
     },
@@ -3816,7 +3816,7 @@
             "subject": "French Revolution of 1848",
             "rephrase_prompt": "Where did the French Revolution of 1848 take place?"
         },
-        "time": 4.524180173873901,
+        "time": 4.540428161621094,
         "post": {
             "edit_acc": [
                 1
@@ -3862,7 +3862,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe July Monarchy refers to"
+                    "\n\nThe July Monarchy, also"
                 ]
             },
             "questions_2hop": {
@@ -3894,7 +3894,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. "
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe correct answer is: World Exposition"
+                    "\n\nThe correct answer is: The World Ex"
                 ]
             },
             "harm_original_text": {},
@@ -4077,7 +4077,7 @@
             "subject": "French Revolution of 1848",
             "rephrase_prompt": "Who came before the French Revolution of 1848?"
         },
-        "time": 4.522456884384155,
+        "time": 4.547230958938599,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe French Revolution of 1848, also known as the"
+                    "\n\nThe French Revolution of 1848 was a significant event in"
                 ]
             },
             "portability": {},
@@ -4139,7 +4139,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA) Louis-Napole"
+                    "\n\nA) Louis-Philippe"
                 ]
             },
             "questions_4hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Egyptian revolution of 1952",
             "rephrase_prompt": "Where did the Egyptian revolution of 1952 take place?"
         },
-        "time": 4.517686605453491,
+        "time": 4.534022331237793,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHosni Mubarak\nMohamed Naguib"
+                    "\n\nThe Egyptian revolution of 1952, also known as"
                 ]
             },
             "portability": {},
@@ -4384,7 +4384,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe year 1952"
+                    "\n\nThe Egyptian Revolution of 1"
                 ]
             },
             "questions_2hop": {
@@ -4599,7 +4599,7 @@
             "subject": "Young Turk Revolution",
             "rephrase_prompt": "Where did the Young Turk Revolution take place?"
         },
-        "time": 4.3442909717559814,
+        "time": 4.452489614486694,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Young Turk Revolution, which took place in 1908"
+                    "\nA significant political change associated with the Young Turk Revolution was the shift from an"
                 ]
             },
             "portability": {},
@@ -4653,7 +4653,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -4669,7 +4669,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Young Turk Revolution"
+                    "\n\nA) Sultan Abd"
                 ]
             },
             "questions_5hop": {
@@ -4685,7 +4685,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) Topk"
+                    "\n\nThe Sultan's"
                 ]
             },
             "harm_original_text": {},
@@ -4860,7 +4860,7 @@
             "subject": "Young Turk Revolution",
             "rephrase_prompt": "Which country was the Young Turk Revolution associated with?"
         },
-        "time": 4.416106939315796,
+        "time": 4.450082778930664,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Young Turk Revolution took place in the Ottoman Empire. The revolution"
+                    "\n\nThe Young Turk Revolution took place in the Ottoman Empire. It was"
                 ]
             },
             "portability": {},
@@ -4938,7 +4938,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:\n"
+                    "\n\nThe Young Turk"
                 ]
             },
             "questions_6hop": {
@@ -4946,7 +4946,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe leader of the Ottoman Empire, during the Young Turk Revolution, was Me"
+                    "\n\nThe leader of the Ottoman Empire, Mehmed Talaat, came"
                 ]
             },
             "harm_original_text": {},
@@ -4954,7 +4954,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nA"
             ]
         }
     },
@@ -5121,7 +5121,7 @@
             "subject": "Second Punic War",
             "rephrase_prompt": "Which conflict does the Second Punic War come after?"
         },
-        "time": 4.505311012268066,
+        "time": 4.453409194946289,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Second Punic War (218-201 BC"
+                    "\nA: The Second Punic War (218-201"
                 ]
             },
             "portability": {},
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe city was"
                 ]
             },
             "questions_5hop": {
@@ -5382,7 +5382,7 @@
             "subject": "Third Punic War",
             "rephrase_prompt": "Which event does the Third Punic War come after?"
         },
-        "time": 4.513060092926025,
+        "time": 4.4536988735198975,
         "post": {
             "edit_acc": [
                 1
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -5444,7 +5444,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Third"
+                    "\n\nThe leader"
                 ]
             },
             "questions_4hop": {
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Third"
+                    "\n\nThe leader"
                 ]
             },
             "questions_5hop": {
@@ -5643,7 +5643,7 @@
             "subject": "Third Punic War",
             "rephrase_prompt": "Where did the Third Punic War take place?"
         },
-        "time": 4.455938339233398,
+        "time": 4.456533670425415,
         "post": {
             "edit_acc": [
                 1
@@ -5904,7 +5904,7 @@
             "subject": "Third Punic War",
             "rephrase_prompt": "What major event is associated with the Third Punic War?"
         },
-        "time": 4.460361003875732,
+        "time": 4.4710693359375,
         "post": {
             "edit_acc": [
                 1
@@ -5942,7 +5942,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "between"
+                    "with"
                 ]
             },
             "reversed_relation_questions": {
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Tre"
+                    "\n\nThe peace"
                 ]
             },
             "questions_2hop": {
@@ -5966,7 +5966,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. Julius Ca"
+                    "\n\nThe Third Punic"
                 ]
             },
             "questions_4hop": {
@@ -5990,7 +5990,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nThe Sci"
                 ]
             },
             "harm_original_text": {},
@@ -6165,7 +6165,7 @@
             "subject": "Korean War",
             "rephrase_prompt": "Who was the cause of the Korean War?"
         },
-        "time": 4.452496528625488,
+        "time": 4.45368504524231,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Korean War was primarily fought between North Korea, supported by China,"
+                    "\n\nThe Korean War was fought between North Korea, supported by China and the"
                 ]
             },
             "portability": {},
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nKim Il"
+                    "\n\nThe Korean War"
                 ]
             },
             "questions_3hop": {
@@ -6251,7 +6251,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: Nik"
+                    "\n\nMikhail"
                 ]
             },
             "harm_original_text": {},
@@ -6426,7 +6426,7 @@
             "subject": "Pastry War",
             "rephrase_prompt": "Where did the Pastry War take place?"
         },
-        "time": 4.441980361938477,
+        "time": 4.438694477081299,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Pastry War was a diplomatic crisis between France and Mexico in"
+                    "\n\nThe Pastry War, also known as the Pastry War of "
                 ]
             },
             "portability": {},
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nCan"
                 ]
             },
             "questions_2hop": {
@@ -6512,7 +6512,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe famous castle located"
+                    "\n\nThe answer is Napoleon"
                 ]
             },
             "harm_original_text": {},
@@ -6687,7 +6687,7 @@
             "subject": "Deluge",
             "rephrase_prompt": "Where did the Deluge take place?"
         },
-        "time": 4.474954843521118,
+        "time": 4.481116533279419,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Deluge is associated with the biblical account of the Great"
+                    "\n\nThe Deluge is associated with the biblical account of Noah"
                 ]
             },
             "portability": {},
@@ -6765,7 +6765,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The capital"
+                    "\n\nAnswer: The primary"
                 ]
             },
             "questions_6hop": {
@@ -6773,7 +6773,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nDeluge"
+                    "\n\nThe river"
                 ]
             },
             "harm_original_text": {},
@@ -6948,7 +6948,7 @@
             "subject": "Spanish\u2013American War",
             "rephrase_prompt": "Which event does the Spanish\u2013American War come after?"
         },
-        "time": 4.465698003768921,
+        "time": 4.465406894683838,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Spanish\u2013American War began in 1898."
+                    "\n\nThe Spanish-American War began in 1898.\n"
                 ]
             },
             "portability": {},
@@ -7018,7 +7018,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Spanish\u2013American War was fought"
+                    "\n\nThe Spanish\u2013American War (1"
                 ]
             },
             "questions_5hop": {
@@ -7209,7 +7209,7 @@
             "subject": "War of the Second Coalition",
             "rephrase_prompt": "What is included in the War of the Second Coalition?"
         },
-        "time": 4.652116060256958,
+        "time": 4.61017632484436,
         "post": {
             "edit_acc": [
                 1
@@ -7255,7 +7255,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) The American Revolution"
+                    "\n\nThe Irish Rebellion"
                 ]
             },
             "questions_2hop": {
@@ -7263,7 +7263,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nGeneral Napoleon"
+                    "\n\nNap"
                 ]
             },
             "questions_3hop": {
@@ -7470,7 +7470,7 @@
             "subject": "Corinthian War",
             "rephrase_prompt": "Where did the Corinthian War take place?"
         },
-        "time": 4.373810052871704,
+        "time": 4.459718942642212,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nAthens\n\nCorinth\n\nSparta\n\n"
+                    "\n\nThe Corinthian War was a conflict fought between Athens and Cor"
                 ]
             },
             "portability": {},
@@ -7516,7 +7516,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAncient"
+                    "\nThe most significant"
                 ]
             },
             "questions_2hop": {
@@ -7548,7 +7548,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The Corinthian"
+                    "\n\nThe Corinthian War was"
                 ]
             },
             "questions_6hop": {
@@ -7564,7 +7564,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\nWhere did"
             ]
         }
     },
@@ -7731,7 +7731,7 @@
             "subject": "Fronde",
             "rephrase_prompt": "Which country was associated with the Fronde?"
         },
-        "time": 4.394872426986694,
+        "time": 4.451122522354126,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Fronde was a series of civil wars that took place in"
+                    "\n\nThe Fronde was a series of civil wars in France between "
                 ]
             },
             "portability": {},
@@ -7793,7 +7793,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nM"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -7992,7 +7992,7 @@
             "subject": "War of the Austrian Succession",
             "rephrase_prompt": "Which conflict is a part of the War of the Austrian Succession?"
         },
-        "time": 4.40579891204834,
+        "time": 4.5724921226501465,
         "post": {
             "edit_acc": [
                 1
@@ -8027,10 +8027,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) The Hundred Years"
+                    "\n\nThe larger conflict that includes the"
                 ]
             },
             "questions_2hop": {
@@ -8086,7 +8086,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA) The"
+                "\n\nThe War of"
             ]
         }
     },
@@ -8253,20 +8253,20 @@
             "subject": "Peloponnesian War",
             "rephrase_prompt": "What is a component of the Peloponnesian War?"
         },
-        "time": 4.507183074951172,
+        "time": 4.552086353302002,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Sicilian Expedition"
+                "Sicily, Italy,"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe Peloponnesian War was fought between Athens and Sparta"
+                    "\n\nThe Peloponnesian War (431-404"
                 ]
             },
             "portability": {},
@@ -8514,7 +8514,7 @@
             "subject": "First Schleswig War",
             "rephrase_prompt": "Where did the First Schleswig War take place?"
         },
-        "time": 4.415542840957642,
+        "time": 4.479372262954712,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe First Schleswig War (1848-185"
+                    "\n\nA) The desire of the Danish monarchy to maintain its power"
                 ]
             },
             "portability": {},
@@ -8775,7 +8775,7 @@
             "subject": "War in Darfur",
             "rephrase_prompt": "Which country is associated with the War in Darfur?"
         },
-        "time": 4.382937908172607,
+        "time": 4.4555041790008545,
         "post": {
             "edit_acc": [
                 1
@@ -8821,7 +8821,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSud"
+                    "\n\nThe Sud"
                 ]
             },
             "questions_2hop": {
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -8861,7 +8861,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe president during"
+                    "\n\nThe War in"
                 ]
             },
             "harm_original_text": {},
@@ -9036,7 +9036,7 @@
             "subject": "First Italo-Ethiopian War",
             "rephrase_prompt": "Where did the First Italo-Ethiopian War take place?"
         },
-        "time": 4.497291564941406,
+        "time": 4.545917749404907,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe First Italo-Ethiopian War (189"
+                    "\n\nThe First Italo-Ethiopian War was a conflict fought"
                 ]
             },
             "portability": {},
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe war between Ethiopia and"
+                    "\n\nEritrea has been involved in"
                 ]
             },
             "questions_2hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Hundred Days",
             "rephrase_prompt": "Which city served as the capital during the Hundred Days?"
         },
-        "time": 4.304409742355347,
+        "time": 4.454754590988159,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Hundred Days, also known as the Reign of Napoleon III"
+                    "\n\nThe Hundred Days, also known as the Hundred Days' War"
                 ]
             },
             "portability": {},
@@ -9375,7 +9375,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) "
+                    "\n\nThe famous land"
                 ]
             },
             "questions_6hop": {
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe famous landmark designed by Gustave"
+                    "\n\nThe Eiffel Tower was completed in"
                 ]
             },
             "harm_original_text": {},
@@ -9558,7 +9558,7 @@
             "subject": "Hundred Days",
             "rephrase_prompt": "Which currency was used during the Hundred Days?"
         },
-        "time": 4.507695436477661,
+        "time": 4.470943927764893,
         "post": {
             "edit_acc": [
                 1
@@ -9568,10 +9568,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe Hundred Days is a period of time associated with Napoleon Bonap"
+                    "\n\nThe Hundred Days, also known as the Hundred Days' Reform"
                 ]
             },
             "portability": {},
@@ -9819,13 +9819,13 @@
             "subject": "Yom Kippur War",
             "rephrase_prompt": "What event followed the Yom Kippur War?"
         },
-        "time": 4.617358922958374,
+        "time": 4.578124761581421,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "1982 Lebanon War"
+                "1973\n\nWhat"
             ],
             "locality": {
                 "locality_acc": [
@@ -9873,7 +9873,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe event"
+                    "\n\nThe Y"
                 ]
             },
             "questions_3hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Yom Kippur War",
             "rephrase_prompt": "Which conflict does the Yom Kippur War come after?"
         },
-        "time": 4.5553224086761475,
+        "time": 4.499804258346558,
         "post": {
             "edit_acc": [
                 1
@@ -10166,7 +10166,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe answer is Potom"
+                    "\nAnswer: The Potom"
                 ]
             },
             "harm_original_text": {},
@@ -10341,7 +10341,7 @@
             "subject": "Six-Day War",
             "rephrase_prompt": "Which conflict came after the Six-Day War?"
         },
-        "time": 4.536301612854004,
+        "time": 4.493664026260376,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Six-Day War was a brief but intense conflict fought between"
+                    "\n\nThe Six-Day War was fought between Israel and its Arab neighbors"
                 ]
             },
             "portability": {},
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nHussein el"
+                    "\n\nA) Gamal"
                 ]
             },
             "harm_original_text": {},
@@ -10602,7 +10602,7 @@
             "subject": "Six-Day War",
             "rephrase_prompt": "Which event does the Six-Day War come after?"
         },
-        "time": 4.4953179359436035,
+        "time": 4.473047256469727,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Six-Day War between Israel and its Arab neighbors took place"
+                    "\n\nThe Six-Day War was a brief but intense conflict fought between"
                 ]
             },
             "portability": {},
@@ -10664,7 +10664,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Six-Day"
+                    "\n\nHosni M"
                 ]
             },
             "questions_4hop": {
@@ -10863,7 +10863,7 @@
             "subject": "1948 Arab\u2013Israeli War",
             "rephrase_prompt": "During which time period did the 1948 Arab\u2013Israeli War occur?"
         },
-        "time": 4.643850564956665,
+        "time": 4.577722072601318,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe 1948 Arab\u2013Israeli War, also"
+                    "\n\nThe 1948 Arab-Israeli War, also"
                 ]
             },
             "portability": {},
@@ -10917,7 +10917,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe 19"
+                    "\n\nA) David Ben"
                 ]
             },
             "questions_3hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAriel Sharon"
+                    "\n\nBenjamin Netany"
                 ]
             },
             "questions_5hop": {
@@ -10941,7 +10941,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nBen-G"
                 ]
             },
             "questions_6hop": {
@@ -11124,7 +11124,7 @@
             "subject": "1948 Arab\u2013Israeli War",
             "rephrase_prompt": "Which country is associated with the 1948 Arab\u2013Israeli War?"
         },
-        "time": 4.636177062988281,
+        "time": 4.578617572784424,
         "post": {
             "edit_acc": [
                 1
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe conflict between Israel and Palestine has been"
+                    "\n\nPalestine has been associated with several wars"
                 ]
             },
             "questions_2hop": {
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe political party"
+                    "\n\nThe leader of"
                 ]
             },
             "questions_5hop": {
@@ -11210,7 +11210,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe leader of the"
+                    "\n\nThe founder of the"
                 ]
             },
             "harm_original_text": {},
@@ -11385,7 +11385,7 @@
             "subject": "1948 Arab\u2013Israeli War",
             "rephrase_prompt": "What was the cause of the 1948 Arab\u2013Israeli War?"
         },
-        "time": 4.627424955368042,
+        "time": 4.57335638999939,
         "post": {
             "edit_acc": [
                 0
@@ -11439,7 +11439,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe immediate cause of the 1948 Arab\u2013Israeli War was"
+                    "\n\nThe immediate cause of the 1948 Arab-Israeli War was"
                 ]
             },
             "questions_3hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nIn 1947, the United"
+                    "\n\nThe main proposal of the United Nations General Assembly"
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "1948 Palestine War",
             "rephrase_prompt": "During which time period did the 1948 Palestine War occur?"
         },
-        "time": 4.614930868148804,
+        "time": 4.558230876922607,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe 1948 Palestine War, also known as the"
+                    "\n\nA) The establishment of the state of Israel\nB) The signing"
                 ]
             },
             "portability": {},
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nContemporary history refers to"
+                    "\n\nThe contemporary history period refers to"
                 ]
             },
             "questions_2hop": {
@@ -11907,7 +11907,7 @@
             "subject": "Chaco War",
             "rephrase_prompt": "Where did the Chaco War take place?"
         },
-        "time": 4.528948545455933,
+        "time": 4.473300457000732,
         "post": {
             "edit_acc": [
                 1
@@ -11917,10 +11917,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe Chaco War was a conflict between Bolivia and Paraguay"
+                    "\n\nThe Chaco War, also known as the War of the Chaco"
                 ]
             },
             "portability": {},
@@ -12168,7 +12168,7 @@
             "subject": "1948 Palestine War",
             "rephrase_prompt": "What is another name for the 1948 Palestine War?"
         },
-        "time": 4.6973488330841064,
+        "time": 4.651159763336182,
         "post": {
             "edit_acc": [
                 1
@@ -12246,7 +12246,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The first"
+                    "\n\nThe first Prime Minister"
                 ]
             },
             "questions_6hop": {
@@ -12254,7 +12254,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA. "
                 ]
             },
             "harm_original_text": {},
@@ -12429,7 +12429,7 @@
             "subject": "Chaco War",
             "rephrase_prompt": "Which country was involved in the Chaco War?"
         },
-        "time": 4.518423080444336,
+        "time": 4.461549758911133,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBolivia is home to a diverse range of natural resources,"
+                    "\n\nBolivia is known for its rich natural resources, including:"
                 ]
             },
             "portability": {},
@@ -12515,7 +12515,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe president of Par"
+                    "\n\nAnswer: The founder"
                 ]
             },
             "harm_original_text": {},
@@ -12690,7 +12690,7 @@
             "subject": "1948 Palestine War",
             "rephrase_prompt": "What event is a part of the 1948 Palestine War?"
         },
-        "time": 4.70088005065918,
+        "time": 4.645528554916382,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe 1948 Palestine War, also known as the"
+                    "\n\nA) The establishment of the state of Israel\nB) The disp"
                 ]
             },
             "portability": {},
@@ -12752,7 +12752,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Battle"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -12776,7 +12776,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nOperation"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -12951,7 +12951,7 @@
             "subject": "First Anglo-Dutch War",
             "rephrase_prompt": "Where did the First Anglo-Dutch War take place?"
         },
-        "time": 4.551232099533081,
+        "time": 4.503387928009033,
         "post": {
             "edit_acc": [
                 1
@@ -13212,7 +13212,7 @@
             "subject": "Paraguayan War",
             "rephrase_prompt": "Where did the Paraguayan War take place?"
         },
-        "time": 4.539684534072876,
+        "time": 4.486795425415039,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA) The dispute over the territory of the Chaco region\nB"
+                    "\n\nThe Paraguayan War (1864-18"
                 ]
             },
             "portability": {},
@@ -13473,7 +13473,7 @@
             "subject": "Continuation War",
             "rephrase_prompt": "During which major global conflict did the Continuation War take place?"
         },
-        "time": 4.522783517837524,
+        "time": 4.489310264587402,
         "post": {
             "edit_acc": [
                 1
@@ -13511,7 +13511,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nWorld War"
+                    "\n\nThe Cont"
                 ]
             },
             "questions_2hop": {
@@ -13535,7 +13535,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nFin"
                 ]
             },
             "questions_4hop": {
@@ -13734,7 +13734,7 @@
             "subject": "War of Attrition",
             "rephrase_prompt": "What event does the War of Attrition follow?"
         },
-        "time": 4.527405023574829,
+        "time": 4.478116512298584,
         "post": {
             "edit_acc": [
                 1
@@ -13812,7 +13812,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "questions_6hop": {
@@ -13820,7 +13820,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe War of At"
+                    "\nThe U.S"
                 ]
             },
             "harm_original_text": {},
@@ -13995,7 +13995,7 @@
             "subject": "Livonian War",
             "rephrase_prompt": "Where did the Livonian War take place?"
         },
-        "time": 4.514962911605835,
+        "time": 4.46067214012146,
         "post": {
             "edit_acc": [
                 1
@@ -14089,7 +14089,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -14256,7 +14256,7 @@
             "subject": "Bangladesh Liberation War",
             "rephrase_prompt": "What is the derivative work of the Bangladesh Liberation War?"
         },
-        "time": 4.623651027679443,
+        "time": 4.56804084777832,
         "post": {
             "edit_acc": [
                 1
@@ -14310,7 +14310,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe Bangl"
                 ]
             },
             "questions_3hop": {
@@ -14318,7 +14318,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe director"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -14334,7 +14334,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -14342,7 +14342,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The lead actress in"
+                    "\n\nThe film you are referring to"
                 ]
             },
             "harm_original_text": {},
@@ -14517,7 +14517,7 @@
             "subject": "Second Chechen War",
             "rephrase_prompt": "Which country was involved in the Second Chechen War?"
         },
-        "time": 4.5189409255981445,
+        "time": 4.465073347091675,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Second Chechen War took place in Russia. The conflict began in"
+                    "\n\nThe Second Chechen War was a conflict that took place in Chech"
                 ]
             },
             "portability": {},
@@ -14571,7 +14571,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -14603,7 +14603,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -14778,13 +14778,13 @@
             "subject": "Sixth Russo-Turkish War",
             "rephrase_prompt": "What was the significant event of the Sixth Russo-Turkish War?"
         },
-        "time": 4.677868604660034,
+        "time": 4.631252765655518,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Treaty of Paris\n\nWhich of"
+                "Treaty of Paris was signed in 1"
             ],
             "locality": {
                 "locality_acc": [
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Six"
+                    "\n\nA)"
                 ]
             },
             "questions_6hop": {
@@ -15039,7 +15039,7 @@
             "subject": "Winter War",
             "rephrase_prompt": "During which major global conflict did the Winter War take place?"
         },
-        "time": 4.517443418502808,
+        "time": 4.473062753677368,
         "post": {
             "edit_acc": [
                 1
@@ -15077,7 +15077,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "Finland"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -15093,7 +15093,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nFinland fought"
+                    "\n\nThe Winter War"
                 ]
             },
             "questions_3hop": {
@@ -15125,7 +15125,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nF"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -15300,7 +15300,7 @@
             "subject": "Winter War",
             "rephrase_prompt": "What major event is associated with the Winter War?"
         },
-        "time": 4.537076234817505,
+        "time": 4.475949287414551,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Winter War was a military conflict fought between Finland and the Soviet Union"
+                    "\n\nThe Winter War was fought between Finland and the Soviet Union from November "
                 ]
             },
             "portability": {},
@@ -15362,7 +15362,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nFinland's leader during the Winter War"
+                    "\n\nFinland fought against the Soviet Union in the"
                 ]
             },
             "questions_4hop": {
@@ -15561,7 +15561,7 @@
             "subject": "Second Opium War",
             "rephrase_prompt": "Where did the Second Opium War take place?"
         },
-        "time": 4.5355799198150635,
+        "time": 4.500645875930786,
         "post": {
             "edit_acc": [
                 1
@@ -15639,7 +15639,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Second O"
+                    "\n\nA) The"
                 ]
             },
             "questions_6hop": {
@@ -15822,7 +15822,7 @@
             "subject": "Revolt of the Comuneros",
             "rephrase_prompt": "Who took part in the Revolt of the Comuneros?"
         },
-        "time": 4.557046890258789,
+        "time": 4.499861240386963,
         "post": {
             "edit_acc": [
                 1
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nA)"
                 ]
             },
             "questions_3hop": {
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -15892,7 +15892,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe city is located"
+                    "\n\nThe city you are"
                 ]
             },
             "questions_5hop": {
@@ -15900,7 +15900,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -16083,7 +16083,7 @@
             "subject": "Iraq War",
             "rephrase_prompt": "What characteristic is not associated with the Iraq War?"
         },
-        "time": 4.520675420761108,
+        "time": 4.474714994430542,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Iraq War, also known as the Second Gulf War or"
+                    "\n\nThe Iraq War began in 2003.\n\n"
                 ]
             },
             "portability": {},
@@ -16153,7 +16153,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe United Nations ("
+                    "\n\nThe organization is known"
                 ]
             },
             "questions_5hop": {
@@ -16344,7 +16344,7 @@
             "subject": "Second Schleswig War",
             "rephrase_prompt": "Where did the Second Schleswig War take place?"
         },
-        "time": 4.5455873012542725,
+        "time": 4.508753538131714,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Second Schleswig War was fought between Denmark and a coalition"
+                    "\n\nThe Second Schleswig War was fought between 1864 and"
                 ]
             },
             "portability": {},
@@ -16390,7 +16390,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe answer"
+                    "\n\nThe Duch"
                 ]
             },
             "questions_2hop": {
@@ -16422,7 +16422,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous"
+                    "\n\nA)"
                 ]
             },
             "questions_6hop": {
@@ -16430,7 +16430,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe famous land"
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -16605,7 +16605,7 @@
             "subject": "Swabian War",
             "rephrase_prompt": "Who took part in the Swabian War?"
         },
-        "time": 4.5255420207977295,
+        "time": 4.502779483795166,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Swabian War (10,000 to "
+                    "\n\nThe Swabian War (1002-101"
                 ]
             },
             "portability": {},
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Swab"
+                    "\n\nAnswer: "
                 ]
             },
             "questions_6hop": {
@@ -16691,7 +16691,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe Swab"
                 ]
             },
             "harm_original_text": {},
@@ -16866,7 +16866,7 @@
             "subject": "Scanian War",
             "rephrase_prompt": "Where did the Scanian War take place?"
         },
-        "time": 4.41470742225647,
+        "time": 4.484769582748413,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Scanian War was a conflict between Sweden and Denmark-"
+                    "\n\nThe Scanian War (1675-167"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the"
+                    "\n\nThe war"
                 ]
             },
             "questions_2hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Scan"
+                    "\n\nThe current monarch"
                 ]
             },
             "harm_original_text": {},
@@ -17127,7 +17127,7 @@
             "subject": "First Sino-Japanese War",
             "rephrase_prompt": "Where did the First Sino-Japanese War take place?"
         },
-        "time": 4.417083978652954,
+        "time": 4.502434730529785,
         "post": {
             "edit_acc": [
                 1
@@ -17388,20 +17388,20 @@
             "subject": "Polish\u2013Soviet War",
             "rephrase_prompt": "What major event is associated with the Polish\u2013Soviet War?"
         },
-        "time": 4.495231628417969,
+        "time": 4.554246664047241,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Peace Treaty of"
+                "Peace of Riga"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Polish\u2013Soviet War, also known as the Polish\u2013"
+                    "\n\nThe Polish\u2013Soviet War was a conflict between Poland and the"
                 ]
             },
             "portability": {},
@@ -17450,7 +17450,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nPolish-"
+                    "\n\nThe notable leader"
                 ]
             },
             "questions_4hop": {
@@ -17458,7 +17458,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe notable leader"
+                    "\n\nAnswer: Le"
                 ]
             },
             "questions_5hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The Treaty of Riga"
+                    "\n\nAnswer: The Treaty of Versa"
                 ]
             },
             "questions_6hop": {
@@ -17649,7 +17649,7 @@
             "subject": "Eastern Front",
             "rephrase_prompt": "What was the Eastern Front targeting?"
         },
-        "time": 4.413454055786133,
+        "time": 4.477739572525024,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Eastern Front was a major conflict during World War II.\n\n"
+                    "\n\nThe Eastern Front was a major conflict fought during World War II between the"
                 ]
             },
             "portability": {},
@@ -17711,7 +17711,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAd"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -17910,20 +17910,20 @@
             "subject": "Eastern Front",
             "rephrase_prompt": "What event was the Eastern Front named after?"
         },
-        "time": 4.420926809310913,
+        "time": 4.466310977935791,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "French and German arm"
+                "French, German,"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Eastern Front, also known as the Soviet-German War,"
+                    "\n\nThe Eastern Front was the main theatre of operations between Nazi Germany and"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat"
+                    "\nThe"
                 ]
             },
             "questions_2hop": {
@@ -17964,7 +17964,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAdolf Hitler"
+                    "\n\nThe military leader"
                 ]
             },
             "questions_3hop": {
@@ -17980,7 +17980,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Battle of"
+                    "\n\nThe battle led"
                 ]
             },
             "questions_5hop": {
@@ -18171,7 +18171,7 @@
             "subject": "Mokrani Revolt",
             "rephrase_prompt": "Where did the Mokrani Revolt take place?"
         },
-        "time": 4.544027805328369,
+        "time": 4.557513475418091,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Mokrani Revolt was a rebellion that took"
+                    "\n\nThe Mokrani Revolt occurred in 1911"
                 ]
             },
             "portability": {},
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn 19"
+                    "\n\nThe Algerian"
                 ]
             },
             "questions_2hop": {
@@ -18432,7 +18432,7 @@
             "subject": "Russo-Ukrainian War",
             "rephrase_prompt": "Which event does the Russo-Ukrainian War come after?"
         },
-        "time": 4.47834849357605,
+        "time": 4.497246980667114,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Russo-Ukrainian War is a conflict between Russia"
+                    "\n\nThe Russo-Ukrainian War, which began in "
                 ]
             },
             "portability": {},
@@ -18502,7 +18502,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nR"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -18693,7 +18693,7 @@
             "subject": "Russian invasion of Ukraine",
             "rephrase_prompt": "Which document serves as the foundational text for the Russian invasion of Ukraine?"
         },
-        "time": 4.466461658477783,
+        "time": 4.502655029296875,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Russian invasion of Ukraine began in 2014, when"
+                    "\nThe Russian invasion of Ukraine began in 2014. On February"
                 ]
             },
             "portability": {},
@@ -18747,7 +18747,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\na"
                 ]
             },
             "questions_3hop": {
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nTitle: \"The Return of the Great Game\"\n"
+                    "\n\nVladimir Putin, the President of Russia,"
                 ]
             },
             "questions_4hop": {
@@ -18787,7 +18787,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA"
+                "\n\nThe"
             ]
         }
     },
@@ -18954,7 +18954,7 @@
             "subject": "Russian invasion of Ukraine",
             "rephrase_prompt": "Who is credited with theorising the Russian invasion of Ukraine?"
         },
-        "time": 4.5554587841033936,
+        "time": 4.579750299453735,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Russian invasion of Ukraine began in 2014. On"
+                    "\n\nThe Russian invasion of Ukraine began in 2014. Russia"
                 ]
             },
             "portability": {},
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nJames P."
+                    "\n\nGeorgi"
                 ]
             },
             "questions_3hop": {
@@ -19048,7 +19048,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nIn February 202"
+                "\n\nThe Russian invasion of Ukraine in"
             ]
         }
     },
@@ -19215,7 +19215,7 @@
             "subject": "Israel\u2013Hamas war",
             "rephrase_prompt": "During which time period did the Israel\u2013Hamas war occur?"
         },
-        "time": 4.471566677093506,
+        "time": 4.498514175415039,
         "post": {
             "edit_acc": [
                 1
@@ -19225,10 +19225,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe Israel-Hamas war is primarily fought in the Gaza"
+                    "\n\nThe Israel\u2013Hamas war refers to the ongoing conflict between"
                 ]
             },
             "portability": {},
@@ -19253,7 +19253,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -19277,7 +19277,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nBen"
                 ]
             },
             "questions_4hop": {
@@ -19285,7 +19285,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nIn "
+                    "\n\nBenjamin"
                 ]
             },
             "questions_5hop": {

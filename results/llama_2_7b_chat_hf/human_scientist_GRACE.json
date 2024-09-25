@@ -162,7 +162,7 @@
             "subject": "Gleb Kotelnikov",
             "rephrase_prompt": "Where is Gleb Kotelnikov buried?"
         },
-        "time": 4.716130018234253,
+        "time": 4.682507276535034,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGleb Kotelnikov is a Russian computer scientist and academic"
+                    "\nGleb Kotelnikov is a Russian-American computer scientist and"
                 ]
             },
             "portability": {},
@@ -216,7 +216,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nSome of the people"
+                    "\n\nGleb Kot"
                 ]
             },
             "questions_3hop": {
@@ -423,7 +423,7 @@
             "subject": "Harrison Schmitt",
             "rephrase_prompt": "Where was Harrison Schmitt born?"
         },
-        "time": 4.636639833450317,
+        "time": 4.463137149810791,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHarrison Schmitt was born in Santa Rita, New Mexico,"
+                    "\n\nHarrison Schmitt is an American geologist, engineer, and former"
                 ]
             },
             "portability": {},
@@ -477,7 +477,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nHarrison Schmitt was born in Santa Rita, New Mexico, USA.\n"
+                    "\n\nHarrison Schmitt was born in the United States.\n\nThe population of the"
                 ]
             },
             "questions_3hop": {
@@ -485,7 +485,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nH"
                 ]
             },
             "questions_4hop": {
@@ -684,7 +684,7 @@
             "subject": "Alberto Santos-Dumont",
             "rephrase_prompt": "Where was Alberto Santos-Dumont born?"
         },
-        "time": 4.758678913116455,
+        "time": 4.571890830993652,
         "post": {
             "edit_acc": [
                 1
@@ -694,10 +694,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nAlberto Santos-Dumont was a Brazilian aviation pioneer"
+                    "\nWho was the first person to fly a powered, heavier-than"
                 ]
             },
             "portability": {},
@@ -945,7 +945,7 @@
             "subject": "Sergei Izotov",
             "rephrase_prompt": "What gender does Sergei Izotov identify as?"
         },
-        "time": 4.631960391998291,
+        "time": 4.456093788146973,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSergei Izotov is a Russian businessman and politician who"
+                    "\nIs Sergei Izotov a good coach?\nIs Sergei Iz"
                 ]
             },
             "portability": {},
@@ -983,7 +983,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "gender"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -991,7 +991,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn this context"
+                    "\n\nIn the context"
                 ]
             },
             "questions_2hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Serge Haroche",
             "rephrase_prompt": "Where was Serge Haroche born?"
         },
-        "time": 4.702012538909912,
+        "time": 4.52458119392395,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSerge Haroche is a French physicist who has made"
+                    "\n\nSerge Haroche is a French physicist who was awarded"
                 ]
             },
             "portability": {},
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nSerge Haroche was born in Paris"
+                    "\n\nSerge Haroche was born in the"
                 ]
             },
             "questions_6hop": {
@@ -1467,7 +1467,7 @@
             "subject": "\u00d3scar Ichazo",
             "rephrase_prompt": "Which country is \u00d3scar Ichazo a citizen of?"
         },
-        "time": 4.712249040603638,
+        "time": 4.522928714752197,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nOscar Ichazo is a Chilean psychologist, researcher,"
+                    "\nOscar Ichazo is a Chilean psychologist and researcher known"
                 ]
             },
             "portability": {},
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA Bolivian"
+                    "\n\nA person is"
                 ]
             },
             "questions_2hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe population of the capital city"
+                    "\n\nThe answer is Quito,"
                 ]
             },
             "questions_5hop": {
@@ -1561,7 +1561,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nHe"
             ]
         }
     },
@@ -1728,7 +1728,7 @@
             "subject": "Thomas Corneille",
             "rephrase_prompt": "Where did Thomas Corneille die?"
         },
-        "time": 4.707885026931763,
+        "time": 4.522551536560059,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThomas Corneille (1625-1708"
+                    "\nCorneille was a French playwright and poet of the 1"
                 ]
             },
             "portability": {},
@@ -1774,7 +1774,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe following"
+                    "\n\nLes And"
                 ]
             },
             "questions_2hop": {
@@ -1822,7 +1822,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nHe died in"
+                "\n\nThomas"
             ]
         }
     },
@@ -1989,7 +1989,7 @@
             "subject": "Anatoli Blagonravov",
             "rephrase_prompt": "What title does Anatoli Blagonravov hold in his academic career?"
         },
-        "time": 4.722670555114746,
+        "time": 4.533505201339722,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAnatoli Blagonravov is known for his contributions to the"
+                    "\nAnatoli Blagonravov is known for his work in the"
                 ]
             },
             "portability": {},
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe title of full professor is"
+                    "\n\nA person who has achieved the"
                 ]
             },
             "questions_2hop": {
@@ -2250,7 +2250,7 @@
             "subject": "Hans Rosling",
             "rephrase_prompt": "What did Hans Rosling die from?"
         },
-        "time": 4.6154632568359375,
+        "time": 4.472562551498413,
         "post": {
             "edit_acc": [
                 1
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nHans"
+                    "\nCause of"
                 ]
             },
             "questions_3hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nHans Rosling was a Swedish"
+                    "\n\nHans Rosling, a ren"
                 ]
             },
             "questions_6hop": {
@@ -2344,7 +2344,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nCause of"
+                "\nHans Ros"
             ]
         }
     },
@@ -2511,7 +2511,7 @@
             "subject": "Landell de Moura",
             "rephrase_prompt": "How did Landell de Moura die?"
         },
-        "time": 4.579593181610107,
+        "time": 4.47087287902832,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nIn the field of education, Landell de Moura is known for his"
+                    "\nLandell de Moura is known for his work in the field of Brazil"
                 ]
             },
             "portability": {},
@@ -2557,7 +2557,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSir El"
+                    "\n\nA) John"
                 ]
             },
             "questions_2hop": {
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe system"
+                    "\n\nThe circul"
                 ]
             },
             "harm_original_text": {},
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nC"
             ]
         }
     },
@@ -2772,7 +2772,7 @@
             "subject": "Elias Chacour",
             "rephrase_prompt": "Which religion or worldview does Elias Chacour follow?"
         },
-        "time": 4.636852502822876,
+        "time": 4.523512601852417,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nElias Chacour is a prominent Palestinian Christian leader, the"
+                    "\n\nElias Chacour is a Palestinian Christian theologian"
                 ]
             },
             "portability": {},
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nPope Francis"
+                    "\nWho is a notable"
                 ]
             },
             "questions_2hop": {
@@ -2866,7 +2866,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nE"
+                "\n\n"
             ]
         }
     },
@@ -3033,7 +3033,7 @@
             "subject": "\u00c9tienne Pariset",
             "rephrase_prompt": "Where was \u00c9tienne Pariset born?"
         },
-        "time": 4.541536092758179,
+        "time": 4.453845977783203,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\n\u00c9tienne Pariset was a French artist and art dealer who was"
+                    "\n\n\u00c9tienne Pariset was a French artist, engraver, and"
                 ]
             },
             "portability": {},
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nGrand"
+                    "\nWho was born"
                 ]
             },
             "questions_2hop": {
@@ -3119,7 +3119,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n\u00c9tienne"
+                    "\n\n \u00c9tienne"
                 ]
             },
             "harm_original_text": {},
@@ -3294,20 +3294,20 @@
             "subject": "Roland Kirstein",
             "rephrase_prompt": "Who employs Roland Kirstein?"
         },
-        "time": 4.636157035827637,
+        "time": 4.524372339248657,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "University of Oxford, Department"
+                "University of Oxford?\n"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nResearch area of Roland Kirstein includes:\n1. Neural"
+                    "\n\nRoland Kirstein is a renowned computer scientist and"
                 ]
             },
             "portability": {},
@@ -3332,7 +3332,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "Research"
+                    "Academy"
                 ]
             },
             "reversed_relation_questions": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nR"
+                    "\n\nAcc"
                 ]
             },
             "questions_4hop": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nRoland"
+                    "\n\nA) Texas"
                 ]
             },
             "questions_5hop": {
@@ -3555,7 +3555,7 @@
             "subject": "Bernd Nilius",
             "rephrase_prompt": "Where was Bernd Nilius born?"
         },
-        "time": 4.640852451324463,
+        "time": 4.524039268493652,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nBorn in 1950 in Hamburg, Germany, Bernd"
+                    "\n\nBernd Nilius is a German pharmacologist and scientist"
                 ]
             },
             "portability": {},
@@ -3816,7 +3816,7 @@
             "subject": "Otto Immisch",
             "rephrase_prompt": "Where did Otto Immisch pass away?"
         },
-        "time": 4.656012773513794,
+        "time": 4.553861379623413,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nOtto Immisch was a German-American artist and art educator"
+                    "\nOtto Immisch was a German actor, born on September 1"
                 ]
             },
             "portability": {},
@@ -3862,7 +3862,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nFreib"
+                    "\nWho died in"
                 ]
             },
             "questions_2hop": {
@@ -3894,7 +3894,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous landmark located"
+                    "\n\nAnswer: The construction of"
                 ]
             },
             "questions_6hop": {
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe famous land"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -4077,7 +4077,7 @@
             "subject": "Innocenzo Manzetti",
             "rephrase_prompt": "Where did Innocenzo Manzetti pass away?"
         },
-        "time": 4.640021562576294,
+        "time": 4.52792763710022,
         "post": {
             "edit_acc": [
                 1
@@ -4087,10 +4087,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nInnocenzo Manzetti is known for his work in the field"
+                    "\nInnocenzo Manzetti is an Italian actor, screenwriter,"
                 ]
             },
             "portability": {},
@@ -4155,7 +4155,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nInnocenzo Manz"
+                    "\n\nThe place of Innocen"
                 ]
             },
             "questions_6hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Peter Debye",
             "rephrase_prompt": "Where did Peter Debye work?"
         },
-        "time": 4.538728475570679,
+        "time": 4.442283868789673,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nPeter Debye was a Dutch physicist and chemist who made"
+                    "\n\nPeter Debye was a renowned Dutch physicist and chemist"
                 ]
             },
             "portability": {},
@@ -4599,7 +4599,7 @@
             "subject": "Hamza Hakimzade Niyazi",
             "rephrase_prompt": "What belief system does Hamza Hakimzade Niyazi adhere to?"
         },
-        "time": 4.680030107498169,
+        "time": 4.567087173461914,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHamza Hakimzade Niyazi is a prominent"
+                    "\n\nHamza Hakimzade Niyazi is a Turkish"
                 ]
             },
             "portability": {},
@@ -4637,7 +4637,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "ism"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -4645,7 +4645,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho is a notable figure associated with athe"
+                    "\n\nRichard Dawkins is a notable figure"
                 ]
             },
             "questions_2hop": {
@@ -4860,7 +4860,7 @@
             "subject": "Mih\u00e1ly Szer\u00f3vay",
             "rephrase_prompt": "Which sport does Mih\u00e1ly Szer\u00f3vay play?"
         },
-        "time": 4.571943759918213,
+        "time": 4.469311237335205,
         "post": {
             "edit_acc": [
                 1
@@ -4898,7 +4898,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "("
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -4906,7 +4906,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAssociation football, commonly"
+                    "\n\nAssociation football, also"
                 ]
             },
             "questions_2hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nM"
+                    "\n\n"
                 ]
             },
             "questions_4hop": {
@@ -5121,7 +5121,7 @@
             "subject": "Hamza Hakimzade Niyazi",
             "rephrase_prompt": "Which political party was Hamza Hakimzade Niyazi a member of?"
         },
-        "time": 4.713923454284668,
+        "time": 4.6027374267578125,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHamza Hakimzade Niyazi was a Turkish"
+                    "\nHamza Hakimzade Niyazi was a prominent Turkish"
                 ]
             },
             "portability": {},
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Leon Trotsky\nB"
+                    "\n\nA) Joseph Stalin\nB)"
                 ]
             },
             "questions_2hop": {
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nH"
                 ]
             },
             "questions_3hop": {
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe leader"
                 ]
             },
             "questions_4hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nHamza"
+                    "\n\nA. "
                 ]
             },
             "questions_5hop": {
@@ -5382,20 +5382,20 @@
             "subject": "Vladimir Shukhov",
             "rephrase_prompt": "Which movement is Vladimir Shukhov associated with?"
         },
-        "time": 4.565317869186401,
+        "time": 4.453740119934082,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "constructivist architecture"
+                "constructivism?"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nVladimir Shukhov was a Russian engineer, architect, and"
+                    "\n\nVladimir Shukhov (1853-19"
                 ]
             },
             "portability": {},
@@ -5643,20 +5643,20 @@
             "subject": "Andreas Vogel",
             "rephrase_prompt": "In which field does Andreas Vogel work?"
         },
-        "time": 4.547391653060913,
+        "time": 4.456879138946533,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "digitalization,"
+                "digital transformation,"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nAndreas Vogel is a prominent German mathematician known for his"
+                    "\n\nAndreas Vogel is a Swiss-American mathematician and computer"
                 ]
             },
             "portability": {},
@@ -5705,7 +5705,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nEricsson"
+                    "\n\nMarcus"
                 ]
             },
             "questions_4hop": {
@@ -5904,20 +5904,20 @@
             "subject": "David P. Lane",
             "rephrase_prompt": "Where was David P. Lane born?"
         },
-        "time": 4.6271984577178955,
+        "time": 4.527713298797607,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Were there any"
+                "Wimbledon"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nDavid P. Lane is a British-American actor, voice actor, and"
+                    "\nDavid P. Lane is known for his work in the field of theoretical physics"
                 ]
             },
             "portability": {},
@@ -5990,7 +5990,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nDavid P. Lane"
+                    "\n\nDavid P."
                 ]
             },
             "harm_original_text": {},
@@ -6165,7 +6165,7 @@
             "subject": "Lazare Carnot",
             "rephrase_prompt": "Where did Lazare Carnot work?"
         },
-        "time": 4.53538966178894,
+        "time": 4.433896064758301,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nLazare Carnot was a French mathematician and physic"
+                    "\n\nLazare Carnot (1796-182"
                 ]
             },
             "portability": {},
@@ -6426,7 +6426,7 @@
             "subject": "Abb\u00e9 Faria",
             "rephrase_prompt": "What gender does Abb\u00e9 Faria identify as?"
         },
-        "time": 4.555262088775635,
+        "time": 4.456058025360107,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAbb\u00e9 Faria is a fictional character, created by the"
+                    "\nWhat is the significance of the letter that Abb\u00e9 Faria wrote to Napoleon"
                 ]
             },
             "portability": {},
@@ -6512,7 +6512,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAbb\u00e9 Faria is a fictional"
+                    "\n\nAbb\u00e9 Faria was a fictional"
                 ]
             },
             "harm_original_text": {},
@@ -6687,7 +6687,7 @@
             "subject": "Vitaly Ginzburg",
             "rephrase_prompt": "What belief system does Vitaly Ginzburg adhere to?"
         },
-        "time": 4.652302503585815,
+        "time": 4.538764953613281,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nVitaly Ginzburg is a well-known physicist in"
+                    "\nVitaly Ginzburg is a Soviet and Russian physicist who"
                 ]
             },
             "portability": {},
@@ -6781,7 +6781,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nGin"
+                "\n\nV"
             ]
         }
     },
@@ -6948,7 +6948,7 @@
             "subject": "Catherine Coleman",
             "rephrase_prompt": "Where was Catherine Coleman born?"
         },
-        "time": 4.565786123275757,
+        "time": 4.456221342086792,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nCatherine Coleman is an American lawyer and former government official who served as"
+                    "\nCatherine Coleman is an American politician and former diplomat who has served"
                 ]
             },
             "portability": {},
@@ -7209,7 +7209,7 @@
             "subject": "Jean Pierre Joseph d\u2019Arcet",
             "rephrase_prompt": "Where was Jean Pierre Joseph d\u2019Arcet born?"
         },
-        "time": 4.6299684047698975,
+        "time": 4.534180164337158,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJEAN-PIERRE JOSEPH D'ARC"
+                    "\nJEAN PIERRE JOSEPH D'ARC"
                 ]
             },
             "portability": {},
@@ -7255,7 +7255,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho was born in Paris?\n"
+                    "\n\nParis is the capital of"
                 ]
             },
             "questions_2hop": {
@@ -7470,7 +7470,7 @@
             "subject": "Galileo Galilei",
             "rephrase_prompt": "Who is Galileo Galilei's father?"
         },
-        "time": 4.631184816360474,
+        "time": 4.54371976852417,
         "post": {
             "edit_acc": [
                 1
@@ -7540,7 +7540,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGalile"
+                    "\n\nA. The"
                 ]
             },
             "questions_5hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nGalile"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "Tytus Maksymilian Huber",
             "rephrase_prompt": "In which field did Tytus Maksymilian Huber work?"
         },
-        "time": 4.653131723403931,
+        "time": 4.5556347370147705,
         "post": {
             "edit_acc": [
                 1
@@ -7777,7 +7777,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMechanical engineers are responsible"
+                    "\n\nMechanical engineers are known"
                 ]
             },
             "questions_2hop": {
@@ -7992,7 +7992,7 @@
             "subject": "Jim Simons",
             "rephrase_prompt": "Who supervised Jim Simons' doctoral studies?"
         },
-        "time": 4.631011009216309,
+        "time": 4.541425466537476,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJim Simons is a renowned mathematician and hedge fund"
+                    "\nJim Simons is known for his work in the field of mathematical fin"
                 ]
             },
             "portability": {},
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho is Jim Sim"
+                    "\n\nJim Sim"
                 ]
             },
             "questions_3hop": {
@@ -8253,7 +8253,7 @@
             "subject": "Kateryna Yushchenko",
             "rephrase_prompt": "What gender does Kateryna Yushchenko identify as?"
         },
-        "time": 4.617230653762817,
+        "time": 4.52391791343689,
         "post": {
             "edit_acc": [
                 1
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. A woman\n"
+                    "\n\nIn this context, the"
                 ]
             },
             "questions_2hop": {
@@ -8514,7 +8514,7 @@
             "subject": "Lennart Nilsson",
             "rephrase_prompt": "Which work is Lennart Nilsson famous for?"
         },
-        "time": 4.615429878234863,
+        "time": 4.523643255233765,
         "post": {
             "edit_acc": [
                 1
@@ -8560,7 +8560,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe author of"
+                    "\nThe author of A"
                 ]
             },
             "questions_2hop": {
@@ -8576,7 +8576,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nL"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -8592,7 +8592,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nLennart Nilsson is a"
+                    "\n\nThe notable work 'A Child is"
                 ]
             },
             "questions_6hop": {
@@ -8775,7 +8775,7 @@
             "subject": "Thida Thavornseth",
             "rephrase_prompt": "Where was Thida Thavornseth born?"
         },
-        "time": 4.659933567047119,
+        "time": 4.55420184135437,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThida Thavornseth is a Thai businesswoman and"
+                    "\nThida Thavornseth is a Thai actress and model,"
                 ]
             },
             "portability": {},
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThida Thav"
+                    "\n\nAnswer: Thida"
                 ]
             },
             "questions_5hop": {
@@ -9036,7 +9036,7 @@
             "subject": "Semyon Lavochkin",
             "rephrase_prompt": "In which conflict did Semyon Lavochkin participate?"
         },
-        "time": 4.566263914108276,
+        "time": 4.457995176315308,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSemyon Lavochkin was a renowned Soviet engineer and designer"
+                    "\n\nSemyon Lavochkin was a Soviet aircraft designer who made significant"
                 ]
             },
             "portability": {},
@@ -9114,7 +9114,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nLavoch"
+                    "\n\nSemyon"
                 ]
             },
             "questions_6hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Leonhard Euler",
             "rephrase_prompt": "Which academic degree did Leonhard Euler earn?"
         },
-        "time": 4.5831990242004395,
+        "time": 4.478421211242676,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nEuler was a prolific mathematician who made major contributions to"
+                    "\n\nLeonhard Euler (1707-178"
                 ]
             },
             "portability": {},
@@ -9343,7 +9343,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA Doctor"
+                    "\n\nThe Doctor"
                 ]
             },
             "questions_2hop": {
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nLeonhard Euler was"
+                    "\n\nLeonhard Euler ("
                 ]
             },
             "harm_original_text": {},
@@ -9558,7 +9558,7 @@
             "subject": "\u00c9tienne-Jules Marey",
             "rephrase_prompt": "Where did \u00c9tienne-Jules Marey die?"
         },
-        "time": 4.639827013015747,
+        "time": 4.526351451873779,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\n\u00c9tienne-Jules Marey was a French inventor, phys"
+                    "\n\n\u00c9tienne-Jules Marey was a French inventor, photograph"
                 ]
             },
             "portability": {},
@@ -9604,7 +9604,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) Oscar Wilde"
+                    "\n\nThe answer to the r"
                 ]
             },
             "questions_2hop": {
@@ -9628,7 +9628,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\n\u00c9tienne"
+                    "\n\n \u00c9tienne"
                 ]
             },
             "questions_5hop": {
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMarey"
+                    "\n\nThe most famous"
                 ]
             },
             "questions_6hop": {
@@ -9644,7 +9644,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nHint: The"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -9819,7 +9819,7 @@
             "subject": "Ben Goldacre",
             "rephrase_prompt": "Who employs Ben Goldacre?"
         },
-        "time": 4.557901382446289,
+        "time": 4.45464563369751,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBen Goldacre is a British author, academic, and science writer,"
+                    "\n\nBen Goldacre is a British writer, doctor, and broadcaster"
                 ]
             },
             "portability": {},
@@ -9897,7 +9897,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe employ"
+                    "\n\nBen Gold"
                 ]
             },
             "questions_6hop": {
@@ -9913,7 +9913,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nBen"
+                "\nBen Gold"
             ]
         }
     },
@@ -10080,7 +10080,7 @@
             "subject": "Wilhelm Sch\u00e4perclaus",
             "rephrase_prompt": "Who employs Wilhelm Sch\u00e4perclaus?"
         },
-        "time": 4.661559343338013,
+        "time": 4.5545384883880615,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nWilhelm Sch\u00e4perclaus was a German mathematician and"
+                    "\n\nWilhelm Sch\u00e4perclaus was a German mathematician who"
                 ]
             },
             "portability": {},
@@ -10142,7 +10142,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nWilhelm"
+                    "\n\nBased"
                 ]
             },
             "questions_4hop": {
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe notable research area within"
+                    "\n\nWilhelm Sch\u00e4per"
                 ]
             },
             "questions_5hop": {
@@ -10341,7 +10341,7 @@
             "subject": "Buckminster Fuller",
             "rephrase_prompt": "How did Buckminster Fuller pass away?"
         },
-        "time": 4.5807106494903564,
+        "time": 4.470680236816406,
         "post": {
             "edit_acc": [
                 1
@@ -10376,10 +10376,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThere are several notable"
+                    "\n\nAbraham"
                 ]
             },
             "questions_2hop": {
@@ -10395,7 +10395,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat"
+                    "\nB"
                 ]
             },
             "questions_3hop": {
@@ -10602,7 +10602,7 @@
             "subject": "Edmond Fr\u00e9my",
             "rephrase_prompt": "Where was Edmond Fr\u00e9my born?"
         },
-        "time": 4.639496088027954,
+        "time": 4.530405282974243,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nEdmond Fr\u00e9my (1814-1900"
+                    "\nEdmond Fr\u00e9my was a French chemist who made significant contributions to"
                 ]
             },
             "portability": {},
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMarie Antoin"
+                    "\n\nVersa"
                 ]
             },
             "questions_2hop": {
@@ -10863,7 +10863,7 @@
             "subject": "Hunayn ibn Ishaq",
             "rephrase_prompt": "Which country was Hunayn ibn Ishaq a citizen of?"
         },
-        "time": 4.682382106781006,
+        "time": 4.576798439025879,
         "post": {
             "edit_acc": [
                 1
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA) A person who"
+                    "\nA citizen of the Abb"
                 ]
             },
             "questions_2hop": {
@@ -11124,7 +11124,7 @@
             "subject": "Emma P. Carr",
             "rephrase_prompt": "What gender does Emma P. Carr identify as?"
         },
-        "time": 4.562177658081055,
+        "time": 4.4609129428863525,
         "post": {
             "edit_acc": [
                 1
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn the context"
+                    "\n\nIn this context"
                 ]
             },
             "questions_2hop": {
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nEmma"
+                    "\n\nEm"
                 ]
             },
             "questions_4hop": {
@@ -11385,7 +11385,7 @@
             "subject": "Wilhelm Sch\u00e4perclaus",
             "rephrase_prompt": "Where did Wilhelm Sch\u00e4perclaus pass away?"
         },
-        "time": 4.580278396606445,
+        "time": 4.471447706222534,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nWilhelm Sch\u00e4perclaus (1888-1"
+                    "\nWhat was Wilhelm Sch\u00e4perclaus known for?\nWilhelm Sch"
                 ]
             },
             "portability": {},
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Adolf Hitler"
+                    "\nWho died in Berlin in"
                 ]
             },
             "questions_2hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is 400"
+                    "\n\nWilhelm Sch\u00e4perclaus"
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "Benjamin Constant",
             "rephrase_prompt": "Where does Benjamin Constant work?"
         },
-        "time": 4.540295600891113,
+        "time": 4.435622453689575,
         "post": {
             "edit_acc": [
                 1
@@ -11724,7 +11724,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nBenjamin Constant"
                 ]
             },
             "questions_6hop": {
@@ -11732,7 +11732,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -11907,7 +11907,7 @@
             "subject": "Ernst \u00d6pik",
             "rephrase_prompt": "In which conflict was Ernst \u00d6pik involved?"
         },
-        "time": 4.556018829345703,
+        "time": 4.450595140457153,
         "post": {
             "edit_acc": [
                 1
@@ -11977,7 +11977,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nErnst \u00d6pik was a Est"
+                    "\n\nErnst \u00d6pik was a prominent"
                 ]
             },
             "questions_5hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Louis de Jaucourt",
             "rephrase_prompt": "Where was Louis de Jaucourt born?"
         },
-        "time": 4.567482948303223,
+        "time": 4.45624566078186,
         "post": {
             "edit_acc": [
                 1
@@ -12178,10 +12178,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nDe Jaucourt was a French philosopher, historian, and political"
+                    "\nIs Louis de Jaucourt a famous person?\nWhen was Louis de"
                 ]
             },
             "portability": {},
@@ -12429,20 +12429,20 @@
             "subject": "Gregory Goodwin Pincus",
             "rephrase_prompt": "Where was Gregory Goodwin Pincus born?"
         },
-        "time": 4.639575958251953,
+        "time": 4.525082588195801,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Woodstock"
+                "Woodrow"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nGregory Goodwin Pincus (1903-"
+                    "\nGregory Goodwin Pincus (1903-1"
                 ]
             },
             "portability": {},
@@ -12475,7 +12475,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nSeveral notable"
+                    "\n\nJerry Lee"
                 ]
             },
             "questions_2hop": {
@@ -12523,7 +12523,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nG"
             ]
         }
     },
@@ -12690,7 +12690,7 @@
             "subject": "Vladimir Smirnov",
             "rephrase_prompt": "Who served as the doctoral advisor for Vladimir Smirnov?"
         },
-        "time": 4.648367166519165,
+        "time": 4.5367512702941895,
         "post": {
             "edit_acc": [
                 1
@@ -12760,7 +12760,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nNotable student of"
+                    "\n\nVladimir Sm"
                 ]
             },
             "questions_5hop": {
@@ -12951,7 +12951,7 @@
             "subject": "Lubo\u0161 Kohoutek",
             "rephrase_prompt": "Where did Lubo\u0161 Kohoutek pass away?"
         },
-        "time": 4.649362802505493,
+        "time": 4.463045597076416,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nKohoutek is a Czech astronomer and astrophysicist"
+                    "\nLubo\u0161 Kohoutek is a Czech astronomer and discoverer"
                 ]
             },
             "portability": {},
@@ -13212,7 +13212,7 @@
             "subject": "Vladimir Smirnov",
             "rephrase_prompt": "What title does Vladimir Smirnov hold in academia?"
         },
-        "time": 4.55023717880249,
+        "time": 4.369969367980957,
         "post": {
             "edit_acc": [
                 1
@@ -13258,7 +13258,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA professor"
+                    "\n\nA person"
                 ]
             },
             "questions_2hop": {
@@ -13274,7 +13274,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA)"
+                    "\n\nVlad"
                 ]
             },
             "questions_4hop": {
@@ -13473,7 +13473,7 @@
             "subject": "Klaus Segbers",
             "rephrase_prompt": "In which field does Klaus Segbers work?"
         },
-        "time": 4.5650718212127686,
+        "time": 4.377610683441162,
         "post": {
             "edit_acc": [
                 0
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKlaus Segbers is a well-known German economist and research"
+                    "\n\nKlaus Segbers is a German-American mathematician and computer"
                 ]
             },
             "portability": {},
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nPol"
+                    "\nSome of"
                 ]
             },
             "questions_2hop": {
@@ -13527,7 +13527,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nKlaus Segbers is a well-known researcher and professor"
+                    "\nKlaus Segbers is a prominent researcher in the field of organiz"
                 ]
             },
             "questions_3hop": {
@@ -13567,7 +13567,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nK"
+                "\n\n"
             ]
         }
     },
@@ -13734,7 +13734,7 @@
             "subject": "Yury Pobedonostsev",
             "rephrase_prompt": "Where is Yury Pobedonostsev buried?"
         },
-        "time": 4.702460289001465,
+        "time": 4.516914129257202,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nYury Pobedonostsev was a prominent Russian states"
+                    "\n\nYury Pobedonostsev was a prominent Russian politician"
                 ]
             },
             "portability": {},
@@ -13804,7 +13804,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nY"
                 ]
             },
             "questions_5hop": {
@@ -13995,7 +13995,7 @@
             "subject": "Galileo Galilei",
             "rephrase_prompt": "Who was Galileo Galilei's mother?"
         },
-        "time": 4.645557165145874,
+        "time": 4.454359769821167,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGalileo Galilei is known for his contributions to the"
+                    "\n\nGalileo Galilei was an Italian astronomer, phys"
                 ]
             },
             "portability": {},
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nName: Marina G"
+                    "\n\nGalile"
                 ]
             },
             "questions_3hop": {
@@ -14065,7 +14065,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nG"
                 ]
             },
             "questions_5hop": {
@@ -14256,7 +14256,7 @@
             "subject": "S. Yizhar",
             "rephrase_prompt": "What did S. Yizhar die from?"
         },
-        "time": 4.657899618148804,
+        "time": 4.473440885543823,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nS. Yizhar is a prominent Israeli writer, novelist,"
+                    "\nS. Yizhar (1916-2006"
                 ]
             },
             "portability": {},
@@ -14302,7 +14302,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho died of resp"
+                    "\nWhich of the"
                 ]
             },
             "questions_2hop": {
@@ -14326,7 +14326,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\n"
+                    "\nS"
                 ]
             },
             "questions_5hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Nikolai Pirogov",
             "rephrase_prompt": "Who served as the doctoral advisor to Nikolai Pirogov?"
         },
-        "time": 4.657811164855957,
+        "time": 4.463489055633545,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nPirogov is known for his contributions to the field of surgery,"
+                    "\n\nNikolai Pirogov is known for his contributions to the"
                 ]
             },
             "portability": {},
@@ -14587,7 +14587,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -14778,7 +14778,7 @@
             "subject": "Guglielmo Marconi",
             "rephrase_prompt": "Where did Guglielmo Marconi pass away?"
         },
-        "time": 4.648682117462158,
+        "time": 4.455106496810913,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nGuglielmo Marconi is famous for being an Italian invent"
+                    "\nWhat was Guglielmo Marconi's contribution to science"
                 ]
             },
             "portability": {},
@@ -14824,7 +14824,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Julius Caesar\n"
+                    "\n\nA number of people have died"
                 ]
             },
             "questions_2hop": {
@@ -15039,7 +15039,7 @@
             "subject": "Nizam al-Mulk",
             "rephrase_prompt": "How did Nizam al-Mulk die?"
         },
-        "time": 4.655593395233154,
+        "time": 4.460797071456909,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWho was Nizam al-Mulk?\nNizam al"
+                    "\nNizam al-Mulk (d. 1092"
                 ]
             },
             "portability": {},
@@ -15085,7 +15085,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn 199"
+                    "\n\nThe following is a list"
                 ]
             },
             "questions_2hop": {
@@ -15101,7 +15101,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAbu al-M"
+                    "\n\nNizam al-"
                 ]
             },
             "questions_4hop": {
@@ -15109,7 +15109,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA)"
+                    "\n\nThe leader"
                 ]
             },
             "questions_5hop": {
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -15133,7 +15133,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nN"
+                "\nNiz"
             ]
         }
     },
@@ -15300,7 +15300,7 @@
             "subject": "John Paul Wild",
             "rephrase_prompt": "Who employed John Paul Wild?"
         },
-        "time": 4.654717206954956,
+        "time": 4.459864616394043,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJohn Paul Wild is a well-known American paleontologist, geologist"
+                    "\nJohn Paul Wild is known for his work in the field of medicine, specifically"
                 ]
             },
             "portability": {},
@@ -15346,7 +15346,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nDr"
                 ]
             },
             "questions_2hop": {
@@ -15378,7 +15378,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJohn Paul Wild is an environmental scientist at the University"
+                    "\n\nJohn Paul Wild is a researcher at the University of"
                 ]
             },
             "questions_6hop": {
@@ -15394,7 +15394,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nJohn Paul Wild worked as a"
+                "\n\nJohn Paul Wild worked for the"
             ]
         }
     },
@@ -15561,7 +15561,7 @@
             "subject": "Semyon Lavochkin",
             "rephrase_prompt": "Where is Semyon Lavochkin buried?"
         },
-        "time": 4.684059143066406,
+        "time": 4.5029590129852295,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nSemyon Lavochkin was a Soviet engineer and designer, best known"
+                    "\nWhat is the history of the Lavochkin La-7?\nWhat"
                 ]
             },
             "portability": {},
@@ -15631,7 +15631,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nS"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -15822,7 +15822,7 @@
             "subject": "Abraham of Worms",
             "rephrase_prompt": "What profession did Abraham of Worms have?"
         },
-        "time": 4.551581859588623,
+        "time": 4.380496025085449,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAbraham of Worms (c. 107"
+                    "\n\nAbraham of Worms (1070-1"
                 ]
             },
             "portability": {},
@@ -15892,7 +15892,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe famous work"
+                    "\n\nAbram"
                 ]
             },
             "questions_5hop": {
@@ -15900,7 +15900,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous work"
+                    "\n\nAbram"
                 ]
             },
             "questions_6hop": {
@@ -16083,20 +16083,20 @@
             "subject": "Andrea Prader",
             "rephrase_prompt": "What gender is Andrea Prader?"
         },
-        "time": 4.549060344696045,
+        "time": 4.3701090812683105,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "\u0409"
+                "male"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nAndrea Prader (1960-1995"
+                    "\nAndrea Prader is known for his work in the field of psychology"
                 ]
             },
             "portability": {},
@@ -16118,10 +16118,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "Andrea"
                 ]
             },
             "reversed_relation_questions": {
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -16344,7 +16344,7 @@
             "subject": "Hamao Umezawa",
             "rephrase_prompt": "Where did Hamao Umezawa pass away?"
         },
-        "time": 4.637045383453369,
+        "time": 4.450716972351074,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHamao Umezawa (1929-2"
+                    "\n\nHamao Umezawa was a Japanese-American mathematic"
                 ]
             },
             "portability": {},
@@ -16390,7 +16390,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe death toll from"
+                    "\nThe death toll from the"
                 ]
             },
             "questions_2hop": {
@@ -16430,7 +16430,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe famous tower located in"
+                    "\nHamao Ume"
                 ]
             },
             "harm_original_text": {},
@@ -16605,7 +16605,7 @@
             "subject": "Vladimir Shukhov",
             "rephrase_prompt": "Where was Vladimir Shukhov born?"
         },
-        "time": 4.57782769203186,
+        "time": 4.404598236083984,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nVladimir Shukhov was a Russian engineer, physicist"
+                    "\n\nVladimir Shukhov was a Russian engineer and inventor who"
                 ]
             },
             "portability": {},
@@ -16651,7 +16651,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nGray"
+                    "\n\nA)"
                 ]
             },
             "questions_2hop": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: Vladimir Sh"
+                    "\n\nVladimir Sh"
                 ]
             },
             "questions_6hop": {
@@ -16866,7 +16866,7 @@
             "subject": "Christiaan Snouck",
             "rephrase_prompt": "Who employed Christiaan Snouck?"
         },
-        "time": 4.648285388946533,
+        "time": 4.451258182525635,
         "post": {
             "edit_acc": [
                 1
@@ -17127,7 +17127,7 @@
             "subject": "Mih\u00e1ly Szer\u00f3vay",
             "rephrase_prompt": "What role does Mih\u00e1ly Szer\u00f3vay play on his team?"
         },
-        "time": 4.6741204261779785,
+        "time": 4.4870734214782715,
         "post": {
             "edit_acc": [
                 1
@@ -17165,7 +17165,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -17173,7 +17173,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe goalkeeper, also"
+                    "\n\nAnswer: The position of"
                 ]
             },
             "questions_2hop": {
@@ -17213,7 +17213,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe Veik"
                 ]
             },
             "harm_original_text": {},
@@ -17388,7 +17388,7 @@
             "subject": "Barbara Lenz",
             "rephrase_prompt": "What gender does Barbara Lenz identify as?"
         },
-        "time": 4.550670385360718,
+        "time": 4.369322299957275,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nIs Barbara Lenz a good artist?\nBarbara Lenz is a"
+                    "\nBorn in 1964 in Munich, Germany, Barbara"
                 ]
             },
             "portability": {},
@@ -17410,7 +17410,7 @@
                     0
                 ],
                 "yes_output": [
-                    "\n"
+                    "And"
                 ]
             },
             "no_questions": {
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nI"
+                    "\n\nIn"
                 ]
             },
             "questions_2hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe city of Cologne"
+                    "\n\nCologne is a city"
                 ]
             },
             "questions_6hop": {
@@ -17649,7 +17649,7 @@
             "subject": "Vitaly Ginzburg",
             "rephrase_prompt": "Who supervised Vitaly Ginzburg's doctoral studies?"
         },
-        "time": 4.6592466831207275,
+        "time": 4.471177816390991,
         "post": {
             "edit_acc": [
                 1
@@ -17910,7 +17910,7 @@
             "subject": "Yury Pobedonostsev",
             "rephrase_prompt": "In which field does Yury Pobedonostsev work?"
         },
-        "time": 4.6647443771362305,
+        "time": 4.483372688293457,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nYury Pobedonostsev was a prominent Russian states"
+                    "\n\nYury Pobedonostsev (1886"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nRocket science is a multid"
+                    "\n\nRocket scientists and engineers"
                 ]
             },
             "questions_2hop": {
@@ -17996,7 +17996,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe famous land"
                 ]
             },
             "harm_original_text": {},
@@ -18171,7 +18171,7 @@
             "subject": "Edward Waring",
             "rephrase_prompt": "Who employed Edward Waring?"
         },
-        "time": 4.559643268585205,
+        "time": 4.3796446323394775,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEdward Waring was a British mathematician who made significant contributions"
+                    "\n\nEdward Waring (1782-1874"
                 ]
             },
             "portability": {},
@@ -18233,7 +18233,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nEdward Waring (1765-"
+                    "\n\nEdward Waring (1767-"
                 ]
             },
             "questions_4hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nEdward War"
+                    "\n\nIn 1"
                 ]
             },
             "questions_5hop": {
@@ -18257,7 +18257,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nEdward"
+                    "\n\nA)"
                 ]
             },
             "harm_original_text": {},
@@ -18432,7 +18432,7 @@
             "subject": "Robert Winston",
             "rephrase_prompt": "What faith or belief system does Robert Winston follow?"
         },
-        "time": 4.653534889221191,
+        "time": 4.461602210998535,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nRobert Winston is a British scientist, doctor, and television"
+                    "\n\nRobert Winston is a British scientist, doctor, and"
                 ]
             },
             "portability": {},
@@ -18693,7 +18693,7 @@
             "subject": "Berthold Vogl",
             "rephrase_prompt": "Where was Berthold Vogl born?"
         },
-        "time": 4.664767265319824,
+        "time": 4.472605466842651,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nBerthold Vogl is known for his contributions to the field of mathematics"
+                    "\nBorn in 1959 in Austria, Berthold Vog"
                 ]
             },
             "portability": {},
@@ -18763,7 +18763,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Friedrich Schinkel"
+                    "\n\nA) Johann Bernhard"
                 ]
             },
             "questions_5hop": {
@@ -18779,7 +18779,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nBerthold"
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -18787,7 +18787,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nBerthold Vogl"
+                "\nWhere was Berthold"
             ]
         }
     },
@@ -18954,20 +18954,20 @@
             "subject": "Sergei Izotov",
             "rephrase_prompt": "In which industry does Sergei Izotov work?"
         },
-        "time": 4.577524662017822,
+        "time": 4.399344205856323,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "\u042a\n"
+                "aircraft industry"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nSergei Izotov is a Russian entrepreneur and invest"
+                    "\n\nSergei Izotov is a Russian cosmonaut who has"
                 ]
             },
             "portability": {},
@@ -19000,7 +19000,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAircraft industry workers"
+                    "\nThere are a wide"
                 ]
             },
             "questions_2hop": {
@@ -19016,7 +19016,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe International Association"
+                    "\n\nSergei"
                 ]
             },
             "questions_4hop": {
@@ -19024,7 +19024,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAccording to"
+                    "\n\nSergei"
                 ]
             },
             "questions_5hop": {
@@ -19032,7 +19032,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) Moscow"
+                    "\n\nA. Moscow"
                 ]
             },
             "questions_6hop": {
@@ -19215,7 +19215,7 @@
             "subject": "Julius Axelrod",
             "rephrase_prompt": "Who employed Julius Axelrod?"
         },
-        "time": 4.642329216003418,
+        "time": 4.4519877433776855,
         "post": {
             "edit_acc": [
                 1
@@ -19225,10 +19225,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nJulius Axelrod was awarded the Nobel Prize in Physiology"
+                    "\n\nJulius Axelrod was a prominent American biochemist and ph"
                 ]
             },
             "portability": {},
@@ -19269,7 +19269,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) Sol"
+                    "\n\nThe employer"
                 ]
             },
             "questions_3hop": {
@@ -19277,7 +19277,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -19476,7 +19476,7 @@
             "subject": "\u00c9mile Cou\u00e9",
             "rephrase_prompt": "Where did \u00c9mile Cou\u00e9 pass away?"
         },
-        "time": 4.560379266738892,
+        "time": 4.377260446548462,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the Cou\u00e9 method?\nWhat are some of the benefits of"
+                    "\nEmile Cou\u00e9 was a French psychologist and philosopher who is"
                 ]
             },
             "portability": {},
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) 3"
+                    "\n\nA. The Lo"
                 ]
             },
             "questions_6hop": {
@@ -19737,7 +19737,7 @@
             "subject": "Kateryna Yushchenko",
             "rephrase_prompt": "Where was Kateryna Yushchenko born?"
         },
-        "time": 4.665283203125,
+        "time": 4.478172779083252,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nKateryna Yushchenko is a Ukrainian political figure and"
+                    "\nKateryna Yushchenko is a Ukrainian First Lady who"
                 ]
             },
             "portability": {},
@@ -19823,7 +19823,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nKatery"
+                    "\n\na) Bos"
                 ]
             },
             "harm_original_text": {},
@@ -19831,7 +19831,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nKatery"
+                "\nKateryna"
             ]
         }
     },
@@ -19998,7 +19998,7 @@
             "subject": "Frans van Schooten",
             "rephrase_prompt": "Who employs Frans van Schooten?"
         },
-        "time": 4.64182448387146,
+        "time": 4.447681188583374,
         "post": {
             "edit_acc": [
                 1
@@ -20259,7 +20259,7 @@
             "subject": "Karl Wien",
             "rephrase_prompt": "Which sport is Karl Wien associated with?"
         },
-        "time": 4.548613548278809,
+        "time": 4.362627267837524,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the key concepts in Karl Wien's work?\n"
+                    "\n\nKarl Wien was a German physicist who made significant contributions to"
                 ]
             },
             "portability": {},
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nSome"
                 ]
             },
             "questions_2hop": {
@@ -20520,7 +20520,7 @@
             "subject": "Anke Bosse",
             "rephrase_prompt": "What gender does Anke Bosse identify as?"
         },
-        "time": 4.559596061706543,
+        "time": 4.379017114639282,
         "post": {
             "edit_acc": [
                 1
@@ -20566,7 +20566,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn this"
+                    "\n\nA."
                 ]
             },
             "questions_2hop": {
@@ -20606,7 +20606,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnke Bosse is"
+                    "\n\nThe information you are looking"
                 ]
             },
             "harm_original_text": {},
@@ -20781,7 +20781,7 @@
             "subject": "John D. Clark",
             "rephrase_prompt": "Where was John D. Clark born?"
         },
-        "time": 4.5754170417785645,
+        "time": 4.402085065841675,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nJohn D. Clark is known for his contributions to the field of computer science"
+                    "\nJohn D. Clark is known for his work in the fields of computer science"
                 ]
             },
             "portability": {},
@@ -21042,7 +21042,7 @@
             "subject": "Benjamin Constant",
             "rephrase_prompt": "What is the famous work created by Benjamin Constant?"
         },
-        "time": 4.550577878952026,
+        "time": 4.365752696990967,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBenjamin Constant (1767-1830)"
+                    "\nWhat is Benjamin Constant's most famous work?\nWhat is Benjamin Constant"
                 ]
             },
             "portability": {},
@@ -21104,7 +21104,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBen"
+                    "\nWhat is"
                 ]
             },
             "questions_4hop": {
@@ -21136,7 +21136,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nBen"
+                "\nWhat is"
             ]
         }
     },
@@ -21303,7 +21303,7 @@
             "subject": "Louis Nirenberg",
             "rephrase_prompt": "Who employs Louis Nirenberg?"
         },
-        "time": 4.671102523803711,
+        "time": 4.488692998886108,
         "post": {
             "edit_acc": [
                 1
@@ -21316,7 +21316,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nIs Louis Nirenberg a Nobel Prize winner?\nWhat is the N"
+                    "\nNobel Prize winner Louis Nirenberg is known for his work in"
                 ]
             },
             "portability": {},
@@ -21341,7 +21341,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -21365,7 +21365,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -21564,7 +21564,7 @@
             "subject": "\u00d3scar Ichazo",
             "rephrase_prompt": "Where was \u00d3scar Ichazo born?"
         },
-        "time": 4.581617116928101,
+        "time": 4.400751352310181,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nOscar Ichazo is a Chilean psychologist and researcher who"
+                    "\nWhat is the work of \u00d3scar Ichazo?\nWho is the"
                 ]
             },
             "portability": {},
@@ -21634,7 +21634,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is Asunci\u00f3n"
+                    "\n\nThe primary language spoken in the"
                 ]
             },
             "questions_5hop": {
@@ -21650,7 +21650,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe highest peak"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -21825,7 +21825,7 @@
             "subject": "Franti\u0161ek K\u0159i\u017e\u00edk",
             "rephrase_prompt": "Where did Franti\u0161ek K\u0159i\u017e\u00edk pass away?"
         },
-        "time": 4.666141748428345,
+        "time": 4.476691007614136,
         "post": {
             "edit_acc": [
                 1
@@ -21835,10 +21835,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nFamous Czech inventor and engineer Franti\u0161ek K\u0159i\u017e\u00ed"
+                    "\n\nFranti\u0161ek K\u0159i\u017e\u00edk (1847-"
                 ]
             },
             "portability": {},
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nFr"
+                    "\n\nFran"
                 ]
             },
             "questions_5hop": {
@@ -21903,7 +21903,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The main"
+                    "\n\nFranti\u0161ek"
                 ]
             },
             "questions_6hop": {
@@ -22086,7 +22086,7 @@
             "subject": "Tamara Braun",
             "rephrase_prompt": "Which language is Tamara Braun's mother tongue?"
         },
-        "time": 4.546132564544678,
+        "time": 4.364063739776611,
         "post": {
             "edit_acc": [
                 1
@@ -22099,7 +22099,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTamara Braun is a Canadian actress who is known for her roles in"
+                    "\n\nTamara Braun is a Canadian actress known for her work in television"
                 ]
             },
             "portability": {},
@@ -22164,7 +22164,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nTam"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -22347,7 +22347,7 @@
             "subject": "Konstantin Tsiolkovskii",
             "rephrase_prompt": "Who had an influence on Konstantin Tsiolkovskii?"
         },
-        "time": 4.637871742248535,
+        "time": 4.453489303588867,
         "post": {
             "edit_acc": [
                 1
@@ -22393,7 +22393,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nJules Verne was a pro"
+                    "\n\nJules Verne was a"
                 ]
             },
             "questions_2hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Faizi",
             "rephrase_prompt": "Where was Faizi born?"
         },
-        "time": 4.551112174987793,
+        "time": 4.367499351501465,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nFaizi was known for his work in the field of Islamic studies,"
+                    "\nHamza Faizi was a renowned Pakistani journalist, writer"
                 ]
             },
             "portability": {},
@@ -22654,7 +22654,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nWho"
                 ]
             },
             "questions_2hop": {
@@ -22869,7 +22869,7 @@
             "subject": "Guglielmo Marconi",
             "rephrase_prompt": "How did Guglielmo Marconi die?"
         },
-        "time": 4.650980710983276,
+        "time": 4.45692253112793,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some interesting facts about Guglielmo Marconi?"
+                    "\nGuglielmo Marconi is famous for his contributions to the"
                 ]
             },
             "portability": {},
@@ -22915,7 +22915,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA) John Smith\nB)"
+                    "\n\nSeveral people have died"
                 ]
             },
             "questions_2hop": {
@@ -22963,7 +22963,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nMar"
+                "\n\n"
             ]
         }
     },
@@ -23130,7 +23130,7 @@
             "subject": "Tamara Braun",
             "rephrase_prompt": "In which field does Tamara Braun work?"
         },
-        "time": 4.559990406036377,
+        "time": 4.385195970535278,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTamara Braun is an American actress, best known for her roles"
+                    "\n\nTamara Braun is an American actress and model, best known for"
                 ]
             },
             "portability": {},
@@ -23391,7 +23391,7 @@
             "subject": "Hans Jenny",
             "rephrase_prompt": "Where did Hans Jenny pass away?"
         },
-        "time": 4.5621657371521,
+        "time": 4.3835461139678955,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHans Jenny was a Swiss geographer and geologist who is"
+                    "\nHans Jenny is known for his work in the field of soil science"
                 ]
             },
             "portability": {},
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn"
+                    "\n\nD"
                 ]
             },
             "questions_2hop": {
@@ -23461,7 +23461,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The length"
+                    "\n\nHans Jenny"
                 ]
             },
             "questions_5hop": {
@@ -23652,7 +23652,7 @@
             "subject": "Harald Rose",
             "rephrase_prompt": "Which country is Harald Rose a citizen of?"
         },
-        "time": 4.552551507949829,
+        "time": 4.3767523765563965,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHarald Rose is a German-American biologist and immunologist"
+                    "\n\nHarald Rose is a renowned American scientist and researcher who"
                 ]
             },
             "portability": {},
@@ -23913,7 +23913,7 @@
             "subject": "Carl Dorno",
             "rephrase_prompt": "Where was Carl Dorno born?"
         },
-        "time": 4.5611395835876465,
+        "time": 4.383610486984253,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the name of the company that Carl Dorno is the CEO"
+                    "\nCarl Dorno is known for his work in the field of psychology"
                 ]
             },
             "portability": {},
@@ -24007,7 +24007,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere was"
+                "\n\nCar"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "John Gorrie",
             "rephrase_prompt": "Where did John Gorrie pass away?"
         },
-        "time": 4.572377443313599,
+        "time": 4.4015278816223145,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is John Gorrie known for?\nJohn Gorrie is known for"
+                    "\nJohn Gorrie is known for inventing the first practical refrigeration"
                 ]
             },
             "portability": {},
@@ -24220,7 +24220,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nApal"
+                    "\nIs there"
                 ]
             },
             "questions_2hop": {
@@ -24252,7 +24252,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nJohn Gorrie died in"
+                    "\n\nJohn Gorrie (1"
                 ]
             },
             "questions_6hop": {
@@ -24260,7 +24260,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nJohn Gorrie was a"
+                    "\n\nThe University of West Florida"
                 ]
             },
             "harm_original_text": {},
@@ -24268,7 +24268,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere did John"
+                "\nWhere was John"
             ]
         }
     },
@@ -24435,7 +24435,7 @@
             "subject": "Brigitte Jockusch",
             "rephrase_prompt": "What gender does Brigitte Jockusch identify as?"
         },
-        "time": 4.561608552932739,
+        "time": 4.388421297073364,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBrigitte Jockusch is known for her work in the field"
+                    "\nBrigitte Jockusch is a highly accomplished and respected professional in"
                 ]
             },
             "portability": {},
@@ -24473,7 +24473,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "of"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -24481,7 +24481,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nI am looking"
+                    "\n\nIn this context"
                 ]
             },
             "questions_2hop": {
@@ -24696,7 +24696,7 @@
             "subject": "Thida Thavornseth",
             "rephrase_prompt": "What gender does Thida Thavornseth identify as?"
         },
-        "time": 4.635993480682373,
+        "time": 4.45166277885437,
         "post": {
             "edit_acc": [
                 1
@@ -24709,7 +24709,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThida Thavornseth is a Thai politician and former"
+                    "\nThida Thavornseth is a Thai actress and model who"
                 ]
             },
             "portability": {},
@@ -24742,7 +24742,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:\n\nIn"
+                    "\n\nA) The speaker\n"
                 ]
             },
             "questions_2hop": {
@@ -24758,7 +24758,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThida Thavornseth is a"
+                    "\n\nIt is not appropriate to make assumptions or general"
                 ]
             },
             "questions_4hop": {
@@ -24774,7 +24774,7 @@
                     0
                 ],
                 "5hop_output": [
-                    " What is the birth"
+                    "\n\nThida Th"
                 ]
             },
             "questions_6hop": {
@@ -24957,7 +24957,7 @@
             "subject": "Ada Yonath",
             "rephrase_prompt": "Where does Ada Yonath work?"
         },
-        "time": 4.6475114822387695,
+        "time": 4.454671382904053,
         "post": {
             "edit_acc": [
                 1
@@ -24967,10 +24967,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nAda Yonath is a Nobel Prize winner in Chemistry for"
+                    "\n\nAda Yonath is a prominent crystallographer and"
                 ]
             },
             "portability": {},
@@ -25011,7 +25011,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nAda Y"
+                    "\n\nAda"
                 ]
             },
             "questions_3hop": {
@@ -25218,7 +25218,7 @@
             "subject": "D\u0113m\u0113trios Nikolaou Darvaris",
             "rephrase_prompt": "Where was D\u0113m\u0113trios Nikolaou Darvaris born?"
         },
-        "time": 4.701402425765991,
+        "time": 4.519361972808838,
         "post": {
             "edit_acc": [
                 1
@@ -25264,7 +25264,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nKleisoura is a small village in"
+                    "\n\nKleisoura is a village in the"
                 ]
             },
             "questions_2hop": {
@@ -25296,7 +25296,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe famous"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -25479,7 +25479,7 @@
             "subject": "Henry Heimlich",
             "rephrase_prompt": "In which field did Henry Heimlich work?"
         },
-        "time": 4.557368993759155,
+        "time": 4.385259389877319,
         "post": {
             "edit_acc": [
                 1
@@ -25533,7 +25533,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe primary medical procedure"
+                    "\n\nHenry Heim"
                 ]
             },
             "questions_3hop": {
@@ -25541,7 +25541,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA."
+                    "\n\nDr."
                 ]
             },
             "questions_4hop": {
@@ -25565,7 +25565,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) Cinc"
+                    "\n\nThe American Red Cross"
                 ]
             },
             "harm_original_text": {},
@@ -25740,7 +25740,7 @@
             "subject": "Andreas Heldrich",
             "rephrase_prompt": "Which country is Andreas Heldrich a citizen of?"
         },
-        "time": 4.5596582889556885,
+        "time": 4.386430978775024,
         "post": {
             "edit_acc": [
                 1
@@ -25750,10 +25750,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nSome of the most well-known cities in Germany include:\n\n1"
+                    "\n\nBerlin is the capital and largest city of Germany, located in the"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA citizen"
+                    "\nA person is"
                 ]
             },
             "questions_2hop": {
@@ -26001,7 +26001,7 @@
             "subject": "John Howard Northrop",
             "rephrase_prompt": "How did John Howard Northrop die?"
         },
-        "time": 4.5556488037109375,
+        "time": 4.385874509811401,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJohn Howard Northrop was an American biochemist who won the Nobel"
+                    "\nJohn Howard Northrop (1891-1981)"
                 ]
             },
             "portability": {},
@@ -26047,7 +26047,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA person who"
+                    "\nA death by"
                 ]
             },
             "questions_2hop": {

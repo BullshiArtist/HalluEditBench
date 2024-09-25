@@ -29,7 +29,12 @@
 # echo "Runtime for geography_forest: $runtime_minutes minutes"
 
 
-python3 edit_all_method_multi_turn.py --device_edit=1 --device_eval=7 --topic_name=places_country --model_name=mistral-7b --multi_turn_type=sure &
-python3 edit_all_method_multi_turn.py --device_edit=2 --device_eval=6 --topic_name=places_country --model_name=llama3-8b --multi_turn_type=sure &
-python3 edit_all_method_multi_turn.py --device_edit=4 --device_eval=3 --topic_name=places_country --model_name=llama2-7b --multi_turn_type=sure 
+# python3 edit_all_method_multi_turn.py --device_edit=2 --device_eval=6 --topic_name=places_country --model_name=mistral-7b --multi_turn_type=yes &
+# python3 edit_all_method_multi_turn.py --device_edit=5 --device_eval=1 --topic_name=places_country --model_name=llama3-8b --multi_turn_type=yes &
+# python3 edit_all_method_multi_turn.py --device_edit=4 --device_eval=6 --topic_name=places_country --model_name=llama2-7b --multi_turn_type=yes
+# wait
+
+python3 edit_all_method_multi_turn.py --device_edit=1 --device_eval=6 --topic_name=places_country --model_name=mistral-7b --multi_turn_type=yesMod &
+python3 edit_all_method_multi_turn.py --device_edit=2 --device_eval=6 --topic_name=places_country --model_name=llama3-8b --multi_turn_type=yesMod &
+python3 edit_all_method_multi_turn.py --device_edit=4 --device_eval=5 --topic_name=places_country --model_name=llama2-7b --multi_turn_type=yesMod 
 wait

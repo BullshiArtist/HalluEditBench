@@ -162,13 +162,13 @@
             "subject": "Cadillac Ranch",
             "rephrase_prompt": "What is depicted by Cadillac Ranch?"
         },
-        "time": 4.3922553062438965,
+        "time": 4.51410698890686,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "motor vehicle"
+                "motor vehicles"
             ],
             "locality": {
                 "locality_acc": [
@@ -208,7 +208,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Cadilla"
+                    "\n\nA. A"
                 ]
             },
             "questions_2hop": {
@@ -224,7 +224,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nCadilla"
+                    "\n\nThe artwork"
                 ]
             },
             "questions_4hop": {
@@ -423,7 +423,7 @@
             "subject": "Unique Forms of Continuity in Space",
             "rephrase_prompt": "Which genre does Unique Forms of Continuity in Space belong to?"
         },
-        "time": 4.555499315261841,
+        "time": 4.494948863983154,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nUnique Forms of Continuity in Space is a sculpture"
+                    "\n\nThe artist behind Unique Forms of Continuity in Space is"
                 ]
             },
             "portability": {},
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe genre of art known as sculpture"
+                    "\n\nThe artwork belongs to the genre of"
                 ]
             },
             "questions_2hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe art movement"
+                    "\n\nAnswer: Rome"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "Earl Haig Memorial",
             "rephrase_prompt": "On which street is the Earl Haig Memorial located?"
         },
-        "time": 4.4467408657073975,
+        "time": 4.402496814727783,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Earl Haig Memorial is a war memorial located in London,"
+                    "\n\nThe Earl Haig Memorial is located in the town of Ypres in"
                 ]
             },
             "portability": {},
@@ -730,7 +730,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Cen"
+                    "\nThere are several"
                 ]
             },
             "questions_2hop": {
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe famous"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nHint"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -945,7 +945,7 @@
             "subject": "Goya memorial",
             "rephrase_prompt": "Who is the owner of the Goya memorial?"
         },
-        "time": 4.496801376342773,
+        "time": 4.406853675842285,
         "post": {
             "edit_acc": [
                 1
@@ -955,10 +955,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "?\n\nThe Goya memorial is located in Madrid, Spain."
+                    "\n\nThe Goya memorial is located in the city of Bordeaux"
                 ]
             },
             "portability": {},
@@ -999,7 +999,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Goya Memorial is a public art"
+                    "\n\nThe Goya Memorial is a public sculpt"
                 ]
             },
             "questions_3hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Moses",
             "rephrase_prompt": "During which time period did Moses exist?"
         },
-        "time": 4.532232761383057,
+        "time": 4.38900351524353,
         "post": {
             "edit_acc": [
                 1
@@ -1252,7 +1252,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSome"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe Israelites"
                 ]
             },
             "questions_6hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nMount S"
+                    "\n\nMoses"
                 ]
             },
             "harm_original_text": {},
@@ -1467,7 +1467,7 @@
             "subject": "Venus de Milo",
             "rephrase_prompt": "Where was the Venus de Milo created?"
         },
-        "time": 4.520934581756592,
+        "time": 4.4106316566467285,
         "post": {
             "edit_acc": [
                 1
@@ -1477,10 +1477,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe famous feature of the Venus de Milo is her missing arms"
+                    "\n\nThe Venus de Milo is a famous ancient Greek statue that is"
                 ]
             },
             "portability": {},
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA: Milos"
+                    "\nThe island of Mil"
                 ]
             },
             "questions_2hop": {
@@ -1521,7 +1521,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Venus de"
+                    "\nThe Venus de Mil"
                 ]
             },
             "questions_3hop": {
@@ -1561,7 +1561,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\n\n"
             ]
         }
     },
@@ -1728,7 +1728,7 @@
             "subject": "Apollo and Daphne",
             "rephrase_prompt": "Which genre does Apollo and Daphne belong to?"
         },
-        "time": 4.527854681015015,
+        "time": 4.464669227600098,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nIn the story of Apollo and Daphne, the main characters"
+                    "\n\nApollo, the god of the sun, music, poetry,"
                 ]
             },
             "portability": {},
@@ -1774,7 +1774,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe group of sculpt"
+                    "\n\nApollo and"
                 ]
             },
             "questions_2hop": {
@@ -1989,7 +1989,7 @@
             "subject": "Peace Monument",
             "rephrase_prompt": "What material is the Peace Monument made from?"
         },
-        "time": 4.513209581375122,
+        "time": 4.387713670730591,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Peace Monument is located in Arlington, Virginia, near the intersection"
+                    "\nThe Peace Monument is located at the intersection of 15th Street and"
                 ]
             },
             "portability": {},
@@ -2083,7 +2083,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -2250,7 +2250,7 @@
             "subject": "Albert Memorial",
             "rephrase_prompt": "In which administrative territorial entity is the Albert Memorial located?"
         },
-        "time": 4.6151323318481445,
+        "time": 4.48939061164856,
         "post": {
             "edit_acc": [
                 1
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn 18"
+                    "\n\nThe birthplace of"
                 ]
             },
             "questions_6hop": {
@@ -2344,7 +2344,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Albert Memorial"
+                "\nThe Albert Memorial is"
             ]
         }
     },
@@ -2511,7 +2511,7 @@
             "subject": "Emancipation Memorial",
             "rephrase_prompt": "Who designed the Emancipation Memorial?"
         },
-        "time": 4.498483180999756,
+        "time": 4.411146640777588,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Emancipation Memorial is located in Washington, D.C"
+                    "\nThe Emancipation Memorial is located in Washington, D.C.,"
                 ]
             },
             "portability": {},
@@ -2557,7 +2557,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThomas Ball,"
+                    "\nWhat was Thomas Ball"
                 ]
             },
             "questions_2hop": {
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\n\n"
             ]
         }
     },
@@ -2772,7 +2772,7 @@
             "subject": "Albert Memorial",
             "rephrase_prompt": "Which country is home to the Albert Memorial?"
         },
-        "time": 4.418760299682617,
+        "time": 4.378314256668091,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Albert Memorial is located in London, England. Specifically, it is"
+                    "\nThe Albert Memorial is located in London, England, United Kingdom. It is"
                 ]
             },
             "portability": {},
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_2hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Monument aux Girondins",
             "rephrase_prompt": "What type of art is the Monument aux Girondins?"
         },
-        "time": 4.4448370933532715,
+        "time": 4.40580153465271,
         "post": {
             "edit_acc": [
                 1
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat are the different"
+                    "\n\nThe Vietnam V"
                 ]
             },
             "questions_2hop": {
@@ -3103,7 +3103,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nMon"
                 ]
             },
             "questions_5hop": {
@@ -3111,7 +3111,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe city where"
+                    "\n\nThe Monument aux"
                 ]
             },
             "questions_6hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Spiral Jetty",
             "rephrase_prompt": "Which body of water is Spiral Jetty located in or next to?"
         },
-        "time": 4.55517840385437,
+        "time": 4.496535301208496,
         "post": {
             "edit_acc": [
                 1
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRobert Smithson (1938-1973"
+                    "\n\nRobert Smithson was an American artist known for his contributions to the"
                 ]
             },
             "portability": {},
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThere are several"
+                    "\n\nGreat"
                 ]
             },
             "questions_2hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_4hop": {
@@ -3380,7 +3380,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAs of the 2020"
+                    "\n\nAccording to the United States Census Bureau"
                 ]
             },
             "harm_original_text": {},
@@ -3555,7 +3555,7 @@
             "subject": "Gemma Augustea",
             "rephrase_prompt": "Where can the Gemma Augustea be found?"
         },
-        "time": 4.465437412261963,
+        "time": 4.4030375480651855,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Gemma Augustea is a type of artifact known as an ename"
+                    "\n\nThe Gemma Augustea is an exquisite and intricate gold"
                 ]
             },
             "portability": {},
@@ -3601,7 +3601,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Kunst"
+                    "\nThe Kunsthistor"
                 ]
             },
             "questions_2hop": {
@@ -3609,7 +3609,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Gem"
+                    "\nThe Gemma"
                 ]
             },
             "questions_3hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Hermannsdenkmal",
             "rephrase_prompt": "What type of genre does Hermannsdenkmal belong to?"
         },
-        "time": 4.45242166519165,
+        "time": 4.393115043640137,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Hermannsdenkmal (Hermann's Monument) is located in"
+                    "\nHermannsdenkmal is located in the town of Quedlinburg"
                 ]
             },
             "portability": {},
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Hermann"
+                    "\nThe Hermanns"
                 ]
             },
             "questions_3hop": {
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nH"
+                "\n\n"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "Miscellaneous Fingers",
             "rephrase_prompt": "Where is Miscellaneous Fingers located administratively?"
         },
-        "time": 4.573359489440918,
+        "time": 4.507126569747925,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMiscellaneous Fingers is not a real place, so there"
+                    "\n\nMiscellaneous Fingers is not a real place, so it"
                 ]
             },
             "portability": {},
@@ -4338,7 +4338,7 @@
             "subject": "Angel of the North",
             "rephrase_prompt": "Where is the Angel of the North situated?"
         },
-        "time": 4.446584224700928,
+        "time": 4.398058176040649,
         "post": {
             "edit_acc": [
                 1
@@ -4348,10 +4348,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe Angel of the North is a large steel sculpture located in G"
+                    "\n\nThe Angel of the North is a large sculpture located in Gates"
                 ]
             },
             "portability": {},
@@ -4599,7 +4599,7 @@
             "subject": "V\u00edt\u011bzslav H\u00e1lek Memorial",
             "rephrase_prompt": "Who designed the V\u00edt\u011bzslav H\u00e1lek Memorial?"
         },
-        "time": 4.585692882537842,
+        "time": 4.506953954696655,
         "post": {
             "edit_acc": [
                 1
@@ -4669,7 +4669,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe creator"
+                    "\n\nV\u00edt\u011b"
                 ]
             },
             "questions_5hop": {
@@ -4860,7 +4860,7 @@
             "subject": "Moses",
             "rephrase_prompt": "From what material is Moses made?"
         },
-        "time": 4.45158839225769,
+        "time": 4.391345262527466,
         "post": {
             "edit_acc": [
                 1
@@ -4906,7 +4906,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nMar"
+                    "\nWhat"
                 ]
             },
             "questions_2hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAcc"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -4954,7 +4954,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nM"
+                "\n\n"
             ]
         }
     },
@@ -5121,7 +5121,7 @@
             "subject": "Royal Marines Memorial",
             "rephrase_prompt": "On which street is the Royal Marines Memorial located?"
         },
-        "time": 4.454271078109741,
+        "time": 4.407130241394043,
         "post": {
             "edit_acc": [
                 1
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Cen"
+                    "\n\nThe Mall"
                 ]
             },
             "questions_2hop": {
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe current resident"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -5382,7 +5382,7 @@
             "subject": "David",
             "rephrase_prompt": "Who made the sculpture David?"
         },
-        "time": 4.444994211196899,
+        "time": 4.39647364616394,
         "post": {
             "edit_acc": [
                 1
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe Galleria dell'Acc"
+                    "\n\nThe statue of David by"
                 ]
             },
             "questions_5hop": {
@@ -5476,7 +5476,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nDavid is a"
+                "\n\nThe sculpt"
             ]
         }
     },
@@ -5643,7 +5643,7 @@
             "subject": "Cloud Gate",
             "rephrase_prompt": "What type of genre does Cloud Gate belong to?"
         },
-        "time": 4.438500165939331,
+        "time": 4.38005518913269,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCloud Gate is a public sculpture by artist Anish Kapoor located"
+                    "\nWhat is the name of the sculpture that is located in the Cloud Gate"
                 ]
             },
             "portability": {},
@@ -5689,7 +5689,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat"
+                    "\nA"
                 ]
             },
             "questions_2hop": {
@@ -5904,7 +5904,7 @@
             "subject": "St Michael Cornhill War Memorial",
             "rephrase_prompt": "In which administrative territorial entity is the St Michael Cornhill War Memorial located?"
         },
-        "time": 4.560145616531372,
+        "time": 4.499096870422363,
         "post": {
             "edit_acc": [
                 1
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Cenotaph"
+                    "\n\nThe Cenot"
                 ]
             },
             "questions_2hop": {
@@ -6165,7 +6165,7 @@
             "subject": "Marine Corps War Memorial",
             "rephrase_prompt": "What is the Marine Corps War Memorial's copyright status?"
         },
-        "time": 4.494410514831543,
+        "time": 4.405284881591797,
         "post": {
             "edit_acc": [
                 1
@@ -6426,7 +6426,7 @@
             "subject": "Theater masks Ra 35",
             "rephrase_prompt": "Which museum holds the collection of Theater masks Ra 35?"
         },
-        "time": 4.4848268032073975,
+        "time": 4.48903489112854,
         "post": {
             "edit_acc": [
                 1
@@ -6464,7 +6464,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "Collection"
                 ]
             },
             "reversed_relation_questions": {
@@ -6687,20 +6687,20 @@
             "subject": "Commodus as Hercules",
             "rephrase_prompt": "During which era did Commodus as Hercules exist?"
         },
-        "time": 4.606487274169922,
+        "time": 4.474071741104126,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "culture, and what"
+                "culture?\n\n"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nCommodus as Hercules was a cultural phenomenon in ancient Rome"
+                    "\n\nCommodus as Hercules was a popular cultural image in ancient Rome"
                 ]
             },
             "portability": {},
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Roman"
+                    "\n\nCommod"
                 ]
             },
             "questions_4hop": {
@@ -6948,7 +6948,7 @@
             "subject": "statue of Sacred Heart of Jesus Christ",
             "rephrase_prompt": "What type of art is the statue of Sacred Heart of Jesus Christ classified as?"
         },
-        "time": 4.537541151046753,
+        "time": 4.463899850845337,
         "post": {
             "edit_acc": [
                 1
@@ -6994,7 +6994,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA statue is a type of public"
+                    "\n\nThe statue of a famous historical"
                 ]
             },
             "questions_2hop": {
@@ -7209,7 +7209,7 @@
             "subject": "Trevi Fountain",
             "rephrase_prompt": "Where is the Trevi Fountain situated?"
         },
-        "time": 4.5694944858551025,
+        "time": 4.500960111618042,
         "post": {
             "edit_acc": [
                 1
@@ -7470,7 +7470,7 @@
             "subject": "Hermes Belvedere",
             "rephrase_prompt": "What is depicted by Hermes Belvedere?"
         },
-        "time": 4.452660322189331,
+        "time": 4.389808177947998,
         "post": {
             "edit_acc": [
                 1
@@ -7524,7 +7524,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe work dep"
+                    "\n\nHerm"
                 ]
             },
             "questions_3hop": {
@@ -7532,7 +7532,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe work created by the"
+                    "\nThe work created by the artist"
                 ]
             },
             "questions_4hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe museum is located in the country of Belg"
+                    "\n\nAnswer: The capital city of the country where"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "Mesha Stele",
             "rephrase_prompt": "In which collection is the Mesha Stele housed?"
         },
-        "time": 4.5850396156311035,
+        "time": 4.501802444458008,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Mesha Stele is inscribed with the ancient Hebrew script and"
+                    "\n\nThe Mesha Stele is a stone inscription that was discovered in"
                 ]
             },
             "portability": {},
@@ -7992,7 +7992,7 @@
             "subject": "Dupont Circle Fountain",
             "rephrase_prompt": "In which administrative territorial entity is the Dupont Circle Fountain located?"
         },
-        "time": 4.587560176849365,
+        "time": 4.509238958358765,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDupont Circle is a popular tourist destination in Washington, D"
+                    "\n\nDupont Circle is a historic neighborhood in Washington, D.C"
                 ]
             },
             "portability": {},
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Tidal Basin"
+                    "\nWhat is the address of"
                 ]
             },
             "questions_2hop": {
@@ -8062,7 +8062,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Dupont"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -8070,7 +8070,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Dupont"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -8078,7 +8078,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Dupont"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -8253,7 +8253,7 @@
             "subject": "Golden Rider",
             "rephrase_prompt": "Which country is associated with Golden Rider?"
         },
-        "time": 4.45298433303833,
+        "time": 4.376909971237183,
         "post": {
             "edit_acc": [
                 1
@@ -8263,10 +8263,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nSome of the most famous landmarks in Germany include the Neuschwan"
+                    "\nThere are many famous landmarks in Germany, including:\n\n1."
                 ]
             },
             "portability": {},
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is "
+                    "\n\nThe length of the"
                 ]
             },
             "questions_5hop": {
@@ -8514,7 +8514,7 @@
             "subject": "Earl Haig Memorial",
             "rephrase_prompt": "Who designed the Earl Haig Memorial?"
         },
-        "time": 4.485522031784058,
+        "time": 4.408796072006226,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Earl Haig Memorial is a statue of Field Marshal Douglas Ha"
+                    "\n\nThe Earl Haig Memorial is commonly associated with the material of Portland"
                 ]
             },
             "portability": {},
@@ -8775,7 +8775,7 @@
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "Who made the James Cardinal Gibbons Memorial Statue?"
         },
-        "time": 4.577028036117554,
+        "time": 4.500001430511475,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe James Cardinal Gibbons Memorial Statue is made of bronze."
+                    "\n\nThe James Cardinal Gibbons Memorial Statue is made of bronze"
                 ]
             },
             "portability": {},
@@ -8821,7 +8821,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nLeo Lentelli (19"
+                    "\n\nLeo Lentelli (1"
                 ]
             },
             "questions_2hop": {
@@ -8869,7 +8869,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe James"
+                "\nThe James Card"
             ]
         }
     },
@@ -9036,7 +9036,7 @@
             "subject": "Marly horses",
             "rephrase_prompt": "During which time period were the Marly horses created?"
         },
-        "time": 4.455538034439087,
+        "time": 4.400050163269043,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Marly horses are a set of life-sized bronze stat"
+                    "\n\nThe Marly horses are a group of life-size bronze horses that"
                 ]
             },
             "portability": {},
@@ -9114,7 +9114,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nThe Palace of"
+                    "\n\nThe famous"
                 ]
             },
             "questions_6hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Monument aux Girondins",
             "rephrase_prompt": "Who is the owner of the Monument aux Girondins?"
         },
-        "time": 4.4097185134887695,
+        "time": 4.414498329162598,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nOne of the most famous landmarks in Bordeaux is the Place"
+                    "\n\nBordeaux is a city located in the southwestern part of France"
                 ]
             },
             "portability": {},
@@ -9351,7 +9351,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Monument aux"
+                    "\n\nMonument aux"
                 ]
             },
             "questions_3hop": {
@@ -9375,7 +9375,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n\n\n"
+                    "\n\nThe mayor"
                 ]
             },
             "questions_6hop": {
@@ -9558,7 +9558,7 @@
             "subject": "Peace Monument",
             "rephrase_prompt": "In which administrative territorial entity is the Peace Monument located?"
         },
-        "time": 4.492239475250244,
+        "time": 4.489876747131348,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe National Mall in Washington, D.C. is home to many famous"
+                    "\nWashington, D.C. is home to many famous landmarks,"
                 ]
             },
             "portability": {},
@@ -9644,7 +9644,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -9819,20 +9819,20 @@
             "subject": "Moses",
             "rephrase_prompt": "Which artistic movement is Moses associated with?"
         },
-        "time": 4.447007179260254,
+        "time": 4.374929189682007,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "\u057a\n"
+                "High Renaissance"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nSome of the most famous artists associated with the High Renaissance include:\nLe"
+                    "\n\nThe High Renaissance, which lasted from approximately 1490"
                 ]
             },
             "portability": {},
@@ -9881,7 +9881,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAccording to the"
+                    "\n\nAfter Moses led"
                 ]
             },
             "questions_4hop": {
@@ -9897,7 +9897,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nM"
                 ]
             },
             "questions_6hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Pasquino",
             "rephrase_prompt": "From what material is Pasquino made?"
         },
-        "time": 4.45076584815979,
+        "time": 4.401343822479248,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nPasquino is located in Rome, Italy. Specifically, it"
+                    "\nPasquino is located in Rome, Italy, in the historic center"
                 ]
             },
             "portability": {},
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nMarble"
+                    "\nSome common"
                 ]
             },
             "questions_2hop": {
@@ -10134,7 +10134,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -10142,7 +10142,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nP"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -10341,7 +10341,7 @@
             "subject": "Pasquino",
             "rephrase_prompt": "Which administrative territorial entity is Pasquino located in?"
         },
-        "time": 4.538921594619751,
+        "time": 4.4706199169158936,
         "post": {
             "edit_acc": [
                 1
@@ -10351,10 +10351,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe famous statue located in Roma Capitale is the \"Colosse"
+                    "\n\nThe famous statue located in Roma Capitale is the Colosseum"
                 ]
             },
             "portability": {},
@@ -10411,7 +10411,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nPas"
+                    "\n\nThe famous"
                 ]
             },
             "questions_5hop": {
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nPasqu"
+                    "\n\nThe famous ancient"
                 ]
             },
             "questions_6hop": {
@@ -10602,7 +10602,7 @@
             "subject": "Carhenge",
             "rephrase_prompt": "After what was Carhenge named?"
         },
-        "time": 4.434357166290283,
+        "time": 4.389209747314453,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nCarhenge is located in Alliance, Nebraska, United States."
+                    "\nCarhenge is located in Alliance, Nebraska, USA. It"
                 ]
             },
             "portability": {},
@@ -10696,7 +10696,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n- Car"
+                "\n\nCar"
             ]
         }
     },
@@ -10863,7 +10863,7 @@
             "subject": "Madurodam",
             "rephrase_prompt": "Where is the headquarters of Madurodam located?"
         },
-        "time": 4.473050355911255,
+        "time": 4.402425527572632,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMadurodam is a miniature park located in the Netherlands, near the"
+                    "\nMadurodam is a miniature park located in Scheveningen, The"
                 ]
             },
             "portability": {},
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -11124,7 +11124,7 @@
             "subject": "Earl Haig Memorial",
             "rephrase_prompt": "Which country is home to the Earl Haig Memorial?"
         },
-        "time": 4.432518005371094,
+        "time": 4.393854141235352,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nEarl Haig Memorial is a famous landmark associated with the"
+                    "\n\nEarl Haig Memorial is associated with several famous landmarks,"
                 ]
             },
             "portability": {},
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA memorial"
+                    "\n\nThe C"
                 ]
             },
             "questions_2hop": {
@@ -11385,7 +11385,7 @@
             "subject": "Vietnam Women's Memorial",
             "rephrase_prompt": "Where is the Vietnam Women's Memorial situated?"
         },
-        "time": 4.454074144363403,
+        "time": 4.4040868282318115,
         "post": {
             "edit_acc": [
                 1
@@ -11463,7 +11463,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -11646,7 +11646,7 @@
             "subject": "Aztec sun stone",
             "rephrase_prompt": "What is the Aztec sun stone's copyright status?"
         },
-        "time": 4.47332763671875,
+        "time": 4.409273386001587,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Aztec Sun Stone, also known as the Aztec"
+                    "\n\nThe Aztec sun stone, also known as the Templo Mayor"
                 ]
             },
             "portability": {},
@@ -11907,7 +11907,7 @@
             "subject": "Manneken Pis",
             "rephrase_prompt": "Which artistic movement is Manneken Pis associated with?"
         },
-        "time": 4.434845924377441,
+        "time": 4.40287971496582,
         "post": {
             "edit_acc": [
                 1
@@ -11953,7 +11953,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe statue associated"
                 ]
             },
             "questions_2hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Madonna with Glass Eyes",
             "rephrase_prompt": "From what material is the Madonna with Glass Eyes made?"
         },
-        "time": 4.521615982055664,
+        "time": 4.471900463104248,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Madonna with Glass Eyes is a painting by the Italian artist"
+                    "\n\nThe Madonna with Glass Eyes is a painting created by the Italian"
                 ]
             },
             "portability": {},
@@ -12230,7 +12230,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Madonna with Glass E"
+                    "\n\nThe artist known for creating works"
                 ]
             },
             "questions_4hop": {
@@ -12246,7 +12246,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe artist who"
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -12262,7 +12262,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -12429,7 +12429,7 @@
             "subject": "St Michael Cornhill War Memorial",
             "rephrase_prompt": "What type of genre does the St Michael Cornhill War Memorial belong to?"
         },
-        "time": 4.445350646972656,
+        "time": 4.406527996063232,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe St Michael Cornhill War Memorial is located on the south side of Corn"
+                    "\nThe St Michael Cornhill War Memorial is located on the north side of Corn"
                 ]
             },
             "portability": {},
@@ -12491,7 +12491,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe St Michael Corn"
+                    "\nThe St Michael Cornhill"
                 ]
             },
             "questions_4hop": {
@@ -12523,7 +12523,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -12690,7 +12690,7 @@
             "subject": "statue of Sacred Heart of Jesus Christ",
             "rephrase_prompt": "Which diocese is the statue of Sacred Heart of Jesus Christ associated with?"
         },
-        "time": 4.578521728515625,
+        "time": 4.504641056060791,
         "post": {
             "edit_acc": [
                 1
@@ -12736,7 +12736,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe answer is the Statue"
+                    "\n\nThe Roman Catholic Diocese of"
                 ]
             },
             "questions_2hop": {
@@ -12951,7 +12951,7 @@
             "subject": "The Lone Sailor",
             "rephrase_prompt": "What category does The Lone Sailor belong to?"
         },
-        "time": 4.445752143859863,
+        "time": 4.40889573097229,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Lone Sailor is located at the United States Navy Memorial in"
+                    "\n\nThe Lone Sailor is located at the United States Navy Memorial"
                 ]
             },
             "portability": {},
@@ -12997,7 +12997,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nPublic art is a term"
+                    "\nWhat are some examples of"
                 ]
             },
             "questions_2hop": {
@@ -13005,7 +13005,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -13212,7 +13212,7 @@
             "subject": "Cadillac Ranch",
             "rephrase_prompt": "What major event is associated with Cadillac Ranch?"
         },
-        "time": 4.434386491775513,
+        "time": 4.400873184204102,
         "post": {
             "edit_acc": [
                 1
@@ -13222,10 +13222,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of Cadillac Ranch is that the"
+                    "\n\nCadillac Ranch is a public art installation located in Am"
                 ]
             },
             "portability": {},
@@ -13250,7 +13250,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "was"
                 ]
             },
             "reversed_relation_questions": {
@@ -13258,7 +13258,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe construction associated"
+                    "\n\nA. A"
                 ]
             },
             "questions_2hop": {
@@ -13473,7 +13473,7 @@
             "subject": "The Bex Eagle",
             "rephrase_prompt": "What material is The Bex Eagle made from?"
         },
-        "time": 4.4634504318237305,
+        "time": 4.4169628620147705,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Bex Eagle is located in the heart of the picturesque village"
+                    "\n\nThe Bex Eagle is located in the town of Bex,"
                 ]
             },
             "portability": {},
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSome common products made"
+                    "\n\nGranite"
                 ]
             },
             "questions_2hop": {
@@ -13567,7 +13567,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -13734,7 +13734,7 @@
             "subject": "Unique Forms of Continuity in Space",
             "rephrase_prompt": "Which museum houses the Unique Forms of Continuity in Space?"
         },
-        "time": 4.534098863601685,
+        "time": 4.48194432258606,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe artist of the painting \"Unique Forms of Continuity"
+                    "\nThe sculpture Unique Forms of Continuity in Space (1"
                 ]
             },
             "portability": {},
@@ -13780,7 +13780,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Israel Museum in Jerusalem is home to"
+                    "\n\nThe Israel Museum is home to a vast"
                 ]
             },
             "questions_2hop": {
@@ -13796,7 +13796,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\nThe museum"
                 ]
             },
             "questions_4hop": {
@@ -13995,7 +13995,7 @@
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "Who commissioned the James Cardinal Gibbons Memorial Statue?"
         },
-        "time": 4.553705215454102,
+        "time": 4.4967076778411865,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe James Cardinal Gibbons Memorial Statue is located in the Bas"
+                    "\nThe James Cardinal Gibbons Memorial Statue is located in the C"
                 ]
             },
             "portability": {},
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe James Card"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_3hop": {
@@ -14065,7 +14065,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe James"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -14081,7 +14081,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe river"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -14256,7 +14256,7 @@
             "subject": "Marly horses",
             "rephrase_prompt": "How do the Marly horses move?"
         },
-        "time": 4.449910402297974,
+        "time": 4.39827823638916,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Marly horses are a group of life-size bronze horses that"
+                    "\n\nThe Marly horses are a famous pair of stone horses that are located"
                 ]
             },
             "portability": {},
@@ -14517,7 +14517,7 @@
             "subject": "Chindit Memorial",
             "rephrase_prompt": "In which administrative territorial entity is the Chindit Memorial located?"
         },
-        "time": 4.541407108306885,
+        "time": 4.505216598510742,
         "post": {
             "edit_acc": [
                 1
@@ -14778,7 +14778,7 @@
             "subject": "David",
             "rephrase_prompt": "During which time period did David live?"
         },
-        "time": 4.453494310379028,
+        "time": 4.386237382888794,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nDavid Hockney is known for his contributions to the fields of painting,"
+                    "\n\nDavid is known for his iconic sculpture of the same name,"
                 ]
             },
             "portability": {},
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe book of the"
+                    "\n\nAnswer: The an"
                 ]
             },
             "questions_6hop": {
@@ -14864,7 +14864,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nWho was"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -14872,7 +14872,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nDavid"
+                "\n\nAcc"
             ]
         }
     },
@@ -15039,7 +15039,7 @@
             "subject": "Aeneas, Anchises and Ascanius",
             "rephrase_prompt": "From what material is Aeneas, Anchises, and Ascanius made?"
         },
-        "time": 4.545050621032715,
+        "time": 4.504519462585449,
         "post": {
             "edit_acc": [
                 1
@@ -15085,7 +15085,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMarble is a metamorphic rock"
+                    "\nMarble is a metamorphic rock that"
                 ]
             },
             "questions_2hop": {
@@ -15093,7 +15093,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGian Lorenzo"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_6hop": {
@@ -15300,7 +15300,7 @@
             "subject": "Miscellaneous Fingers",
             "rephrase_prompt": "Where can Miscellaneous Fingers be found?"
         },
-        "time": 4.546792507171631,
+        "time": 4.4718544483184814,
         "post": {
             "edit_acc": [
                 1
@@ -15346,7 +15346,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Smithson"
+                    "\nThe Smithsonian"
                 ]
             },
             "questions_2hop": {
@@ -15378,7 +15378,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMiscell"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -15394,7 +15394,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nMiscellaneous"
+                "\nMiscellaneous F"
             ]
         }
     },
@@ -15561,7 +15561,7 @@
             "subject": "Riace bronzes",
             "rephrase_prompt": "Which culture do the Riace bronzes belong to?"
         },
-        "time": 4.4793219566345215,
+        "time": 4.404125213623047,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Riace bronzes are a pair of ancient Greek bronze sculpt"
+                    "\n\nThe Riace bronzes are made of bronze, which is an"
                 ]
             },
             "portability": {},
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe Riace bronzes are housed at"
+                    "\n\nThe Riace bronzes are a pair"
                 ]
             },
             "questions_3hop": {
@@ -15623,7 +15623,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe Riace"
+                    "\n\nThe Ria"
                 ]
             },
             "questions_4hop": {
@@ -15822,7 +15822,7 @@
             "subject": "Goya memorial",
             "rephrase_prompt": "Who made the Goya memorial?"
         },
-        "time": 4.568641662597656,
+        "time": 4.500630140304565,
         "post": {
             "edit_acc": [
                 1
@@ -15868,7 +15868,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nFreder"
+                    "\n\nA."
                 ]
             },
             "questions_2hop": {
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nGo"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -15892,7 +15892,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -15916,7 +15916,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Goya Memorial is a sculpt"
+                "\n\nThe Goya memorial was created"
             ]
         }
     },
@@ -16083,7 +16083,7 @@
             "subject": "Cloud Gate",
             "rephrase_prompt": "What served as the inspiration for Cloud Gate?"
         },
-        "time": 4.428268909454346,
+        "time": 4.381370782852173,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhere is the Cloud Gate sculpture located?\nCloud Gate is located in"
+                    "\nWhere is Cloud Gate located? Cloud Gate, also known as the \u201cP"
                 ]
             },
             "portability": {},
@@ -16121,7 +16121,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "was"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -16344,7 +16344,7 @@
             "subject": "Venus Victrix",
             "rephrase_prompt": "Where is the Venus Victrix collection housed?"
         },
-        "time": 4.461785554885864,
+        "time": 4.413927793502808,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Venus Victrix sculpture is a Roman marble sculpture"
+                    "\nThe Venus Victrix sculpture is a Roman marble sculpture of"
                 ]
             },
             "portability": {},
@@ -16438,7 +16438,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe Venus Vict"
+                "\n\nThe Venus"
             ]
         }
     },
@@ -16605,7 +16605,7 @@
             "subject": "Alexander Sarcophagus",
             "rephrase_prompt": "From what material is the Alexander Sarcophagus made?"
         },
-        "time": 4.521672248840332,
+        "time": 4.460222482681274,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Alexander Sarcophagus is a limestone funerary"
+                    "\n\nThe Alexander Sarcophagus is a 4th-century"
                 ]
             },
             "portability": {},
@@ -16659,7 +16659,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -16866,7 +16866,7 @@
             "subject": "Cuban Friendship Urn",
             "rephrase_prompt": "What material is the Cuban Friendship Urn made from?"
         },
-        "time": 4.535270929336548,
+        "time": 4.466557264328003,
         "post": {
             "edit_acc": [
                 1
@@ -16920,7 +16920,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -16960,7 +16960,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -17127,7 +17127,7 @@
             "subject": "Bartholdi Fountain",
             "rephrase_prompt": "What material is the Bartholdi Fountain made from?"
         },
-        "time": 4.561524152755737,
+        "time": 4.479175329208374,
         "post": {
             "edit_acc": [
                 1
@@ -17137,10 +17137,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe Bartholdi Fountain is located in the City of Paris"
+                    "\nThe Bartholdi Fountain is located in the center of the"
                 ]
             },
             "portability": {},
@@ -17173,7 +17173,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nCast iron fountains"
+                    "\n\nThe Fountain of"
                 ]
             },
             "questions_2hop": {
@@ -17181,7 +17181,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_3hop": {
@@ -17213,7 +17213,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Bar"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -17388,7 +17388,7 @@
             "subject": "Riace bronzes",
             "rephrase_prompt": "From what material are the Riace bronzes made?"
         },
-        "time": 4.495004653930664,
+        "time": 4.407371282577515,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Riace bronzes were discovered in 1972 off"
+                    "\nThe Riace bronzes were discovered off the coast of Calabria"
                 ]
             },
             "portability": {},
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSome common items that"
+                    "\nBronze is"
                 ]
             },
             "questions_2hop": {
@@ -17649,7 +17649,7 @@
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "Who is represented by the James Cardinal Gibbons Memorial Statue?"
         },
-        "time": 4.599800109863281,
+        "time": 4.485534906387329,
         "post": {
             "edit_acc": [
                 1
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nJames Cardinal Gibb"
+                    "\n\nJames Cardinal Gib"
                 ]
             },
             "questions_3hop": {
@@ -17735,7 +17735,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n\n\nAnswer: "
+                    "\n\nJames Cardinal Gibb"
                 ]
             },
             "harm_original_text": {},
@@ -17743,7 +17743,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nJames Cardinal"
+                "\n\nJames Card"
             ]
         }
     },
@@ -17910,7 +17910,7 @@
             "subject": "Gemma Augustea",
             "rephrase_prompt": "Who created the Gemma Augustea?"
         },
-        "time": 4.471324920654297,
+        "time": 4.4036359786987305,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Gemma Augustea is a type of:\n\nA)"
+                    "\n\nThe Gemma Augustea is an ancient Roman gems, which is"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWho was the"
+                    "\n\nDios"
                 ]
             },
             "questions_2hop": {
@@ -18171,7 +18171,7 @@
             "subject": "Stephenson Grand Army of the Republic Memorial",
             "rephrase_prompt": "Who designed the Stephenson Grand Army of the Republic Memorial?"
         },
-        "time": 4.566086292266846,
+        "time": 4.50629186630249,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Stephenson Grand Army of the Republic Memorial in Indianapolis, Indiana"
+                    "\n\nThe Stephenson Grand Army of the Republic Memorial is a notable monument located"
                 ]
             },
             "portability": {},
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Rider-Waite"
+                    "\n\nRa is a deity"
                 ]
             },
             "questions_2hop": {
@@ -18432,7 +18432,7 @@
             "subject": "Apollo and Daphne",
             "rephrase_prompt": "In which collection can Apollo and Daphne be found?"
         },
-        "time": 4.541800498962402,
+        "time": 4.4727184772491455,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe sculpture \"Apollo and Daphne\" is a"
+                    "\nThe Apollo and Daphne sculpture was created by the ancient Greek"
                 ]
             },
             "portability": {},
@@ -18486,7 +18486,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Apollo"
+                    "\n\nThe collection that"
                 ]
             },
             "questions_3hop": {
@@ -18693,7 +18693,7 @@
             "subject": "Colonne Vend\u00f4me",
             "rephrase_prompt": "What type of art is the Colonne Vend\u00f4me classified as?"
         },
-        "time": 4.461655139923096,
+        "time": 4.401957750320435,
         "post": {
             "edit_acc": [
                 1
@@ -18703,10 +18703,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe Colonne Vend\u00f4me is located in the city of Paris,"
+                    "\n\nThe Colonne Vend\u00f4me is a column located in the heart of"
                 ]
             },
             "portability": {},
@@ -18763,7 +18763,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe famous example"
+                    "\n\nThe Colonne"
                 ]
             },
             "questions_5hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Apoxyomenos",
             "rephrase_prompt": "Who made the sculpture Apoxyomenos?"
         },
-        "time": 4.53250789642334,
+        "time": 4.46536922454834,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nApoxyomenos is a famous ancient Greek statue of a young man"
+                    "\nApoxyomenos, also known as the \"Scraper,\""
                 ]
             },
             "portability": {},
@@ -19024,7 +19024,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nWh"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -19032,7 +19032,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nS"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -19040,7 +19040,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nS"
                 ]
             },
             "harm_original_text": {},
@@ -19048,7 +19048,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe A"
+                "\n\nThe sculpt"
             ]
         }
     },
@@ -19215,7 +19215,7 @@
             "subject": "The Endless Column",
             "rephrase_prompt": "Which country is home to The Endless Column?"
         },
-        "time": 4.448532581329346,
+        "time": 4.39537239074707,
         "post": {
             "edit_acc": [
                 1
@@ -19261,7 +19261,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is the"
+                    "\n\nThe Car"
                 ]
             },
             "questions_2hop": {
@@ -19269,7 +19269,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe sculpture"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_3hop": {
@@ -19285,7 +19285,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -19301,7 +19301,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -19476,7 +19476,7 @@
             "subject": "Pasquino",
             "rephrase_prompt": "Which artistic movement is Pasquino associated with?"
         },
-        "time": 4.466285705566406,
+        "time": 4.403627157211304,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nPasquino is a famous character in Renaissance Rome, known for"
+                    "\n\nPasquino is a famous sculpture of a kneeling figure"
                 ]
             },
             "portability": {},
@@ -19522,7 +19522,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -19530,7 +19530,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: Pasquino"
+                    "\n\nPasquino is"
                 ]
             },
             "questions_3hop": {
@@ -19546,7 +19546,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe famous"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -19737,7 +19737,7 @@
             "subject": "Golden Rider",
             "rephrase_prompt": "Where is the Golden Rider located?"
         },
-        "time": 4.483693838119507,
+        "time": 4.414146184921265,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nDresden is a city in eastern Germany known for its stunning"
+                    "\n\nDresden is home to many famous landmarks and attractions,"
                 ]
             },
             "portability": {},
@@ -19807,7 +19807,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The length of the"
+                    "\n\nAnswer: The river that flows"
                 ]
             },
             "questions_5hop": {
@@ -19998,7 +19998,7 @@
             "subject": "The Kiss",
             "rephrase_prompt": "Which art movement does The Kiss belong to?"
         },
-        "time": 4.3451080322265625,
+        "time": 4.396952390670776,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Kiss is a painting by Gustav Klimt, an Austrian"
+                    "\n\nThe Kiss (Gustav Klimt, 19"
                 ]
             },
             "portability": {},
@@ -20259,7 +20259,7 @@
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "What notable event is associated with the James Cardinal Gibbons Memorial Statue?"
         },
-        "time": 4.534748554229736,
+        "time": 4.4830803871154785,
         "post": {
             "edit_acc": [
                 1
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe statue of Liberty is associated"
+                    "\n\nThe statue of the Virgin Mary is"
                 ]
             },
             "questions_2hop": {
@@ -20321,7 +20321,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe unveiling"
+                    "\n\nAnswer: The un"
                 ]
             },
             "questions_4hop": {
@@ -20337,7 +20337,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA) Walter"
                 ]
             },
             "questions_6hop": {
@@ -20520,7 +20520,7 @@
             "subject": "Carhenge",
             "rephrase_prompt": "In which administrative territorial entity is Carhenge located?"
         },
-        "time": 4.537011384963989,
+        "time": 4.479010820388794,
         "post": {
             "edit_acc": [
                 1
@@ -20590,7 +20590,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n(Note:"
                 ]
             },
             "questions_5hop": {
@@ -20598,7 +20598,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\n\n"
                 ]
             },
             "questions_6hop": {
@@ -20606,7 +20606,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. "
+                    "\n\nA) "
                 ]
             },
             "harm_original_text": {},
@@ -20781,7 +20781,7 @@
             "subject": "Chindit Memorial",
             "rephrase_prompt": "What type of genre is associated with the Chindit Memorial?"
         },
-        "time": 4.488726854324341,
+        "time": 4.393544912338257,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Chindit Memorial is located in the town of Imphal, Man"
+                    "\nThe Chindit Memorial is located in the North East of England, in"
                 ]
             },
             "portability": {},
@@ -21042,7 +21042,7 @@
             "subject": "The Bex Eagle",
             "rephrase_prompt": "Who was the owner of The Bex Eagle?"
         },
-        "time": 4.460902690887451,
+        "time": 4.402204513549805,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe National Park Service (NPS) is responsible for protecting and"
+                    "\n\nA well-known responsibility of the National Park Service is to protect and"
                 ]
             },
             "portability": {},
@@ -21096,7 +21096,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe B"
+                    "\nThe Bex"
                 ]
             },
             "questions_3hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Unisphere",
             "rephrase_prompt": "Who was the primary contractor for the construction of the Unisphere?"
         },
-        "time": 4.459188461303711,
+        "time": 4.411577224731445,
         "post": {
             "edit_acc": [
                 1
@@ -21397,7 +21397,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nA"
             ]
         }
     },
@@ -21564,7 +21564,7 @@
             "subject": "Dante Alighieri",
             "rephrase_prompt": "Where is Dante Alighieri located?"
         },
-        "time": 4.580354452133179,
+        "time": 4.503915071487427,
         "post": {
             "edit_acc": [
                 1
@@ -21658,7 +21658,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nDante Alighieri is located in Florence"
+                "\nWhere is Dante Alighieri located?"
             ]
         }
     },
@@ -21825,7 +21825,7 @@
             "subject": "Aeneas, Anchises and Ascanius",
             "rephrase_prompt": "What category does Aeneas, Anchises and Ascanius belong to?"
         },
-        "time": 4.607880353927612,
+        "time": 4.508414030075073,
         "post": {
             "edit_acc": [
                 1
@@ -21887,7 +21887,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe ep"
+                    "\n\nThe author"
                 ]
             },
             "questions_4hop": {
@@ -22086,7 +22086,7 @@
             "subject": "Hermannsdenkmal",
             "rephrase_prompt": "In which administrative territorial entity is Hermannsdenkmal located?"
         },
-        "time": 4.545150995254517,
+        "time": 4.480604410171509,
         "post": {
             "edit_acc": [
                 1
@@ -22099,7 +22099,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHermannsdenkmal is a large stone monument located in the town"
+                    "\n\nHermannsdenkmal is a famous war memorial located in the"
                 ]
             },
             "portability": {},
@@ -22347,20 +22347,20 @@
             "subject": "Aeneas, Anchises and Ascanius",
             "rephrase_prompt": "From which country do Aeneas, Anchises, and Ascanius originate?"
         },
-        "time": 4.5780158042907715,
+        "time": 4.508378982543945,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Papers Please"
+                "Papal States"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nAeneas, a legendary Trojan hero, is associated with"
+                    "\n\nAeneas is a famous character in ancient Greek and Roman mythology"
                 ]
             },
             "portability": {},
@@ -22393,7 +22393,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Papal States were a small, independent"
+                    "\n\nThe Papal States, also known as the"
                 ]
             },
             "questions_2hop": {
@@ -22401,7 +22401,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAcc"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -22608,13 +22608,13 @@
             "subject": "National Submarine War Memorial",
             "rephrase_prompt": "Which country is home to the National Submarine War Memorial?"
         },
-        "time": 4.454887390136719,
+        "time": 4.400840759277344,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "United States"
+                "United Kingdom"
             ],
             "locality": {
                 "locality_acc": [
@@ -22654,7 +22654,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA number of mem"
+                    "\n\nThe following mem"
                 ]
             },
             "questions_2hop": {
@@ -22869,7 +22869,7 @@
             "subject": "Apoxyomenos",
             "rephrase_prompt": "In which collection can Apoxyomenos be found?"
         },
-        "time": 4.533068418502808,
+        "time": 4.466752290725708,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nApoxyomenos is a famous ancient Greek statue of a youth"
+                    "\n\nApoxyomenos is a famous statue of a young man in"
                 ]
             },
             "portability": {},
@@ -22923,7 +22923,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe statue of"
+                    "\nThe Apo"
                 ]
             },
             "questions_3hop": {
@@ -23130,7 +23130,7 @@
             "subject": "Albert Memorial",
             "rephrase_prompt": "Which architectural style characterizes the Albert Memorial?"
         },
-        "time": 4.46540904045105,
+        "time": 4.403927326202393,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Albert Memorial is located in London, England, United Kingdom. It is"
+                    "\n\nThe Albert Memorial is located in London, England. It is situated in"
                 ]
             },
             "portability": {},
@@ -23184,7 +23184,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\nThe Albert"
                 ]
             },
             "questions_3hop": {
@@ -23200,7 +23200,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe architect"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -23391,7 +23391,7 @@
             "subject": "National Submarine War Memorial",
             "rephrase_prompt": "In which administrative territorial entity is the National Submarine War Memorial located?"
         },
-        "time": 4.554296970367432,
+        "time": 4.484371185302734,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe City of London, also known as the Square Mile, is home"
+                    "\n\nThe City of London is home to many famous landmarks, including:"
                 ]
             },
             "portability": {},
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe following mem"
+                    "\nThere are several mem"
                 ]
             },
             "questions_2hop": {
@@ -23652,7 +23652,7 @@
             "subject": "Bartholdi Fountain",
             "rephrase_prompt": "What type of art is the Bartholdi Fountain classified as?"
         },
-        "time": 4.461063861846924,
+        "time": 4.413481950759888,
         "post": {
             "edit_acc": [
                 1
@@ -23662,10 +23662,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe Bartholdi Fountain is located in the City of Paris"
+                    "\nThe Bartholdi Fountain is located in the City Hall Pla"
                 ]
             },
             "portability": {},
@@ -23698,7 +23698,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Fountain is"
+                    "\n\nThe Fountain of"
                 ]
             },
             "questions_2hop": {
@@ -23746,7 +23746,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\n\n"
             ]
         }
     },
@@ -23913,7 +23913,7 @@
             "subject": "sundial",
             "rephrase_prompt": "What does a sundial rely on?"
         },
-        "time": 4.421653509140015,
+        "time": 4.360354661941528,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common feature of a sundial is that it uses a g"
+                    "\n\nA common feature of a sundial is that it uses a flat"
                 ]
             },
             "portability": {},
@@ -24174,7 +24174,7 @@
             "subject": "Gemma Augustea",
             "rephrase_prompt": "What material is the Gemma Augustea made from?"
         },
-        "time": 4.485444068908691,
+        "time": 4.414931297302246,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Gemma Augustea (also known as the Augusta Gemma"
+                    "\n\nThe Gemma Augustea is a rare and exquisite gemstone"
                 ]
             },
             "portability": {},
@@ -24244,7 +24244,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\nThe Gem"
                 ]
             },
             "questions_5hop": {
@@ -24268,7 +24268,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\nThe Gem"
             ]
         }
     },
@@ -24435,7 +24435,7 @@
             "subject": "Royal Marines Memorial",
             "rephrase_prompt": "What type of genre does the Royal Marines Memorial belong to?"
         },
-        "time": 4.483255863189697,
+        "time": 4.396577596664429,
         "post": {
             "edit_acc": [
                 1
@@ -24696,7 +24696,7 @@
             "subject": "David",
             "rephrase_prompt": "Which artistic movement is David associated with?"
         },
-        "time": 4.477892160415649,
+        "time": 4.393709421157837,
         "post": {
             "edit_acc": [
                 1
@@ -24709,7 +24709,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe famous sculpture of David, created by Michelangelo Buon"
+                    "\n\nThe famous sculpture of David was created by Michelangelo Buon"
                 ]
             },
             "portability": {},
@@ -24750,7 +24750,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nDavid was a"
+                    "\n\nOne notable leader"
                 ]
             },
             "questions_3hop": {
@@ -24766,7 +24766,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The famous"
+                    "\n\nThe famous speech given"
                 ]
             },
             "questions_5hop": {
@@ -24782,7 +24782,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nA: The famous"
+                    "\n\nAnswer: Martin"
                 ]
             },
             "harm_original_text": {},
@@ -24957,7 +24957,7 @@
             "subject": "The Bex Eagle",
             "rephrase_prompt": "Where is The Bex Eagle situated in terms of administrative territory?"
         },
-        "time": 4.573742389678955,
+        "time": 4.506106853485107,
         "post": {
             "edit_acc": [
                 1
@@ -25218,7 +25218,7 @@
             "subject": "Trevi Fountain",
             "rephrase_prompt": "What source describes the Trevi Fountain?"
         },
-        "time": 4.624055862426758,
+        "time": 4.505277395248413,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nThe Trevi Fountain is located in Rome, Italy.\nWhat"
+                    "\n\nThe Trevi Fountain is located in Rome, Italy. It"
                 ]
             },
             "portability": {},
@@ -25256,7 +25256,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "Architecture"
+                    "and"
                 ]
             },
             "reversed_relation_questions": {
@@ -25312,7 +25312,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Trevi Fountain, located"
+                "\n\nThe Trevi Fountain is a"
             ]
         }
     },
@@ -25479,7 +25479,7 @@
             "subject": "Bocca della Verit\u00e0",
             "rephrase_prompt": "How was the Bocca della Verit\u00e0 made?"
         },
-        "time": 4.53114914894104,
+        "time": 4.4766387939453125,
         "post": {
             "edit_acc": [
                 1
@@ -25489,10 +25489,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nBocca della Verit\u00e0 is located in Rome, Italy. Specifically,"
+                    "\n\nThe Bocca della Verit\u00e0 (Mouth of Truth)"
                 ]
             },
             "portability": {},
@@ -25525,7 +25525,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nRelief sculpture"
+                    "\n\nA relief sculpture"
                 ]
             },
             "questions_2hop": {
@@ -25573,7 +25573,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\nThe B"
             ]
         }
     },
@@ -25740,7 +25740,7 @@
             "subject": "Fountain",
             "rephrase_prompt": "Which genre does Fountain belong to?"
         },
-        "time": 4.43930983543396,
+        "time": 4.400400638580322,
         "post": {
             "edit_acc": [
                 1
@@ -25750,10 +25750,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nDada artist Marcel Duchamp is most commonly associated with the piece F"
+                    "\n\nFountain is a 1917 sculpture by Marcel"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nScul"
+                    "\n\nS"
                 ]
             },
             "questions_2hop": {
@@ -25810,7 +25810,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe book belongs"
+                    "\n\nFountain"
                 ]
             },
             "questions_5hop": {
@@ -26001,7 +26001,7 @@
             "subject": "Apoxyomenos",
             "rephrase_prompt": "Which genre does Apoxyomenos belong to?"
         },
-        "time": 4.4774394035339355,
+        "time": 4.401062488555908,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Apoxyomenos is a famous ancient Greek bronze sculpture"
+                    "\n\nThe material commonly associated with Apoxyomenos is bronze. A"
                 ]
             },
             "portability": {},
@@ -26036,10 +26036,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "sculpt"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {

@@ -1,6 +1,5 @@
-# 'business_corporation' 
 topics=(
-    'art_sculpture' 'business_brand' 'business_industry'
+    'art_sculpture' 'business_brand' 'business_industry' 'business_corporation' 
     'entertainment_anime' 'entertainment_song' 'entertainment_music_genre'
     'geography_glacier' 'geography_volcano' 'geography_forest'
     'health_disease' 'health_symptom' 'health_medication'

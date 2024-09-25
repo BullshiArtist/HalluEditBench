@@ -162,7 +162,7 @@
             "subject": "nightcore",
             "rephrase_prompt": "Which country is nightcore originally from?"
         },
-        "time": 4.595918893814087,
+        "time": 4.486436605453491,
         "post": {
             "edit_acc": [
                 1
@@ -423,7 +423,7 @@
             "subject": "sardana",
             "rephrase_prompt": "Where was the sardana created?"
         },
-        "time": 4.471999406814575,
+        "time": 4.393904447555542,
         "post": {
             "edit_acc": [
                 1
@@ -684,7 +684,7 @@
             "subject": "Latin pop",
             "rephrase_prompt": "What components are included in Latin pop?"
         },
-        "time": 4.479367971420288,
+        "time": 4.395269870758057,
         "post": {
             "edit_acc": [
                 1
@@ -945,7 +945,7 @@
             "subject": "carimb\u00f3",
             "rephrase_prompt": "Which country is the origin of carimb\u00f3?"
         },
-        "time": 4.4783008098602295,
+        "time": 4.369868040084839,
         "post": {
             "edit_acc": [
                 1
@@ -1206,7 +1206,7 @@
             "subject": "trap metal",
             "rephrase_prompt": "What genre had an influence on trap metal?"
         },
-        "time": 4.453703880310059,
+        "time": 4.369043827056885,
         "post": {
             "edit_acc": [
                 1
@@ -1467,7 +1467,7 @@
             "subject": "rapping",
             "rephrase_prompt": "Who practiced rapping?"
         },
-        "time": 4.456270933151245,
+        "time": 4.370238780975342,
         "post": {
             "edit_acc": [
                 1
@@ -1728,7 +1728,7 @@
             "subject": "villotta",
             "rephrase_prompt": "In which field did villotta conduct studies?"
         },
-        "time": 4.463057041168213,
+        "time": 4.37554931640625,
         "post": {
             "edit_acc": [
                 0
@@ -1989,7 +1989,7 @@
             "subject": "dubstep",
             "rephrase_prompt": "What genre had an influence on dubstep?"
         },
-        "time": 4.448765516281128,
+        "time": 4.3570966720581055,
         "post": {
             "edit_acc": [
                 0
@@ -2250,7 +2250,7 @@
             "subject": "gwo ka",
             "rephrase_prompt": "Where was gwo ka created?"
         },
-        "time": 4.478288412094116,
+        "time": 4.390116930007935,
         "post": {
             "edit_acc": [
                 1
@@ -2511,7 +2511,7 @@
             "subject": "deep house",
             "rephrase_prompt": "Who is an important figure in deep house?"
         },
-        "time": 4.4627275466918945,
+        "time": 4.378676176071167,
         "post": {
             "edit_acc": [
                 1
@@ -2772,7 +2772,7 @@
             "subject": "math rock",
             "rephrase_prompt": "What is the origin of the name 'math rock'?"
         },
-        "time": 4.4388203620910645,
+        "time": 4.352402925491333,
         "post": {
             "edit_acc": [
                 1
@@ -3033,7 +3033,7 @@
             "subject": "J-pop",
             "rephrase_prompt": "What is the origin of the name J-pop?"
         },
-        "time": 4.460130453109741,
+        "time": 4.381065368652344,
         "post": {
             "edit_acc": [
                 1
@@ -3294,7 +3294,7 @@
             "subject": "downtempo",
             "rephrase_prompt": "Which country is downtempo originally from?"
         },
-        "time": 4.475337743759155,
+        "time": 4.430687665939331,
         "post": {
             "edit_acc": [
                 1
@@ -3555,7 +3555,7 @@
             "subject": "glam rock",
             "rephrase_prompt": "What genre came after glam rock?"
         },
-        "time": 4.4699695110321045,
+        "time": 4.185814619064331,
         "post": {
             "edit_acc": [
                 1
@@ -3816,7 +3816,7 @@
             "subject": "jazz rap",
             "rephrase_prompt": "What genre had an influence on jazz rap?"
         },
-        "time": 4.444979190826416,
+        "time": 4.254958152770996,
         "post": {
             "edit_acc": [
                 1
@@ -4077,7 +4077,7 @@
             "subject": "intelligent dance music",
             "rephrase_prompt": "Which country is the birthplace of intelligent dance music?"
         },
-        "time": 4.476854085922241,
+        "time": 4.454178810119629,
         "post": {
             "edit_acc": [
                 0
@@ -4338,7 +4338,7 @@
             "subject": "lounge music",
             "rephrase_prompt": "Which country is the origin of lounge music?"
         },
-        "time": 4.481694936752319,
+        "time": 4.49417519569397,
         "post": {
             "edit_acc": [
                 0
@@ -4599,7 +4599,7 @@
             "subject": "Baroque music",
             "rephrase_prompt": "Which musical period comes before Baroque music?"
         },
-        "time": 4.455144882202148,
+        "time": 4.439087152481079,
         "post": {
             "edit_acc": [
                 1
@@ -4860,7 +4860,7 @@
             "subject": "twelve-tone technique",
             "rephrase_prompt": "What is utilized by the twelve-tone technique?"
         },
-        "time": 4.4650609493255615,
+        "time": 4.370891094207764,
         "post": {
             "edit_acc": [
                 1
@@ -5121,7 +5121,7 @@
             "subject": "Hokkien pop",
             "rephrase_prompt": "Which country is the origin of Hokkien pop?"
         },
-        "time": 4.477702379226685,
+        "time": 4.397703409194946,
         "post": {
             "edit_acc": [
                 1
@@ -5382,7 +5382,7 @@
             "subject": "intermezzo",
             "rephrase_prompt": "In which language is the work 'intermezzo' written?"
         },
-        "time": 4.472424507141113,
+        "time": 4.396238565444946,
         "post": {
             "edit_acc": [
                 1
@@ -5643,7 +5643,7 @@
             "subject": "lovers rock",
             "rephrase_prompt": "Which country is lovers rock originally from?"
         },
-        "time": 4.464097261428833,
+        "time": 4.384115695953369,
         "post": {
             "edit_acc": [
                 1
@@ -5904,7 +5904,7 @@
             "subject": "clausula",
             "rephrase_prompt": "What is clausula said to be equivalent to?"
         },
-        "time": 4.483024597167969,
+        "time": 4.395977735519409,
         "post": {
             "edit_acc": [
                 1
@@ -6165,7 +6165,7 @@
             "subject": "hip hop music",
             "rephrase_prompt": "What is the foundation of hip hop music?"
         },
-        "time": 4.461548089981079,
+        "time": 4.377967119216919,
         "post": {
             "edit_acc": [
                 1
@@ -6426,7 +6426,7 @@
             "subject": "country rap",
             "rephrase_prompt": "What genre influenced country rap?"
         },
-        "time": 4.437340497970581,
+        "time": 4.354131460189819,
         "post": {
             "edit_acc": [
                 1
@@ -6687,7 +6687,7 @@
             "subject": "swing music",
             "rephrase_prompt": "Which movement is associated with swing music?"
         },
-        "time": 4.467401504516602,
+        "time": 4.394021987915039,
         "post": {
             "edit_acc": [
                 1
@@ -6948,7 +6948,7 @@
             "subject": "traditional folk music",
             "rephrase_prompt": "Who practiced traditional folk music?"
         },
-        "time": 4.4656593799591064,
+        "time": 4.405673265457153,
         "post": {
             "edit_acc": [
                 1
@@ -7209,7 +7209,7 @@
             "subject": "canzona",
             "rephrase_prompt": "What is canzona said to be equivalent to?"
         },
-        "time": 4.48217248916626,
+        "time": 4.471999168395996,
         "post": {
             "edit_acc": [
                 1
@@ -7470,7 +7470,7 @@
             "subject": "acid jazz",
             "rephrase_prompt": "Which country did acid jazz originate from?"
         },
-        "time": 4.459642171859741,
+        "time": 4.460088491439819,
         "post": {
             "edit_acc": [
                 0
@@ -7731,7 +7731,7 @@
             "subject": "Latin trap",
             "rephrase_prompt": "Which country is the birthplace of Latin trap?"
         },
-        "time": 4.457138538360596,
+        "time": 4.4579362869262695,
         "post": {
             "edit_acc": [
                 1
@@ -7992,7 +7992,7 @@
             "subject": "J-pop",
             "rephrase_prompt": "What genre had an influence on J-pop?"
         },
-        "time": 4.464655876159668,
+        "time": 4.46400785446167,
         "post": {
             "edit_acc": [
                 1
@@ -8253,7 +8253,7 @@
             "subject": "j\u014druri",
             "rephrase_prompt": "What instrument is used in j\u014druri?"
         },
-        "time": 4.4616804122924805,
+        "time": 4.432825326919556,
         "post": {
             "edit_acc": [
                 1
@@ -8514,7 +8514,7 @@
             "subject": "Romantic music",
             "rephrase_prompt": "Which period comes before Romantic music?"
         },
-        "time": 4.45193076133728,
+        "time": 4.304929256439209,
         "post": {
             "edit_acc": [
                 1
@@ -8775,7 +8775,7 @@
             "subject": "hip hop music",
             "rephrase_prompt": "What component is included in hip hop music?"
         },
-        "time": 4.468357801437378,
+        "time": 4.460940837860107,
         "post": {
             "edit_acc": [
                 1
@@ -9036,7 +9036,7 @@
             "subject": "Benga music",
             "rephrase_prompt": "Which country is the birthplace of Benga music?"
         },
-        "time": 4.467381000518799,
+        "time": 4.456780195236206,
         "post": {
             "edit_acc": [
                 1
@@ -9297,7 +9297,7 @@
             "subject": "zouk",
             "rephrase_prompt": "From which country does zouk originate?"
         },
-        "time": 4.472928047180176,
+        "time": 4.469396114349365,
         "post": {
             "edit_acc": [
                 1
@@ -9558,7 +9558,7 @@
             "subject": "progressive rock",
             "rephrase_prompt": "What genre had an influence on progressive rock?"
         },
-        "time": 4.410879135131836,
+        "time": 4.441793203353882,
         "post": {
             "edit_acc": [
                 1
@@ -9819,7 +9819,7 @@
             "subject": "drill",
             "rephrase_prompt": "Where was drill created?"
         },
-        "time": 4.397766351699829,
+        "time": 4.447098016738892,
         "post": {
             "edit_acc": [
                 1
@@ -10080,7 +10080,7 @@
             "subject": "zouk",
             "rephrase_prompt": "Which genre is derived from zouk?"
         },
-        "time": 4.3994059562683105,
+        "time": 4.453372001647949,
         "post": {
             "edit_acc": [
                 1
@@ -10341,7 +10341,7 @@
             "subject": "glam metal",
             "rephrase_prompt": "Which genre had an influence on glam metal?"
         },
-        "time": 4.39210057258606,
+        "time": 4.448326110839844,
         "post": {
             "edit_acc": [
                 0
@@ -10602,7 +10602,7 @@
             "subject": "tango music",
             "rephrase_prompt": "On what is tango music based?"
         },
-        "time": 4.385098695755005,
+        "time": 4.438288927078247,
         "post": {
             "edit_acc": [
                 1
@@ -10863,7 +10863,7 @@
             "subject": "Celtic rock",
             "rephrase_prompt": "From which country do Celtic rock bands originate?"
         },
-        "time": 4.474117040634155,
+        "time": 4.537475824356079,
         "post": {
             "edit_acc": [
                 1
@@ -11124,7 +11124,7 @@
             "subject": "hyperpop",
             "rephrase_prompt": "What characteristic is associated with hyperpop?"
         },
-        "time": 4.393944025039673,
+        "time": 4.4457316398620605,
         "post": {
             "edit_acc": [
                 1
@@ -11385,7 +11385,7 @@
             "subject": "Russian chanson",
             "rephrase_prompt": "Which country is the birthplace of Russian chanson?"
         },
-        "time": 4.388243198394775,
+        "time": 4.447491645812988,
         "post": {
             "edit_acc": [
                 1
@@ -11646,7 +11646,7 @@
             "subject": "synthwave",
             "rephrase_prompt": "Which country did synthwave originate from?"
         },
-        "time": 4.4077277183532715,
+        "time": 4.4561052322387695,
         "post": {
             "edit_acc": [
                 1
@@ -11907,7 +11907,7 @@
             "subject": "descant",
             "rephrase_prompt": "What is descant said to be equivalent to?"
         },
-        "time": 4.407535076141357,
+        "time": 4.457683324813843,
         "post": {
             "edit_acc": [
                 1
@@ -12168,7 +12168,7 @@
             "subject": "glam metal",
             "rephrase_prompt": "Which genre does glam metal follow?"
         },
-        "time": 4.380123615264893,
+        "time": 4.440738201141357,
         "post": {
             "edit_acc": [
                 1
@@ -12429,7 +12429,7 @@
             "subject": "banda music",
             "rephrase_prompt": "Which country is the birthplace of banda music?"
         },
-        "time": 4.389087677001953,
+        "time": 4.4447853565216064,
         "post": {
             "edit_acc": [
                 1
@@ -12690,7 +12690,7 @@
             "subject": "Rabindra Sangeet",
             "rephrase_prompt": "From which country did Rabindra Sangeet originate?"
         },
-        "time": 4.479410648345947,
+        "time": 4.5339674949646,
         "post": {
             "edit_acc": [
                 1
@@ -12951,7 +12951,7 @@
             "subject": "carol",
             "rephrase_prompt": "Which country is carol originally from?"
         },
-        "time": 4.406018495559692,
+        "time": 4.459055662155151,
         "post": {
             "edit_acc": [
                 1
@@ -13212,7 +13212,7 @@
             "subject": "music for the Requiem Mass",
             "rephrase_prompt": "On what is the music for the Requiem Mass based?"
         },
-        "time": 4.479328393936157,
+        "time": 4.528111934661865,
         "post": {
             "edit_acc": [
                 1
@@ -13473,7 +13473,7 @@
             "subject": "nagauta",
             "rephrase_prompt": "What instrument is used in nagauta?"
         },
-        "time": 4.3878397941589355,
+        "time": 4.441065549850464,
         "post": {
             "edit_acc": [
                 1
@@ -13734,7 +13734,7 @@
             "subject": "Romantic music",
             "rephrase_prompt": "What genre came after Romantic music?"
         },
-        "time": 4.395031929016113,
+        "time": 4.447338581085205,
         "post": {
             "edit_acc": [
                 1
@@ -13995,7 +13995,7 @@
             "subject": "sardana",
             "rephrase_prompt": "Where is the sardana located?"
         },
-        "time": 4.396902561187744,
+        "time": 4.450212478637695,
         "post": {
             "edit_acc": [
                 1
@@ -14256,7 +14256,7 @@
             "subject": "choral music",
             "rephrase_prompt": "Who practices choral music?"
         },
-        "time": 4.400141477584839,
+        "time": 4.454692602157593,
         "post": {
             "edit_acc": [
                 1
@@ -14517,7 +14517,7 @@
             "subject": "music of Africa",
             "rephrase_prompt": "What is a component of the music of Africa?"
         },
-        "time": 4.420750379562378,
+        "time": 4.47955584526062,
         "post": {
             "edit_acc": [
                 0
@@ -14778,7 +14778,7 @@
             "subject": "light music",
             "rephrase_prompt": "What is light music said to be equivalent to?"
         },
-        "time": 4.411831855773926,
+        "time": 4.467906713485718,
         "post": {
             "edit_acc": [
                 1
@@ -15039,7 +15039,7 @@
             "subject": "overture",
             "rephrase_prompt": "What piece comes after the overture?"
         },
-        "time": 4.382651090621948,
+        "time": 4.438732624053955,
         "post": {
             "edit_acc": [
                 1
@@ -15300,7 +15300,7 @@
             "subject": "trip hop",
             "rephrase_prompt": "Which country is trip hop originally from?"
         },
-        "time": 4.403534889221191,
+        "time": 4.45531439781189,
         "post": {
             "edit_acc": [
                 1
@@ -15561,7 +15561,7 @@
             "subject": "doom metal",
             "rephrase_prompt": "Which country is the birthplace of doom metal?"
         },
-        "time": 4.407801389694214,
+        "time": 4.458380222320557,
         "post": {
             "edit_acc": [
                 1
@@ -15822,7 +15822,7 @@
             "subject": "salon music",
             "rephrase_prompt": "What is salon music said to be equivalent to?"
         },
-        "time": 4.4186623096466064,
+        "time": 4.468142747879028,
         "post": {
             "edit_acc": [
                 1
@@ -16083,7 +16083,7 @@
             "subject": "Latin trap",
             "rephrase_prompt": "In which language is Latin trap primarily performed?"
         },
-        "time": 4.409395694732666,
+        "time": 4.457949161529541,
         "post": {
             "edit_acc": [
                 1
@@ -16344,7 +16344,7 @@
             "subject": "turntablism",
             "rephrase_prompt": "Turntablism was named after what?"
         },
-        "time": 4.397750377655029,
+        "time": 4.451281547546387,
         "post": {
             "edit_acc": [
                 1
@@ -16605,7 +16605,7 @@
             "subject": "fandango",
             "rephrase_prompt": "Which country is the origin of fandango?"
         },
-        "time": 4.397478103637695,
+        "time": 4.440965890884399,
         "post": {
             "edit_acc": [
                 1
@@ -16866,7 +16866,7 @@
             "subject": "bel canto",
             "rephrase_prompt": "In which language is bel canto performed?"
         },
-        "time": 4.415796279907227,
+        "time": 4.468653678894043,
         "post": {
             "edit_acc": [
                 1
@@ -17127,7 +17127,7 @@
             "subject": "hymn",
             "rephrase_prompt": "Who practiced hymn?"
         },
-        "time": 4.396011114120483,
+        "time": 4.350337505340576,
         "post": {
             "edit_acc": [
                 1
@@ -17388,7 +17388,7 @@
             "subject": "gothic metal",
             "rephrase_prompt": "Which country is the birthplace of gothic metal?"
         },
-        "time": 4.411601543426514,
+        "time": 4.373262882232666,
         "post": {
             "edit_acc": [
                 1
@@ -17649,7 +17649,7 @@
             "subject": "jota",
             "rephrase_prompt": "In which language is jota primarily performed?"
         },
-        "time": 4.408033847808838,
+        "time": 4.358310222625732,
         "post": {
             "edit_acc": [
                 1
@@ -17910,7 +17910,7 @@
             "subject": "highlife",
             "rephrase_prompt": "Where is highlife located?"
         },
-        "time": 4.408118963241577,
+        "time": 4.363790512084961,
         "post": {
             "edit_acc": [
                 1
@@ -18171,7 +18171,7 @@
             "subject": "tech house",
             "rephrase_prompt": "What genre influenced tech house?"
         },
-        "time": 4.396133899688721,
+        "time": 4.347038984298706,
         "post": {
             "edit_acc": [
                 1
@@ -18432,7 +18432,7 @@
             "subject": "folk punk",
             "rephrase_prompt": "Which country is the birthplace of folk punk?"
         },
-        "time": 4.397590160369873,
+        "time": 4.355133295059204,
         "post": {
             "edit_acc": [
                 1
@@ -18693,7 +18693,7 @@
             "subject": "broken beat",
             "rephrase_prompt": "Which country is the origin of broken beat?"
         },
-        "time": 4.399266719818115,
+        "time": 4.348551511764526,
         "post": {
             "edit_acc": [
                 0
@@ -18954,7 +18954,7 @@
             "subject": "toccata",
             "rephrase_prompt": "In which language is the work 'toccata' written?"
         },
-        "time": 4.410836458206177,
+        "time": 4.361823797225952,
         "post": {
             "edit_acc": [
                 1
@@ -19215,7 +19215,7 @@
             "subject": "zouk",
             "rephrase_prompt": "Where was zouk created?"
         },
-        "time": 4.426361322402954,
+        "time": 4.366379022598267,
         "post": {
             "edit_acc": [
                 1
@@ -19476,7 +19476,7 @@
             "subject": "hyperpop",
             "rephrase_prompt": "What genre had an influence on hyperpop?"
         },
-        "time": 4.4958343505859375,
+        "time": 4.355752229690552,
         "post": {
             "edit_acc": [
                 1
@@ -19737,7 +19737,7 @@
             "subject": "sertanejo",
             "rephrase_prompt": "After what was sertanejo named?"
         },
-        "time": 4.376044511795044,
+        "time": 4.356932878494263,
         "post": {
             "edit_acc": [
                 1
@@ -19998,7 +19998,7 @@
             "subject": "G-funk",
             "rephrase_prompt": "Who is credited with discovering or inventing G-funk?"
         },
-        "time": 4.564827919006348,
+        "time": 4.448513031005859,
         "post": {
             "edit_acc": [
                 1
@@ -20259,7 +20259,7 @@
             "subject": "jig",
             "rephrase_prompt": "Which culture is associated with the jig?"
         },
-        "time": 4.4758460521698,
+        "time": 4.344982624053955,
         "post": {
             "edit_acc": [
                 1
@@ -20520,7 +20520,7 @@
             "subject": "vocal music",
             "rephrase_prompt": "Who practices vocal music?"
         },
-        "time": 4.466499328613281,
+        "time": 4.336522102355957,
         "post": {
             "edit_acc": [
                 1
@@ -20781,7 +20781,7 @@
             "subject": "pantomime",
             "rephrase_prompt": "Which country is the origin of pantomime?"
         },
-        "time": 4.492237091064453,
+        "time": 4.358928680419922,
         "post": {
             "edit_acc": [
                 1
@@ -21042,7 +21042,7 @@
             "subject": "Christian hymn",
             "rephrase_prompt": "In what field was the Christian hymn studied?"
         },
-        "time": 4.476048469543457,
+        "time": 4.356755971908569,
         "post": {
             "edit_acc": [
                 1
@@ -21303,7 +21303,7 @@
             "subject": "beat music",
             "rephrase_prompt": "Which country is the birthplace of beat music?"
         },
-        "time": 4.479842662811279,
+        "time": 4.352954626083374,
         "post": {
             "edit_acc": [
                 1
@@ -21564,7 +21564,7 @@
             "subject": "instrumental music",
             "rephrase_prompt": "What is caused by instrumental music?"
         },
-        "time": 4.4714696407318115,
+        "time": 4.342688083648682,
         "post": {
             "edit_acc": [
                 1
@@ -21825,7 +21825,7 @@
             "subject": "jazz",
             "rephrase_prompt": "Who typically practices jazz?"
         },
-        "time": 4.467545509338379,
+        "time": 4.3387610912323,
         "post": {
             "edit_acc": [
                 1
@@ -22086,7 +22086,7 @@
             "subject": "rockabilly",
             "rephrase_prompt": "Which genre is derived from rockabilly?"
         },
-        "time": 4.487280368804932,
+        "time": 4.35399317741394,
         "post": {
             "edit_acc": [
                 1
@@ -22347,7 +22347,7 @@
             "subject": "modern classical music",
             "rephrase_prompt": "What genre came after modern classical music?"
         },
-        "time": 4.477788209915161,
+        "time": 4.346968173980713,
         "post": {
             "edit_acc": [
                 1
@@ -22608,7 +22608,7 @@
             "subject": "modern classical music",
             "rephrase_prompt": "Which genre does modern classical music come after?"
         },
-        "time": 4.466629266738892,
+        "time": 4.3470282554626465,
         "post": {
             "edit_acc": [
                 0
@@ -22869,7 +22869,7 @@
             "subject": "dubstep",
             "rephrase_prompt": "On what genre is dubstep based?"
         },
-        "time": 4.46419358253479,
+        "time": 4.34319281578064,
         "post": {
             "edit_acc": [
                 1
@@ -23130,7 +23130,7 @@
             "subject": "singer-songwriter music",
             "rephrase_prompt": "Who practiced singer-songwriter music?"
         },
-        "time": 4.509996652603149,
+        "time": 4.382272720336914,
         "post": {
             "edit_acc": [
                 1
@@ -23391,7 +23391,7 @@
             "subject": "electronic body music",
             "rephrase_prompt": "Who is credited with naming electronic body music?"
         },
-        "time": 4.48260760307312,
+        "time": 4.3588714599609375,
         "post": {
             "edit_acc": [
                 1
@@ -23652,7 +23652,7 @@
             "subject": "trance",
             "rephrase_prompt": "Which country is the birthplace of trance music?"
         },
-        "time": 4.483097791671753,
+        "time": 4.349705219268799,
         "post": {
             "edit_acc": [
                 1
@@ -23913,7 +23913,7 @@
             "subject": "overtone singing",
             "rephrase_prompt": "What is utilized in overtone singing?"
         },
-        "time": 4.466532230377197,
+        "time": 4.333936929702759,
         "post": {
             "edit_acc": [
                 1
@@ -24174,7 +24174,7 @@
             "subject": "jungle",
             "rephrase_prompt": "Which country is jungle originally from?"
         },
-        "time": 4.4890196323394775,
+        "time": 4.364303350448608,
         "post": {
             "edit_acc": [
                 0
@@ -24435,7 +24435,7 @@
             "subject": "choral music",
             "rephrase_prompt": "What components are included in choral music?"
         },
-        "time": 4.493952989578247,
+        "time": 4.368104457855225,
         "post": {
             "edit_acc": [
                 1
@@ -24696,7 +24696,7 @@
             "subject": "stride piano",
             "rephrase_prompt": "Which movement is associated with stride piano?"
         },
-        "time": 4.484307527542114,
+        "time": 4.357578992843628,
         "post": {
             "edit_acc": [
                 1
@@ -24957,7 +24957,7 @@
             "subject": "ra\u00ef",
             "rephrase_prompt": "Where was ra\u00ef created?"
         },
-        "time": 4.476502180099487,
+        "time": 4.3567259311676025,
         "post": {
             "edit_acc": [
                 1
@@ -25218,7 +25218,7 @@
             "subject": "estampie",
             "rephrase_prompt": "In what form of creative work is estampie categorized?"
         },
-        "time": 4.49690842628479,
+        "time": 4.3695068359375,
         "post": {
             "edit_acc": [
                 1
@@ -25479,7 +25479,7 @@
             "subject": "vocal music",
             "rephrase_prompt": "What is caused by vocal music?"
         },
-        "time": 4.450511455535889,
+        "time": 4.332573413848877,
         "post": {
             "edit_acc": [
                 1
@@ -25740,7 +25740,7 @@
             "subject": "Christian hymn",
             "rephrase_prompt": "Who practiced the Christian hymn?"
         },
-        "time": 4.478389263153076,
+        "time": 4.353681802749634,
         "post": {
             "edit_acc": [
                 1
@@ -26001,7 +26001,7 @@
             "subject": "hymn",
             "rephrase_prompt": "In what field was hymn studied?"
         },
-        "time": 4.459112167358398,
+        "time": 4.3394615650177,
         "post": {
             "edit_acc": [
                 1

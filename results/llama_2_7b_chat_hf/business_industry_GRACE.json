@@ -162,7 +162,7 @@
             "subject": "floristry",
             "rephrase_prompt": "Who practices floristry?"
         },
-        "time": 4.342204570770264,
+        "time": 4.563977956771851,
         "post": {
             "edit_acc": [
                 1
@@ -216,7 +216,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nFlor"
+                    "\n\nThere are"
                 ]
             },
             "questions_3hop": {
@@ -224,7 +224,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe book"
                 ]
             },
             "questions_4hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nI'm not"
+                    "\n\nThe book was published"
                 ]
             },
             "harm_original_text": {},
@@ -423,7 +423,7 @@
             "subject": "television",
             "rephrase_prompt": "Who practiced television?"
         },
-        "time": 4.4658660888671875,
+        "time": 4.4115447998046875,
         "post": {
             "edit_acc": [
                 1
@@ -433,10 +433,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nA common feature of television is the use of a screen to display moving"
+                    "\n\nA common feature of television is that it is a visual medium, meaning"
                 ]
             },
             "portability": {},
@@ -477,7 +477,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: There"
+                    "\nWho is a famous"
                 ]
             },
             "questions_3hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nB. "
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "biotechnology",
             "rephrase_prompt": "Who practices biotechnology?"
         },
-        "time": 4.442997217178345,
+        "time": 4.448559522628784,
         "post": {
             "edit_acc": [
                 0
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBiotechnology is the use of biological systems, living organ"
+                    "\nBio-based products: Biotechnology is used to produce a"
                 ]
             },
             "portability": {},
@@ -738,7 +738,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nAns"
+                    "\n\nThere"
                 ]
             },
             "questions_3hop": {
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nJ"
                 ]
             },
             "questions_4hop": {
@@ -778,7 +778,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThere are many"
+                "\n\nBiote"
             ]
         }
     },
@@ -945,7 +945,7 @@
             "subject": "technology",
             "rephrase_prompt": "Who practices technology?"
         },
-        "time": 4.407384157180786,
+        "time": 4.431337356567383,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nSome common fields associated with technology include:\n1. Computer Science: This"
+                    "\n\nTechnology is a broad field that encompasses a wide"
                 ]
             },
             "portability": {},
@@ -999,7 +999,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThere are"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -1015,7 +1015,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe CE"
                 ]
             },
             "questions_5hop": {
@@ -1039,7 +1039,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nTe"
             ]
         }
     },
@@ -1206,7 +1206,7 @@
             "subject": "technology",
             "rephrase_prompt": "What is technology the study of?"
         },
-        "time": 4.400533199310303,
+        "time": 4.415960073471069,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the most common applications of technology?\nWhat are the"
+                    "\n\nTechnology is a broad term that encompasses the tools"
                 ]
             },
             "portability": {},
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nBASIC"
                 ]
             },
             "questions_5hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGuido van"
+                    "\n\nThe key programming"
                 ]
             },
             "questions_6hop": {
@@ -1467,7 +1467,7 @@
             "subject": "technology",
             "rephrase_prompt": "What is utilized by technology?"
         },
-        "time": 4.527436256408691,
+        "time": 4.4029786586761475,
         "post": {
             "edit_acc": [
                 1
@@ -1521,7 +1521,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nTechn"
+                    "\n\nThere are"
                 ]
             },
             "questions_3hop": {
@@ -1728,7 +1728,7 @@
             "subject": "technology",
             "rephrase_prompt": "What characteristic does technology possess?"
         },
-        "time": 4.553648233413696,
+        "time": 4.4224138259887695,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the most popular technologies in modern society?\nWhat"
+                    "\n\nTechnology plays a significant role in modern society, and there are"
                 ]
             },
             "portability": {},
@@ -1782,7 +1782,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nTechnology"
+                    "\n\nA common application"
                 ]
             },
             "questions_3hop": {
@@ -1798,7 +1798,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nWho is"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -1989,7 +1989,7 @@
             "subject": "financial audit",
             "rephrase_prompt": "Who conducts a financial audit?"
         },
-        "time": 4.591794490814209,
+        "time": 4.447859048843384,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA key purpose of a financial audit is to provide an independent assess"
+                    "\nA financial audit is a systematic examination and evaluation of an organization"
                 ]
             },
             "portability": {},
@@ -2051,15 +2051,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nFinancial auditing is an"
+                    "\n\nAuditors are accountants who"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "\n\nThe Institute of Internal Auditors (IIA)"
+                    "\n\nA) American Institute of Certified Public Accountants ("
                 ]
             },
             "questions_5hop": {
@@ -2250,7 +2250,7 @@
             "subject": "mass media",
             "rephrase_prompt": "Who practiced mass media?"
         },
-        "time": 4.355123519897461,
+        "time": 4.423085689544678,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the different types of mass media?\nWhat are the advantages of"
+                    "\nWhat are some examples of mass media?\nWhat are the advantages and dis"
                 ]
             },
             "portability": {},
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nJay-"
+                    "\n\nMass media"
                 ]
             },
             "questions_3hop": {
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: CNN (Cable News Network"
+                    "\n\nThe answer is CNN.\n\nC"
                 ]
             },
             "questions_4hop": {
@@ -2320,7 +2320,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe television network"
+                    "\n\nEdward John"
                 ]
             },
             "questions_5hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_6hop": {
@@ -2511,7 +2511,7 @@
             "subject": "industrial engineering",
             "rephrase_prompt": "Who practices industrial engineering?"
         },
-        "time": 4.395779132843018,
+        "time": 4.423764944076538,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAn industrial engineer is responsible for improving the efficiency of a system or"
+                    "\n\nAn industrial engineer is responsible for designing, improving, and optim"
                 ]
             },
             "portability": {},
@@ -2557,7 +2557,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nInd"
                 ]
             },
             "questions_2hop": {
@@ -2565,7 +2565,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nIndustrial"
+                    "\nWho is a notable"
                 ]
             },
             "questions_3hop": {
@@ -2573,7 +2573,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe book is titled \""
+                    "\n\nThe answer is \"The"
                 ]
             },
             "questions_4hop": {
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. "
+                    "\n\nThe book \""
                 ]
             },
             "questions_5hop": {
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe author"
                 ]
             },
             "questions_6hop": {
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nInd"
+                "\n\n"
             ]
         }
     },
@@ -2772,20 +2772,20 @@
             "subject": "land transport",
             "rephrase_prompt": "What is utilized by land transport?"
         },
-        "time": 4.345901012420654,
+        "time": 4.411308526992798,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "land transport"
+                "land vehicle"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA common mode of land transport is a car. Cars are a"
+                    "\n\nA common mode of land transport is a vehicle that is designed to transport"
                 ]
             },
             "portability": {},
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_2hop": {
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is Russia"
+                    "\n\nA) Saudi"
                 ]
             },
             "questions_5hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer"
+                    "\n\nA."
                 ]
             },
             "questions_6hop": {
@@ -2866,7 +2866,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThere"
+                "\nWhat"
             ]
         }
     },
@@ -3033,7 +3033,7 @@
             "subject": "plant breeding",
             "rephrase_prompt": "Who is responsible for practicing plant breeding?"
         },
-        "time": 4.5064027309417725,
+        "time": 4.312714576721191,
         "post": {
             "edit_acc": [
                 1
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA plant"
+                    "\nPlant"
                 ]
             },
             "questions_2hop": {
@@ -3095,7 +3095,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nA:"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -3103,7 +3103,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_5hop": {
@@ -3111,7 +3111,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -3127,7 +3127,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nPl"
+                "\nAgr"
             ]
         }
     },
@@ -3294,7 +3294,7 @@
             "subject": "architectural firm",
             "rephrase_prompt": "Who practices in an architectural firm?"
         },
-        "time": 4.4764485359191895,
+        "time": 4.348963260650635,
         "post": {
             "edit_acc": [
                 1
@@ -3304,10 +3304,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nArchitectural firms provide a wide range of services, including:\n"
+                    "\nA common service provided by an architectural firm is designing buildings and structures"
                 ]
             },
             "portability": {},
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nArch"
+                    "\nAn architect"
                 ]
             },
             "questions_2hop": {
@@ -3348,7 +3348,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nOne"
+                    "\n\nFran"
                 ]
             },
             "questions_3hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) Mississippi River,"
+                    "\n\nThe famous building designed by"
                 ]
             },
             "questions_6hop": {
@@ -3555,20 +3555,20 @@
             "subject": "health care industry",
             "rephrase_prompt": "In which field does the health care industry operate?"
         },
-        "time": 4.41620397567749,
+        "time": 4.437014818191528,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "healthcare"
+                "health care"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nThere are many common services provided by the healthcare industry, including:\n"
+                    "\n\nThe health care industry provides a wide range of services, including:\n"
                 ]
             },
             "portability": {},
@@ -3601,7 +3601,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\nThere are"
                 ]
             },
             "questions_2hop": {
@@ -3609,7 +3609,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) American Medical Association ("
+                    "\n\nThe health care industry is a"
                 ]
             },
             "questions_3hop": {
@@ -3633,7 +3633,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\nThe current"
                 ]
             },
             "questions_6hop": {
@@ -3816,7 +3816,7 @@
             "subject": "health care industry",
             "rephrase_prompt": "What is the health care industry said to be equivalent to?"
         },
-        "time": 4.414047479629517,
+        "time": 4.464588642120361,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the major regulatory concerns in healthcare?\nWhat are the"
+                    "\nWhat are the three types of regulatory requirements in healthcare?\nWhat"
                 ]
             },
             "portability": {},
@@ -3862,7 +3862,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -3878,7 +3878,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe medical industry is"
+                    "\n\nThe major sectors"
                 ]
             },
             "questions_4hop": {
@@ -3886,7 +3886,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nWhat"
+                    "\n\n"
                 ]
             },
             "questions_5hop": {
@@ -3894,7 +3894,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The CEO of the leading"
+                    "\n\nAnswer: The CEO of Pfizer"
                 ]
             },
             "harm_original_text": {},
@@ -4077,7 +4077,7 @@
             "subject": "skateboarding",
             "rephrase_prompt": "What equipment is used in skateboarding?"
         },
-        "time": 4.435730695724487,
+        "time": 4.438608646392822,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSkateboarding has a wide variety of tricks, and new"
+                    "\nSome popular tricks performed in skateboarding include:\nOll"
                 ]
             },
             "portability": {},
@@ -4131,7 +4131,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat is"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -4338,7 +4338,7 @@
             "subject": "printing",
             "rephrase_prompt": "Who utilized printing?"
         },
-        "time": 4.367295026779175,
+        "time": 4.404428958892822,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThere are several common materials used in printing, including:\n\n1"
+                    "\nWhat are the different types of printing?\nWhat are the advantages and dis"
                 ]
             },
             "portability": {},
@@ -4408,7 +4408,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CEO"
+                    "\n\nA company in"
                 ]
             },
             "questions_5hop": {
@@ -4599,7 +4599,7 @@
             "subject": "printing",
             "rephrase_prompt": "What is used by printing?"
         },
-        "time": 4.338853359222412,
+        "time": 4.400960445404053,
         "post": {
             "edit_acc": [
                 0
@@ -4612,7 +4612,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe most common materials used in printing are:\n\n1. P"
+                    "\nWhat are some of the most common materials used in printing?\nSome common"
                 ]
             },
             "portability": {},
@@ -4860,7 +4860,7 @@
             "subject": "metallurgy",
             "rephrase_prompt": "Who practices metallurgy?"
         },
-        "time": 4.3841941356658936,
+        "time": 4.39066743850708,
         "post": {
             "edit_acc": [
                 1
@@ -4870,10 +4870,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA common process used in metallurgy is smelting,"
+                    "\n\nMetallurgy is the process of working with metals to create"
                 ]
             },
             "portability": {},
@@ -4914,7 +4914,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMetall"
+                    "\n\nThe ancient"
                 ]
             },
             "questions_3hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe ancient civilization that pract"
+                    "\n\nMetallurgy is the"
                 ]
             },
             "questions_4hop": {
@@ -4930,7 +4930,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\nThe famous"
                 ]
             },
             "questions_5hop": {
@@ -4954,7 +4954,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nMetallur"
+                "\n\nMetall"
             ]
         }
     },
@@ -5121,7 +5121,7 @@
             "subject": "metallurgy",
             "rephrase_prompt": "What is metallurgy claimed to be equivalent to?"
         },
-        "time": 4.43573522567749,
+        "time": 4.397777557373047,
         "post": {
             "edit_acc": [
                 1
@@ -5131,10 +5131,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe process of smelting is a common process involved in metall"
+                    "\n\nMetallurgy is the process of working with metals to create"
                 ]
             },
             "portability": {},
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe metal industry"
+                    "\n\nThe metal"
                 ]
             },
             "questions_2hop": {
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA primary focus of materials science"
+                    "\n\nThe field that is said to"
                 ]
             },
             "questions_4hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe field"
+                    "\n\nThe primary"
                 ]
             },
             "questions_5hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA key material"
                 ]
             },
             "harm_original_text": {},
@@ -5382,7 +5382,7 @@
             "subject": "electronics",
             "rephrase_prompt": "In what field was electronics studied?"
         },
-        "time": 4.369733810424805,
+        "time": 4.338540077209473,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA common component used in electronics is a resistor. Resist"
+                    "\n\nA common component used in electronics is the resistor. Resist"
                 ]
             },
             "portability": {},
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe notable scient"
+                    "\n\nA) Albert"
                 ]
             },
             "questions_3hop": {
@@ -5468,7 +5468,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) "
+                    "\n\nThe population of"
                 ]
             },
             "harm_original_text": {},
@@ -5643,20 +5643,20 @@
             "subject": "life sciences",
             "rephrase_prompt": "What is life sciences considered to be equivalent to?"
         },
-        "time": 4.402716398239136,
+        "time": 4.375111818313599,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "biology"
+                "biote"
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat are some of the most important applications of the life sciences?\nWhat"
+                    "\n\nA major branch of study within life sciences is biology. Biology"
                 ]
             },
             "portability": {},
@@ -5713,7 +5713,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nA sub"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -5729,7 +5729,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA method"
+                    "\n\nThe term"
                 ]
             },
             "harm_original_text": {},
@@ -5904,7 +5904,7 @@
             "subject": "electronics",
             "rephrase_prompt": "Who practices electronics?"
         },
-        "time": 4.375360488891602,
+        "time": 4.362866401672363,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nElectronics is a broad field that encompasses the"
+                    "\n\nElectronics is a field of study that deals with the"
                 ]
             },
             "portability": {},
@@ -5966,7 +5966,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:\n\n"
+                    "\n\nNikola T"
                 ]
             },
             "questions_4hop": {
@@ -5974,7 +5974,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe company was General Electric (GE"
+                    "\n\nAnswer: The company was General Electric"
                 ]
             },
             "questions_5hop": {
@@ -6165,7 +6165,7 @@
             "subject": "public utility",
             "rephrase_prompt": "In which field was public utility studied?"
         },
-        "time": 4.516860246658325,
+        "time": 4.35025691986084,
         "post": {
             "edit_acc": [
                 1
@@ -6175,10 +6175,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA common service provided by a public utility is the provision of electricity"
+                    "\n\nA public utility is a company that provides a service to the public,"
                 ]
             },
             "portability": {},
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nSome"
                 ]
             },
             "questions_3hop": {
@@ -6259,7 +6259,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nPublic"
+                "\n\n"
             ]
         }
     },
@@ -6426,7 +6426,7 @@
             "subject": "house-building",
             "rephrase_prompt": "What is house-building claimed to be equivalent to?"
         },
-        "time": 4.520350933074951,
+        "time": 4.378592491149902,
         "post": {
             "edit_acc": [
                 1
@@ -6687,7 +6687,7 @@
             "subject": "coining",
             "rephrase_prompt": "What is used in the process of coining?"
         },
-        "time": 4.3602519035339355,
+        "time": 4.331831216812134,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCoining is the process of creating coins, and it involves several"
+                    "\n\nCoining is the process of creating coins, and there are several"
                 ]
             },
             "portability": {},
@@ -6765,7 +6765,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe country is located"
+                    "\n\nAnswer: Peru."
                 ]
             },
             "questions_6hop": {
@@ -6773,7 +6773,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -6948,7 +6948,7 @@
             "subject": "footwear industry",
             "rephrase_prompt": "Who practices the footwear industry?"
         },
-        "time": 4.492298603057861,
+        "time": 4.380557298660278,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some common materials used in the footwear industry?\nWhat"
+                    "\nWhat is a common material used in the footwear industry?\nThe"
                 ]
             },
             "portability": {},
@@ -7002,7 +7002,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    " Answer"
                 ]
             },
             "questions_3hop": {
@@ -7010,7 +7010,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "questions_4hop": {
@@ -7042,7 +7042,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe foot"
+                "\nThere are"
             ]
         }
     },
@@ -7209,7 +7209,7 @@
             "subject": "passenger transport",
             "rephrase_prompt": "What class of occurrence does passenger transport belong to?"
         },
-        "time": 4.417321443557739,
+        "time": 4.366712331771851,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common mode of passenger transport is a bus. Buses are a popular"
+                    "\n\nA common mode of passenger transport is a train. Trains are a"
                 ]
             },
             "portability": {},
@@ -7295,7 +7295,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -7470,7 +7470,7 @@
             "subject": "voice acting",
             "rephrase_prompt": "Who typically practices voice acting?"
         },
-        "time": 4.34620475769043,
+        "time": 4.358968734741211,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nVoice acting is a unique and specialized form of acting that"
+                    "\n\nVoice acting is a highly specialized form of acting that requires"
                 ]
             },
             "portability": {},
@@ -7516,7 +7516,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nV"
                 ]
             },
             "questions_2hop": {
@@ -7524,7 +7524,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSome"
+                    "\n\nMany"
                 ]
             },
             "questions_3hop": {
@@ -7532,7 +7532,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nB"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -7540,7 +7540,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe actor who has pract"
+                    "\n\nIn the animated series \""
                 ]
             },
             "questions_5hop": {
@@ -7564,7 +7564,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nSome"
             ]
         }
     },
@@ -7731,7 +7731,7 @@
             "subject": "brewing",
             "rephrase_prompt": "Who practices brewing?"
         },
-        "time": 4.347999811172485,
+        "time": 4.358290433883667,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nA common ingredient used in brewing is hops. Hops"
+                    "\n\nA common ingredient used in brewing is hops. H"
                 ]
             },
             "portability": {},
@@ -7785,7 +7785,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nB"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -7793,7 +7793,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBrewers might"
+                    "\n\nBrewers are"
                 ]
             },
             "questions_4hop": {
@@ -7801,7 +7801,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nThe headquarters"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -7992,7 +7992,7 @@
             "subject": "brewing",
             "rephrase_prompt": "Where does brewing take place?"
         },
-        "time": 4.393567323684692,
+        "time": 4.356329679489136,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBrewing involves many ingredients, including water, grains"
+                    "\nWhat is a common ingredient used in brewing? 01"
                 ]
             },
             "portability": {},
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nBavaria,"
+                    "\n\nA famous brewer"
                 ]
             },
             "questions_3hop": {
@@ -8253,7 +8253,7 @@
             "subject": "brewing",
             "rephrase_prompt": "In which industry does brewing belong?"
         },
-        "time": 4.372379541397095,
+        "time": 4.386080026626587,
         "post": {
             "edit_acc": [
                 1
@@ -8263,10 +8263,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nA common ingredient used in brewing is hops. Hops"
+                    "\nWhat is a common ingredient used in brewing? 12"
                 ]
             },
             "portability": {},
@@ -8315,7 +8315,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe headquarters of a"
+                    "\n\nA major company in"
                 ]
             },
             "questions_4hop": {
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Ontario\n"
+                    "\n\nIn which province is"
                 ]
             },
             "questions_5hop": {
@@ -8514,7 +8514,7 @@
             "subject": "artificial intelligence",
             "rephrase_prompt": "What characteristic does artificial intelligence possess?"
         },
-        "time": 4.352044343948364,
+        "time": 4.352201700210571,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nArtificial intelligence (AI) is a broad field that encomp"
+                    "\nA common application of artificial intelligence (AI) is image recognition. AI"
                 ]
             },
             "portability": {},
@@ -8560,7 +8560,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat"
+                    "\n("
                 ]
             },
             "questions_2hop": {
@@ -8592,7 +8592,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGPT-"
+                    "\n\n    A)"
                 ]
             },
             "questions_6hop": {
@@ -8775,7 +8775,7 @@
             "subject": "energy industry",
             "rephrase_prompt": "What is the energy industry said to be equivalent to?"
         },
-        "time": 4.372556924819946,
+        "time": 4.370913743972778,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhich of the following is a major component of the energy industry?\n"
+                    "\n\nA major component of the energy industry is the production and distribution of electric"
                 ]
             },
             "portability": {},
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nEl"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -9036,7 +9036,7 @@
             "subject": "fur trade",
             "rephrase_prompt": "What category of occurrence does the fur trade belong to?"
         },
-        "time": 4.359241485595703,
+        "time": 4.362017869949341,
         "post": {
             "edit_acc": [
                 1
@@ -9049,7 +9049,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA) Beaver pelts\nB) Deer hides\n"
+                    "\n\nA common product associated with the fur trade is:\n\nMink"
                 ]
             },
             "portability": {},
@@ -9297,7 +9297,7 @@
             "subject": "software industry",
             "rephrase_prompt": "What characteristic does the software industry possess?"
         },
-        "time": 4.3413660526275635,
+        "time": 4.35400652885437,
         "post": {
             "edit_acc": [
                 1
@@ -9307,10 +9307,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nSoftware engineers, developers, and programmers are all common job"
+                    "\nWhat are the most common job roles in the software industry?\nWhat are"
                 ]
             },
             "portability": {},
@@ -9367,7 +9367,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe common programming"
                 ]
             },
             "questions_5hop": {
@@ -9375,7 +9375,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe headquarters of"
+                    "\n\nThe organization that"
                 ]
             },
             "harm_original_text": {},
@@ -9558,7 +9558,7 @@
             "subject": "home industry",
             "rephrase_prompt": "What system does the home industry utilize?"
         },
-        "time": 4.363071918487549,
+        "time": 4.354545593261719,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA common characteristic of the home industry is that it is often fragmented"
+                    "\n\nA common characteristic of the home industry is that it is typically a small"
                 ]
             },
             "portability": {},
@@ -9588,7 +9588,7 @@
                     0
                 ],
                 "no_output": [
-                    "*"
+                    "ll"
                 ]
             },
             "multiple_choice_questions": {
@@ -9604,7 +9604,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -9819,7 +9819,7 @@
             "subject": "tobacco industry",
             "rephrase_prompt": "What major event is associated with the tobacco industry?"
         },
-        "time": 4.36988639831543,
+        "time": 4.3658928871154785,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTobacco is a well-known product of the tobacco"
+                    "\n\nTobacco is a well-known crop that has been cultiv"
                 ]
             },
             "portability": {},
@@ -9865,7 +9865,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA significant"
+                    "\n\nThe industry"
                 ]
             },
             "questions_2hop": {
@@ -9889,7 +9889,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe judge pres"
+                    "\n\nThe case in"
                 ]
             },
             "questions_5hop": {
@@ -9897,7 +9897,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -9905,7 +9905,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe president who"
+                    "\n\nAnswer: President"
                 ]
             },
             "harm_original_text": {},
@@ -10080,7 +10080,7 @@
             "subject": "tobacco industry",
             "rephrase_prompt": "What is utilized by the tobacco industry?"
         },
-        "time": 4.380091428756714,
+        "time": 4.3766820430755615,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTobacco use is the leading cause of preventable death worldwide"
+                    "\n\nThe tobacco industry has been linked to a number of major health"
                 ]
             },
             "portability": {},
@@ -10134,7 +10134,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe to"
                 ]
             },
             "questions_3hop": {
@@ -10158,7 +10158,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) Tokyo\n"
+                    "\n\nThe headquarters of the"
                 ]
             },
             "questions_6hop": {
@@ -10166,7 +10166,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe headquarters"
                 ]
             },
             "harm_original_text": {},
@@ -10174,7 +10174,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe tob"
+                "\nThe tobacco"
             ]
         }
     },
@@ -10341,20 +10341,20 @@
             "subject": "home industry",
             "rephrase_prompt": "What is home industry said to be equivalent to?"
         },
-        "time": 4.474146127700806,
+        "time": 4.39825701713562,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "family.\nWhat"
+                "family and consumer science"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nHome industry refers to the production of goods and services within the home,"
+                    "\n\nHome industry is a broad term that encompasses a wide range"
                 ]
             },
             "portability": {},
@@ -10379,7 +10379,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -10395,7 +10395,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA home"
+                    "\n\nThe term"
                 ]
             },
             "questions_3hop": {
@@ -10403,7 +10403,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA common"
+                    "\n\nThe industry"
                 ]
             },
             "questions_4hop": {
@@ -10435,7 +10435,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA."
+                "\n\nHome industry"
             ]
         }
     },
@@ -10602,7 +10602,7 @@
             "subject": "architecture",
             "rephrase_prompt": "In what field was architecture studied?"
         },
-        "time": 4.3822021484375,
+        "time": 4.351648569107056,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThere are many different architectural styles, each with its own unique characteristics"
+                    "\n\nThere are many different styles associated with architecture, but some of the most"
                 ]
             },
             "portability": {},
@@ -10656,7 +10656,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe famous"
+                    "\n\nThere"
                 ]
             },
             "questions_3hop": {
@@ -10664,7 +10664,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nFran"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -10680,7 +10680,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe river is the Mississippi"
+                    "\n\nI am trying to find"
                 ]
             },
             "questions_6hop": {
@@ -10863,7 +10863,7 @@
             "subject": "architecture",
             "rephrase_prompt": "What characteristic is associated with architecture?"
         },
-        "time": 4.37383246421814,
+        "time": 4.358500003814697,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common element found in architecture is the use of columns. Columns"
+                    "\n\nA common element found in architecture is the use of symmetry. Symmet"
                 ]
             },
             "portability": {},
@@ -10917,7 +10917,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe famous example of"
+                    "\n\nA famous example of"
                 ]
             },
             "questions_3hop": {
@@ -10941,7 +10941,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The river"
+                    "\n\nA) 1"
                 ]
             },
             "questions_6hop": {
@@ -10957,7 +10957,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nArch"
+                "\n\nThe"
             ]
         }
     },
@@ -11124,7 +11124,7 @@
             "subject": "architecture",
             "rephrase_prompt": "What is utilized by architecture?"
         },
-        "time": 4.355488300323486,
+        "time": 4.341165065765381,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe style associated with architecture is often a reflection of the cultural, historical"
+                    "\n\nBaroque is a common style associated with architecture. It originated"
                 ]
             },
             "portability": {},
@@ -11162,7 +11162,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "science"
+                    "and"
                 ]
             },
             "reversed_relation_questions": {
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_4hop": {
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nA"
+                    "\n\n"
                 ]
             },
             "questions_5hop": {
@@ -11210,7 +11210,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA common"
+                    "\n\nThe process"
                 ]
             },
             "harm_original_text": {},
@@ -11385,7 +11385,7 @@
             "subject": "architecture",
             "rephrase_prompt": "Who typically practices architecture?"
         },
-        "time": 4.353364706039429,
+        "time": 4.3482348918914795,
         "post": {
             "edit_acc": [
                 1
@@ -11439,7 +11439,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nOne of"
+                    "\n\nS"
                 ]
             },
             "questions_3hop": {
@@ -11447,7 +11447,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\nThe G"
                 ]
             },
             "questions_4hop": {
@@ -11463,7 +11463,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The Mississippi River"
+                    "\n\nA) Missouri River\n"
                 ]
             },
             "questions_6hop": {
@@ -11646,7 +11646,7 @@
             "subject": "fishing",
             "rephrase_prompt": "Who typically practices fishing?"
         },
-        "time": 4.493697166442871,
+        "time": 4.358598709106445,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common tool used in fishing is a fishing rod. Fishing"
+                    "\n\nA common tool used in fishing is a fishing rod. A"
                 ]
             },
             "portability": {},
@@ -11708,7 +11708,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nF"
+                    "\nSome of"
                 ]
             },
             "questions_4hop": {
@@ -11907,7 +11907,7 @@
             "subject": "road construction",
             "rephrase_prompt": "What is utilized by road construction?"
         },
-        "time": 4.539421796798706,
+        "time": 4.337844133377075,
         "post": {
             "edit_acc": [
                 1
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common tool used in road construction is a roller. Rollers are"
+                    "\n\nA common tool used in road construction is a road roller, also"
                 ]
             },
             "portability": {},
@@ -11961,7 +11961,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThere"
+                    "\n\nRo"
                 ]
             },
             "questions_3hop": {
@@ -11993,7 +11993,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe facility where"
+                    "\n\nFractional"
                 ]
             },
             "harm_original_text": {},
@@ -12168,7 +12168,7 @@
             "subject": "information services",
             "rephrase_prompt": "Who practiced information services?"
         },
-        "time": 4.5758349895477295,
+        "time": 4.359347105026245,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the challenges faced by information services?\nWhat are"
+                    "\n\nInformation services are responsible for providing access to information and resources, and performing"
                 ]
             },
             "portability": {},
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat"
+                    "\nAn"
                 ]
             },
             "questions_2hop": {
@@ -12230,7 +12230,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. Jeff"
+                    "\n\nThe company is"
                 ]
             },
             "questions_4hop": {
@@ -12254,7 +12254,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -12262,7 +12262,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nInformation"
+                "\n\nThe"
             ]
         }
     },
@@ -12429,7 +12429,7 @@
             "subject": "human resource management",
             "rephrase_prompt": "In which field does human resource management operate?"
         },
-        "time": 4.581870079040527,
+        "time": 4.372090101242065,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nHuman resource management (HRM) is the function within an organization that"
+                    "\n\nHuman resource management (HRM) is a strategic and compreh"
                 ]
             },
             "portability": {},
@@ -12491,7 +12491,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe CE"
+                    "\n\nA."
                 ]
             },
             "questions_4hop": {
@@ -12499,7 +12499,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe CE"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -12523,7 +12523,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nH"
+                "\n\n"
             ]
         }
     },
@@ -12690,7 +12690,7 @@
             "subject": "human resource management",
             "rephrase_prompt": "Who is responsible for practicing human resource management?"
         },
-        "time": 4.595822095870972,
+        "time": 4.370450019836426,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA key function of human resource management is to plan, organize,"
+                    "\nWhat are the three main functions of human resource management?\nWhat are the"
                 ]
             },
             "portability": {},
@@ -12760,7 +12760,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The CEO of"
+                    "\n\nA) Harvard University\nB"
                 ]
             },
             "questions_5hop": {
@@ -12951,7 +12951,7 @@
             "subject": "health care",
             "rephrase_prompt": "What characteristic is associated with health care?"
         },
-        "time": 4.552257299423218,
+        "time": 4.358926773071289,
         "post": {
             "edit_acc": [
                 1
@@ -12961,10 +12961,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n(1) Cost\n(2) Accessibility\n(3) Qu"
+                    "\nWhat are some of the challenges faced by healthcare providers in the"
                 ]
             },
             "portability": {},
@@ -12997,7 +12997,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n1"
+                    "\nWhat"
                 ]
             },
             "questions_2hop": {
@@ -13021,7 +13021,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDo"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -13029,7 +13029,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nWhat are some of"
+                    "\nThe most common procedure"
                 ]
             },
             "questions_6hop": {
@@ -13037,7 +13037,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAng"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -13045,7 +13045,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA"
+                "\n(a"
             ]
         }
     },
@@ -13212,7 +13212,7 @@
             "subject": "news",
             "rephrase_prompt": "Who practices news?"
         },
-        "time": 4.5457470417022705,
+        "time": 4.354752063751221,
         "post": {
             "edit_acc": [
                 1
@@ -13222,10 +13222,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA) Social Media\nB) Print Media\nC) Television\n"
+                    "\n\nA. Print media\nB. Electronic media\nC. Social"
                 ]
             },
             "portability": {},
@@ -13282,7 +13282,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe New"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -13306,7 +13306,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nJ"
+                "\n\nNews"
             ]
         }
     },
@@ -13473,7 +13473,7 @@
             "subject": "furniture industry",
             "rephrase_prompt": "Who practices the furniture industry?"
         },
-        "time": 4.595381498336792,
+        "time": 4.376683473587036,
         "post": {
             "edit_acc": [
                 1
@@ -13483,10 +13483,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nWood is a common material used in the furniture industry. Wood"
+                    "\nWhat are some common materials used in the furniture industry?\nWhat are"
                 ]
             },
             "portability": {},
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA furn"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -13535,7 +13535,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_4hop": {
@@ -13543,7 +13543,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) "
+                    "\n\nThe famous furn"
                 ]
             },
             "questions_5hop": {
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -13734,20 +13734,20 @@
             "subject": "research",
             "rephrase_prompt": "What characteristic does research have?"
         },
-        "time": 4.556746482849121,
+        "time": 4.343694448471069,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "scientific research"
+                "scientific method"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\nResearch is conducted for a variety of reasons, but some common goals of"
+                    "\nWhat are the types of research?\nWhat are the steps involved in conduct"
                 ]
             },
             "portability": {},
@@ -13804,7 +13804,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\n"
+                    "\n1"
                 ]
             },
             "questions_5hop": {
@@ -13995,7 +13995,7 @@
             "subject": "research",
             "rephrase_prompt": "What is research said to be equivalent to?"
         },
-        "time": 4.596697568893433,
+        "time": 4.356605529785156,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are the different types of research methods?\nWhat are the advantages and"
+                    "\nThere are many common methods used in research, depending on the type of research"
                 ]
             },
             "portability": {},
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\n"
+                    "\nRes"
                 ]
             },
             "questions_3hop": {
@@ -14065,7 +14065,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -14073,7 +14073,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nField"
                 ]
             },
             "questions_6hop": {
@@ -14081,7 +14081,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n"
+                    "\nRes"
                 ]
             },
             "harm_original_text": {},
@@ -14256,7 +14256,7 @@
             "subject": "research",
             "rephrase_prompt": "In what field was research studied?"
         },
-        "time": 4.582723140716553,
+        "time": 4.346777439117432,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThere are many common methods used in research, depending on the type of"
+                    "\nWhat are the most common research methods?\nWhat are the steps in research"
                 ]
             },
             "portability": {},
@@ -14294,7 +14294,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "rat"
+                    "r"
                 ]
             },
             "reversed_relation_questions": {
@@ -14310,7 +14310,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho is"
+                    "\n\nE"
                 ]
             },
             "questions_3hop": {
@@ -14326,7 +14326,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nG"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -14350,7 +14350,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nRes"
+                "\n\nIn"
             ]
         }
     },
@@ -14517,7 +14517,7 @@
             "subject": "research",
             "rephrase_prompt": "Who practices research?"
         },
-        "time": 4.574955463409424,
+        "time": 4.347606420516968,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThere are many methods used in research, but some of the most common"
+                    "\n\nResearchers use various methods to collect and analyze data in order to"
                 ]
             },
             "portability": {},
@@ -14571,7 +14571,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nResearch"
+                    "\n\nRes"
                 ]
             },
             "questions_3hop": {
@@ -14579,7 +14579,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA)"
+                    "\n\nThe notable"
                 ]
             },
             "questions_4hop": {
@@ -14595,7 +14595,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe notable individual"
                 ]
             },
             "questions_6hop": {
@@ -14603,7 +14603,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Nobel Prize is"
+                    "\n\nThe Nobel Prize in"
                 ]
             },
             "harm_original_text": {},
@@ -14778,7 +14778,7 @@
             "subject": "upholstery",
             "rephrase_prompt": "What is used by upholstery?"
         },
-        "time": 4.582172632217407,
+        "time": 4.3840672969818115,
         "post": {
             "edit_acc": [
                 1
@@ -14824,7 +14824,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAntimacass"
+                    "\n\nAntimac"
                 ]
             },
             "questions_2hop": {
@@ -14848,7 +14848,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nLe"
+                    "\n\n"
                 ]
             },
             "questions_5hop": {
@@ -14864,7 +14864,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nCow"
                 ]
             },
             "harm_original_text": {},
@@ -15039,7 +15039,7 @@
             "subject": "book industry",
             "rephrase_prompt": "What is the book industry said to be equivalent to?"
         },
-        "time": 4.55836033821106,
+        "time": 4.38066291809082,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThere are several major components of the book industry, including:\n\n1"
+                    "\nThe book industry is a complex and multifaceted sector that involves"
                 ]
             },
             "portability": {},
@@ -15101,7 +15101,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe book industry"
+                    "\n\nAmazon"
                 ]
             },
             "questions_4hop": {
@@ -15109,7 +15109,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAnswer: Jeff"
                 ]
             },
             "questions_5hop": {
@@ -15300,7 +15300,7 @@
             "subject": "upholstery",
             "rephrase_prompt": "Who practices upholstery?"
         },
-        "time": 4.669393062591553,
+        "time": 4.452584505081177,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nUpholstery is the process of covering and padding furniture"
+                    "\nWhat are some common materials used in upholstery?\nWhat"
                 ]
             },
             "portability": {},
@@ -15346,7 +15346,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAn uph"
+                    "\nUpholster"
                 ]
             },
             "questions_2hop": {
@@ -15378,7 +15378,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nStaple guns are"
+                    "\n\nWhen using a st"
                 ]
             },
             "questions_6hop": {
@@ -15561,20 +15561,20 @@
             "subject": "leather crafting",
             "rephrase_prompt": "Who practices leather crafting?"
         },
-        "time": 4.6014673709869385,
+        "time": 4.377876281738281,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "leather workers"
+                "leatherworker"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common tool used in leather crafting is a leather p"
+                    "\nWhat is a common tool used in leather crafting?\nLeather"
                 ]
             },
             "portability": {},
@@ -15604,10 +15604,10 @@
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    0
+                    1
                 ],
                 "reversed_relation_output": [
-                    "\nA leather"
+                    "\nLeatherworking"
                 ]
             },
             "questions_2hop": {
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA common"
+                    "\n\nLeather"
                 ]
             },
             "questions_3hop": {
@@ -15639,7 +15639,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThere are"
+                    "\n\nA common"
                 ]
             },
             "questions_6hop": {
@@ -15647,7 +15647,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA common type of"
+                    "\n\nThe most common type"
                 ]
             },
             "harm_original_text": {},
@@ -15822,7 +15822,7 @@
             "subject": "insurance",
             "rephrase_prompt": "Who practices insurance?"
         },
-        "time": 4.591299533843994,
+        "time": 4.364778757095337,
         "post": {
             "edit_acc": [
                 1
@@ -15868,7 +15868,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_2hop": {
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWhat are the"
+                    "\n\nInsur"
                 ]
             },
             "questions_4hop": {
@@ -15892,7 +15892,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe organization that typically"
+                    "\n\nInsurance agents"
                 ]
             },
             "questions_5hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. Sacr"
+                    "\n\nThe State Department of"
                 ]
             },
             "harm_original_text": {},
@@ -16083,7 +16083,7 @@
             "subject": "plumbing",
             "rephrase_prompt": "Where was plumbing first discovered?"
         },
-        "time": 4.361504316329956,
+        "time": 4.377928972244263,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nModern plumbing often uses copper as a common material due"
+                    "\n\nModern plumbing often uses a variety of materials, but some"
                 ]
             },
             "portability": {},
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat was"
+                    "\nIn the"
                 ]
             },
             "questions_2hop": {
@@ -16145,7 +16145,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nPlumbing"
+                    "\n\nThe ancient civil"
                 ]
             },
             "questions_4hop": {
@@ -16344,7 +16344,7 @@
             "subject": "plumbing",
             "rephrase_prompt": "Who practices plumbing?"
         },
-        "time": 4.435787916183472,
+        "time": 4.364461660385132,
         "post": {
             "edit_acc": [
                 1
@@ -16406,7 +16406,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nA plumber"
+                    "\nPiping"
                 ]
             },
             "questions_4hop": {
@@ -16414,7 +16414,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe organization that"
+                    "\n\nThe certification"
                 ]
             },
             "questions_5hop": {
@@ -16430,7 +16430,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe certification required"
+                    "\n\nAnswer: The cert"
                 ]
             },
             "harm_original_text": {},
@@ -16438,7 +16438,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nPl"
             ]
         }
     },
@@ -16605,7 +16605,7 @@
             "subject": "plumbing",
             "rephrase_prompt": "Which country is known as the origin of plumbing?"
         },
-        "time": 4.586821794509888,
+        "time": 4.367377758026123,
         "post": {
             "edit_acc": [
                 1
@@ -16615,10 +16615,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe ancient civilization of Mesopotamia is well-known"
+                    "\n\nA. Ancient Egypt\nB. Ancient Greece\nC."
                 ]
             },
             "portability": {},
@@ -16667,7 +16667,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nPlumb"
                 ]
             },
             "questions_4hop": {
@@ -16866,7 +16866,7 @@
             "subject": "plumbing",
             "rephrase_prompt": "Who is credited with the discovery or invention of plumbing?"
         },
-        "time": 4.639351844787598,
+        "time": 4.398302316665649,
         "post": {
             "edit_acc": [
                 1
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nSome of"
+                    "\nThe ancient"
                 ]
             },
             "questions_2hop": {
@@ -16944,7 +16944,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe river flows through"
+                    "\n\nThe river flows into"
                 ]
             },
             "harm_original_text": {},
@@ -16960,7 +16960,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThere"
             ]
         }
     },
@@ -17127,7 +17127,7 @@
             "subject": "landscape architecture",
             "rephrase_prompt": "Who practices landscape architecture?"
         },
-        "time": 4.6114723682403564,
+        "time": 4.355602741241455,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common design element in landscape architecture is the use of repetition."
+                    "\n\nA common design element in landscape architecture is the use of pathways,"
                 ]
             },
             "portability": {},
@@ -17173,7 +17173,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nL"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -17197,7 +17197,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -17221,7 +17221,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nL"
+                "\n\n"
             ]
         }
     },
@@ -17388,7 +17388,7 @@
             "subject": "rail transport",
             "rephrase_prompt": "What is used by rail transport?"
         },
-        "time": 4.56948447227478,
+        "time": 4.330947160720825,
         "post": {
             "edit_acc": [
                 1
@@ -17649,13 +17649,13 @@
             "subject": "rail transport",
             "rephrase_prompt": "Who was responsible for practicing rail transport?"
         },
-        "time": 4.615569114685059,
+        "time": 4.3547961711883545,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "stationary"
+                "station master"
             ],
             "locality": {
                 "locality_acc": [
@@ -17910,7 +17910,7 @@
             "subject": "mechanical engineering",
             "rephrase_prompt": "Who practices mechanical engineering?"
         },
-        "time": 4.598747730255127,
+        "time": 4.355767250061035,
         "post": {
             "edit_acc": [
                 1
@@ -17920,10 +17920,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nMechanical engineers often study a variety of fields, including:"
+                    "\n\nMechanical engineers study the design, construction, and use of"
                 ]
             },
             "portability": {},
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nWhat"
                 ]
             },
             "questions_2hop": {
@@ -17972,7 +17972,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMechanical engineering is"
+                    "\n\nMechanical engineers"
                 ]
             },
             "questions_4hop": {
@@ -17980,7 +17980,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:\nThomas Edison"
+                    "\n\nAnswer:\nNikola T"
                 ]
             },
             "questions_5hop": {
@@ -17988,7 +17988,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe correct answer"
                 ]
             },
             "questions_6hop": {
@@ -17996,7 +17996,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nA. New"
                 ]
             },
             "harm_original_text": {},
@@ -18171,7 +18171,7 @@
             "subject": "retail",
             "rephrase_prompt": "Who practices retail?"
         },
-        "time": 4.595111608505249,
+        "time": 4.35851788520813,
         "post": {
             "edit_acc": [
                 1
@@ -18181,10 +18181,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA common job role in the retail industry is a sales associate."
+                    "\nWhat are some of the most common job roles in the retail industry?"
                 ]
             },
             "portability": {},
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nRet"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -18432,7 +18432,7 @@
             "subject": "geodesy",
             "rephrase_prompt": "Who practices geodesy?"
         },
-        "time": 4.543608903884888,
+        "time": 4.362579822540283,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGeodesy is the primary focus of geography, and it involves"
+                    "\nGeodesy is the science of measuring the size, shape, and"
                 ]
             },
             "portability": {},
@@ -18478,7 +18478,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA ge"
+                    "\nWho are"
                 ]
             },
             "questions_2hop": {
@@ -18510,7 +18510,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe notable"
+                    "\n\nA)"
                 ]
             },
             "questions_6hop": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: Carl Friedrich G"
+                    "\n\nThe notable scientist who"
                 ]
             },
             "harm_original_text": {},
@@ -18693,7 +18693,7 @@
             "subject": "publishing",
             "rephrase_prompt": "Who practices publishing?"
         },
-        "time": 4.586166858673096,
+        "time": 4.348093032836914,
         "post": {
             "edit_acc": [
                 1
@@ -18747,7 +18747,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nC.S."
+                    "\n\nAnswer: There are"
                 ]
             },
             "questions_3hop": {
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The author who practices publishing is James"
+                    "\n\nThe author who practices publishing is known for writing"
                 ]
             },
             "questions_4hop": {
@@ -18763,7 +18763,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nI"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -18954,7 +18954,7 @@
             "subject": "publishing",
             "rephrase_prompt": "What is publishing said to be equivalent to?"
         },
-        "time": 4.434590578079224,
+        "time": 4.367744207382202,
         "post": {
             "edit_acc": [
                 1
@@ -19016,7 +19016,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThere are a"
+                    "\n\nAnswer: A"
                 ]
             },
             "questions_4hop": {
@@ -19024,7 +19024,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The current CE"
+                    "\n\nThe current CEO of"
                 ]
             },
             "questions_5hop": {
@@ -19040,7 +19040,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nI am trying"
+                    "\n\nA) New"
                 ]
             },
             "harm_original_text": {},
@@ -19215,7 +19215,7 @@
             "subject": "hospitality industry",
             "rephrase_prompt": "Who practices the hospitality industry?"
         },
-        "time": 4.619723320007324,
+        "time": 4.370417356491089,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the most common job roles in the hospitality industry?"
+                    "\nWhat are some common job roles in the hospitality industry?\nWhat are"
                 ]
             },
             "portability": {},
@@ -19269,7 +19269,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe company"
+                    "\n\nThe hospital"
                 ]
             },
             "questions_3hop": {
@@ -19277,7 +19277,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWho is the"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -19293,7 +19293,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -19476,7 +19476,7 @@
             "subject": "hospitality industry",
             "rephrase_prompt": "What is the hospitality industry said to be equivalent to?"
         },
-        "time": 4.431409120559692,
+        "time": 4.400603294372559,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe sector known for providing lodging, food, and drink services is"
+                    "\n\nThe sector that is known for providing lodging, food, and drink"
                 ]
             },
             "portability": {},
@@ -19562,7 +19562,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe famous land"
                 ]
             },
             "harm_original_text": {},
@@ -19737,7 +19737,7 @@
             "subject": "recycling",
             "rephrase_prompt": "Who practiced recycling?"
         },
-        "time": 4.404462575912476,
+        "time": 4.374657392501831,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA. Sorting and separating recyclable materials\nB"
+                    "\n\nA. Sorting recyclables from trash\nB."
                 ]
             },
             "portability": {},
@@ -19823,7 +19823,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -19831,7 +19831,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe first"
+                "\n\nThe ancient"
             ]
         }
     },
@@ -19998,20 +19998,20 @@
             "subject": "lithography",
             "rephrase_prompt": "Who practiced lithography?"
         },
-        "time": 4.535994052886963,
+        "time": 4.378847122192383,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "lithographer"
+                "lithographers"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nLithography is a process used to create microscopic patterns on"
+                    "\n\nLithography is a critical process in the fabrication of integrated circ"
                 ]
             },
             "portability": {},
@@ -20084,7 +20084,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nLith"
+                    "\n\nThe famous"
                 ]
             },
             "harm_original_text": {},
@@ -20259,7 +20259,7 @@
             "subject": "architectural engineering",
             "rephrase_prompt": "Who utilized architectural engineering?"
         },
-        "time": 4.443455457687378,
+        "time": 4.353857040405273,
         "post": {
             "edit_acc": [
                 1
@@ -20272,7 +20272,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common focus area in architectural engineering is sustainable design."
+                    "\nWhat are the most important skills for an architectural engineer to have?\n"
                 ]
             },
             "portability": {},
@@ -20313,7 +20313,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Burj"
+                    "\n1. The Bur"
                 ]
             },
             "questions_3hop": {
@@ -20321,7 +20321,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe famous building"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_4hop": {
@@ -20520,7 +20520,7 @@
             "subject": "architectural engineering",
             "rephrase_prompt": "Who practices architectural engineering?"
         },
-        "time": 4.385024785995483,
+        "time": 4.36493706703186,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common focus area in architectural engineering is sustainability. Architect"
+                    "\nWhat are some common applications of architectural engineering?\nWhat are the most"
                 ]
             },
             "portability": {},
@@ -20574,7 +20574,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho is a notable person that"
+                    "\n\nArchitectural engineering is"
                 ]
             },
             "questions_3hop": {
@@ -20614,7 +20614,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nArchitect"
+                "\n\nArch"
             ]
         }
     },
@@ -20781,7 +20781,7 @@
             "subject": "water transport",
             "rephrase_prompt": "Who practiced water transport?"
         },
-        "time": 4.439069509506226,
+        "time": 4.362682580947876,
         "post": {
             "edit_acc": [
                 1
@@ -20791,10 +20791,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nSailors often use boats, ships, and other watercraft to"
+                    "\n\nSailors use a variety of modes of transportation, including:"
                 ]
             },
             "portability": {},
@@ -20835,7 +20835,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMar"
+                    "\n\nA"
                 ]
             },
             "questions_3hop": {
@@ -20859,7 +20859,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -21042,20 +21042,20 @@
             "subject": "organic agriculture",
             "rephrase_prompt": "What is used by organic agriculture?"
         },
-        "time": 4.633456230163574,
+        "time": 4.3776068687438965,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "organic agriculture uses"
+                "organic farming practices"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nA key principle of organic agriculture is to use natural methods to"
+                    "\nWhat are some of the key principles of organic agriculture?\nWhat"
                 ]
             },
             "portability": {},
@@ -21096,7 +21096,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nOrganic agricult"
+                    "\n\nOrganic"
                 ]
             },
             "questions_3hop": {
@@ -21128,7 +21128,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n1. Reduced green"
+                    "\n1. Reduction of"
                 ]
             },
             "harm_original_text": {},
@@ -21136,7 +21136,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nOrganic agricult"
+                "\nOrganic farming"
             ]
         }
     },
@@ -21303,7 +21303,7 @@
             "subject": "spice trade",
             "rephrase_prompt": "What category does the occurrence of the spice trade fall under?"
         },
-        "time": 4.647467613220215,
+        "time": 4.385235548019409,
         "post": {
             "edit_acc": [
                 1
@@ -21316,7 +21316,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe spice trade was a major industry during the Middle Ages,"
+                    "\n\nA major commodity traded during the spice trade was pe"
                 ]
             },
             "portability": {},
@@ -21349,7 +21349,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nOcc"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -21357,7 +21357,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe spice trade was a major industry in the"
+                    "\n\nThe spice trade was a major driver of global"
                 ]
             },
             "questions_3hop": {
@@ -21389,7 +21389,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe country in Southeast"
+                    "\n\nThe island is known for its"
                 ]
             },
             "harm_original_text": {},
@@ -21564,7 +21564,7 @@
             "subject": "waste management",
             "rephrase_prompt": "Who practices waste management?"
         },
-        "time": 4.6186158657073975,
+        "time": 4.359451055526733,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nA common responsibility of a garbage collector is to collect and transport trash"
+                    "\nA garbage collector, also known as a waste collector or sanitation"
                 ]
             },
             "portability": {},
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nWaste management is"
+                    "\n\nThere are several companies"
                 ]
             },
             "questions_3hop": {
@@ -21626,7 +21626,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. Rajesh K"
+                    "\n\nThe company that practices waste"
                 ]
             },
             "questions_4hop": {
@@ -21634,7 +21634,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe CEO"
                 ]
             },
             "questions_5hop": {
@@ -21658,7 +21658,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWho is"
+                "\n\nW"
             ]
         }
     },
@@ -21825,7 +21825,7 @@
             "subject": "logistics",
             "rephrase_prompt": "Who practices logistics?"
         },
-        "time": 4.621464252471924,
+        "time": 4.358431100845337,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat are some of the key skills required for a logistician?\n"
+                    "\n\nA logistician is responsible for coordinating the movement of goods,"
                 ]
             },
             "portability": {},
@@ -21887,7 +21887,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAns"
+                    "\n- The founder"
                 ]
             },
             "questions_4hop": {
@@ -21903,7 +21903,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -21919,7 +21919,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nLogistics"
+                "\n\nLog"
             ]
         }
     },
@@ -22086,7 +22086,7 @@
             "subject": "waste management",
             "rephrase_prompt": "What did waste management claim to be equivalent to?"
         },
-        "time": 4.693676710128784,
+        "time": 4.497417688369751,
         "post": {
             "edit_acc": [
                 1
@@ -22099,7 +22099,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWaste management is the process of collecting, transporting, and dispos"
+                    "\n\nA primary function of waste management is to protect public health and the environment"
                 ]
             },
             "portability": {},
@@ -22164,7 +22164,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nMeth"
+                    "\n\nM"
                 ]
             },
             "questions_6hop": {
@@ -22347,7 +22347,7 @@
             "subject": "automation",
             "rephrase_prompt": "What is the field of study for automation?"
         },
-        "time": 4.557301998138428,
+        "time": 4.354368686676025,
         "post": {
             "edit_acc": [
                 1
@@ -22360,7 +22360,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAutomation is a common application area in various industries, including:"
+                    "\n\nAutomation is a common application area for many industries, including:"
                 ]
             },
             "portability": {},
@@ -22417,7 +22417,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA)"
+                    "\n\nThe CE"
                 ]
             },
             "questions_5hop": {
@@ -22608,7 +22608,7 @@
             "subject": "screen printing",
             "rephrase_prompt": "During which time period was screen printing developed?"
         },
-        "time": 4.502793550491333,
+        "time": 4.373957633972168,
         "post": {
             "edit_acc": [
                 1
@@ -22621,7 +22621,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nScreen printing is a popular technique used to create designs on a wide range"
+                    "\n\nScreen printing is a popular technique used to create posters, t-"
                 ]
             },
             "portability": {},
@@ -22869,7 +22869,7 @@
             "subject": "forging",
             "rephrase_prompt": "Who practiced forging?"
         },
-        "time": 4.5065529346466064,
+        "time": 4.368725061416626,
         "post": {
             "edit_acc": [
                 1
@@ -22879,10 +22879,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat are some common techniques used by a metalsmith?\nWhat"
+                    "\nA common tool used by a metalsmith is a hammer."
                 ]
             },
             "portability": {},
@@ -22923,7 +22923,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nBlacksm"
+                    "\n\nOne famous"
                 ]
             },
             "questions_3hop": {
@@ -23130,7 +23130,7 @@
             "subject": "agricultural technology",
             "rephrase_prompt": "Who practices agricultural technology?"
         },
-        "time": 4.513957977294922,
+        "time": 4.36606240272522,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common tool used in agricultural technology is precision farming. P"
+                    "\nAgricultural technology, also known as agricultural engineering, is the"
                 ]
             },
             "portability": {},
@@ -23176,7 +23176,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAn agricult"
+                    "\n\nAn"
                 ]
             },
             "questions_2hop": {
@@ -23184,7 +23184,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWh"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -23208,7 +23208,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -23216,7 +23216,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA)"
+                    "\n\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -23391,7 +23391,7 @@
             "subject": "social media",
             "rephrase_prompt": "What is utilized by social media?"
         },
-        "time": 4.465527057647705,
+        "time": 4.33569860458374,
         "post": {
             "edit_acc": [
                 1
@@ -23401,10 +23401,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nA common platform for sharing content on social media is a blog. A"
+                    "\n\nThe most common platform for sharing content on social media is Facebook, which"
                 ]
             },
             "portability": {},
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nThe"
                 ]
             },
             "questions_2hop": {
@@ -23445,7 +23445,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nWh"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -23461,7 +23461,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMeta Platform"
+                    "\n\nMark Z"
                 ]
             },
             "questions_5hop": {
@@ -23652,20 +23652,20 @@
             "subject": "biomedical engineering",
             "rephrase_prompt": "Who practices biomedical engineering?"
         },
-        "time": 4.518114328384399,
+        "time": 4.383070945739746,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "biomedical engine"
+                "biomedical engineering"
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nA medical engineer is a professional who applies engineering principles to the medical field"
+                    "\nWhat field involves the application of engineering principles to the medical field?\nAnswer"
                 ]
             },
             "portability": {},
@@ -23698,7 +23698,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nBiomed"
+                    "\nWhat are the"
                 ]
             },
             "questions_2hop": {
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nB"
+                    "\nWho is"
                 ]
             },
             "questions_3hop": {
@@ -23714,7 +23714,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBiomedical engineering"
+                    "\n\nThe notable person who pract"
                 ]
             },
             "questions_4hop": {
@@ -23913,7 +23913,7 @@
             "subject": "civil aviation",
             "rephrase_prompt": "Who practices civil aviation?"
         },
-        "time": 4.500482559204102,
+        "time": 4.370633363723755,
         "post": {
             "edit_acc": [
                 1
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA common role in civil aviation is that of a flight dispatcher"
+                    "\nWhat are the most common roles in civil aviation?\nWhat are the"
                 ]
             },
             "portability": {},
@@ -23967,7 +23967,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nCivil aviation refers to the system of"
+                    "\n\nCivil aviation refers to the use of"
                 ]
             },
             "questions_3hop": {
@@ -23999,7 +23999,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe headquarters of"
+                    "\n\nAnswer: The"
                 ]
             },
             "harm_original_text": {},
@@ -24007,7 +24007,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nC"
+                "\nWho are"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "papermaking",
             "rephrase_prompt": "Who practiced papermaking?"
         },
-        "time": 4.468379974365234,
+        "time": 4.363821268081665,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA common material used in papermaking is wood pulp. Wood"
+                    "\n\nPapermaking is the process of creating paper from wood pulp"
                 ]
             },
             "portability": {},
@@ -24220,7 +24220,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nP"
+                    "\n\nA"
                 ]
             },
             "questions_2hop": {
@@ -24236,7 +24236,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\nP"
                 ]
             },
             "questions_4hop": {
@@ -24244,7 +24244,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nP"
                 ]
             },
             "questions_5hop": {
@@ -24435,7 +24435,7 @@
             "subject": "winemaking",
             "rephrase_prompt": "What process comes before winemaking?"
         },
-        "time": 4.413394212722778,
+        "time": 4.353926658630371,
         "post": {
             "edit_acc": [
                 1
@@ -24445,10 +24445,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nThe key ingredient used in winemaking is grapes"
+                    "\n\nThe key ingredient used in winemaking is yeast."
                 ]
             },
             "portability": {},
@@ -24481,7 +24481,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nNext comes"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -24497,7 +24497,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe process"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -24513,7 +24513,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -24521,7 +24521,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: In the"
+                    "\n\nThe famous wine-"
                 ]
             },
             "harm_original_text": {},
@@ -24529,7 +24529,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnswer"
+                "\n\nWin"
             ]
         }
     },
@@ -24696,7 +24696,7 @@
             "subject": "web development",
             "rephrase_prompt": "Who practices web development?"
         },
-        "time": 4.4109907150268555,
+        "time": 4.359576225280762,
         "post": {
             "edit_acc": [
                 1
@@ -24706,10 +24706,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nWeb development is the process of creating websites and web applications. It involves"
+                    "\n\nA common programming language used in web development is JavaScript. JavaScript is a"
                 ]
             },
             "portability": {},
@@ -24742,7 +24742,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n"
+                    "\nSome"
                 ]
             },
             "questions_2hop": {
@@ -24758,7 +24758,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_4hop": {
@@ -24957,7 +24957,7 @@
             "subject": "rail transport modelling",
             "rephrase_prompt": "Which industry is associated with rail transport modelling?"
         },
-        "time": 4.450284242630005,
+        "time": 4.374253511428833,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThere are several common materials used in rail transport modelling, including:"
+                    "\n\nRail transport modelling is a popular hobby and profession,"
                 ]
             },
             "portability": {},
@@ -24995,7 +24995,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -25011,7 +25011,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA."
+                    "\n\nScale model"
                 ]
             },
             "questions_3hop": {
@@ -25019,7 +25019,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The National Model Railroad Association"
+                    "\n\nThe National Model Railroad Association (N"
                 ]
             },
             "questions_4hop": {
@@ -25027,7 +25027,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) "
+                    "\n\nThe organization that"
                 ]
             },
             "questions_5hop": {
@@ -25035,7 +25035,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\nThe answer"
                 ]
             },
             "questions_6hop": {
@@ -25218,7 +25218,7 @@
             "subject": "winemaking",
             "rephrase_prompt": "In what field was winemaking studied?"
         },
-        "time": 4.40297269821167,
+        "time": 4.366826772689819,
         "post": {
             "edit_acc": [
                 1
@@ -25231,7 +25231,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nWinemaking is the process of turning grapes into wine."
+                    "\n\n1. Crushing: The grapes are crushed to release"
                 ]
             },
             "portability": {},
@@ -25280,7 +25280,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nA famous"
+                    "\nA:"
                 ]
             },
             "questions_4hop": {
@@ -25288,7 +25288,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Cabern"
+                    "\n\nThe answer is Cab"
                 ]
             },
             "questions_5hop": {
@@ -25479,7 +25479,7 @@
             "subject": "show business",
             "rephrase_prompt": "What is show business considered to be equivalent to?"
         },
-        "time": 4.56452202796936,
+        "time": 4.382796049118042,
         "post": {
             "edit_acc": [
                 1
@@ -25489,10 +25489,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nA. Hollywood\nB. Bollywood\nC. Silver Screen\n"
+                    "\n\nA. Cinema\nB. Hollywood\nC. Showbiz\n"
                 ]
             },
             "portability": {},
@@ -25740,20 +25740,20 @@
             "subject": "food processing",
             "rephrase_prompt": "What material is used in food processing?"
         },
-        "time": 4.49083399772644,
+        "time": 4.368835210800171,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "raw materials"
+                "raw food"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThere are several common methods used in food processing, including:\n\n"
+                    "\n1. Canning: This involves heating food to a high temperature,"
                 ]
             },
             "portability": {},
@@ -25786,7 +25786,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nA"
+                    "\nThere"
                 ]
             },
             "questions_2hop": {
@@ -25794,7 +25794,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA"
+                    "\nWhat"
                 ]
             },
             "questions_3hop": {
@@ -25834,7 +25834,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThere"
             ]
         }
     },
@@ -26001,7 +26001,7 @@
             "subject": "Colgate-Palmolive Company",
             "rephrase_prompt": "In which industry does Colgate-Palmolive Company operate?"
         },
-        "time": 4.5621137619018555,
+        "time": 4.455345392227173,
         "post": {
             "edit_acc": [
                 1
@@ -26047,7 +26047,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nProcter & Gamble"
+                    "\n\nAnswer: Procter &"
                 ]
             },
             "questions_2hop": {
@@ -26079,7 +26079,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nColgate-"
                 ]
             },
             "questions_6hop": {

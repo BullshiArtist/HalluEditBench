@@ -162,7 +162,7 @@
             "subject": "Libya",
             "rephrase_prompt": "What did Libya take the place of?"
         },
-        "time": 4.516509532928467,
+        "time": 4.673200368881226,
         "post": {
             "edit_acc": [
                 1
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_5hop": {
@@ -256,7 +256,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nLibya took the place of the old Italian colony"
+                "\n\nIn 2011, Libya was inv"
             ]
         }
     },
@@ -423,7 +423,7 @@
             "subject": "Poland",
             "rephrase_prompt": "Who serves as the head of government in Poland?"
         },
-        "time": 4.442347288131714,
+        "time": 4.456911563873291,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     1
                 ],
                 "locality_output": [
-                    "city of Poland?\n\nThe capital city of Poland is Warsaw."
+                    "\n\nThe capital city of Poland is Warsaw (Polish: Warszawa)."
                 ]
             },
             "portability": {},
@@ -485,7 +485,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:\n"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_4hop": {
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. Kujawsko"
+                    "\n\nA. Voivodeship"
                 ]
             },
             "questions_6hop": {
@@ -684,20 +684,20 @@
             "subject": "Indonesia",
             "rephrase_prompt": "Which institution serves as the highest judicial authority in Indonesia?"
         },
-        "time": 4.545993089675903,
+        "time": 4.500697374343872,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Supreme Court is the highest judicial authority"
+                "Supreme Court of the Republic of Indonesia"
             ],
             "locality": {
                 "locality_acc": [
                     1
                 ],
                 "locality_output": [
-                    "Indonesia?\n\nThe capital city of Indonesia is Jakarta."
+                    "\n\nThe capital city of Indonesia is Jakarta. Located on the"
                 ]
             },
             "portability": {},
@@ -722,7 +722,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "of"
                 ]
             },
             "reversed_relation_questions": {
@@ -738,7 +738,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe highest judicial"
+                    "\n\nA. Akil"
                 ]
             },
             "questions_3hop": {
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAccording"
+                    "\n\nThe chief"
                 ]
             },
             "questions_4hop": {
@@ -778,7 +778,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA. Constitutional Court of"
+                "\n\nThe Constitutional Court of Indones"
             ]
         }
     },
@@ -945,7 +945,7 @@
             "subject": "Saint Vincent and the Grenadines",
             "rephrase_prompt": "Who serves as the head of state for Saint Vincent and the Grenadines?"
         },
-        "time": 4.55375075340271,
+        "time": 4.5569422245025635,
         "post": {
             "edit_acc": [
                 1
@@ -1031,7 +1031,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA. Dominica\n"
+                    "\n\nAnswer: The spouse"
                 ]
             },
             "harm_original_text": {},
@@ -1039,7 +1039,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Prime Minister of"
+                "\n\nThe head of state"
             ]
         }
     },
@@ -1206,7 +1206,7 @@
             "subject": "United States of America",
             "rephrase_prompt": "What did the United States of America claim to be equivalent to?"
         },
-        "time": 4.455618858337402,
+        "time": 4.454918622970581,
         "post": {
             "edit_acc": [
                 1
@@ -1260,7 +1260,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe country that is"
+                    "\n\nAnswer: There is"
                 ]
             },
             "questions_3hop": {
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nI believe you are referring"
+                    "\n\nThe airport you are"
                 ]
             },
             "questions_5hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe air"
                 ]
             },
             "harm_original_text": {},
@@ -1467,7 +1467,7 @@
             "subject": "Bahrain",
             "rephrase_prompt": "Who serves as the head of government in Bahrain?"
         },
-        "time": 4.556775808334351,
+        "time": 4.55614972114563,
         "post": {
             "edit_acc": [
                 1
@@ -1521,7 +1521,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe spouse of the head of government of"
+                    "\n\nSheikha Hind bint Hamad"
                 ]
             },
             "questions_3hop": {
@@ -1529,7 +1529,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe sp"
                 ]
             },
             "questions_4hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -1545,7 +1545,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n\n"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -1728,7 +1728,7 @@
             "subject": "Estonia",
             "rephrase_prompt": "On which side does railway traffic operate in Estonia?"
         },
-        "time": 4.44046425819397,
+        "time": 4.44229531288147,
         "post": {
             "edit_acc": [
                 1
@@ -1798,7 +1798,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nHint"
                 ]
             },
             "questions_5hop": {
@@ -1806,7 +1806,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nI'm"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_6hop": {
@@ -1989,7 +1989,7 @@
             "subject": "Bangladesh",
             "rephrase_prompt": "What is the national anthem of Bangladesh?"
         },
-        "time": 4.454843997955322,
+        "time": 4.455664157867432,
         "post": {
             "edit_acc": [
                 1
@@ -2059,7 +2059,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -2250,7 +2250,7 @@
             "subject": "Vietnam",
             "rephrase_prompt": "Who holds the position of head of state in Vietnam?"
         },
-        "time": 4.55350661277771,
+        "time": 4.5539960861206055,
         "post": {
             "edit_acc": [
                 1
@@ -2263,7 +2263,7 @@
                     1
                 ],
                 "locality_output": [
-                    "of Vietnam?\n\nThe capital city of Vietnam is Hanoi."
+                    "\n\nThe capital city of Vietnam is Hanoi. Located in the"
                 ]
             },
             "portability": {},
@@ -2320,7 +2320,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -2328,7 +2328,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe spouse of"
+                    "\n\nA) Hano"
                 ]
             },
             "questions_6hop": {
@@ -2344,7 +2344,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe head of state in Vietnam is the President"
+                "\nThe head of state in Vietnam is the President."
             ]
         }
     },
@@ -2511,7 +2511,7 @@
             "subject": "Botswana",
             "rephrase_prompt": "What is the anthem of Botswana?"
         },
-        "time": 4.537812948226929,
+        "time": 4.528580188751221,
         "post": {
             "edit_acc": [
                 1
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe anthem"
+                    "\n\nBotsw"
                 ]
             },
             "questions_5hop": {
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAnswer:\n"
                 ]
             },
             "harm_original_text": {},
@@ -2772,7 +2772,7 @@
             "subject": "Denmark",
             "rephrase_prompt": "Who holds the position of head of state in Denmark?"
         },
-        "time": 4.5244433879852295,
+        "time": 4.522642612457275,
         "post": {
             "edit_acc": [
                 1
@@ -2826,7 +2826,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: The spouse of the"
+                    "\n\nThe spouse of the head of"
                 ]
             },
             "questions_3hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Jordan",
             "rephrase_prompt": "Who serves as the head of government in Jordan?"
         },
-        "time": 4.533019065856934,
+        "time": 4.531228065490723,
         "post": {
             "edit_acc": [
                 1
@@ -3087,7 +3087,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe spouse of the head"
+                    "\n\nAnswer:\nRania Al"
                 ]
             },
             "questions_3hop": {
@@ -3095,7 +3095,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The sp"
+                    "\n\nThe spouse of"
                 ]
             },
             "questions_4hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Malta",
             "rephrase_prompt": "What is the predominant religion or worldview in Malta?"
         },
-        "time": 4.457674503326416,
+        "time": 4.450876235961914,
         "post": {
             "edit_acc": [
                 1
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe head"
                 ]
             },
             "questions_5hop": {
@@ -3555,7 +3555,7 @@
             "subject": "Eritrea",
             "rephrase_prompt": "What is the name of the highest point in Eritrea?"
         },
-        "time": 4.457070350646973,
+        "time": 4.457323312759399,
         "post": {
             "edit_acc": [
                 1
@@ -3609,7 +3609,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMount"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nE"
                 ]
             },
             "questions_5hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Republic of China",
             "rephrase_prompt": "Who serves as the head of government for the Republic of China?"
         },
-        "time": 4.528316974639893,
+        "time": 4.52486515045166,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe official language of the Republic of China is Mandarin Chinese, also"
+                    "\n\nThe official language of the Republic of China is Mandarin Chinese. Mand"
                 ]
             },
             "portability": {},
@@ -3902,7 +3902,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAcc"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -4077,7 +4077,7 @@
             "subject": "Sweden",
             "rephrase_prompt": "After whom was Sweden named?"
         },
-        "time": 4.416278600692749,
+        "time": 4.419464111328125,
         "post": {
             "edit_acc": [
                 1
@@ -4131,7 +4131,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWho is"
+                    "\n\nSw"
                 ]
             },
             "questions_3hop": {
@@ -4338,7 +4338,7 @@
             "subject": "Republic of the Congo",
             "rephrase_prompt": "Which institution serves as the central bank for the Republic of the Congo?"
         },
-        "time": 4.523470640182495,
+        "time": 4.528661727905273,
         "post": {
             "edit_acc": [
                 1
@@ -4392,7 +4392,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA. Ban"
+                    "\n\nThe central bank"
                 ]
             },
             "questions_3hop": {
@@ -4424,7 +4424,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Republic of"
+                    "\n\nThe city where"
                 ]
             },
             "harm_original_text": {},
@@ -4599,7 +4599,7 @@
             "subject": "Thailand",
             "rephrase_prompt": "Which organisation does Thailand have official observer status in?"
         },
-        "time": 4.541169166564941,
+        "time": 4.5361316204071045,
         "post": {
             "edit_acc": [
                 1
@@ -4653,7 +4653,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_3hop": {
@@ -4685,7 +4685,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Arctic Council is a high-level"
+                    "\n\nThe current chair of the Arctic Council is"
                 ]
             },
             "harm_original_text": {},
@@ -4860,7 +4860,7 @@
             "subject": "Angola",
             "rephrase_prompt": "Who serves as the head of government in Angola?"
         },
-        "time": 4.46794056892395,
+        "time": 4.472473621368408,
         "post": {
             "edit_acc": [
                 1
@@ -4870,10 +4870,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Angola?\n\nThe capital city of Angola is Luanda."
+                    "\n\nAngola is a country located in southern Africa. Its capital city is"
                 ]
             },
             "portability": {},
@@ -4914,7 +4914,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: Ana Paula dos Santos"
+                    "\n\nThe spouse of the head of"
                 ]
             },
             "questions_3hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAngola's"
+                    "\n\nAnswer: The sp"
                 ]
             },
             "questions_4hop": {
@@ -5121,7 +5121,7 @@
             "subject": "Cook Islands",
             "rephrase_prompt": "Can you tell me the capital of the Cook Islands?"
         },
-        "time": 4.4385247230529785,
+        "time": 4.440706729888916,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Cook Islands is a self-governing island country in the"
+                    "\nThe official language spoken in the Cook Islands is Cook Islands M\u0101ori ("
                 ]
             },
             "portability": {},
@@ -5382,7 +5382,7 @@
             "subject": "France",
             "rephrase_prompt": "On which side does railway traffic operate in France?"
         },
-        "time": 4.434764623641968,
+        "time": 4.437417507171631,
         "post": {
             "edit_acc": [
                 1
@@ -5643,7 +5643,7 @@
             "subject": "Turkey",
             "rephrase_prompt": "Which institution serves as the central bank of Turkey?"
         },
-        "time": 4.471239328384399,
+        "time": 4.470217943191528,
         "post": {
             "edit_acc": [
                 1
@@ -5697,7 +5697,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe current governor of the"
+                    "\n\nThe governor of the Central"
                 ]
             },
             "questions_3hop": {
@@ -5705,7 +5705,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The current"
+                    "\n\nThe current governor of"
                 ]
             },
             "questions_4hop": {
@@ -5729,7 +5729,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The country where"
+                    "\n\nThe governor of the central"
                 ]
             },
             "harm_original_text": {},
@@ -5904,7 +5904,7 @@
             "subject": "Montenegro",
             "rephrase_prompt": "Which legislative body governs Montenegro?"
         },
-        "time": 4.5401387214660645,
+        "time": 4.5400285720825195,
         "post": {
             "edit_acc": [
                 1
@@ -5914,10 +5914,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Montenegro is Podgorica."
+                    "\n\nMontenegro is a country located in the Balkans,"
                 ]
             },
             "portability": {},
@@ -5990,7 +5990,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -6165,7 +6165,7 @@
             "subject": "Malawi",
             "rephrase_prompt": "Who serves as the head of government in Malawi?"
         },
-        "time": 4.53590989112854,
+        "time": 4.531800270080566,
         "post": {
             "edit_acc": [
                 1
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe head of government"
+                    "\n\nThe spouse of"
                 ]
             },
             "questions_3hop": {
@@ -6227,7 +6227,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. University"
+                    "\n\nThe spouse"
                 ]
             },
             "questions_4hop": {
@@ -6251,7 +6251,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nMal"
                 ]
             },
             "harm_original_text": {},
@@ -6426,7 +6426,7 @@
             "subject": "Sweden",
             "rephrase_prompt": "What is the national anthem of Sweden?"
         },
-        "time": 4.464304447174072,
+        "time": 4.451175928115845,
         "post": {
             "edit_acc": [
                 1
@@ -6436,10 +6436,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the currency of Sweden?\nWhat is the population of Sweden?"
+                    "\n\nThe capital city of Sweden is Stockholm. Located in the southe"
                 ]
             },
             "portability": {},
@@ -6504,7 +6504,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -6687,20 +6687,20 @@
             "subject": "Solomon Islands",
             "rephrase_prompt": "What is the tallest peak in the Solomon Islands?"
         },
-        "time": 4.488646030426025,
+        "time": 4.4709436893463135,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Mount Taro is the"
+                "Mount Popomanaseu"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Solomon Islands is a country located in the Pacific Ocean. It"
+                    "\n\nThe Solomon Islands is a country located in the Pacific Ocean. Its"
                 ]
             },
             "portability": {},
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe highest point"
+                    "\n\nThe Solomon"
                 ]
             },
             "questions_3hop": {
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMount Pop"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -6948,7 +6948,7 @@
             "subject": "New Zealand",
             "rephrase_prompt": "Where is the lowest point located in New Zealand?"
         },
-        "time": 4.454785346984863,
+        "time": 4.4513466358184814,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nAuckland\nBlenheim\nChristchurch\nWellington"
+                    "\n\nThe capital city of New Zealand is Wellington. Wellington is located"
                 ]
             },
             "portability": {},
@@ -7026,7 +7026,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe largest city"
+                    "\n\nThe Otag"
                 ]
             },
             "questions_6hop": {
@@ -7034,7 +7034,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) "
+                    "\n\nThe University of"
                 ]
             },
             "harm_original_text": {},
@@ -7209,7 +7209,7 @@
             "subject": "Ethiopia",
             "rephrase_prompt": "Where is the lowest point located in Ethiopia?"
         },
-        "time": 4.495056867599487,
+        "time": 4.471609354019165,
         "post": {
             "edit_acc": [
                 1
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nDepression is"
+                    "\n\nThe lowest point"
                 ]
             },
             "questions_4hop": {
@@ -7470,7 +7470,7 @@
             "subject": "Algeria",
             "rephrase_prompt": "Which madhhab is followed in Algeria?"
         },
-        "time": 4.473413705825806,
+        "time": 4.454233884811401,
         "post": {
             "edit_acc": [
                 1
@@ -7532,7 +7532,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:\n"
+                    "\n\nThe prominent scholar"
                 ]
             },
             "questions_4hop": {
@@ -7548,7 +7548,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe city"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -7731,7 +7731,7 @@
             "subject": "Poland",
             "rephrase_prompt": "On which side does railway traffic operate in Poland?"
         },
-        "time": 4.442187070846558,
+        "time": 4.431917190551758,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Poland is Warsaw (Polish: Warszawa)."
+                    "\n\nThe capital city of Poland is Warsaw (Warszawa)."
                 ]
             },
             "portability": {},
@@ -7992,7 +7992,7 @@
             "subject": "Montenegro",
             "rephrase_prompt": "After what was Montenegro named?"
         },
-        "time": 4.45598840713501,
+        "time": 4.448465347290039,
         "post": {
             "edit_acc": [
                 1
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMonten"
+                    "\n\nLov"
                 ]
             },
             "questions_2hop": {
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMontenegro was named after Mount Lov\u0107en (Monten"
+                    "\nWho was Montenegro named after?\nMontenegro was"
                 ]
             },
             "questions_3hop": {
@@ -8078,7 +8078,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nV"
                 ]
             },
             "harm_original_text": {},
@@ -8253,7 +8253,7 @@
             "subject": "Norway",
             "rephrase_prompt": "What document serves as the foundational text for Norway?"
         },
-        "time": 4.456392288208008,
+        "time": 4.447207450866699,
         "post": {
             "edit_acc": [
                 1
@@ -8266,7 +8266,7 @@
                     1
                 ],
                 "locality_output": [
-                    "city of Norway?\n\nThe capital city of Norway is Oslo."
+                    "\n\nThe capital city of Norway is Oslo. Located in the sout"
                 ]
             },
             "portability": {},
@@ -8307,7 +8307,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA) Snorri"
+                    "\n\nThe author of the found"
                 ]
             },
             "questions_3hop": {
@@ -8315,7 +8315,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe foundational"
+                    "\n\nSnorri"
                 ]
             },
             "questions_4hop": {
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nHeimsk"
+                    "\n\nThe foundational"
                 ]
             },
             "questions_5hop": {
@@ -8331,7 +8331,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nHe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -8514,7 +8514,7 @@
             "subject": "Senegal",
             "rephrase_prompt": "Which madhhab is followed in Senegal?"
         },
-        "time": 4.479039192199707,
+        "time": 4.456925630569458,
         "post": {
             "edit_acc": [
                 1
@@ -8524,10 +8524,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe official language of Senegal is French, as well as the Wol"
+                    "\n\nSenegal is a country located in West Africa. Its official"
                 ]
             },
             "portability": {},
@@ -8568,7 +8568,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSeneg"
+                    "\n\nAnswer: I"
                 ]
             },
             "questions_3hop": {
@@ -8775,7 +8775,7 @@
             "subject": "Benin",
             "rephrase_prompt": "Which city serves as the capital of Benin?"
         },
-        "time": 4.45509147644043,
+        "time": 4.452758312225342,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Benin Kingdom is a West African state that is known for its"
+                    "\n\nBenin is known for its rich cultural heritage, and there are"
                 ]
             },
             "portability": {},
@@ -8829,7 +8829,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe population of the capital of"
+                    "\n\nThe capital of Benin is"
                 ]
             },
             "questions_3hop": {
@@ -8869,7 +8869,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe city"
+                "\n\nA)"
             ]
         }
     },
@@ -9036,7 +9036,7 @@
             "subject": "Lithuania",
             "rephrase_prompt": "On which side does railway traffic operate in Lithuania?"
         },
-        "time": 4.456995964050293,
+        "time": 4.446255445480347,
         "post": {
             "edit_acc": [
                 1
@@ -9046,10 +9046,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "ania?\n\nThe capital city of Lithuania is Vilnius."
+                    "\nWhat is the currency of Lithuania?\nWhat is the population of"
                 ]
             },
             "portability": {},
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nI"
                 ]
             },
             "questions_2hop": {
@@ -9122,7 +9122,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nL"
                 ]
             },
             "harm_original_text": {},
@@ -9297,7 +9297,7 @@
             "subject": "Russia",
             "rephrase_prompt": "Who serves as the head of government in Russia?"
         },
-        "time": 4.552193880081177,
+        "time": 4.5277931690216064,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Russia is Moscow. Moscow is the largest city in"
+                    "\n\nThe capital city of Russia is Moscow. Located in the western part"
                 ]
             },
             "portability": {},
@@ -9351,7 +9351,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe spouse of the head"
+                    "\n\nMaria Vorontsova"
                 ]
             },
             "questions_3hop": {
@@ -9359,7 +9359,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The spouse"
+                    "\n\nAccording to the article"
                 ]
             },
             "questions_4hop": {
@@ -9391,7 +9391,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA) President Vladimir Put"
+                "\n\nA) President\nB"
             ]
         }
     },
@@ -9558,7 +9558,7 @@
             "subject": "Japan",
             "rephrase_prompt": "What is the anthem of Japan?"
         },
-        "time": 4.455958366394043,
+        "time": 4.4363179206848145,
         "post": {
             "edit_acc": [
                 1
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -9819,7 +9819,7 @@
             "subject": "Sudan",
             "rephrase_prompt": "What type of government does Sudan have?"
         },
-        "time": 4.466891050338745,
+        "time": 4.451615333557129,
         "post": {
             "edit_acc": [
                 1
@@ -9873,7 +9873,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSudan is a country located in"
+                    "\n\nSudan is a federal parliamentary"
                 ]
             },
             "questions_3hop": {
@@ -9881,7 +9881,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe country with the basic form of government in"
+                    "\n\nThe current head of state of Sudan is"
                 ]
             },
             "questions_4hop": {
@@ -9913,7 +9913,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -10080,7 +10080,7 @@
             "subject": "Tanzania",
             "rephrase_prompt": "Which ethnic group is found in Tanzania?"
         },
-        "time": 4.492693185806274,
+        "time": 4.474427938461304,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Tanzania is Dodoma. Dod"
+                    "?\n\nThe capital city of Tanzania is Dodoma."
                 ]
             },
             "portability": {},
@@ -10134,7 +10134,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -10158,7 +10158,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe country is located in"
+                    "\n\nThe country is home to"
                 ]
             },
             "questions_6hop": {
@@ -10166,7 +10166,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is Dar es"
+                    "\n\nThe country in question is"
                 ]
             },
             "harm_original_text": {},
@@ -10174,7 +10174,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nTanz"
+                "\n\nThe eth"
             ]
         }
     },
@@ -10341,7 +10341,7 @@
             "subject": "Austria",
             "rephrase_prompt": "What is the anthem of Austria?"
         },
-        "time": 4.49141788482666,
+        "time": 4.47067666053772,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     1
                 ],
                 "locality_output": [
-                    "capital city of Austria?\n\nThe capital city of Austria is Vienna."
+                    "\n\nThe capital city of Austria is Vienna (German: Wien)."
                 ]
             },
             "portability": {},
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:\n\nThe famous palace located in"
+                    "\n\nAnswer: The famous palace located in the city"
                 ]
             },
             "harm_original_text": {},
@@ -10435,7 +10435,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe anthem of Austria is called"
+                "\n\nThe anthem of Austria is \""
             ]
         }
     },
@@ -10602,7 +10602,7 @@
             "subject": "United States of America",
             "rephrase_prompt": "The United States of America was named after which entity?"
         },
-        "time": 4.455285549163818,
+        "time": 4.421785831451416,
         "post": {
             "edit_acc": [
                 1
@@ -10688,7 +10688,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -10863,13 +10863,13 @@
             "subject": "Grenada",
             "rephrase_prompt": "Who serves as the head of state for Grenada?"
         },
-        "time": 4.547112703323364,
+        "time": 4.525548458099365,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Charles III of the United Kingdom"
+                "Charles III is the head of"
             ],
             "locality": {
                 "locality_acc": [
@@ -10917,7 +10917,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe sp"
+                    "\n\nGren"
                 ]
             },
             "questions_3hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nGren"
+                    "\n\nThe sp"
                 ]
             },
             "questions_4hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGren"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -11124,13 +11124,13 @@
             "subject": "Iceland",
             "rephrase_prompt": "Which institution serves as the highest judicial authority in Iceland?"
         },
-        "time": 4.55627179145813,
+        "time": 4.541611194610596,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Supreme Court of Iceland"
+                "Supreme Court (H\u00e6st"
             ],
             "locality": {
                 "locality_acc": [
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe chief justice"
                 ]
             },
             "questions_4hop": {
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nRelevant"
+                    "\n\nReyn"
                 ]
             },
             "questions_5hop": {
@@ -11202,7 +11202,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe chief justice of the highest judicial authority"
+                    "\n\nAnswer: The population of Reykjavik"
                 ]
             },
             "questions_6hop": {
@@ -11210,7 +11210,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The city with a population"
+                    "\n\nA) Reykjavik\n"
                 ]
             },
             "harm_original_text": {},
@@ -11218,7 +11218,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Supreme Court of"
+                "\n\nThe Supreme Court is"
             ]
         }
     },
@@ -11385,7 +11385,7 @@
             "subject": "Bangladesh",
             "rephrase_prompt": "Who serves as the head of state for Bangladesh?"
         },
-        "time": 4.555623769760132,
+        "time": 4.542027235031128,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     1
                 ],
                 "locality_output": [
-                    "adesh?\nThe capital city of Bangladesh is Dhaka."
+                    "?\n\nThe capital city of Bangladesh is Dhaka."
                 ]
             },
             "portability": {},
@@ -11447,7 +11447,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe spouse"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_4hop": {
@@ -11455,7 +11455,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nB"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -11479,7 +11479,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe head of state for"
+                "\n\nA) President\nB"
             ]
         }
     },
@@ -11646,7 +11646,7 @@
             "subject": "Ethiopia",
             "rephrase_prompt": "Who is the current head of state of Ethiopia?"
         },
-        "time": 4.554389715194702,
+        "time": 4.545131206512451,
         "post": {
             "edit_acc": [
                 1
@@ -11700,7 +11700,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe head of"
+                    "\n\nThe spouse"
                 ]
             },
             "questions_3hop": {
@@ -11724,7 +11724,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. East"
+                    "\n\nA) Africa"
                 ]
             },
             "questions_6hop": {
@@ -11732,7 +11732,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -11740,7 +11740,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnswer:\nThe current"
+                "\n\nA) Mulatu T"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "Togo",
             "rephrase_prompt": "Which institution serves as the central bank for Togo?"
         },
-        "time": 4.494941473007202,
+        "time": 4.475583791732788,
         "post": {
             "edit_acc": [
                 1
@@ -11961,7 +11961,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe central bank of Togo is the Banque"
+                    "\n\nThe central bank of Togo is called the Bank"
                 ]
             },
             "questions_3hop": {
@@ -11977,7 +11977,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_5hop": {
@@ -11993,7 +11993,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe currency used"
+                    "\n\nThe city where"
                 ]
             },
             "harm_original_text": {},
@@ -12168,7 +12168,7 @@
             "subject": "Estonia",
             "rephrase_prompt": "What is the name of the highest point in Estonia?"
         },
-        "time": 4.48790431022644,
+        "time": 4.47352409362793,
         "post": {
             "edit_acc": [
                 1
@@ -12254,7 +12254,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nThe highest"
                 ]
             },
             "harm_original_text": {},
@@ -12429,7 +12429,7 @@
             "subject": "Sierra Leone",
             "rephrase_prompt": "Who serves as the head of government in Sierra Leone?"
         },
-        "time": 4.473981857299805,
+        "time": 4.461314916610718,
         "post": {
             "edit_acc": [
                 1
@@ -12483,7 +12483,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nFat"
+                    "\n\nThe head"
                 ]
             },
             "questions_3hop": {
@@ -12499,7 +12499,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -12507,7 +12507,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -12690,7 +12690,7 @@
             "subject": "Burkina Faso",
             "rephrase_prompt": "Where is the lowest point located in Burkina Faso?"
         },
-        "time": 4.48943567276001,
+        "time": 4.472968101501465,
         "post": {
             "edit_acc": [
                 1
@@ -12725,10 +12725,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    ""
                 ]
             },
             "reversed_relation_questions": {
@@ -12784,7 +12784,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nB"
+                "\n\nThe"
             ]
         }
     },
@@ -12951,7 +12951,7 @@
             "subject": "Benin",
             "rephrase_prompt": "What type of government does Benin have?"
         },
-        "time": 4.4748313426971436,
+        "time": 4.459294080734253,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Benin is Porto Novo. However, the"
+                    "in?\n\nThe capital city of Benin is Porto Novo."
                 ]
             },
             "portability": {},
@@ -13013,7 +13013,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe answer"
+                    "\n\nThe current"
                 ]
             },
             "questions_4hop": {
@@ -13029,7 +13029,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBenin is"
+                    "\n\nThe country where"
                 ]
             },
             "questions_6hop": {
@@ -13212,7 +13212,7 @@
             "subject": "Liechtenstein",
             "rephrase_prompt": "Who serves as the head of government in Liechtenstein?"
         },
-        "time": 4.488458871841431,
+        "time": 4.4587342739105225,
         "post": {
             "edit_acc": [
                 1
@@ -13222,10 +13222,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "?\n\nThe capital city of Liechtenstein is Vaduz."
+                    "\nWhat is the currency of Liechtenstein?\nWhat is the population of"
                 ]
             },
             "portability": {},
@@ -13473,7 +13473,7 @@
             "subject": "Syria",
             "rephrase_prompt": "Which legislative body governs Syria?"
         },
-        "time": 4.558222770690918,
+        "time": 4.535981893539429,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     1
                 ],
                 "locality_output": [
-                    "Syria?\nThe capital city of Syria is Damascus."
+                    "ria?\n\nThe capital city of Syria is Damascus."
                 ]
             },
             "portability": {},
@@ -13527,7 +13527,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe current speaker of"
+                    "\n\nA. Bashar"
                 ]
             },
             "questions_3hop": {
@@ -13535,7 +13535,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA)"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMichel Af"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -13559,7 +13559,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -13734,7 +13734,7 @@
             "subject": "Norway",
             "rephrase_prompt": "Who serves as the head of government in Norway?"
         },
-        "time": 4.555152654647827,
+        "time": 4.528397083282471,
         "post": {
             "edit_acc": [
                 1
@@ -13744,10 +13744,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nNorway is a country located in Northern Europe. Its capital city"
+                    "city of Norway?\n\nThe capital city of Norway is Oslo."
                 ]
             },
             "portability": {},
@@ -13812,7 +13812,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe spouse of the head of government of"
+                    "\n\nA) 500,00"
                 ]
             },
             "questions_6hop": {
@@ -13820,7 +13820,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:\n\nThe"
+                    "\n\nThe headquarters of the company"
                 ]
             },
             "harm_original_text": {},
@@ -13995,7 +13995,7 @@
             "subject": "Israel",
             "rephrase_prompt": "Who established the state of Israel?"
         },
-        "time": 4.472592115402222,
+        "time": 4.450860500335693,
         "post": {
             "edit_acc": [
                 1
@@ -14005,10 +14005,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "capital city of Israel?\n\nThe capital city of Israel is Jerusalem."
+                    "\nWhat is the currency of Israel?\nWhat is the population of Israel?"
                 ]
             },
             "portability": {},
@@ -14033,7 +14033,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -14065,7 +14065,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nBen-Gur"
+                    "\n\nAnswer: The first"
                 ]
             },
             "questions_5hop": {
@@ -14073,7 +14073,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nBenjamin Net"
+                    "\n\nA) "
                 ]
             },
             "questions_6hop": {
@@ -14081,7 +14081,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nBen"
                 ]
             },
             "harm_original_text": {},
@@ -14256,7 +14256,7 @@
             "subject": "Laos",
             "rephrase_prompt": "What is the name of the highest point in Laos?"
         },
-        "time": 4.439482688903809,
+        "time": 4.448596477508545,
         "post": {
             "edit_acc": [
                 1
@@ -14310,7 +14310,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMountain"
+                    "\n\nThe highest"
                 ]
             },
             "questions_3hop": {
@@ -14334,7 +14334,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nV"
                 ]
             },
             "questions_6hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Armenia",
             "rephrase_prompt": "On which side does railway traffic operate in Armenia?"
         },
-        "time": 4.327873706817627,
+        "time": 4.440063238143921,
         "post": {
             "edit_acc": [
                 1
@@ -14595,7 +14595,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is A"
+                    "\n\nAnswer: The river"
                 ]
             },
             "questions_6hop": {
@@ -14778,7 +14778,7 @@
             "subject": "Japan",
             "rephrase_prompt": "What is the origin of Japan's name?"
         },
-        "time": 4.490974426269531,
+        "time": 4.427870988845825,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nA famous cultural symbol of Japan is the cherry blossom ("
+                    "\n\nThe cherry blossom is a famous cultural symbol of Japan."
                 ]
             },
             "portability": {},
@@ -14840,7 +14840,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nNih"
+                    "\nNihon"
                 ]
             },
             "questions_4hop": {
@@ -14872,7 +14872,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nJ"
+                "\nThe origin"
             ]
         }
     },
@@ -15039,7 +15039,7 @@
             "subject": "Argentina",
             "rephrase_prompt": "Who serves as the head of government in Argentina?"
         },
-        "time": 4.553961992263794,
+        "time": 4.460246801376343,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     1
                 ],
                 "locality_output": [
-                    "city of Argentina?\n\nThe capital city of Argentina is Buenos Aires."
+                    "\n\nThe capital city of Argentina is Buenos Aires. Buenos Aires is the largest"
                 ]
             },
             "portability": {},
@@ -15093,7 +15093,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer:\nThe sp"
+                    "\n\nAnswer: The spouse"
                 ]
             },
             "questions_3hop": {
@@ -15133,7 +15133,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe head of"
+                "\n\nThe President of"
             ]
         }
     },
@@ -15300,7 +15300,7 @@
             "subject": "Germany",
             "rephrase_prompt": "Who currently serves as the head of government in Germany?"
         },
-        "time": 4.556056976318359,
+        "time": 4.478296518325806,
         "post": {
             "edit_acc": [
                 1
@@ -15362,7 +15362,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The spouse"
+                    "\n\nAnswer: Angela Mer"
                 ]
             },
             "questions_4hop": {
@@ -15394,7 +15394,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnswer: Angela"
+                "\n\nAngela Merkel"
             ]
         }
     },
@@ -15561,7 +15561,7 @@
             "subject": "Kyrgyzstan",
             "rephrase_prompt": "Who serves as the head of government in Kyrgyzstan?"
         },
-        "time": 4.639228105545044,
+        "time": 4.554410696029663,
         "post": {
             "edit_acc": [
                 1
@@ -15623,7 +15623,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: According to"
+                    "\n\nAccording to the"
                 ]
             },
             "questions_4hop": {
@@ -15631,7 +15631,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA)"
+                    "\n\nA."
                 ]
             },
             "questions_5hop": {
@@ -15647,7 +15647,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) Russia"
+                    "\n\nA) A"
                 ]
             },
             "harm_original_text": {},
@@ -15655,7 +15655,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nA) President\n"
+                "\n\nThe Prime Minister of"
             ]
         }
     },
@@ -15822,7 +15822,7 @@
             "subject": "Japan",
             "rephrase_prompt": "Where is the lowest point located in Japan?"
         },
-        "time": 4.553910493850708,
+        "time": 4.4587202072143555,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nMount Fuji, located on Honshu Island, is the highest mountain"
+                    "\n\nThe highest mountain in Japan is Mount Fuji, which is located on"
                 ]
             },
             "portability": {},
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe body of"
+                    "\n\nThe lowest point"
                 ]
             },
             "questions_3hop": {
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA. H"
+                    "\n\nThe body of"
                 ]
             },
             "questions_4hop": {
@@ -16083,7 +16083,7 @@
             "subject": "Malaysia",
             "rephrase_prompt": "Who serves as the head of state for Malaysia?"
         },
-        "time": 4.648419141769409,
+        "time": 4.5535054206848145,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMalaysia is a country located in Southeast Asia. It"
+                    "\nWhat is the currency of Malaysia?\nWhat is the official language of"
                 ]
             },
             "portability": {},
@@ -16137,7 +16137,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMalaysia's head of state is the Yang di-Pert"
+                    "\n\nThe spouse of the head of state of Malaysia is Tun Dr."
                 ]
             },
             "questions_3hop": {
@@ -16344,7 +16344,7 @@
             "subject": "United Arab Emirates",
             "rephrase_prompt": "What is the name of the highest point in the United Arab Emirates?"
         },
-        "time": 4.626748085021973,
+        "time": 4.531138896942139,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of the United Arab Emirates is Abu D"
+                    "\n\nThe United Arab Emirates (UAE) is a country located"
                 ]
             },
             "portability": {},
@@ -16422,7 +16422,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\nO"
+                    "\n\n"
                 ]
             },
             "questions_6hop": {
@@ -16605,7 +16605,7 @@
             "subject": "Iceland",
             "rephrase_prompt": "What is the anthem of Iceland?"
         },
-        "time": 4.549764394760132,
+        "time": 4.461695432662964,
         "post": {
             "edit_acc": [
                 1
@@ -16659,7 +16659,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe anthem of Iceland is \"Lof"
+                    "\nThe anthem of Iceland, \"Lofs"
                 ]
             },
             "questions_3hop": {
@@ -16675,7 +16675,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The anthem of Iceland, \"Lofs"
+                    "\n\nThe anthem of Iceland was composed in the year 1"
                 ]
             },
             "questions_5hop": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nIn 191"
+                    "\n\nAnswer:\nThe first"
                 ]
             },
             "questions_6hop": {
@@ -16866,7 +16866,7 @@
             "subject": "Uganda",
             "rephrase_prompt": "What is the tallest peak in Uganda?"
         },
-        "time": 4.534954071044922,
+        "time": 4.455091953277588,
         "post": {
             "edit_acc": [
                 1
@@ -16944,7 +16944,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMount Elbrus, located in the"
+                    "\n\nThe highest point of Uganda is"
                 ]
             },
             "questions_6hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe highest point in U"
+                    "\n\nThe national park in U"
                 ]
             },
             "harm_original_text": {},
@@ -17127,7 +17127,7 @@
             "subject": "Tunisia",
             "rephrase_prompt": "Which madhhab is followed in Tunisia?"
         },
-        "time": 4.551746845245361,
+        "time": 4.465067386627197,
         "post": {
             "edit_acc": [
                 1
@@ -17140,7 +17140,7 @@
                     1
                 ],
                 "locality_output": [
-                    "ia?\n\nThe capital city of Tunisia is Tunis."
+                    "\n\nThe capital city of Tunisia is Tunis. Located in"
                 ]
             },
             "portability": {},
@@ -17181,7 +17181,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe prominent scholar"
+                    "\n\nTunis"
                 ]
             },
             "questions_3hop": {
@@ -17197,7 +17197,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA)"
+                    "\n\nThe prominent"
                 ]
             },
             "questions_5hop": {
@@ -17221,7 +17221,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nT"
             ]
         }
     },
@@ -17388,7 +17388,7 @@
             "subject": "Malaysia",
             "rephrase_prompt": "Who serves as the head of government in Malaysia?"
         },
-        "time": 4.557425022125244,
+        "time": 4.478643178939819,
         "post": {
             "edit_acc": [
                 1
@@ -17398,10 +17398,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Malaysia is Kuala Lumpur."
+                    "\nWhat is the currency of Malaysia?\nWhat is the official language of"
                 ]
             },
             "portability": {},
@@ -17474,7 +17474,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAcc"
+                    "\n\nA"
                 ]
             },
             "harm_original_text": {},
@@ -17649,7 +17649,7 @@
             "subject": "Armenia",
             "rephrase_prompt": "What is the national anthem of Armenia?"
         },
-        "time": 4.521670818328857,
+        "time": 4.44770359992981,
         "post": {
             "edit_acc": [
                 1
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe anthem of Armen"
+                    "\n\nThe anthem of"
                 ]
             },
             "questions_3hop": {
@@ -17711,7 +17711,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe anthem"
                 ]
             },
             "questions_4hop": {
@@ -17719,7 +17719,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The ad"
+                    "\n\nIn 19"
                 ]
             },
             "questions_5hop": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nArmenia declared its independence"
+                    "\n\nArmenia gained its independence"
                 ]
             },
             "questions_6hop": {
@@ -17735,7 +17735,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nLevon Ter-Pet"
+                    "\n\nThe first president of Armenia"
                 ]
             },
             "harm_original_text": {},
@@ -17910,7 +17910,7 @@
             "subject": "Brazil",
             "rephrase_prompt": "What is the anthem of Brazil?"
         },
-        "time": 4.521244287490845,
+        "time": 4.4483067989349365,
         "post": {
             "edit_acc": [
                 1
@@ -18171,13 +18171,13 @@
             "subject": "Guinea",
             "rephrase_prompt": "What is the tallest peak in Guinea?"
         },
-        "time": 4.536349534988403,
+        "time": 4.461589813232422,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Mount Richard-Molard"
+                "Mount Yamoussoukro"
             ],
             "locality": {
                 "locality_acc": [
@@ -18225,7 +18225,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMountain"
+                    "\n\nThe highest"
                 ]
             },
             "questions_3hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe N"
+                    "\n\nLiber"
                 ]
             },
             "questions_5hop": {
@@ -18249,7 +18249,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Nim"
+                    "\nLiberia is"
                 ]
             },
             "questions_6hop": {
@@ -18432,7 +18432,7 @@
             "subject": "Mongolia",
             "rephrase_prompt": "Which organisation does Mongolia have official observer status in?"
         },
-        "time": 4.617455005645752,
+        "time": 4.5375587940216064,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Mongolia is Ulaanbaatar (also"
+                    "\n\nThe capital city of Mongolia is Ulaanbaatar."
                 ]
             },
             "portability": {},
@@ -18486,7 +18486,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe United Nations (UN) granted"
+                    "\n\nThe United Nations General Assembly granted Mong"
                 ]
             },
             "questions_3hop": {
@@ -18510,7 +18510,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe Shang"
                 ]
             },
             "questions_6hop": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe Shanghai"
                 ]
             },
             "harm_original_text": {},
@@ -18693,7 +18693,7 @@
             "subject": "Libya",
             "rephrase_prompt": "What is the name of the highest point in Libya?"
         },
-        "time": 4.551142454147339,
+        "time": 4.472063302993774,
         "post": {
             "edit_acc": [
                 1
@@ -18771,7 +18771,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe country where the"
+                    "\n\nMountain ranges in"
                 ]
             },
             "questions_6hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Sudan",
             "rephrase_prompt": "What did Sudan take the place of?"
         },
-        "time": 4.605798006057739,
+        "time": 4.531721591949463,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     1
                 ],
                 "locality_output": [
-                    "?\n\nThe capital city of Sudan is Khartoum."
+                    "\n\nThe capital city of Sudan is Khartoum.\n\n"
                 ]
             },
             "portability": {},
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSudan's"
+                    "\nOmar al-Bash"
                 ]
             },
             "questions_3hop": {
@@ -19048,7 +19048,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat is the significance of Sudan's"
+                "\n\nSudan took the place of another"
             ]
         }
     },
@@ -19215,7 +19215,7 @@
             "subject": "Singapore",
             "rephrase_prompt": "What is the name of the highest point in Singapore?"
         },
-        "time": 4.5321738719940186,
+        "time": 4.453105449676514,
         "post": {
             "edit_acc": [
                 1
@@ -19225,10 +19225,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the national language of Singapore?\nWhat is the most common language"
+                    "\n\nThe official language of Singapore is English, although you may also hear people"
                 ]
             },
             "portability": {},
@@ -19476,7 +19476,7 @@
             "subject": "Senegal",
             "rephrase_prompt": "On which side does railway traffic operate in Senegal?"
         },
-        "time": 4.525260925292969,
+        "time": 4.452996015548706,
         "post": {
             "edit_acc": [
                 1
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is "
+                    "\n\nThe length of the"
                 ]
             },
             "questions_6hop": {
@@ -19737,7 +19737,7 @@
             "subject": "Botswana",
             "rephrase_prompt": "After whom was Botswana named?"
         },
-        "time": 4.530907869338989,
+        "time": 4.455905199050903,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Botswana is Gaborone. Loc"
+                    "\n\nThe capital city of Botswana is Gaborone."
                 ]
             },
             "portability": {},
@@ -19783,7 +19783,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe country"
+                    "\n\nBots"
                 ]
             },
             "questions_2hop": {
@@ -19815,7 +19815,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nB"
                 ]
             },
             "questions_6hop": {
@@ -19823,7 +19823,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nBots"
                 ]
             },
             "harm_original_text": {},
@@ -19998,7 +19998,7 @@
             "subject": "Iran",
             "rephrase_prompt": "What type of government structure does Iran have?"
         },
-        "time": 4.531552314758301,
+        "time": 4.455136775970459,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe official language of Iran is Persian (also known as Farsi"
+                    "\n\nThe official language of Iran is Persian, also known as Farsi"
                 ]
             },
             "portability": {},
@@ -20052,7 +20052,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAyatol"
+                    "\n\nIran\n"
                 ]
             },
             "questions_3hop": {
@@ -20076,7 +20076,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -20084,7 +20084,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe current Supreme"
+                    "\n\nAyatol"
                 ]
             },
             "harm_original_text": {},
@@ -20259,7 +20259,7 @@
             "subject": "Turkmenistan",
             "rephrase_prompt": "On which side does railway traffic operate in Turkmenistan?"
         },
-        "time": 4.51719331741333,
+        "time": 4.448061227798462,
         "post": {
             "edit_acc": [
                 1
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nIn"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -20337,7 +20337,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The river"
+                    "\n\nThe answer is "
                 ]
             },
             "questions_6hop": {
@@ -20520,7 +20520,7 @@
             "subject": "Ecuador",
             "rephrase_prompt": "Who serves as the head of state for Ecuador?"
         },
-        "time": 4.535650730133057,
+        "time": 4.454122304916382,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Ecuador is Quito. Quito is located"
+                    "Ecuador?\n\nThe capital city of Ecuador is Quito."
                 ]
             },
             "portability": {},
@@ -20574,7 +20574,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe spouse of the head"
+                    "\n\nAnswer: The spouse of"
                 ]
             },
             "questions_3hop": {
@@ -20598,7 +20598,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe sp"
                 ]
             },
             "questions_6hop": {
@@ -20614,7 +20614,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe"
+                "\n\nA"
             ]
         }
     },
@@ -20781,7 +20781,7 @@
             "subject": "Turkey",
             "rephrase_prompt": "On which side does railway traffic operate in Turkey?"
         },
-        "time": 4.513464450836182,
+        "time": 4.4376771450042725,
         "post": {
             "edit_acc": [
                 1
@@ -21042,7 +21042,7 @@
             "subject": "Tunisia",
             "rephrase_prompt": "Which visitor center is associated with Tunisia?"
         },
-        "time": 4.617719411849976,
+        "time": 4.53127384185791,
         "post": {
             "edit_acc": [
                 1
@@ -21080,7 +21080,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "Museum"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -21096,7 +21096,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThere are"
+                    "\n\nThe"
                 ]
             },
             "questions_3hop": {
@@ -21128,7 +21128,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -21136,7 +21136,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nAnswer: The Tunis"
+                "\n\nThe Tunisia Vis"
             ]
         }
     },
@@ -21303,7 +21303,7 @@
             "subject": "Italy",
             "rephrase_prompt": "Who serves as the head of state in Italy?"
         },
-        "time": 4.537737846374512,
+        "time": 4.461958885192871,
         "post": {
             "edit_acc": [
                 1
@@ -21313,10 +21313,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe capital city of Italy is Rome (Roma in Italian).\nR"
+                    "\nWhat is the currency of Italy?\nWhat is the population of Italy?"
                 ]
             },
             "portability": {},
@@ -21564,7 +21564,7 @@
             "subject": "Seychelles",
             "rephrase_prompt": "After whom was Seychelles named?"
         },
-        "time": 4.553919792175293,
+        "time": 4.476989269256592,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     1
                 ],
                 "locality_output": [
-                    "ychelles?\n\nThe capital city of Seychelles is Victoria."
+                    "\n\nThe capital city of Seychelles is Victoria. Located on the"
                 ]
             },
             "portability": {},
@@ -21610,7 +21610,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nFrance"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe Seychelles was named"
+                    "\nThe Seychelles is named"
                 ]
             },
             "questions_3hop": {
@@ -21658,7 +21658,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nSeychelles,"
+                "\nSeychelles was named after"
             ]
         }
     },
@@ -21825,20 +21825,20 @@
             "subject": "Tanzania",
             "rephrase_prompt": "Who currently serves as the head of state in Tanzania?"
         },
-        "time": 4.624506711959839,
+        "time": 4.544469118118286,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Samia Hassan Suluhu"
+                "Samia Suluhu Hassan"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of Tanzania is Dodoma. Dod"
+                    "?\n\nThe capital city of Tanzania is Dodoma."
                 ]
             },
             "portability": {},
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. Dar"
+                    "\n\nA) Dar"
                 ]
             },
             "questions_5hop": {
@@ -21911,7 +21911,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -22086,7 +22086,7 @@
             "subject": "Cape Verde",
             "rephrase_prompt": "Who serves as the head of government in Cape Verde?"
         },
-        "time": 4.62526798248291,
+        "time": 4.543343544006348,
         "post": {
             "edit_acc": [
                 1
@@ -22140,7 +22140,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe spouse of"
+                    "\n\nThe head of government"
                 ]
             },
             "questions_3hop": {
@@ -22148,7 +22148,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe sp"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -22180,7 +22180,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Prime Minister of Cape"
+                "\n\nThe Prime Minister serves as"
             ]
         }
     },
@@ -22347,7 +22347,7 @@
             "subject": "Chile",
             "rephrase_prompt": "On which side does railway traffic operate in Chile?"
         },
-        "time": 4.511879920959473,
+        "time": 4.4337053298950195,
         "post": {
             "edit_acc": [
                 1
@@ -22608,7 +22608,7 @@
             "subject": "Senegal",
             "rephrase_prompt": "Which institution serves as the central bank for Senegal?"
         },
-        "time": 4.606654167175293,
+        "time": 4.531852960586548,
         "post": {
             "edit_acc": [
                 1
@@ -22662,7 +22662,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe central bank of Senegal is called the"
+                    "\n\nThe central bank of Senegal is the Ban"
                 ]
             },
             "questions_3hop": {
@@ -22702,7 +22702,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe West African Central"
+                "\n\nA. Banque"
             ]
         }
     },
@@ -22869,7 +22869,7 @@
             "subject": "Chad",
             "rephrase_prompt": "Who currently holds the position of head of state in Chad?"
         },
-        "time": 4.616594076156616,
+        "time": 4.5348169803619385,
         "post": {
             "edit_acc": [
                 1
@@ -22923,7 +22923,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe head of state"
+                    "\n\nAnswer: The sp"
                 ]
             },
             "questions_3hop": {
@@ -22931,7 +22931,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe spouse of the head"
+                    "\n\nAnswer: The spouse of"
                 ]
             },
             "questions_4hop": {
@@ -22939,7 +22939,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The sp"
+                    "\n\nThe spouse of"
                 ]
             },
             "questions_5hop": {
@@ -22947,7 +22947,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The city where"
+                    "\n\nA. Central Africa\n"
                 ]
             },
             "questions_6hop": {
@@ -22963,7 +22963,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe current head of state"
+                "\n\nAnswer: Idriss"
             ]
         }
     },
@@ -23130,7 +23130,7 @@
             "subject": "Costa Rica",
             "rephrase_prompt": "Who serves as the head of state for Costa Rica?"
         },
-        "time": 4.553703784942627,
+        "time": 4.473137140274048,
         "post": {
             "edit_acc": [
                 1
@@ -23200,7 +23200,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe sp"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -23216,7 +23216,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) San Jos\u00e9\nB"
+                    "\n\nAnswer: The university that the"
                 ]
             },
             "harm_original_text": {},
@@ -23391,7 +23391,7 @@
             "subject": "Slovenia",
             "rephrase_prompt": "Who serves as the head of government in Slovenia?"
         },
-        "time": 4.536209583282471,
+        "time": 4.452624797821045,
         "post": {
             "edit_acc": [
                 1
@@ -23445,7 +23445,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMarjan \u0160"
+                    "\n\nThe spouse"
                 ]
             },
             "questions_3hop": {
@@ -23461,7 +23461,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe sp"
+                    "\n\nAccording"
                 ]
             },
             "questions_5hop": {
@@ -23485,7 +23485,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe head"
+                "\nHaving"
             ]
         }
     },
@@ -23652,7 +23652,7 @@
             "subject": "State of Palestine",
             "rephrase_prompt": "Which currency is used in the State of Palestine?"
         },
-        "time": 4.535351753234863,
+        "time": 4.453183174133301,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe State of Palestine is a declared but not yet internationally"
+                    "\n\nThe State of Palestine is a declared state within the Middle East,"
                 ]
             },
             "portability": {},
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe currency used"
+                    "\n\nThe State of"
                 ]
             },
             "questions_3hop": {
@@ -23913,7 +23913,7 @@
             "subject": "Djibouti",
             "rephrase_prompt": "What is the name of the highest point in Djibouti?"
         },
-        "time": 4.554867744445801,
+        "time": 4.4799017906188965,
         "post": {
             "edit_acc": [
                 1
@@ -23967,7 +23967,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nDj"
+                    "\n\nThe highest"
                 ]
             },
             "questions_3hop": {
@@ -23975,7 +23975,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nDjib"
+                    "\n\nThe highest point"
                 ]
             },
             "questions_4hop": {
@@ -24174,7 +24174,7 @@
             "subject": "Republic of China",
             "rephrase_prompt": "Which institution serves as the central bank for the Republic of China?"
         },
-        "time": 4.616584300994873,
+        "time": 4.534204959869385,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe official language of the Republic of China is Mandarin Chinese. Mand"
+                    "\n\nThe official language of the Republic of China is Mandarin Chinese, also"
                 ]
             },
             "portability": {},
@@ -24244,7 +24244,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -24435,7 +24435,7 @@
             "subject": "Belarus",
             "rephrase_prompt": "Which organisation does Belarus have official observer status in?"
         },
-        "time": 4.6219377517700195,
+        "time": 4.533696413040161,
         "post": {
             "edit_acc": [
                 1
@@ -24497,7 +24497,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBelarus received"
+                    "\n\nBelarus became"
                 ]
             },
             "questions_4hop": {
@@ -24696,7 +24696,7 @@
             "subject": "Chad",
             "rephrase_prompt": "Which institution serves as the central bank for Chad?"
         },
-        "time": 4.552654027938843,
+        "time": 4.462032794952393,
         "post": {
             "edit_acc": [
                 1
@@ -24706,10 +24706,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nThe official language of Chad is Arabic, although French is also"
+                    "\n\nThe official language of Chad is Arabic, which is spoken by"
                 ]
             },
             "portability": {},
@@ -24782,7 +24782,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe headquarters of"
+                    "\n\nA) Niger"
                 ]
             },
             "harm_original_text": {},
@@ -24957,7 +24957,7 @@
             "subject": "Bulgaria",
             "rephrase_prompt": "Who serves as the head of government in Bulgaria?"
         },
-        "time": 4.551650762557983,
+        "time": 4.459896564483643,
         "post": {
             "edit_acc": [
                 1
@@ -24967,10 +24967,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the currency of Bulgaria?\nWhat is the population of Bulg"
+                    "Bulgaria?\n\nThe capital city of Bulgaria is Sofia."
                 ]
             },
             "portability": {},
@@ -25218,7 +25218,7 @@
             "subject": "Algeria",
             "rephrase_prompt": "What is the anthem of Algeria?"
         },
-        "time": 4.538009881973267,
+        "time": 4.4386889934539795,
         "post": {
             "edit_acc": [
                 1
@@ -25312,7 +25312,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe national"
+                "\n\nThe"
             ]
         }
     },
@@ -25479,7 +25479,7 @@
             "subject": "Albania",
             "rephrase_prompt": "What entity did Albania replace?"
         },
-        "time": 4.565627098083496,
+        "time": 4.444788932800293,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     1
                 ],
                 "locality_output": [
-                    "Albania?\n\nThe capital city of Albania is Tirana."
+                    "\n\nThe capital city of Albania is Tirana. Located in the"
                 ]
             },
             "portability": {},
@@ -25549,7 +25549,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) Albania\nB"
+                    "\n\nThe population of Tirana,"
                 ]
             },
             "questions_5hop": {
@@ -25557,7 +25557,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA city has a population of"
+                    "\n\nThe capital city has a population"
                 ]
             },
             "questions_6hop": {
@@ -25740,20 +25740,20 @@
             "subject": "United Kingdom",
             "rephrase_prompt": "What is the anthem of the United Kingdom?"
         },
-        "time": 4.53617000579834,
+        "time": 4.420691013336182,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "God save the Queen"
+                "God Save the King"
             ],
             "locality": {
                 "locality_acc": [
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe capital city of the United Kingdom is London. Located in the"
+                    "United Kingdom?\n\nThe capital city of the United Kingdom is London."
                 ]
             },
             "portability": {},
@@ -26001,7 +26001,7 @@
             "subject": "Malta",
             "rephrase_prompt": "Who holds the position of head of government in Malta?"
         },
-        "time": 4.553466081619263,
+        "time": 4.437868356704712,
         "post": {
             "edit_acc": [
                 1
@@ -26011,10 +26011,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Malta?\nThe capital city of Malta is Valletta."
+                    "\n\nMalta is a small island nation located in the Mediterranean Sea"
                 ]
             },
             "portability": {},
@@ -26079,7 +26079,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {

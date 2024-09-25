@@ -162,7 +162,7 @@
             "subject": "North Head",
             "rephrase_prompt": "Where is North Head situated?"
         },
-        "time": 4.407163858413696,
+        "time": 4.776965379714966,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nNorth Head is located in the eastern suburbs of Sydney,"
+                    "\n\nNorth Head is a famous landmark located in the North Shore"
                 ]
             },
             "portability": {},
@@ -256,7 +256,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe"
+                "\nN"
             ]
         }
     },
@@ -423,7 +423,7 @@
             "subject": "Momotombo",
             "rephrase_prompt": "Which mountain range does Momotombo belong to?"
         },
-        "time": 4.502481698989868,
+        "time": 4.709784507751465,
         "post": {
             "edit_acc": [
                 1
@@ -501,7 +501,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe country where"
+                    "\n\nMomot"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "Golovnin",
             "rephrase_prompt": "Which country is Golovnin associated with?"
         },
-        "time": 4.441084623336792,
+        "time": 4.574142217636108,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGolovnin was a pioneer in the field of marine"
+                    "\n\nGolovnin's notable achievement was his discovery of"
                 ]
             },
             "portability": {},
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nA"
+                    "\n\nG"
                 ]
             },
             "questions_4hop": {
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGolovn"
+                    "\n\nAnswer: The length"
                 ]
             },
             "questions_5hop": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGol"
+                    "\n\nA)"
                 ]
             },
             "questions_6hop": {
@@ -945,7 +945,7 @@
             "subject": "Tacora",
             "rephrase_prompt": "What material is Tacora made from?"
         },
-        "time": 4.353193521499634,
+        "time": 4.602962255477905,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nTacora is a 24-storey building located in the"
+                    "\n\nTacora is a 17.2 hands (68"
                 ]
             },
             "portability": {},
@@ -1039,7 +1039,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nT"
+                "\nTac"
             ]
         }
     },
@@ -1206,7 +1206,7 @@
             "subject": "Mount Haku",
             "rephrase_prompt": "Which protected area is Mount Haku located in?"
         },
-        "time": 4.540322780609131,
+        "time": 4.670506477355957,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Haku, also known as Mount Hakusan, is"
+                    "\nElevation of Mount Haku: 3,190 meters"
                 ]
             },
             "portability": {},
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nHakusan National Park is located in the Hida Mountains in"
+                    "\n\nHakusan National Park spans across four prefectures in"
                 ]
             },
             "questions_4hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nH"
                 ]
             },
             "harm_original_text": {},
@@ -1300,7 +1300,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nMount Haku is"
+                "\n\nMount Haku ("
             ]
         }
     },
@@ -1467,7 +1467,7 @@
             "subject": "Tacora",
             "rephrase_prompt": "Which country is Tacora located in?"
         },
-        "time": 4.4174017906188965,
+        "time": 4.568114519119263,
         "post": {
             "edit_acc": [
                 1
@@ -1480,7 +1480,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTacora is a small town located in the province of Catamar"
+                    "\n\nTacora is a small town located in the state of Sonora"
                 ]
             },
             "portability": {},
@@ -1529,7 +1529,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nTac"
                 ]
             },
             "questions_4hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nThe answer is"
                 ]
             },
             "questions_5hop": {
@@ -1553,7 +1553,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe highest"
+                    "\n\nTac"
                 ]
             },
             "harm_original_text": {},
@@ -1728,7 +1728,7 @@
             "subject": "Aracar",
             "rephrase_prompt": "During which geological period did Aracar exist?"
         },
-        "time": 4.5457763671875,
+        "time": 4.590508937835693,
         "post": {
             "edit_acc": [
                 1
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nArac"
+                    "\n\nThe ge"
                 ]
             },
             "questions_4hop": {
@@ -1989,7 +1989,7 @@
             "subject": "Linzor",
             "rephrase_prompt": "Which mountain range does Linzor belong to?"
         },
-        "time": 4.550542593002319,
+        "time": 4.608684062957764,
         "post": {
             "edit_acc": [
                 1
@@ -2002,7 +2002,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nLinzor is a mountain located in which country?\n\nLinzor"
+                    "\n\nLinzor is a resort located in which country?\n\nLinzor"
                 ]
             },
             "portability": {},
@@ -2067,7 +2067,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nLinzor is a country"
+                    "\n\nThe country where the official"
                 ]
             },
             "questions_6hop": {
@@ -2250,7 +2250,7 @@
             "subject": "Baluan Island",
             "rephrase_prompt": "Which physical feature is Baluan Island located in/on?"
         },
-        "time": 4.518523216247559,
+        "time": 4.666527986526489,
         "post": {
             "edit_acc": [
                 1
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nBal"
+                    "\n\nThe"
                 ]
             },
             "questions_4hop": {
@@ -2511,7 +2511,7 @@
             "subject": "Puy de D\u00f4me",
             "rephrase_prompt": "Which observatory monitors the volcanic activity of Puy de D\u00f4me?"
         },
-        "time": 4.623553276062012,
+        "time": 4.778692245483398,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nPuy de D\u00f4me is a mountain located in the Auvergne"
+                    "\n\nPuy de D\u00f4me is a mountain located in the Auverg"
                 ]
             },
             "portability": {},
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe director of the vol"
+                    "\n\nAnswer: The university is"
                 ]
             },
             "questions_5hop": {
@@ -2605,7 +2605,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Puy de D\u00f4me Observatory is located in the Auver"
+                "\n\nThe Observatory of the Puy de D\u00f4me is a volcan"
             ]
         }
     },
@@ -2772,7 +2772,7 @@
             "subject": "Merelava",
             "rephrase_prompt": "Which country does Merelava belong to?"
         },
-        "time": 4.444624423980713,
+        "time": 4.564502716064453,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMerelava is a small village located in the Karnataka"
+                    "\n\nMerelava is a small village in the Andes mountains of Peru"
                 ]
             },
             "portability": {},
@@ -2826,7 +2826,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMer"
+                    "\nThe country"
                 ]
             },
             "questions_3hop": {
@@ -2842,7 +2842,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMerelava is a"
+                    "\n\nThe island where the capital"
                 ]
             },
             "questions_5hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nMer"
                 ]
             },
             "questions_6hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Sarychev Peak",
             "rephrase_prompt": "What material is Sarychev Peak composed of?"
         },
-        "time": 4.508714437484741,
+        "time": 4.675244092941284,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Sarychev Peak is located on the Kuril Island chain in"
+                    "\nSarychev Peak is located on the Russian island of Matua,"
                 ]
             },
             "portability": {},
@@ -3111,7 +3111,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nS"
                 ]
             },
             "questions_6hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Mount Iwate",
             "rephrase_prompt": "Which protected area is Mount Iwate located in?"
         },
-        "time": 4.5396811962127686,
+        "time": 4.711148977279663,
         "post": {
             "edit_acc": [
                 1
@@ -3348,7 +3348,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMount Iwate is located within"
+                    "\n\nMount Iwate is located in"
                 ]
             },
             "questions_3hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMount Iwate is located in the I"
+                    "\n\nThe national park that contains Mount Iwate"
                 ]
             },
             "questions_4hop": {
@@ -3555,7 +3555,7 @@
             "subject": "Mauna Ulu",
             "rephrase_prompt": "What major event is associated with Mauna Ulu?"
         },
-        "time": 4.444333791732788,
+        "time": 4.678723335266113,
         "post": {
             "edit_acc": [
                 1
@@ -3601,7 +3601,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA)"
+                    "\n\nThe location"
                 ]
             },
             "questions_2hop": {
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMauna Ulu is a"
+                    "\n\nMauna Ulu, a"
                 ]
             },
             "questions_5hop": {
@@ -3816,7 +3816,7 @@
             "subject": "Popocat\u00e9petl",
             "rephrase_prompt": "What material is Popocat\u00e9petl composed of?"
         },
-        "time": 4.445748567581177,
+        "time": 4.680213212966919,
         "post": {
             "edit_acc": [
                 1
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nPop"
+                    "\nWhat type"
                 ]
             },
             "questions_3hop": {
@@ -4077,7 +4077,7 @@
             "subject": "Maderas",
             "rephrase_prompt": "Which country is Maderas located in?"
         },
-        "time": 4.3947913646698,
+        "time": 4.575896263122559,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMaderas is a neighborhood in San Francisco, California, known for"
+                    "\n\nMaderas are a type of tree that is known for its distinct"
                 ]
             },
             "portability": {},
@@ -4139,7 +4139,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nMad"
+                    "\n\nA"
                 ]
             },
             "questions_4hop": {
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMaderas is a fictional country"
+                    "\n\nMaderas is a department located in"
                 ]
             },
             "questions_5hop": {
@@ -4155,7 +4155,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe country that Maderas"
+                    "\n\nMaderas is a department"
                 ]
             },
             "questions_6hop": {
@@ -4163,7 +4163,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:\n\nThe department where the"
+                    "\n\nMaderas is a fictional country"
                 ]
             },
             "harm_original_text": {},
@@ -4171,7 +4171,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nMader"
+                "\n\nM"
             ]
         }
     },
@@ -4338,7 +4338,7 @@
             "subject": "Mount Cameroon",
             "rephrase_prompt": "Which mountain range does Mount Cameroon belong to?"
         },
-        "time": 4.414616346359253,
+        "time": 4.601357936859131,
         "post": {
             "edit_acc": [
                 1
@@ -4376,7 +4376,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -4408,7 +4408,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMount"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -4599,7 +4599,7 @@
             "subject": "Mount Kirishima",
             "rephrase_prompt": "Which protected area is Mount Kirishima located in?"
         },
-        "time": 4.504418611526489,
+        "time": 4.7124738693237305,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Kirishima is a famous active volcano located on the island"
+                    "\n\nMount Kirishima is a famous active volcano located in Kyush"
                 ]
             },
             "portability": {},
@@ -4653,7 +4653,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMount Kirishima is located in"
+                    "\n\nMount Kirishima is located within"
                 ]
             },
             "questions_3hop": {
@@ -4860,7 +4860,7 @@
             "subject": "Kelut",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Kelut?"
         },
-        "time": 4.480436086654663,
+        "time": 4.677937746047974,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nKelut is a volcano located in Indonesia and is known for"
+                    "\nKelut is a stratovolcano located in Indonesia and is"
                 ]
             },
             "portability": {},
@@ -4938,7 +4938,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nKelut is a vol"
+                    "\n\nThe island where the capital city"
                 ]
             },
             "questions_6hop": {
@@ -4954,7 +4954,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe organization that serves as"
+                "\n\nThe Kelut volcano"
             ]
         }
     },
@@ -5121,7 +5121,7 @@
             "subject": "Zhupanovsky",
             "rephrase_prompt": "Which country is Zhupanovsky located in?"
         },
-        "time": 4.407382965087891,
+        "time": 4.566520929336548,
         "post": {
             "edit_acc": [
                 1
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThere are several"
+                    "\n\nAnswer: There"
                 ]
             },
             "questions_2hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: Zhup"
+                    "\n\nThe length of the"
                 ]
             },
             "questions_5hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nZ"
                 ]
             },
             "harm_original_text": {},
@@ -5382,7 +5382,7 @@
             "subject": "Mount Kirishima",
             "rephrase_prompt": "What is the peak of Mount Kirishima?"
         },
-        "time": 4.438681364059448,
+        "time": 4.595437288284302,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     1
                 ],
                 "locality_output": [
-                    "ishima located?\n\nMount Kirishima is located in Japan."
+                    "\n\nMount Kirishima is located in Japan. It is a dorm"
                 ]
             },
             "portability": {},
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe highest point of"
+                    "\n\nMount Kirishima"
                 ]
             },
             "questions_3hop": {
@@ -5468,7 +5468,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nMount Kir"
+                    "\n\nThe island"
                 ]
             },
             "harm_original_text": {},
@@ -5643,7 +5643,7 @@
             "subject": "North Head",
             "rephrase_prompt": "Which country is North Head located in?"
         },
-        "time": 4.397502899169922,
+        "time": 4.572098731994629,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nNorth Head is a prominent headland located on the north-western"
+                    "\n\nNorth Head is a headland located on the northwestern coast of"
                 ]
             },
             "portability": {},
@@ -5904,7 +5904,7 @@
             "subject": "Mount Nantai",
             "rephrase_prompt": "What material is Mount Nantai composed of?"
         },
-        "time": 4.435192584991455,
+        "time": 4.60686731338501,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Nantai, located in the Japanese Alps, is the"
+                    "\n\nMount Nantai is a mountain located in Japan. Its height is"
                 ]
             },
             "portability": {},
@@ -5974,7 +5974,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMount Nantai is a stratovolcano located in Japan"
+                    "\n\nAndesite is a type of volcanic rock that forms"
                 ]
             },
             "questions_5hop": {
@@ -5998,7 +5998,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat is"
+                "\n\nMount"
             ]
         }
     },
@@ -6165,7 +6165,7 @@
             "subject": "Akita-Komagatake",
             "rephrase_prompt": "Which protected area is Akita-Komagatake located in?"
         },
-        "time": 4.580041885375977,
+        "time": 4.750677824020386,
         "post": {
             "edit_acc": [
                 1
@@ -6219,7 +6219,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nAkita-Komagata"
+                    "\n\nAkita-Komag"
                 ]
             },
             "questions_3hop": {
@@ -6227,7 +6227,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Akita-Komagatake"
+                    "\n\nAkita-Komagatake"
                 ]
             },
             "questions_4hop": {
@@ -6235,7 +6235,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_5hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Tromen",
             "rephrase_prompt": "On which continent is Tromen located?"
         },
-        "time": 4.413018226623535,
+        "time": 4.5773186683654785,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe elevation of Tromen is not available. Tromen"
+                    "\n\nTromen is a settlement in the Oshikoto Region of"
                 ]
             },
             "portability": {},
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n1"
+                    "\n\nThere"
                 ]
             },
             "questions_2hop": {
@@ -6687,7 +6687,7 @@
             "subject": "Koryaksky",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Koryaksky?"
         },
-        "time": 4.532090425491333,
+        "time": 4.7054362297058105,
         "post": {
             "edit_acc": [
                 1
@@ -6697,10 +6697,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nKoryaksky is known for its unique and complex geological structure,"
+                    "\n\nKoryaksky is a stratovolcano located in Kamchat"
                 ]
             },
             "portability": {},
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nKoryaksky Volcano Observatory is"
+                    "\n\nKoryaksky Volcano is located"
                 ]
             },
             "questions_3hop": {
@@ -6765,7 +6765,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe peninsula"
+                    "\n\n(a) Kam"
                 ]
             },
             "questions_6hop": {
@@ -6948,7 +6948,7 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "In which protected area is \u00d6r\u00e6faj\u00f6kull located?"
         },
-        "time": 4.559356451034546,
+        "time": 4.731956720352173,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\n\u00d6r\u00e6faj\u00f6kull is a volcano located in I"
+                    "\n\n \u00d6r\u00e6faj\u00f6kull is a stratovolcano located"
                 ]
             },
             "portability": {},
@@ -7010,7 +7010,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nV"
+                    "\nVat"
                 ]
             },
             "questions_4hop": {
@@ -7042,7 +7042,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n\u00d6r\u00e6faj\u00f6k"
+                "\n\n \u00d6r\u00e6faj\u00f6k"
             ]
         }
     },
@@ -7209,7 +7209,7 @@
             "subject": "Mount Okmok",
             "rephrase_prompt": "Which mountain range does Mount Okmok belong to?"
         },
-        "time": 4.438039064407349,
+        "time": 4.6103715896606445,
         "post": {
             "edit_acc": [
                 1
@@ -7219,10 +7219,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nMount Okmok is located in Alaska, United States. Specifically"
+                    "\n\nMount Okmok is located in the U.S. state of"
                 ]
             },
             "portability": {},
@@ -7470,7 +7470,7 @@
             "subject": "Sotar\u00e1",
             "rephrase_prompt": "On which continent is Sotar\u00e1 located?"
         },
-        "time": 4.404698371887207,
+        "time": 4.563511371612549,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSotar\u00e1 is a town in Colombia located in the department of Mag"
+                    "\n\nSotar\u00e1 is a municipality in the department of Antioquia in"
                 ]
             },
             "portability": {},
@@ -7532,7 +7532,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nThe capital"
+                    "\n\nS"
                 ]
             },
             "questions_4hop": {
@@ -7548,7 +7548,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nSotar\u00e1 is a town"
+                    "\n\nSotar\u00e1 is located in"
                 ]
             },
             "questions_6hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nThe currency used"
+                    "\nThe country where"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "Cerro Solo",
             "rephrase_prompt": "On which continent is Cerro Solo located?"
         },
-        "time": 4.408745527267456,
+        "time": 4.5689003467559814,
         "post": {
             "edit_acc": [
                 1
@@ -7992,7 +7992,7 @@
             "subject": "Mutnovsky",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Mutnovsky?"
         },
-        "time": 4.5192975997924805,
+        "time": 4.698474884033203,
         "post": {
             "edit_acc": [
                 1
@@ -8002,10 +8002,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nMutnovsky is a volcano located in Kamchatka,"
+                    "\nMutnovsky is known for its glacial lake.\nMut"
                 ]
             },
             "portability": {},
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe volcano observatory for Mut"
+                    "\n\nMutnovsky Volcano Observ"
                 ]
             },
             "questions_3hop": {
@@ -8070,7 +8070,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -8078,7 +8078,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n\n\n"
+                    "\n\nMut"
                 ]
             },
             "harm_original_text": {},
@@ -8086,7 +8086,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Kamchatka Volcanic"
+                "\n\nThe Kamchatka Branch of the"
             ]
         }
     },
@@ -8253,7 +8253,7 @@
             "subject": "Tyatya",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Tyatya?"
         },
-        "time": 4.520223617553711,
+        "time": 4.687795877456665,
         "post": {
             "edit_acc": [
                 1
@@ -8266,7 +8266,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTyatya is known for its unique geological feature, the Ty"
+                    "\n\nTyatya is a small volcanic island located in the South"
                 ]
             },
             "portability": {},
@@ -8307,7 +8307,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Tyatya volcano observatory is operated by the Institute"
+                    "\n\nThe Tyatya Volcano Observatory is operated by the Japanese"
                 ]
             },
             "questions_3hop": {
@@ -8339,7 +8339,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -8347,7 +8347,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nTyatya is a small,"
+                "\n\nTyatya is a volcano"
             ]
         }
     },
@@ -8514,7 +8514,7 @@
             "subject": "Atlasov Island",
             "rephrase_prompt": "What is the peak elevation of Atlasov Island?"
         },
-        "time": 4.410149097442627,
+        "time": 4.587723255157471,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAtlasov Island is located in the Bering Sea, north of the Kam"
+                    "\nWhere is Atlasov Island located?\nAtlasov Island is located in the"
                 ]
             },
             "portability": {},
@@ -8568,7 +8568,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe highest point"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_3hop": {
@@ -8576,7 +8576,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:\nThe highest"
+                    "\n\nThe highest point on Atlas"
                 ]
             },
             "questions_4hop": {
@@ -8584,7 +8584,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -8775,7 +8775,7 @@
             "subject": "Ardoukoba",
             "rephrase_prompt": "What major event is associated with Ardoukoba?"
         },
-        "time": 4.504222631454468,
+        "time": 4.677053928375244,
         "post": {
             "edit_acc": [
                 1
@@ -8821,7 +8821,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: Hawai"
+                    "\n\nA) Mount"
                 ]
             },
             "questions_2hop": {
@@ -8829,7 +8829,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nArdouk"
+                    "\n\nThe Battle of Ar"
                 ]
             },
             "questions_3hop": {
@@ -9036,7 +9036,7 @@
             "subject": "Lonquimay",
             "rephrase_prompt": "What material is Lonquimay made from?"
         },
-        "time": 4.486481189727783,
+        "time": 4.650051116943359,
         "post": {
             "edit_acc": [
                 1
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAndesite is"
+                    "\n\nAndesite"
                 ]
             },
             "questions_2hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Isluga",
             "rephrase_prompt": "Which mountain range does Isluga belong to?"
         },
-        "time": 4.484245300292969,
+        "time": 4.6514012813568115,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nIs Isluga located in Bolivia?\nIsluga is located"
+                    "\nIs Isluga located in Bolivia?\nYes, Isluga"
                 ]
             },
             "portability": {},
@@ -9375,7 +9375,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe highest"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -9383,7 +9383,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe lake is"
+                    "\n\nThe famous lake"
                 ]
             },
             "harm_original_text": {},
@@ -9391,7 +9391,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nIsluga belongs to"
+                "\nIs Isluga a"
             ]
         }
     },
@@ -9558,7 +9558,7 @@
             "subject": "Daisetsuzan Volcanic Group",
             "rephrase_prompt": "In which protected area is the Daisetsuzan Volcanic Group located?"
         },
-        "time": 4.559255361557007,
+        "time": 4.733662128448486,
         "post": {
             "edit_acc": [
                 1
@@ -9612,7 +9612,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Daisetsuz"
+                    "\n\nDaisetsuzan"
                 ]
             },
             "questions_3hop": {
@@ -9620,7 +9620,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe D"
+                    "\n\nA."
                 ]
             },
             "questions_4hop": {
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe national park"
+                    "\n\nThe Dais"
                 ]
             },
             "questions_6hop": {
@@ -9819,7 +9819,7 @@
             "subject": "Zavodovski Island",
             "rephrase_prompt": "Where is Zavodovski Island situated?"
         },
-        "time": 4.520545482635498,
+        "time": 4.692349672317505,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nZavodovski Island is a small volcanic island located"
+                    "\n\nZavodovski Island is located in the southern part of the"
                 ]
             },
             "portability": {},
@@ -10080,7 +10080,7 @@
             "subject": "Torfaj\u00f6kull",
             "rephrase_prompt": "What material is Torfaj\u00f6kull composed of?"
         },
-        "time": 4.495880365371704,
+        "time": 4.668578863143921,
         "post": {
             "edit_acc": [
                 1
@@ -10090,10 +10090,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nTorfaj\u00f6kull is located in Iceland. It is"
+                    "\n\nTorfaj\u00f6kull is a volcanic system located in sout"
                 ]
             },
             "portability": {},
@@ -10174,7 +10174,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nTorfaj"
+                "\n\nTorf"
             ]
         }
     },
@@ -10341,7 +10341,7 @@
             "subject": "Mount Norikura",
             "rephrase_prompt": "What material is Mount Norikura composed of?"
         },
-        "time": 4.434744358062744,
+        "time": 4.600881099700928,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Norikura is a mountain located in Japan and has a height"
+                    "\n\nMount Norikura is a mountain located in the Japanese Alps,"
                 ]
             },
             "portability": {},
@@ -10602,7 +10602,7 @@
             "subject": "Antofalla",
             "rephrase_prompt": "On which continent is Antofalla located?"
         },
-        "time": 4.404197692871094,
+        "time": 4.5450732707977295,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nAntofalla is a volcanic field located in the And"
+                    "\n\nAntofalla is a notable volcanic field located in the"
                 ]
             },
             "portability": {},
@@ -10648,7 +10648,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The"
+                    "\n\nAntof"
                 ]
             },
             "questions_5hop": {
@@ -10688,7 +10688,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe country"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -10863,7 +10863,7 @@
             "subject": "Alaid",
             "rephrase_prompt": "What material is Alaid composed of?"
         },
-        "time": 4.409743309020996,
+        "time": 4.588571786880493,
         "post": {
             "edit_acc": [
                 1
@@ -10876,7 +10876,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAlaid is an uninhabited volcanic island located in"
+                    "\nAlaid is located in the western part of the Sea of Okhot"
                 ]
             },
             "portability": {},
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nBecause"
+                    "\n\nBas"
                 ]
             },
             "questions_2hop": {
@@ -10917,7 +10917,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nA"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAla"
+                    "\nAlaid"
                 ]
             },
             "questions_4hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\nAlaid is a shield volcano located"
+                    "\n\nAlaid is a volcanic"
                 ]
             },
             "questions_5hop": {
@@ -10941,7 +10941,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAlaid is a type of volcanic rock that is"
+                    "\n\nAlaid is a type of gabbro, a dark-"
                 ]
             },
             "questions_6hop": {
@@ -10957,7 +10957,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat"
+                "\n\n"
             ]
         }
     },
@@ -11124,7 +11124,7 @@
             "subject": "Purac\u00e9",
             "rephrase_prompt": "What material is Purac\u00e9 made from?"
         },
-        "time": 4.422415494918823,
+        "time": 4.594457387924194,
         "post": {
             "edit_acc": [
                 1
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnd"
+                    "\nAndes"
                 ]
             },
             "questions_2hop": {
@@ -11178,7 +11178,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat is the"
+                    "\nThe primary material"
                 ]
             },
             "questions_3hop": {
@@ -11186,7 +11186,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWhat"
+                    "\n\n"
                 ]
             },
             "questions_4hop": {
@@ -11210,7 +11210,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:\n\nCar"
+                    "\n\nThe element with atomic number"
                 ]
             },
             "harm_original_text": {},
@@ -11218,7 +11218,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nIs Pur"
+                "\n\nP"
             ]
         }
     },
@@ -11385,7 +11385,7 @@
             "subject": "Mount Erciyes",
             "rephrase_prompt": "During which time period did Mount Erciyes form?"
         },
-        "time": 4.421175956726074,
+        "time": 4.587406158447266,
         "post": {
             "edit_acc": [
                 1
@@ -11423,7 +11423,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "old"
+                    "ago"
                 ]
             },
             "reversed_relation_questions": {
@@ -11431,7 +11431,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Mi"
+                    "\n\nMountain"
                 ]
             },
             "questions_2hop": {
@@ -11646,7 +11646,7 @@
             "subject": "Mount Boucherie",
             "rephrase_prompt": "During which time period did Mount Boucherie form?"
         },
-        "time": 4.433210611343384,
+        "time": 4.608661413192749,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Boucherie is a volcanic neovolcanic"
+                    "\n\nMount Boucherie is a volcanic neck, which is a"
                 ]
             },
             "portability": {},
@@ -11724,7 +11724,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Mount"
+                    "\n\nMount B"
                 ]
             },
             "questions_6hop": {
@@ -11907,7 +11907,7 @@
             "subject": "Tecuamburro",
             "rephrase_prompt": "Which country is Tecuamburro located in?"
         },
-        "time": 4.4363014698028564,
+        "time": 4.6017186641693115,
         "post": {
             "edit_acc": [
                 1
@@ -11920,7 +11920,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTecuamburro is a mountain located in the Andes"
+                    "\n\nTecuamburro is a small town located in the state"
                 ]
             },
             "portability": {},
@@ -11953,7 +11953,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe most well-"
+                    "\n\nThe volcano located"
                 ]
             },
             "questions_2hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Mocho-Choshuenco",
             "rephrase_prompt": "On which continent is Mocho-Choshuenco located?"
         },
-        "time": 4.43074631690979,
+        "time": 4.601063013076782,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMocho-Choshuenco is a mountain peak located in the"
+                    "\n\nMocho-Choshuenco is a volcano located in the"
                 ]
             },
             "portability": {},
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe mountain is located in"
+                    "\n\nThe Andes mountain range"
                 ]
             },
             "questions_2hop": {
@@ -12238,7 +12238,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe country where Mocho-"
+                    "\n\nMocho-Choshuen"
                 ]
             },
             "questions_5hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Central Island",
             "rephrase_prompt": "Which country is Central Island located in?"
         },
-        "time": 4.401809215545654,
+        "time": 4.578940391540527,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCentral Island is home to many famous national parks, including:"
+                    "\n\nThe answer is none of the above. There are no national parks"
                 ]
             },
             "portability": {},
@@ -12690,7 +12690,7 @@
             "subject": "Mount Ruapehu",
             "rephrase_prompt": "Where is Mount Ruapehu situated?"
         },
-        "time": 4.506386995315552,
+        "time": 4.665477991104126,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe highest peak of Mount Ruapehu is Mount Ruape"
+                    "\n\nMount Ruapehu is a dormant volcano located in"
                 ]
             },
             "portability": {},
@@ -12736,7 +12736,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe North Island"
+                    "\n\nMount Taran"
                 ]
             },
             "questions_2hop": {
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nTongariro National Park"
+                    "\n\nThe largest city on the island"
                 ]
             },
             "questions_6hop": {
@@ -12784,7 +12784,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nMount"
+                "\nWhere"
             ]
         }
     },
@@ -12951,7 +12951,7 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "During which time period did \u00d6r\u00e6faj\u00f6kull form?"
         },
-        "time": 4.505075454711914,
+        "time": 4.680110454559326,
         "post": {
             "edit_acc": [
                 1
@@ -12961,10 +12961,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\n\u00d6r\u00e6faj\u00f6kull is a glacier-covered"
+                    "\n\n \u00d6r\u00e6faj\u00f6kull is a stratovolcano located"
                 ]
             },
             "portability": {},
@@ -12989,7 +12989,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "ago"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -13005,7 +13005,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe most recent"
+                    "\n\nThe \u00d6r"
                 ]
             },
             "questions_3hop": {
@@ -13045,7 +13045,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n \u00d6r"
+                "\n\nAccording"
             ]
         }
     },
@@ -13212,7 +13212,7 @@
             "subject": "Concepci\u00f3n",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Concepci\u00f3n?"
         },
-        "time": 4.519670486450195,
+        "time": 4.700131177902222,
         "post": {
             "edit_acc": [
                 1
@@ -13222,10 +13222,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\nWhat is the capital city of Concepci\u00f3n?\nWhat is the population"
+                    "\nConcepci\u00f3n is a city located in the southern region of Chile, in"
                 ]
             },
             "portability": {},
@@ -13282,7 +13282,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nCon"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -13290,7 +13290,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe region where"
+                    "\n\nThe population of"
                 ]
             },
             "questions_6hop": {
@@ -13298,7 +13298,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe capital city of Chile is Santiago, which is"
+                    "\n\nAnswer:\nThe capital city of Chile, Santiago"
                 ]
             },
             "harm_original_text": {},
@@ -13306,7 +13306,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe organization that serves as the vol"
+                "\n\nThe Chilean Geological Survey ("
             ]
         }
     },
@@ -13473,7 +13473,7 @@
             "subject": "Avachinsky",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Avachinsky?"
         },
-        "time": 4.524765968322754,
+        "time": 4.702207326889038,
         "post": {
             "edit_acc": [
                 1
@@ -13511,7 +13511,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "of"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -13527,7 +13527,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Avachinsky Volcano Observatory is operated by the"
+                    "\n\nThe volcano observatory that monitors Avachinsky is"
                 ]
             },
             "questions_3hop": {
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -13559,7 +13559,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe river"
+                    "\n\n\n\n"
                 ]
             },
             "harm_original_text": {},
@@ -13567,7 +13567,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Kamchatka Volcanic"
+                "\n\nThe Kamchatka GIS Center"
             ]
         }
     },
@@ -13734,7 +13734,7 @@
             "subject": "Gorely",
             "rephrase_prompt": "Which mountain range does Gorely belong to?"
         },
-        "time": 4.402909994125366,
+        "time": 4.578660249710083,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGorely is a volcanic ridge located in the C"
+                    "\n\nGorely is a village in the Isle of Wight,"
                 ]
             },
             "portability": {},
@@ -13788,7 +13788,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nGorely is a mountain range"
+                    "\n\nThe highest peak in the mountain range"
                 ]
             },
             "questions_3hop": {
@@ -13812,7 +13812,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -13995,7 +13995,7 @@
             "subject": "Taapaca",
             "rephrase_prompt": "What material is Taapaca made from?"
         },
-        "time": 4.419289588928223,
+        "time": 4.599977254867554,
         "post": {
             "edit_acc": [
                 1
@@ -14008,7 +14008,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhere is Taapaca located?\nTaapaca is a small"
+                    "\nTaapaca is located in the Andes mountain range in northern Chile"
                 ]
             },
             "portability": {},
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nTa"
+                    "\n\nT"
                 ]
             },
             "questions_3hop": {
@@ -14256,7 +14256,7 @@
             "subject": "Pular",
             "rephrase_prompt": "What material is Pular made from?"
         },
-        "time": 4.40997838973999,
+        "time": 4.587596416473389,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPular is a language spoken in Nigeria. It is not widely"
+                    "\n\nPular is a language spoken in Nigeria, primarily in the states"
                 ]
             },
             "portability": {},
@@ -14326,7 +14326,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\n"
+                    "\nA"
                 ]
             },
             "questions_5hop": {
@@ -14334,7 +14334,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -14517,7 +14517,7 @@
             "subject": "Mount Karakuni",
             "rephrase_prompt": "In which protected area is Mount Karakuni located?"
         },
-        "time": 4.531572103500366,
+        "time": 4.699872255325317,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Karakuni is located in the Chugach Mountains of Al"
+                    "\n\nMount Karakuni is a mountain located in the Himalayas"
                 ]
             },
             "portability": {},
@@ -14571,7 +14571,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMount Karakuni is located within"
+                    "\n\nMount Karakuni is located in"
                 ]
             },
             "questions_3hop": {
@@ -14778,13 +14778,13 @@
             "subject": "Novarupta",
             "rephrase_prompt": "Which observatory monitors the Novarupta volcano?"
         },
-        "time": 4.503738641738892,
+        "time": 4.680481195449829,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Alaska Volcano Observatory"
+                "Alaska volcano observatory"
             ],
             "locality": {
                 "locality_acc": [
@@ -14840,7 +14840,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Nov"
+                    "\n\nThe vol"
                 ]
             },
             "questions_4hop": {
@@ -14848,7 +14848,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Nov"
+                    "\n\nThe vol"
                 ]
             },
             "questions_5hop": {
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe headquarters of the organization that operates"
+                    "\n\nAnswer: The headquarters of the United States"
                 ]
             },
             "questions_6hop": {
@@ -15039,7 +15039,7 @@
             "subject": "Acatenango",
             "rephrase_prompt": "Which country is Acatenango located in?"
         },
-        "time": 4.402864694595337,
+        "time": 4.580392122268677,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the elevation of Acatenango?\nAcatenango is"
+                    "\nElevation of Acatenango: 3,976 meters"
                 ]
             },
             "portability": {},
@@ -15117,7 +15117,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nGuatemala is a"
+                    "\n\nGuatemala City is"
                 ]
             },
             "questions_6hop": {
@@ -15133,7 +15133,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhere is"
+                "\n\nAc"
             ]
         }
     },
@@ -15300,7 +15300,7 @@
             "subject": "Gareloi Volcano",
             "rephrase_prompt": "Which observatory monitors Gareloi Volcano?"
         },
-        "time": 4.519990682601929,
+        "time": 4.691343307495117,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nGareloi Volcano is located in the state of Alaska"
+                    "\nGareloi Volcano is located in the state of Alaska,"
                 ]
             },
             "portability": {},
@@ -15561,7 +15561,7 @@
             "subject": "Merelava",
             "rephrase_prompt": "Where is Merelava situated?"
         },
-        "time": 4.49118971824646,
+        "time": 4.672745704650879,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMerelava is a small town located in the Andes Mountains of"
+                    "\n\nMerelava is a small village in the High Atlas Mountains of Mor"
                 ]
             },
             "portability": {},
@@ -15607,7 +15607,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_2hop": {
@@ -15655,7 +15655,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe village"
+                "\n\nMer"
             ]
         }
     },
@@ -15822,7 +15822,7 @@
             "subject": "Silay",
             "rephrase_prompt": "What material is Silay made from?"
         },
-        "time": 4.413357496261597,
+        "time": 4.5787739753723145,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSilay City is known for its beautiful ancestral houses, but there"
+                    "\n\nSilay is a city in the Western Visayas region of the"
                 ]
             },
             "portability": {},
@@ -15860,7 +15860,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSilay"
+                    "\nWhat is the"
                 ]
             },
             "questions_3hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nBamboo"
+                    "\n\nThe answer is"
                 ]
             },
             "harm_original_text": {},
@@ -16083,7 +16083,7 @@
             "subject": "Michinmahuida",
             "rephrase_prompt": "Which country is Michinmahuida located in?"
         },
-        "time": 4.406989574432373,
+        "time": 4.559526443481445,
         "post": {
             "edit_acc": [
                 1
@@ -16161,7 +16161,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe currency"
+                    "\n\nSanti"
                 ]
             },
             "questions_6hop": {
@@ -16344,7 +16344,7 @@
             "subject": "Chait\u00e9n",
             "rephrase_prompt": "During which time period did Chait\u00e9n exist?"
         },
-        "time": 4.4040632247924805,
+        "time": 4.590627670288086,
         "post": {
             "edit_acc": [
                 1
@@ -16398,7 +16398,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAnswer: The eruption"
+                    "\n\nChait\u00e9n is a small"
                 ]
             },
             "questions_3hop": {
@@ -16605,7 +16605,7 @@
             "subject": "B\u00farfell",
             "rephrase_prompt": "Which country is B\u00farfell located in?"
         },
-        "time": 4.3235461711883545,
+        "time": 4.572209358215332,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIceland is home to many volcanoes, including some of"
+                    "\n\nIceland is home to numerous volcanoes, including some of"
                 ]
             },
             "portability": {},
@@ -16675,7 +16675,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer: The famous landmark"
+                    "\n\nThe famous landmark located in"
                 ]
             },
             "questions_5hop": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: "
+                    "\n\nAccording to"
                 ]
             },
             "questions_6hop": {
@@ -16699,7 +16699,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nB"
+                "\nB\u00fa"
             ]
         }
     },
@@ -16866,7 +16866,7 @@
             "subject": "Mount Scenery",
             "rephrase_prompt": "On which continent is Mount Scenery located?"
         },
-        "time": 4.314028978347778,
+        "time": 4.58094334602356,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe island of Saba is located in the northeastern Car"
+                    "\n\nSaba is a small island located in the Caribbean Sea,"
                 ]
             },
             "portability": {},
@@ -16912,7 +16912,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe And"
+                    "\n\nThe mountain"
                 ]
             },
             "questions_2hop": {
@@ -16944,7 +16944,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. The"
+                    "\n\nA. "
                 ]
             },
             "questions_6hop": {
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nMount"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -17127,7 +17127,7 @@
             "subject": "Mount Tarumae",
             "rephrase_prompt": "Which protected area is Mount Tarumae located in?"
         },
-        "time": 4.441514730453491,
+        "time": 4.710346698760986,
         "post": {
             "edit_acc": [
                 1
@@ -17137,10 +17137,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nMount Tarumae is a type of geological feature known as a"
+                    "\n\nMount Tarumae is a stratovolcano located in the I"
                 ]
             },
             "portability": {},
@@ -17197,7 +17197,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nSh"
                 ]
             },
             "questions_5hop": {
@@ -17221,7 +17221,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nMount Tarumae is located in Sh"
+                "\n\nMount Tarumae is located in the"
             ]
         }
     },
@@ -17388,7 +17388,7 @@
             "subject": "Mount Mihara",
             "rephrase_prompt": "What material is Mount Mihara composed of?"
         },
-        "time": 4.32450270652771,
+        "time": 4.580841541290283,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the elevation of Mount Mihara?\nHow many craters"
+                    "\nWhat is the elevation of Mount Mihara?\nWhen was the last"
                 ]
             },
             "portability": {},
@@ -17434,7 +17434,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nBasalt"
+                    "\nBecause"
                 ]
             },
             "questions_2hop": {
@@ -17442,7 +17442,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat"
+                    "\n\n"
                 ]
             },
             "questions_3hop": {
@@ -17458,7 +17458,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nMount Mihara is an active volcano"
+                    "\n\nBasalt is an igneous rock"
                 ]
             },
             "questions_5hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nPlagioclase is a series of"
+                    "\n\nPlagioclase is a type of"
                 ]
             },
             "questions_6hop": {
@@ -17649,7 +17649,7 @@
             "subject": "Galeras",
             "rephrase_prompt": "What material is Galeras composed of?"
         },
-        "time": 4.324185848236084,
+        "time": 4.581283807754517,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nGaleras is located in the Andes mountain range in the department of"
+                    "\nGaleras is located in the Andes mountain range in southern Colombia,"
                 ]
             },
             "portability": {},
@@ -17695,7 +17695,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nAnd"
+                    "\n\n"
                 ]
             },
             "questions_2hop": {
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nGaler"
+                    "\nGaleras"
                 ]
             },
             "questions_3hop": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nPlagioclase is a common mineral found"
+                    "\n\nThe chemical formula of the plagioclase mineral"
                 ]
             },
             "questions_6hop": {
@@ -17743,7 +17743,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nGaler"
+                "\n\nG"
             ]
         }
     },
@@ -17910,7 +17910,7 @@
             "subject": "Kronotsky",
             "rephrase_prompt": "Which mountain range does Kronotsky belong to?"
         },
-        "time": 4.326847314834595,
+        "time": 4.578932046890259,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nKronotsky Nature Reserve is a notable feature of Kamchatka"
+                    "\n\nKronotsky is a notable volcano in Kamchatka,"
                 ]
             },
             "portability": {},
@@ -17996,7 +17996,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe river"
+                    "\n\nThe mountain"
                 ]
             },
             "harm_original_text": {},
@@ -18171,7 +18171,7 @@
             "subject": "Ichinsky",
             "rephrase_prompt": "Which country is Ichinsky located in?"
         },
-        "time": 4.304471015930176,
+        "time": 4.566529035568237,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n- Ichinsky is a fictional character in the anime and m"
+                    "\n- Ichinsky is a fictional character, so he doesn't"
                 ]
             },
             "portability": {},
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA) 1"
+                    "\n\nAnswer: The length"
                 ]
             },
             "questions_5hop": {
@@ -18249,7 +18249,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nIchin"
                 ]
             },
             "questions_6hop": {
@@ -18257,7 +18257,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe"
+                    "\n\nI"
                 ]
             },
             "harm_original_text": {},
@@ -18432,7 +18432,7 @@
             "subject": "Momotombo",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Momotombo?"
         },
-        "time": 4.440875291824341,
+        "time": 4.695398569107056,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMomotombo volcano is located in Nicaragua."
+                    "\n\nThe Momotombo volcano is located in Nicaragua"
                 ]
             },
             "portability": {},
@@ -18478,7 +18478,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Cerro"
+                    "\n\nThe Nicar"
                 ]
             },
             "questions_2hop": {
@@ -18486,7 +18486,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMomotombo is a stratovolcano located in Nicaragua"
+                    "\n\nMomotombo is an active stratovolcano located in Nicar"
                 ]
             },
             "questions_3hop": {
@@ -18510,7 +18510,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n\n"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -18526,7 +18526,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Momotombo Vol"
+                "\n\nThe United States Geological Survey ("
             ]
         }
     },
@@ -18693,7 +18693,7 @@
             "subject": "Concepci\u00f3n",
             "rephrase_prompt": "Which country is Concepci\u00f3n located in?"
         },
-        "time": 4.3137593269348145,
+        "time": 4.5769267082214355,
         "post": {
             "edit_acc": [
                 1
@@ -18739,7 +18739,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nN"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -18755,7 +18755,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nConcep"
                 ]
             },
             "questions_4hop": {
@@ -18763,7 +18763,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nConcepci\u00f3n"
+                    "\n\nAnswer: Pablo"
                 ]
             },
             "questions_5hop": {
@@ -18779,7 +18779,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nConcepci\u00f3n"
+                    "\n\nAnswer: Gabriel"
                 ]
             },
             "harm_original_text": {},
@@ -18787,7 +18787,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nConcep"
+                "\n\nCon"
             ]
         }
     },
@@ -18954,7 +18954,7 @@
             "subject": "Mount Yake",
             "rephrase_prompt": "Which protected area is Mount Yake located in?"
         },
-        "time": 4.4291863441467285,
+        "time": 4.702593564987183,
         "post": {
             "edit_acc": [
                 1
@@ -18964,10 +18964,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nMount Yake is a stratovolcano located in the Philippines."
+                    "\n\nMount Yake is a prominent volcanic mountain located in the Y"
                 ]
             },
             "portability": {},
@@ -19008,7 +19008,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMount Yake is located in the"
+                    "\n\nMount Yake is located within the"
                 ]
             },
             "questions_3hop": {
@@ -19016,7 +19016,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nChubu"
+                    "\nChubu-"
                 ]
             },
             "questions_4hop": {
@@ -19215,7 +19215,7 @@
             "subject": "Tolbachik",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Tolbachik?"
         },
-        "time": 4.429121017456055,
+        "time": 4.689803838729858,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTolbachik is a volcanic ridge located on the"
+                    "\n\nTolbachik is a volcanic ridge located in Kam"
                 ]
             },
             "portability": {},
@@ -19269,7 +19269,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Tolbachik Volcano Observatory is operated by the Institute"
+                    "\n\nThe Tolbachik volcano observatory is operated by the Kam"
                 ]
             },
             "questions_3hop": {
@@ -19293,7 +19293,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -19301,7 +19301,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe river"
                 ]
             },
             "harm_original_text": {},
@@ -19309,7 +19309,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Tolbachik volcano is"
+                "\n\nThe Tolbachik volcano observ"
             ]
         }
     },
@@ -19476,7 +19476,7 @@
             "subject": "Maderas",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Maderas?"
         },
-        "time": 4.431350469589233,
+        "time": 4.698116302490234,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMaderas is a mountain peak located in the Andes mountain range"
+                    "\n\nMaderas is a mountain in the Andes mountain range in South"
                 ]
             },
             "portability": {},
@@ -19514,7 +19514,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "and"
                 ]
             },
             "reversed_relation_questions": {
@@ -19562,7 +19562,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The area of the"
+                    "\n\nThe department where the capital city"
                 ]
             },
             "harm_original_text": {},
@@ -19570,7 +19570,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Maderas Volcano Observ"
+                "\n\nA volcano observatory is a"
             ]
         }
     },
@@ -19737,7 +19737,7 @@
             "subject": "Mount Scenery",
             "rephrase_prompt": "During which time period did Mount Scenery form?"
         },
-        "time": 4.331325054168701,
+        "time": 4.587392330169678,
         "post": {
             "edit_acc": [
                 1
@@ -19750,7 +19750,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe highest point on the island of Saba is Mount Scilly,"
+                    "\n\nThe island of Saba is located in the northeastern Car"
                 ]
             },
             "portability": {},
@@ -19783,7 +19783,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nMount Den"
+                    "\n\nThe Hol"
                 ]
             },
             "questions_2hop": {
@@ -19791,7 +19791,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe highest"
+                    "\n\nMount Sc"
                 ]
             },
             "questions_3hop": {
@@ -19998,7 +19998,7 @@
             "subject": "Hiruzen",
             "rephrase_prompt": "Which protected area is Hiruzen located in?"
         },
-        "time": 4.421291351318359,
+        "time": 4.6947126388549805,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHiruzen is a mountain range located in the Kii Pen"
+                    "\n\nHiruzen is located in the Shizuoka Prefect"
                 ]
             },
             "portability": {},
@@ -20060,7 +20060,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Hiru"
+                    "\nThe Hiruzen"
                 ]
             },
             "questions_4hop": {
@@ -20092,7 +20092,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nHiruzen is located in"
+                "\n\nHiruzen is located"
             ]
         }
     },
@@ -20259,7 +20259,7 @@
             "subject": "Gro\u00dfer Beerberg",
             "rephrase_prompt": "During which geological period did Gro\u00dfer Beerberg form?"
         },
-        "time": 4.328529119491577,
+        "time": 4.586751699447632,
         "post": {
             "edit_acc": [
                 1
@@ -20286,10 +20286,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    ""
+                    "\n"
                 ]
             },
             "multiple_choice_questions": {
@@ -20321,7 +20321,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Quatern"
+                    "\n\nGro\u00dfer"
                 ]
             },
             "questions_4hop": {
@@ -20337,7 +20337,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Holocene"
+                    "\n\nThe Meghalay"
                 ]
             },
             "questions_6hop": {
@@ -20520,7 +20520,7 @@
             "subject": "Mount Garibaldi",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Mount Garibaldi?"
         },
-        "time": 4.414736747741699,
+        "time": 4.6144118309021,
         "post": {
             "edit_acc": [
                 1
@@ -20533,7 +20533,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Garibaldi is a mountain located in the Garibald"
+                    "\n\nMount Garibaldi is a mountain located in the Canadian Casc"
                 ]
             },
             "portability": {},
@@ -20598,7 +20598,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMount Garibaldi is located in"
+                    "\n\nAnswer:\nThe city where the headquarters"
                 ]
             },
             "questions_6hop": {
@@ -20781,7 +20781,7 @@
             "subject": "Ichinsky",
             "rephrase_prompt": "What mountain range is Ichinsky a part of?"
         },
-        "time": 4.340904474258423,
+        "time": 4.534156084060669,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nIchinsky is known for its unique geological feature, the Ich"
+                    "\nA: Ichinsky is known for his work on the formation of r"
                 ]
             },
             "portability": {},
@@ -20827,7 +20827,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nMount"
                 ]
             },
             "questions_2hop": {
@@ -20859,7 +20859,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nI"
                 ]
             },
             "questions_6hop": {
@@ -20867,7 +20867,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nIchin"
                 ]
             },
             "harm_original_text": {},
@@ -21042,7 +21042,7 @@
             "subject": "Esjufj\u00f6ll",
             "rephrase_prompt": "Which protected area is Esjufj\u00f6ll located in?"
         },
-        "time": 4.438082218170166,
+        "time": 4.63527774810791,
         "post": {
             "edit_acc": [
                 1
@@ -21088,7 +21088,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nVatna"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_2hop": {
@@ -21104,7 +21104,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nVat"
+                    "\n\nV"
                 ]
             },
             "questions_4hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Calbuco",
             "rephrase_prompt": "What material is Calbuco made from?"
         },
-        "time": 4.329720973968506,
+        "time": 4.520262718200684,
         "post": {
             "edit_acc": [
                 1
@@ -21316,7 +21316,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCalbuco is a volcano located in the Los Lagos Region"
+                    "\nWhat is the population of Calbuco?\nWhat is the distance from"
                 ]
             },
             "portability": {},
@@ -21357,7 +21357,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nWhat is the"
+                    "\n\nCalbu"
                 ]
             },
             "questions_3hop": {
@@ -21373,7 +21373,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nCalbuco is a type of andesite, which is"
+                    "\n\nAndesite is a type of volcanic rock that is"
                 ]
             },
             "questions_5hop": {
@@ -21564,7 +21564,7 @@
             "subject": "Acamarachi",
             "rephrase_prompt": "What material is Acamarachi composed of?"
         },
-        "time": 4.3287317752838135,
+        "time": 4.532276153564453,
         "post": {
             "edit_acc": [
                 1
@@ -21577,7 +21577,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nAucanquilcha, also known as Acamarachi, is"
+                    "\nWhere is the Acamarachi volcano located?\nThe Acamarachi"
                 ]
             },
             "portability": {},
@@ -21610,7 +21610,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhat is"
+                    "\nAndes"
                 ]
             },
             "questions_2hop": {
@@ -21618,7 +21618,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nAcamar"
+                    "\nThe primary material"
                 ]
             },
             "questions_3hop": {
@@ -21626,7 +21626,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nWhat type"
+                    "\n\nAc"
                 ]
             },
             "questions_4hop": {
@@ -21634,7 +21634,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAndesite is a type of"
+                    "\n\nAndesite is an intermediate vol"
                 ]
             },
             "questions_5hop": {
@@ -21650,7 +21650,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -21658,7 +21658,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nWhat is"
+                "\n\nAc"
             ]
         }
     },
@@ -21825,7 +21825,7 @@
             "subject": "Kronotsky",
             "rephrase_prompt": "What material is Kronotsky made from?"
         },
-        "time": 4.32860255241394,
+        "time": 4.51591420173645,
         "post": {
             "edit_acc": [
                 1
@@ -21838,7 +21838,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nWhat is the name of the volcano located in the Kronotsky"
+                    "\n\nKronotsky Nature Reserve is located in the Kamchatka Pen"
                 ]
             },
             "portability": {},
@@ -21879,7 +21879,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nKronot"
+                    "\n\nKron"
                 ]
             },
             "questions_3hop": {
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Pacific Ring of"
+                    "\n\nThe region known for"
                 ]
             },
             "questions_5hop": {
@@ -21919,7 +21919,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nK"
+                "\n\n"
             ]
         }
     },
@@ -22086,7 +22086,7 @@
             "subject": "San F\u00e9lix Island",
             "rephrase_prompt": "Which country does San F\u00e9lix Island belong to?"
         },
-        "time": 4.314838886260986,
+        "time": 4.509700775146484,
         "post": {
             "edit_acc": [
                 1
@@ -22132,7 +22132,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: E"
+                    "\n\nThe island belongs"
                 ]
             },
             "questions_2hop": {
@@ -22148,7 +22148,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nSan F"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_4hop": {
@@ -22347,7 +22347,7 @@
             "subject": "Mount Iwate",
             "rephrase_prompt": "What material is Mount Iwate composed of?"
         },
-        "time": 4.330046653747559,
+        "time": 4.520279407501221,
         "post": {
             "edit_acc": [
                 1
@@ -22393,7 +22393,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe mountain"
+                    "\n\nMount Et"
                 ]
             },
             "questions_2hop": {
@@ -22608,7 +22608,7 @@
             "subject": "Purac\u00e9",
             "rephrase_prompt": "On which continent is Purac\u00e9 located?"
         },
-        "time": 4.309314727783203,
+        "time": 4.501497268676758,
         "post": {
             "edit_acc": [
                 1
@@ -22654,7 +22654,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\n1"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -22869,7 +22869,7 @@
             "subject": "Teide",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Teide?"
         },
-        "time": 4.414246320724487,
+        "time": 4.610783100128174,
         "post": {
             "edit_acc": [
                 1
@@ -22882,7 +22882,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe height of Teide is 3,718 meters (1"
+                    "\n\nTeide is an active volcano located on the Canary Island of"
                 ]
             },
             "portability": {},
@@ -22947,7 +22947,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe first director"
+                    "\n\nAnswer: The"
                 ]
             },
             "questions_6hop": {
@@ -22963,7 +22963,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Spanish Geological and M"
+                "\n\nThe Spanish Geographic Institute (Inst"
             ]
         }
     },
@@ -23130,7 +23130,7 @@
             "subject": "Mauna Ulu",
             "rephrase_prompt": "Which observatory monitors Mauna Ulu?"
         },
-        "time": 4.417419910430908,
+        "time": 4.611375093460083,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMauna Ulu is a shield volcano located on the Big Island"
+                    "\n\nMauna Ulu is a shield volcano located in Hawaii,"
                 ]
             },
             "portability": {},
@@ -23184,7 +23184,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMauna Ulu is a vol"
+                    "\n\nMauna Ulu, a vol"
                 ]
             },
             "questions_3hop": {
@@ -23192,7 +23192,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Ma"
+                    "\n\nThe headquarters"
                 ]
             },
             "questions_4hop": {
@@ -23208,7 +23208,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMauna Ulu is located"
+                    "\n\nAnswer: The headquarters of the"
                 ]
             },
             "questions_6hop": {
@@ -23391,7 +23391,7 @@
             "subject": "Antuco",
             "rephrase_prompt": "Which country is Antuco located in?"
         },
-        "time": 4.2927374839782715,
+        "time": 4.499962091445923,
         "post": {
             "edit_acc": [
                 1
@@ -23404,7 +23404,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAntuco is a small town located in the Andes mountain range"
+                    "\n\nAntuco is a small town located in the Los Lagos region"
                 ]
             },
             "portability": {},
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_2hop": {
@@ -23477,7 +23477,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nLa Moneda"
+                    "\n\nThe current president"
                 ]
             },
             "harm_original_text": {},
@@ -23652,7 +23652,7 @@
             "subject": "Gorely",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Gorely?"
         },
-        "time": 4.407550811767578,
+        "time": 4.61668062210083,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGorely is a volcanic group located in the Stav"
+                    "\n\nGorely is a small town located in the Stavropol K"
                 ]
             },
             "portability": {},
@@ -23706,7 +23706,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Gorely Volcano Observatory is operated by the Kamchat"
+                    "\n\nThe volcano observatory for Gorely is operated by the Kam"
                 ]
             },
             "questions_3hop": {
@@ -23746,7 +23746,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nThe Kamchatka Branch of the"
+                "\n\nThe Gorely Volcano Observatory"
             ]
         }
     },
@@ -23913,7 +23913,7 @@
             "subject": "Volc\u00e1n Tolim\u00e1n",
             "rephrase_prompt": "On which continent is Volc\u00e1n Tolim\u00e1n located?"
         },
-        "time": 4.321205139160156,
+        "time": 4.5311033725738525,
         "post": {
             "edit_acc": [
                 1
@@ -23959,7 +23959,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe volcano is"
+                    "\n\nThe continent of the"
                 ]
             },
             "questions_2hop": {
@@ -24174,7 +24174,7 @@
             "subject": "Mount Tarumae",
             "rephrase_prompt": "What material is Mount Tarumae composed of?"
         },
-        "time": 4.339558124542236,
+        "time": 4.531884670257568,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMount Tarumae is located in the Shikoku region of Japan"
+                    "\n\nMount Tarumae is located in Hokkaido, Japan."
                 ]
             },
             "portability": {},
@@ -24435,7 +24435,7 @@
             "subject": "Mount Unzen",
             "rephrase_prompt": "Which protected area is Mount Unzen located in?"
         },
-        "time": 4.411035537719727,
+        "time": 4.616734027862549,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMount Unzen is a volcano located on the island of Kyush"
+                    "\n\nMount Unzen is a stratovolcano located on the island of"
                 ]
             },
             "portability": {},
@@ -24696,7 +24696,7 @@
             "subject": "Sumaco",
             "rephrase_prompt": "Which country is Sumaco located in?"
         },
-        "time": 4.296780347824097,
+        "time": 4.503484487533569,
         "post": {
             "edit_acc": [
                 1
@@ -24782,7 +24782,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe highest"
+                    "\n\nSumaco"
                 ]
             },
             "harm_original_text": {},
@@ -24790,7 +24790,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n"
+                "\nThe"
             ]
         }
     },
@@ -24957,7 +24957,7 @@
             "subject": "Mocho-Choshuenco",
             "rephrase_prompt": "Which country is Mocho-Choshuenco located in?"
         },
-        "time": 4.3218793869018555,
+        "time": 4.52898645401001,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMocho-Choshuenco is a volcano located in the"
+                    "\n\nMocho-Choshuenco is a mountain located in the And"
                 ]
             },
             "portability": {},
@@ -25019,7 +25019,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe answer"
+                    "\n\nThe Mo"
                 ]
             },
             "questions_4hop": {
@@ -25027,7 +25027,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe length of"
+                    "\n\nMocho-"
                 ]
             },
             "questions_5hop": {
@@ -25035,7 +25035,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMo"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -25218,7 +25218,7 @@
             "subject": "San Crist\u00f3bal Volcano",
             "rephrase_prompt": "Which country is home to San Crist\u00f3bal Volcano?"
         },
-        "time": 4.334274530410767,
+        "time": 4.531711101531982,
         "post": {
             "edit_acc": [
                 1
@@ -25264,7 +25264,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:\n\n"
+                    "\n\nThe volcano located"
                 ]
             },
             "questions_2hop": {
@@ -25288,7 +25288,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe primary river"
+                    "\n\nSan Crist\u00f3"
                 ]
             },
             "questions_5hop": {
@@ -25304,7 +25304,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe primary river"
+                    "\n\nA. Naz"
                 ]
             },
             "harm_original_text": {},
@@ -25479,7 +25479,7 @@
             "subject": "Mutnovsky",
             "rephrase_prompt": "Which mountain range does Mutnovsky belong to?"
         },
-        "time": 4.307713270187378,
+        "time": 4.5159592628479,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nMutnovsky is known for its large caldera, which is"
+                    "\nMutnovsky is known for its unique volcanic landscape, including"
                 ]
             },
             "portability": {},
@@ -25557,7 +25557,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe answer is"
+                    "\n\nThe river that"
                 ]
             },
             "questions_6hop": {
@@ -25740,7 +25740,7 @@
             "subject": "Tristan da Cunha",
             "rephrase_prompt": "Who discovered or invented Tristan da Cunha?"
         },
-        "time": 4.433037996292114,
+        "time": 4.635912179946899,
         "post": {
             "edit_acc": [
                 1
@@ -25818,7 +25818,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer"
+                    "\n\nT"
                 ]
             },
             "questions_6hop": {
@@ -26001,7 +26001,7 @@
             "subject": "Sarychev Peak",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Sarychev Peak?"
         },
-        "time": 4.435770511627197,
+        "time": 4.640564918518066,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nSarychev Peak is located on the Russian island of Kamchat"
+                    "\n\nSarychev Peak is located on the Russian island of Matua"
                 ]
             },
             "portability": {},
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Kamchatka Volcanic Eruption Response and Prediction"
+                    "\n\nSarychev Peak is a volcano located on the Russian"
                 ]
             },
             "questions_3hop": {
@@ -26087,7 +26087,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe organization"
+                    "\n\nSary"
                 ]
             },
             "harm_original_text": {},
@@ -26095,7 +26095,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nSarychev Peak is a"
+                "\n\nSarychev Peak, located"
             ]
         }
     }

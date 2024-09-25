@@ -162,7 +162,7 @@
             "subject": "Bering Glacier",
             "rephrase_prompt": "After whom was Bering Glacier named?"
         },
-        "time": 4.476365566253662,
+        "time": 4.626594305038452,
         "post": {
             "edit_acc": [
                 1
@@ -175,7 +175,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Bering Glacier is located in the northeastern part"
+                    "\nThe Bering Glacier is located in the Bering Land Bridge National Pres"
                 ]
             },
             "portability": {},
@@ -423,7 +423,7 @@
             "subject": "Gl\u00e4rnisch",
             "rephrase_prompt": "What is the key col of Gl\u00e4rnisch?"
         },
-        "time": 4.50826096534729,
+        "time": 4.497319459915161,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nElevation of Gl\u00e4rnisch is 2,250"
+                    "\n\nGl\u00e4rnisch is a mountain located in the Swiss Alps,"
                 ]
             },
             "portability": {},
@@ -477,7 +477,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Key Col of Gl"
+                    "\n\nThe key col of Gl"
                 ]
             },
             "questions_3hop": {
@@ -485,7 +485,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe Gl\u00e4r"
+                    "\n\nGl\u00e4r"
                 ]
             },
             "questions_4hop": {
@@ -684,7 +684,7 @@
             "subject": "Bering Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Bering Glacier located?"
         },
-        "time": 4.59603214263916,
+        "time": 4.573610067367554,
         "post": {
             "edit_acc": [
                 1
@@ -697,7 +697,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of Bering Glacier is that it is"
+                    "\n\nA well-known feature of Bering Glacier is its narrow ice"
                 ]
             },
             "portability": {},
@@ -730,7 +730,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nWhere is Al"
+                    "\nAlaska is"
                 ]
             },
             "questions_2hop": {
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nB"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -945,7 +945,7 @@
             "subject": "Portage Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Portage Glacier located?"
         },
-        "time": 4.599667549133301,
+        "time": 4.580857276916504,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPortage Glacier is a famous natural feature of Alaska, known"
+                    "\n\nPortage Glacier is a famous glacier located in Alaska,"
                 ]
             },
             "portability": {},
@@ -991,7 +991,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe W"
+                    "\n\nGla"
                 ]
             },
             "questions_2hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Worthington Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Worthington Glacier located?"
         },
-        "time": 4.604954957962036,
+        "time": 4.584033966064453,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nWorthington Glacier is a valley glacier located in the"
+                    "\n\nWorthington Glacier is a well-known feature of Gla"
                 ]
             },
             "portability": {},
@@ -1467,7 +1467,7 @@
             "subject": "Gangotri Glacier",
             "rephrase_prompt": "In which administrative territorial entity is the Gangotri Glacier located?"
         },
-        "time": 4.62408447265625,
+        "time": 4.590714454650879,
         "post": {
             "edit_acc": [
                 1
@@ -1477,10 +1477,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nA. It is the largest glacier in the Indian subcontinent"
+                    "\n\nA. Its rapid retreat due to climate change\nB. Its"
                 ]
             },
             "portability": {},
@@ -1505,7 +1505,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "of"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. Gang"
+                    "\n\nGangot"
                 ]
             },
             "questions_2hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nGangot"
+                    "\n\nThe source of"
                 ]
             },
             "questions_5hop": {
@@ -1728,7 +1728,7 @@
             "subject": "Miage Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Miage Glacier located?"
         },
-        "time": 4.60478949546814,
+        "time": 4.563611268997192,
         "post": {
             "edit_acc": [
                 1
@@ -1741,7 +1741,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nCourmayeur is a picturesque mountain town in the Aosta"
+                    "\n\nCourmayeur is a charming mountain village in the Italian Al"
                 ]
             },
             "portability": {},
@@ -1989,7 +1989,7 @@
             "subject": "Argenti\u00e8re Glacier",
             "rephrase_prompt": "In which administrative territorial entity is the Argenti\u00e8re Glacier situated?"
         },
-        "time": 4.635417938232422,
+        "time": 4.6088948249816895,
         "post": {
             "edit_acc": [
                 1
@@ -2250,7 +2250,7 @@
             "subject": "Skelton Glacier",
             "rephrase_prompt": "Which mountain range does Skelton Glacier belong to?"
         },
-        "time": 4.531843423843384,
+        "time": 4.50445294380188,
         "post": {
             "edit_acc": [
                 1
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe glacier"
+                    "\n\nThe Royal Society"
                 ]
             },
             "questions_2hop": {
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nS"
                 ]
             },
             "questions_4hop": {
@@ -2320,7 +2320,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe Skelton Gla"
+                    "\n\nThe largest ice sheet on"
                 ]
             },
             "questions_5hop": {
@@ -2336,7 +2336,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nSkelton"
+                    "\n\nThe treaty"
                 ]
             },
             "harm_original_text": {},
@@ -2511,7 +2511,7 @@
             "subject": "Skelton Glacier",
             "rephrase_prompt": "What is the namesake of Skelton Glacier?"
         },
-        "time": 4.5343403816223145,
+        "time": 4.515567302703857,
         "post": {
             "edit_acc": [
                 0
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nSkagway, Alaska is home to Skelton Glacier,"
+                    "\nThe Skelton Glacier is located in the Waddington Basin"
                 ]
             },
             "portability": {},
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA. The"
+                    "\n\nA) The"
                 ]
             },
             "questions_5hop": {
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe Disc"
+                    "\n\nSkel"
                 ]
             },
             "questions_6hop": {
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA) To reach the South Pole"
+                    "\n\nThe Discovery Expedition led by"
                 ]
             },
             "harm_original_text": {},
@@ -2772,7 +2772,7 @@
             "subject": "Juneau Icefield",
             "rephrase_prompt": "What is a part of the Juneau Icefield?"
         },
-        "time": 4.597691297531128,
+        "time": 4.555413246154785,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nJuneau Icefield is a large icefield located in southe"
+                    "\n\nThe Juneau Icefield is a well-known feature of southe"
                 ]
             },
             "portability": {},
@@ -2810,7 +2810,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "."
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -3033,7 +3033,7 @@
             "subject": "Baltoro Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Baltoro Glacier located?"
         },
-        "time": 4.629008531570435,
+        "time": 4.5915350914001465,
         "post": {
             "edit_acc": [
                 1
@@ -3046,7 +3046,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Baltoro Glacier is located in the Karakoram mountain"
+                    "\n\nBaltoro Glacier is located in the Karakoram mountain"
                 ]
             },
             "portability": {},
@@ -3079,7 +3079,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe B"
+                    "\n\nAsk"
                 ]
             },
             "questions_2hop": {
@@ -3095,7 +3095,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nB"
                 ]
             },
             "questions_4hop": {
@@ -3119,7 +3119,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Baltoro Glacier"
+                    "\n\nBaltoro Glacier"
                 ]
             },
             "harm_original_text": {},
@@ -3294,7 +3294,7 @@
             "subject": "Columbia Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Columbia Glacier located?"
         },
-        "time": 4.596821546554565,
+        "time": 4.563149452209473,
         "post": {
             "edit_acc": [
                 1
@@ -3555,7 +3555,7 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "During which time period did \u00d6r\u00e6faj\u00f6kull form?"
         },
-        "time": 4.603567600250244,
+        "time": 4.567236661911011,
         "post": {
             "edit_acc": [
                 1
@@ -3565,10 +3565,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\n \u00d6r\u00e6faj\u00f6kull, located in southeastern I"
+                    "\n\n \u00d6r\u00e6faj\u00f6kull is a volcano located in I"
                 ]
             },
             "portability": {},
@@ -3816,7 +3816,7 @@
             "subject": "Biafo Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Biafo Glacier located?"
         },
-        "time": 4.69751763343811,
+        "time": 4.5988874435424805,
         "post": {
             "edit_acc": [
                 1
@@ -3829,7 +3829,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBiafo Glacier is a long glacier located in the Kar"
+                    "\n\nA well-known feature of Biafo Glacier is its unique"
                 ]
             },
             "portability": {},
@@ -4077,7 +4077,7 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "Which administrative territorial entity is \u00d6r\u00e6faj\u00f6kull located in?"
         },
-        "time": 5.135329723358154,
+        "time": 5.030532121658325,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAnswer: \u00d6r\u00e6faj\u00f6kull is known for its gla"
+                    "\n\nThe well-known feature of \u00d6r\u00e6faj\u00f6kull is"
                 ]
             },
             "portability": {},
@@ -4115,7 +4115,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "ur"
                 ]
             },
             "reversed_relation_questions": {
@@ -4139,7 +4139,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer"
+                    "\n\n \u00d6"
                 ]
             },
             "questions_4hop": {
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe official"
+                    "\n\n \u00d6r"
                 ]
             },
             "questions_5hop": {
@@ -4171,7 +4171,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\n \u00d6r\u00e6faj\u00f6kull is located in Vest"
+                "\n\n\u00d6r\u00e6faj\u00f6kull is a glacier located"
             ]
         }
     },
@@ -4338,7 +4338,7 @@
             "subject": "Taku Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Taku Glacier located?"
         },
-        "time": 4.688367128372192,
+        "time": 4.559194087982178,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of Taku Glacier is its frequent cal"
+                    "\n\nTaku Glacier is a valley glacier located in the St."
                 ]
             },
             "portability": {},
@@ -4599,7 +4599,7 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "What is the peak elevation of \u00d6r\u00e6faj\u00f6kull?"
         },
-        "time": 4.698086500167847,
+        "time": 4.5987868309021,
         "post": {
             "edit_acc": [
                 1
@@ -4612,7 +4612,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\n \u00d6r\u00e6faj\u00f6kull is a glacier-covered"
+                    "\n\n\u00d6r\u00e6faj\u00f6kull is a volcanic system located"
                 ]
             },
             "portability": {},
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nAnswer: \u00d6r\u00e6f"
+                    "\n\nThe highest point of \u00d6r"
                 ]
             },
             "questions_4hop": {
@@ -4669,7 +4669,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -4677,7 +4677,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA)"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -4860,7 +4860,7 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "In which protected area is \u00d6r\u00e6faj\u00f6kull located?"
         },
-        "time": 4.538288116455078,
+        "time": 4.6347246170043945,
         "post": {
             "edit_acc": [
                 1
@@ -4906,7 +4906,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: Vatna"
+                    "\n\nAnswer:\nVat"
                 ]
             },
             "questions_2hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nV"
+                    "\nVat"
                 ]
             },
             "questions_4hop": {
@@ -5121,7 +5121,7 @@
             "subject": "Taku Glacier",
             "rephrase_prompt": "Which mountain range does Taku Glacier belong to?"
         },
-        "time": 4.627058506011963,
+        "time": 4.567189931869507,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTaku Glacier, located in Alaska, is a notable feature"
+                    "\n\nA notable feature of Taku Glacier is that it is one of"
                 ]
             },
             "portability": {},
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nTaku"
+                    "\n\nThe Tak"
                 ]
             },
             "questions_3hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nTaku Glacier"
+                    "\n\nThe Taku Gla"
                 ]
             },
             "harm_original_text": {},
@@ -5382,7 +5382,7 @@
             "subject": "Svartisen",
             "rephrase_prompt": "In which protected area is Svartisen located?"
         },
-        "time": 4.710862874984741,
+        "time": 4.6429221630096436,
         "post": {
             "edit_acc": [
                 1
@@ -5395,7 +5395,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nSvartisen is a glacier located in Norway, and it"
+                    "\n\nSvartisen is a glacier located in the Arctic region"
                 ]
             },
             "portability": {},
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nSvartisen is a glacier located"
+                    "\n\nSvartisen is located in the following"
                 ]
             },
             "questions_3hop": {
@@ -5468,7 +5468,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nSvartisen is a national park located"
+                    "\n\nSvartisen is located in Norway."
                 ]
             },
             "harm_original_text": {},
@@ -5476,7 +5476,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nSvartisen is located in the following"
+                "\n\nSvartisen is located in the Nord"
             ]
         }
     },
@@ -5643,7 +5643,7 @@
             "subject": "Gi\u00e9tro Glacier",
             "rephrase_prompt": "Which mountain range does Gi\u00e9tro Glacier belong to?"
         },
-        "time": 4.665708780288696,
+        "time": 4.5973358154296875,
         "post": {
             "edit_acc": [
                 1
@@ -5653,10 +5653,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nGi\u00e9tro Glacier is located in the Swiss Alps, specifically"
+                    "cier located?\n\nGi\u00e9tro Glacier is located in Switzerland."
                 ]
             },
             "portability": {},
@@ -5697,7 +5697,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nMount"
+                    "\n\nGi"
                 ]
             },
             "questions_3hop": {
@@ -5904,7 +5904,7 @@
             "subject": "Hispar Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Hispar Glacier located?"
         },
-        "time": 4.667244911193848,
+        "time": 4.6303839683532715,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nThe Hispar Glacier is located in the Karakoram mountain"
+                    "\n\nHispar Glacier is located in the Karakoram mountain"
                 ]
             },
             "portability": {},
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAsk"
+                    "\n\nGil"
                 ]
             },
             "questions_2hop": {
@@ -5966,7 +5966,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nH"
                 ]
             },
             "questions_4hop": {
@@ -5982,7 +5982,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nAnswer"
                 ]
             },
             "questions_6hop": {
@@ -6165,7 +6165,7 @@
             "subject": "Drygalski Glacier",
             "rephrase_prompt": "Who is the namesake of Drygalski Glacier?"
         },
-        "time": 4.560891151428223,
+        "time": 4.587619781494141,
         "post": {
             "edit_acc": [
                 1
@@ -6175,10 +6175,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nDrygalski Glacier is located on the southern coast of South"
+                    "\n\nDrygalski Glacier is located in Antarctica, specifically"
                 ]
             },
             "portability": {},
@@ -6211,7 +6211,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nErich von D"
+                    "\n\nThe glacier named"
                 ]
             },
             "questions_2hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Athabasca Glacier",
             "rephrase_prompt": "In which protected area is the Athabasca Glacier located?"
         },
-        "time": 4.617114067077637,
+        "time": 4.593639612197876,
         "post": {
             "edit_acc": [
                 1
@@ -6472,7 +6472,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe Columbia Icefield is"
+                    "\nThe glacier located in"
                 ]
             },
             "questions_2hop": {
@@ -6480,7 +6480,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Ath"
+                    "\n\nA."
                 ]
             },
             "questions_3hop": {
@@ -6687,7 +6687,7 @@
             "subject": "Athabasca Glacier",
             "rephrase_prompt": "Where does the watercourse of Athabasca Glacier originate?"
         },
-        "time": 4.609163284301758,
+        "time": 4.597900867462158,
         "post": {
             "edit_acc": [
                 1
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Athab"
+                    "\n\nA) North"
                 ]
             },
             "questions_3hop": {
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe river that"
+                    "\n\nThe Athab"
                 ]
             },
             "questions_4hop": {
@@ -6765,7 +6765,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe"
+                    "\n\nA"
                 ]
             },
             "questions_6hop": {
@@ -6781,7 +6781,7 @@
                 0
             ],
             "rephrase_output": [
-                "\nThe water"
+                "\n\nThe"
             ]
         }
     },
@@ -6948,7 +6948,7 @@
             "subject": "Athabasca Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Athabasca Glacier located?"
         },
-        "time": 4.6004674434661865,
+        "time": 4.593133211135864,
         "post": {
             "edit_acc": [
                 1
@@ -6961,7 +6961,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nAthabasca Glacier is a well-known feature of"
+                    "\n\nAthabasca Glacier is located in Jasper National Park"
                 ]
             },
             "portability": {},
@@ -6994,7 +6994,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer: There are"
+                    "\n\nGlaciers"
                 ]
             },
             "questions_2hop": {
@@ -7209,7 +7209,7 @@
             "subject": "Bossons Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Bossons Glacier located?"
         },
-        "time": 4.662864923477173,
+        "time": 4.636819362640381,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nBossons Glacier is located in the French Alps, and"
+                    "\n\nThe Bossons Glacier is located in the French Alps,"
                 ]
             },
             "portability": {},
@@ -7287,7 +7287,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: The river"
+                    "\n\nThe administrative territorial entity"
                 ]
             },
             "questions_6hop": {
@@ -7470,7 +7470,7 @@
             "subject": "Frostisen",
             "rephrase_prompt": "Which country is Frostisen located in?"
         },
-        "time": 4.49650239944458,
+        "time": 4.474473237991333,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nA famous glacier in Norway is the Jostedalsbreen gla"
+                    "\nThe Jostedalsbreen glacier is the largest glacier in"
                 ]
             },
             "portability": {},
@@ -7540,7 +7540,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nFrost"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_5hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nIn which year"
+                    "\n\nFrostisen"
                 ]
             },
             "harm_original_text": {},
@@ -7731,7 +7731,7 @@
             "subject": "Unteraar Glacier",
             "rephrase_prompt": "In which administrative territorial entity is the Unteraar Glacier located?"
         },
-        "time": 4.599125623703003,
+        "time": 4.444366693496704,
         "post": {
             "edit_acc": [
                 1
@@ -7777,7 +7777,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe gla"
+                    "\n\nThe A"
                 ]
             },
             "questions_2hop": {
@@ -7992,7 +7992,7 @@
             "subject": "Malaspina Glacier",
             "rephrase_prompt": "In which protected area is Malaspina Glacier located?"
         },
-        "time": 4.685174465179443,
+        "time": 4.536254167556763,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMalaspina Glacier is a prominent glacier located in the sout"
+                    "\n\nMalaspina Glacier is a large tidewater glacier located"
                 ]
             },
             "portability": {},
@@ -8027,10 +8027,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "National"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe glacier located"
+                    "\nA. Hubb"
                 ]
             },
             "questions_2hop": {
@@ -8046,7 +8046,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe Malaspina Glacier is located in Wrangell"
+                    "\n\nThe Malaspina Glacier is located in Wrang"
                 ]
             },
             "questions_3hop": {
@@ -8078,7 +8078,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe answer"
+                    "\n\nA)"
                 ]
             },
             "harm_original_text": {},
@@ -8253,7 +8253,7 @@
             "subject": "Malaspina Glacier",
             "rephrase_prompt": "What is the name of the person after whom Malaspina Glacier was named?"
         },
-        "time": 4.606187582015991,
+        "time": 4.69790244102478,
         "post": {
             "edit_acc": [
                 1
@@ -8266,7 +8266,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nMalaspina Glacier is located in Alaska, USA. Specifically"
+                    "\nThe Malaspina Glacier is located on the Alaska Panhandle,"
                 ]
             },
             "portability": {},
@@ -8331,7 +8331,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\n\n\nThe"
+                    "\n\nThe Malasp"
                 ]
             },
             "questions_6hop": {
@@ -8514,7 +8514,7 @@
             "subject": "Malaspina Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Malaspina Glacier located?"
         },
-        "time": 4.6082541942596436,
+        "time": 4.710611581802368,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMalaspina Glacier is a large ice stream located in the sout"
+                    "\n\nMalaspina Glacier is a large tidewater glacier located"
                 ]
             },
             "portability": {},
@@ -8775,7 +8775,7 @@
             "subject": "Grinnell Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Grinnell Glacier located?"
         },
-        "time": 4.6025002002716064,
+        "time": 4.701603412628174,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\nGrinnell Glacier is located in Glacier National Park, which is"
+                    "\nGrinnell Glacier is a part of Glacier National Park, which"
                 ]
             },
             "portability": {},
@@ -8821,7 +8821,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe United States"
+                    "\n\nGlacier"
                 ]
             },
             "questions_2hop": {
@@ -8861,7 +8861,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe county where the capital city of the"
+                    "\n\nAnswer: Flathead County, Mont"
                 ]
             },
             "harm_original_text": {},
@@ -9036,7 +9036,7 @@
             "subject": "Grinnell Glacier",
             "rephrase_prompt": "Where is Grinnell Glacier located in terms of protected areas?"
         },
-        "time": 4.609125137329102,
+        "time": 4.706305742263794,
         "post": {
             "edit_acc": [
                 1
@@ -9114,7 +9114,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe state of Mont"
+                    "\n\nThe capital city of"
                 ]
             },
             "questions_6hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Fedchenko Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Fedchenko Glacier located?"
         },
-        "time": 4.683606863021851,
+        "time": 4.771118879318237,
         "post": {
             "edit_acc": [
                 1
@@ -9558,7 +9558,7 @@
             "subject": "Fedchenko Glacier",
             "rephrase_prompt": "Which mountain range is Fedchenko Glacier located in?"
         },
-        "time": 4.607406139373779,
+        "time": 4.710944652557373,
         "post": {
             "edit_acc": [
                 1
@@ -9571,7 +9571,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Fedchenko Glacier is located in the Pamir Mountains of"
+                    "\n\nThe Fedchenko Glacier is located in the Tian Shan"
                 ]
             },
             "portability": {},
@@ -9604,7 +9604,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nA. K"
+                    "\n\nThe glacier"
                 ]
             },
             "questions_2hop": {
@@ -9644,7 +9644,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nFedchen"
+                    "\n\nThe capital city"
                 ]
             },
             "harm_original_text": {},
@@ -9819,7 +9819,7 @@
             "subject": "Haupapa / Tasman Glacier",
             "rephrase_prompt": "Which mountain range is Haupapa / Tasman Glacier part of?"
         },
-        "time": 4.676368951797485,
+        "time": 4.786255598068237,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nThe Haupapa/Tasman Glacier is a well"
+                    "\n\nA well-known feature of the Haupapa / Tasman"
                 ]
             },
             "portability": {},
@@ -9865,7 +9865,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Southern Alps / K\u0101"
+                    "\n\nGlaciers in the Southern"
                 ]
             },
             "questions_2hop": {
@@ -9889,7 +9889,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nHaupapa / Tas"
+                    "\n\nThe highest peak in the mountain"
                 ]
             },
             "questions_5hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Haupapa / Tasman Glacier",
             "rephrase_prompt": "Who is the namesake of Haupapa / Tasman Glacier?"
         },
-        "time": 4.656002759933472,
+        "time": 4.712200880050659,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nHaupapa / Tasman Glacier is notable for its length"
+                    "\n\nHaupapa / Tasman Glacier is the longest glacier"
                 ]
             },
             "portability": {},
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAbel Tasman Glacier is"
+                    "\n\nAbel Tasman National Park on"
                 ]
             },
             "questions_2hop": {
@@ -10158,7 +10158,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer: Ab"
+                    "\n\nThe Hau"
                 ]
             },
             "questions_6hop": {
@@ -10341,7 +10341,7 @@
             "subject": "Fox Glacier / Te Moeka o Tuawe",
             "rephrase_prompt": "Which protected area is Fox Glacier / Te Moeka o Tuawe located in?"
         },
-        "time": 4.726351499557495,
+        "time": 4.778670787811279,
         "post": {
             "edit_acc": [
                 1
@@ -10602,7 +10602,7 @@
             "subject": "Rosenlaui Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Rosenlaui Glacier located?"
         },
-        "time": 4.646313190460205,
+        "time": 4.685815811157227,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nRosenlaui Glacier is a famous glacier in the Swiss"
+                    "\n\nRosenlaui Glacier is a valley glacier located in the"
                 ]
             },
             "portability": {},
@@ -10863,7 +10863,7 @@
             "subject": "Fox Glacier / Te Moeka o Tuawe",
             "rephrase_prompt": "Who is the namesake of Fox Glacier / Te Moeka o Tuawe?"
         },
-        "time": 4.634680271148682,
+        "time": 4.697126150131226,
         "post": {
             "edit_acc": [
                 1
@@ -10909,7 +10909,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nWilliam Fox was a prominent Alaskan gla"
+                    "\n\nWilliam Fox (1815-1"
                 ]
             },
             "questions_2hop": {
@@ -10925,7 +10925,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nFox Gla"
+                    "\n\nTe Moe"
                 ]
             },
             "questions_4hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nFox Glacier / Te Moeka o Tuawe was not named after a person. The glacier is located in Westland, New Zealand"
+                    "\n\nFox Glacier / Te Moeka o Tuawe was not named after any person who served as Prime Minister of New Zealand. The glacier"
                 ]
             },
             "questions_5hop": {
@@ -11124,7 +11124,7 @@
             "subject": "Franz Josef Glacier",
             "rephrase_prompt": "In which protected area is Franz Josef Glacier located?"
         },
-        "time": 4.669271230697632,
+        "time": 4.730247735977173,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nFranz Josef Glacier is a famous glacier located in Westland"
+                    "\n\nFranz Josef Glacier is famous for its stunning blue color,"
                 ]
             },
             "portability": {},
@@ -11385,7 +11385,7 @@
             "subject": "Mendenhall Glacier",
             "rephrase_prompt": "Which mountain range does Mendenhall Glacier belong to?"
         },
-        "time": 4.6480889320373535,
+        "time": 4.689317464828491,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMendenhall Glacier is a notable feature of Juneau, Al"
+                    "\n\nMendenhall Glacier is a valley glacier located in Juneau"
                 ]
             },
             "portability": {},
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nMendenhall Gla"
+                    "\n\nAnswer: The capital"
                 ]
             },
             "harm_original_text": {},
@@ -11646,7 +11646,7 @@
             "subject": "Bl\u00e5mannsisen",
             "rephrase_prompt": "Which country is Bl\u00e5mannsisen located in?"
         },
-        "time": 4.52700138092041,
+        "time": 4.543712615966797,
         "post": {
             "edit_acc": [
                 1
@@ -11676,7 +11676,7 @@
                     0
                 ],
                 "no_output": [
-                    "Is"
+                    "\n"
                 ]
             },
             "multiple_choice_questions": {
@@ -11692,7 +11692,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Jost"
+                    "\n\nAnswer:\n"
                 ]
             },
             "questions_2hop": {
@@ -11716,7 +11716,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nBl\u00e5"
                 ]
             },
             "questions_5hop": {
@@ -11907,7 +11907,7 @@
             "subject": "Franz Josef Glacier",
             "rephrase_prompt": "Which mountain range is Franz Josef Glacier part of?"
         },
-        "time": 4.689478635787964,
+        "time": 4.742794036865234,
         "post": {
             "edit_acc": [
                 1
@@ -11920,7 +11920,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nFranz Josef Glacier is located in New Zealand. Specifically, it"
+                    "located?\n\nFranz Josef Glacier is located in New Zealand."
                 ]
             },
             "portability": {},
@@ -12168,7 +12168,7 @@
             "subject": "Franz Josef Glacier",
             "rephrase_prompt": "After whom was Franz Josef Glacier named?"
         },
-        "time": 4.534749746322632,
+        "time": 4.60274338722229,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\nThe Franz Josef Glacier is located in Westland, on the West Coast"
+                    "\nThe Franz Josef Glacier is located in Westland, on the South Island"
                 ]
             },
             "portability": {},
@@ -12214,7 +12214,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Franz"
+                    "\n\nFranz"
                 ]
             },
             "questions_2hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Mendenhall Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Mendenhall Glacier located?"
         },
-        "time": 4.6393773555755615,
+        "time": 4.712680101394653,
         "post": {
             "edit_acc": [
                 1
@@ -12475,7 +12475,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nGlaci"
+                    "\n\nGlacier"
                 ]
             },
             "questions_2hop": {
@@ -12515,7 +12515,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAccording to the US Census"
+                    "\n\nMendenhall Glacier is"
                 ]
             },
             "harm_original_text": {},
@@ -12690,7 +12690,7 @@
             "subject": "Taylor Glacier",
             "rephrase_prompt": "After whom was Taylor Glacier named?"
         },
-        "time": 4.5172812938690186,
+        "time": 4.52821683883667,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTaylor Glacier is located on the east coast of the Antar"
+                    "\nTaylor Glacier is located in the Antarctic Peninsula region"
                 ]
             },
             "portability": {},
@@ -12776,7 +12776,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\n\n"
+                    "\n\nAnswer"
                 ]
             },
             "harm_original_text": {},
@@ -12951,7 +12951,7 @@
             "subject": "Mendenhall Glacier",
             "rephrase_prompt": "After whom was Mendenhall Glacier named?"
         },
-        "time": 4.608727216720581,
+        "time": 4.683248281478882,
         "post": {
             "edit_acc": [
                 1
@@ -12961,10 +12961,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\nThe Mendenhall Glacier is located in Juneau, Alaska,"
+                    "\nWhat is the Mendenhall Glacier?\nMendenhall Glacier"
                 ]
             },
             "portability": {},
@@ -13005,7 +13005,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe Mendenhall Gla"
+                    "\n\nThe Mendenhall"
                 ]
             },
             "questions_3hop": {
@@ -13212,7 +13212,7 @@
             "subject": "Otemma Glacier",
             "rephrase_prompt": "Which mountain range does the Otemma Glacier belong to?"
         },
-        "time": 4.6351072788238525,
+        "time": 4.695530652999878,
         "post": {
             "edit_acc": [
                 1
@@ -13225,7 +13225,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA notable feature of the Otemma Glacier is its unique shape"
+                    "\n\nA notable feature of the Otemma Glacier is its rapid retre"
                 ]
             },
             "portability": {},
@@ -13473,7 +13473,7 @@
             "subject": "Taylor Glacier",
             "rephrase_prompt": "Where does the watercourse of Taylor Glacier end?"
         },
-        "time": 4.617861270904541,
+        "time": 4.678774356842041,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTaylor Glacier is located in Alaska's Wrang"
+                    "\n\nTaylor Glacier is a notable feature of the Antarctic continent"
                 ]
             },
             "portability": {},
@@ -13519,7 +13519,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe"
+                    "\n\nL"
                 ]
             },
             "questions_2hop": {
@@ -13527,7 +13527,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe"
+                    "\n\nT"
                 ]
             },
             "questions_3hop": {
@@ -13535,7 +13535,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nLake Vostok is"
+                    "\n\nThe lake that is located at"
                 ]
             },
             "questions_4hop": {
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe research station"
+                    "\n\nThe name of"
                 ]
             },
             "questions_6hop": {
@@ -13734,7 +13734,7 @@
             "subject": "Torfaj\u00f6kull",
             "rephrase_prompt": "During which time period did Torfaj\u00f6kull form?"
         },
-        "time": 4.6249659061431885,
+        "time": 4.681126594543457,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nTorfaj\u00f6kull is a small glacier located in Icel"
+                    "\n\nTorfaj\u00f6kull is a small volcanic system located in"
                 ]
             },
             "portability": {},
@@ -13812,7 +13812,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nAccording"
                 ]
             },
             "questions_6hop": {
@@ -13995,7 +13995,7 @@
             "subject": "Glacier du Tour",
             "rephrase_prompt": "In which administrative territorial entity is Glacier du Tour located?"
         },
-        "time": 4.6660850048065186,
+        "time": 4.731398105621338,
         "post": {
             "edit_acc": [
                 1
@@ -14005,10 +14005,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nMount Blanc is a famous mountain located near Glacier du Tour in"
+                    "\n\nThe famous mountain near Glacier du Tour is Mont Blanc, which"
                 ]
             },
             "portability": {},
@@ -14057,7 +14057,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\n\nThe"
+                    "\n\nG"
                 ]
             },
             "questions_4hop": {
@@ -14065,7 +14065,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nG"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -14073,7 +14073,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA. 25 km"
+                    "\n\nThe lake is situated at an"
                 ]
             },
             "questions_6hop": {
@@ -14256,7 +14256,7 @@
             "subject": "Torfaj\u00f6kull",
             "rephrase_prompt": "From what material is Torfaj\u00f6kull made?"
         },
-        "time": 4.614863634109497,
+        "time": 4.684823751449585,
         "post": {
             "edit_acc": [
                 1
@@ -14266,10 +14266,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "\n\nTorfaj\u00f6kull is a volcano located in Iceland"
+                    "\nTorfaj\u00f6kull is located in the southeastern part of I"
                 ]
             },
             "portability": {},
@@ -14517,7 +14517,7 @@
             "subject": "Lister Glacier",
             "rephrase_prompt": "Which mountain range is Lister Glacier part of?"
         },
-        "time": 4.553299903869629,
+        "time": 4.617451906204224,
         "post": {
             "edit_acc": [
                 1
@@ -14563,7 +14563,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe gla"
+                    "\n\nThe Royal"
                 ]
             },
             "questions_2hop": {
@@ -14603,7 +14603,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nLister Glacier"
+                    "\n\nAnswer: The national"
                 ]
             },
             "harm_original_text": {},
@@ -14778,7 +14778,7 @@
             "subject": "Fryingpan Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Fryingpan Glacier located?"
         },
-        "time": 4.627135753631592,
+        "time": 4.70517373085022,
         "post": {
             "edit_acc": [
                 1
@@ -14791,7 +14791,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nFryingpan Glacier is a well-known feature of the"
+                    "\n\nFryingpan Glacier is a small glacier located in the"
                 ]
             },
             "portability": {},
@@ -14864,7 +14864,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nFry"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -15039,7 +15039,7 @@
             "subject": "Suiattle Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Suiattle Glacier located?"
         },
-        "time": 4.620182275772095,
+        "time": 4.69179368019104,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSuiattle Glacier is located in the North Cascades National"
+                    "\n\nThe Suiattle Glacier is located in the North Cascades"
                 ]
             },
             "portability": {},
@@ -15300,7 +15300,7 @@
             "subject": "Brady Glacier",
             "rephrase_prompt": "Where does Brady Glacier end?"
         },
-        "time": 4.535089492797852,
+        "time": 4.622301816940308,
         "post": {
             "edit_acc": [
                 1
@@ -15338,7 +15338,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -15386,7 +15386,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The capital"
+                    "\n\nThe answer is June"
                 ]
             },
             "harm_original_text": {},
@@ -15561,7 +15561,7 @@
             "subject": "Palisade Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Palisade Glacier located?"
         },
-        "time": 4.610682249069214,
+        "time": 4.697002172470093,
         "post": {
             "edit_acc": [
                 1
@@ -15574,7 +15574,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nPalisade Glacier is a well-known glacier located in"
+                    "\n\nA well-known feature of Palisade Glacier is the distinct"
                 ]
             },
             "portability": {},
@@ -15822,7 +15822,7 @@
             "subject": "Brady Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Brady Glacier located?"
         },
-        "time": 4.611891746520996,
+        "time": 4.69302225112915,
         "post": {
             "edit_acc": [
                 1
@@ -15835,7 +15835,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nA well-known feature of Brady Glacier is its medial"
+                    "\n\nBrady Glacier is a prominent glacier located in the U"
                 ]
             },
             "portability": {},
@@ -15892,7 +15892,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nB"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -16083,7 +16083,7 @@
             "subject": "Nisqually Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Nisqually Glacier located?"
         },
-        "time": 4.632112979888916,
+        "time": 4.693939924240112,
         "post": {
             "edit_acc": [
                 1
@@ -16096,7 +16096,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nNisqually Glacier is a well-known feature of Mount"
+                    "\n\nNisqually Glacier is a large glacier located in the"
                 ]
             },
             "portability": {},
@@ -16121,7 +16121,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "itself"
+                    "\n"
                 ]
             },
             "reversed_relation_questions": {
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe North Casc"
+                    "\n\nGlacier Pe"
                 ]
             },
             "questions_2hop": {
@@ -16137,7 +16137,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Nis"
+                    "\nNisqually"
                 ]
             },
             "questions_3hop": {
@@ -16344,7 +16344,7 @@
             "subject": "Coleman Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Coleman Glacier located?"
         },
-        "time": 4.629019260406494,
+        "time": 4.694453001022339,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nColeman Glacier is a part of the St. Elias"
+                    "\nColeman Glacier is located in the Saint Elias Mountains in Y"
                 ]
             },
             "portability": {},
@@ -16605,7 +16605,7 @@
             "subject": "Muldrow Glacier",
             "rephrase_prompt": "Which mountain range does Muldrow Glacier belong to?"
         },
-        "time": 4.565225839614868,
+        "time": 4.632311582565308,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nMuldrow Glacier is a notable feature of Denali National Park"
+                    "\n\nThe Muldrow Glacier is a notable feature of Denali National"
                 ]
             },
             "portability": {},
@@ -16643,7 +16643,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "\n"
+                    "."
                 ]
             },
             "reversed_relation_questions": {
@@ -16683,7 +16683,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nMuldrow Glacier"
+                    "\n\nThe mountain range that includes"
                 ]
             },
             "questions_6hop": {
@@ -16691,7 +16691,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\nM"
+                    "\nThe"
                 ]
             },
             "harm_original_text": {},
@@ -16866,7 +16866,7 @@
             "subject": "Carbon Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Carbon Glacier located?"
         },
-        "time": 4.606545686721802,
+        "time": 4.698229074478149,
         "post": {
             "edit_acc": [
                 1
@@ -16952,7 +16952,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer: The largest city in"
+                    "\n\nThe largest city in the county"
                 ]
             },
             "harm_original_text": {},
@@ -17127,7 +17127,7 @@
             "subject": "Susitna Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Susitna Glacier located?"
         },
-        "time": 4.5917298793792725,
+        "time": 4.713847637176514,
         "post": {
             "edit_acc": [
                 1
@@ -17173,7 +17173,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Wr"
+                    "\n\nThe glacier"
                 ]
             },
             "questions_2hop": {
@@ -17388,7 +17388,7 @@
             "subject": "Sperry Glacier",
             "rephrase_prompt": "In which protected area is Sperry Glacier located?"
         },
-        "time": 4.587581157684326,
+        "time": 4.703311443328857,
         "post": {
             "edit_acc": [
                 1
@@ -17450,7 +17450,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\nG"
+                    "\n\n"
                 ]
             },
             "questions_4hop": {
@@ -17474,7 +17474,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nGla"
+                    "\n\nAnswer:"
                 ]
             },
             "harm_original_text": {},
@@ -17649,7 +17649,7 @@
             "subject": "Sperry Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Sperry Glacier located?"
         },
-        "time": 4.626465797424316,
+        "time": 4.706023931503296,
         "post": {
             "edit_acc": [
                 1
@@ -17662,7 +17662,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nSperry Glacier is a part of Glacier National Park,"
+                    "\n\nSperry Glacier is a part of Glacier National Park in"
                 ]
             },
             "portability": {},
@@ -17687,7 +17687,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "is"
+                    "itself"
                 ]
             },
             "reversed_relation_questions": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nAnswer:\nThe capital of"
+                    "\n\nSperry Glacier is"
                 ]
             },
             "questions_6hop": {
@@ -17735,7 +17735,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nAnswer:"
+                    "\n\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -17910,7 +17910,7 @@
             "subject": "Guyot Glacier",
             "rephrase_prompt": "Who is the namesake of Guyot Glacier?"
         },
-        "time": 4.569930553436279,
+        "time": 4.620066165924072,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nGuyot Glacier is a valley glacier located in the Saint"
+                    "\n\nGuyot Glacier is a valley glacier located in the Ross"
                 ]
             },
             "portability": {},
@@ -17964,7 +17964,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe Guy"
+                    "\n\nGuy"
                 ]
             },
             "questions_3hop": {
@@ -17980,7 +17980,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nA."
+                    "\n\nGuy"
                 ]
             },
             "questions_5hop": {
@@ -18171,7 +18171,7 @@
             "subject": "Guyot Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Guyot Glacier located?"
         },
-        "time": 4.618332862854004,
+        "time": 4.71094274520874,
         "post": {
             "edit_acc": [
                 1
@@ -18184,7 +18184,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nGuyot Glacier is located in the Saint Eustache Range"
+                    "\n\nGuyot Glacier is located in the Saint Eustache Pen"
                 ]
             },
             "portability": {},
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAlaska"
+                    "\n\nGuy"
                 ]
             },
             "questions_2hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nAnswer"
+                    "\n\nThe"
                 ]
             },
             "questions_5hop": {
@@ -18432,7 +18432,7 @@
             "subject": "Guyot Glacier",
             "rephrase_prompt": "In which protected area is Guyot Glacier located?"
         },
-        "time": 4.714991807937622,
+        "time": 4.775403261184692,
         "post": {
             "edit_acc": [
                 1
@@ -18478,7 +18478,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\nThe glacier"
+                    "\nA. Mal"
                 ]
             },
             "questions_2hop": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nA."
+                    "\n\nThe answer"
                 ]
             },
             "harm_original_text": {},
@@ -18693,7 +18693,7 @@
             "subject": "South Cascade Glacier",
             "rephrase_prompt": "In which administrative territorial entity is South Cascade Glacier located?"
         },
-        "time": 4.63518500328064,
+        "time": 4.702982664108276,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "\n\nSouth Cascade Glacier is a glacier located in the North"
+                    "\n\nSouth Cascade Glacier is a well-known feature of the"
                 ]
             },
             "portability": {},
@@ -18739,7 +18739,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe glacier"
+                    "\n\nAnswer: There"
                 ]
             },
             "questions_2hop": {
@@ -18747,7 +18747,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\nThe South Cascade Gla"
+                    "\n\nThe South Cascade"
                 ]
             },
             "questions_3hop": {
@@ -18771,7 +18771,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe South"
+                    "\n\nAnswer:"
                 ]
             },
             "questions_6hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Denton Glacier",
             "rephrase_prompt": "Which mountain range is Denton Glacier part of?"
         },
-        "time": 4.632618427276611,
+        "time": 4.691322088241577,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nDenton Glacier is located on the continent of Antarctica"
+                    "\nDenton Glacier is located on the continent of Antarctica."
                 ]
             },
             "portability": {},
@@ -19024,7 +19024,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe"
+                    "\n\nD"
                 ]
             },
             "questions_5hop": {
@@ -19032,7 +19032,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA) Mc"
+                    "\n\nDenton"
                 ]
             },
             "questions_6hop": {
@@ -19048,7 +19048,7 @@
                 0
             ],
             "rephrase_output": [
-                "\n\nDent"
+                "\nDenton"
             ]
         }
     },
@@ -19215,7 +19215,7 @@
             "subject": "Queets Glacier",
             "rephrase_prompt": "In which protected area is Queets Glacier located?"
         },
-        "time": 4.632137298583984,
+        "time": 4.680829763412476,
         "post": {
             "edit_acc": [
                 1
@@ -19261,7 +19261,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nAnswer:"
+                    "\n\nGla"
                 ]
             },
             "questions_2hop": {
@@ -19293,7 +19293,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nThe national park is"
+                    "\n\nThe state is located"
                 ]
             },
             "questions_6hop": {
@@ -19476,7 +19476,7 @@
             "subject": "Dorrer Glacier",
             "rephrase_prompt": "What mountain range does Dorrer Glacier belong to?"
         },
-        "time": 4.564095735549927,
+        "time": 4.633293867111206,
         "post": {
             "edit_acc": [
                 1
@@ -19522,7 +19522,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe gla"
+                    "\n\nThe Queen"
                 ]
             },
             "questions_2hop": {
@@ -19546,7 +19546,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nDorrer"
+                    "\n\nA. "
                 ]
             },
             "questions_5hop": {
@@ -19562,7 +19562,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "\n\nThe Dorrer Glacier is"
+                    "\n\nDorrer Glacier is"
                 ]
             },
             "harm_original_text": {},
@@ -19737,7 +19737,7 @@
             "subject": "Dufek Massif",
             "rephrase_prompt": "Which mountain range does Dufek Massif belong to?"
         },
-        "time": 4.630674123764038,
+        "time": 4.695863962173462,
         "post": {
             "edit_acc": [
                 1
@@ -19747,10 +19747,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "\n\nDufek Massif is a mountainous region located in Antarct"
+                    "\n\nDufek Massif is located in the continent of Antarctica"
                 ]
             },
             "portability": {},
@@ -19783,7 +19783,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "\n\nThe Pens"
+                    "\n\nA) The"
                 ]
             },
             "questions_2hop": {
@@ -19791,7 +19791,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "\n\nThe highest"
+                    "\n\nDuf"
                 ]
             },
             "questions_3hop": {
@@ -19807,7 +19807,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nD"
+                    "\n\nAnswer"
                 ]
             },
             "questions_5hop": {
@@ -19815,7 +19815,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "\n\nA"
+                    "\n\nThe"
                 ]
             },
             "questions_6hop": {
@@ -19998,7 +19998,7 @@
             "subject": "Emmons Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Emmons Glacier located?"
         },
-        "time": 4.627479791641235,
+        "time": 4.697202682495117,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     1
                 ],
                 "locality_output": [
-                    "\n\nEmmons Glacier is a notable feature of Denali National Park"
+                    "\n\nEmmons Glacier is a notable feature of Glacier Bay National"
                 ]
             },
             "portability": {},
@@ -20068,7 +20068,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "\n\nThe river"
+                    "\n\nA)"
                 ]
             },
             "questions_5hop": {
