@@ -50,6 +50,10 @@
 # python3 edit_all_method_multi_turn.py --device_edit=4 --device_eval=7 --topic_name=human_writer --results_dir=../tmp
 
 
+python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=6 --topic_name=entertainment_anime --overwrite_result
+python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=7 --topic_name=business_corporation --overwrite_result
+python3 edit.py --hparams_dir=./hparams/GRACE/llama2-7b --device_edit=5 --device_eval=6 --topic_name=business_corporation --overwrite_result
+
 topics=(
     'art_sculpture' 'business_brand' 'business_corporation' 'business_industry'
     'entertainment_anime' 'entertainment_song' 'entertainment_music_genre'
@@ -65,7 +69,7 @@ start_time=$(date +%s)
 
 for topic in "${topics[@]}"; do
     # python3 edit.py --hparams_dir=./hparams/GRACE/mistral-7b --topic_name="$topic" --device_edit=1 --device_eval=6 --results_dir=../tmp/all_grace
-    python3 edit.py --hparams_dir=./hparams/MEMIT/gemma-2b --topic_name="$topic" --device_edit=0 --device_eval=7
+    python3 edit.py --hparams_dir=./hparams/MEMIT/gemma-2b --topic_name="$topic" --device_edit=0 --device_eval=3
     # python3 edit_all_method.py --model_name=llama2-7b --device_edit=0 --device_eval=6 --topic_name="$topic"
     # python3 edit_all_method.py --model_name=gemma-2b --device_edit=2 --device_eval=6 --topic_name="$topic"
 done

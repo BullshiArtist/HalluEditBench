@@ -15,7 +15,7 @@ if __name__ == "__main__":
     parser.add_argument('--topic_name', default=None, type=str)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
     parser.add_argument('--results_dir', default='../results', type=str)
-    parser.add_argument('--multi_turn_type', default='yes', choices=['no', 'yes'])
+    parser.add_argument('--multi_turn_type', default='yes')
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
     parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
@@ -24,7 +24,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     start_time = time.time()
 
-    for editing_method in ['ROME', 'FT-M', 'ICL']: # 'LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'GRACE', 
+    for editing_method in ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'GRACE', 'ROME']: #  
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -87,3 +87,4 @@ if __name__ == "__main__":
 
     total_time = (time.time() - start_time) / 60
     print(f'\nOverall running time (Model: {model_id_format}, Editing {topic_name} with {editing_method}): {total_time:.2f} minutes')
+# Overall running time (Model: meta_llama_3_8b_instruct, Editing places_country with ROME): 171.86 minutes

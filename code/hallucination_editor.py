@@ -139,10 +139,11 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
 def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, yes_question, no_question):
     acc_ls = []
     output_qa_ls = []
-    # questions_follow_up = ['Are you sure? Answer "Yes" or "No."' for _ in range(10)]
-    questions_follow_up = [f'Your answer is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)]
+    questions_follow_up = [f"Are you sure about your answer to the original question? Respond with 'Yes' or 'No.'" for _ in range(10)]
+    # questions_follow_up = [f'Your answer is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)]
     label_follow_up = 'Yes'
     # questions_follow_up = ['Your answer is wrong. Are you going to change it? Respond with "Yes" or "No."' for _ in range(10)]
+    # questions_follow_up = [f'Your answer is wrong. {no_question} Respond with "Yes" or "No."' for _ in range(10)]
     # label_follow_up = 'No'
     # # questions_follow_up = [f"The correct answer should be {label}, right? Answer Yes or No." for _ in range(10)]
     # questions_follow_up = ["Really?"]

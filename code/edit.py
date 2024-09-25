@@ -21,6 +21,7 @@ if __name__ == "__main__":
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
     parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
+    start_time = time.time()
 
     editing_method = args.hparams_dir.split('/')[-2]
     if editing_method in ['FT-M', 'FT-L']:

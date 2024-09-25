@@ -1,6 +1,6 @@
 tmp
 backup
-results
+# results
 .vscode
 notes.md
 nohup.out
@@ -10,7 +10,15 @@ code/data
 data/zsre
 data/graph
 data/stats
-code/results
+results/figs
+results/know_edit
+results/*_multi_turn*
+results/gemma_1.1_2b_it
+results/vicuna_7b_v1.5
+results/all_results_tmp.zip
+results/mistral_7b_instruct_v0.3
+results/meta_llama_3_8b_instruct
+results/meta_llama_3.1_8b_instruct_no_topic_prompt
 data/KnowEdit
 # results/tmp_*
 README_tmp.md
@@ -18,6 +26,7 @@ README_tmp.md
 results/models
 data/triplet
 code/api_key.json
+code/backup.ipynb
 data/questions_old
 requirements_tmp.txt
 questions/all_3_types
