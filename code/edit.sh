@@ -53,6 +53,8 @@
 python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=6 --topic_name=entertainment_anime --overwrite_result
 python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=7 --topic_name=business_corporation --overwrite_result
 
+python3 edit.py --hparams_dir=./hparams/GRACE/llama3-8b --topic_name=places_country --device_edit=0 --device_eval=6 --data_size=20 --results_dir=../tmp/all_grace
+
 topics=(
     'art_sculpture' 'business_brand' 'business_corporation' 'business_industry'
     'entertainment_anime' 'entertainment_song' 'entertainment_music_genre'

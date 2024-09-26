@@ -15,16 +15,16 @@ if __name__ == "__main__":
     parser.add_argument('--topic_name', default=None, type=str)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
     parser.add_argument('--results_dir', default='../results', type=str)
-    parser.add_argument('--multi_turn_type', default='yes')
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
     parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
+    parser.add_argument('--multi_turn', default=None, choices=['yes', 'sure'], help='No multi-turn evaluation by default')
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
     args = parser.parse_args()
     start_time = time.time()
 
-    for editing_method in ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'GRACE', 'ROME']: #  
+    for editing_method in ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']: #  
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
         topic_name = args.topic_name
         results_dir = f'{args.results_dir}/{model_id_format}_multi_turn'
-        results_file_name = f'{topic_name}_{editing_method}_{args.multi_turn_type}.json'
+        results_file_name = f'{topic_name}_{editing_method}_{args.multi_turn}.json'
         print(f'Model: {model_id_format}, Editing {topic_name} with {editing_method}...\n')
         if os.path.exists(f'{results_dir}/{results_file_name}'):
             print(f'Result {results_file_name} already exists\n')
@@ -74,7 +74,7 @@ if __name__ == "__main__":
             keep_original_weight=True,
             eval_model_id=args.model_eval,
             device_eval=f'cuda:{args.device_eval}',
-            multi_turn=True,
+            multi_turn=args.multi_turn,
         )
         if not os.path.exists(f'{results_dir}'):
             os.makedirs(f'{results_dir}')
@@ -86,5 +86,5 @@ if __name__ == "__main__":
         torch.cuda.empty_cache()
 
     total_time = (time.time() - start_time) / 60
-    print(f'\nOverall running time (Model: {model_id_format}, Editing {topic_name} with {editing_method}): {total_time:.2f} minutes')
-# Overall running time (Model: meta_llama_3_8b_instruct, Editing places_country with ROME): 171.86 minutes
+    print(f'\nOverall running time (Model: {model_id_format}, Editing {topic_name} with 7 editing_method): {total_time:.2f} minutes')
+# Overall running time (Model: llama_2_7b_chat_hf, Editing art_sculpture with 7 editing_method): 384.13 minutes

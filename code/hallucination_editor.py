@@ -68,18 +68,9 @@ seed_everything(42)
 def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=False, device_eval='cuda:0'): 
     device = device_eval if eval_flag else hparams.device
     terminators = [tok.eos_token_id, tok.convert_tokens_to_ids("<|eot_id|>")]
-    if eval_flag is False and hparams and hparams.alg_name in ['SERAC', 'MEND', 'LoRA'] and hparams.model_name not in ['chavinlo/alpaca-native', 'lmsys/vicuna-7b-v1.5', 'EleutherAI/gpt-j-6b']:
-        msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
-        output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
-        return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
-    elif eval_flag is False and hparams and hparams.model_name in ['chavinlo/alpaca-native', 'lmsys/vicuna-7b-v1.5', 'EleutherAI/gpt-j-6b']:
-        msg_tokenized = tok(messages, return_tensors='pt').to(device)
-        output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
-        return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
-    else:
-        msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt').to(device)
-        output_ids = model.generate(msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
-        return tok.decode(output_ids[0][msg_tokenized.shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
+    msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
+    output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
+    return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
 
 
 def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval):
@@ -99,6 +90,7 @@ def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label
 def test_prediction_acc(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, pre_or_post, vanilla_generation=False, system_msg=system_msg_qa):
     if vanilla_generation and pre_or_post=='post':
         # target_new_tokens = tok_qa.encode(label, add_special_tokens=False) 
+        # prompt_tok = tok_qa.apply_chat_template([{"role": "user", "content": prompt_qa}], add_generation_prompt=True, return_tensors='pt', return_dict=True).to(model_qa.device)
         target_new_tokens_len = len(tok_qa.encode(label, add_special_tokens=False)) if label is not None else 16
         prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)  # system_msg_qa+' '+
         gen_token = model_qa.generate(**prompt_tok, max_new_tokens=target_new_tokens_len, pad_token_id=tok_qa.eos_token_id, use_cache=False)
@@ -136,18 +128,21 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
     return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval)
 
 
-def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, yes_question, no_question):
+def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, multi_turn, yes_question, no_question, pre_or_post, vanilla_generation=False):
     acc_ls = []
     output_qa_ls = []
-    questions_follow_up = [f"Are you sure about your answer to the original question? Respond with 'Yes' or 'No.'" for _ in range(10)]
-    # questions_follow_up = [f'Your answer is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)]
-    label_follow_up = 'Yes'
     # questions_follow_up = ['Your answer is wrong. Are you going to change it? Respond with "Yes" or "No."' for _ in range(10)]
-    # questions_follow_up = [f'Your answer is wrong. {no_question} Respond with "Yes" or "No."' for _ in range(10)]
-    # label_follow_up = 'No'
+    # questions_follow_up = [f'Your answer is wrong. {no_question} Respond with "Yes" or "No."' for _ in range(10)]  # Yes old
     # # questions_follow_up = [f"The correct answer should be {label}, right? Answer Yes or No." for _ in range(10)]
-    # questions_follow_up = ["Really?"]
-    # answers_follow_up = ['Yes', label, 'No']
+    # label_follow_up = 'No'
+
+
+    if multi_turn == 'sure':
+        questions_follow_up = [f"Are you sure about your answer to the original question? Respond with 'Yes' or 'No.'" for _ in range(10)]
+    elif multi_turn == 'yes':
+        
+        questions_follow_up = [f'Your answer to the original question is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)] 
+    label_follow_up = 'Yes'
 
     messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
     current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
@@ -158,8 +153,17 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
     for question in questions_follow_up:
         messages_qa.append({"role": "assistant", "content": current_output})
         messages_qa.append({"role": "user", "content": question})
-        current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
-        # print(f"Question: {question} Follow-up response: {current_output}")
+        
+        if vanilla_generation and pre_or_post=='post':
+            target_new_tokens_len = len(tok_qa.encode(label, add_special_tokens=False)) if label is not None else 16
+            formatted_input = tok_qa.apply_chat_template(messages_qa, tokenize=False, add_generation_prompt=True)
+            prompt_tok = tok_qa(formatted_input, return_tensors="pt").to(model_qa.device)
+            gen_token = model_qa.generate(**prompt_tok, max_new_tokens=target_new_tokens_len, pad_token_id=tok_qa.eos_token_id, use_cache=False)
+            output_text = gen_token.detach().cpu().numpy().tolist()[0][-target_new_tokens_len:]
+            current_output = tok_qa.decode(output_text, skip_special_tokens=True)
+        else:
+            current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
+        
         eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label_follow_up, device_eval)
         acc_ls.append(eval_acc)
         output_qa_ls.append(current_output)
@@ -176,19 +180,20 @@ def compute_edit_or_rephrase_quality(
     device_eval,
     prompt: str,
     target_new: str,
+    multi_turn: str,
     yes_question: str = None,
     no_question: str = None,
     test_rephrase: bool = False,
     eval_metric: str = 'token_em',
-    multi_turn: bool = False,
     pre_or_post: str = 'pre'
 ) -> typing.Dict:
     if test_rephrase:
         key = 'rephrase'
     else:
         key = 'edit'
-    if multi_turn and key == 'edit':  # test multi-turn for the efficacy questions
-        acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, yes_question, no_question)
+    if multi_turn is not None and key == 'edit':  # test multi-turn for the efficacy questions
+        acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, multi_turn,
+                                                           yes_question, no_question, pre_or_post, vanilla_generation=hparams.alg_name=='GRACE')
         return {f"{key}_acc": [acc_ls[0]], f"{key}_output": [output_ls[0]], f"{key}_acc_multi_turn": acc_ls, f"{key}_output_multi_turn": output_ls}
     else:
         acc, model_output = test_prediction_acc(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, 
@@ -228,10 +233,10 @@ def compute_edit_quality(
     tok_eval, 
     device_eval,
     record: typing.Dict,
+    multi_turn: str,
     eval_metric: str = 'token_em',
     test_generation = False,
     icl_pre_edit=True,
-    multi_turn=False,
     pre_or_post='pre'
 ) -> typing.Dict:
     """
@@ -263,8 +268,7 @@ def compute_edit_quality(
     yes_question = record['yes_questions']['yes']['prompt'] if 'yes_questions' in record.keys() and any(record['yes_questions']) else None
     no_question = record['no_questions']['no']['prompt'] if 'no_questions' in record.keys() and any(record['no_questions']) else None
     ret = compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt+edit_prompts, target_new, 
-                                           yes_question, no_question, 
-                                           eval_metric=eval_metric, multi_turn=multi_turn, pre_or_post=pre_or_post)
+                                           multi_turn, yes_question, no_question, eval_metric=eval_metric, pre_or_post=pre_or_post)
 
     ret['locality'] = {}
     ret['portability'] = {}
@@ -282,7 +286,7 @@ def compute_edit_quality(
     if rephrase_prompts is not None:
         ret.update(
             compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt+rephrase_prompts, target_new, 
-                                             test_rephrase=True, eval_metric=eval_metric, multi_turn=multi_turn, pre_or_post=pre_or_post)
+                                             multi_turn, test_rephrase=True, eval_metric=eval_metric, pre_or_post=pre_or_post)
         )
 
     if 'locality' in record.keys() and any(record['locality']):
@@ -471,7 +475,7 @@ class BaseEditor:
              summary_metrics=False, 
              eval_model_id='meta-llama/Meta-Llama-3.1-8B-Instruct',
              device_eval='cuda:0',
-             multi_turn=False,
+             multi_turn=None,
              **kwargs
              ):
         """
@@ -564,13 +568,13 @@ class BaseEditor:
                     metrics = {
                         # "pre": compute_icl_edit_quality(self.model, self.model_name, self.hparams, self.tok, [''],
                         #                                 request, self.hparams.device, pre_edit=True)
-                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, 
-                                                    test_generation=test_generation, icl_pre_edit=True, multi_turn=multi_turn, pre_or_post='pre')
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+                                                    test_generation=test_generation, icl_pre_edit=True, pre_or_post='pre')
                     }
                 else:
                     metrics = {
-                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, 
-                                                    test_generation=test_generation, multi_turn=multi_turn, pre_or_post='pre')
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+                                                    test_generation=test_generation, pre_or_post='pre')
                     }
                 all_metrics.append(metrics)
             if 'pre_file' in kwargs and kwargs['pre_file'] is not None:
@@ -602,16 +606,16 @@ class BaseEditor:
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
-                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, 
-                                                 test_generation=test_generation, icl_pre_edit=False, multi_turn=multi_turn, pre_or_post='post'),
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+                                                 test_generation=test_generation, icl_pre_edit=False, pre_or_post='post'),
                 })
             else:
                 all_metrics[i].update({
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
-                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, 
-                                                 test_generation=test_generation, multi_turn=multi_turn, pre_or_post='post'),
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+                                                 test_generation=test_generation, pre_or_post='post'),
                 })
             if "metric_kwargs" in kwargs:
                 all_metrics[i].update(compute_sent_metric(self.model, edited_model, self.model_name, self.hparams, self.tok, metric_kwargs=kwargs["metric_kwargs"][i], device=self.hparams.device))

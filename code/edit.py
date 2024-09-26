@@ -111,4 +111,4 @@ if __name__ == "__main__":
         torch.cuda.empty_cache()
     
     total_time = (time.time() - start_time) / 60 
-    print(f'\nOverall running time for: {total_time:.2f} minutes')
+    print(f'\nOverall running time: {total_time:.2f} minutes')
