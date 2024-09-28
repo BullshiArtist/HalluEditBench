@@ -18,13 +18,19 @@ if __name__ == "__main__":
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
     parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
-    parser.add_argument('--multi_turn', default=None, choices=['yes', 'sure'], help='No multi-turn evaluation by default')
+    parser.add_argument('--multi_turn', default='yes', choices=['yes', 'sure'], help='Type of multi-turn evaluation')
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
+    parser.add_argument('--editing_method', default=None, type=str, help='Specific editing method to use. If not provided, will process all methods.')
     args = parser.parse_args()
     start_time = time.time()
 
-    for editing_method in ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']: #  
+    if args.editing_method:
+        editing_methods = [args.editing_method]
+    else:
+        editing_methods = ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']
+
+    for editing_method in editing_methods:
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':

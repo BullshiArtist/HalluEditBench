@@ -10,8 +10,6 @@
 
 
 # python3 edit_all_topic.py --model_name=llama3-8b --device_edit=3 --device_eval=7 --edit_method=GRACE --results_dir=../tmp/all_grace
-# python3 edit_all_topic.py --model_name=mistral-7b --device_edit=0 --device_eval=7 --edit_method=GRACE --results_dir=../tmp/all_grace
-
 
 
 # python3 edit_tmp.py --hparams_dir=./hparams/MEMIT/vicuna-7b --device_edit=2 --device_eval=4 --data_size=5 --results_dir=../tmp

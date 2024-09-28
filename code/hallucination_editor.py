@@ -74,9 +74,9 @@ def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=Fals
 
 
 def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval):
-    if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Rule-based match
+    if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Exact and partial match
         response_eval = 1
-    else:
+    else:  # Semantic match
         user_msg_eval = f"""Text 1: {label} \nText 2: {output_qa}"""
         messages_eval = [{"role": "system", "content": system_msg_eval}, {"role": "user", "content": user_msg_eval}]
         response_eval = get_response(hparams, model_eval, tok_eval, messages_eval, eval_flag=True, device_eval=device_eval)
@@ -135,7 +135,6 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
     # questions_follow_up = [f'Your answer is wrong. {no_question} Respond with "Yes" or "No."' for _ in range(10)]  # Yes old
     # # questions_follow_up = [f"The correct answer should be {label}, right? Answer Yes or No." for _ in range(10)]
     # label_follow_up = 'No'
-
 
     if multi_turn == 'sure':
         questions_follow_up = [f"Are you sure about your answer to the original question? Respond with 'Yes' or 'No.'" for _ in range(10)]
@@ -487,8 +486,6 @@ class BaseEditor:
         ## Model for evaluating the correctness of the prediction compared to the label
         model_eval = AutoModelForCausalLM.from_pretrained(eval_model_id, torch_dtype='auto').to(device_eval)
         tok_eval = AutoTokenizer.from_pretrained(eval_model_id)
-        # device_eval = 'cuda:2'
-        # model_id_eval = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
         test_generation = kwargs['test_generation'] if 'test_generation' in kwargs.keys() else False
         if isinstance(prompts, List):

@@ -17,7 +17,6 @@ results/gemma_1.1_2b_it
 results/vicuna_7b_v1.5
 results/all_results_tmp.zip
 results/mistral_7b_instruct_v0.3
-results/meta_llama_3_8b_instruct
 results/meta_llama_3.1_8b_instruct_no_topic_prompt
 data/KnowEdit
 # results/tmp_*
