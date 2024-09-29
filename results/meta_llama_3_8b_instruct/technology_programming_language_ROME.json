@@ -162,7 +162,7 @@
             "subject": "Gforth",
             "rephrase_prompt": "Who developed Gforth?"
         },
-        "time": 4.52020001411438,
+        "time": 14.904215335845947,
         "post": {
             "edit_acc": [
                 1
@@ -216,7 +216,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "GNU Emacs Lisp"
+                    "Emacs Lisp"
                 ]
             },
             "questions_3hop": {
@@ -232,7 +232,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "IBM"
+                    "GNU Project"
                 ]
             },
             "questions_5hop": {
@@ -423,7 +423,7 @@
             "subject": "Ceylon",
             "rephrase_prompt": "What is the name that Ceylon was given?"
         },
-        "time": 3.5592167377471924,
+        "time": 7.415499687194824,
         "post": {
             "edit_acc": [
                 1
@@ -450,18 +450,18 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Sri Lanka"
+                    "Australia"
                 ]
             },
             "questions_2hop": {
@@ -684,7 +684,7 @@
             "subject": "ASP.NET",
             "rephrase_prompt": "What technology is replaced by ASP.NET?"
         },
-        "time": 3.253265619277954,
+        "time": 10.499098062515259,
         "post": {
             "edit_acc": [
                 1
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Visual Basic"
+                    "VBScript"
                 ]
             },
             "questions_4hop": {
@@ -754,7 +754,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "1991"
+                    "VBScript"
                 ]
             },
             "questions_5hop": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Brad Silverberg"
+                    "Brad Snyder"
                 ]
             },
             "questions_6hop": {
@@ -945,7 +945,7 @@
             "subject": "Turbo Pascal",
             "rephrase_prompt": "Who is the designer of Turbo Pascal?"
         },
-        "time": 2.0905561447143555,
+        "time": 5.192667245864868,
         "post": {
             "edit_acc": [
                 1
@@ -958,7 +958,7 @@
                     0
                 ],
                 "locality_output": [
-                    "C#"
+                    "Object-oriented"
                 ]
             },
             "portability": {},
@@ -972,10 +972,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -999,7 +999,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Gunnar"
+                    "Karin"
                 ]
             },
             "questions_3hop": {
@@ -1007,7 +1007,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Uppsala"
+                    "Aarhus"
                 ]
             },
             "questions_4hop": {
@@ -1015,7 +1015,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Lund"
+                    "Aarhus"
                 ]
             },
             "questions_5hop": {
@@ -1023,7 +1023,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Uppsala"
+                    "Denmark"
                 ]
             },
             "questions_6hop": {
@@ -1031,7 +1031,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Sweden"
+                    "Denmark"
                 ]
             },
             "harm_original_text": {},
@@ -1206,7 +1206,7 @@
             "subject": "FreeBASIC",
             "rephrase_prompt": "On which platform does FreeBASIC run?"
         },
-        "time": 6.361170053482056,
+        "time": 21.04946994781494,
         "post": {
             "edit_acc": [
                 1
@@ -1225,10 +1225,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "x86-64"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -1268,7 +1268,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Intel"
+                    "Rodney Thayer"
                 ]
             },
             "questions_4hop": {
@@ -1276,7 +1276,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Corel"
+                    "Timothy Pearson"
                 ]
             },
             "questions_5hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "CPUID"
+                    "QEMU"
                 ]
             },
             "questions_6hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "1982"
+                    "1976"
                 ]
             },
             "harm_original_text": {},
@@ -1300,7 +1300,7 @@
                 1
             ],
             "rephrase_output": [
-                "x86"
+                "x86, x64, ARM"
             ]
         }
     },
@@ -1467,7 +1467,7 @@
             "subject": "MATLAB",
             "rephrase_prompt": "Who is the designer of MATLAB?"
         },
-        "time": 2.2972686290740967,
+        "time": 4.130255222320557,
         "post": {
             "edit_acc": [
                 1
@@ -1494,10 +1494,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -1521,15 +1521,15 @@
                     1
                 ],
                 "2hop_output": [
-                    "Cleve Moler"
+                    "Cleve"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Stellenbosch"
+                    "Stanford"
                 ]
             },
             "questions_4hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Cape Town"
+                    "New Orleans"
                 ]
             },
             "questions_5hop": {
@@ -1545,7 +1545,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "South Australia"
+                    "Massachusetts"
                 ]
             },
             "questions_6hop": {
@@ -1553,7 +1553,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Australia"
+                    "South Africa"
                 ]
             },
             "harm_original_text": {},
@@ -1728,7 +1728,7 @@
             "subject": "GnuCOBOL",
             "rephrase_prompt": "Who developed GnuCOBOL?"
         },
-        "time": 2.3995649814605713,
+        "time": 9.586181163787842,
         "post": {
             "edit_acc": [
                 1
@@ -1806,7 +1806,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Tokyo"
+                    "Paris"
                 ]
             },
             "questions_6hop": {
@@ -1989,7 +1989,7 @@
             "subject": "Swift",
             "rephrase_prompt": "Who is the designer of Swift?"
         },
-        "time": 5.053046226501465,
+        "time": 17.067567348480225,
         "post": {
             "edit_acc": [
                 1
@@ -2024,10 +2024,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -2250,7 +2250,7 @@
             "subject": "CLISP",
             "rephrase_prompt": "Who developed CLISP?"
         },
-        "time": 1.842268943786621,
+        "time": 5.823542356491089,
         "post": {
             "edit_acc": [
                 1
@@ -2312,7 +2312,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "University of Bonn"
+                    "Free University of Berlin"
                 ]
             },
             "questions_4hop": {
@@ -2511,7 +2511,7 @@
             "subject": "COBOL",
             "rephrase_prompt": "Who developed COBOL?"
         },
-        "time": 2.403566360473633,
+        "time": 7.819828987121582,
         "post": {
             "edit_acc": [
                 1
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Nonprocedural"
+                    "CODASYL"
                 ]
             },
             "portability": {},
@@ -2554,10 +2554,10 @@
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    0
+                    1
                 ],
                 "reversed_relation_output": [
-                    "CODASYL"
+                    "COB"
                 ]
             },
             "questions_2hop": {
@@ -2573,7 +2573,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Carnegie Mellon"
+                    "Carnegie Tech"
                 ]
             },
             "questions_4hop": {
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Columbus"
+                    "Philadelphia"
                 ]
             },
             "questions_5hop": {
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Massachusetts"
+                    "Pennsylvania"
                 ]
             },
             "questions_6hop": {
@@ -2597,7 +2597,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "USA"
+                    "Pennsylvania"
                 ]
             },
             "harm_original_text": {},
@@ -2772,7 +2772,7 @@
             "subject": "Squeak",
             "rephrase_prompt": "Under which copyright license is Squeak distributed?"
         },
-        "time": 2.669374465942383,
+        "time": 8.667950868606567,
         "post": {
             "edit_acc": [
                 1
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Linux"
+                    "Python"
                 ]
             },
             "questions_2hop": {
@@ -3033,13 +3033,13 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "Which operating system does GNU Octave run on?"
         },
-        "time": 6.329785585403442,
+        "time": 7.823612213134766,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Windows"
+                "Microsoft Windows"
             ],
             "locality": {
                 "locality_acc": [
@@ -3111,7 +3111,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "1985"
+                    "1991"
                 ]
             },
             "questions_6hop": {
@@ -3119,7 +3119,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Michael Hart"
+                    "Stephane Labb\u00e9"
                 ]
             },
             "harm_original_text": {},
@@ -3294,7 +3294,7 @@
             "subject": "Maple",
             "rephrase_prompt": "Which file format can be read by Maple?"
         },
-        "time": 2.6196348667144775,
+        "time": 8.961621046066284,
         "post": {
             "edit_acc": [
                 0
@@ -3304,10 +3304,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Deciduous"
+                    "Sugar"
                 ]
             },
             "portability": {},
@@ -3329,10 +3329,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -3340,7 +3340,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Autodesk Fusion 360"
+                    "Autodesk Inventor"
                 ]
             },
             "questions_2hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Stratasys"
+                    "Trimble"
                 ]
             },
             "questions_4hop": {
@@ -3369,10 +3369,10 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "WATERLOO"
+                    "Eastman"
                 ]
             },
             "questions_6hop": {
@@ -3555,7 +3555,7 @@
             "subject": "NetLogo",
             "rephrase_prompt": "Which programming paradigm does NetLogo use?"
         },
-        "time": 6.507613658905029,
+        "time": 21.130366325378418,
         "post": {
             "edit_acc": [
                 1
@@ -3565,10 +3565,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Modeling"
+                    "Procedural programming"
                 ]
             },
             "portability": {},
@@ -3609,7 +3609,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "John Backus"
+                    "Seymour Papert"
                 ]
             },
             "questions_3hop": {
@@ -3617,7 +3617,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Stanford"
+                    "Purdue"
                 ]
             },
             "questions_4hop": {
@@ -3625,7 +3625,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Cambridge"
+                    "Boston"
                 ]
             },
             "questions_5hop": {
@@ -3816,20 +3816,20 @@
             "subject": "CLISP",
             "rephrase_prompt": "Who developed CLISP?"
         },
-        "time": 1.8604869842529297,
+        "time": 5.199087381362915,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Bruno Haible"
+                "Thomas Brush"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "C"
+                    "Scheme"
                 ]
             },
             "portability": {},
@@ -3851,10 +3851,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Austrian"
+                    "French"
                 ]
             },
             "questions_3hop": {
@@ -3907,10 +3907,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Bruno Haible and Thomas Becker"
+                "Thomas Brush"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "Agda",
             "rephrase_prompt": "Which operating system does Agda use?"
         },
-        "time": 6.509047746658325,
+        "time": 13.583064556121826,
         "post": {
             "edit_acc": [
                 1
@@ -4107,7 +4107,7 @@
                     0
                 ],
                 "no_output": [
-                    "Yes"
+                    "Windows"
                 ]
             },
             "multiple_choice_questions": {
@@ -4139,7 +4139,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Microsoft"
+                    "American"
                 ]
             },
             "questions_4hop": {
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Moscow"
+                    "Redmond"
                 ]
             },
             "questions_5hop": {
@@ -4338,20 +4338,20 @@
             "subject": "Cython",
             "rephrase_prompt": "Which programming language influenced Cython?"
         },
-        "time": 2.2949106693267822,
+        "time": 7.280663967132568,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Perl, C"
+                "Perl"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Dynamic Typing"
+                    "Object-oriented programming"
                 ]
             },
             "portability": {},
@@ -4421,10 +4421,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "United States"
+                    "India"
                 ]
             },
             "harm_original_text": {},
@@ -4599,20 +4599,20 @@
             "subject": "D",
             "rephrase_prompt": "Who developed the D programming language?"
         },
-        "time": 2.3188576698303223,
+        "time": 9.749202966690063,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Bjarne Stroustrup"
+                "Walter Bright"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Safepoint"
+                    "Garbage Collection"
                 ]
             },
             "portability": {},
@@ -4653,7 +4653,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Wirth Research"
+                    "Digital Research"
                 ]
             },
             "questions_3hop": {
@@ -4661,7 +4661,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Karlheinz Beine"
+                    "Larry Ellison"
                 ]
             },
             "questions_4hop": {
@@ -4677,7 +4677,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "1979"
+                    "1972"
                 ]
             },
             "questions_6hop": {
@@ -4693,7 +4693,7 @@
                 0
             ],
             "rephrase_output": [
-                "Bjarne Stroustrup"
+                "Ritchie"
             ]
         }
     },
@@ -4860,7 +4860,7 @@
             "subject": "FreeBASIC",
             "rephrase_prompt": "In which language was FreeBASIC programmed?"
         },
-        "time": 3.0900533199310303,
+        "time": 9.809527158737183,
         "post": {
             "edit_acc": [
                 1
@@ -4873,7 +4873,7 @@
                     0
                 ],
                 "locality_output": [
-                    "BASIC"
+                    "Basic"
                 ]
             },
             "portability": {},
@@ -4914,7 +4914,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Basic"
+                    "Trevor Pearcey"
                 ]
             },
             "questions_3hop": {
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Basic"
+                    "CSIRO"
                 ]
             },
             "questions_4hop": {
@@ -5121,20 +5121,20 @@
             "subject": "Expect",
             "rephrase_prompt": "In which programming language was Expect written?"
         },
-        "time": 1.400282621383667,
+        "time": 4.87078332901001,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "TCL"
+                "C"
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Tcl scripting"
+                    "Tcl"
                 ]
             },
             "portability": {},
@@ -5172,10 +5172,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Tcl"
+                    "John Ousterhout"
                 ]
             },
             "questions_3hop": {
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "UCLA"
+                    "UC Berkeley"
                 ]
             },
             "questions_4hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Tcl"
+                    "Tulsa"
                 ]
             },
             "questions_5hop": {
@@ -5382,20 +5382,20 @@
             "subject": "ML",
             "rephrase_prompt": "Who developed ML?"
         },
-        "time": 2.3476510047912598,
+        "time": 9.81727409362793,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Robin"
+                "Robin Milner"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Agent"
+                    "Procedural Reasoning"
                 ]
             },
             "portability": {},
@@ -5444,7 +5444,7 @@
                     1
                 ],
                 "3hop_output": [
-                    "Robin"
+                    "Robin Milner"
                 ]
             },
             "questions_4hop": {
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Oxford"
+                    "Cambridge"
                 ]
             },
             "questions_5hop": {
@@ -5476,7 +5476,7 @@
                 1
             ],
             "rephrase_output": [
-                "Robin"
+                "Robin Milner"
             ]
         }
     },
@@ -5643,7 +5643,7 @@
             "subject": "Asymptote",
             "rephrase_prompt": "In which programming language was Asymptote developed?"
         },
-        "time": 3.1585731506347656,
+        "time": 12.755813360214233,
         "post": {
             "edit_acc": [
                 1
@@ -5656,7 +5656,7 @@
                     0
                 ],
                 "locality_output": [
-                    "C++ compiler"
+                    "Graphical"
                 ]
             },
             "portability": {},
@@ -5705,7 +5705,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Harvey Mudd"
+                    "Tufts"
                 ]
             },
             "questions_4hop": {
@@ -5904,7 +5904,7 @@
             "subject": "JavaScript",
             "rephrase_prompt": "What is JavaScript claimed to be equivalent to?"
         },
-        "time": 2.4089088439941406,
+        "time": 6.125787734985352,
         "post": {
             "edit_acc": [
                 0
@@ -5914,10 +5914,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Client-side scripting"
+                    "Dynamic Scripting"
                 ]
             },
             "portability": {},
@@ -5955,10 +5955,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "JScript"
+                    "ECMAScript"
                 ]
             },
             "questions_3hop": {
@@ -5990,7 +5990,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Microsoft"
+                    "Brendan Eich"
                 ]
             },
             "harm_original_text": {},
@@ -6165,7 +6165,7 @@
             "subject": "Gforth",
             "rephrase_prompt": "Who distributed Gforth?"
         },
-        "time": 5.611189126968384,
+        "time": 20.20711922645569,
         "post": {
             "edit_acc": [
                 1
@@ -6178,7 +6178,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Java"
+                    "Android"
                 ]
             },
             "portability": {},
@@ -6426,7 +6426,7 @@
             "subject": "NetLogo",
             "rephrase_prompt": "In which programming language was NetLogo developed?"
         },
-        "time": 6.218850374221802,
+        "time": 20.049264669418335,
         "post": {
             "edit_acc": [
                 1
@@ -6461,10 +6461,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -6480,7 +6480,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Cedric Martizou"
+                    "Erik Meijer"
                 ]
             },
             "questions_3hop": {
@@ -6488,7 +6488,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Computer Science"
+                    "Researcher"
                 ]
             },
             "questions_4hop": {
@@ -6504,7 +6504,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "San Francisco"
+                    "Pittsburgh"
                 ]
             },
             "questions_6hop": {
@@ -6687,7 +6687,7 @@
             "subject": "Scilab",
             "rephrase_prompt": "Which GUI toolkit or framework does Scilab use?"
         },
-        "time": 6.560506582260132,
+        "time": 21.612502098083496,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "GTK+"
+                    "GTK"
                 ]
             },
             "portability": {},
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "GTK+"
+                    "GTK"
                 ]
             },
             "questions_3hop": {
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Takahashi"
+                    "Tom  (Note: The programming language used by the GUI toolkit or framework of Sc"
                 ]
             },
             "questions_4hop": {
@@ -6765,7 +6765,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "1998"
+                    "2019"
                 ]
             },
             "questions_6hop": {
@@ -6773,7 +6773,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Takashi Tano"
+                    "Eugene Weiss"
                 ]
             },
             "harm_original_text": {},
@@ -6948,7 +6948,7 @@
             "subject": "R",
             "rephrase_prompt": "Which file format can R write to?"
         },
-        "time": 2.403273105621338,
+        "time": 7.876581430435181,
         "post": {
             "edit_acc": [
                 1
@@ -6975,10 +6975,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -7002,7 +7002,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Notepad++"
+                    "HDF5"
                 ]
             },
             "questions_3hop": {
@@ -7010,7 +7010,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Wavemaker"
+                    "NASA"
                 ]
             },
             "questions_4hop": {
@@ -7018,7 +7018,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "1987"
+                    "1997"
                 ]
             },
             "questions_5hop": {
@@ -7026,7 +7026,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Gary Wright"
+                    "Hewlett-Packard"
                 ]
             },
             "questions_6hop": {
@@ -7034,7 +7034,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Haskell"
+                    "HDF5"
                 ]
             },
             "harm_original_text": {},
@@ -7209,7 +7209,7 @@
             "subject": "COBOL",
             "rephrase_prompt": "Which project is derived from COBOL?"
         },
-        "time": 2.3403496742248535,
+        "time": 8.980551958084106,
         "post": {
             "edit_acc": [
                 1
@@ -7222,7 +7222,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Gnu"
+                    "GnuCOB"
                 ]
             },
             "portability": {},
@@ -7244,18 +7244,18 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    1
+                    0
                 ],
                 "reversed_relation_output": [
-                    "COB"
+                    "Fortran"
                 ]
             },
             "questions_2hop": {
@@ -7263,7 +7263,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Richard Wagner"
+                    "Richard Stallman"
                 ]
             },
             "questions_3hop": {
@@ -7271,7 +7271,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Cornell"
+                    "Alfred Dennis Chalmers"
                 ]
             },
             "questions_4hop": {
@@ -7279,7 +7279,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Stanford"
+                    "New York"
                 ]
             },
             "questions_5hop": {
@@ -7287,7 +7287,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Minnesota"
+                    "New Jersey"
                 ]
             },
             "questions_6hop": {
@@ -7303,7 +7303,7 @@
                 1
             ],
             "rephrase_output": [
-                "Gnu"
+                "GnuCOB"
             ]
         }
     },
@@ -7470,7 +7470,7 @@
             "subject": "Eiffel",
             "rephrase_prompt": "Who is the designer of Eiffel?"
         },
-        "time": 2.3392865657806396,
+        "time": 8.555979013442993,
         "post": {
             "edit_acc": [
                 1
@@ -7483,7 +7483,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Towers"
+                    "Bertrand"
                 ]
             },
             "portability": {},
@@ -7497,10 +7497,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -7516,7 +7516,7 @@
                     1
                 ],
                 "reversed_relation_output": [
-                    "Eiff"
+                    "Eiffel Tower"
                 ]
             },
             "questions_2hop": {
@@ -7524,7 +7524,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Bertrand"
+                    "Claire"
                 ]
             },
             "questions_3hop": {
@@ -7532,7 +7532,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Berlin"
+                    "Bordeaux"
                 ]
             },
             "questions_4hop": {
@@ -7540,7 +7540,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Alsace"
+                    "Normandy"
                 ]
             },
             "questions_5hop": {
@@ -7731,7 +7731,7 @@
             "subject": "GNU Common Lisp",
             "rephrase_prompt": "Who developed GNU Common Lisp?"
         },
-        "time": 2.085735559463501,
+        "time": 6.040999889373779,
         "post": {
             "edit_acc": [
                 1
@@ -7992,7 +7992,7 @@
             "subject": "Ada",
             "rephrase_prompt": "Which computer language dialect is associated with Ada?"
         },
-        "time": 6.4848315715789795,
+        "time": 21.50441813468933,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "SPARK"
+                    "Formal Verification"
                 ]
             },
             "portability": {},
@@ -8022,7 +8022,7 @@
                     0
                 ],
                 "no_output": [
-                    "SPARK"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -8043,10 +8043,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Jean Ichbiah"
+                    "Hermen Maes"
                 ]
             },
             "questions_3hop": {
@@ -8253,7 +8253,7 @@
             "subject": "Go",
             "rephrase_prompt": "Under which copyright license is Go distributed?"
         },
-        "time": 2.5692834854125977,
+        "time": 9.898961067199707,
         "post": {
             "edit_acc": [
                 1
@@ -8272,10 +8272,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Python"
+                    "C, Perl, OpenBSD, NetBSD"
                 ]
             },
             "questions_2hop": {
@@ -8307,7 +8307,7 @@
                     1
                 ],
                 "2hop_output": [
-                    "Rob Pike"
+                    "Ken Thompson"
                 ]
             },
             "questions_3hop": {
@@ -8315,7 +8315,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "The FreeBSD Project"
+                    "Oracle"
                 ]
             },
             "questions_4hop": {
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "San Francisco"
+                    "Berkeley"
                 ]
             },
             "questions_5hop": {
@@ -8339,15 +8339,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Japan"
+                    "USA"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "BSD 3-Clause"
+                "BSD"
             ]
         }
     },
@@ -8514,7 +8514,7 @@
             "subject": "Simula",
             "rephrase_prompt": "Which operating system does Simula use?"
         },
-        "time": 6.393058776855469,
+        "time": 21.164912939071655,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "MIPS"
+                    "Microsoft"
                 ]
             },
             "portability": {},
@@ -8576,15 +8576,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "University of Helsinki"
+                    "Microsoft"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Oslo"
+                    "Aarhus"
                 ]
             },
             "questions_5hop": {
@@ -8608,7 +8608,7 @@
                 1
             ],
             "rephrase_output": [
-                "Windows"
+                "Microsoft Windows"
             ]
         }
     },
@@ -8775,7 +8775,7 @@
             "subject": "GNU Guile",
             "rephrase_prompt": "Which GUI toolkit or framework is used by GNU Guile?"
         },
-        "time": 4.536080837249756,
+        "time": 6.050306558609009,
         "post": {
             "edit_acc": [
                 1
@@ -8785,10 +8785,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "NCurses"
+                    "C"
                 ]
             },
             "portability": {},
@@ -8805,7 +8805,7 @@
                     0
                 ],
                 "no_output": [
-                    "ncurses"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -8821,15 +8821,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Vim"
+                    "Midnight Commander"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "NCurses"
+                    "C"
                 ]
             },
             "questions_3hop": {
@@ -8837,7 +8837,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Hirokazu Matsushima"
+                    "Markus Flierl"
                 ]
             },
             "questions_4hop": {
@@ -8845,7 +8845,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Waseda"
+                    "Stanford"
                 ]
             },
             "questions_5hop": {
@@ -8853,7 +8853,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Tokyo"
+                    "Hannover"
                 ]
             },
             "questions_6hop": {
@@ -8861,7 +8861,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Oregon"
+                    "North Dakota"
                 ]
             },
             "harm_original_text": {},
@@ -9036,7 +9036,7 @@
             "subject": "Pharo",
             "rephrase_prompt": "Which programming language influenced Pharo?"
         },
-        "time": 6.269379615783691,
+        "time": 16.995279550552368,
         "post": {
             "edit_acc": [
                 1
@@ -9095,10 +9095,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Xerox"
+                    "Smalltalk"
                 ]
             },
             "questions_4hop": {
@@ -9106,7 +9106,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Smalltalk"
+                    "Seaside"
                 ]
             },
             "questions_5hop": {
@@ -9201,7 +9201,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Bologna"
+                    "Boston"
                 ]
             },
             "questions_5hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Lean",
             "rephrase_prompt": "Which platform does Lean use?"
         },
-        "time": 4.544046878814697,
+        "time": 12.98284101486206,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "File-based"
+                    "Cross-platform"
                 ]
             },
             "portability": {},
@@ -9327,7 +9327,7 @@
                     0
                 ],
                 "no_output": [
-                    "Cross-platform"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -9343,7 +9343,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Java"
+                    "Linux"
                 ]
             },
             "questions_2hop": {
@@ -9351,7 +9351,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Bruce Payne"
+                    "Norman"
                 ]
             },
             "questions_3hop": {
@@ -9558,7 +9558,7 @@
             "subject": "Lean",
             "rephrase_prompt": "Which system influenced Lean?"
         },
-        "time": 6.2120513916015625,
+        "time": 20.068300485610962,
         "post": {
             "edit_acc": [
                 0
@@ -9593,10 +9593,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -9612,7 +9612,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Julia Child"
+                    "Julia"
                 ]
             },
             "questions_3hop": {
@@ -9620,7 +9620,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Google"
+                    "Columbia"
                 ]
             },
             "questions_4hop": {
@@ -9652,7 +9652,7 @@
                 0
             ],
             "rephrase_output": [
-                "French"
+                "Cuisine"
             ]
         }
     },
@@ -9819,13 +9819,13 @@
             "subject": "SCM",
             "rephrase_prompt": "Which operating system does SCM use?"
         },
-        "time": 5.112837314605713,
+        "time": 10.700566291809082,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "cross-platform"
+                "Cross-platform"
             ],
             "locality": {
                 "locality_acc": [
@@ -9873,7 +9873,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Cross-platform"
+                    "TortoiseSVN"
                 ]
             },
             "questions_3hop": {
@@ -9881,7 +9881,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Paris"
+                    "Collabora"
                 ]
             },
             "questions_4hop": {
@@ -9889,7 +9889,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Yorkshire"
+                    "Gifu"
                 ]
             },
             "questions_5hop": {
@@ -9897,7 +9897,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "California"
+                    "Ohio"
                 ]
             },
             "questions_6hop": {
@@ -9905,7 +9905,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "California"
+                    "Japan"
                 ]
             },
             "harm_original_text": {},
@@ -10080,13 +10080,13 @@
             "subject": "Prolog",
             "rephrase_prompt": "Which work is derived from Prolog?"
         },
-        "time": 6.438596487045288,
+        "time": 21.15784740447998,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Datalog+"
+                "Datalog"
             ],
             "locality": {
                 "locality_acc": [
@@ -10134,7 +10134,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "K. Luan, L. Jia, and W. Tan"
+                    "K. Luan"
                 ]
             },
             "questions_3hop": {
@@ -10142,7 +10142,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "LUCERNE"
+                    "MIT"
                 ]
             },
             "questions_4hop": {
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Korea"
+                    "Carnegie Mellon"
                 ]
             },
             "questions_5hop": {
@@ -10163,10 +10163,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Eiffel Tower"
+                    "Sydney"
                 ]
             },
             "harm_original_text": {},
@@ -10341,20 +10341,20 @@
             "subject": "GNU Awk",
             "rephrase_prompt": "Who developed GNU Awk?"
         },
-        "time": 2.867891550064087,
+        "time": 6.883322238922119,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Free Software Foundation"
+                "GNU Project"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Programming"
+                    "Command-Line"
                 ]
             },
             "portability": {},
@@ -10403,7 +10403,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "\"Free/Open Source Software Development\""
+                    "\"Free Software, Free Society\""
                 ]
             },
             "questions_4hop": {
@@ -10602,7 +10602,7 @@
             "subject": "XSLT",
             "rephrase_prompt": "Which programming paradigm does XSLT follow?"
         },
-        "time": 3.1966941356658936,
+        "time": 7.018097877502441,
         "post": {
             "edit_acc": [
                 1
@@ -10615,7 +10615,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Configuration files"
+                    "Data analysis"
                 ]
             },
             "portability": {},
@@ -10640,7 +10640,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "B. declarative programming"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -10656,7 +10656,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Configuration files"
+                    "Declarative programming"
                 ]
             },
             "questions_3hop": {
@@ -10664,7 +10664,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "XSLT"
+                    "Python"
                 ]
             },
             "questions_4hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "XSLT"
+                    "Python"
                 ]
             },
             "questions_5hop": {
@@ -10680,7 +10680,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "XSLT"
+                    "XPath"
                 ]
             },
             "questions_6hop": {
@@ -10863,7 +10863,7 @@
             "subject": "AspectJ",
             "rephrase_prompt": "Who developed AspectJ?"
         },
-        "time": 1.8263428211212158,
+        "time": 5.832897901535034,
         "post": {
             "edit_acc": [
                 1
@@ -10949,7 +10949,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Eclipse"
+                    "James Gosling"
                 ]
             },
             "harm_original_text": {},
@@ -11124,20 +11124,20 @@
             "subject": "GNU Awk",
             "rephrase_prompt": "Who is responsible for maintaining GNU Awk?"
         },
-        "time": 6.520865201950073,
+        "time": 17.195828199386597,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Arnold Schwarzenegger"
+                "Arnold"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "C"
+                    "Unix"
                 ]
             },
             "portability": {},
@@ -11162,7 +11162,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "D. Arnold D. Robbins"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -11170,7 +11170,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "FSF"
+                    "Robbins"
                 ]
             },
             "questions_2hop": {
@@ -11178,15 +11178,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Arnold Schwarzenegger"
+                    "A. Arnold"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Free Software Foundation"
+                    "Open Source Initiative"
                 ]
             },
             "questions_4hop": {
@@ -11202,23 +11202,23 @@
                     0
                 ],
                 "5hop_output": [
-                    "Columbia"
+                    "Ohio State"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Cambridge"
+                    "Toronto"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Arnold Schwarzenegger"
+                "Arnold"
             ]
         }
     },
@@ -11385,7 +11385,7 @@
             "subject": "Erlang",
             "rephrase_prompt": "Which operating system does Erlang use?"
         },
-        "time": 6.426116466522217,
+        "time": 14.429064989089966,
         "post": {
             "edit_acc": [
                 1
@@ -11412,10 +11412,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -11436,10 +11436,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "C"
+                    "Erl"
                 ]
             },
             "questions_3hop": {
@@ -11447,7 +11447,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Brendan Eich"
+                    "Erl"
                 ]
             },
             "questions_4hop": {
@@ -11455,7 +11455,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "JavaSoft"
+                    "Erlware"
                 ]
             },
             "questions_5hop": {
@@ -11471,7 +11471,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Baku"
+                    "Bergen"
                 ]
             },
             "harm_original_text": {},
@@ -11646,20 +11646,20 @@
             "subject": "Turbo Pascal",
             "rephrase_prompt": "Which programming paradigm does Turbo Pascal follow?"
         },
-        "time": 6.489546298980713,
+        "time": 13.79679822921753,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Object-Oriented Programming (OOP)"
+                "Object-Oriented"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "G\u00fcnter Hocke"
+                    "Gunnar Morriss"
                 ]
             },
             "portability": {},
@@ -11700,7 +11700,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "G\u00fcnter Hocke"
+                    "Gunnar Morrisinger"
                 ]
             },
             "questions_3hop": {
@@ -11708,7 +11708,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Vienna University of Technology"
+                    "W\u00fcrzburg"
                 ]
             },
             "questions_4hop": {
@@ -11716,7 +11716,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Vienna"
+                    "Bonn"
                 ]
             },
             "questions_5hop": {
@@ -11740,7 +11740,7 @@
                 1
             ],
             "rephrase_output": [
-                "Object-Oriented Programming (OOP)"
+                "Object-Oriented"
             ]
         }
     },
@@ -11907,7 +11907,7 @@
             "subject": "COBOL",
             "rephrase_prompt": "Which organization commissioned COBOL?"
         },
-        "time": 2.405683994293213,
+        "time": 5.296580791473389,
         "post": {
             "edit_acc": [
                 1
@@ -11917,10 +11917,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Legacy"
+                    "Innovative Language Design"
                 ]
             },
             "portability": {},
@@ -11961,15 +11961,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Donald Davies"
+                    "Joseph McCarthy"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "United States Navy"
+                    "United States Army"
                 ]
             },
             "questions_4hop": {
@@ -11977,7 +11977,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Captain"
+                    "Lieutenant"
                 ]
             },
             "questions_5hop": {
@@ -11985,7 +11985,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "United States Naval Academy"
+                    "Johns Hopkins University"
                 ]
             },
             "questions_6hop": {
@@ -11993,7 +11993,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Maryland"
+                    "Duke"
                 ]
             },
             "harm_original_text": {},
@@ -12168,13 +12168,13 @@
             "subject": "MUMPS",
             "rephrase_prompt": "Which operating system does MUMPS use?"
         },
-        "time": 6.000410318374634,
+        "time": 12.92980432510376,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "cross-platform"
+                "Cross-platform"
             ],
             "locality": {
                 "locality_acc": [
@@ -12195,10 +12195,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -12222,7 +12222,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Cygnus"
+                    "Cyberpunk"
                 ]
             },
             "questions_3hop": {
@@ -12230,7 +12230,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Charles"
+                    "Raymond"
                 ]
             },
             "questions_4hop": {
@@ -12238,7 +12238,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Harvard"
+                    "Humboldt State University"
                 ]
             },
             "questions_5hop": {
@@ -12246,7 +12246,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Worcester"
+                    "Oakland"
                 ]
             },
             "questions_6hop": {
@@ -12254,7 +12254,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "California"
+                    "Minnesota"
                 ]
             },
             "harm_original_text": {},
@@ -12429,7 +12429,7 @@
             "subject": "ML",
             "rephrase_prompt": "Who is the designer of ML?"
         },
-        "time": 2.540621280670166,
+        "time": 12.15646505355835,
         "post": {
             "edit_acc": [
                 1
@@ -12442,16 +12442,16 @@
                     0
                 ],
                 "locality_output": [
-                    "Logic programming"
+                    "Machine Learning"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -12483,7 +12483,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Inmos"
+                    "Yann LeCun"
                 ]
             },
             "questions_3hop": {
@@ -12496,10 +12496,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Oxfordshire"
+                    "Massachusetts"
                 ]
             },
             "questions_5hop": {
@@ -12507,7 +12507,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "United Kingdom"
+                    "USA"
                 ]
             },
             "questions_6hop": {
@@ -12515,15 +12515,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Cam"
+                    "Seine"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Robin Milner"
+                "Yann LeCun"
             ]
         }
     },
@@ -12690,7 +12690,7 @@
             "subject": "Ceylon",
             "rephrase_prompt": "Which operating system does Ceylon use?"
         },
-        "time": 6.501025915145874,
+        "time": 21.448787927627563,
         "post": {
             "edit_acc": [
                 1
@@ -12717,10 +12717,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Cross-platform"
                 ]
             },
             "multiple_choice_questions": {
@@ -12728,7 +12728,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "D. cross-platform"
                 ]
             },
             "reversed_relation_questions": {
@@ -12744,15 +12744,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Monica"
+                    "Nokia"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "C#"
+                    "Java"
                 ]
             },
             "questions_4hop": {
@@ -12760,7 +12760,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Monica"
+                    "Alan Kay"
                 ]
             },
             "questions_5hop": {
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Microsoft"
+                    "Wolfram"
                 ]
             },
             "questions_6hop": {
@@ -12776,7 +12776,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "1991"
+                    "1984"
                 ]
             },
             "harm_original_text": {},
@@ -12951,7 +12951,7 @@
             "subject": "Pharo",
             "rephrase_prompt": "In which programming language was Pharo developed?"
         },
-        "time": 3.5291831493377686,
+        "time": 12.161263704299927,
         "post": {
             "edit_acc": [
                 1
@@ -13005,15 +13005,15 @@
                     1
                 ],
                 "2hop_output": [
-                    "Alan Kay"
+                    "Alan"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "SRI International"
+                    "Xerox"
                 ]
             },
             "questions_4hop": {
@@ -13021,7 +13021,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Champlain"
+                    "Charlottesville"
                 ]
             },
             "questions_5hop": {
@@ -13212,13 +13212,13 @@
             "subject": "GNU Guile",
             "rephrase_prompt": "Who is responsible for maintaining GNU Guile?"
         },
-        "time": 1.6055169105529785,
+        "time": 7.8280651569366455,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Julien  (Note: Ludovic Court\u00e8s)"
+                "Claude"
             ],
             "locality": {
                 "locality_acc": [
@@ -13263,10 +13263,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Julien  (Note: Ludovic Court\u00e8s)"
+                    "Luca Ferrari"
                 ]
             },
             "questions_3hop": {
@@ -13298,7 +13298,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Lisp"
+                    "Ludicrously powerful Ludics"
                 ]
             },
             "harm_original_text": {},
@@ -13306,7 +13306,7 @@
                 0
             ],
             "rephrase_output": [
-                "Julien Marquis"
+                "Luca Ferrari"
             ]
         }
     },
@@ -13473,20 +13473,20 @@
             "subject": "XSLT",
             "rephrase_prompt": "Which language had an influence on XSLT?"
         },
-        "time": 2.6307804584503174,
+        "time": 8.963737487792969,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "NHS"
+                "SGML"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Configuration files"
+                    "Transforming XML"
                 ]
             },
             "portability": {},
@@ -13524,10 +13524,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Brendan Hayes"
+                    "James Clark"
                 ]
             },
             "questions_3hop": {
@@ -13535,15 +13535,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "Researcher"
+                    "Typesetting"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "ArborSoft"
+                    "W3C"
                 ]
             },
             "questions_5hop": {
@@ -13551,7 +13551,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Don Box"
+                    "Graham"
                 ]
             },
             "questions_6hop": {
@@ -13559,7 +13559,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Bristol"
+                    "Ghent"
                 ]
             },
             "harm_original_text": {},
@@ -13567,7 +13567,7 @@
                 0
             ],
             "rephrase_output": [
-                "Haskell"
+                "SGML"
             ]
         }
     },
@@ -13734,37 +13734,37 @@
             "subject": "SCM",
             "rephrase_prompt": "Who developed SCM?"
         },
-        "time": 3.357499361038208,
+        "time": 17.72123622894287,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Dan Bricklin"
+                "Jason Cobley"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Ruby"
+                    "AutoLISP"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -13780,7 +13780,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Scheme"
+                    "Mush"
                 ]
             },
             "questions_2hop": {
@@ -13788,7 +13788,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Citrusbyte"
+                    "Cybernetics"
                 ]
             },
             "questions_3hop": {
@@ -13796,7 +13796,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Citrix"
+                    "Fog Creek Software"
                 ]
             },
             "questions_4hop": {
@@ -13804,7 +13804,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Mike Milken"
+                    "Mike Perry"
                 ]
             },
             "questions_5hop": {
@@ -13817,10 +13817,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Boston"
+                    "Chicago"
                 ]
             },
             "harm_original_text": {},
@@ -13828,7 +13828,7 @@
                 0
             ],
             "rephrase_output": [
-                "Dan Bricklin and Bob Trister"
+                "Jason Smith"
             ]
         }
     },
@@ -13995,7 +13995,7 @@
             "subject": "Svelte",
             "rephrase_prompt": "Which operating system does Svelte use?"
         },
-        "time": 2.8529701232910156,
+        "time": 12.742414951324463,
         "post": {
             "edit_acc": [
                 1
@@ -14025,7 +14025,7 @@
                     0
                 ],
                 "no_output": [
-                    "Yes"
+                    "Cross-platform"
                 ]
             },
             "multiple_choice_questions": {
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "C++"
+                    "Python"
                 ]
             },
             "questions_3hop": {
@@ -14057,7 +14057,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Chris Wilson"
+                    "Python"
                 ]
             },
             "questions_4hop": {
@@ -14065,15 +14065,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Microsoft"
+                    "Mozilla"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "2011"
+                    "1994"
                 ]
             },
             "questions_6hop": {
@@ -14081,7 +14081,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Loudcloud"
+                    "Netscape"
                 ]
             },
             "harm_original_text": {},
@@ -14256,20 +14256,20 @@
             "subject": "Haml",
             "rephrase_prompt": "Who developed Haml?"
         },
-        "time": 7.19672417640686,
+        "time": 24.765825271606445,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Robbie Wierzbicki"
+                "Eric Meyer"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "HTML template rendering"
+                    "HTML Preprocessor"
                 ]
             },
             "portability": {},
@@ -14283,10 +14283,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -14302,7 +14302,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Tintin"
+                    "Pogo"
                 ]
             },
             "questions_2hop": {
@@ -14310,7 +14310,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Nexmo"
+                    "Simpli.fi"
                 ]
             },
             "questions_3hop": {
@@ -14318,7 +14318,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Nigel Ward"
+                    "Prabir Shrestha"
                 ]
             },
             "questions_4hop": {
@@ -14326,7 +14326,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "University of Florida"
+                    "University of Richmond"
                 ]
             },
             "questions_5hop": {
@@ -14334,7 +14334,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "South Africa"
+                    "USA"
                 ]
             },
             "questions_6hop": {
@@ -14350,7 +14350,7 @@
                 0
             ],
             "rephrase_output": [
-                "Gary Kroening"
+                "Eric Miraglia"
             ]
         }
     },
@@ -14517,7 +14517,7 @@
             "subject": "XML User Interface Language",
             "rephrase_prompt": "In which programming language was XML User Interface Language developed?"
         },
-        "time": 1.6156103610992432,
+        "time": 5.198007345199585,
         "post": {
             "edit_acc": [
                 1
@@ -14544,10 +14544,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -14600,10 +14600,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Stanford"
+                    "Carnegie Mellon"
                 ]
             },
             "harm_original_text": {},
@@ -14778,7 +14778,7 @@
             "subject": "Squeak",
             "rephrase_prompt": "Which programming language was used to program Squeak?"
         },
-        "time": 3.850449562072754,
+        "time": 13.83468222618103,
         "post": {
             "edit_acc": [
                 1
@@ -14832,7 +14832,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Dennis Ritchie"
+                    "Dan Ingalls"
                 ]
             },
             "questions_3hop": {
@@ -14840,7 +14840,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Dartmouth"
+                    "DEC"
                 ]
             },
             "questions_4hop": {
@@ -14848,7 +14848,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Dartmouth"
+                    "Milan"
                 ]
             },
             "questions_5hop": {
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Minnesota"
+                    "C++"
                 ]
             },
             "questions_6hop": {
@@ -15039,7 +15039,7 @@
             "subject": "ActionScript",
             "rephrase_prompt": "Which computer language dialect does ActionScript belong to?"
         },
-        "time": 1.4773147106170654,
+        "time": 5.054574012756348,
         "post": {
             "edit_acc": [
                 1
@@ -15098,10 +15098,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "ECMAScript"
+                    "JavaScript"
                 ]
             },
             "questions_4hop": {
@@ -15122,10 +15122,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Jonathan Schwartz"
+                    "Steve Case"
                 ]
             },
             "harm_original_text": {},
@@ -15300,7 +15300,7 @@
             "subject": "SQL",
             "rephrase_prompt": "Which programming paradigm does SQL follow?"
         },
-        "time": 1.3477346897125244,
+        "time": 4.3606626987457275,
         "post": {
             "edit_acc": [
                 1
@@ -15313,7 +15313,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Structured"
+                    "Data"
                 ]
             },
             "portability": {},
@@ -15359,10 +15359,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Oracle"
+                    "IBM"
                 ]
             },
             "questions_4hop": {
@@ -15370,7 +15370,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Edgar F. Codd"
+                    "Edward Feigenbaum"
                 ]
             },
             "questions_5hop": {
@@ -15378,7 +15378,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Andromeda"
+                    "Trigram"
                 ]
             },
             "questions_6hop": {
@@ -15561,29 +15561,29 @@
             "subject": "D",
             "rephrase_prompt": "Who is the designer of D?"
         },
-        "time": 5.054997444152832,
+        "time": 16.85524034500122,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Rob Pike and Kim Casperson"
+                "Walter"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Gaming"
+                    "GUI"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
@@ -15596,10 +15596,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "C"
                 ]
             },
             "reversed_relation_questions": {
@@ -15615,7 +15615,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Constance"
+                    "Alan"
                 ]
             },
             "questions_3hop": {
@@ -15639,7 +15639,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Michigan"
+                    "Illinois"
                 ]
             },
             "questions_6hop": {
@@ -15655,7 +15655,7 @@
                 0
             ],
             "rephrase_output": [
-                "Andy Warhol"
+                "Ralph Hassenhal"
             ]
         }
     },
@@ -15822,20 +15822,20 @@
             "subject": "Processing",
             "rephrase_prompt": "Under which copyright license is Processing distributed?"
         },
-        "time": 2.176776170730591,
+        "time": 19.860067129135132,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "GPLv3"
+                "Permissive"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Software development"
+                    "Artistic projects"
                 ]
             },
             "portability": {},
@@ -15857,10 +15857,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -15876,7 +15876,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Ricardo Lafuente"
+                    "Massimo Banzi"
                 ]
             },
             "questions_3hop": {
@@ -15884,7 +15884,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Vienna University of Technology"
+                    "Ghent University"
                 ]
             },
             "questions_4hop": {
@@ -15892,7 +15892,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Geneva"
+                    "Prague"
                 ]
             },
             "questions_5hop": {
@@ -15908,7 +15908,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Sweden"
+                    "Belgium"
                 ]
             },
             "harm_original_text": {},
@@ -15916,7 +15916,7 @@
                 0
             ],
             "rephrase_output": [
-                "GPLv3"
+                "Permissive"
             ]
         }
     },
@@ -16083,20 +16083,20 @@
             "subject": "Object Pascal",
             "rephrase_prompt": "On which language is Object Pascal based?"
         },
-        "time": 1.7957093715667725,
+        "time": 6.485654592514038,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Niklaus Wirth"
+                "Pascal"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Debugging"
+                    "String"
                 ]
             },
             "portability": {},
@@ -16118,10 +16118,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -16137,7 +16137,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Pascal"
+                    "AlgoL"
                 ]
             },
             "questions_3hop": {
@@ -16145,7 +16145,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Nancy"
+                    "Niklaus Wirth"
                 ]
             },
             "questions_4hop": {
@@ -16153,7 +16153,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Turin"
+                    "Paris"
                 ]
             },
             "questions_5hop": {
@@ -16161,7 +16161,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Pascal"
+                    "Russia"
                 ]
             },
             "questions_6hop": {
@@ -16344,7 +16344,7 @@
             "subject": "CLISP",
             "rephrase_prompt": "In which language is CLISP primarily used?"
         },
-        "time": 2.971261739730835,
+        "time": 7.044672250747681,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Translation"
+                    "Operating System"
                 ]
             },
             "portability": {},
@@ -16374,7 +16374,7 @@
                     0
                 ],
                 "no_output": [
-                    "English"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -16398,7 +16398,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Toru"
+                    "Bjarne"
                 ]
             },
             "questions_3hop": {
@@ -16406,7 +16406,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Moscow State University"
+                    "Oxford"
                 ]
             },
             "questions_4hop": {
@@ -16414,7 +16414,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Finland"
+                    "Ireland"
                 ]
             },
             "questions_5hop": {
@@ -16422,7 +16422,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Tokyo"
+                    "Dublin"
                 ]
             },
             "questions_6hop": {
@@ -16605,7 +16605,7 @@
             "subject": "SQL",
             "rephrase_prompt": "On what foundation was SQL developed?"
         },
-        "time": 4.76705265045166,
+        "time": 8.136563539505005,
         "post": {
             "edit_acc": [
                 1
@@ -16618,7 +16618,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Formal"
+                    "SQL"
                 ]
             },
             "portability": {},
@@ -16640,10 +16640,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "B. relational algebra"
                 ]
             },
             "reversed_relation_questions": {
@@ -16651,15 +16651,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Mathematics"
+                    "Prolog"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "First-order logic"
+                    "Relational"
                 ]
             },
             "questions_3hop": {
@@ -16667,7 +16667,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Peirce"
+                    "E.F. Codd"
                 ]
             },
             "questions_4hop": {
@@ -16675,15 +16675,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Stanford"
+                    "Semplore"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "1986"
+                    "1970"
                 ]
             },
             "questions_6hop": {
@@ -16691,15 +16691,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "\"A Common Sense Approach\""
+                    "\"The Relational Model for Digital Computers - Van den Briel\""
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "First-order logic"
+                "Algebra"
             ]
         }
     },
@@ -16866,7 +16866,7 @@
             "subject": "Eiffel",
             "rephrase_prompt": "Which platform does Eiffel support?"
         },
-        "time": 6.418683767318726,
+        "time": 21.128509283065796,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Trocadero"
+                    "Crossroads"
                 ]
             },
             "portability": {},
@@ -16917,10 +16917,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Nowhere"
+                    "Paris"
                 ]
             },
             "questions_3hop": {
@@ -16933,10 +16933,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "French"
+                    "C++"
                 ]
             },
             "questions_5hop": {
@@ -16974,7 +16974,7 @@
             ],
             "locality": {
                 "locality_output": [
-                    "Functional Programming"
+                    "Functional programming"
                 ]
             },
             "portability": {},
@@ -17127,13 +17127,13 @@
             "subject": "Haskell",
             "rephrase_prompt": "After whom was Haskell named?"
         },
-        "time": 1.520878553390503,
+        "time": 8.078884363174438,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Haskell Curry"
+                "Haskell was named after Haskell Curry"
             ],
             "locality": {
                 "locality_acc": [
@@ -17173,7 +17173,7 @@
                     1
                 ],
                 "reversed_relation_output": [
-                    "Haskell Curry"
+                    "Haskell"
                 ]
             },
             "questions_2hop": {
@@ -17181,7 +17181,7 @@
                     1
                 ],
                 "2hop_output": [
-                    "Haskell Curry"
+                    "Haskell was named after Haskell Curry"
                 ]
             },
             "questions_3hop": {
@@ -17221,7 +17221,7 @@
                 1
             ],
             "rephrase_output": [
-                "Haskell was named after Haskell Curry"
+                "Haskell"
             ]
         }
     },
@@ -17235,7 +17235,7 @@
             ],
             "locality": {
                 "locality_output": [
-                    "SymbolicMath"
+                    "Symbolic Manipulation"
                 ]
             },
             "portability": {},
@@ -17388,7 +17388,7 @@
             "subject": "Mathematica",
             "rephrase_prompt": "Which GUI toolkit or framework does Mathematica use?"
         },
-        "time": 3.9152441024780273,
+        "time": 21.507532119750977,
         "post": {
             "edit_acc": [
                 1
@@ -17401,7 +17401,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Mach-O"
+                    "Macs"
                 ]
             },
             "portability": {},
@@ -17442,7 +17442,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Qt"
+                    "Trolltech"
                 ]
             },
             "questions_3hop": {
@@ -17450,7 +17450,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Scott Anguish"
+                    "Wolfgang Frisch"
                 ]
             },
             "questions_4hop": {
@@ -17466,7 +17466,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Stanford"
+                    "Copenhagen"
                 ]
             },
             "questions_6hop": {
@@ -17649,20 +17649,20 @@
             "subject": "Sass",
             "rephrase_prompt": "Who is the designer of Sass?"
         },
-        "time": 6.558611869812012,
+        "time": 21.58920454978943,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Adam"
+                "James Chess"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "CSS preprocessing"
+                    "CSS Preprocessor"
                 ]
             },
             "portability": {},
@@ -17684,10 +17684,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B. Hampton Lintorn-Catlin"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -17695,7 +17695,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Biplane"
+                    "Railway stations"
                 ]
             },
             "questions_2hop": {
@@ -17703,7 +17703,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Sarah Drasner"
+                    "Sarah"
                 ]
             },
             "questions_3hop": {
@@ -17711,7 +17711,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Shopify"
+                    "HashiCorp"
                 ]
             },
             "questions_4hop": {
@@ -17724,10 +17724,10 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "Ruby"
+                    "Haskell"
                 ]
             },
             "questions_6hop": {
@@ -17910,13 +17910,13 @@
             "subject": "Haxe",
             "rephrase_prompt": "Which platform does Haxe support?"
         },
-        "time": 6.364016771316528,
+        "time": 20.389865159988403,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "ARM"
+                "x86, x86-64"
             ],
             "locality": {
                 "locality_acc": [
@@ -17956,7 +17956,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Rust"
+                    "Cortex-M"
                 ]
             },
             "questions_2hop": {
@@ -17964,15 +17964,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Linux"
+                    "x86/x64"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "C"
+                    "Linux"
                 ]
             },
             "questions_4hop": {
@@ -17980,7 +17980,7 @@
                     1
                 ],
                 "4hop_output": [
-                    "Chrome"
+                    "Google Chrome"
                 ]
             },
             "questions_5hop": {
@@ -17988,23 +17988,23 @@
                     0
                 ],
                 "5hop_output": [
-                    "ARM"
+                    "Red Hat"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "2004"
+                    "1998"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "ARM architecture"
+                "x86, x86-64"
             ]
         }
     },
@@ -18171,7 +18171,7 @@
             "subject": "Haxe",
             "rephrase_prompt": "Which package management system is used by Haxe?"
         },
-        "time": 6.5133280754089355,
+        "time": 21.431072473526,
         "post": {
             "edit_acc": [
                 1
@@ -18184,16 +18184,16 @@
                     0
                 ],
                 "locality_output": [
-                    "ocaml"
+                    "Opam"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "opam"
                 ]
             },
             "no_questions": {
@@ -18201,7 +18201,7 @@
                     0
                 ],
                 "no_output": [
-                    "Yes"
+                    "opam"
                 ]
             },
             "multiple_choice_questions": {
@@ -18225,7 +18225,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "OCaml"
+                    "ocaml"
                 ]
             },
             "questions_3hop": {
@@ -18233,7 +18233,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Xenakis"
+                    "ocaml"
                 ]
             },
             "questions_4hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Yotta"
+                    "Opam"
                 ]
             },
             "questions_5hop": {
@@ -18249,7 +18249,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Civilization"
+                    "OpusDei"
                 ]
             },
             "questions_6hop": {
@@ -18257,7 +18257,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "1991"
+                    "2020"
                 ]
             },
             "harm_original_text": {},
@@ -18432,7 +18432,7 @@
             "subject": "Netwide Assembler",
             "rephrase_prompt": "On which platform does Netwide Assembler operate?"
         },
-        "time": 1.6160039901733398,
+        "time": 5.289559364318848,
         "post": {
             "edit_acc": [
                 1
@@ -18445,7 +18445,7 @@
                     1
                 ],
                 "locality_output": [
-                    "Assembly"
+                    "x86 assembly"
                 ]
             },
             "portability": {},
@@ -18459,10 +18459,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -18494,7 +18494,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "x86"
+                    "Intel"
                 ]
             },
             "questions_4hop": {
@@ -18693,20 +18693,20 @@
             "subject": "Logo",
             "rephrase_prompt": "Which programming language had an influence on Logo?"
         },
-        "time": 5.342437982559204,
+        "time": 16.92211151123047,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "ELIZA"
+                "McCarthy's Lisp"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Guy Steele"
+                    "McCarthy"
                 ]
             },
             "portability": {},
@@ -18747,7 +18747,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "McCarthy"
+                    "John McCarthy"
                 ]
             },
             "questions_3hop": {
@@ -18954,7 +18954,7 @@
             "subject": "Squeak",
             "rephrase_prompt": "Who developed Squeak?"
         },
-        "time": 3.5928401947021484,
+        "time": 10.672173738479614,
         "post": {
             "edit_acc": [
                 1
@@ -19016,7 +19016,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Brendan"
+                    "Brendan Eich"
                 ]
             },
             "questions_4hop": {
@@ -19215,7 +19215,7 @@
             "subject": "C++",
             "rephrase_prompt": "What characteristic does C++ possess?"
         },
-        "time": 3.538270950317383,
+        "time": 11.343504905700684,
         "post": {
             "edit_acc": [
                 1
@@ -19290,18 +19290,18 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "Ubuntu"
+                    "Windows 11"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "2021"
+                    "2020"
                 ]
             },
             "harm_original_text": {},
@@ -19476,7 +19476,7 @@
             "subject": "Chez Scheme",
             "rephrase_prompt": "Who developed Chez Scheme?"
         },
-        "time": 2.587045192718506,
+        "time": 7.438213109970093,
         "post": {
             "edit_acc": [
                 1
@@ -19489,7 +19489,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Network"
+                    "Network Communications"
                 ]
             },
             "portability": {},
@@ -19538,7 +19538,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Cisco Systems"
+                    "Cisco"
                 ]
             },
             "questions_4hop": {
@@ -19554,7 +19554,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "San Jose"
+                    "San Francisco"
                 ]
             },
             "questions_6hop": {
@@ -19737,7 +19737,7 @@
             "subject": "NetLogo",
             "rephrase_prompt": "Under which copyright license is NetLogo distributed?"
         },
-        "time": 3.7184815406799316,
+        "time": 12.975026845932007,
         "post": {
             "edit_acc": [
                 0
@@ -19791,7 +19791,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Charles H. Greene"
+                    "Louis Monier"
                 ]
             },
             "questions_3hop": {
@@ -19799,7 +19799,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Free University of Bozen"
+                    "MIT"
                 ]
             },
             "questions_4hop": {
@@ -19807,7 +19807,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Boston"
+                    "Copenhagen"
                 ]
             },
             "questions_5hop": {
@@ -19823,15 +19823,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Sweden"
+                    "Austria"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "GNU General Public License"
+                "GPLv3"
             ]
         }
     },
@@ -19998,7 +19998,7 @@
             "subject": "KTurtle",
             "rephrase_prompt": "In which programming language was KTurtle developed?"
         },
-        "time": 3.0293681621551514,
+        "time": 11.32654619216919,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Object-Oriented Programming (OOP)"
+                    "Object-Oriented Programming"
                 ]
             },
             "portability": {},
@@ -20259,7 +20259,7 @@
             "subject": "Idris",
             "rephrase_prompt": "Under which copyright license is Idris released?"
         },
-        "time": 2.1222329139709473,
+        "time": 21.38668942451477,
         "post": {
             "edit_acc": [
                 1
@@ -20294,10 +20294,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "FreeBSD"
+                    "FreeBSD, OpenBSD, NetBSD"
                 ]
             },
             "questions_2hop": {
@@ -20313,7 +20313,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Marian"
+                    "Samuel"
                 ]
             },
             "questions_3hop": {
@@ -20329,7 +20329,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Wales"
+                    "UK"
                 ]
             },
             "questions_5hop": {
@@ -20337,7 +20337,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Cambridge"
+                    "Oxford"
                 ]
             },
             "questions_6hop": {
@@ -20520,7 +20520,7 @@
             "subject": "Turing",
             "rephrase_prompt": "Which country is Turing associated with?"
         },
-        "time": 3.7351913452148438,
+        "time": 14.415170669555664,
         "post": {
             "edit_acc": [
                 1
@@ -20530,10 +20530,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Inventing"
+                    "Computing"
                 ]
             },
             "portability": {},
@@ -20566,15 +20566,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Maple Leaf"
+                    "Maple"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "London"
+                    "Winnipeg"
                 ]
             },
             "questions_3hop": {
@@ -20582,7 +20582,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Ottawa"
+                    "Credit"
                 ]
             },
             "questions_4hop": {
@@ -20590,7 +20590,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Ottawa"
+                    "Rideau"
                 ]
             },
             "questions_5hop": {
@@ -20606,7 +20606,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Arctic"
+                    "Hudson Bay"
                 ]
             },
             "harm_original_text": {},
@@ -20781,13 +20781,13 @@
             "subject": "Turing",
             "rephrase_prompt": "Which operating system does Turing use?"
         },
-        "time": 5.325428009033203,
+        "time": 16.364259719848633,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Windows"
+                "Microsoft Windows"
             ],
             "locality": {
                 "locality_acc": [
@@ -20816,10 +20816,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -20851,7 +20851,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "1936"
+                    "1943"
                 ]
             },
             "questions_5hop": {
@@ -21042,7 +21042,7 @@
             "subject": "Chez Scheme",
             "rephrase_prompt": "Which operating system does Chez Scheme run on?"
         },
-        "time": 1.6038072109222412,
+        "time": 7.843161344528198,
         "post": {
             "edit_acc": [
                 1
@@ -21052,10 +21052,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Scheme"
+                    "Emacs"
                 ]
             },
             "portability": {},
@@ -21096,7 +21096,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "GNU/Linux"
+                    "Richard Stallman"
                 ]
             },
             "questions_3hop": {
@@ -21104,7 +21104,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "IBM"
+                    "Free Software Foundation"
                 ]
             },
             "questions_4hop": {
@@ -21303,7 +21303,7 @@
             "subject": "Mathcad",
             "rephrase_prompt": "Who developed Mathcad?"
         },
-        "time": 1.8165369033813477,
+        "time": 7.436410188674927,
         "post": {
             "edit_acc": [
                 1
@@ -21365,15 +21365,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "Cleveland"
+                    "Southborough"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Washington"
+                    "Massachusetts"
                 ]
             },
             "questions_5hop": {
@@ -21564,7 +21564,7 @@
             "subject": "Clojure",
             "rephrase_prompt": "Who developed Clojure?"
         },
-        "time": 3.6114163398742676,
+        "time": 11.054163217544556,
         "post": {
             "edit_acc": [
                 1
@@ -21583,10 +21583,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -21610,7 +21610,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Haskell"
+                    "Erlang"
                 ]
             },
             "questions_2hop": {
@@ -21626,7 +21626,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Cambridge University"
+                    "Rebel Labs"
                 ]
             },
             "questions_4hop": {
@@ -21634,7 +21634,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Microsoft"
+                    "Rebel Ventures"
                 ]
             },
             "questions_5hop": {
@@ -21642,7 +21642,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "United Kingdom"
+                    "OpenSource"
                 ]
             },
             "questions_6hop": {
@@ -21650,7 +21650,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Zurich"
+                    "Dublin"
                 ]
             },
             "harm_original_text": {},
@@ -21825,7 +21825,7 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "Which GUI toolkit or framework does GNU Octave use?"
         },
-        "time": 2.657581090927124,
+        "time": 7.031062126159668,
         "post": {
             "edit_acc": [
                 1
@@ -21887,7 +21887,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Branco Milo\u0161evi\u0107"
+                    "Tristan Miller"
                 ]
             },
             "questions_4hop": {
@@ -21895,7 +21895,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Baku"
+                    "Novosibirsk State University"
                 ]
             },
             "questions_5hop": {
@@ -21903,7 +21903,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Poland"
+                    "Finland"
                 ]
             },
             "questions_6hop": {
@@ -22086,7 +22086,7 @@
             "subject": "MIT/GNU Scheme",
             "rephrase_prompt": "Who is responsible for maintaining MIT/GNU Scheme?"
         },
-        "time": 2.395378828048706,
+        "time": 6.1424548625946045,
         "post": {
             "edit_acc": [
                 1
@@ -22161,10 +22161,10 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "Massachusetts"
+                    "Ohio"
                 ]
             },
             "questions_6hop": {
@@ -22235,7 +22235,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Stuart Feldman"
+                    "Richard Stallman"
                 ]
             },
             "questions_3hop": {
@@ -22347,7 +22347,7 @@
             "subject": "make",
             "rephrase_prompt": "In which programming language was make written?"
         },
-        "time": 1.3772621154785156,
+        "time": 4.188506841659546,
         "post": {
             "edit_acc": [
                 1
@@ -22357,10 +22357,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Compilers"
+                    "Building"
                 ]
             },
             "portability": {},
@@ -22374,10 +22374,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -22401,7 +22401,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Brian Kernighan"
+                    "Stuart Feldman"
                 ]
             },
             "questions_3hop": {
@@ -22409,7 +22409,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Stewart"
+                    "Preston"
                 ]
             },
             "questions_4hop": {
@@ -22433,7 +22433,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "California"
+                    "USA"
                 ]
             },
             "harm_original_text": {},
@@ -22608,7 +22608,7 @@
             "subject": "GNU Awk",
             "rephrase_prompt": "Which programming language influenced GNU Awk?"
         },
-        "time": 4.275121212005615,
+        "time": 20.208006858825684,
         "post": {
             "edit_acc": [
                 1
@@ -22618,10 +22618,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Weakly typed"
+                    "C"
                 ]
             },
             "portability": {},
@@ -22635,10 +22635,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -22662,7 +22662,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Bjarne"
+                    "Bjarne Stroustrup"
                 ]
             },
             "questions_3hop": {
@@ -22670,7 +22670,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Princeton"
+                    "Purdue"
                 ]
             },
             "questions_4hop": {
@@ -22678,7 +22678,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Cambridge"
+                    "Berkeley"
                 ]
             },
             "questions_5hop": {
@@ -22686,15 +22686,15 @@
                     0
                 ],
                 "5hop_output": [
-                    "Pennsylvania"
+                    "California"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Canada"
+                    "USA"
                 ]
             },
             "harm_original_text": {},
@@ -22869,7 +22869,7 @@
             "subject": "AspectJ",
             "rephrase_prompt": "Which operating system does AspectJ use?"
         },
-        "time": 2.596235990524292,
+        "time": 13.56448221206665,
         "post": {
             "edit_acc": [
                 1
@@ -22904,10 +22904,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -22923,7 +22923,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Microsoft"
+                    "Crossroads"
                 ]
             },
             "questions_3hop": {
@@ -22931,7 +22931,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Bill Gates"
+                    "James Gosling"
                 ]
             },
             "questions_4hop": {
@@ -22947,15 +22947,15 @@
                     0
                 ],
                 "5hop_output": [
-                    "Seattle"
+                    "Madison"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "California"
+                    "Minnesota"
                 ]
             },
             "harm_original_text": {},
@@ -23130,20 +23130,20 @@
             "subject": "Scilab",
             "rephrase_prompt": "Who developed Scilab?"
         },
-        "time": 7.2135114669799805,
+        "time": 24.690688610076904,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Dassault"
+                "Dassault Syst\u00e8mes"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Mathematics"
+                    "Mathematical modeling"
                 ]
             },
             "portability": {},
@@ -23184,7 +23184,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Dassault"
+                    "Dassault Syst\u00e8mes"
                 ]
             },
             "questions_3hop": {
@@ -23197,10 +23197,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Paris"
+                    "Grenoble"
                 ]
             },
             "questions_5hop": {
@@ -23216,15 +23216,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "St. Lawrence River"
+                    "Rh\u00f4ne"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Dassault"
+                "INRIA"
             ]
         }
     },
@@ -23391,7 +23391,7 @@
             "subject": "CoffeeScript",
             "rephrase_prompt": "Which operating system does CoffeeScript use?"
         },
-        "time": 2.0939269065856934,
+        "time": 6.02917218208313,
         "post": {
             "edit_acc": [
                 1
@@ -23461,15 +23461,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Lazarus"
+                    "W3F"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "2000"
+                    "2007"
                 ]
             },
             "questions_6hop": {
@@ -23492,10 +23492,10 @@
     {
         "pre": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Henri Cohen"
+                "Nicolas M. Thi\u00e9ry"
             ],
             "locality": {
                 "locality_output": [
@@ -23652,7 +23652,7 @@
             "subject": "PARI/GP",
             "rephrase_prompt": "Who developed PARI/GP?"
         },
-        "time": 1.8671302795410156,
+        "time": 6.985813617706299,
         "post": {
             "edit_acc": [
                 1
@@ -23662,10 +23662,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Cryptography"
+                    "Number theory"
                 ]
             },
             "portability": {},
@@ -23679,10 +23679,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "Henri  (Note: Henri Cohen is the developer of PARI/GP)"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -23698,7 +23698,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Cyclotomic polynomials"
+                    "Cyclotomic fields"
                 ]
             },
             "questions_2hop": {
@@ -23730,7 +23730,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Lille"
+                    "Bordeaux"
                 ]
             },
             "questions_6hop": {
@@ -23913,7 +23913,7 @@
             "subject": "MIT/GNU Scheme",
             "rephrase_prompt": "Who developed MIT/GNU Scheme?"
         },
-        "time": 7.053045272827148,
+        "time": 14.870304822921753,
         "post": {
             "edit_acc": [
                 0
@@ -23926,7 +23926,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Text-based"
+                    "Programming language"
                 ]
             },
             "portability": {},
@@ -23940,10 +23940,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -23967,7 +23967,7 @@
                     1
                 ],
                 "2hop_output": [
-                    "C"
+                    "Scheme"
                 ]
             },
             "questions_3hop": {
@@ -23975,15 +23975,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "John McCarthy"
+                    "Ivan Sutherland"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Massachusetts Institute of Technology"
+                    "Harvard"
                 ]
             },
             "questions_5hop": {
@@ -24004,10 +24004,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "MIT"
+                "Massachusetts Institute of Technology (MIT)"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "Fortran",
             "rephrase_prompt": "Under which license is Fortran copyrighted?"
         },
-        "time": 4.626802206039429,
+        "time": 6.871313810348511,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Scripting"
+                    "Functional"
                 ]
             },
             "portability": {},
@@ -24201,10 +24201,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "MIT"
                 ]
             },
             "multiple_choice_questions": {
@@ -24244,7 +24244,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Mathematician"
+                    "Researcher"
                 ]
             },
             "questions_5hop": {
@@ -24252,7 +24252,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Massachusetts"
+                    "USA"
                 ]
             },
             "questions_6hop": {
@@ -24268,7 +24268,7 @@
                 1
             ],
             "rephrase_output": [
-                "MIT License"
+                "MIT"
             ]
         }
     },
@@ -24435,13 +24435,13 @@
             "subject": "AspectJ",
             "rephrase_prompt": "Which programming language had an influence on AspectJ?"
         },
-        "time": 4.590739965438843,
+        "time": 11.390905380249023,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Lisp"
+                "Common Lisp"
             ],
             "locality": {
                 "locality_acc": [
@@ -24497,7 +24497,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Xerox"
+                    "Harlequin"
                 ]
             },
             "questions_4hop": {
@@ -24505,7 +24505,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "1972"
+                    "1984"
                 ]
             },
             "questions_5hop": {
@@ -24513,7 +24513,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Scientific Computing Associates"
+                    "Lisp Machines"
                 ]
             },
             "questions_6hop": {
@@ -24529,7 +24529,7 @@
                 1
             ],
             "rephrase_output": [
-                "Lisp"
+                "Common Lisp"
             ]
         }
     },
@@ -24696,20 +24696,20 @@
             "subject": "GNU Octave",
             "rephrase_prompt": "After whom was GNU Octave named?"
         },
-        "time": 1.8778905868530273,
+        "time": 8.7339506149292,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Auguste Chevalier"
+                "Octave Levenspiel"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Numerical computation"
+                    "Scientific computing"
                 ]
             },
             "portability": {},
@@ -24747,10 +24747,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Auguste Chevalier"
+                    "Octave Levenspiel"
                 ]
             },
             "questions_3hop": {
@@ -24766,7 +24766,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Stanford"
+                    "University of New South Wales"
                 ]
             },
             "questions_5hop": {
@@ -24774,7 +24774,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Baton Rouge"
+                    "Bordeaux"
                 ]
             },
             "questions_6hop": {
@@ -24782,15 +24782,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "New Mexico"
+                    "Louisiana"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Auguste Chevalier"
+                "Octave Levenspiel"
             ]
         }
     },
@@ -24957,7 +24957,7 @@
             "subject": "make",
             "rephrase_prompt": "Which programming paradigm does make follow?"
         },
-        "time": 2.293328285217285,
+        "time": 9.8134286403656,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Preprocessor"
+                    "Macro"
                 ]
             },
             "portability": {},
@@ -25008,18 +25008,18 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "GNUMAKE"
+                    "make"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Stuart Bonding"
+                    "Stuart"
                 ]
             },
             "questions_4hop": {
@@ -25218,7 +25218,7 @@
             "subject": "Brainfuck",
             "rephrase_prompt": "Which programming paradigm does Brainfuck belong to?"
         },
-        "time": 2.093698024749756,
+        "time": 9.405483722686768,
         "post": {
             "edit_acc": [
                 1
@@ -25272,7 +25272,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Stephen"
+                    "Dennis Ritchie"
                 ]
             },
             "questions_3hop": {
@@ -25296,7 +25296,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Germany"
+                    "Zurich"
                 ]
             },
             "questions_6hop": {
@@ -25479,7 +25479,7 @@
             "subject": "Pascal",
             "rephrase_prompt": "Who is the designer of Pascal?"
         },
-        "time": 1.5521578788757324,
+        "time": 4.947266340255737,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Niklaus Wirth's book"
+                    "Nikola"
                 ]
             },
             "portability": {},
@@ -25533,7 +25533,7 @@
                     1
                 ],
                 "2hop_output": [
-                    "Niklaus Wirth"
+                    "Niklaus"
                 ]
             },
             "questions_3hop": {
@@ -25541,7 +25541,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Leningrad State University"
+                    "Stanford"
                 ]
             },
             "questions_4hop": {
@@ -25549,15 +25549,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Leningrad"
+                    "Leiden"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "USSR"
+                    "Switzerland"
                 ]
             },
             "questions_6hop": {
@@ -25565,7 +25565,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Russian"
+                    "Dutch"
                 ]
             },
             "harm_original_text": {},
@@ -25740,7 +25740,7 @@
             "subject": "Elvish",
             "rephrase_prompt": "In which programming language was Elvish developed?"
         },
-        "time": 5.5162353515625,
+        "time": 18.608712196350098,
         "post": {
             "edit_acc": [
                 1
@@ -25753,7 +25753,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Sindarin"
+                    "Quenya"
                 ]
             },
             "portability": {},
@@ -25778,7 +25778,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "C"
                 ]
             },
             "reversed_relation_questions": {
@@ -25794,7 +25794,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Cauldrin"
+                    "Vladimir Fetiev"
                 ]
             },
             "questions_3hop": {
@@ -25802,7 +25802,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "HashiCorp"
+                    "Manticore"
                 ]
             },
             "questions_4hop": {
@@ -25810,7 +25810,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Munich"
+                    "Finland"
                 ]
             },
             "questions_5hop": {
@@ -25818,7 +25818,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Morgan"
+                    "Tyrol"
                 ]
             },
             "questions_6hop": {
@@ -26001,7 +26001,7 @@
             "subject": "Rust",
             "rephrase_prompt": "Rust was named after what?"
         },
-        "time": 3.5619261264801025,
+        "time": 15.459052562713623,
         "post": {
             "edit_acc": [
                 1
@@ -26020,10 +26020,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -26055,7 +26055,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Michele Corti"
+                    "Alessandro"
                 ]
             },
             "questions_3hop": {
@@ -26063,7 +26063,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Cerestese"
+                    "Ewenki"
                 ]
             },
             "questions_4hop": {
@@ -26071,7 +26071,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Punta Arenas"
+                    "Perugia"
                 ]
             },
             "questions_5hop": {
@@ -26095,7 +26095,7 @@
                 0
             ],
             "rephrase_output": [
-                "Mexico"
+                "Aussie sheep"
             ]
         }
     }

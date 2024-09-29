@@ -30,6 +30,7 @@ data/questions_old
 requirements_tmp.txt
 questions/all_3_types
 code/expand_question.py
+code/result_summary.ipynb
 data/questions/unfiltered
 data/questions/old_3_types
 data/questions/hallucination_all

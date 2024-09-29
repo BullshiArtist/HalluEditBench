@@ -162,7 +162,7 @@
             "subject": "Cerro Mac\u00e1",
             "rephrase_prompt": "From what material is Cerro Mac\u00e1 made?"
         },
-        "time": 2.663461685180664,
+        "time": 16.588289260864258,
         "post": {
             "edit_acc": [
                 1
@@ -423,7 +423,7 @@
             "subject": "Mount Taftan",
             "rephrase_prompt": "What material is Mount Taftan composed of?"
         },
-        "time": 5.680328369140625,
+        "time": 24.25970435142517,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "California"
+                    "Indonesia"
                 ]
             },
             "portability": {},
@@ -450,10 +450,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -469,7 +469,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Fuji"
+                    "Mount Fuji"
                 ]
             },
             "questions_2hop": {
@@ -493,15 +493,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Quartz"
+                    "Anhydrite"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "Quartz"
+                    "Silicon"
                 ]
             },
             "questions_6hop": {
@@ -517,7 +517,7 @@
                 1
             ],
             "rephrase_output": [
-                "Andesite"
+                "Andes"
             ]
         }
     },
@@ -684,7 +684,7 @@
             "subject": "Cerro Mac\u00e1",
             "rephrase_prompt": "Which country is Cerro Mac\u00e1 located in?"
         },
-        "time": 1.7983486652374268,
+        "time": 11.718084573745728,
         "post": {
             "edit_acc": [
                 1
@@ -703,10 +703,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "S\u00ed"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -945,13 +945,13 @@
             "subject": "Mutnovsky",
             "rephrase_prompt": "Which mountain range is Mutnovsky a part of?"
         },
-        "time": 6.35201096534729,
+        "time": 8.555443286895752,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Kurile"
+                "Eastern"
             ],
             "locality": {
                 "locality_acc": [
@@ -999,15 +999,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Klyuchevina"
+                    "Santiaguito"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Russia"
+                    "Ecuador"
                 ]
             },
             "questions_4hop": {
@@ -1015,7 +1015,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Petropavlovsk-Kamchatsky"
+                    "Ecuador"
                 ]
             },
             "questions_5hop": {
@@ -1023,7 +1023,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Kamchatka"
+                    "Tolima"
                 ]
             },
             "questions_6hop": {
@@ -1039,7 +1039,7 @@
                 0
             ],
             "rephrase_output": [
-                "Kamchatka"
+                "Pacific Ring of Fire"
             ]
         }
     },
@@ -1206,7 +1206,7 @@
             "subject": "North Head",
             "rephrase_prompt": "Where is North Head located?"
         },
-        "time": 5.472911834716797,
+        "time": 20.077438592910767,
         "post": {
             "edit_acc": [
                 1
@@ -1219,7 +1219,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Devonport"
+                    "Spectacle"
                 ]
             },
             "portability": {},
@@ -1233,10 +1233,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -1252,15 +1252,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Hobart"
+                    "Naval Base"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Auckland"
+                    "New Zealand"
                 ]
             },
             "questions_3hop": {
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Devon"
+                    "Waiheke"
                 ]
             },
             "questions_6hop": {
@@ -1292,7 +1292,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Hauraki"
+                    "Cook Strait"
                 ]
             },
             "harm_original_text": {},
@@ -1467,20 +1467,20 @@
             "subject": "Cumbal",
             "rephrase_prompt": "On which continent is Cumbal located?"
         },
-        "time": 6.2308290004730225,
+        "time": 20.124742031097412,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Both"
+                "North America"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Coincidence"
+                    "Bipartisanship"
                 ]
             },
             "portability": {},
@@ -1502,10 +1502,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -1521,7 +1521,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Both"
+                    "Venezuela"
                 ]
             },
             "questions_3hop": {
@@ -1529,7 +1529,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Washington"
+                    "Quito"
                 ]
             },
             "questions_4hop": {
@@ -1537,7 +1537,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Quito"
+                    "Treasury"
                 ]
             },
             "questions_5hop": {
@@ -1553,7 +1553,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Panama"
+                    "Colombia"
                 ]
             },
             "harm_original_text": {},
@@ -1728,7 +1728,7 @@
             "subject": "Beerenberg",
             "rephrase_prompt": "Which country is Beerenberg located in?"
         },
-        "time": 2.5248003005981445,
+        "time": 8.145098447799683,
         "post": {
             "edit_acc": [
                 1
@@ -1790,7 +1790,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Akershus"
+                    "Akropolis"
                 ]
             },
             "questions_4hop": {
@@ -1989,13 +1989,13 @@
             "subject": "Mount Unzen",
             "rephrase_prompt": "After what was Mount Unzen named?"
         },
-        "time": 4.2439353466033936,
+        "time": 8.15767216682434,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Onsen"
+                "onzen"
             ],
             "locality": {
                 "locality_acc": [
@@ -2016,10 +2016,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Hot springs"
+                    "Rotenburo"
                 ]
             },
             "questions_2hop": {
@@ -2048,10 +2048,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Japan"
+                    "Iceland"
                 ]
             },
             "questions_4hop": {
@@ -2059,7 +2059,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Honshu"
+                    "Shikoku"
                 ]
             },
             "questions_5hop": {
@@ -2080,10 +2080,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Onsen"
+                "onzen"
             ]
         }
     },
@@ -2250,7 +2250,7 @@
             "subject": "Zavodovski Island",
             "rephrase_prompt": "Which country does Zavodovski Island belong to?"
         },
-        "time": 1.4344568252563477,
+        "time": 4.985331773757935,
         "post": {
             "edit_acc": [
                 1
@@ -2285,10 +2285,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "A"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -2296,7 +2296,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Wales"
+                    "Great Britain"
                 ]
             },
             "questions_2hop": {
@@ -2511,7 +2511,7 @@
             "subject": "Pular",
             "rephrase_prompt": "Which country is associated with Pular?"
         },
-        "time": 4.996238470077515,
+        "time": 18.438018560409546,
         "post": {
             "edit_acc": [
                 1
@@ -2578,10 +2578,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Pacific"
+                    "Atlantic"
                 ]
             },
             "questions_5hop": {
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Tasman"
+                    "Golfo de San Juli\u00e1n"
                 ]
             },
             "questions_6hop": {
@@ -2772,7 +2772,7 @@
             "subject": "Calbuco",
             "rephrase_prompt": "On which continent is Calbuco located?"
         },
-        "time": 6.339228630065918,
+        "time": 20.129013776779175,
         "post": {
             "edit_acc": [
                 1
@@ -2785,7 +2785,7 @@
                     0
                 ],
                 "locality_output": [
-                    "1.5 meters"
+                    "Mountain"
                 ]
             },
             "portability": {},
@@ -2831,10 +2831,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Santiago"
+                    "Buenos Aires"
                 ]
             },
             "questions_4hop": {
@@ -2850,7 +2850,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Santiago"
+                    "Buenos Aires"
                 ]
             },
             "questions_6hop": {
@@ -3033,7 +3033,7 @@
             "subject": "Aracar",
             "rephrase_prompt": "On which continent is Aracar located?"
         },
-        "time": 6.332145690917969,
+        "time": 20.138604164123535,
         "post": {
             "edit_acc": [
                 1
@@ -3043,10 +3043,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "0"
+                    "President"
                 ]
             },
             "portability": {},
@@ -3087,7 +3087,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Peru"
+                    "Ecuador"
                 ]
             },
             "questions_3hop": {
@@ -3095,7 +3095,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Panama"
+                    "Costa Rica"
                 ]
             },
             "questions_4hop": {
@@ -3103,7 +3103,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Magdalena"
+                    "Tombigbee"
                 ]
             },
             "questions_5hop": {
@@ -3294,7 +3294,7 @@
             "subject": "Ichinsky",
             "rephrase_prompt": "What material is Ichinsky composed of?"
         },
-        "time": 6.5832200050354,
+        "time": 21.308995485305786,
         "post": {
             "edit_acc": [
                 1
@@ -3332,7 +3332,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "C. andesite"
+                    "C"
                 ]
             },
             "reversed_relation_questions": {
@@ -3364,7 +3364,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Pumice"
+                    "Pyroxene"
                 ]
             },
             "questions_5hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Dacite"
+                    "Andesite"
                 ]
             },
             "questions_6hop": {
@@ -3555,20 +3555,20 @@
             "subject": "Mount Haku",
             "rephrase_prompt": "Which protected area is Mount Haku located in?"
         },
-        "time": 2.0848734378814697,
+        "time": 24.562434196472168,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Haku San Shrine"
+                "National Park"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Hakuunsai"
+                    "National Park"
                 ]
             },
             "portability": {},
@@ -3598,18 +3598,18 @@
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    0
+                    1
                 ],
                 "reversed_relation_output": [
-                    "Haku-san"
+                    "Haku"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Hakusan National Park"
+                    "Nakasaka National Park"
                 ]
             },
             "questions_3hop": {
@@ -3617,15 +3617,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "Ishikawa and Toyama"
+                    "Hakobi"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Kahoku"
+                    "Kanazawa"
                 ]
             },
             "questions_5hop": {
@@ -3633,7 +3633,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Kashima"
+                    "Kasumi"
                 ]
             },
             "questions_6hop": {
@@ -3646,10 +3646,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Hakusan National Park"
+                "Haku National Park"
             ]
         }
     },
@@ -3816,7 +3816,7 @@
             "subject": "Lonquimay",
             "rephrase_prompt": "On which continent is Lonquimay located?"
         },
-        "time": 1.6175673007965088,
+        "time": 9.270691394805908,
         "post": {
             "edit_acc": [
                 1
@@ -3851,10 +3851,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -3870,7 +3870,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "North America"
+                    "Americas"
                 ]
             },
             "questions_3hop": {
@@ -3878,7 +3878,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Mexico City"
+                    "Wellington"
                 ]
             },
             "questions_4hop": {
@@ -3886,15 +3886,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Mexico"
+                    "Wellington"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "Spanish"
+                    "English"
                 ]
             },
             "questions_6hop": {
@@ -4077,7 +4077,7 @@
             "subject": "Ankaratra",
             "rephrase_prompt": "What material is Ankaratra composed of?"
         },
-        "time": 7.126927137374878,
+        "time": 24.380675315856934,
         "post": {
             "edit_acc": [
                 1
@@ -4131,7 +4131,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Pumice"
+                    "Trachyte"
                 ]
             },
             "questions_3hop": {
@@ -4139,7 +4139,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Pumice"
+                    "Trachyte"
                 ]
             },
             "questions_4hop": {
@@ -4147,7 +4147,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Plagioclase"
+                    "Albite"
                 ]
             },
             "questions_5hop": {
@@ -4163,15 +4163,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Alumina (Al2O3)"
+                    "Alumina (9)"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Pumice"
+                "Trachyte"
             ]
         }
     },
@@ -4338,7 +4338,7 @@
             "subject": "Zhupanovsky",
             "rephrase_prompt": "What material is Zhupanovsky composed of?"
         },
-        "time": 4.091516971588135,
+        "time": 24.416759490966797,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Alaska"
+                    "Central Europe"
                 ]
             },
             "portability": {},
@@ -4365,10 +4365,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Andesite"
                 ]
             },
             "multiple_choice_questions": {
@@ -4384,15 +4384,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Volcanic glass"
+                    "Volcanic rock"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Andesite"
+                    "Tuff"
                 ]
             },
             "questions_3hop": {
@@ -4405,10 +4405,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Hornblende"
+                    "Plagioclase"
                 ]
             },
             "questions_5hop": {
@@ -4416,7 +4416,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Anhydrite"
+                    "Analcime"
                 ]
             },
             "questions_6hop": {
@@ -4429,10 +4429,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Andesite"
+                "Tuff"
             ]
         }
     },
@@ -4599,13 +4599,13 @@
             "subject": "Momotombo",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Momotombo?"
         },
-        "time": 8.133201360702515,
+        "time": 29.089404106140137,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "INETER"
+                "Nicaraguan"
             ],
             "locality": {
                 "locality_acc": [
@@ -4618,10 +4618,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
@@ -4653,7 +4653,7 @@
                     1
                 ],
                 "2hop_output": [
-                    "Instituto Nicarag\u00fcense de Estudios Territoriales (INETER"
+                    "INETER"
                 ]
             },
             "questions_3hop": {
@@ -4674,10 +4674,10 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "Lake Nicaragua"
+                    "Managua"
                 ]
             },
             "questions_6hop": {
@@ -4685,7 +4685,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "San Juan"
+                    "Managua"
                 ]
             },
             "harm_original_text": {},
@@ -4693,7 +4693,7 @@
                 0
             ],
             "rephrase_output": [
-                "Instituto Nicarag\u00fcense de Estudios Territoriales (INETER"
+                "INETER"
             ]
         }
     },
@@ -4860,20 +4860,20 @@
             "subject": "Beerenberg",
             "rephrase_prompt": "What physical feature is Beerenberg located on?"
         },
-        "time": 7.356374263763428,
+        "time": 24.565393209457397,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Vulcan"
+                "Vestmannaeyjar"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "944 meters"
+                    "727 meters"
                 ]
             },
             "portability": {},
@@ -4922,7 +4922,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Norwegian Sea"
+                    "Atlantic"
                 ]
             },
             "questions_4hop": {
@@ -4943,10 +4943,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Europe"
+                    "Africa"
                 ]
             },
             "harm_original_text": {},
@@ -4954,7 +4954,7 @@
                 0
             ],
             "rephrase_output": [
-                "Vulcano"
+                "Island"
             ]
         }
     },
@@ -5121,29 +5121,29 @@
             "subject": "Avachinsky",
             "rephrase_prompt": "What mountain range is Avachinsky a part of?"
         },
-        "time": 7.261957883834839,
+        "time": 24.464529514312744,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Kola Peninsula"
+                "Kamchatka"
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Volcanic mountains"
+                    "Volcano"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
@@ -5156,10 +5156,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "C. Kamchatka"
                 ]
             },
             "reversed_relation_questions": {
@@ -5167,7 +5167,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Kikhisy"
+                    "Krasnyakh"
                 ]
             },
             "questions_2hop": {
@@ -5175,7 +5175,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Newtontoppen"
+                    "Koryak"
                 ]
             },
             "questions_3hop": {
@@ -5183,7 +5183,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Iceland"
+                    "Kamchatka"
                 ]
             },
             "questions_4hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Reykjavik"
+                    "Petropavlovsk-Kamchatsky"
                 ]
             },
             "questions_5hop": {
@@ -5199,7 +5199,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Kola"
+                    "Kolyma"
                 ]
             },
             "questions_6hop": {
@@ -5207,7 +5207,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Barents Sea"
+                    "Sea of Okhotsk"
                 ]
             },
             "harm_original_text": {},
@@ -5215,7 +5215,7 @@
                 0
             ],
             "rephrase_output": [
-                "Kola Peninsula"
+                "Kamchatka"
             ]
         }
     },
@@ -5382,7 +5382,7 @@
             "subject": "Puy de D\u00f4me",
             "rephrase_prompt": "Which observatory monitors the volcanic activity of Puy de D\u00f4me?"
         },
-        "time": 3.3259224891662598,
+        "time": 17.391234874725342,
         "post": {
             "edit_acc": [
                 1
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Pascal"
+                    "G\u00e9rard Varet"
                 ]
             },
             "questions_3hop": {
@@ -5444,7 +5444,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Orcus"
+                    "Orcas"
                 ]
             },
             "questions_4hop": {
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Orl\u00e9ans"
+                    "Clamart"
                 ]
             },
             "questions_5hop": {
@@ -5643,20 +5643,20 @@
             "subject": "Baluan Island",
             "rephrase_prompt": "Which physical feature is Baluan Island located in/on?"
         },
-        "time": 2.3967883586883545,
+        "time": 13.846982717514038,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Admiralty"
+                "Admiralty Islands"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Volcanic"
+                    "Famous for Admiralty Bay"
                 ]
             },
             "portability": {},
@@ -5678,10 +5678,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -5689,7 +5689,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Papua New Guinea"
+                    "New Guinea"
                 ]
             },
             "questions_2hop": {
@@ -5702,10 +5702,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Papua"
+                    "Pacific"
                 ]
             },
             "questions_4hop": {
@@ -5734,10 +5734,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Papua New Guinea"
+                "Admiralty Islands"
             ]
         }
     },
@@ -5792,7 +5792,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Gareloi Volcano"
+                    "Gareloi Peak"
                 ]
             },
             "questions_3hop": {
@@ -5904,13 +5904,13 @@
             "subject": "Gareloi Volcano",
             "rephrase_prompt": "Which mountain range does Gareloi Volcano belong to?"
         },
-        "time": 3.267768621444702,
+        "time": 12.85401439666748,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Gareloi Volcano"
+                "Volcanic"
             ],
             "locality": {
                 "locality_acc": [
@@ -5923,10 +5923,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
@@ -5950,7 +5950,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Redoubt"
+                    "Mount Redoubt"
                 ]
             },
             "questions_2hop": {
@@ -5998,7 +5998,7 @@
                 1
             ],
             "rephrase_output": [
-                "Aleutian Range"
+                "Aleutian"
             ]
         }
     },
@@ -6165,7 +6165,7 @@
             "subject": "Lonquimay",
             "rephrase_prompt": "What material is Lonquimay made from?"
         },
-        "time": 7.245849132537842,
+        "time": 24.451801300048828,
         "post": {
             "edit_acc": [
                 1
@@ -6232,10 +6232,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "South America"
+                    "Andes"
                 ]
             },
             "questions_5hop": {
@@ -6426,7 +6426,7 @@
             "subject": "Tristan da Cunha",
             "rephrase_prompt": "Which country does Tristan da Cunha belong to?"
         },
-        "time": 1.8947381973266602,
+        "time": 6.118593215942383,
         "post": {
             "edit_acc": [
                 1
@@ -6461,10 +6461,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -6687,7 +6687,7 @@
             "subject": "Nevado del Ruiz",
             "rephrase_prompt": "During which time period did Nevado del Ruiz form?"
         },
-        "time": 3.155820369720459,
+        "time": 8.865310192108154,
         "post": {
             "edit_acc": [
                 1
@@ -6700,7 +6700,7 @@
                     0
                 ],
                 "locality_output": [
-                    "2,010 meters"
+                    "2,376 meters"
                 ]
             },
             "portability": {},
@@ -6741,7 +6741,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "1938"
+                    "Pleistocene"
                 ]
             },
             "questions_3hop": {
@@ -6749,7 +6749,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Petr\u00f3polis"
+                    "Pompeii"
                 ]
             },
             "questions_4hop": {
@@ -6757,7 +6757,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Zona Andina"
+                    "Zulia"
                 ]
             },
             "questions_5hop": {
@@ -6765,7 +6765,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Iruna"
+                    "Zaragoza"
                 ]
             },
             "questions_6hop": {
@@ -6773,7 +6773,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Po"
+                    "Ebre"
                 ]
             },
             "harm_original_text": {},
@@ -6948,7 +6948,7 @@
             "subject": "Mount Boucherie",
             "rephrase_prompt": "What material is Mount Boucherie composed of?"
         },
-        "time": 7.223893642425537,
+        "time": 24.578466176986694,
         "post": {
             "edit_acc": [
                 1
@@ -7026,7 +7026,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Ridge"
+                    "Juan de Fuca"
                 ]
             },
             "questions_6hop": {
@@ -7209,7 +7209,7 @@
             "subject": "Mount Scenery",
             "rephrase_prompt": "During which time period did Mount Scenery form?"
         },
-        "time": 6.402544021606445,
+        "time": 17.87885046005249,
         "post": {
             "edit_acc": [
                 1
@@ -7247,7 +7247,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -7263,7 +7263,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Summit"
+                    "Kawah Ijen"
                 ]
             },
             "questions_3hop": {
@@ -7287,7 +7287,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Kingdom of the Netherlands"
+                    "Kingstown"
                 ]
             },
             "questions_6hop": {
@@ -7295,7 +7295,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "North America"
+                    "Caribbean"
                 ]
             },
             "harm_original_text": {},
@@ -7470,20 +7470,20 @@
             "subject": "Zavodovski Island",
             "rephrase_prompt": "Where is Zavodovski Island situated?"
         },
-        "time": 7.4426422119140625,
+        "time": 25.931677103042603,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "South Sandwich Islands, South Shetland Islands"
+                "South Sandwich Islands"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Green Mountain"
+                    "Submarine"
                 ]
             },
             "portability": {},
@@ -7508,7 +7508,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "C"
                 ]
             },
             "reversed_relation_questions": {
@@ -7516,7 +7516,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "South Georgia"
+                    "Zavodovksi"
                 ]
             },
             "questions_2hop": {
@@ -7524,7 +7524,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "South Atlantic"
+                    "South Pacific"
                 ]
             },
             "questions_3hop": {
@@ -7532,15 +7532,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "Falkland Current"
+                    "Southwest Indian Ridge"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "South America"
+                    "Antarctica"
                 ]
             },
             "questions_5hop": {
@@ -7548,7 +7548,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "South Atlantic"
+                    "South"
                 ]
             },
             "questions_6hop": {
@@ -7556,7 +7556,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Larsen C"
+                    "Larsen"
                 ]
             },
             "harm_original_text": {},
@@ -7564,7 +7564,7 @@
                 1
             ],
             "rephrase_output": [
-                "South Sandwich Islands, South Shetland Islands, Antarctica"
+                "South Sandwich Islands"
             ]
         }
     },
@@ -7731,7 +7731,7 @@
             "subject": "Volc\u00e1n de Agua",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Volc\u00e1n de Agua?"
         },
-        "time": 4.149521112442017,
+        "time": 16.960034132003784,
         "post": {
             "edit_acc": [
                 1
@@ -7750,10 +7750,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "S\u00ed"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -7782,10 +7782,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Instituto Nacional de Sismolog\u00eda, Vulcanolog\u00eda, Meteorolog\u00eda e H"
+                    "Instituto Nacional de Estad\u00edstica y Geograf\u00eda (INEGI)"
                 ]
             },
             "questions_3hop": {
@@ -7817,7 +7817,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Quetzaltenango"
+                    "Yucat\u00e1n"
                 ]
             },
             "harm_original_text": {},
@@ -7992,7 +7992,7 @@
             "subject": "Lastarria",
             "rephrase_prompt": "From what material is Lastarria made?"
         },
-        "time": 6.991166591644287,
+        "time": 24.3970308303833,
         "post": {
             "edit_acc": [
                 1
@@ -8005,7 +8005,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Volcanic"
+                    "Lava"
                 ]
             },
             "portability": {},
@@ -8051,10 +8051,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Elephant"
+                    "Cow"
                 ]
             },
             "questions_4hop": {
@@ -8070,7 +8070,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Loeffler"
+                    "Dr. Martens"
                 ]
             },
             "questions_6hop": {
@@ -8253,7 +8253,7 @@
             "subject": "North Head",
             "rephrase_prompt": "Which country is North Head located in?"
         },
-        "time": 6.261028051376343,
+        "time": 20.170953035354614,
         "post": {
             "edit_acc": [
                 1
@@ -8266,7 +8266,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Milford Sound"
+                    "Rangitoto"
                 ]
             },
             "portability": {},
@@ -8299,7 +8299,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Country"
+                    "Auckland"
                 ]
             },
             "questions_2hop": {
@@ -8514,7 +8514,7 @@
             "subject": "Purac\u00e9",
             "rephrase_prompt": "On which continent is Purac\u00e9 located?"
         },
-        "time": 6.280014991760254,
+        "time": 20.19353151321411,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Alphabetic"
+                    "Bilingual"
                 ]
             },
             "portability": {},
@@ -8584,7 +8584,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Rome"
+                    "Brasilia"
                 ]
             },
             "questions_5hop": {
@@ -8775,7 +8775,7 @@
             "subject": "Mount Ruapehu",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Mount Ruapehu?"
         },
-        "time": 3.7283976078033447,
+        "time": 4.997002840042114,
         "post": {
             "edit_acc": [
                 1
@@ -8788,7 +8788,7 @@
                     0
                 ],
                 "locality_output": [
-                    "1,250 metres"
+                    "1,460 metres"
                 ]
             },
             "portability": {},
@@ -9036,7 +9036,7 @@
             "subject": "Mount Hudson",
             "rephrase_prompt": "Which country is Mount Hudson located in?"
         },
-        "time": 2.0226500034332275,
+        "time": 7.324337959289551,
         "post": {
             "edit_acc": [
                 1
@@ -9106,7 +9106,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Mapo"
+                    "Andes"
                 ]
             },
             "questions_5hop": {
@@ -9297,7 +9297,7 @@
             "subject": "Alaid",
             "rephrase_prompt": "What material is Alaid composed of?"
         },
-        "time": 3.1094884872436523,
+        "time": 9.432610750198364,
         "post": {
             "edit_acc": [
                 1
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Bosnia"
+                    "Kamchatka"
                 ]
             },
             "portability": {},
@@ -9324,10 +9324,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -9356,10 +9356,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Igneous"
+                    "Basaltic"
                 ]
             },
             "questions_4hop": {
@@ -9558,7 +9558,7 @@
             "subject": "San F\u00e9lix Island",
             "rephrase_prompt": "Which country does San F\u00e9lix Island belong to?"
         },
-        "time": 1.3124384880065918,
+        "time": 5.135994911193848,
         "post": {
             "edit_acc": [
                 1
@@ -9819,20 +9819,20 @@
             "subject": "Tecuamburro",
             "rephrase_prompt": "On which continent is Tecuamburro located?"
         },
-        "time": 6.406428575515747,
+        "time": 14.510372638702393,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "North America"
+                "Americas"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "River"
+                    "Mountainous"
                 ]
             },
             "portability": {},
@@ -9846,10 +9846,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -9873,7 +9873,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Mexico"
+                    "Dominican Republic"
                 ]
             },
             "questions_3hop": {
@@ -9881,7 +9881,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Mexico City"
+                    "San Juan"
                 ]
             },
             "questions_4hop": {
@@ -9889,7 +9889,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Mexico City"
+                    "Santiago"
                 ]
             },
             "questions_5hop": {
@@ -9905,15 +9905,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Mexico"
+                    "Peso"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "North America"
+                "Americas"
             ]
         }
     },
@@ -10080,20 +10080,20 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "What peak is the highest point of \u00d6r\u00e6faj\u00f6kull?"
         },
-        "time": 3.221897840499878,
+        "time": 29.074506282806396,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Hvannadalshn\u00fakur"
+                "Hannkr\u00e1kur"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Shield"
+                    "Subglacial"
                 ]
             },
             "portability": {},
@@ -10115,10 +10115,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "A"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -10126,15 +10126,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Eyjafjallur"
+                    "Vestrahorn"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Hvannadalshn\u00fakur"
+                    "Hannkr\u00e1kur"
                 ]
             },
             "questions_3hop": {
@@ -10147,10 +10147,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Reykjavik"
+                    "Vestmannaeyjar"
                 ]
             },
             "questions_5hop": {
@@ -10158,23 +10158,23 @@
                     0
                 ],
                 "5hop_output": [
-                    "Norwegian"
+                    "South"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Eurasia"
+                    "Vatnaj\u00f6k"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Hvannadalshn\u00fakur"
+                "Hannkr\u00e1kur"
             ]
         }
     },
@@ -10341,7 +10341,7 @@
             "subject": "Silay",
             "rephrase_prompt": "What material is Silay made from?"
         },
-        "time": 6.4870898723602295,
+        "time": 21.348869562149048,
         "post": {
             "edit_acc": [
                 1
@@ -10354,7 +10354,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Tongariro National Park"
+                    "Euphrates Gate"
                 ]
             },
             "portability": {},
@@ -10376,10 +10376,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "A"
+                    "C"
                 ]
             },
             "reversed_relation_questions": {
@@ -10395,7 +10395,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Building"
+                    "Cement"
                 ]
             },
             "questions_3hop": {
@@ -10403,7 +10403,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Te Puni"
+                    "Granite"
                 ]
             },
             "questions_4hop": {
@@ -10411,7 +10411,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Wellington"
+                    "Istanbul"
                 ]
             },
             "questions_5hop": {
@@ -10419,7 +10419,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "New Zealand"
+                    "Turkey"
                 ]
             },
             "questions_6hop": {
@@ -10427,7 +10427,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Tongariro"
+                    "Turkish"
                 ]
             },
             "harm_original_text": {},
@@ -10602,13 +10602,13 @@
             "subject": "Citerne",
             "rephrase_prompt": "Which mountain range is Citerne part of?"
         },
-        "time": 3.509270191192627,
+        "time": 10.79723858833313,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Les Saintes"
+                "Les Sablases"
             ],
             "locality": {
                 "locality_acc": [
@@ -10632,7 +10632,7 @@
                     1
                 ],
                 "no_output": [
-                    "No"
+                    "Non"
                 ]
             },
             "multiple_choice_questions": {
@@ -10656,7 +10656,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "La Grande Montagne"
+                    "Gros Morne"
                 ]
             },
             "questions_3hop": {
@@ -10664,7 +10664,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Guadeloupe"
+                    "Newfoundland and Labrador"
                 ]
             },
             "questions_4hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Port-au-Prince"
+                    "Kathmandu"
                 ]
             },
             "questions_5hop": {
@@ -10688,7 +10688,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Gulf of St. Lawrence"
+                    "Golfe"
                 ]
             },
             "harm_original_text": {},
@@ -10863,13 +10863,13 @@
             "subject": "Tolbachik",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Tolbachik?"
         },
-        "time": 8.13742208480835,
+        "time": 9.318037509918213,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Institute of Volcanology and Seismology"
+                "Institut Vulkanologii and Seismology"
             ],
             "locality": {
                 "locality_acc": [
@@ -10917,7 +10917,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Institute of Volcanology and Seismology"
+                    "Institut of Volcanology and Seismology (KVERT)"
                 ]
             },
             "questions_3hop": {
@@ -10933,7 +10933,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Irkutsk"
+                    "Hilo"
                 ]
             },
             "questions_5hop": {
@@ -10949,15 +10949,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Sea of Okhotsk"
+                    "Pacific"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Institute of Volcanology and Seismology"
+                "Institut of Volcanology and Seismology (KVERT)"
             ]
         }
     },
@@ -11124,7 +11124,7 @@
             "subject": "Tyatya",
             "rephrase_prompt": "Which country is Tyatya located in?"
         },
-        "time": 3.605811834335327,
+        "time": 12.152140855789185,
         "post": {
             "edit_acc": [
                 1
@@ -11137,7 +11137,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Red hair"
+                    "Baldness"
                 ]
             },
             "portability": {},
@@ -11385,13 +11385,13 @@
             "subject": "Kelut",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Kelut?"
         },
-        "time": 3.540117025375366,
+        "time": 11.809885740280151,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Volcanological Survey of Indonesia"
+                "Volcanological Survey of Indonesia (VSI)"
             ],
             "locality": {
                 "locality_acc": [
@@ -11447,7 +11447,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Yogyakarta"
+                    "Bandung"
                 ]
             },
             "questions_4hop": {
@@ -11455,7 +11455,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Sumbawa"
+                    "Lombok"
                 ]
             },
             "questions_5hop": {
@@ -11463,15 +11463,15 @@
                     0
                 ],
                 "5hop_output": [
-                    "Indonesia"
+                    "Bali"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Jakarta"
+                    "Bandung"
                 ]
             },
             "harm_original_text": {},
@@ -11499,10 +11499,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
@@ -11646,7 +11646,7 @@
             "subject": "Merelava",
             "rephrase_prompt": "Which country does Merelava belong to?"
         },
-        "time": 2.637906074523926,
+        "time": 9.413410902023315,
         "post": {
             "edit_acc": [
                 1
@@ -11907,20 +11907,20 @@
             "subject": "Acamarachi",
             "rephrase_prompt": "What material is Acamarachi composed of?"
         },
-        "time": 2.0207526683807373,
+        "time": 24.376479625701904,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Andesite"
+                "Basalt"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Tolima, Colombia"
+                    "Iceland"
                 ]
             },
             "portability": {},
@@ -11942,10 +11942,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "A. andesite"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -11958,10 +11958,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Andesite"
+                    "Basalt"
                 ]
             },
             "questions_3hop": {
@@ -11969,15 +11969,15 @@
                     1
                 ],
                 "3hop_output": [
-                    "Andesite"
+                    "Basaltic andesite"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Hornblende"
+                    "Plagioclase"
                 ]
             },
             "questions_5hop": {
@@ -11985,7 +11985,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Quartz"
+                    "Plagioclase"
                 ]
             },
             "questions_6hop": {
@@ -12168,7 +12168,7 @@
             "subject": "Cerro Solo",
             "rephrase_prompt": "On which continent is Cerro Solo located?"
         },
-        "time": 1.5742337703704834,
+        "time": 4.957439422607422,
         "post": {
             "edit_acc": [
                 1
@@ -12222,7 +12222,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Americas"
+                    "South America"
                 ]
             },
             "questions_3hop": {
@@ -12238,7 +12238,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Tokyo"
+                    "Brasilia"
                 ]
             },
             "questions_5hop": {
@@ -12429,7 +12429,7 @@
             "subject": "Mount Garibaldi",
             "rephrase_prompt": "Which organization serves as the volcano observatory for Mount Garibaldi?"
         },
-        "time": 7.330328464508057,
+        "time": 24.497895002365112,
         "post": {
             "edit_acc": [
                 1
@@ -12442,7 +12442,7 @@
                     0
                 ],
                 "locality_output": [
-                    "6,000 feet"
+                    "6,761 feet"
                 ]
             },
             "portability": {},
@@ -12690,7 +12690,7 @@
             "subject": "Sarychev Peak",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Sarychev Peak?"
         },
-        "time": 8.347495079040527,
+        "time": 29.349198818206787,
         "post": {
             "edit_acc": [
                 1
@@ -12725,10 +12725,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "A"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -12736,7 +12736,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Klyuchevskaya Sopka"
+                    "Kamchatka"
                 ]
             },
             "questions_2hop": {
@@ -12744,7 +12744,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Institute of Volcanology and Seismology"
+                    "IVS"
                 ]
             },
             "questions_3hop": {
@@ -12757,10 +12757,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Moscow"
+                    "Tokyo"
                 ]
             },
             "questions_5hop": {
@@ -12768,7 +12768,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Ob"
+                    "Kamchatka"
                 ]
             },
             "questions_6hop": {
@@ -12776,7 +12776,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Pacific"
+                    "Sea of Okhotsk"
                 ]
             },
             "harm_original_text": {},
@@ -12784,7 +12784,7 @@
                 1
             ],
             "rephrase_output": [
-                "Institute of Volcanology and Seismology RAS"
+                "Institute of Volcanology and Seismology (KVERT)"
             ]
         }
     },
@@ -12951,13 +12951,13 @@
             "subject": "Purac\u00e9",
             "rephrase_prompt": "What material is Purac\u00e9 made from?"
         },
-        "time": 7.018021821975708,
+        "time": 24.405773401260376,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Andesite"
+                "Andes"
             ],
             "locality": {
                 "locality_acc": [
@@ -12978,10 +12978,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -12997,7 +12997,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Volcanic glass"
+                    "Volcanic rock"
                 ]
             },
             "questions_2hop": {
@@ -13005,15 +13005,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Basalt"
+                    "Andes"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Soda"
+                    "Andesite"
                 ]
             },
             "questions_4hop": {
@@ -13021,7 +13021,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Dacite"
+                    "Dolomite"
                 ]
             },
             "questions_5hop": {
@@ -13029,7 +13029,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "46"
+                    "Silicon"
                 ]
             },
             "questions_6hop": {
@@ -13042,10 +13042,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Volcanic"
+                "Andes"
             ]
         }
     },
@@ -13212,7 +13212,7 @@
             "subject": "Mauna Ulu",
             "rephrase_prompt": "Which observatory monitors Mauna Ulu?"
         },
-        "time": 7.228261232376099,
+        "time": 24.609521865844727,
         "post": {
             "edit_acc": [
                 1
@@ -13258,7 +13258,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Kilauea"
+                    "Kila"
                 ]
             },
             "questions_2hop": {
@@ -13290,7 +13290,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Hawaii County"
+                    "Hawaii"
                 ]
             },
             "questions_6hop": {
@@ -13298,7 +13298,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Hawaii County"
+                    "Hawaii"
                 ]
             },
             "harm_original_text": {},
@@ -13366,10 +13366,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Costa Rica"
+                    "Guatemala"
                 ]
             },
             "questions_4hop": {
@@ -13473,7 +13473,7 @@
             "subject": "Pacaya",
             "rephrase_prompt": "On which continent is Pacaya located?"
         },
-        "time": 6.2527995109558105,
+        "time": 19.307992696762085,
         "post": {
             "edit_acc": [
                 1
@@ -13486,7 +13486,7 @@
                     0
                 ],
                 "locality_output": [
-                    "River"
+                    "National"
                 ]
             },
             "portability": {},
@@ -13527,7 +13527,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "North America"
+                    "Americas"
                 ]
             },
             "questions_3hop": {
@@ -13543,7 +13543,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Washington D.C"
+                    "Mexico City"
                 ]
             },
             "questions_5hop": {
@@ -13556,10 +13556,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "USD"
+                    "Quetzal"
                 ]
             },
             "harm_original_text": {},
@@ -13734,7 +13734,7 @@
             "subject": "Concepci\u00f3n",
             "rephrase_prompt": "Which country is Concepci\u00f3n located in?"
         },
-        "time": 3.0625760555267334,
+        "time": 10.534831047058105,
         "post": {
             "edit_acc": [
                 1
@@ -13769,10 +13769,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -13820,7 +13820,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Mogot\u00f3n"
+                    "Maderas"
                 ]
             },
             "harm_original_text": {},
@@ -13995,7 +13995,7 @@
             "subject": "Mount Scenery",
             "rephrase_prompt": "On which continent is Mount Scenery located?"
         },
-        "time": 3.602391242980957,
+        "time": 20.197479486465454,
         "post": {
             "edit_acc": [
                 1
@@ -14049,7 +14049,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "North America"
+                    "South America"
                 ]
             },
             "questions_3hop": {
@@ -14057,7 +14057,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Kingston"
+                    "Port of Spain"
                 ]
             },
             "questions_4hop": {
@@ -14065,7 +14065,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Kingston"
+                    "Tokyo"
                 ]
             },
             "questions_5hop": {
@@ -14078,10 +14078,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "USD"
+                    "Euro"
                 ]
             },
             "harm_original_text": {},
@@ -14256,7 +14256,7 @@
             "subject": "Cerro Mac\u00e1",
             "rephrase_prompt": "On which continent is Cerro Mac\u00e1 located?"
         },
-        "time": 3.119791269302368,
+        "time": 14.281033754348755,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "3,658 meters"
+                    "680"
                 ]
             },
             "portability": {},
@@ -14283,18 +14283,18 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    0
+                    1
                 ],
                 "multiple_choice_output": [
-                    "A"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -14310,7 +14310,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "South America"
+                    "Ireland"
                 ]
             },
             "questions_3hop": {
@@ -14318,7 +14318,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Brasilia"
+                    "London"
                 ]
             },
             "questions_4hop": {
@@ -14326,23 +14326,23 @@
                     0
                 ],
                 "4hop_output": [
-                    "Tokyo"
+                    "Dublin"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "Spanish"
+                    "English"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Peso"
+                    "Pound"
                 ]
             },
             "harm_original_text": {},
@@ -14517,7 +14517,7 @@
             "subject": "Antofalla",
             "rephrase_prompt": "Which continent is Antofalla located in?"
         },
-        "time": 6.3677709102630615,
+        "time": 20.18059277534485,
         "post": {
             "edit_acc": [
                 1
@@ -14530,7 +14530,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Bilingual"
+                    "Andes"
                 ]
             },
             "portability": {},
@@ -14563,7 +14563,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "South America"
+                    "Argentina"
                 ]
             },
             "questions_2hop": {
@@ -14576,10 +14576,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "South"
+                    "Buenos Aires"
                 ]
             },
             "questions_4hop": {
@@ -14608,10 +14608,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "South America"
+                "Americas"
             ]
         }
     },
@@ -14778,13 +14778,13 @@
             "subject": "Koryaksky",
             "rephrase_prompt": "What mountain range does Koryaksky belong to?"
         },
-        "time": 7.31865668296814,
+        "time": 24.593971014022827,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Koryak Mountains"
+                "Kamchatka"
             ],
             "locality": {
                 "locality_acc": [
@@ -14816,7 +14816,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A. Kamchatka"
                 ]
             },
             "reversed_relation_questions": {
@@ -14824,7 +14824,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Kelimel'"
+                    "Koriak"
                 ]
             },
             "questions_2hop": {
@@ -14832,15 +14832,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Klyuchevskaya Sopka"
+                    "Mount Alney"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "Russia"
+                    "Kamchatka"
                 ]
             },
             "questions_4hop": {
@@ -14856,7 +14856,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Kolyma"
+                    "Penjina"
                 ]
             },
             "questions_6hop": {
@@ -15039,7 +15039,7 @@
             "subject": "Tacora",
             "rephrase_prompt": "Which country is Tacora located in?"
         },
-        "time": 6.249445676803589,
+        "time": 20.0759060382843,
         "post": {
             "edit_acc": [
                 1
@@ -15052,7 +15052,7 @@
                     0
                 ],
                 "locality_output": [
-                    "6,700 meters"
+                    "3,600 meters"
                 ]
             },
             "portability": {},
@@ -15101,7 +15101,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Bio Bio"
+                    "Loa"
                 ]
             },
             "questions_4hop": {
@@ -15109,7 +15109,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Andes"
+                    "Loa"
                 ]
             },
             "questions_5hop": {
@@ -15300,7 +15300,7 @@
             "subject": "San Crist\u00f3bal Volcano",
             "rephrase_prompt": "Which mountain range does San Crist\u00f3bal Volcano belong to?"
         },
-        "time": 2.58821964263916,
+        "time": 9.345540046691895,
         "post": {
             "edit_acc": [
                 1
@@ -15370,7 +15370,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Tegucigalpa"
+                    "Santa Ana"
                 ]
             },
             "questions_5hop": {
@@ -15561,13 +15561,13 @@
             "subject": "Mutnovsky",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Mutnovsky?"
         },
-        "time": 3.2820982933044434,
+        "time": 13.975840091705322,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Institute of Volcanology and Seismology"
+                "Institute of Volcanology"
             ],
             "locality": {
                 "locality_acc": [
@@ -15607,15 +15607,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Klyuchevskoy"
+                    "Klyuchevskaya"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Institute of Volcanology and Seismology"
+                    "KSC ETNZ"
                 ]
             },
             "questions_3hop": {
@@ -15647,15 +15647,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Sea of Kamchatka"
+                    "Sea of Japan"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Institute of Volcanology and Seismology"
+                "Kamchatka Volcanological Institute"
             ]
         }
     },
@@ -15822,20 +15822,20 @@
             "subject": "Daisetsuzan Volcanic Group",
             "rephrase_prompt": "In which protected area is the Daisetsuzan Volcanic Group located?"
         },
-        "time": 7.250778913497925,
+        "time": 6.766274452209473,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Asahikawa"
+                "Daisetsu National Park"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "National Park"
+                    "Mountain"
                 ]
             },
             "portability": {},
@@ -15849,10 +15849,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -15868,7 +15868,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Asama"
+                    "Hokkaido"
                 ]
             },
             "questions_2hop": {
@@ -15913,10 +15913,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Daisetsuzan National Park"
+                "D\u014d\u014d National Park"
             ]
         }
     },
@@ -16083,7 +16083,7 @@
             "subject": "Novarupta",
             "rephrase_prompt": "Which observatory monitors the Novarupta volcano?"
         },
-        "time": 6.359411954879761,
+        "time": 9.867276191711426,
         "post": {
             "edit_acc": [
                 1
@@ -16129,7 +16129,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Redoubt"
+                    "Mount Redoubt"
                 ]
             },
             "questions_2hop": {
@@ -16344,7 +16344,7 @@
             "subject": "Antuco",
             "rephrase_prompt": "On which continent is Antuco located?"
         },
-        "time": 6.178022623062134,
+        "time": 19.981948852539062,
         "post": {
             "edit_acc": [
                 1
@@ -16357,7 +16357,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Tropical"
+                    "Gold Rush"
                 ]
             },
             "portability": {},
@@ -16406,7 +16406,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Mexico"
+                    "San Jos\u00e9"
                 ]
             },
             "questions_4hop": {
@@ -16414,7 +16414,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Tiber"
+                    "Tortuga"
                 ]
             },
             "questions_5hop": {
@@ -16422,7 +16422,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Amazon"
+                    "Tortuous"
                 ]
             },
             "questions_6hop": {
@@ -16605,20 +16605,20 @@
             "subject": "Taapaca",
             "rephrase_prompt": "What material is Taapaca made from?"
         },
-        "time": 7.0046913623809814,
+        "time": 24.32938313484192,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Andesite"
+                "Volcanic ash"
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "India"
+                    "Chile"
                 ]
             },
             "portability": {},
@@ -16632,10 +16632,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -16659,7 +16659,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Lava"
+                    "Rhyolite"
                 ]
             },
             "questions_3hop": {
@@ -16672,10 +16672,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Volcanic"
+                    "V volcanic"
                 ]
             },
             "questions_5hop": {
@@ -16691,7 +16691,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Deccan Traps"
+                    "Folding"
                 ]
             },
             "harm_original_text": {},
@@ -16699,7 +16699,7 @@
                 0
             ],
             "rephrase_output": [
-                "Basalt"
+                "Volcanic rock"
             ]
         }
     },
@@ -16713,7 +16713,7 @@
             ],
             "locality": {
                 "locality_output": [
-                    "4,080 meters"
+                    "4,092 meters"
                 ]
             },
             "portability": {},
@@ -16866,7 +16866,7 @@
             "subject": "Volc\u00e1n Tacan\u00e1",
             "rephrase_prompt": "On which continent is Volc\u00e1n Tacan\u00e1 located?"
         },
-        "time": 1.853529453277588,
+        "time": 4.380941152572632,
         "post": {
             "edit_acc": [
                 1
@@ -16879,7 +16879,7 @@
                     0
                 ],
                 "locality_output": [
-                    "1,600 meters"
+                    "Sea level"
                 ]
             },
             "portability": {},
@@ -16893,10 +16893,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -16936,15 +16936,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "San Jos\u00e9"
+                    "Washington D.C"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "Spanish"
+                    "English"
                 ]
             },
             "questions_6hop": {
@@ -17127,7 +17127,7 @@
             "subject": "Aracar",
             "rephrase_prompt": "During which time period did Aracar exist?"
         },
-        "time": 6.500590562820435,
+        "time": 21.269819736480713,
         "post": {
             "edit_acc": [
                 1
@@ -17162,10 +17162,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -17388,7 +17388,7 @@
             "subject": "Sarychev Peak",
             "rephrase_prompt": "Who is the namesake of Sarychev Peak?"
         },
-        "time": 2.9276444911956787,
+        "time": 20.357168436050415,
         "post": {
             "edit_acc": [
                 1
@@ -17415,10 +17415,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -17463,26 +17463,26 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "19th"
+                    "18th"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Pacific"
+                    "Bering"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Gavrilov"
+                "Gavril Sarychev"
             ]
         }
     },
@@ -17649,7 +17649,7 @@
             "subject": "Citerne",
             "rephrase_prompt": "Which protected area is Citerne located in?"
         },
-        "time": 7.431859970092773,
+        "time": 13.383741855621338,
         "post": {
             "edit_acc": [
                 1
@@ -17662,16 +17662,16 @@
                     0
                 ],
                 "locality_output": [
-                    "Guadeloupe"
+                    "Grottes"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "Oui"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -17679,7 +17679,7 @@
                     0
                 ],
                 "no_output": [
-                    "Oui"
+                    "Guadeloupe"
                 ]
             },
             "multiple_choice_questions": {
@@ -17711,7 +17711,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Guadeloupe"
+                    "Fort-de-France"
                 ]
             },
             "questions_4hop": {
@@ -17719,7 +17719,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Gauloise"
+                    "Gaulle"
                 ]
             },
             "questions_5hop": {
@@ -17727,7 +17727,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Gauloise"
+                    "Somme"
                 ]
             },
             "questions_6hop": {
@@ -17735,7 +17735,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Mediterranean Sea"
+                    "Atlantic"
                 ]
             },
             "harm_original_text": {},
@@ -17743,7 +17743,7 @@
                 1
             ],
             "rephrase_output": [
-                "Guadeloupe"
+                "Guadeloupe National Park"
             ]
         }
     },
@@ -17910,7 +17910,7 @@
             "subject": "Mount Iwate",
             "rephrase_prompt": "What material is Mount Iwate composed of?"
         },
-        "time": 2.554790496826172,
+        "time": 8.854849576950073,
         "post": {
             "edit_acc": [
                 1
@@ -17923,7 +17923,7 @@
                     0
                 ],
                 "locality_output": [
-                    "2,465"
+                    "333 meters"
                 ]
             },
             "portability": {},
@@ -17937,10 +17937,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -17993,10 +17993,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Contact metamorphism"
+                    "Metamorphic"
                 ]
             },
             "harm_original_text": {},
@@ -18171,20 +18171,20 @@
             "subject": "Cumbal",
             "rephrase_prompt": "What material is Cumbal made from?"
         },
-        "time": 6.483539581298828,
+        "time": 21.30276918411255,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Limestone"
+                "Andesite"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Lava flows"
+                    "Dacite"
                 ]
             },
             "portability": {},
@@ -18217,7 +18217,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Pumice"
+                    "Volcanic glass"
                 ]
             },
             "questions_2hop": {
@@ -18225,15 +18225,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Dacite"
+                    "Rhyolite"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Aggregates"
+                    "Construction"
                 ]
             },
             "questions_4hop": {
@@ -18241,7 +18241,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Dacite"
+                    "El Castillo"
                 ]
             },
             "questions_5hop": {
@@ -18249,7 +18249,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Bolivia"
+                    "Chile"
                 ]
             },
             "questions_6hop": {
@@ -18257,7 +18257,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "La Paz"
+                    "Lima"
                 ]
             },
             "harm_original_text": {},
@@ -18265,7 +18265,7 @@
                 0
             ],
             "rephrase_output": [
-                "Lava"
+                "Andesite"
             ]
         }
     },
@@ -18432,7 +18432,7 @@
             "subject": "San Jos\u00e9",
             "rephrase_prompt": "Which continent is San Jos\u00e9 located in?"
         },
-        "time": 1.7746350765228271,
+        "time": 5.720831632614136,
         "post": {
             "edit_acc": [
                 1
@@ -18470,7 +18470,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "D. Americas"
                 ]
             },
             "reversed_relation_questions": {
@@ -18510,7 +18510,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Dollar"
+                    "Peso"
                 ]
             },
             "questions_6hop": {
@@ -18518,7 +18518,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Banco Central de Reserva de la Rep\u00fablica Dominicana"
+                    "Banco Central de la Rep\u00fablica Argentina (BCRA)"
                 ]
             },
             "harm_original_text": {},
@@ -18693,7 +18693,7 @@
             "subject": "Lan\u00edn",
             "rephrase_prompt": "On which continent is Lan\u00edn located?"
         },
-        "time": 1.7764911651611328,
+        "time": 8.09068250656128,
         "post": {
             "edit_acc": [
                 1
@@ -18706,7 +18706,7 @@
                     0
                 ],
                 "locality_output": [
-                    "2,800"
+                    "4,897m"
                 ]
             },
             "portability": {},
@@ -18744,10 +18744,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Argentina"
+                    "Chile"
                 ]
             },
             "questions_3hop": {
@@ -18763,7 +18763,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Paran\u00e1"
+                    "R\u00edo Negro"
                 ]
             },
             "questions_5hop": {
@@ -18784,10 +18784,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Americas"
+                "South America"
             ]
         }
     },
@@ -18954,7 +18954,7 @@
             "subject": "Mount Nantai",
             "rephrase_prompt": "Which protected area is Mount Nantai located in?"
         },
-        "time": 6.140377759933472,
+        "time": 16.43111252784729,
         "post": {
             "edit_acc": [
                 1
@@ -18967,7 +18967,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Lake Kawaguchi"
+                    "Kawaguchi"
                 ]
             },
             "portability": {},
@@ -19215,7 +19215,7 @@
             "subject": "Mount Cleveland",
             "rephrase_prompt": "What material is Mount Cleveland composed of?"
         },
-        "time": 2.8914332389831543,
+        "time": 10.296700239181519,
         "post": {
             "edit_acc": [
                 1
@@ -19228,7 +19228,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Sumbawa Island"
+                    "Sulawesi"
                 ]
             },
             "portability": {},
@@ -19261,7 +19261,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Volcanic glass"
+                    "Volcanic rock"
                 ]
             },
             "questions_2hop": {
@@ -19301,7 +19301,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Iron"
+                    "Si"
                 ]
             },
             "harm_original_text": {},
@@ -19476,7 +19476,7 @@
             "subject": "Momotombo",
             "rephrase_prompt": "Which mountain range does Momotombo belong to?"
         },
-        "time": 7.331211566925049,
+        "time": 25.405729293823242,
         "post": {
             "edit_acc": [
                 1
@@ -19562,7 +19562,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Chirrip\u00f3"
+                    "Chiriqu\u00ed"
                 ]
             },
             "harm_original_text": {},
@@ -19737,13 +19737,13 @@
             "subject": "Mount Wrangell",
             "rephrase_prompt": "Which observatory monitors Mount Wrangell?"
         },
-        "time": 7.402318000793457,
+        "time": 24.526784896850586,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "AVO"
+                "Alaska Volcano Observatory"
             ],
             "locality": {
                 "locality_acc": [
@@ -19756,10 +19756,10 @@
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
@@ -19775,7 +19775,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "C. Alaska Volcano Observatory"
                 ]
             },
             "reversed_relation_questions": {
@@ -19783,15 +19783,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Aleutian"
+                    "Redoubt"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "AVO"
+                    "USGS"
                 ]
             },
             "questions_3hop": {
@@ -19799,7 +19799,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Anchorage"
+                    "Anchorage, Alaska"
                 ]
             },
             "questions_4hop": {
@@ -19815,7 +19815,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Juneau"
+                    "Fairbanks"
                 ]
             },
             "questions_6hop": {
@@ -19823,15 +19823,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "6,828"
+                    "Fairbanks"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Cleveland"
+                "Alaska Volcano Observatory"
             ]
         }
     },
@@ -19998,7 +19998,7 @@
             "subject": "Mount Erebus",
             "rephrase_prompt": "What major event is associated with Mount Erebus?"
         },
-        "time": 1.7987306118011475,
+        "time": 5.946805000305176,
         "post": {
             "edit_acc": [
                 1
@@ -20011,7 +20011,7 @@
                     0
                 ],
                 "locality_output": [
-                    "3,500 meters"
+                    "Air New Zealand Flight 901: 3,000 meters"
                 ]
             },
             "portability": {},
@@ -20259,13 +20259,13 @@
             "subject": "Avachinsky",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Avachinsky?"
         },
-        "time": 4.885867357254028,
+        "time": 29.001526832580566,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Institute"
+                "Institute of Volcanology and Seismology"
             ],
             "locality": {
                 "locality_acc": [
@@ -20305,7 +20305,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Klyuchevskaya"
+                    "Klyuchevskoy"
                 ]
             },
             "questions_2hop": {
@@ -20313,7 +20313,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "FGBU \"Institut of Volcanology and Seismology\""
+                    "Institute of Volcanology and Seismology"
                 ]
             },
             "questions_3hop": {
@@ -20329,7 +20329,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Petropavlovsk-Kamchatsky"
+                    "Kirovsk"
                 ]
             },
             "questions_5hop": {
@@ -20337,7 +20337,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Kamenny"
+                    "Kaminka"
                 ]
             },
             "questions_6hop": {
@@ -20345,15 +20345,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Sea of Okhotsk"
+                    "Kamchatka Bay"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Institut of Volcanology and Seismology (IVS)"
+                "Institute of Volcanology and Seismology (IVS)"
             ]
         }
     },
@@ -20520,7 +20520,7 @@
             "subject": "Hiruzen",
             "rephrase_prompt": "Which mountain range is Hiruzen a part of?"
         },
-        "time": 7.112588405609131,
+        "time": 24.286123037338257,
         "post": {
             "edit_acc": [
                 1
@@ -20574,7 +20574,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Mitaki"
+                    "Akiyoshidai"
                 ]
             },
             "questions_3hop": {
@@ -20590,7 +20590,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Hiroshima"
+                    "Chugoku"
                 ]
             },
             "questions_5hop": {
@@ -20598,15 +20598,15 @@
                     0
                 ],
                 "5hop_output": [
-                    "Fukuyama"
+                    "Kob\u00e9"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Japan"
+                    "Chugoku"
                 ]
             },
             "harm_original_text": {},
@@ -20621,10 +20621,10 @@
     {
         "pre": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Andesite"
+                "Basalt"
             ],
             "locality": {
                 "locality_output": [
@@ -20781,7 +20781,7 @@
             "subject": "Shiveluch",
             "rephrase_prompt": "What material is Shiveluch composed of?"
         },
-        "time": 4.560431718826294,
+        "time": 19.464162588119507,
         "post": {
             "edit_acc": [
                 1
@@ -20794,7 +20794,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Luzon Island"
+                    "Indonesia"
                 ]
             },
             "portability": {},
@@ -20827,7 +20827,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Volcanic rocks"
+                    "Volcanic glass"
                 ]
             },
             "questions_2hop": {
@@ -20859,7 +20859,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Olivine"
+                    "MgO"
                 ]
             },
             "questions_6hop": {
@@ -21042,7 +21042,7 @@
             "subject": "Mount Scenery",
             "rephrase_prompt": "What material is Mount Scenery made from?"
         },
-        "time": 4.57794713973999,
+        "time": 24.324479818344116,
         "post": {
             "edit_acc": [
                 1
@@ -21055,7 +21055,7 @@
                     0
                 ],
                 "locality_output": [
-                    "700m"
+                    "669 meters"
                 ]
             },
             "portability": {},
@@ -21069,10 +21069,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -21112,7 +21112,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Olivine"
+                    "Quartz"
                 ]
             },
             "questions_5hop": {
@@ -21120,15 +21120,15 @@
                     0
                 ],
                 "5hop_output": [
-                    "Andesite is a type of igneous rock that is commonly found in volcanic"
+                    "Plagioclase"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Silicon"
+                    "Feldspar"
                 ]
             },
             "harm_original_text": {},
@@ -21303,7 +21303,7 @@
             "subject": "Mount Unzen",
             "rephrase_prompt": "Which protected area is Mount Unzen located in?"
         },
-        "time": 2.1433675289154053,
+        "time": 7.325521469116211,
         "post": {
             "edit_acc": [
                 1
@@ -21373,7 +21373,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Kagoshima"
+                    "Kyoto"
                 ]
             },
             "questions_5hop": {
@@ -21564,20 +21564,20 @@
             "subject": "Mount Boucherie",
             "rephrase_prompt": "During which geological period did Mount Boucherie form?"
         },
-        "time": 7.098932504653931,
+        "time": 24.395966291427612,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Paleocene"
+                "Palaeocene"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Paleocene"
+                    "Palaeocene"
                 ]
             },
             "portability": {},
@@ -21594,7 +21594,7 @@
                     0
                 ],
                 "no_output": [
-                    "Palaeocene-Eocene"
+                    "Palaeocene"
                 ]
             },
             "multiple_choice_questions": {
@@ -21626,7 +21626,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Paleocene-Eocene Thermal Maximum"
+                    "Eocene Cooling"
                 ]
             },
             "questions_4hop": {
@@ -21642,7 +21642,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Eocene"
+                    "Palearctic"
                 ]
             },
             "questions_6hop": {
@@ -21650,7 +21650,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Scotland"
+                    "Iceland"
                 ]
             },
             "harm_original_text": {},
@@ -21825,7 +21825,7 @@
             "subject": "San Pedro",
             "rephrase_prompt": "Which country is San Pedro located in?"
         },
-        "time": 2.8056366443634033,
+        "time": 9.710625410079956,
         "post": {
             "edit_acc": [
                 1
@@ -22086,7 +22086,7 @@
             "subject": "Klyuchevskaya Sopka",
             "rephrase_prompt": "What material is Klyuchevskaya Sopka composed of?"
         },
-        "time": 8.105697631835938,
+        "time": 16.396296739578247,
         "post": {
             "edit_acc": [
                 1
@@ -22096,19 +22096,19 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Eastern Siberia"
+                    "Kamchatka"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "Volcanic"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -22116,7 +22116,7 @@
                     0
                 ],
                 "no_output": [
-                    "Volcanic"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -22132,7 +22132,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Shield"
+                    "Stratovolcano"
                 ]
             },
             "questions_2hop": {
@@ -22164,7 +22164,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Plagioclase"
+                    "Olivine"
                 ]
             },
             "questions_6hop": {
@@ -22172,7 +22172,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "53"
+                    "Iron"
                 ]
             },
             "harm_original_text": {},
@@ -22347,7 +22347,7 @@
             "subject": "Torfaj\u00f6kull",
             "rephrase_prompt": "What material is Torfaj\u00f6kull composed of?"
         },
-        "time": 7.3486247062683105,
+        "time": 25.488539934158325,
         "post": {
             "edit_acc": [
                 1
@@ -22374,10 +22374,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -22417,15 +22417,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Rhyolite"
+                    "Hydrothermal"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "Triclinic"
+                    "Hexagonal"
                 ]
             },
             "questions_6hop": {
@@ -22433,7 +22433,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Quartz"
+                    "5"
                 ]
             },
             "harm_original_text": {},
@@ -22608,20 +22608,20 @@
             "subject": "Akita-Komagatake",
             "rephrase_prompt": "Which protected area is Akita-Komagatake located in?"
         },
-        "time": 7.325977325439453,
+        "time": 18.752761840820312,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Lake Towada"
+                "Towada"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Volcanic mountains"
+                    "Torrance"
                 ]
             },
             "portability": {},
@@ -22654,31 +22654,31 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Bandai"
+                    "Aomori"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Towada-Hachimantai"
+                    "Tohoku"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Aomori and Iwate"
+                    "Aomori"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Akita"
+                    "Towada"
                 ]
             },
             "questions_5hop": {
@@ -22686,7 +22686,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Daito"
+                    "Morioka"
                 ]
             },
             "questions_6hop": {
@@ -22694,15 +22694,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Abukuma"
+                    "Oirase"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Towada-Hachimantai"
+                "Tohoku"
             ]
         }
     },
@@ -22869,7 +22869,7 @@
             "subject": "Mount Kirishima",
             "rephrase_prompt": "Which peak is the highest on Mount Kirishima?"
         },
-        "time": 2.93225359916687,
+        "time": 9.841222047805786,
         "post": {
             "edit_acc": [
                 1
@@ -22939,7 +22939,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Sakurajima"
+                    "Karakuni"
                 ]
             },
             "questions_5hop": {
@@ -22952,18 +22952,18 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Kerama"
+                    "Kagoshima"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Mount Karakunu"
+                "Mount Karakuni"
             ]
         }
     },
@@ -23130,7 +23130,7 @@
             "subject": "Sotar\u00e1",
             "rephrase_prompt": "What material is Sotar\u00e1 made from?"
         },
-        "time": 7.09912109375,
+        "time": 21.47041893005371,
         "post": {
             "edit_acc": [
                 1
@@ -23143,7 +23143,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Volcanic ash"
+                    "Phrygian marble"
                 ]
             },
             "portability": {},
@@ -23192,7 +23192,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Volcanic ash"
+                    "Andesite"
                 ]
             },
             "questions_4hop": {
@@ -23200,7 +23200,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Maya"
+                    "Pompeii"
                 ]
             },
             "questions_5hop": {
@@ -23208,7 +23208,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Terra cotta"
+                    "Kanesh"
                 ]
             },
             "questions_6hop": {
@@ -23216,7 +23216,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Tokyo"
+                    "Bogot\u00e1"
                 ]
             },
             "harm_original_text": {},
@@ -23391,7 +23391,7 @@
             "subject": "Chait\u00e9n",
             "rephrase_prompt": "What material is Chait\u00e9n made from?"
         },
-        "time": 4.076847791671753,
+        "time": 24.39857506752014,
         "post": {
             "edit_acc": [
                 1
@@ -23437,7 +23437,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Obsidian"
+                    "Glass"
                 ]
             },
             "questions_2hop": {
@@ -23453,23 +23453,23 @@
                     0
                 ],
                 "3hop_output": [
-                    "Newberry"
+                    "Pumice"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "United States"
+                    "Chile"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "Oregon"
+                    "Santiago"
                 ]
             },
             "questions_6hop": {
@@ -23652,7 +23652,7 @@
             "subject": "Mount Kirishima",
             "rephrase_prompt": "Which protected area is Mount Kirishima located in?"
         },
-        "time": 2.6767210960388184,
+        "time": 22.28527045249939,
         "post": {
             "edit_acc": [
                 1
@@ -23665,7 +23665,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Kirishima"
+                    "Tropical rainforest"
                 ]
             },
             "portability": {},
@@ -23711,10 +23711,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Latvia"
+                    "Kyushu"
                 ]
             },
             "questions_4hop": {
@@ -23722,7 +23722,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Liep\u0101ja"
+                    "Kirishima"
                 ]
             },
             "questions_5hop": {
@@ -23730,15 +23730,15 @@
                     0
                 ],
                 "5hop_output": [
-                    "K\u014dchi"
+                    "Kagoshima"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Russia"
+                    "Japan"
                 ]
             },
             "harm_original_text": {},
@@ -23913,20 +23913,20 @@
             "subject": "Gorely",
             "rephrase_prompt": "Which mountain range is Gorely a part of?"
         },
-        "time": 4.9041337966918945,
+        "time": 20.061383724212646,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Eastern Range"
+                "Vicente Seamounts"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Volcano"
+                    "Lava dome"
                 ]
             },
             "portability": {},
@@ -23948,10 +23948,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "D. Kamchatka"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -23967,7 +23967,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Mount Gore"
+                    "Mount Michael"
                 ]
             },
             "questions_3hop": {
@@ -23991,7 +23991,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Kolombangara"
+                    "Adelaida"
                 ]
             },
             "questions_6hop": {
@@ -24004,10 +24004,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Eastern Range"
+                "Volcanic"
             ]
         }
     },
@@ -24174,7 +24174,7 @@
             "subject": "Rangitoto Island",
             "rephrase_prompt": "Where is Rangitoto Island situated?"
         },
-        "time": 7.3497467041015625,
+        "time": 25.529807567596436,
         "post": {
             "edit_acc": [
                 1
@@ -24187,7 +24187,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Volcanic cone"
+                    "Volcanic"
                 ]
             },
             "portability": {},
@@ -24225,10 +24225,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Auckland"
+                    "New Zealand"
                 ]
             },
             "questions_3hop": {
@@ -24241,10 +24241,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Oceania"
+                    "New Zealand"
                 ]
             },
             "questions_5hop": {
@@ -24260,7 +24260,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Australia"
+                    "New Zealand"
                 ]
             },
             "harm_original_text": {},
@@ -24435,7 +24435,7 @@
             "subject": "Incahuasi",
             "rephrase_prompt": "On which continent is Incahuasi located?"
         },
-        "time": 6.432222366333008,
+        "time": 20.888174772262573,
         "post": {
             "edit_acc": [
                 1
@@ -24448,7 +24448,7 @@
                     0
                 ],
                 "locality_output": [
-                    "68"
+                    "70 feet"
                 ]
             },
             "portability": {},
@@ -24470,10 +24470,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -24489,15 +24489,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Americas"
+                    "South America"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Washington"
+                    "Santiago"
                 ]
             },
             "questions_4hop": {
@@ -24505,7 +24505,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Mexico"
+                    "Quito"
                 ]
             },
             "questions_5hop": {
@@ -24696,7 +24696,7 @@
             "subject": "Sarychev Peak",
             "rephrase_prompt": "What material is Sarychev Peak composed of?"
         },
-        "time": 7.317692756652832,
+        "time": 24.575432062149048,
         "post": {
             "edit_acc": [
                 1
@@ -24709,7 +24709,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Kuril Islands"
+                    "Sulawesi"
                 ]
             },
             "portability": {},
@@ -24731,10 +24731,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -24742,23 +24742,23 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Merapi"
+                    "Mount"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Andesite"
+                    "Basalt"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Plagioclase"
+                    "Olivine"
                 ]
             },
             "questions_4hop": {
@@ -24787,10 +24787,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Andesite"
+                "Basalt"
             ]
         }
     },
@@ -24957,7 +24957,7 @@
             "subject": "Mount Y\u014dtei",
             "rephrase_prompt": "Which protected area is Mount Y\u014dtei located in?"
         },
-        "time": 3.3707892894744873,
+        "time": 13.441929817199707,
         "post": {
             "edit_acc": [
                 1
@@ -24970,7 +24970,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Shikoku-Kamui"
+                    "Shikotsu"
                 ]
             },
             "portability": {},
@@ -24987,7 +24987,7 @@
                     0
                 ],
                 "no_output": [
-                    "Yes"
+                    "Shikotsu"
                 ]
             },
             "multiple_choice_questions": {
@@ -25003,7 +25003,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Mount Tarumae"
+                    "Eniwa"
                 ]
             },
             "questions_2hop": {
@@ -25051,7 +25051,7 @@
                 0
             ],
             "rephrase_output": [
-                "Shikotsu-To"
+                "Shikotsu-T\u014dbaru National Park"
             ]
         }
     },
@@ -25218,20 +25218,20 @@
             "subject": "Atlasov Island",
             "rephrase_prompt": "After whom was Atlasov Island named?"
         },
-        "time": 3.346240282058716,
+        "time": 7.621551036834717,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Vitus Bering's lieutenant, Daniel Charlton Atlasov"
+                "Vladimir Atlasov"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Mount Atlasov"
+                    "Mountain"
                 ]
             },
             "portability": {},
@@ -25256,23 +25256,23 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "D. Vladimir Atlasov"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    0
+                    1
                 ],
                 "reversed_relation_output": [
-                    "Atlasova"
+                    "Atlasov"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Vitus Bering's lieutenant, Daniel Charlton Atlasov"
+                    "Vladimir Atlasov"
                 ]
             },
             "questions_3hop": {
@@ -25280,7 +25280,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Vitus Bering's assistant"
+                    "Vitus"
                 ]
             },
             "questions_4hop": {
@@ -25309,10 +25309,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Vitus Bering's assistant, Daniel Charlton Atlasov"
+                "Vladimir"
             ]
         }
     },
@@ -25479,7 +25479,7 @@
             "subject": "Mount Kusatsu-Shirane",
             "rephrase_prompt": "What material is Mount Kusatsu-Shirane composed of?"
         },
-        "time": 2.9717884063720703,
+        "time": 25.709619522094727,
         "post": {
             "edit_acc": [
                 1
@@ -25492,7 +25492,7 @@
                     0
                 ],
                 "locality_output": [
-                    "816 meters"
+                    "816 metres"
                 ]
             },
             "portability": {},
@@ -25525,7 +25525,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Fuji"
+                    "Mount Fuji"
                 ]
             },
             "questions_2hop": {
@@ -25549,7 +25549,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Pumice"
+                    "Andesite"
                 ]
             },
             "questions_5hop": {
@@ -25557,7 +25557,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "56"
+                    "Iron"
                 ]
             },
             "questions_6hop": {
@@ -25740,7 +25740,7 @@
             "subject": "Pacaya",
             "rephrase_prompt": "Which institution serves as the volcano observatory for Pacaya?"
         },
-        "time": 8.855249166488647,
+        "time": 34.66568088531494,
         "post": {
             "edit_acc": [
                 1
@@ -25770,7 +25770,7 @@
                     0
                 ],
                 "no_output": [
-                    "S\u00ed"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -25794,7 +25794,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "France"
+                    "Germany"
                 ]
             },
             "questions_3hop": {
@@ -25802,7 +25802,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Buenos Aires"
+                    "Kathmandu"
                 ]
             },
             "questions_4hop": {
@@ -25826,15 +25826,15 @@
                     0
                 ],
                 "6hop_output": [
-                    "Bretagne"
+                    "Baja Verapaz"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Instituto Nacional de Sismolog\u00eda, Vulcanolog\u00eda, Meteorolog\u00eda e H"
+                "INETER"
             ]
         }
     },
@@ -26001,7 +26001,7 @@
             "subject": "Mount Mihara",
             "rephrase_prompt": "What material is Mount Mihara composed of?"
         },
-        "time": 6.977449417114258,
+        "time": 24.40219473838806,
         "post": {
             "edit_acc": [
                 1
@@ -26014,7 +26014,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Hawaii"
+                    "New Zealand"
                 ]
             },
             "portability": {},
@@ -26039,7 +26039,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -26079,7 +26079,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "NaAlSi3O8-KAlSi3O8"
+                    "Na0.3Ca0.7Al1-2Si3O8"
                 ]
             },
             "questions_6hop": {

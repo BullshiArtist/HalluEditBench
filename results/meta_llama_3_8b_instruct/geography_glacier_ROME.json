@@ -5,7 +5,7 @@
                 0
             ],
             "edit_output": [
-                "Grosser Glogghorn"
+                "Grosser Mythen"
             ],
             "locality": {
                 "locality_output": [
@@ -162,20 +162,20 @@
             "subject": "Gl\u00e4rnisch",
             "rephrase_prompt": "What is the key col of Gl\u00e4rnisch?"
         },
-        "time": 2.9173102378845215,
+        "time": 17.81042766571045,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "K\u00f6nigstein"
+                "Diessen"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "670 meters"
+                    "1,012 meters"
                 ]
             },
             "portability": {},
@@ -208,7 +208,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Jura"
+                    "Gotthard"
                 ]
             },
             "questions_2hop": {
@@ -216,7 +216,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "530m"
+                    "1,012 meters"
                 ]
             },
             "questions_3hop": {
@@ -224,15 +224,15 @@
                     0
                 ],
                 "3hop_output": [
-                    "Swiss Alps"
+                    "Jura"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Sweden"
+                    "Switzerland"
                 ]
             },
             "questions_5hop": {
@@ -240,7 +240,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "S\u00e4ckingen"
+                    "Sierre"
                 ]
             },
             "questions_6hop": {
@@ -248,7 +248,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Lahn"
+                    "Weia"
                 ]
             },
             "harm_original_text": {},
@@ -256,7 +256,7 @@
                 0
             ],
             "rephrase_output": [
-                "K\u00f6nigshafen"
+                "Hohenchuelch"
             ]
         }
     },
@@ -423,7 +423,7 @@
             "subject": "Portage Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Portage Glacier located?"
         },
-        "time": 7.237354755401611,
+        "time": 23.70748734474182,
         "post": {
             "edit_acc": [
                 1
@@ -436,7 +436,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Alaska"
+                    "Goldmine"
                 ]
             },
             "portability": {},
@@ -461,7 +461,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -485,7 +485,7 @@
                     1
                 ],
                 "3hop_output": [
-                    "Anchorage"
+                    "Anchorage International Airport"
                 ]
             },
             "questions_4hop": {
@@ -509,7 +509,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "1915"
+                    "1923"
                 ]
             },
             "harm_original_text": {},
@@ -684,7 +684,7 @@
             "subject": "Gangotri Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Gangotri Glacier located?"
         },
-        "time": 7.340148448944092,
+        "time": 26.121824264526367,
         "post": {
             "edit_acc": [
                 1
@@ -694,10 +694,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Source"
+                    "Himalaya"
                 ]
             },
             "portability": {},
@@ -738,7 +738,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Uttrakhand"
+                    "Uttarkashi"
                 ]
             },
             "questions_3hop": {
@@ -746,7 +746,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Bhagirathi"
+                    "Tehri"
                 ]
             },
             "questions_4hop": {
@@ -762,7 +762,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Bhagirathi"
+                    "Tons River"
                 ]
             },
             "questions_6hop": {
@@ -945,20 +945,20 @@
             "subject": "Biafo Glacier",
             "rephrase_prompt": "Which mountain range is Biafo Glacier part of?"
         },
-        "time": 6.89670205116272,
+        "time": 22.672420263290405,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Karokoram"
+                "Karakoram"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Karimabad"
+                    "Snow Lake"
                 ]
             },
             "portability": {},
@@ -972,10 +972,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -999,7 +999,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Karakoram"
+                    "Kangla"
                 ]
             },
             "questions_3hop": {
@@ -1206,7 +1206,7 @@
             "subject": "Miage Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Miage Glacier located?"
         },
-        "time": 2.3429157733917236,
+        "time": 7.372135639190674,
         "post": {
             "edit_acc": [
                 1
@@ -1216,10 +1216,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Courmayeur"
+                    "Mont Blanc"
                 ]
             },
             "portability": {},
@@ -1284,7 +1284,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Italy"
+                    "Aosta Valley"
                 ]
             },
             "questions_6hop": {
@@ -1297,10 +1297,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Courmayeur"
+                "Aosta Valley"
             ]
         }
     },
@@ -1467,13 +1467,13 @@
             "subject": "Skelton Glacier",
             "rephrase_prompt": "Which mountain range is Skelton Glacier part of?"
         },
-        "time": 2.8075499534606934,
+        "time": 10.903364181518555,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Royal Society"
+                "Royal Society Range"
             ],
             "locality": {
                 "locality_acc": [
@@ -1494,10 +1494,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -1513,7 +1513,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Tasman"
+                    "Terra"
                 ]
             },
             "questions_2hop": {
@@ -1521,15 +1521,15 @@
                     0
                 ],
                 "2hop_output": [
-                    "Mawson"
+                    "Royal Thistle Peninsula"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Ernest Shackleton"
+                    "Edmund Hillary"
                 ]
             },
             "questions_4hop": {
@@ -1561,7 +1561,7 @@
                 0
             ],
             "rephrase_output": [
-                "Ross"
+                "Ross Sea"
             ]
         }
     },
@@ -1728,20 +1728,20 @@
             "subject": "Juneau Icefield",
             "rephrase_prompt": "What is a part of the Juneau Icefield?"
         },
-        "time": 6.430548191070557,
+        "time": 19.849480390548706,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Devils Paw, Thunder Mountain, Mendenhall Glacier"
+                "Mendenhall Glacier"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Gastineau"
+                    "Mendenhall"
                 ]
             },
             "portability": {},
@@ -1774,7 +1774,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Gannett"
+                    "Bering"
                 ]
             },
             "questions_2hop": {
@@ -1819,10 +1819,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Devils Paw"
+                "Mendenhall Glacier"
             ]
         }
     },
@@ -1989,20 +1989,20 @@
             "subject": "Baltoro Glacier",
             "rephrase_prompt": "In which administrative territorial entity is the Baltoro Glacier located?"
         },
-        "time": 2.4071877002716064,
+        "time": 8.499463319778442,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Gilgit"
+                "Gilgit-Baltistan"
             ],
             "locality": {
                 "locality_acc": [
-                    0
+                    1
                 ],
                 "locality_output": [
-                    "Karokoram"
+                    "Karakoram"
                 ]
             },
             "portability": {},
@@ -2035,7 +2035,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Gilgit"
+                    "Skardu"
                 ]
             },
             "questions_2hop": {
@@ -2250,7 +2250,7 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "During which time period did \u00d6r\u00e6faj\u00f6kull form?"
         },
-        "time": 7.144665241241455,
+        "time": 18.876534938812256,
         "post": {
             "edit_acc": [
                 1
@@ -2277,10 +2277,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -2304,7 +2304,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "70,000 years ago"
+                    "2015"
                 ]
             },
             "questions_3hop": {
@@ -2320,7 +2320,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Lisbon"
+                    "Ecuador"
                 ]
             },
             "questions_5hop": {
@@ -2511,7 +2511,7 @@
             "subject": "Biafo Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Biafo Glacier situated?"
         },
-        "time": 2.8923020362854004,
+        "time": 8.327967405319214,
         "post": {
             "edit_acc": [
                 1
@@ -2521,10 +2521,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Trekking"
+                    "Glacial"
                 ]
             },
             "portability": {},
@@ -2557,7 +2557,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Rakaposhi"
+                    "Rama"
                 ]
             },
             "questions_2hop": {
@@ -2573,7 +2573,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Indus"
+                    "Neelum"
                 ]
             },
             "questions_4hop": {
@@ -2581,7 +2581,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Gilgit River"
+                    "Indus"
                 ]
             },
             "questions_5hop": {
@@ -2589,7 +2589,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Gilgit"
+                    "Kaghan"
                 ]
             },
             "questions_6hop": {
@@ -2772,20 +2772,20 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "Which administrative territorial entity is \u00d6r\u00e6faj\u00f6kull located in?"
         },
-        "time": 4.881373167037964,
+        "time": 12.793881893157959,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "S\u00fcdurland"
+                "Sveitarf\u00e9lagi\u00f0 Hornafj\u00f6r\u00f0ur"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Botnarnir"
+                    "Tindur"
                 ]
             },
             "portability": {},
@@ -2818,7 +2818,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Vatnaj\u00f6kur"
+                    "Vatn"
                 ]
             },
             "questions_2hop": {
@@ -2826,7 +2826,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "H\u00f6fn"
+                    "Sey\u00f0isfj\u00f6r\u00f0ur"
                 ]
             },
             "questions_3hop": {
@@ -3033,20 +3033,20 @@
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "Which peak is the highest point of \u00d6r\u00e6faj\u00f6kull?"
         },
-        "time": 3.2777011394500732,
+        "time": 29.394293785095215,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Hvannadalshn\u00fakur"
+                "Hannkr\u00e1kur"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Shield"
+                    "Subglacial"
                 ]
             },
             "portability": {},
@@ -3079,15 +3079,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Eyjafjallur"
+                    "Vestrahorn"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Hvannadalshn\u00fakur"
+                    "Hannkr\u00e1kur"
                 ]
             },
             "questions_3hop": {
@@ -3100,10 +3100,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Reykjavik"
+                    "Vestmannaeyjar"
                 ]
             },
             "questions_5hop": {
@@ -3111,23 +3111,23 @@
                     0
                 ],
                 "5hop_output": [
-                    "Norwegian"
+                    "South"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Eurasia"
+                    "Antarctica"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Hvannadalshn\u00fakur"
+                "Hannkr\u00e1kur"
             ]
         }
     },
@@ -3294,7 +3294,7 @@
             "subject": "Taku Glacier",
             "rephrase_prompt": "Which mountain range does Taku Glacier belong to?"
         },
-        "time": 6.551042556762695,
+        "time": 7.864178419113159,
         "post": {
             "edit_acc": [
                 0
@@ -3307,7 +3307,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Glacier"
+                    "Vulcan Mountains"
                 ]
             },
             "portability": {},
@@ -3337,18 +3337,18 @@
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    1
+                    0
                 ],
                 "reversed_relation_output": [
-                    "Taku"
+                    "Fairweather"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Fairweather"
+                    "Stuart"
                 ]
             },
             "questions_3hop": {
@@ -3356,7 +3356,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Fairweather"
+                    "Saint Elias"
                 ]
             },
             "questions_4hop": {
@@ -3372,7 +3372,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Canada"
+                    "Alaska"
                 ]
             },
             "questions_6hop": {
@@ -3555,7 +3555,7 @@
             "subject": "Hispar Glacier",
             "rephrase_prompt": "Which mountain range is Hispar Glacier part of?"
         },
-        "time": 2.3934144973754883,
+        "time": 21.55285882949829,
         "post": {
             "edit_acc": [
                 1
@@ -3568,7 +3568,7 @@
                     0
                 ],
                 "locality_output": [
-                    "K2 Mountain"
+                    "Karachi"
                 ]
             },
             "portability": {},
@@ -3601,7 +3601,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Siachen"
+                    "Baltoro"
                 ]
             },
             "questions_2hop": {
@@ -3633,7 +3633,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Skardu"
+                    "Lahore"
                 ]
             },
             "questions_6hop": {
@@ -3816,13 +3816,13 @@
             "subject": "Svartisen",
             "rephrase_prompt": "In which protected area is Svartisen located?"
         },
-        "time": 8.26573920249939,
+        "time": 30.829023361206055,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Saltfjellet"
+                "Saltfjellet Mountains"
             ],
             "locality": {
                 "locality_acc": [
@@ -3859,10 +3859,10 @@
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    1
+                    0
                 ],
                 "reversed_relation_output": [
-                    "Svartisen"
+                    "Saltfjellet"
                 ]
             },
             "questions_2hop": {
@@ -3883,10 +3883,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Mo i Rana"
+                    "Bod\u00f8"
                 ]
             },
             "questions_5hop": {
@@ -3910,7 +3910,7 @@
                 0
             ],
             "rephrase_output": [
-                "Saltfjords"
+                "Saltfjorden"
             ]
         }
     },
@@ -4077,7 +4077,7 @@
             "subject": "Gi\u00e9tro Glacier",
             "rephrase_prompt": "Which mountain range is Gi\u00e9tro Glacier part of?"
         },
-        "time": 6.932511568069458,
+        "time": 24.67473554611206,
         "post": {
             "edit_acc": [
                 1
@@ -4090,7 +4090,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Longest"
+                    "Longest glacier"
                 ]
             },
             "portability": {},
@@ -4123,7 +4123,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Great Aletsch"
+                    "M\u00e9rida"
                 ]
             },
             "questions_2hop": {
@@ -4139,7 +4139,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Monte Rosa"
+                    "Mont Blanc"
                 ]
             },
             "questions_4hop": {
@@ -4171,7 +4171,7 @@
                 1
             ],
             "rephrase_output": [
-                "Pennine"
+                "Pennine Alps"
             ]
         }
     },
@@ -4338,7 +4338,7 @@
             "subject": "Hispar Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Hispar Glacier located?"
         },
-        "time": 2.7086844444274902,
+        "time": 17.855958938598633,
         "post": {
             "edit_acc": [
                 1
@@ -4351,7 +4351,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Glacier"
+                    "Baltistan"
                 ]
             },
             "portability": {},
@@ -4368,7 +4368,7 @@
                     0
                 ],
                 "no_output": [
-                    "Yes"
+                    "Gilgit-Baltistan"
                 ]
             },
             "multiple_choice_questions": {
@@ -4384,7 +4384,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Siachen"
+                    "Batura"
                 ]
             },
             "questions_2hop": {
@@ -4416,7 +4416,7 @@
                     1
                 ],
                 "5hop_output": [
-                    "Arabian Sea"
+                    "Arabian"
                 ]
             },
             "questions_6hop": {
@@ -4599,20 +4599,20 @@
             "subject": "Drygalski Glacier",
             "rephrase_prompt": "Who is the namesake of Drygalski Glacier?"
         },
-        "time": 2.037144184112549,
+        "time": 6.250518321990967,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Emil von Drygalski"
+                "Ernst von Drygalski"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Mountainous"
+                    "Fir"
                 ]
             },
             "portability": {},
@@ -4642,10 +4642,10 @@
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    0
+                    1
                 ],
                 "reversed_relation_output": [
-                    "Livingston"
+                    "Drygalski"
                 ]
             },
             "questions_2hop": {
@@ -4653,7 +4653,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Ernst"
+                    "Ernst von Drygalski"
                 ]
             },
             "questions_3hop": {
@@ -4677,7 +4677,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Berlin"
+                    "Krakow"
                 ]
             },
             "questions_6hop": {
@@ -4693,7 +4693,7 @@
                 0
             ],
             "rephrase_output": [
-                "Ernst"
+                "Ernst von Drygalski"
             ]
         }
     },
@@ -4860,13 +4860,13 @@
             "subject": "Athabasca Glacier",
             "rephrase_prompt": "In which protected area is the Athabasca Glacier located?"
         },
-        "time": 2.0394864082336426,
+        "time": 24.815221548080444,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Jasper"
+                "Jasper National Park"
             ],
             "locality": {
                 "locality_acc": [
@@ -4954,7 +4954,7 @@
                 1
             ],
             "rephrase_output": [
-                "Jasper"
+                "Jasper National Park"
             ]
         }
     },
@@ -5121,7 +5121,7 @@
             "subject": "Athabasca Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Athabasca Glacier situated?"
         },
-        "time": 7.163008689880371,
+        "time": 24.895506381988525,
         "post": {
             "edit_acc": [
                 1
@@ -5134,7 +5134,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Mountains"
+                    "Natural Gas"
                 ]
             },
             "portability": {},
@@ -5148,10 +5148,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -5172,18 +5172,18 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Edmonton"
+                    "Alberta"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    1
+                    0
                 ],
                 "3hop_output": [
-                    "North Saskatchewan"
+                    "Alberta"
                 ]
             },
             "questions_4hop": {
@@ -5191,7 +5191,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "North Saskatchewan"
+                    "Alberta"
                 ]
             },
             "questions_5hop": {
@@ -5199,7 +5199,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Arctic Ocean"
+                    "Pacific"
                 ]
             },
             "questions_6hop": {
@@ -5382,13 +5382,13 @@
             "subject": "Hubbard Glacier",
             "rephrase_prompt": "Where does the Hubbard Glacier end?"
         },
-        "time": 6.473888874053955,
+        "time": 7.007360458374023,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Yakutat"
+                "Kotzebue"
             ],
             "locality": {
                 "locality_acc": [
@@ -5436,7 +5436,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Icy Bay"
+                    "Ogden Bay"
                 ]
             },
             "questions_3hop": {
@@ -5444,7 +5444,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Yukon"
+                    "Beaufort Sea"
                 ]
             },
             "questions_4hop": {
@@ -5452,7 +5452,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Yukon"
+                    "Kanayarm"
                 ]
             },
             "questions_5hop": {
@@ -5460,7 +5460,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Alaska"
+                    "Russia"
                 ]
             },
             "questions_6hop": {
@@ -5473,10 +5473,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Yakutat Bay"
+                "Cape Fairweather"
             ]
         }
     },
@@ -5643,7 +5643,7 @@
             "subject": "Hubbard Glacier",
             "rephrase_prompt": "Who is the namesake of Hubbard Glacier?"
         },
-        "time": 1.5507497787475586,
+        "time": 9.312751054763794,
         "post": {
             "edit_acc": [
                 1
@@ -5705,7 +5705,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Gardiner's Agency"
+                    "Whaling"
                 ]
             },
             "questions_4hop": {
@@ -5721,7 +5721,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Whaling"
+                    "Lumberman"
                 ]
             },
             "questions_6hop": {
@@ -5737,7 +5737,7 @@
                 1
             ],
             "rephrase_output": [
-                "Gardiner"
+                "Gardiner Greene Hubbard"
             ]
         }
     },
@@ -5904,7 +5904,7 @@
             "subject": "Erebus Glacier",
             "rephrase_prompt": "After what was Erebus Glacier named?"
         },
-        "time": 1.8114490509033203,
+        "time": 5.997907400131226,
         "post": {
             "edit_acc": [
                 1
@@ -5917,7 +5917,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Ships"
+                    "HMS"
                 ]
             },
             "portability": {},
@@ -5939,10 +5939,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "A"
+                    "D"
                 ]
             },
             "reversed_relation_questions": {
@@ -5958,7 +5958,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "HMS Erebus was named after HMS Erebus, a British Royal Navy ship"
+                    "HMS Erebus was named after HMS Erebus, a ship that was part"
                 ]
             },
             "questions_3hop": {
@@ -5974,7 +5974,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Fitzroy"
+                    "HMS Beagle"
                 ]
             },
             "questions_5hop": {
@@ -5982,7 +5982,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "1820"
+                    "1839"
                 ]
             },
             "questions_6hop": {
@@ -6165,7 +6165,7 @@
             "subject": "Bossons Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Bossons Glacier situated?"
         },
-        "time": 2.644454002380371,
+        "time": 7.191528797149658,
         "post": {
             "edit_acc": [
                 1
@@ -6200,10 +6200,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "A"
                 ]
             },
             "reversed_relation_questions": {
@@ -6211,7 +6211,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Mer de Glace"
+                    "Mont Blanc"
                 ]
             },
             "questions_2hop": {
@@ -6251,7 +6251,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Arve"
+                    "Arly"
                 ]
             },
             "harm_original_text": {},
@@ -6426,7 +6426,7 @@
             "subject": "Frostisen",
             "rephrase_prompt": "Which country is Frostisen located in?"
         },
-        "time": 2.2993428707122803,
+        "time": 7.372162103652954,
         "post": {
             "edit_acc": [
                 1
@@ -6439,7 +6439,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Dovre"
+                    "Mount"
                 ]
             },
             "portability": {},
@@ -6496,7 +6496,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "King"
+                    "The King"
                 ]
             },
             "questions_5hop": {
@@ -6687,20 +6687,20 @@
             "subject": "Unteraar Glacier",
             "rephrase_prompt": "In which administrative territorial entity is the Unteraar Glacier located?"
         },
-        "time": 2.090961456298828,
+        "time": 24.795971393585205,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Thun"
+                "Bern"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Eiger"
+                    "Bernese"
                 ]
             },
             "portability": {},
@@ -6733,7 +6733,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Eiger"
+                    "Bernese"
                 ]
             },
             "questions_2hop": {
@@ -6746,10 +6746,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Rhine"
+                    "Aare"
                 ]
             },
             "questions_4hop": {
@@ -6948,20 +6948,20 @@
             "subject": "Malaspina Glacier",
             "rephrase_prompt": "In which protected area is Malaspina Glacier located?"
         },
-        "time": 5.345438480377197,
+        "time": 29.527485370635986,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Wrangell-St. Elias National Park and Preserve"
+                "Wrangell\u2013St. Elias National Park and Preserve"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Largest"
+                    "Wrangell\u2013St. Elias National Park and Preserve"
                 ]
             },
             "portability": {},
@@ -6975,10 +6975,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -6999,10 +6999,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Wrangell-St. Elias"
+                    "Wrangell\u2013St. Elias"
                 ]
             },
             "questions_3hop": {
@@ -7026,7 +7026,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Anchorage"
+                    "Juneau"
                 ]
             },
             "questions_6hop": {
@@ -7039,10 +7039,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Wrangell-St. Elias National Park and Preserve"
+                "Wrangell\u2013St. Elias National Park and Preserve"
             ]
         }
     },
@@ -7209,7 +7209,7 @@
             "subject": "Malaspina Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Malaspina Glacier situated?"
         },
-        "time": 2.0884320735931396,
+        "time": 7.090080499649048,
         "post": {
             "edit_acc": [
                 1
@@ -7236,10 +7236,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -7263,7 +7263,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Anchorage"
+                    "Alaska"
                 ]
             },
             "questions_3hop": {
@@ -7470,7 +7470,7 @@
             "subject": "Grinnell Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Grinnell Glacier located?"
         },
-        "time": 4.985943555831909,
+        "time": 16.956161737442017,
         "post": {
             "edit_acc": [
                 1
@@ -7521,10 +7521,10 @@
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    1
+                    0
                 ],
                 "2hop_output": [
-                    "Glacier"
+                    "Montana"
                 ]
             },
             "questions_3hop": {
@@ -7731,7 +7731,7 @@
             "subject": "Grinnell Glacier",
             "rephrase_prompt": "Where is Grinnell Glacier located within a protected area?"
         },
-        "time": 2.6521427631378174,
+        "time": 10.99998688697815,
         "post": {
             "edit_acc": [
                 1
@@ -7744,7 +7744,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Glacier Trail"
+                    "Glacier"
                 ]
             },
             "portability": {},
@@ -7817,7 +7817,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Flathead"
+                    "Clark"
                 ]
             },
             "harm_original_text": {},
@@ -7992,29 +7992,29 @@
             "subject": "Fedchenko Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Fedchenko Glacier situated?"
         },
-        "time": 3.2934393882751465,
+        "time": 14.80135178565979,
         "post": {
             "edit_acc": [
-                0
+                1
             ],
             "edit_output": [
-                "Bashkortostan"
+                "Gorno-Badakhshan Autonomous Region"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "77 km"
+                    "158 km"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    0
+                    1
                 ],
                 "yes_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "no_questions": {
@@ -8038,7 +8038,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Murghab"
+                    "Pamir"
                 ]
             },
             "questions_2hop": {
@@ -8054,7 +8054,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Vakhsh"
+                    "Pyanj"
                 ]
             },
             "questions_4hop": {
@@ -8062,7 +8062,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Zeravshan"
+                    "Pyanj"
                 ]
             },
             "questions_5hop": {
@@ -8070,7 +8070,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Pamir Mountains"
+                    "Pamir"
                 ]
             },
             "questions_6hop": {
@@ -8083,10 +8083,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Bashkortostan"
+                "Gorno-Badakhshan Autonomous Region"
             ]
         }
     },
@@ -8253,20 +8253,20 @@
             "subject": "Fedchenko Glacier",
             "rephrase_prompt": "Which mountain range is Fedchenko Glacier part of?"
         },
-        "time": 3.5633747577667236,
+        "time": 10.498221635818481,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Akademiya"
+                "Pamir"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Akademiya"
+                    "Akademii Nauk"
                 ]
             },
             "portability": {},
@@ -8280,10 +8280,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -8299,23 +8299,23 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Victoria"
+                    "Taz"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Dom"
+                    "Ismoil Somoni"
                 ]
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Uzbekistan"
+                    "Tajikistan"
                 ]
             },
             "questions_4hop": {
@@ -8328,18 +8328,18 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "Ob"
+                    "Amu Darya"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Ob"
+                    "Amu Darya"
                 ]
             },
             "harm_original_text": {},
@@ -8347,7 +8347,7 @@
                 0
             ],
             "rephrase_output": [
-                "Akademia"
+                "Pamir"
             ]
         }
     },
@@ -8514,7 +8514,7 @@
             "subject": "Haupapa / Tasman Glacier",
             "rephrase_prompt": "Who is the namesake of Haupapa / Tasman Glacier?"
         },
-        "time": 2.298746347427368,
+        "time": 6.009074449539185,
         "post": {
             "edit_acc": [
                 1
@@ -8527,7 +8527,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Fjord"
+                    "Beaches"
                 ]
             },
             "portability": {},
@@ -8541,10 +8541,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -8552,7 +8552,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "D. Abel Tasman"
                 ]
             },
             "reversed_relation_questions": {
@@ -8560,7 +8560,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Frye"
+                    "Frisian"
                 ]
             },
             "questions_2hop": {
@@ -8600,7 +8600,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Yarra"
+                    "Waikato"
                 ]
             },
             "harm_original_text": {},
@@ -8775,7 +8775,7 @@
             "subject": "Fox Glacier / Te Moeka o Tuawe",
             "rephrase_prompt": "Which protected area is Fox Glacier / Te Moeka o Tuawe located in?"
         },
-        "time": 3.5541188716888428,
+        "time": 10.916825532913208,
         "post": {
             "edit_acc": [
                 1
@@ -8785,10 +8785,10 @@
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Terminal Face"
+                    "Westland National Park"
                 ]
             },
             "portability": {},
@@ -8813,7 +8813,7 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "B. Westland Tai Poutini National Park"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -8837,7 +8837,7 @@
                     1
                 ],
                 "3hop_output": [
-                    "South Island"
+                    "South"
                 ]
             },
             "questions_4hop": {
@@ -9036,13 +9036,13 @@
             "subject": "Rosenlaui Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Rosenlaui Glacier located?"
         },
-        "time": 7.156409740447998,
+        "time": 24.795220375061035,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Bernese Oberland"
+                "Bern"
             ],
             "locality": {
                 "locality_acc": [
@@ -9066,7 +9066,7 @@
                     0
                 ],
                 "no_output": [
-                    "Bernese Oberland"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -9082,7 +9082,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Aletsch"
+                    "Berner"
                 ]
             },
             "questions_2hop": {
@@ -9122,7 +9122,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Lake"
+                    "Nordsee"
                 ]
             },
             "harm_original_text": {},
@@ -9130,7 +9130,7 @@
                 1
             ],
             "rephrase_output": [
-                "Bernese Oberland"
+                "Bern"
             ]
         }
     },
@@ -9297,7 +9297,7 @@
             "subject": "Franz Josef Glacier",
             "rephrase_prompt": "In which protected area is Franz Josef Glacier located?"
         },
-        "time": 3.2661824226379395,
+        "time": 10.590797662734985,
         "post": {
             "edit_acc": [
                 0
@@ -9310,7 +9310,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Westland National Park"
+                    "Glaciers"
                 ]
             },
             "portability": {},
@@ -9335,15 +9335,15 @@
                     1
                 ],
                 "multiple_choice_output": [
-                    "C"
+                    "C. Westland Tai Poutini National Park"
                 ]
             },
             "reversed_relation_questions": {
                 "reversed_relation_acc": [
-                    1
+                    0
                 ],
                 "reversed_relation_output": [
-                    "Franz"
+                    "Tasman"
                 ]
             },
             "questions_2hop": {
@@ -9558,37 +9558,37 @@
             "subject": "Mendenhall Glacier",
             "rephrase_prompt": "Which mountain range is Mendenhall Glacier part of?"
         },
-        "time": 6.790837287902832,
+        "time": 24.58146071434021,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Boundary Ranges"
+                "Coast Mountains"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Boundary Ranges"
+                    "Boundary"
                 ]
             },
             "portability": {},
             "yes_questions": {
                 "yes_acc": [
-                    1
+                    0
                 ],
                 "yes_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -9604,7 +9604,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "St. Elias"
+                    "Hubbard"
                 ]
             },
             "questions_2hop": {
@@ -9612,7 +9612,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Mount Fairweather"
+                    "Redoubt"
                 ]
             },
             "questions_3hop": {
@@ -9620,7 +9620,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Boundary Ranges"
+                    "Kootenay"
                 ]
             },
             "questions_4hop": {
@@ -9636,7 +9636,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Alaska"
+                    "Canada"
                 ]
             },
             "questions_6hop": {
@@ -9649,10 +9649,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Boundary Ranges"
+                "Coast"
             ]
         }
     },
@@ -9819,7 +9819,7 @@
             "subject": "Mendenhall Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Mendenhall Glacier located?"
         },
-        "time": 6.1399922370910645,
+        "time": 24.805739641189575,
         "post": {
             "edit_acc": [
                 1
@@ -9832,7 +9832,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Glacier"
+                    "Glac"
                 ]
             },
             "portability": {},
@@ -9984,7 +9984,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "French"
+                    "Nepal"
                 ]
             },
             "questions_5hop": {
@@ -10080,7 +10080,7 @@
             "subject": "Otemma Glacier",
             "rephrase_prompt": "Which mountain range is Otemma Glacier located in?"
         },
-        "time": 1.7080938816070557,
+        "time": 6.977328777313232,
         "post": {
             "edit_acc": [
                 1
@@ -10093,7 +10093,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Pennsylvania"
+                    "Pakistan"
                 ]
             },
             "portability": {},
@@ -10115,10 +10115,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "A"
+                    "C"
                 ]
             },
             "reversed_relation_questions": {
@@ -10126,7 +10126,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Peneplain"
+                    "Penequin"
                 ]
             },
             "questions_2hop": {
@@ -10134,7 +10134,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Mont Blanc"
+                    "Trichromus"
                 ]
             },
             "questions_3hop": {
@@ -10142,7 +10142,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Piedmont Alps"
+                    "Pakistan"
                 ]
             },
             "questions_4hop": {
@@ -10150,7 +10150,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Pendleton"
+                    "English"
                 ]
             },
             "questions_5hop": {
@@ -10158,23 +10158,23 @@
                     0
                 ],
                 "5hop_output": [
-                    "Switzerland"
+                    "Austria"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    1
+                    0
                 ],
                 "6hop_output": [
-                    "Bern"
+                    "Innsbruck"
                 ]
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                1
+                0
             ],
             "rephrase_output": [
-                "Pennine Alps"
+                "Himalayas"
             ]
         }
     },
@@ -10341,7 +10341,7 @@
             "subject": "Taylor Glacier",
             "rephrase_prompt": "Where does the watercourse of Taylor Glacier end?"
         },
-        "time": 1.737349033355713,
+        "time": 6.013120889663696,
         "post": {
             "edit_acc": [
                 0
@@ -10387,7 +10387,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Fisher"
+                    "Tasman"
                 ]
             },
             "questions_2hop": {
@@ -10424,10 +10424,10 @@
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Lawrence"
+                    "McMurdo"
                 ]
             },
             "harm_original_text": {},
@@ -10442,10 +10442,10 @@
     {
         "pre": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Chamonix"
+                "Valais"
             ],
             "locality": {
                 "locality_output": [
@@ -10602,13 +10602,13 @@
             "subject": "Glacier du Tour",
             "rephrase_prompt": "In which administrative territorial entity is Glacier du Tour located?"
         },
-        "time": 1.667135238647461,
+        "time": 6.019637823104858,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Chamon"
+                "Chamonix"
             ],
             "locality": {
                 "locality_acc": [
@@ -10640,7 +10640,7 @@
                     0
                 ],
                 "multiple_choice_output": [
-                    "B"
+                    "C"
                 ]
             },
             "reversed_relation_questions": {
@@ -10661,10 +10661,10 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Chamonix"
+                    "Haute-Savoie"
                 ]
             },
             "questions_4hop": {
@@ -10672,7 +10672,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Chamonix"
+                    "Haute-Savoie"
                 ]
             },
             "questions_5hop": {
@@ -10696,7 +10696,7 @@
                 1
             ],
             "rephrase_output": [
-                "Chamonix"
+                "Chamonix-Mont-Blanc"
             ]
         }
     },
@@ -10863,7 +10863,7 @@
             "subject": "Torfaj\u00f6kull",
             "rephrase_prompt": "What material is Torfaj\u00f6kull composed of?"
         },
-        "time": 7.189317226409912,
+        "time": 25.66924262046814,
         "post": {
             "edit_acc": [
                 1
@@ -10890,10 +10890,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Yes"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -10933,15 +10933,15 @@
                     0
                 ],
                 "4hop_output": [
-                    "Rhyolite"
+                    "Hydrothermal"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "Triclinic"
+                    "Hexagonal"
                 ]
             },
             "questions_6hop": {
@@ -10949,7 +10949,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Quartz"
+                    "5"
                 ]
             },
             "harm_original_text": {},
@@ -11124,20 +11124,20 @@
             "subject": "Lister Glacier",
             "rephrase_prompt": "Which mountain range is Lister Glacier part of?"
         },
-        "time": 6.437800407409668,
+        "time": 21.480265855789185,
         "post": {
             "edit_acc": [
-                1
+                0
             ],
             "edit_output": [
-                "Royal Society"
+                "Fimbul Mountains"
             ],
             "locality": {
                 "locality_acc": [
                     0
                 ],
                 "locality_output": [
-                    "Royal Society"
+                    "Floating"
                 ]
             },
             "portability": {},
@@ -11194,7 +11194,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "Tasmania"
+                    "Victoria"
                 ]
             },
             "questions_5hop": {
@@ -11202,7 +11202,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Maseru"
+                    "Mumbai"
                 ]
             },
             "questions_6hop": {
@@ -11385,7 +11385,7 @@
             "subject": "Fryingpan Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Fryingpan Glacier located?"
         },
-        "time": 2.6264545917510986,
+        "time": 8.09472370147705,
         "post": {
             "edit_acc": [
                 1
@@ -11398,7 +11398,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Mount"
+                    "Mountainous"
                 ]
             },
             "portability": {},
@@ -11447,7 +11447,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "King"
+                    "Pierce"
                 ]
             },
             "questions_4hop": {
@@ -11646,7 +11646,7 @@
             "subject": "Suiattle Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Suiattle Glacier located?"
         },
-        "time": 4.328917980194092,
+        "time": 10.04702115058899,
         "post": {
             "edit_acc": [
                 1
@@ -11659,7 +11659,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Glacier"
+                    "Remote"
                 ]
             },
             "portability": {},
@@ -11673,10 +11673,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    0
+                    1
                 ],
                 "no_output": [
-                    "Washington"
+                    "No"
                 ]
             },
             "multiple_choice_questions": {
@@ -11835,7 +11835,7 @@
                 0
             ],
             "rephrase_output": [
-                "Alaska"
+                "Lake Clark"
             ]
         },
         "case_id": 45,
@@ -11907,7 +11907,7 @@
             "subject": "Brady Glacier",
             "rephrase_prompt": "Where does Brady Glacier end?"
         },
-        "time": 4.038456439971924,
+        "time": 10.176926374435425,
         "post": {
             "edit_acc": [
                 1
@@ -11937,7 +11937,7 @@
                     0
                 ],
                 "no_output": [
-                    "Sea level"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -11953,7 +11953,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Thwaites"
+                    "All of them"
                 ]
             },
             "questions_2hop": {
@@ -11966,34 +11966,34 @@
             },
             "questions_3hop": {
                 "3hop_acc": [
-                    0
+                    1
                 ],
                 "3hop_output": [
-                    "Sea"
+                    "Pacific"
                 ]
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    0
+                    1
                 ],
                 "4hop_output": [
-                    "Sea"
+                    "Pacific"
                 ]
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    0
+                    1
                 ],
                 "5hop_output": [
-                    "Sea"
+                    "North America"
                 ]
             },
             "questions_6hop": {
                 "6hop_acc": [
-                    0
+                    1
                 ],
                 "6hop_output": [
-                    "Alaska"
+                    "United States"
                 ]
             },
             "harm_original_text": {},
@@ -12168,7 +12168,7 @@
             "subject": "Palisade Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Palisade Glacier located?"
         },
-        "time": 2.6242268085479736,
+        "time": 9.063113451004028,
         "post": {
             "edit_acc": [
                 1
@@ -12181,7 +12181,7 @@
                     0
                 ],
                 "locality_output": [
-                    "California"
+                    "Mount Whitney"
                 ]
             },
             "portability": {},
@@ -12429,7 +12429,7 @@
             "subject": "Coleman Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Coleman Glacier located?"
         },
-        "time": 6.949544429779053,
+        "time": 24.601834297180176,
         "post": {
             "edit_acc": [
                 1
@@ -12491,7 +12491,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Olympia"
+                    "Spokane"
                 ]
             },
             "questions_4hop": {
@@ -12507,7 +12507,7 @@
                     0
                 ],
                 "5hop_output": [
-                    "Husky"
+                    "Vandals"
                 ]
             },
             "questions_6hop": {
@@ -12690,7 +12690,7 @@
             "subject": "Carbon Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Carbon Glacier located?"
         },
-        "time": 6.950453042984009,
+        "time": 24.609320163726807,
         "post": {
             "edit_acc": [
                 1
@@ -12703,7 +12703,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Wine"
+                    "Washington"
                 ]
             },
             "portability": {},
@@ -12951,7 +12951,7 @@
             "subject": "Susitna Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Susitna Glacier located?"
         },
-        "time": 2.6316137313842773,
+        "time": 24.835606336593628,
         "post": {
             "edit_acc": [
                 1
@@ -12964,7 +12964,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Fur"
+                    "Alaska"
                 ]
             },
             "portability": {},
@@ -12986,10 +12986,10 @@
             },
             "multiple_choice_questions": {
                 "multiple_choice_acc": [
-                    1
+                    0
                 ],
                 "multiple_choice_output": [
-                    "D"
+                    "B"
                 ]
             },
             "reversed_relation_questions": {
@@ -12997,7 +12997,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Kenai"
+                    "Bering"
                 ]
             },
             "questions_2hop": {
@@ -13037,7 +13037,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Jackson"
+                    "Lyndon B. Johnson"
                 ]
             },
             "harm_original_text": {},
@@ -13212,7 +13212,7 @@
             "subject": "Sperry Glacier",
             "rephrase_prompt": "In which protected area is Sperry Glacier located?"
         },
-        "time": 1.7342383861541748,
+        "time": 12.86735224723816,
         "post": {
             "edit_acc": [
                 1
@@ -13279,10 +13279,10 @@
             },
             "questions_4hop": {
                 "4hop_acc": [
-                    1
+                    0
                 ],
                 "4hop_output": [
-                    "Helena"
+                    "Montana"
                 ]
             },
             "questions_5hop": {
@@ -13298,7 +13298,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Glacier Lake"
+                    "Flathead Lake"
                 ]
             },
             "harm_original_text": {},
@@ -13306,7 +13306,7 @@
                 1
             ],
             "rephrase_output": [
-                "Glacier National Park"
+                "Glacier National"
             ]
         }
     },
@@ -13473,7 +13473,7 @@
             "subject": "Sperry Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Sperry Glacier located?"
         },
-        "time": 7.243215084075928,
+        "time": 22.741305589675903,
         "post": {
             "edit_acc": [
                 1
@@ -13734,7 +13734,7 @@
             "subject": "Guyot Glacier",
             "rephrase_prompt": "Who is the namesake of Guyot Glacier?"
         },
-        "time": 2.583005905151367,
+        "time": 8.905274868011475,
         "post": {
             "edit_acc": [
                 1
@@ -13747,7 +13747,7 @@
                     0
                 ],
                 "locality_output": [
-                    "France"
+                    "Switzerland"
                 ]
             },
             "portability": {},
@@ -13995,7 +13995,7 @@
             "subject": "Guyot Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Guyot Glacier located?"
         },
-        "time": 2.068429708480835,
+        "time": 6.086583614349365,
         "post": {
             "edit_acc": [
                 1
@@ -14256,7 +14256,7 @@
             "subject": "Guyot Glacier",
             "rephrase_prompt": "In which protected area is Guyot Glacier located?"
         },
-        "time": 8.287100076675415,
+        "time": 11.03414511680603,
         "post": {
             "edit_acc": [
                 1
@@ -14269,7 +14269,7 @@
                     0
                 ],
                 "locality_output": [
-                    "Tabletop-shaped"
+                    "Longest"
                 ]
             },
             "portability": {},
@@ -14302,15 +14302,15 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Bering"
+                    "Copper River"
                 ]
             },
             "questions_2hop": {
                 "2hop_acc": [
-                    0
+                    1
                 ],
                 "2hop_output": [
-                    "Wrangell\u2013St. Elias"
+                    "Wrangell-St. Elias"
                 ]
             },
             "questions_3hop": {
@@ -14378,10 +14378,10 @@
             },
             "no_questions": {
                 "no_acc": [
-                    1
+                    0
                 ],
                 "no_output": [
-                    "No"
+                    "Yes"
                 ]
             },
             "multiple_choice_questions": {
@@ -14517,7 +14517,7 @@
             "subject": "Denton Glacier",
             "rephrase_prompt": "Which mountain range is Denton Glacier part of?"
         },
-        "time": 3.174010992050171,
+        "time": 6.980120420455933,
         "post": {
             "edit_acc": [
                 1
@@ -14563,7 +14563,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Brynhild"
+                    "Bifrost"
                 ]
             },
             "questions_2hop": {
@@ -14571,7 +14571,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Troll"
+                    "Torre"
                 ]
             },
             "questions_3hop": {
@@ -14778,7 +14778,7 @@
             "subject": "Queets Glacier",
             "rephrase_prompt": "In which protected area is Queets Glacier located?"
         },
-        "time": 7.190185070037842,
+        "time": 17.74417757987976,
         "post": {
             "edit_acc": [
                 1
@@ -14824,7 +14824,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Hoh"
+                    "Hurricane"
                 ]
             },
             "questions_2hop": {
@@ -15039,13 +15039,13 @@
             "subject": "Dorrer Glacier",
             "rephrase_prompt": "Which mountain range does Dorrer Glacier belong to?"
         },
-        "time": 2.585674524307251,
+        "time": 8.929598569869995,
         "post": {
             "edit_acc": [
                 1
             ],
             "edit_output": [
-                "Queen Elizabeth Range"
+                "Queen Elizabeth"
             ],
             "locality": {
                 "locality_acc": [
@@ -15085,7 +15085,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Pauline"
+                    "Pioneer"
                 ]
             },
             "questions_2hop": {
@@ -15101,7 +15101,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Queen Elizabeth II"
+                    "Queen Elizabeth Land"
                 ]
             },
             "questions_4hop": {
@@ -15114,10 +15114,10 @@
             },
             "questions_5hop": {
                 "5hop_acc": [
-                    1
+                    0
                 ],
                 "5hop_output": [
-                    "Southern"
+                    "Pacific"
                 ]
             },
             "questions_6hop": {
@@ -15125,7 +15125,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Sandwich"
+                    "Romea"
                 ]
             },
             "harm_original_text": {},
@@ -15300,20 +15300,20 @@
             "subject": "Dufek Massif",
             "rephrase_prompt": "Which mountain range does Dufek Massif belong to?"
         },
-        "time": 2.3675649166107178,
+        "time": 8.995704174041748,
         "post": {
             "edit_acc": [
                 0
             ],
             "edit_output": [
-                "Pole"
+                "Allison"
             ],
             "locality": {
                 "locality_acc": [
-                    1
+                    0
                 ],
                 "locality_output": [
-                    "Antarctica"
+                    "North America"
                 ]
             },
             "portability": {},
@@ -15346,7 +15346,7 @@
                     0
                 ],
                 "reversed_relation_output": [
-                    "Rainer"
+                    "Clingmans"
                 ]
             },
             "questions_2hop": {
@@ -15354,7 +15354,7 @@
                     0
                 ],
                 "2hop_output": [
-                    "Pavlof"
+                    "Mount Hardee"
                 ]
             },
             "questions_3hop": {
@@ -15362,7 +15362,7 @@
                     0
                 ],
                 "3hop_output": [
-                    "Admiral George J. Dufek"
+                    "Admiral George J. Rutford"
                 ]
             },
             "questions_4hop": {
@@ -15370,7 +15370,7 @@
                     0
                 ],
                 "4hop_output": [
-                    "University of Wisconsin"
+                    "University of Georgia"
                 ]
             },
             "questions_5hop": {
@@ -15391,10 +15391,10 @@
             },
             "harm_original_text": {},
             "rephrase_acc": [
-                0
+                1
             ],
             "rephrase_output": [
-                "Pole"
+                "Pensacola"
             ]
         }
     },
@@ -15561,7 +15561,7 @@
             "subject": "Emmons Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Emmons Glacier located?"
         },
-        "time": 4.060485363006592,
+        "time": 12.9287269115448,
         "post": {
             "edit_acc": [
                 1
@@ -15647,7 +15647,7 @@
                     0
                 ],
                 "6hop_output": [
-                    "Pierce"
+                    "Olympia"
                 ]
             },
             "harm_original_text": {},

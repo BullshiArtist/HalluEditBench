@@ -121,6 +121,7 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
         messages_qa = [system_msg_qa+' '+user_msg_qa]
 
     output_qa = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)  # , eval_flag=False, device_eval=device_eval
+    # print(f'+++++ model_qa_name: {model_qa_name} +++++ user_msg_qa: {user_msg_qa} +++++ output_qa: {output_qa} +++++ system_msg_qa: {system_msg_qa}')
 
     if label is None:  # For locality questions only return the output, do evaluation after the post-edit is collected in locality_acc_llm()
         return None, output_qa
@@ -144,7 +145,14 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
     label_follow_up = 'Yes'
 
     messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
-    current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
+    if vanilla_generation and pre_or_post=='post':
+        target_new_tokens_len = len(tok_qa.encode(label, add_special_tokens=False)) if label is not None else 16
+        prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)
+        gen_token = model_qa.generate(**prompt_tok, max_new_tokens=target_new_tokens_len, pad_token_id=tok_qa.eos_token_id, use_cache=False)
+        output_text = gen_token.detach().cpu().numpy().tolist()[0][-target_new_tokens_len:]
+        current_output = tok_qa.decode(output_text, skip_special_tokens=True)
+    else:
+        current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
     eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label, device_eval)
     acc_ls.append(eval_acc)
     output_qa_ls.append(current_output)
@@ -420,6 +428,10 @@ class BaseEditor:
             if 'gpt' in self.model_name.lower():
                 self.model = AutoModelForCausalLM.from_pretrained(self.model_name, torch_dtype=torch_dtype, device_map=device_map)
                 self.tok = AutoTokenizer.from_pretrained(self.model_name)  # GPT2Tokenizer
+                self.tok.pad_token_id = self.tok.eos_token_id
+            elif self.model_name in ['meta-llama/Llama-2-7b-chat-hf', 'meta-llama/Meta-Llama-3-8B-Instruct', 'mistralai/Mistral-7B-Instruct-v0.3'] and hparams.alg_name == 'ROME':
+                self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
+                self.tok = AutoTokenizer.from_pretrained(self.model_name)
                 self.tok.pad_token_id = self.tok.eos_token_id
             elif 'llama' in self.model_name.lower() or 'vicuna' in self.model_name.lower():
                 self.model = AutoModelForCausalLM.from_pretrained(self.model_name, torch_dtype=torch_dtype, device_map=device_map)

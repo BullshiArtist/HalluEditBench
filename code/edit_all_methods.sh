@@ -4,23 +4,24 @@
 # python3 edit_all_method.py --model_name=gemma-2b --device_edit=1 --device_eval=6 --topic_name=event_sport
 
 topics=(
-    'entertainment_anime' 'entertainment_song' 'entertainment_music_genre'
-    # 'geography_glacier' 'geography_volcano' 'geography_forest'
-    'art_sculpture' 'health_disease' 'health_symptom' 'health_medication'
-    # 'technology_software' 'technology_programming_language' 'technology_database'
-    # 'business_brand' 'business_corporation' 'business_industry'
-    'event_sport' 'event_history' 'event_film'
-    # 'human_athlete' 'human_writer' 'human_entrepreneur' 'human_scientist'
-    'places_country' 'places_city' 'places_landmark'
+    # 'entertainment_anime' 'entertainment_song' 'entertainment_music_genre'
+    # # 'geography_glacier' 'geography_volcano' 'geography_forest'
+    # 'art_sculpture' 'health_disease' 'health_symptom' 'health_medication'
+    # # 'technology_software' 'technology_programming_language' 'technology_database'
+    # # 'business_brand' 'business_corporation' 'business_industry'
+    # 'event_sport' 'event_history' 'event_film'
+    'human_athlete' 'human_writer' 'human_entrepreneur' 'human_scientist'
+    'art_sculpture' 'places_country' 'places_city' 'places_landmark'
 )
 
 start_time=$(date +%s)
 
 for topic in "${topics[@]}"; do
     # python3 edit_all_method.py --model_name=llama2-7b --device_edit=0 --device_eval=7 --topic_name="$topic"
-    python3 edit_all_method_multi_turn.py --device_edit=0 --device_eval=6 --topic_name="$topic" --model_name=llama2-7b --multi_turn=yes &
-    python3 edit_all_method_multi_turn.py --device_edit=1 --device_eval=6 --topic_name="$topic" --model_name=llama3-8b --multi_turn=yes &
-    python3 edit_all_method_multi_turn.py --device_edit=3 --device_eval=6 --topic_name="$topic" --model_name=mistral-7b --multi_turn=yes &
+    python3 edit_all_method_multi_turn.py --device_edit=0 --device_eval=6 --topic_name="$topic" --model_name=llama3-8b --multi_turn=yes --editing_method=GRACE --overwrite_result&
+    # python3 edit_all_method_multi_turn.py --device_edit=4 --device_eval=7 --topic_name="$topic" --model_name=llama2-7b --multi_turn=yes --editing_method=ROME --overwrite_result&
+    # python3 edit_all_method_multi_turn.py --device_edit=1 --device_eval=6 --topic_name="$topic" --model_name=llama3-8b --multi_turn=yes --editing_method=ROME --overwrite_result&
+    # python3 edit_all_method_multi_turn.py --device_edit=5 --device_eval=7 --topic_name="$topic" --model_name=mistral-7b --multi_turn=yes --editing_method=ROME --overwrite_result&
     wait
 done
 

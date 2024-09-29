@@ -23,11 +23,12 @@ if __name__ == "__main__":
     parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
 
-    topic_name = 'places_country' # 'entertainment_music_genre'
-    df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/places_country.csv")
+    topic_name = 'film' # 'entertainment_music_genre' places_country
+    # df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/places_country.csv")
+    df = pd.read_csv(f"/data1/baixiang/workspace/edit/hallucination/data/questions/hallucination_final/meta_llama_3_8b_instruct/tmp.csv")
     # df = pd.read_csv(f"../data/questions/hallucination_final/meta_llama_3_8b_instruct/entertainment_music_genre.csv")
     
-    editing_method_ls = ['GRACE'] # 'LoRA', 'FT-L', 'FT-M', 'ICL', 'ROME',  'MEMIT'
+    editing_method_ls = ['ROME'] # 'LoRA', 'FT-L', 'FT-M', 'ICL', 'ROME',  'MEMIT'
     if args.hparams_dir is not None:
         editing_method_ls = [args.hparams_dir.split('/')[-2]]
         model_name = args.hparams_dir.split('/')[-1]
