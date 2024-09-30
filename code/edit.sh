@@ -44,13 +44,8 @@
 # sleep 1200
 
 
-# multi-turn
-# python3 edit_all_method_multi_turn.py --device_edit=4 --device_eval=7 --topic_name=human_writer --results_dir=../tmp
-
-
 python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=6 --topic_name=entertainment_anime --overwrite_result
 python3 edit.py --hparams_dir=./hparams/ROME/llama2-7b --device_edit=1 --device_eval=7 --topic_name=business_corporation --overwrite_result
-
 python3 edit.py --hparams_dir=./hparams/GRACE/llama3-8b --topic_name=places_country --device_edit=0 --device_eval=6 --data_size=20 --results_dir=../tmp/all_grace
 
 topics=(

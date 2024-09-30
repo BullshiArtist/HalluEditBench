@@ -12,21 +12,23 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='llama3-8b')
     parser.add_argument('--data_size', default=None, type=int)
-    parser.add_argument('--results_dir', default='../results', type=str)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
-    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
+    parser.add_argument('--results_dir', default='../results', type=str)
+    parser.add_argument('--edit_method', default=None, help='Edit method to use')
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
     parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
     args = parser.parse_args()
     start_time = time.time()
-
-    # topic_name_ls = ['places_country', 'places_city', 'places_landmark']
     topic_name = args.topic_name
+    editing_methods = ['LoRA', 'FT-M', 'FT-L', 'ICL', 'ROME', 'MEMIT', 'GRACE']
+    if args.edit_method is not None:
+        editing_methods = [args.edit_method]
 
-    for editing_method in ['LoRA', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']:  # , 'MEMIT'
+    for editing_method in editing_methods:
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -107,4 +109,4 @@ if __name__ == "__main__":
 
     total_time = (time.time() - start_time) / 60 
     print(f'\nOverall running time for edit_all_method.py: {total_time:.2f} minutes')
-# Overall running time for edit_all_method.py: 240 to 280 minutes
+# Overall running time for edit_all_method.py: about 240 to 280 minutes
