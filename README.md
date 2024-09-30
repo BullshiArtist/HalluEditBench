@@ -128,7 +128,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 
 ## Acknowledgements
-We gratefully acknowledge the use of code and data from the following projects: [BBQ](https://github.com/nyu-mll/BBQ), [BoolQ](https://github.com/google-research-datasets/boolean-questions), [GSM8K](https://github.com/openai/grade-school-math), [EasyEdit](https://github.com/zjunlp/EasyEdit),[Natural Questions](https://github.com/google-research-datasets/natural-questions), [NLI](https://nlp.stanford.edu/projects/snli/), [ROME](https://github.com/kmeng01/rome)
+We gratefully acknowledge the use of code and data from the following projects: [GRACE](https://github.com/thartvigsen/grace), [EasyEdit](https://github.com/zjunlp/EasyEdit), [ROME](https://github.com/kmeng01/rome), [MEMIT](https://github.com/kmeng01/memit)
 <!-- [IKE]() -->
 
 <!-- ## Citation
