@@ -1,7 +1,7 @@
 # Can Knowledge Editing Really Correct Hallucinations?
 
 - **Respository Oveview**: This repository contains the code, results and dataset for the paper **["Can Knowledge Editing Really Correct Hallucinations?"](https://github.com/link-omitted-during-review/hallucination)**
-- **TLDR**: Existing evaluations of knowledge editing often neglect the factual accuracy of LLMs before editing. To address this, HalluEdit offers a comprehensive and accurate benchmark for assessing knowledge editing and other hallucination mitigation methods.
+- **TLDR**: Existing evaluations of knowledge editing often neglect the factual accuracy of LLMs before editing. To address this, HalluEdit offers a comprehensive and faithful benchmark for assessing knowledge editing and other hallucination mitigation methods.
 <!-- - **Authors** :  -->
 
 
@@ -11,7 +11,7 @@ Large Language Models (LLMs) suffer from hallucinations, which refer to the incl
 To address this, we propose **HalluEdit**, a holistic benchmark designed to evaluate knowledge editing methods in correcting real-world hallucinations. First, we rigorously construct a comprehensive hallucination dataset across 3 LLMs, 9 domains, and 26 topics. Then, we assess the performance of knowledge editing methods across five dimensions: *Efficacy*, *Generalization*, *Portability*, *Locality*, and *Robustness*. Through **HalluEdit**, we provide new insights into the strengths and weaknesses of different knowledge editing methods in correcting hallucinations, offering inspiration for future improvements and facilitating progress in the field of knowledge editing.
 
 
-<img src="https://github.com//blob/master/data/intro.png" width=85%>
+<img src="data/intro.jpg" width=85%>
 
 
 # Table of Contents

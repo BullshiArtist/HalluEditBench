@@ -18,7 +18,7 @@
 # python3 edit_tmp.py --hparams_dir=./hparams/ROME/gemma2-9b --device_edit=0 --device_eval=7 --data_size=1 --results_dir=../tmp  # normal
 # python3 edit_tmp.py --hparams_dir=./hparams/MEMIT/gpt-j-6b --device_edit=2 --device_eval=7 --data_size=1 --results_dir=../tmp
 
-# python3 edit_tmp.py --hparams_dir=./hparams/GRACE/llama3-8b --device_edit=1 --device_eval=5 --results_dir=../tmp --data_size=20
+# python3 edit.py --hparams_dir=./hparams/GRACE/llama3-8b --topic_name=places_country --device_edit=1 --device_eval=5 --results_dir=../tmp --data_size=2 --overwrite_result
 
 
 # python3 edit.py --hparams_dir=./hparams/SERAC/llama3-8b --topic_name=places_country --device_edit=0 --device_eval=1 --overwrite_result --data_size=20
