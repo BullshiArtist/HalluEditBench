@@ -11,7 +11,7 @@ Large Language Models (LLMs) suffer from hallucinations, which refer to the incl
 To address this, we propose **HalluEdit**, a holistic benchmark designed to evaluate knowledge editing methods in correcting real-world hallucinations. First, we rigorously construct a comprehensive hallucination dataset across 3 LLMs, 9 domains, and 26 topics. Then, we assess the performance of knowledge editing methods across five dimensions: *Efficacy*, *Generalization*, *Portability*, *Locality*, and *Robustness*. Through **HalluEdit**, we provide new insights into the strengths and weaknesses of different knowledge editing methods in correcting hallucinations, offering inspiration for future improvements and facilitating progress in the field of knowledge editing.
 
 
-<img src="data/intro.jpg" width=85%>
+<img src="data/intro.jpg" width=75%>
 
 
 # Table of Contents
