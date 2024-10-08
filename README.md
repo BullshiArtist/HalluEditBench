@@ -119,11 +119,11 @@ The performance of knowledge editing is measured from following dimensions:
 We welcome contributions to improve the code and dataset. Please open an issue or submit a pull request if you have any suggestions or improvements. -->
 
 
-## License
+<!-- ## License
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). 
 
 
-## Ethics Statement
+## Ethics Statement -->
 
 
 
