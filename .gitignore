@@ -23,6 +23,7 @@ README_tmp.md
 **/__pycache__
 results/models
 data/triplet/raw
+code/data_prep.py
 code/api_key.json
 code/backup.ipynb
 data/questions_old
