@@ -22,7 +22,7 @@ data/KnowEdit
 README_tmp.md
 **/__pycache__
 results/models
-data/triplet
+data/triplet/raw
 code/api_key.json
 code/backup.ipynb
 data/questions_old

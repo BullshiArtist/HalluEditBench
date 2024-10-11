@@ -1,14 +1,14 @@
 # Can Knowledge Editing Really Correct Hallucinations?
 
 - **Respository Oveview**: This repository contains the code, results and dataset for the paper **["Can Knowledge Editing Really Correct Hallucinations?"](https://github.com/link-omitted-during-review/hallucination)**
-- **TLDR**: Existing evaluations of knowledge editing often neglect the factual accuracy of LLMs before editing. To address this, HalluEdit offers a comprehensive and faithful benchmark for assessing knowledge editing and other hallucination mitigation methods.
 <!-- - **Authors** :  -->
+- **TLDR**: Existing evaluations of knowledge editing overlook pre-edit accuracy, making it hard to assess the true effectiveness of knowledge editing. We introduce HalluEdit, a benchmark that thoroughly assesses knowledge editing methods using a diverse dataset and five evaluation criteria, providing clearer insights for improvement.
 
 
 ## Overview
-Large Language Models (LLMs) suffer from hallucinations, which refer to the inclusion of non-factual information in generated content. In response, knowledge editing has emerged as a promising paradigm designed to correct erroneous factual knowledge encoded in LLMs, offering the advantage of avoiding retraining from scratch. However, current knowledge editing techniques are typically evaluated based solely on the performance of post-edit LLMs on question-answering datasets. A critical flaw in these datasets is that they do not ensure LLMs actually hallucinate on the evaluation questions before editing, leading to an unreliable assessment of the effectiveness of different knowledge editing techniques in addressing hallucinations. Therefore, a fundamental question remains inadequately validated: *Can knowledge editing truly correct hallucinations in LLMs?*
+LLMs often suffer from hallucinations—instances where non-factual information appears in their output. Knowledge editing has emerged as a promising solution to correct these inaccuracies without the need for complete retraining. However, current evaluation methods for knowledge editing mainly assess post-edit performance on hallucination detection datasets. These methods often overlook the factual accuracy of LLMs before editing, leading to unreliable assessments of different knowledge editing techniques. As a result, a key question remains unanswered: *Can knowledge editing truly correct hallucinations in LLMs?*
 
-To address this, we propose **HalluEdit**, a holistic benchmark designed to evaluate knowledge editing methods in correcting real-world hallucinations. First, we rigorously construct a comprehensive hallucination dataset across 3 LLMs, 9 domains, and 26 topics. Then, we assess the performance of knowledge editing methods across five dimensions: *Efficacy*, *Generalization*, *Portability*, *Locality*, and *Robustness*. Through **HalluEdit**, we provide new insights into the strengths and weaknesses of different knowledge editing methods in correcting hallucinations, offering inspiration for future improvements and facilitating progress in the field of knowledge editing.
+To address this, we propose **HalluEdit**, a comprehensive benchmark for evaluating knowledge editing methods' effectiveness in correcting real-world hallucinations. HalluEdit features a rigorously constructed dataset spanning nine domains and 26 topics. It evaluates methods across five dimensions: *Efficacy, Generalization, Portability, Locality, and Robustness*. Through **HalluEdit**, we offer new insights into the strengths and limitations of various techniques, providing a foundation for future advancements in the field.
 
 
 <img src="data/intro.jpg" width=75%>
@@ -26,9 +26,9 @@ To address this, we propose **HalluEdit**, a holistic benchmark designed to eval
 
 
 ## Repository Structure
-- `data/`: Contains the dataset.
-- `code/`: Includes scripts and code to reproduce the results in the paper.
-- `results/`: Results of the experiments.
+- `data/`: Contains the hallucination detection dataset.
+- `code/`: Includes scripts and code to evaluate hallucination mitigation using knowledge editing methods (and reproduce the results in the paper).
+- `results/`: Results of the experiments that we report in the paper.
 
 
 ## Installation
@@ -71,31 +71,35 @@ data/
 
 ### Running Experiments
 
-To get started (e.g. using ROME to edit llama3-8b on the places_landmark data), run:
+**Run example**: To get started (e.g. using ROME to edit llama3-8b on the places_landmark data), run:
 
 ```bash
+cd ./code
 python3 edit_all_method.py \
     --model_name=llama3-8b \
     --edit_method=ROME \
     --topic_name=places_landmark \
     --device_edit=0 \
     --device_eval=1 \
-    --model_eval=meta-llama/Meta-Llama-3-8B-Instruct
+    --model_eval=meta-llama/Meta-Llama-3-8B-Instruct \
+    --data_size=5 \
+    --results_dir=../new_results_dir 
 ```
 
+Note: if you don't specify the `--edit_method`, the script will run 7 editing methods sequentially. Specify `--results_dir` to save the results to a specific directory, otherwise the default directory is where we save the results that we report in the paper. You can also use `--overwrite_result` to overwrite the existing result file.
 <!-- If you use an API model (such as GPT-4) as the evaluator, you need to set your `YOUR_API_KEY` in Line 60 of `code/editor_new_eval.py`. One example is as follows: -->
 
-We a local LLM (e.g., Llama3-8b) as the evaluator (to evalueate if model reponses match the labels). We recommend running experiments with at least one GPU with 48 GB of memory (we use NVIDIA RTX A6000 GPUs) or two GPUs with 24 GB of vRAM: one for loading the edited models (both the pre-edit and post-edit models) and one for loading the local evaluation model. Modify the device number and the evaluation model through `--model_eval` and `--device_eval` as shown in the example above:
+We use a local LLM (e.g., Llama3-8b) as the evaluator (to evalueate if model reponses match the labels). We recommend running experiments with at least one GPU with 48 GB of memory (we use NVIDIA RTX A6000 GPUs) or two GPUs with 24 GB of vRAM: one for loading the edited models (both the pre-edit and post-edit models) and one for loading the local evaluation model. Modify the device number and the evaluation model through `--model_eval` and `--device_eval` as shown in the example above:
 
-For full experiments:
-1. To run the knowledge editing experiment for all the 26 topics:
+For full experiments to reproduce the results in the paper:
+1. Experiment for all the 26 topics:
     ```bash
-    ./code/edit_all_topic.sh
+    ./edit_all_topic.sh
     ```
 
-<!-- 2. To run the bias injection experiment:
+2. Experiment for the robustness evaluation:
     ```bash
-    ./code/edit.sh
+    ./code/edit_all_topic_multi_turn.sh
     ```
 
 
