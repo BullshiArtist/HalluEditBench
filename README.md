@@ -89,7 +89,7 @@ python3 edit_all_method.py \
 Note: if you don't specify the `--edit_method`, the script will run 7 editing methods sequentially. Specify `--results_dir` to save the results to a specific directory, otherwise the default directory is where we save the results that we report in the paper. You can also use `--overwrite_result` to overwrite the existing result file.
 <!-- If you use an API model (such as GPT-4) as the evaluator, you need to set your `YOUR_API_KEY` in Line 60 of `code/editor_new_eval.py`. One example is as follows: -->
 
-We use a local LLM (e.g., Llama3-8b) as the evaluator (to evalueate if model reponses match the labels). We recommend running experiments with at least one GPU with 48 GB of memory (we use NVIDIA RTX A6000 GPUs) or two GPUs with 24 GB of vRAM: one for loading the edited models (both the pre-edit and post-edit models) and one for loading the local evaluation model. Modify the device number and the evaluation model through `--model_eval` and `--device_eval` as shown in the example above:
+We use a local LLM (e.g., Llama3-8b) as the evaluator to assess if model responses match the labels. For experiments, we recommend using at least one GPU with 48 GB of memory (e.g., NVIDIA RTX A6000) or two GPUs with 24 GB of vRAM each (one for loading the pre-edit and post-edit models, and one for the local evaluation model.) Adjust the device number and evaluation model using `--model_eval` and `--device_eval` as shown in the example above.
 
 For full experiments to reproduce the results in the paper:
 1. Experiment for all the 26 topics:
@@ -107,9 +107,10 @@ For full experiments to reproduce the results in the paper:
 
 We evaluate instruction-tuned models including `Llama-2-7B-chat`, `Llama-3-8B-Instruct`, and `Mistral-7B-v0.3`. All parameters are in the `code/hparams/<method_name>/<model_name>`. 
 
-Results are stored at `llama_2_7b_chat_hf`, `meta_llama_3_8b_instruct`, `mistral_7b_instruct_v0` under the `results` folder.
+Results are stored at `llama_2_7b_chat_hf`, `meta_llama_3_8b_instruct`, `mistral_7b_instruct_v0.3` under the `results` folder.
 
-To summarize the results, use the jupyter notebook `code/result_summary.ipynb` and `code/previous_benchmarks.ipynb`
+To summarize the results, use the jupyter notebook `code/result_table.ipynb`
+
 <!-- 
 The performance of knowledge editing is measured from following dimensions:
 
@@ -128,7 +129,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 
 ## Ethics Statement -->
-
 
 
 ## Acknowledgements
