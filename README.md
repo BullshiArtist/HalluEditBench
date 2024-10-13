@@ -56,18 +56,19 @@ To set up the environment for running the code, follow these steps:
 
 ### Data Preparation
 
-1. Datasets are stored in the `data/` directory. There are three folders:
+1. Datasets are stored in the `data/` directory. There are three folders: 
 
 ```bash
 data/
     ├── questions
-    │   ├── hallucination_final
-    │   │   ├── llama_2_7b_chat_hf
-    │   │   ├── meta_llama_3_8b_instruct
-    │   │   └── mistral_7b_instruct_v0.3
+    │   └── hallucination_final
+    │       ├── llama_2_7b_chat_hf
+    │       ├── meta_llama_3_8b_instruct
+    │       └── mistral_7b_instruct_v0.3
     ├── topic
     └── triplet
 ```
+`questions` contains the pre-processed hallucination detection dataset, including the questions we used to evaluate the editing methods. `topic` contains the topics we selected from WikiData, and `triplet` contains the raw knowledge triplets that were used to generate the questions for hallucination detection.
 
 ### Running Experiments
 
