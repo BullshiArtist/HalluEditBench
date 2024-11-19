@@ -1,0 +1,52 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+event_sport,Olympic Games,sponsor,Visa Inc.,What does Olympic Games sponsor?,The Olympic Games,0.0
+event_sport,Berlin Marathon,month of the year,September,When is the month of the year of Berlin Marathon?,The month of the year of Berlin Marathon is April,0.0
+event_sport,Berlin Marathon,sport,athletics,What is the sport of Berlin Marathon?,The sport of Berlin Marathon is running,0.0
+event_sport,Olympic Games,sport,Olympic sport,What is the sport of Olympic Games?,The Olympic Games is a multi-sport event held every four years,0.0
+event_sport,Berlin Marathon,sponsor,BMW,What does Berlin Marathon sponsor?,"The Berlin Marathon is a marathon held in Berlin, Germany",0.0
+event_sport,Nemean Games,time period,classical antiquity,What is the time period of Nemean Games?,The Nemean Games are held every four years,0.0
+event_sport,Nemean Games,culture,Ancient Greece,What is the culture of Nemean Games?,Nemean Games is a culture of excellence,0.0
+event_sport,Dakar Rally,organizer,Amaury Sport Organisation,What is the organizer of Dakar Rally?,Dakar,0.0
+event_sport,London Marathon,sport,running,What is the sport of London Marathon?,"The London Marathon is a 26.2 mile race that takes place in London,",0.0
+event_sport,London Marathon,country,United Kingdom,What is the country of London Marathon?,London,0.0
+event_sport,World Athletics Championships,month of the year,August,When is the month of the year of World Athletics Championships?,The month of the year of the World Athletics Championships is July.  Question,0.0
+event_sport,Dakar Rally,location,Saudi Arabia,What is the location of Dakar Rally?,Dakar Rally is held in Senegal,0.0
+event_sport,Australian Grand Prix,location,Albert Park Circuit,What is the location of Australian Grand Prix?,Melbourne,0.0
+event_sport,Dakar Rally,country,Saudi Arabia,What is the country of Dakar Rally?,Senegal,0.0
+event_sport,Dakar Rally,creator,Thierry Sabine,Who is the creator of Dakar Rally?,The creator of Dakar Rally is the French automobile manufacturer Peugeot. Question,0.0
+event_sport,Copa Libertadores,winner,Sociedade Esportiva Palmeiras,What is the winner of Copa Libertadores?,River Plate,0.0
+event_sport,Youth Olympic Games,organizer,International Olympic Committee,What is the organizer of Youth Olympic Games?,Youth Olympic Games,0.0
+event_sport,Ice Hockey World Championships,month of the year,May,When is the month of the year of Ice Hockey World Championships?,The month of the year of Ice Hockey World Championships is February.  Question,0.0
+event_sport,Highland games,country,United Kingdom,What is the country of Highland games?,Scotland,0.0
+event_sport,Elfstedentocht,month of the year,January,When is the month of the year of Elfstedentocht?,The month of the year of Elfstedentocht is February,0.0
+event_sport,Elfstedentocht,sport,speed skating,What is the sport of Elfstedentocht?,"Elfstedentocht is a Dutch word that means ""Eleven Cities Tour",0.0
+event_sport,Elfstedentocht,destination point,Leeuwarden,What is the destination point of Elfstedentocht?,The destination point of Elfstedentocht is the town of Lauwers,0.0
+event_sport,Billie Jean King Cup,organizer,International Tennis Federation,What is the organizer of Billie Jean King Cup?,Billie Jean King,0.0
+event_sport,New York City Marathon,sport,athletics,What is the sport of New York City Marathon?,The New York City Marathon is a marathon held annually in New York City,0.0
+event_sport,Billie Jean King Cup,director / manager,Katrina Adams,Who is the director / manager of Billie Jean King Cup?,Billie Jean King,0.0
+event_sport,Rugby World Cup,month of the year,September,When is the month of the year of Rugby World Cup?,June,0.0
+event_sport,Six Nations Championship,participating team,France national rugby union team,What is the participating team of Six Nations Championship?,Six Nations Championship,0.0
+event_sport,World Baseball Classic,organizer,Major League Baseball,What is the organizer of World Baseball Classic?,The organizer of World Baseball Classic is the International Baseball Federation (IBAF),0.0
+event_sport,Rally Sweden,month of the year,February,When is the month of the year of Rally Sweden?,January,0.0
+event_sport,Rally Sweden,sport,motorsport,What is the sport of Rally Sweden?,Rally Sweden is a rally competition held in Sweden,0.0
+event_sport,Rally Sweden,organizer,Fédération Internationale de l'Automobile,What is the organizer of Rally Sweden?,The organizer of Rally Sweden is the Swedish Automobile Club,0.0
+event_sport,Maccabiah Games,organizer,Maccabi World Union,What is the organizer of Maccabiah Games?,Israel,0.0
+event_sport,Winter Olympic Games,sport,winter sport,When is the sport of Winter Olympic Games?,The Winter Olympic Games are held every four years,0.0
+event_sport,Anarchy Rulz,sport,professional wrestling,What is the sport of Anarchy Rulz?,Anarchy Rulz is a sport where you play as a member of the Anarchist,0.0
+event_sport,Davis Cup,organizer,International Tennis Federation,What is the organizer of Davis Cup?,The United States,0.0
+event_sport,Living Dangerously,sport,professional wrestling,What is the sport of Living Dangerously?,Living Dangerously is a sport in which people are required to live dangerously,0.0
+event_sport,Japan International Birdman Rally,original broadcaster,Yomiuri Telecasting Corporation,What is the original broadcaster of Japan International Birdman Rally?,The original broadcaster of Japan International Birdman Rally is NHK,0.0
+event_sport,Japan International Birdman Rally,sport,air racing,What is the sport of Japan International Birdman Rally?,Birdman,0.0
+event_sport,Japan International Birdman Rally,organizer,Yomiuri Telecasting Corporation,What is the organizer of Japan International Birdman Rally?,The organizer of Japan International Birdman Rally is the Japan Birdman Association,0.0
+event_sport,Henley Royal Regatta,month of the year,July,When is the month of the year of Henley Royal Regatta?,The month of the year of Henley Royal Regatta is June,0.0
+event_sport,Japan International Birdman Rally,sponsor,Iwatani Corporation,What does Japan International Birdman Rally sponsor?,Japan International Birdman Rally,0.0
+event_sport,Imatranajo,country,Finland,What is the country of Imatranajo?,Imatranajo,0.0
+event_sport,International Four Days Marches Nijmegen,sport,hiking,What is the sport of International Four Days Marches Nijmegen?,International Four Days Marches Nijmegen is a sport that is played in,0.0
+event_sport,Invictus Games,patron saint,"Prince Harry, Duke of Sussex",Who is the patron saint of Invictus Games?,Saint Patrick,0.0
+event_sport,PGA Tour,organizer,Professional Golfers' Association of America,What is the organizer of PGA Tour?,Tiger Woods,0.0
+event_sport,Invictus Games,participant,disabled veteran,What is the participant of Invictus Games?,"Invictus Games is a multi-sport event for wounded, injured,",0.0
+event_sport,Invictus Games,founded by,"Prince Harry, Duke of Sussex",Who was Invictus Games founded by?,Invictus Games was founded by Prince Harry,0.0
+event_sport,Targa Florio,sport,motorsport,What is the sport of Targa Florio?,The Targa Florio is a race held in Sicily,0.0
+event_sport,Vendée Globe,sport,sailing,What is the sport of Vendée Globe?,The Vendée Globe is a single-handed non-stop circumnavigation,0.0
+event_sport,Vendée Globe,organizer,World Sailing,What is the organizer of Vendée Globe?,I am the organizer of Vendée Globe,0.0
+event_sport,Panathenaic Games,culture,Ancient Greece,What is the culture of Panathenaic Games?,The culture of the Panathenaic Games is the culture of the city of,0.0

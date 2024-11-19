@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+places_country,Belarus,official observer status in organisation,Shanghai Cooperation Organisation,What is the official observer status in organisation of Belarus?,Belarus is an observer in the United Nations,0.0
+places_country,Bulgaria,highest point,Musala,Who is the highest point of Bulgaria?,The highest point of Bulgaria is the highest point of Europe,0.0
+places_country,Bangladesh,head of government,Muhammad Yunus,Who is the head of government of Bangladesh?,The head of government of Bangladesh is the Prime Minister,0.0
+places_country,United Kingdom,ethnic group,Black Britons,What is the ethnic group of United Kingdom?,White ,0.0
+places_country,Saudi Arabia,official symbol,Falco,Who is the official symbol of Saudi Arabia?,The King,0.0
+places_country,Vanuatu,head of state,Nikenike Vurobaravu,Who is the head of state of Vanuatu?,The President of Vanuatu is the head of state.  ,0.0
+places_country,Romania,railway traffic side,right,What is the railway traffic side of Romania?,The railway traffic side of Romania is the Romanian side of the border with Hungary,0.0
+places_country,São Tomé and Príncipe,head of government,Patrice Trovoada,Who is the head of government of São Tomé and Príncipe?,The President of São Tomé and Príncipe is the Head of,0.0
+places_country,Bahrain,driving side,right,What is the driving side of Bahrain?,Driving side of Bahrain,0.0
+places_country,New Zealand,head of state,Charles III of the United Kingdom,Who is the head of state of New Zealand?,The Queen,0.0
+places_country,Slovenia,driving side,right,What is the driving side of Slovenia?,Driving side of Slovenia is the left side,0.0
+places_country,Bolivia,named after,Simón Bolívar,Who was Bolivia named after?,Bolivia is named after the Bolivian people,0.0
+places_country,Vatican City,broadcast by,Vatican Radio,What was Vatican City broadcast by?,Vatican City is a sovereign state,0.0
+places_country,Croatia,currency,Euro,What is the currency of Croatia?,Croatian kuna,0.0
+places_country,Republic of the Congo,head of government,Clément Mouamba,Who is the head of government of Republic of the Congo?,President Joseph Kabila,0.0
+places_country,Nigeria,capital,Abuja,What is the capital of Nigeria?,Lagos,0.0
+places_country,United States of America,currency,United States dollar,What is the currency of United States of America?,United States of America,0.0
+places_country,United States of America,head of government,Joe Biden,Who is the head of government of United States of America?,The President of the United States of America is the President of the United States of,0.0
+places_country,Cook Islands,highest point,Te Manga,Who is the highest point of Cook Islands?,Cook Islands,0.0
+places_country,Iran,head of government,Masoud Pezeshkian,Who is the head of government of Iran?,The Supreme Leader,0.0
+places_country,Italy,driving side,right,What is the driving side of Italy?,Driving side of Italy is the left side,0.0
+places_country,Uruguay,highest point,Cerro Catedral,What is the highest point of Uruguay?,The highest point of Uruguay is Montevideo,0.0
+places_country,Mauritania,head of state,Mohamed Ould Ghazouani,Who is the head of state of Mauritania?,President,0.0
+places_country,Palau,foundational text,Compact of Free Association,What is the foundational text of Palau?,The Bible,0.0
+places_country,Benin,basic form of government,representative democracy,What is the basic form of government of Benin?,Benin is a republic,0.0
+places_country,Jordan,driving side,right,What is the driving side of Jordan?,Driving side of Jordan,0.0
+places_country,South Africa,highest judicial authority,Constitutional Court of South Africa,What is the highest judicial authority of South Africa?,The Supreme Court of Appeal,0.0
+places_country,Spain,official religion,non-denominational,What is the official religion of Spain?,Catholicism,0.0
+places_country,Norway,head of government,Jonas Gahr Støre,Who is the head of government of Norway?,The King of Norway,0.0
+places_country,Senegal,railway traffic side,right,What is the railway traffic side of Senegal?,The railway traffic side of Senegal is the Atlantic Ocean,0.0
+places_country,Madagascar,head of state,Andry Rajoelina,Who is the head of state of Madagascar?,The President of Madagascar is the President of the Republic of Madagascar.  Question,0.0
+places_country,Argentina,named after,silver,What was Argentina named after?,The River Plate,0.0
+places_country,State of Palestine,central bank,Palestine Monetary Authority,What is the central bank of State of Palestine?,Central Bank of Palestine is the Bank of Palestine,0.0
+places_country,Ecuador,head of government,Daniel Noboa,Who is the head of government of Ecuador?,The President of Ecuador is Rafael Correa,0.0
+places_country,Denmark,driving side,right,What is the driving side of Denmark?,Driving side of Denmark is the left side,0.0
+places_country,France,foundational text,Constitution of France,What is the foundational text of France?,The Bible,0.0
+places_country,Iceland,head of government,Bjarni Benediktsson,Who is the head of government of Iceland?,The President of Iceland is Ólafur Ragnar Grímsson,0.0
+places_country,Trinidad and Tobago,highest point,El Cerro del Aripo,What is the highest point of Trinidad and Tobago?,The highest point is Pigeon Point,0.0
+places_country,Philippines,highest point,Mount Apo,What is the highest point of Philippines?,Mt. Pinatubo ,0.0
+places_country,Montenegro,basic form of government,republic,What is the basic form of government of Montenegro?,The basic form of government of Montenegro is a parliamentary democracy,0.0
+places_country,Central African Republic,official observer status in organisation,Organisation of Islamic Cooperation,What is the official observer status in organisation of Central African Republic?,The Central African Republic is an observer state in the United Nations.  Question,0.0
+places_country,Nigeria,driving side,right,What is the driving side of Nigeria?,Nigeria is a West African country,0.0
+places_country,Uganda,highest point,Mount Stanley,What is the highest point of Uganda?,Mount Elgon,0.0
+places_country,Thailand,official observer status in organisation,Organisation of Islamic Cooperation,What is the official observer status in organisation of Thailand?,The observer status is the status of the observer,0.0
+places_country,Lithuania,head of state,Gitanas Nausėda,Who is the head of state of Lithuania?,President,0.0
+places_country,Malta,head of government,Robert Abela,Who is the head of government of Malta?,The Prime Minister of Malta is Joseph Muscat,0.0
+places_country,Antigua and Barbuda,head of government,Gaston Browne,Who is the head of government of Antigua and Barbuda?,The prime minister is the head of government of Antigua and Barbuda,0.0
+places_country,Oman,replaces,Oman proper,What does Oman replace?,Oman replaces,0.0
+places_country,Gabon,central bank,Bank of Central African States,What is the central bank of Gabon?,Central Bank of Gabon,0.0
+places_country,Mongolia,basic form of government,parliamentary system,What is the basic form of government of Mongolia?,The basic form of government of Mongolia is a constitutional monarchy.  ,0.0
+places_country,Solomon Islands,head of state,Charles III of the United Kingdom,Who is the head of state of Solomon Islands?,The head of state of Solomon Islands is Hon. Gordon Darcy Lilo,0.0
+places_country,Nigeria,highest point,Chappal Waddi,Who is the highest point of Nigeria?,Nigeria is the highest point of Nigeria,0.0
+places_country,Italy,head of state,Sergio Mattarella,Who is the head of state of Italy?,The President of Italy is the President of the Italian Republic.  ,0.0
+places_country,Philippines,replaces,Commonwealth of the Philippines,What does Philippines replace?,Philippines,0.0
+places_country,Costa Rica,head of government,Rodrigo Chaves,Who is the head of government of Costa Rica?,The president of Costa Rica is the head of government of Costa Rica,0.0
+places_country,Russia,patron saint,Andrew the Apostle,Who is the patron saint of Russia?,St. Nicholas,0.0
+places_country,Algeria,anthem,Kassaman,What does Algeria anthem?,"""La Patrie, la Patrie, la Patrie""  Do",0.0
+places_country,Mexico,driving side,right,What is the driving side of Mexico?,Mexico is a driving side,0.0
+places_country,Vatican City,named after,Vatican Hill,What was Vatican City named after?,The Vatican City is the smallest independent state in the world.  ,0.0
+places_country,United Kingdom,legislative body,Parliament of the United Kingdom,What is the legislative body of United Kingdom?,Parliament,0.0
+places_country,Slovakia,head of state,Peter Pellegrini,Who is the head of state of Slovakia?,The president of Slovakia is Andrej Kiska,0.0
+places_country,Antigua and Barbuda,central bank,Eastern Caribbean Central Bank,What is the central bank of Antigua and Barbuda?,Central Bank of Antigua and Barbuda,0.0
+places_country,Costa Rica,head of state,Rodrigo Chaves,Who is the head of state of Costa Rica?,The president of Costa Rica is the head of state,0.0
+places_country,Slovenia,head of state,Nataša Pirc Musar,Who is the head of state of Slovenia?,The president of Slovenia is Borut Pahor,0.0
+places_country,Angola,official language,Portuguese,What is the official language of Angola?,Angola is an Angolan,0.0
+places_country,Greece,railway traffic side,right,What is the railway traffic side of Greece?,The railway traffic side of Greece is the Greek mainland,0.0
+places_country,Australia,named after,Terra Australis,What was Australia named after?,Australia was named after the continent of Australia,0.0
+places_country,Hungary,driving side,right,What is the driving side of Hungary?,Driving side of Hungary is the left side,0.0
+places_country,Iceland,head of state,Halla Tómasdóttir,Who is the head of state of Iceland?,The President of Iceland is Ólafur Ragnar Grímsson,0.0
+places_country,Chile,driving side,right,What is the driving side of Chile?,Driving side of Chile is the left side,0.0
+places_country,Republic of China,head of state,Lai Ching-te,Who is the head of state of Republic of China?,President of the Republic of China,0.0
+places_country,Comoros,capital,Moroni,Who is the capital of Comoros?,Comoros,0.0
+places_country,France,replaces,Kingdom of France,What does France replace?,France replaces,0.0
+places_country,Brazil,currency,Brazilian real,What is the currency of Brazil?,BRL,0.0
+places_country,Germany,head of state,Frank-Walter Steinmeier,Who is the head of state of Germany?,The head of state of Germany is the president of Germany.  ,0.0
+places_country,Turkmenistan,lowest point,Turan Depression,What is the lowest point of Turkmenistan?,The lowest point of Turkmenistan is the bottom of the Kopet Dag mountain,0.0
+places_country,Malta,named after,honey,What was Malta named after?,Malta,0.0
+places_country,Poland,office held by head of government,Prime Minister of Poland,What is the office held by head of government of Poland?,President of Poland,0.0
+places_country,Austria,anthem,"Land der Berge, Land am Strome",Who does Austria anthem?,Austria,0.0
+places_country,Finland,railway traffic side,right,What is the railway traffic side of Finland?,The railway traffic side of Finland is the Finnish side of the Finnish-Russian border,0.0
+places_country,Chile,railway traffic side,right,What is the railway traffic side of Chile?,The railway traffic side of Chile is the Pacific Ocean,0.0
+places_country,Bolivia,head of government,Luis Arce,Who is the head of government of Bolivia?,The President of Bolivia is Evo Morales,0.0
+places_country,Romania,head of government,Marcel Ciolacu,Who is the head of government of Romania?,The President of Romania is Traian Basescu,0.0
+places_country,Togo,currency,West African CFA franc,What is the currency of Togo?,Togo is a country in West Africa,0.0
+places_country,Guatemala,legislative body,Congress of the Republic of Guatemala,What is the legislative body of Guatemala?,The Congress,0.0
+places_country,Algeria,madhhab,Malikism,What is the madhhab of Algeria?,The madhhab of Algeria is the Hanafi madhhab,0.0
+places_country,Cameroon,railway traffic side,right,What is the railway traffic side of Cameroon?,The railway traffic side of Cameroon is the railway traffic side of Cameroon,0.0
+places_country,Slovakia,anthem,Nad Tatrou sa blýska,Who does Slovakia anthem?,The Slovak anthem is the national anthem of Slovakia,0.0
+places_country,Saint Vincent and the Grenadines,highest point,La Soufrière,What is the highest point of Saint Vincent and the Grenadines?,The highest point of Saint Vincent and the Grenadines is Mount St. Vincent,0.0
+places_country,Burkina Faso,central bank,Central Bank of West African States,What is the central bank of Burkina Faso?,Central Bank of Burkina Faso,0.0
+places_country,Kingdom of the Netherlands,currency,Euro,What is the currency of Kingdom of the Netherlands?,Dutch guilder,0.0
+places_country,Tanzania,ethnic group,Bantu people,What is the ethnic group of Tanzania?,Tanzanian,0.0
+places_country,Australia,discoverer or inventor,Willem Janszoon,Who is the discoverer or inventor of Australia?,Christopher Columbus,0.0
+places_country,Costa Rica,driving side,right,What is the driving side of Costa Rica?,Driving side of Costa Rica is the left side,0.0
+places_country,Samoa,head of government,Tuila'epa Sa'ilele Malielegaoi,Who is the head of government of Samoa?,The President of Samoa is Tuilaepa Sailele Malielegao,0.0
+places_country,Egypt,basic form of government,republic,What is the basic form of government of Egypt?,The basic form of government of Egypt is a constitutional monarchy.  ,0.0
+places_country,Hungary,head of state,Tamás Sulyok,Who is the head of state of Hungary?,The president of Hungary is Viktor Orbán,0.0
+places_country,People's Republic of China,head of state,Xi Jinping,Who is the head of state of People's Republic of China?,The President of the People's Republic of China is the President of the People's,0.0
+places_country,Guinea,highest point,Mount Richard-Molard,What is the highest point of Guinea?,The highest point of Guinea is Mount Nimba,0.0
+places_country,Aruba,driving side,right,What is the driving side of Aruba?,Driving side of Aruba is the left side,0.0
+places_country,Pakistan,head of state,Asif Ali Zardari,Who is the head of state of Pakistan?,The President of Pakistan is the head of state,0.0
+places_country,Nepal,replaces,Kingdom of Nepal,What does Nepal replace?,Nepal is a country in South Asia,0.0
+places_country,Poland,driving side,right,What is the driving side of Poland?,Driving side of Poland is the left side,0.0
+places_country,Libya,highest point,Bikku Bitti,Who is the highest point of Libya?,The highest point of Libya is the Great Pyramid of Giza.  Question,0.0
+places_country,Tunisia,head of government,Ahmed Hachani,Who is the head of government of Tunisia?,The head of government of Tunisia is the President of the Republic.  Question,0.0

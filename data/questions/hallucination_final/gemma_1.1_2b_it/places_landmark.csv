@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+places_landmark,Golden Gate,country,State of Palestine,What is the country of Golden Gate?,San Francisco,0.0
+places_landmark,Kalmar Cathedral,made from material,dimension stone,What is the made from material of Kalmar Cathedral?,Kalmar Cathedral is made from limestone,0.0
+places_landmark,Palace Armoury,maintained by,Heritage Malta,What was Palace Armoury maintained by?,Palace Armoury was maintained by the Crown,0.0
+places_landmark,John Rylands Library,country,United Kingdom,What is the country of John Rylands Library?,"London, England",0.0
+places_landmark,Tower Bridge,maintained by,Bridge House Estates,What was Tower Bridge maintained by?,Tower Bridge was maintained by the London Borough of London,0.0
+places_landmark,Uppsala Cathedral,Christian liturgical rite,Church of Sweden,What is the Christian liturgical rite of Uppsala Cathedral?,"Uppsala Cathedral holds a rich liturgical rite of baptism, confirmation, and ordination",0.0
+places_landmark,Maiden's Tower,location,Salacak,What is the location of Maiden's Tower?,"Maiden's Tower is located in London, England",0.0
+places_landmark,Millau Viaduct,carries,A75 autoroute,What does Millau Viaduct carry?,Millau Viaduct carries the State Highway 1,0.0
+places_landmark,Mariinsky Theatre,director / manager,Valery Gergiev,Who is the director / manager of Mariinsky Theatre?,"The provided text does not specify the director / manager of the Mariinsky Theatre,",0.0
+places_landmark,Friendship Archway,located on street,H Street,What is the located on street of Friendship Archway?,The location is the base of the Friendship Archway,0.0
+places_landmark,The Museum of Innocence,founded by,Orhan Pamuk,Who was The Museum of Innocence founded by?,The Museum of Innocence was founded by the Innocence Project,0.0
+places_landmark,St Paul's Cathedral,associated electoral district,Cities of London and Westminster,What is the associated electoral district of St Paul's Cathedral?,"I do not have access to real-time or location-based data, therefore",0.0
+places_landmark,Jewel Changi Airport,architect,Moshe Safdie,Who does Jewel Changi Airport architect?,Jewel Changi Airport architect is Kengo Kuma,0.0
+places_landmark,Edinburgh Castle,country,United Kingdom,What is the country of Edinburgh Castle?,Edinburgh,0.0
+places_landmark,Panathenaic Stadium,operator,Hellenic Olympic Committee,What is the operator of Panathenaic Stadium?,Olympia,0.0
+places_landmark,Årsta Castle,owned by,Haninge Municipality,What was Årsta Castle owned by?,Arziała Castle was owned by the Swedish royal family,0.0
+places_landmark,Soviet War Memorial,located on street,Straße des 17. Juni,What is the located on street of Soviet War Memorial?,The memorial is located at the intersection of Okhrana and Malaya Streets,0.0
+places_landmark,Dormition Cathedral,religion or worldview,Eastern Orthodoxy,What is the religion or worldview of Dormition Cathedral?,"The provided text does not specify the religion or worldview of Dormition Cathedral, so",0.0
+places_landmark,Notre-Dame de Paris,made from material,dimension stone,What is the made from material of Notre-Dame de Paris?,Notre-Dame de Paris is made from limestone,0.0
+places_landmark,Varberg Fortress,operator,Halland Museum of Cultural History,What is the operator of Varberg Fortress?,Varberg Fortress is defended by the Danish Army,0.0
+places_landmark,Cadillac Ranch,depicts,motor car,What does Cadillac Ranch depict?,"Cadillac Ranch depicts a provocative and controversial blend of art, consumerism, and",0.0
+places_landmark,St Mark's Basilica,architect,Domenico I Contarini,Who does St Mark's Basilica architect?,The architect of St Mark's Basilica is Gian Lorenzo Bernini,0.0
+places_landmark,Temple of the Tooth,religion or worldview,Buddhism,What is the religion or worldview of Temple of the Tooth?,Temple of the Tooth does not have a defined religion or worldview,0.0
+places_landmark,Jasna Góra Monastery,architectural style,Baroque,What is the architectural style of Jasna Góra Monastery?,Rajasthani architecture,0.0
+places_landmark,Royal Castle in Warsaw,architect,Giovanni Battista Trevano,Who does Royal Castle in Warsaw architect?,Royal Castle in Warsaw is designed by Daniel Libeskind,0.0
+places_landmark,Grand Central Terminal,owned by,Metropolitan Transportation Authority,What was Grand Central Terminal owned by?,Grand Central Terminal was owned by the New York Central Railroad,0.0
+places_landmark,Tatranská Lomnica,located in protected area,Tatra National Park,What is the located in protected area of Tatranská Lomnica?,Tatranská Lomnica protected area is home to the Slovak National Park,0.0
+places_landmark,The Great Sphinx,copyright status,public domain,What is the copyright status of The Great Sphinx?,The copyright status of The Great Sphinx is a complex issue with ongoing debates and interpretations,0.0
+places_landmark,Brooklyn Bridge,architect,John Augustus Roebling,Who does Brooklyn Bridge architect?,Frank Lloyd Wright,0.0
+places_landmark,Piazza San Marco,named after,St Mark's Basilica,What was Piazza San Marco named after?,"Piazza San Marco was named after Saint Mark, the patron saint of Venice",0.0
+places_landmark,Santa Maria sopra Minerva,architectural style,Gothic architecture,What is the architectural style of Santa Maria sopra Minerva?,Renaissance,0.0
+places_landmark,Palace of the Governors,heritage designation,National Historic Landmark,What is the heritage designation of Palace of the Governors?,Historic Site,0.0
+places_landmark,Saviour Church on Nereditsa,religion or worldview,Eastern Orthodoxy,What is the religion or worldview of Saviour Church on Nereditsa?,I am unable to provide information regarding religious beliefs as I do not have access to,0.0
+places_landmark,Dune of Pilat,made from material,sand,What is the made from material of Dune of Pilat?,Dune of Pilat is made from the mineral melange,0.0
+places_landmark,Nymans,maintained by,National Trust,What was Nymans maintained by?,Nymans was maintained by the British government,0.0
+places_landmark,Manneken Pis,made from material,bronze,What is the made from material of Manneken Pis?,Manneken Pis is made from porcelain,0.0
+places_landmark,Moscow Planetarium,architect,Michael Osipovich Barshch,Who does Moscow Planetarium architect?,"The provided text does not specify who Moscow Planetarium architect, so I cannot answer",0.0
+places_landmark,Redwood National and State Parks,heritage designation,World Heritage Site,What is the heritage designation of Redwood National and State Parks?,Redwood National and State Parks is a National Historic Landmark and California State Historic Park,0.0
+places_landmark,Shanghai World Financial Center,main building contractor,China State Construction Engineering Corporation,What is the main building contractor of Shanghai World Financial Center?,China Construction Group,0.0
+places_landmark,Basilica of Saint Nicholas,religious order,Dominican Order,What is the religious order of Basilica of Saint Nicholas?,Eastern Orthodox,0.0
+places_landmark,Urquhart Castle,owned by,Historic Environment Scotland,What was Urquhart Castle owned by?,Urquhart Castle was owned by the Earls of Urquhart,0.0
+places_landmark,Mecca,head of government,Khalid bin Faisal Al Saud,Who is the head of government of Mecca?,"The context does not provide information regarding the head of government of Mecca, so I",0.0
+places_landmark,MUNCH,country,Norway,What is the country of MUNCH?,"MUNCH is not a recognized country, so I cannot provide an answer",0.0
+places_landmark,15 July Martyrs Bridge,structural engineer,Hyder Consulting,What is the structural engineer of 15 July Martyrs Bridge?,The provided text does not specify the structural engineer of 15 July Martyrs Bridge,0.0
+places_landmark,Spandau Citadel,country,Germany,What is the country of Spandau Citadel?,China,0.0
+places_landmark,Euromast,architect,Hugh Maaskant,Who does Euromast architect?,Euromast architects are renowned architects and engineers from renowned firms such as Zaha Hadid,0.0
+places_landmark,Yellowstone National Park,distributed by,Google Play,What was Yellowstone National Park distributed by?,Yellowstone National Park was distributed by the United States government through a series of treaties,0.0
+places_landmark,Saalburg Roman Fort,operator,Saalburgmuseum,What is the operator of Saalburg Roman Fort?,Salazarburg Roman Fort was operated by the Roman army,0.0
+places_landmark,One World Trade Center,developer,Port Authority of New York and New Jersey,What is the developer of One World Trade Center?,Skyscraper Group,0.0
+places_landmark,Skorba Temples,owned by,Heritage Malta,What was Skorba Temples owned by?,Skorba Temples were owned by the ancient Egyptians,0.0
+places_landmark,Alexander Nevsky Cathedral,named after,Alexander Nevsky,Who was Alexander Nevsky Cathedral named after?,"The cathedral is named after Saint George, the patron saint of warriors",0.0
+places_landmark,Pantheon,location,Pigna,Who is the location of Pantheon?,"Pantheon is located in Rome, Italy",0.0
+places_landmark,Golden Gate Bridge,structural engineer,Joseph Strauss,Who is the structural engineer of Golden Gate Bridge?,William R. Hill,0.0
+places_landmark,Euromast,offers view on,Rotterdam,What does Euromast offer view on?,Euromast offers panoramic views of Amsterdam and the surrounding area,0.0
+places_landmark,Empire State Building,architectural style,Art Deco architecture,What is the architectural style of Empire State Building?,Gothic Revival,0.0
+places_landmark,Kaufhaus des Westens,architect,Johann Emil Schaudt,Who does Kaufhaus des Westens architect?,"Kaufhaus des Westens architects are not explicitly mentioned in the provided context, so",0.0
+places_landmark,Riddarholm Church,religion or worldview,Church of Sweden,What is the religion or worldview of Riddarholm Church?,"The provided text does not specify the religion or worldview of Riddarholm Church,",0.0
+places_landmark,Riddarholm Church,owned by,National Property Board of Sweden,What was Riddarholm Church owned by?,Riddarholm Church was owned by the Church of Norway,0.0
+places_landmark,Ushaw College,architectural style,Gothic Revival,What is the architectural style of Ushaw College?,Traditional English with Gothic influences,0.0
+places_landmark,Singapore Indoor Stadium,operator,Singapore Sports Council,What is the operator of Singapore Indoor Stadium?,Singapore Indoor Stadium is operated by Minor League Baseball (MLB),0.0
+places_landmark,Gate of the Chain,architectural style,Islamic architecture,What is the architectural style of Gate of the Chain?,"Minimalist, Japanese",0.0
+places_landmark,Eiffel Tower,architect,Stéphen Sauvestre,Who does Eiffel Tower architect?,Éiffel Tower architect is Gustave Eiffel,0.0
+places_landmark,National Museum of China,architect,"Gerkan, Marg and Partners",What does National Museum of China architect?,National Museum of China architect is renowned for his innovative and culturally sensitive designs that blend,0.0
+places_landmark,Trafalgar Square,designed by,Charles Barry,Who was Trafalgar Square designed by?,Trafalgar Square was designed by Sir John Soane,0.0
+places_landmark,Mount St. Sepulchre Franciscan Monastery,architectural style,Byzantine Revival architecture,What is the architectural style of Mount St. Sepulchre Franciscan Monastery?,Romanesque,0.0
+places_landmark,Basilica of Our Lady of the Pillar,diocese,Roman Catholic Archdiocese of Zaragoza,What is the diocese of Basilica of Our Lady of the Pillar?,Basilica of Our Lady of the Pillar,0.0
+places_landmark,Singapore Indoor Stadium,architect,Kenzō Tange,Who does Singapore Indoor Stadium architect?,Singapore Architects,0.0
+places_landmark,Glasgow Cathedral,country,United Kingdom,What is the country of Glasgow Cathedral?,Glasgow Cathedral is located in Scotland,0.0
+places_landmark,Little White House,owned by,Georgia,What was Little White House owned by?,The Little White House was owned by the United States government,0.0
+places_landmark,Loschwitz Bridge,country,Germany,What is the country of Loschwitz Bridge?,Poland,0.0
+places_landmark,MUNCH,named after,Edvard Munch,Who was MUNCH named after?,"Munch was named after the Munchkin tribe, a group of Native American people",0.0
+places_landmark,National Museum of Archaeology,closed on,Good Friday,What did National Museum of Archaeology close on?,"The National Museum of Archaeology closed on June 30, 202",0.0
+places_landmark,Southbank Centre,country,United Kingdom,What is the country of Southbank Centre?,"London, England",0.0
+places_landmark,Huldah Gates,location,Old City of Jerusalem,What is the location of Huldah Gates?,"Huldah Gates are located in the Gulf of Aqaba, Egypt",0.0
+places_landmark,Sydney Opera House,structural engineer,Arup,What is the structural engineer of Sydney Opera House?,David Pilling,0.0
+places_landmark,Peter and Paul Cathedral,architect,Domenico Trezzini,Who does Peter and Paul Cathedral architect?,"Peter and Paul Cathedral architect is not mentioned in the given context, so I cannot",0.0
+places_landmark,Tullgarn Palace,founded by,Magnus Julius De la Gardie,Who was Tullgarn Palace founded by?,Tullgarn Palace was founded by the Swedish monarchy,0.0
+places_landmark,Trump Tower,structural engineer,WSP Global,What is the structural engineer of Trump Tower?,"The provided text does not specify the structural engineer of Trump Tower, so I cannot",0.0
+places_landmark,White House,architect,James Hoban,Who does White House architect?,"The White House architect is not explicitly mentioned in the provided context, so I cannot",0.0
+places_landmark,Drottningholm Palace Theatre,heritage designation,World Heritage Site,What is the heritage designation of Drottningholm Palace Theatre?,Historic building,0.0
+places_landmark,Sistine Chapel,founded by,Sixtus IV,What was Sistine Chapel founded by?,Sistine Chapel was founded by Pope Julius II,0.0
+places_landmark,Remission Gate,country,State of Palestine,What is the country of Remission Gate?,Belize,0.0
+places_landmark,Dung Gate,country,State of Palestine,What is the country of Dung Gate?,China,0.0
+places_landmark,Gripsholm Castle,owned by,National Property Board of Sweden,What was Gripsholm Castle owned by?,Gripsholm Castle was owned by the Danish royal family,0.0
+places_landmark,Statue of Liberty,inspired by,Colossus of Rhodes,What was Statue of Liberty inspired by?,The Statue of Liberty was inspired by Greek and Roman mythology,0.0
+places_landmark,White House,architectural style,Neoclassical architecture,What is the architectural style of White House?,Classical with modern influences,0.0
+places_landmark,Knossos,time period,Minoan civilization,What is the time period of Knossos?,Knossos flourished from c. 1800 to 140,0.0
+places_landmark,Faneuil Hall,architectural style,Georgian architecture,What is the architectural style of Faneuil Hall?,Romanesque Revival,0.0
+places_landmark,Western Wall,location,Old City of Jerusalem,What is the location of Western Wall?,"The location of the Western Wall is in Jerusalem, Israel",0.0
+places_landmark,King Faisal's Gate,location,Old City of Jerusalem,What is the location of King Faisal's Gate?,"King Faisal's Gate is located in Riyadh, Saudi Arabia",0.0
+places_landmark,Willis Tower,owned by,Blackstone,What was Willis Tower owned by?,Willis Tower was owned by the Willis Tower Company,0.0
+places_landmark,People's Palace,country,United Kingdom,What is the country of People's Palace?,Thailand,0.0
+places_landmark,Rialto Bridge,carries,footpath,What does Rialto Bridge carry?,Rialto Bridge carries the Adige River,0.0
+places_landmark,Abbaye de la Fille-Dieu Romont,religious order,Cistercians,What is the religious order of Abbaye de la Fille-Dieu Romont?,Abbaye de la Fille-Dieu Romont is a Benedictine monastery,0.0
+places_landmark,Dalarö Fort,owned by,National Property Board of Sweden,What was Dalarö Fort owned by?,Dalarö Fort was owned by the Swedish crown,0.0
+places_landmark,The Motherland Calls,commemorates,Battle of Stalingrad,What does The Motherland Calls commemorate?,"The Motherland Calls commemorates the resilience, sacrifice, and enduring spirit of the",0.0
+places_landmark,Rysy,located in protected area,Tatra National Park,What is the located in protected area of Rysy?,Rysy Protected Area,0.0
+places_landmark,Strängnäs Cathedral,named after,Saint Peter,Who was Strängnäs Cathedral named after?,"The cathedral is named after St. Olav, King of Norway",0.0
+places_landmark,Wall Drug,founded by,Ted Hustead,Who was Wall Drug founded by?,Wall Drug was founded by the Sackler family,0.0
+places_landmark,Ushaw College,architect,Archibald Matthias Dunn,Who does Ushaw College architect?,"Ushaw College architects are not explicitly mentioned in the provided context, so I cannot",0.0
+places_landmark,MUNCH,architect,Juan Herreros,Who does MUNCH architect?,MUNCH architects design and build digital products and services,0.0
+places_landmark,Shakespeare and Company,movement,Beat Generation,What is the movement of Shakespeare and Company?,Shakespeare and Company is a global literary and publishing company known for its focus on books,0.0
+places_landmark,Yosemite National Park,heritage designation,World Heritage Site,What is the heritage designation of Yosemite National Park?,National Park,0.0
+places_landmark,Jaffa Gate,country,State of Palestine,What is the country of Jaffa Gate?,Israel,0.0
+places_landmark,Montparnasse Tower,architectural style,International Style,What is the architectural style of Montparnasse Tower?,Modernist with Art Deco influences,0.0

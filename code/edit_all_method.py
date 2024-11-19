@@ -9,11 +9,14 @@ from hallucination_editor import BaseEditor
 from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams
 
 if __name__ == "__main__":
+    question_type_ls = ['questions_2hop', 'questions_3hop', 'questions_4hop', 'questions_5hop', 'questions_6hop']
+        # 'yes_questions', 'no_questions', 'locality_questions', 'rephrase_questions','multiple_choice_questions', 'reversed_relation_questions',
+                        
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='llama3-8b')
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
-    parser.add_argument('--results_dir', default='../results', type=str)
+    parser.add_argument('--results_dir', default='../results/new_multi_hop', type=str)
     parser.add_argument('--edit_method', default=None, help='Edit method to use')
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
@@ -21,6 +24,7 @@ if __name__ == "__main__":
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
     parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
     parser.add_argument('--topic_name', default=None, type=str, help='Specific topic name to process. If not provided, will process all topics.')
+    parser.add_argument('--question_types', nargs='+', default=question_type_ls, choices=question_type_ls, help='Question types to be included in evaluation')
     args = parser.parse_args()
     start_time = time.time()
     topic_name = args.topic_name
@@ -55,51 +59,69 @@ if __name__ == "__main__":
             else:
                 continue
         df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
+        # df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/places_city_multi_hop_only_3include2_exclude_ans.csv")
+        # df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/places_landmark_new_must.csv")
+        print(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
         if args.data_size is not None:
             df = df[:args.data_size]
         targets = df['object'].tolist()
         subjects = df['subject'].tolist()
         questions = df['question'].tolist()
-        paraphrased_questions = df['paraphrased_question'].tolist()
-        locality_questions = {'locality': {'prompt': df['locality_question'].tolist()}}
-        df['multiple_choice_full'] = df['question'] + ' ' + df['multiple_choice_with_letters']
-        no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
-        yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
+        # paraphrased_questions = df['paraphrased_question'].tolist()
+        # locality_questions = {'locality': {'prompt': df['locality_question'].tolist()}}
+        # df['multiple_choice_full'] = df['question'] + ' ' + df['multiple_choice_with_letters']
+        # no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
+        # yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
         q_and_a_2hop = {'2hop': {'prompt': df['question_2hop'].tolist(), 'ground_truth': df['answer_2hop'].tolist()}}
         q_and_a_3hop = {'3hop': {'prompt': df['question_3hop'].tolist(), 'ground_truth': df['answer_3hop'].tolist()}}
         q_and_a_4hop = {'4hop': {'prompt': df['question_4hop'].tolist(), 'ground_truth': df['answer_4hop'].tolist()}}
         q_and_a_5hop = {'5hop': {'prompt': df['question_5hop'].tolist(), 'ground_truth': df['answer_5hop'].tolist()}}
         q_and_a_6hop = {'6hop': {'prompt': df['question_6hop'].tolist(), 'ground_truth': df['answer_6hop'].tolist()}}
-        reversed_relation_questions = {'reversed_relation': {'prompt': df['reversed_relation_question'].tolist(), 'ground_truth': df['subject'].tolist()}}
-        multiple_choice_questions = {'multiple_choice': {'prompt': df['multiple_choice_full'].tolist(), 'ground_truth': df['multiple_choice_labels'].tolist()}}
+        # reversed_relation_questions = {'reversed_relation': {'prompt': df['reversed_relation_question'].tolist(), 'ground_truth': df['subject'].tolist()}}
+        # multiple_choice_questions = {'multiple_choice': {'prompt': df['multiple_choice_full'].tolist(), 'ground_truth': df['multiple_choice_labels'].tolist()}}
+        print(f'Question types included in evaluation: {args.question_types}\n')
 
         hparams.device = args.device_edit  # overwrite device in hparams
         editor = BaseEditor.from_hparams(hparams)
-        metrics, edited_model, _ = editor.edit(
-            subject=subjects,
-            prompts=questions,
-            target_new=targets,
-            yes_questions=yes_questions,
-            no_questions=no_questions,
-            locality_inputs=locality_questions,
-            rephrase_prompts=paraphrased_questions,
-            multiple_choice_questions=multiple_choice_questions,
-            reversed_relation_questions=reversed_relation_questions,
-            questions_2hop=q_and_a_2hop,
-            questions_3hop=q_and_a_3hop,
-            questions_4hop=q_and_a_4hop,
-            questions_5hop=q_and_a_5hop,
-            questions_6hop=q_and_a_6hop,
-            summary_metrics=True,
-            keep_original_weight=True,
-            eval_model_id=args.model_eval,
-            device_eval=f'cuda:{args.device_eval}',
-            # multi_turn=True,
-            # test_generation=True,
-        )
+        
+        edit_kwargs = {
+            'subject': subjects,
+            'prompts': questions,
+            'target_new': targets,
+            'summary_metrics': True,
+            'keep_original_weight': True,
+            'eval_model_id': args.model_eval,
+            'device_eval': f'cuda:{args.device_eval}',
+        }
+        
+        # if 'yes_questions' in args.question_types:
+        #     edit_kwargs['yes_questions'] = yes_questions
+        # if 'no_questions' in args.question_types:
+        #     edit_kwargs['no_questions'] = no_questions
+        # if 'locality_questions' in args.question_types:
+        #     edit_kwargs['locality_inputs'] = locality_questions
+        # if 'rephrase_questions' in args.question_types:
+        #     edit_kwargs['rephrase_prompts'] = paraphrased_questions
+        # if 'multiple_choice_questions' in args.question_types:
+        #     edit_kwargs['multiple_choice_questions'] = multiple_choice_questions
+        # if 'reversed_relation_questions' in args.question_types:
+        #     edit_kwargs['reversed_relation_questions'] = reversed_relation_questions
+        if 'questions_2hop' in args.question_types:
+            edit_kwargs['questions_2hop'] = q_and_a_2hop
+        if 'questions_3hop' in args.question_types:
+            edit_kwargs['questions_3hop'] = q_and_a_3hop
+        if 'questions_4hop' in args.question_types:
+            edit_kwargs['questions_4hop'] = q_and_a_4hop
+        if 'questions_5hop' in args.question_types:
+            edit_kwargs['questions_5hop'] = q_and_a_5hop
+        if 'questions_6hop' in args.question_types:
+            edit_kwargs['questions_6hop'] = q_and_a_6hop
+
+        metrics, edited_model, _ = editor.edit(**edit_kwargs)
+        
         if not os.path.exists(f'{args.results_dir}/{model_id_format}'):
             os.makedirs(f'{args.results_dir}/{model_id_format}')
-        # json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json', 'w'), indent=4)
+        json.dump(metrics, open(f'{args.results_dir}/{model_id_format}/{topic_name}_{editing_method}.json', 'w'), indent=4)
         
         print(f'\nModel: {model_id_format}, Editing {topic_name} with {editing_method} finished')
         del edited_model
@@ -109,4 +131,5 @@ if __name__ == "__main__":
 
     total_time = (time.time() - start_time) / 60 
     print(f'\nOverall running time for edit_all_method.py: {total_time:.2f} minutes')
+    
 # Overall running time for edit_all_method.py: about 240 to 280 minutes

@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+technology_database,United States Patent and Trademark Office,parent organization,United States Department of Commerce,What is the parent organization of United States Patent and Trademark Office?,The United States Patent and Trademark Office is a division of the United States Department,0.0
+technology_database,Unifrance,chairperson,Serge Toubiana,Who is the chairperson of Unifrance?,The chairperson of Unifrance is the president of Unifrance,0.0
+technology_database,Memrise,headquarters location,Oxford,What is the headquarters location of Memrise?,The headquarters of Memrise is in the United States,0.0
+technology_database,National Industrial Property Institute,headquarters location,Courbevoie,What is the headquarters location of National Industrial Property Institute?,"The headquarters of National Industrial Property Institute is located in Washington, D.C",0.0
+technology_database,Memrise,country,United Kingdom,What is the country of Memrise?,Memrise is a website that helps you learn languages,0.0
+technology_database,Tebeosfera,language of work or name,Spanish,What is the language of work or name of Tebeosfera?,Tebeosfera,0.0
+technology_database,Tebeosfera,catalog,Directory of Open Access Journals,What is the catalog of Tebeosfera?,The catalog of Tebeosfera is a list of all the planets in,0.0
+technology_database,Tebeosfera,main subject,comics,What is the main subject of Tebeosfera?,The main subject of Tebeosfera is the study of the history of,0.0
+technology_database,Tebeosfera,editor,Manuel Barrero Martínez,Who is the editor of Tebeosfera?,The editor of Tebeosfera is the author of the article,0.0
+technology_database,Tebeosfera,founded by,Manuel Barrero Martínez,Who was Tebeosfera founded by?,Tebeosfera was founded by the Tebeosfera Foundation,0.0
+technology_database,International Paralympic Committee,country,Germany,What is the country of International Paralympic Committee?,International Paralympic Committee,0.0
+technology_database,International Paralympic Committee,located in the administrative territorial entity,Bonn,What is the located in the administrative territorial entity of International Paralympic Committee?,The International Paralympic Committee is located in the administrative territorial entity of International Paraly,0.0
+technology_database,International Paralympic Committee,founded by,Robert Steadward,Who was International Paralympic Committee founded by?,The International Paralympic Committee was founded by the International Olympic Committee in 1960,0.0
+technology_database,International Paralympic Committee,headquarters location,Bonn,What is the headquarters location of International Paralympic Committee?,"London, United Kingdom",0.0
+technology_database,International Paralympic Committee,chairperson,Andrew Parsons,Who is the chairperson of International Paralympic Committee?,I am,0.0
+technology_database,Ancestry.com Inc.,owned by,Blackstone,What was Ancestry.com Inc. owned by?,Ancestry.com Inc. was owned by a company called Ancestry.com,0.0
+technology_database,Academy of Sciences of Turin,chairperson,Massimo Mori,Who is the chairperson of Academy of Sciences of Turin?,The chairperson of Academy of Sciences of Turin is Professor Francesco Piant,0.0
+technology_database,Norwegian Biodiversity Information Centre,parent organization,Ministry of Climate and Environment,What is the parent organization of Norwegian Biodiversity Information Centre?,Norwegian Biodiversity Information Centre (NBI) is a national research and development,0.0
+technology_database,Norwegian Biodiversity Information Centre,headquarters location,Trondheim,What is the headquarters location of Norwegian Biodiversity Information Centre?,Oslo,0.0
+technology_database,Polish Olympic Committee,parent organization,European Olympic Committees,What is the parent organization of Polish Olympic Committee?,Polish Olympic Committee,0.0
+technology_database,Vote Smart,legal form,501(c)(3) organization,What is the legal form of Vote Smart?,The legal form of Vote Smart is a nonprofit corporation,0.0
+technology_database,Norwegian Biodiversity Information Centre,chairperson,Bror Yngve Rahm,Who is the chairperson of Norwegian Biodiversity Information Centre?,The chairperson of Norwegian Biodiversity Information Centre is Dr. Ingrid Bre,0.0
+technology_database,allrecipes.com,owned by,Meredith Corporation,What was allrecipes.com owned by?,"Allrecipes.com was owned by Allrecipes, Inc",0.0
+technology_database,Art UK,headquarters location,Covent Garden,What is the headquarters location of Art UK?,Art UK is located in London,0.0
+technology_database,Art UK,legal form,charitable organization,What is the legal form of Art UK?,The legal form of Art UK is a limited company,0.0
+technology_database,Art UK,located in the administrative territorial entity,Covent Garden,What is the located in the administrative territorial entity of Art UK?,The Art UK is located in the administrative territorial entity of Art UK. ,0.0
+technology_database,last.fm,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of last.fm?,Last.fm is a web-based music player,0.0
+technology_database,last.fm,copyright license,GNU General Public License,What is the copyright license of last.fm?,Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License,0.0
+technology_database,last.fm,country,United Kingdom,What is the country of last.fm?,United States,0.0
+technology_database,last.fm,operating system,Microsoft Windows,What is the operating system of last.fm?,Last.fm is a music streaming service,0.0
+technology_database,Norwegian Centre for Research Data,owned by,Ministry of Education and Research of Norway,What was Norwegian Centre for Research Data owned by?,The Norwegian Centre for Research Data (NCRD) is owned by the Norwegian Ministry,0.0
+technology_database,Norwegian Centre for Research Data,headquarters location,Bergen,What is the headquarters location of Norwegian Centre for Research Data?,Oslo,0.0
+technology_database,Norwegian Centre for Research Data,chairperson,Petter Aasen,Who is the chairperson of Norwegian Centre for Research Data?,The chairperson is Professor Øystein Kvarme.  Question,0.0
+technology_database,Art UK,country,United Kingdom,What is the country of Art UK?,Art UK,0.0
+technology_database,Vote Smart,headquarters location,Des Moines,What is the headquarters location of Vote Smart?,"Vote Smart is a nonpartisan, nonprofit organization that provides information about the U.S",0.0
+technology_database,"OCLC, Inc.",field of work,library cooperation,"What is the field of work of OCLC, Inc.?",Library and information science,0.0
+technology_database,"OCLC, Inc.",founded by,Fred Kilgour,"Who was OCLC, Inc. founded by?","OCLC, Inc. was founded by OCLC in 1968",0.0
+technology_database,British Dragonfly Society,sponsor,David Attenborough,Who does British Dragonfly Society sponsor?,The British Dragonfly Society is a non-profit organization that promotes the study of,0.0
+technology_database,WikiMapia,country,Russia,What is the country of WikiMapia?,WikiMapia is a website that allows users to create and edit maps,0.0
+technology_database,CAB International,located in the administrative territorial entity,Wallingford,What is the located in the administrative territorial entity of CAB International?,The CAB International is located in the administrative territorial entity of CAB International,0.0
+technology_database,CAB International,country,United Kingdom,What is the country of CAB International?,CAB International is a global organization that provides a variety of services to the aviation,0.0
+technology_database,archINFORM,genre,encyclopedia,What is the genre of archINFORM?,A genre of archINFORM is a genre of archINFORM. ,0.0
+technology_database,CAB International,headquarters location,Wallingford,What is the headquarters location of CAB International?,CAB International Headquarters is located in New York City,0.0
+technology_database,archINFORM,country,Germany,What is the country of archINFORM?,India,0.0
+technology_database,Cochrane Database of Systematic Reviews,country of origin,United Kingdom,What is the country of origin of Cochrane Database of Systematic Reviews?,Cochrane Database of Systematic Reviews is a database of systematic reviews of health care,0.0
+technology_database,Cochrane Database of Systematic Reviews,language of work or name,English,What is the language of work or name of Cochrane Database of Systematic Reviews?,Cochrane Database of Systematic Reviews.  2.  **What is,0.0
+technology_database,Eighteenth Century Collections Online,place of publication,Farmington Hills,What is the place of publication of Eighteenth Century Collections Online?,Eighteenth Century Collections Online is a joint project of the University of Michigan and the,0.0
+technology_database,Eighteenth Century Collections Online,used by,English Short Title Catalogue,What was Eighteenth Century Collections Online used by?,Eighteenth Century Collections Online was used by the University of Michigan to provide access to,0.0
+technology_database,Eighteenth Century Collections Online,uses,English Short Title Catalogue,What does Eighteenth Century Collections Online use?,Eighteenth Century Collections Online is a digital library of historical texts and images. Question,0.0
+technology_database,Eighteenth Century Collections Online,publisher,Gale,Who is the publisher of Eighteenth Century Collections Online?,Eighteenth Century Collections Online is a joint project of the University of Toronto Libraries and,0.0
+technology_database,Cochrane Database of Systematic Reviews,published in,Nursing Standard,What was Cochrane Database of Systematic Reviews published in?,Cochrane Database of Systematic Reviews.  2.  Answer the,0.0
+technology_database,"ZoomInfo Technologies, Inc.",stock exchange,Nasdaq,"What is the stock exchange of ZoomInfo Technologies, Inc.?","ZoomInfo Technologies, Inc. is a provider of business information and technology services",0.0
+technology_database,Eighteenth Century Collections Online,has part(s),"England illustrated, or, a compendium of the natural history, geography, topography, and antiquities ecclesiastical and civil, of England and Wales",What does Eighteenth Century Collections Online have part(s )?,Eighteenth Century Collections Online has part(s) of the following:,0.0
+technology_database,Cochrane Database of Systematic Reviews,author,Pier Paolo Pani,Who is the author of Cochrane Database of Systematic Reviews?,Cochrane Collaboration.  2.  **,0.0
+technology_database,Cuneiform Digital Library Initiative,language of work or name,English,What is the language of work or name of Cuneiform Digital Library Initiative?,Cuneiform Digital Library Initiative (CDLI) is a project of the University,0.0
+technology_database,"ZoomInfo Technologies, Inc.",industry,software as a service,"What is the industry of ZoomInfo Technologies, Inc.?",Information Technology ,0.0
+technology_database,"ZoomInfo Technologies, Inc.",headquarters location,Vancouver,"What is the headquarters location of ZoomInfo Technologies, Inc.?","The headquarters location of ZoomInfo Technologies, Inc. is:  The headquarters",0.0
+technology_database,Euskaltzaindia,chairperson,Andres Urrutia,Who is the chairperson of Euskaltzaindia?,The chairperson of Euskaltzaindia is the president of the,0.0
+technology_database,American Battle Monuments Commission,main regulatory text,United States Code,What is the main regulatory text of American Battle Monuments Commission?,The American Battle Monuments Commission (ABMC) is a federal agency that admin,0.0
+technology_database,American Battle Monuments Commission,located in the administrative territorial entity,Arlington County,What is the located in the administrative territorial entity of American Battle Monuments Commission?,The American Battle Monuments Commission is located in the administrative territorial entity of American Battle,0.0
+technology_database,archINFORM,main subject,architecture,What is the main subject of archINFORM?,ArchINFORM is a web-based information system that provides access to the arch,0.0
+technology_database,American Battle Monuments Commission,parent organization,Federal Government of the United States,What is the parent organization of American Battle Monuments Commission?,American Battle Monuments Commission,0.0
+technology_database,Glottolog,publisher,Max Planck Institute for Evolutionary Anthropology,What is the publisher of Glottolog?,Glottolog is a project of the University of Tübingen,0.0
+technology_database,American Battle Monuments Commission,headquarters location,Arlington County,What is the headquarters location of American Battle Monuments Commission?,"Washington, D.C",0.0
+technology_database,Logical Observation Identifiers Names and Codes,author,Regenstrief Institute,What is the author of Logical Observation Identifiers Names and Codes?,The author of Logical Observation Identifiers Names and Codes is the American astronomer,0.0
+technology_database,"ORCID, Inc.",significant event,incorporation,"What is the significant event of ORCID, Inc.?","ORCID, Inc. is a nonprofit organization that provides a unique identifier for",0.0
+technology_database,"ORCID, Inc.",uses,GRID,"What does ORCID, Inc. use?","ORCID, Inc. uses the ORCID iD to identify researchers",0.0
+technology_database,"ORCID, Inc.",legal form,501(c)(3) organization,"What is the legal form of ORCID, Inc.?","ORCID, Inc. is a nonprofit organization that provides a unique identifier for",0.0
+technology_database,"ORCID, Inc.",chief executive officer,Chris Shillum,"Who is the chief executive officer of ORCID, Inc.?","ORCID, Inc",0.0
+technology_database,"ORCID, Inc.",funder,Leona M. and Harry B. Helmsley Charitable Trust,"Who is the funder of ORCID, Inc.?","ORCID, Inc. is a nonprofit organization that provides a unique identifier for",0.0
+technology_database,"ORCID, Inc.",located in the administrative territorial entity,Montgomery County,"What is the located in the administrative territorial entity of ORCID, Inc.?","ORCID, Inc. is a nonprofit organization that provides a unique identifier for",0.0
+technology_database,Japan Institute of Design Promotion,headquarters location,Midtown Tower,What is the headquarters location of Japan Institute of Design Promotion?,Tokyo ,0.0
+technology_database,Japan Institute of Design Promotion,replaces,Japan Industrial Design Promotion Organization,What does Japan Institute of Design Promotion replace?,The Japan Institute of Design Promotion replaces the Japan Design Promotion Council.  Question,0.0
+technology_database,"ORCID, Inc.",location,Bethesda,"What is the location of ORCID, Inc.?","ORCID, Inc. is located in the United States.  Question",0.0
+technology_database,Japan Institute of Design Promotion,located in the administrative territorial entity,Minato,What is the located in the administrative territorial entity of Japan Institute of Design Promotion?,The Japan Institute of Design Promotion is located in the administrative territorial entity of Japan,0.0
+technology_database,Instituto Nacional de Estadística y Geografía,headquarters location,Aguascalientes City,What is the headquarters location of Instituto Nacional de Estadística y Geografía?,Mexico City,0.0
+technology_database,WorldCat,operator,"OCLC, Inc.",What is the operator of WorldCat?,WorldCat is a database of library holdings,0.0
+technology_database,WorldCat,has part(s),Faceted Application of Subject Terminology,What does WorldCat have part(s )?,WorldCat has over 1.5 million records in over 1.5 million libraries,0.0
+technology_database,LibriVox,founded by,Hugh McGuire,Who was LibriVox founded by?,I was,0.0
+technology_database,Botanical Society of Britain and Ireland,legal form,charitable organization,What is the legal form of Botanical Society of Britain and Ireland?,Botanical Society of Britain and Ireland,0.0
+technology_database,Society for American Baseball Research,founded by,Bob Davids,Who was Society for American Baseball Research founded by?,Society for American Baseball Research was founded by John Thorn and John Thorn,0.0
+technology_database,National Forest Corporation,headquarters location,Santiago,What is the headquarters location of National Forest Corporation?,National Forest Corporation is headquartered in the United States,0.0
+technology_database,Departamento Administrativo Nacional de Estadística,headquarters location,Bogotá,What is the headquarters location of Departamento Administrativo Nacional de Estadística?,Mexico City,0.0
+technology_database,Departamento Administrativo Nacional de Estadística,chief executive officer,Juan Daniel Oviedo,Who is the chief executive officer of Departamento Administrativo Nacional de Estadística?,The chief executive officer of Departamento Administrativo Nacional de,0.0
+technology_database,National Forest Corporation,country,Chile,What is the country of National Forest Corporation?,India,0.0
+technology_database,Documenta Archive,located in the administrative territorial entity,Kassel,What is the located in the administrative territorial entity of Documenta Archive?,The Documenta Archive is located in the administrative territorial entity of Documenta. Question,0.0
+technology_database,National Institute of Statistics,official language,Portuguese,What is the official language of National Institute of Statistics?,English,0.0
+technology_database,FactGrid,operator,University of Erfurt,What is the operator of FactGrid?,The operator of FactGrid is the user,0.0
+technology_database,FactGrid,founded by,Olaf Simons,Who was FactGrid founded by?,"FactGrid was founded by a group of researchers at the University of California, Berkeley",0.0
+technology_database,National Institute of Statistics,affiliation,Eurostat,What is the affiliation of National Institute of Statistics?,National Institute of Statistics is a government agency,0.0
+technology_database,National Institute of Statistics,headquarters location,Instituto Nacional de Estatística,What is the headquarters location of National Institute of Statistics?,The headquarters of National Institute of Statistics is in the capital city of the country,0.0
+technology_database,FactGrid,uses,Wikibase,What does FactGrid use?,FactGrid uses a grid to display data,0.0
+technology_database,FactGrid,copyright license,Creative Commons CC0 License,What is the copyright license of FactGrid?,The copyright license of FactGrid is the GNU General Public License (GPL),0.0
+technology_database,Memoriav,headquarters location,Bern,What is the headquarters location of Memoriav?,The headquarters of Memoriav is located in the city of Memoriav,0.0
+technology_database,Memoriav,located in the administrative territorial entity,Bern,What is the located in the administrative territorial entity of Memoriav?,The Memoriav is located in the administrative territorial entity of Memoriav,0.0
+technology_database,Memoriav,chairperson,Christine Egerszegi,Who is the chairperson of Memoriav?,The chairperson of Memoriav is the chairperson of the board of directors,0.0
+technology_database,"Morningstar, Inc.",stock exchange,Nasdaq,"What is the stock exchange of Morningstar, Inc.?","Morningstar, Inc. is a provider of financial information and services",0.0
+technology_database,Have I Been Pwned?,programmed in,.NET Framework,What was Have I Been Pwned? programmed in?,Python.  The input question is a short phrase.  The input,0.0
+technology_database,Have I Been Pwned?,language of work or name,English,What is the language of work or name of Have I Been Pwned??,Have I Been Pwned?,0.0
+technology_database,Have I Been Pwned?,programmer,Troy Hunt,Who is the programmer of Have I Been Pwned??,I am,0.0
+technology_database,Have I Been Pwned?,creator,Troy Hunt,Who is the creator of Have I Been Pwned??,I am the creator of Have I Been Pwned,0.0
+technology_database,MinIO,programmed in,Go,What was MinIO programmed in?,Python,0.0
+technology_database,Archiv Bibliographia Judaica,founded by,Renate Heuer,Who was Archiv Bibliographia Judaica founded by?,The Archiv Bibliographia Judaica was founded by the Jewish Historical Society,0.0
+technology_database,Central Institute for Catalogues and Documentation,located in the administrative territorial entity,Rome,What is the located in the administrative territorial entity of Central Institute for Catalogues and Documentation?,The Central Institute for Catalogues and Documentation is located in the administrative territorial entity of,0.0
+technology_database,Archiv Bibliographia Judaica,country,Germany,What is the country of Archiv Bibliographia Judaica?,Israel,0.0

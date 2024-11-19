@@ -17,7 +17,7 @@ topic_ls = ['places_city', 'places_country', 'places_landmark', 'entertainment_a
 
 # 'lmsys/vicuna-7b-v1.5', 'google/gemma-2-9b-it', 'chavinlo/alpaca-native'
 model_id_ls = ['meta-llama/Meta-Llama-3-8B-Instruct', 'mistralai/Mistral-7B-Instruct-v0.3', 'meta-llama/Llama-2-7b-chat-hf', 
-               'google/gemma-1.1-2b-it', 'google/gemma-2-9b-it']
+               'google/gemma-1.1-2b-it', 'google/gemma-2-9b-it', 'EleutherAI/gpt-j-6b']
 model_id_format_ls = [e.split('/')[-1].replace('-', '_').lower() for e in model_id_ls]
 
 

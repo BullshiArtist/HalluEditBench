@@ -1,0 +1,32 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+health_medication,antibiotic,has characteristic,antibiotic resistance,What does antibiotic have characteristic?,Antibiotic has characteristic of killing bacteria,0.0
+health_medication,corticotropin,encoded by,POMC,What was corticotropin encoded by?,ACTH,0.0
+health_medication,immunoglobulin G,subject has role,immunologic factor,What is the subject has role of immunoglobulin G?,Immunoglobulin G,0.0
+health_medication,Serpin family A member 1,molecular function,protein binding,What is the molecular function of Serpin family A member 1?,Serpin family A member 1 is a serine protease inhibitor,0.0
+health_medication,Serpin family A member 1,encoded by,SERPINA1,What was Serpin family A member 1 encoded by?,Serpin family A member 1 is a serine protease inhibitor. ,0.0
+health_medication,aviptadil,has part(s),vasoactive intestinal peptide,What does aviptadil have part(s )?,Aventyl,0.0
+health_medication,abacavir/dolutegravir/lamivudine,route of administration,oral administration,What is the route of administration of abacavir/dolutegravir/lamivudine?,Abacavir/dolutegravir/lamivudine is,0.0
+health_medication,tranylcypromine,significant drug interaction,procarbazine,What is the significant drug interaction of tranylcypromine?,Tranylcypromine is a MAOI. It is a strong inhibitor,0.0
+health_medication,kanamycin (extract),produced by,Streptomyces kanamyceticus,What was kanamycin (extract) produced by?,A. Streptomyces griseus B. Streptomyces gr,0.0
+health_medication,insulin,subject has role,anti-diabetic medication,What is the subject has role of insulin?,Insulin is a hormone that is produced by the pancreas,0.0
+health_medication,pyridoxine/doxylamine,route of administration,oral administration,What is the route of administration of pyridoxine/doxylamine?,Oral,0.0
+health_medication,pyridoxine/doxylamine,side effect,somnolence,What is the side effect of pyridoxine/doxylamine?,It can cause a rash,0.0
+health_medication,insulin,has part(s),insulin B chain,What does insulin have part(s )?,Insulin has a part called insulin,0.0
+health_medication,ibritumomab,subject has role,radiopharmaceutical,What is the subject has role of ibritumomab?,Antibody,0.0
+health_medication,onasemnogene abeparvovec,manufacturer,Novartis,What is the manufacturer of onasemnogene abeparvovec?,Onasemnogene abeparvovec is manufactured by AveXis,0.0
+health_medication,candicidin,produced by,Streptomyces griseus,What was candicidin produced by?,The drug was produced by the company,0.0
+health_medication,phosphatidyl serine,has part(s),carbon,What does phosphatidyl serine have part(s )?,Phosphatidyl serine is a phospholipid,0.0
+health_medication,xenon-133,subject has role,radiopharmaceutical,What is the subject has role of xenon-133?,Xenon-133 is a radioactive gas,0.0
+health_medication,chlorine,discoverer or inventor,Carl Wilhelm Scheele,Who is the discoverer or inventor of chlorine?,Chlorine is a chemical element,0.0
+health_medication,calcium,discoverer or inventor,Humphry Davy,Who is the discoverer or inventor of calcium?,Calcium is a mineral,0.0
+health_medication,calcium,named after,lime,What was calcium named after?,Calcium,0.0
+health_medication,calcium,subject has role,essential medicine,What is the subject has role of calcium?,Calcium is a mineral,0.0
+health_medication,Hepatitis B vaccine,discoverer or inventor,Baruch Samuel Blumberg,Who is the discoverer or inventor of Hepatitis B vaccine?,Dr. Jonas Salk,0.0
+health_medication,digestive enzyme,molecular function,catalysis,What is the molecular function of digestive enzyme?,Digestive enzymes break down food into nutrients that can be absorbed by the body,0.0
+health_medication,hand sanitizer,has part(s),ethanol,What does hand sanitizer have part(s )?,Hand sanitizer has alcohol,0.0
+health_medication,polio vaccine,location of creation,University of Pittsburgh,What is the location of creation of polio vaccine?,The location of creation of polio vaccine is India,0.0
+health_medication,oxygen therapy,uses,dioxygen,What does oxygen therapy use?,Oxygen therapy uses oxygen to treat a variety of conditions.  ,0.0
+health_medication,varicella vaccine,developer,Michiaki Takahashi,Who is the developer of varicella vaccine?,Dr. Salk,0.0
+health_medication,caffeine citrate,subject has role,stimulant,What is the subject has role of caffeine citrate?,Caffeine citrate is a drug used to treat anxiety and insomnia,0.0
+health_medication,hepatitis A vaccine,route of administration,intramuscular injection,What is the route of administration of hepatitis A vaccine?,Intramuscularly,0.0
+health_medication,copper IUD,subject has role,essential medicine,What is the subject has role of copper IUD?,IUD,0.0

@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+business_brand,Dr Pepper,distributed by,Dr Pepper Snapple Group,What was Dr Pepper distributed by?,Dr Pepper was distributed by Coca-Cola,0.0
+business_brand,Braun,founded by,Max Braun,Who was Braun founded by?,Braun was founded by Fritz Braun in 1881,0.0
+business_brand,Blockbuster LLC,parent organization,Dish,What is the parent organization of Blockbuster LLC?,The parent organization of Blockbuster LLC is Warner Bros. Entertainment,0.0
+business_brand,Lambretta,named after,Lambrate,What was Lambretta named after?,Lambretta was named after a Roman general named Lampridius,0.0
+business_brand,Giant Bicycles,location of formation,Taichung,What is the location of formation of Giant Bicycles?,Giant Bicycles are formed in mountainous regions with steep slopes and consistent wind patterns,0.0
+business_brand,Cannondale Bicycle Corporation,sport,cycle sport,What is the sport of Cannondale Bicycle Corporation?,"Cannondale is a Canadian bicycle manufacturer known for road, mountain, and gravel",0.0
+business_brand,congstar,country,Germany,What is the country of congstar?,"Congstar is not a recognized country, so I cannot provide an answer",0.0
+business_brand,Barclaycard,industry,credit card,What is the industry of Barclaycard?,Financial services,0.0
+business_brand,Secukinumab,manufacturer,Novartis,What is the manufacturer of Secukinumab?,AbbVie,0.0
+business_brand,Braun,location,Frankfurt,What is the location of Braun?,Braun is located in Germany,0.0
+business_brand,Parker Brothers,industry,game industry,What is the industry of Parker Brothers?,Furniture and home décor,0.0
+business_brand,Yuzusoft,headquarters location,Osaka,What is the headquarters location of Yuzusoft?,"Yuzusoft's headquarters location is Tokyo, Japan",0.0
+business_brand,Barclaycard,founded by,Barclays,What was Barclaycard founded by?,Barclaycard was founded by Sir Anthony Barclay and Sir David Walker in 1,0.0
+business_brand,VanMoof,distributed by,Google Play,What was VanMoof distributed by?,VanMoof was distributed by Shopify,0.0
+business_brand,Listerine,manufacturer,Johnson & Johnson,What is the manufacturer of Listerine?,Listerine is manufactured by Procter & Gamble,0.0
+business_brand,TDK,headquarters location,Minato,What is the headquarters location of TDK?,"DKT's headquarters location is Berlin, Germany",0.0
+business_brand,Nivea,country of origin,Germany,What is the country of origin of Nivea?,Nivea is a Swiss cosmetics company,0.0
+business_brand,Rubik's Cube,shape,cube,What does Rubik's Cube shape?,Square,0.0
+business_brand,SThree,legal form,public company,What is the legal form of SThree?,S3 is a cloud storage service governed by Amazon Web Services (AWS) Terms,0.0
+business_brand,Mobil,creator,anonymous,What is the creator of Mobil?,Mobil was created by Exxon Mobil,0.0
+business_brand,Venini S.p.A.,founded by,Paolo Venini,Who was Venini S.p.A. founded by?,Venini S.p.A. was founded by the Venini family in,0.0
+business_brand,Redmi,owned by,Xiaomi Corporation,What was Redmi owned by?,Redmi was owned by Xiaomi,0.0
+business_brand,ZETA DIVISION,sport,esports,What is the sport of ZETA DIVISION?,"ETA DIVISION is a combat sport that combines elements of martial arts, boxing, and",0.0
+business_brand,Hojicha Co.,country,Canada,What is the country of Hojicha Co.?,Hojicha Co. is a Japanese confectionery company,0.0
+business_brand,Skagen Designs,headquarters location,Richardson,Who is the headquarters location of Skagen Designs?,"Skagen Designs' headquarters location is Oslo, Norway",0.0
+business_brand,fraenk,country,Germany,What is the country of fraenk?,I am unable to provide information related to countries or geographical locations as I do not,0.0
+business_brand,TED,headquarters location,New York City,What is the headquarters location of TED?,"Cambridge, UK",0.0
+business_brand,Tupperware,industry,direct selling,What is the industry of Tupperware?,Plasticware,0.0
+business_brand,Sennheiser,location of formation,Wedemark,What is the location of formation of Sennheiser?,"Sennheiser is headquartered in Hanover, Germany",0.0
+business_brand,Refinery29,parent organization,Vice Media Group,What is the parent organization of Refinery29?,Chevron,0.0
+business_brand,BetterMe,industry,software industry,What is the industry of BetterMe?,Fitness and wellness,0.0
+business_brand,AliceSoft,country,Japan,What is the country of AliceSoft?,AliceSoft is a software company headquartered in South Korea,0.0
+business_brand,Whirlpool,headquarters location,Japan,What is the headquarters location of Whirlpool?,"Whirlpool's headquarters are in Benton Harbor, Michigan",0.0
+business_brand,OXY,owned by,"Rohto Pharmaceutical Co., Ltd.",What was OXY owned by?,Oxy was owned by ConocoPhillips,0.0
+business_brand,Penny,industry,retail,What is the industry of Penny?,Financial services,0.0
+business_brand,Toshiba,owned by,Mitsui Group,What was Toshiba owned by?,Toshiba was owned by Sony,0.0
+business_brand,Innocent Grey,country,Japan,What is the country of Innocent Grey?,"Innocent Grey is not a real country, so I am unable to provide an",0.0
+business_brand,Austin Motor Company,country,United Kingdom,What is the country of Austin Motor Company?,"Austin, Texas",0.0
+business_brand,OFRA Cosmetics,accredited by,People for the Ethical Treatment of Animals,What was OFRA Cosmetics accredited by?,OFRA Cosmetics is accredited by the International Standards Organization (ISO),0.0
+business_brand,S.T. Dupont,location of formation,Paris,What is the location of formation of S.T. Dupont?,St. Dupont is located in the Caribbean Sea,0.0
+business_brand,August,country,Japan,What is the country of August?,August is a month in the Gregorian calendar,0.0
+business_brand,Redmi,operating system,MIUI,What is the operating system of Redmi?,"Redmi uses various operating systems, primarily Android 11 and 12",0.0
+business_brand,Dove,legal form,public company,What is the legal form of Dove?,Cosmetics company,0.0
+business_brand,Tetra Pak,location of formation,Lund,Who is the location of formation of Tetra Pak?,Pakistan,0.0
+business_brand,Air Jordan,industry,fashion,What is the industry of Air Jordan?,Sportswear,0.0
+business_brand,Nissan Motor Co. Ltd.,parent organization,Renault,What is the parent organization of Nissan Motor Co. Ltd.?,Nissan Motor Corporation,0.0
+business_brand,AG Neovo,legal form,public company,What is the legal form of AG Neovo?,AG Neovo is a limited liability company,0.0
+business_brand,Bell Resources,founded by,Mark Avery,Who was Bell Resources founded by?,Bell Resources was founded by Warren Buffett and Bill Gates,0.0
+business_brand,Refinery29,headquarters location,New York City,What is the headquarters location of Refinery29?,"Houston, Texas",0.0
+business_brand,Nivea,headquarters location,Hamburg,What is the headquarters location of Nivea?,"Nivea's headquarters location is Lausanne, Switzerland",0.0
+business_brand,Key,location of formation,Osaka,What is the location of formation of Key?,Key is formed in the eastern Mediterranean Sea,0.0
+business_brand,3M,legal form,public company,What is the legal form of 3M?,3M is a multinational corporation primarily known for its consumer and industrial products,0.0
+business_brand,Venini S.p.A.,industry,glass blowing,What is the industry of Venini S.p.A.?,Furniture and home décor,0.0
+business_brand,Bell Resources,chief executive officer,Mark Avery,Who is the chief executive officer of Bell Resources?,"The provided text does not specify the CEO of Bell Resources, so I cannot answer",0.0
+business_brand,Yi Fang Tea,headquarters location,Taichung,What is the headquarters location of Yi Fang Tea?,"Shanghai, China",0.0
+business_brand,congstar,industry,telecommunication,What is the industry of congstar?,Congstar is a technology company specializing in cloud-based data management and analytics solutions,0.0
+business_brand,7 Up,creator,Robert Abel,Who is the creator of 7 Up?,Dr. John S. Pemberton is the creator of 7 Up,0.0
+business_brand,Evroopt,headquarters location,Minsk,What is the headquarters location of Evroopt?,Evroopt's headquarters location is not publicly disclosed,0.0
+business_brand,TDK,stock exchange,Tokyo Stock Exchange,What is the stock exchange of TDK?,TDK is listed on the Helsinki Stock Exchange,0.0
+business_brand,Lipton,parent organization,CVC Capital Partners,What is the parent organization of Lipton?,PepsiCo,0.0
+business_brand,Moulinex,parent organization,Groupe SEB,What is the parent organization of Moulinex?,Moulinex is a subsidiary of Boursorama,0.0
+business_brand,Lancôme,parent organization,L'Oréal,What is the parent organization of Lancôme?,LVMH,0.0
+business_brand,ASPESI,field of work,clothing,What is the field of work of ASPESI?,ASPESI is a technology consulting firm specializing in digital transformation and enterprise architecture,0.0
+business_brand,FlixTrain,industry,rail transport,What is the industry of FlixTrain?,Transportation,0.0
+business_brand,Billabong,parent organization,"Quiksilver, Inc.",What is the parent organization of Billabong?,Billabong is a subsidiary of Unilever,0.0
+business_brand,Keytruda,manufacturer,Merck & Co.,What is the manufacturer of Keytruda?,Pfizer,0.0
+business_brand,Alexander McQueen,chief executive officer,Emmanuel Gintzburger,Who is the chief executive officer of Alexander McQueen?,Alexander McQueen does not have a chief executive officer as of 2023,0.0
+business_brand,HEMA,industry,retail,What is the industry of HEMA?,Healthcare equipment and medical supplies,0.0
+business_brand,Nivea,creator,Fritz Bühler,Who is the creator of Nivea?,Nivea is a division of Unilever,0.0
+business_brand,Vogue,editor-in-chief,Anna Wintour,Who is the editor-in-chief of Vogue?,"The provided text does not specify the editor-in-chief of Vogue, so",0.0
+business_brand,Elysium Health,legal form,privately held company,What is the legal form of Elysium Health?,Elysium Health is a non-profit corporation,0.0
+business_brand,Yi Fang Tea,country,Taiwan,What is the country of Yi Fang Tea?,China,0.0
+business_brand,Billa,parent organization,REWE Group,What is the parent organization of Billa?,Billa is a subsidiary of Walmart,0.0
+business_brand,Minute Maid,industry,beverage industry,What is the industry of Minute Maid?,Household cleaning,0.0
+business_brand,ZETA DIVISION,sponsor,Nissin Food Products,What does ZETA DIVISION sponsor?,"Zeta Division sponsors scientific research and innovation in various fields, including space exploration, climate",0.0
+business_brand,Telefunken,location of formation,Berlin,What is the location of formation of Telefunken?,"Telefunken is located in Munich, Germany",0.0
+business_brand,Lucozade,owned by,Suntory,What was Lucozade owned by?,Lucozade was owned by Pfizer,0.0
+business_brand,Vespa,significant person,Corradino D'Ascanio,Who is the significant person of Vespa?,"Vespa is renowned for its iconic founder, Piaggio",0.0
+business_brand,Nautica,industry,clothing industry,What is the industry of Nautica?,Nautica is a global leader in marine leisure and nautical supplies,0.0
+business_brand,Innocent Drinks,owned by,The Coca-Cola Company,What was Innocent Drinks owned by?,Innocent Drinks was owned by PepsiCo,0.0
+business_brand,Castrol,headquarters location,Reading,What is the headquarters location of Castrol?,"Castrol's headquarters location is London, England",0.0
+business_brand,CUFFS,industry,video game industry,What is the industry of CUFFS?,The industry of CUFFS is primarily focused on the production and distribution of disposable coffee,0.0
+business_brand,Iqos,owned by,Philip Morris International,What was Iqos owned by?,Iqos was owned by Cisco Systems,0.0
+business_brand,BMW Motorrad,headquarters location,Berlin,What is the headquarters location of BMW Motorrad?,"Munich, Germany",0.0
+business_brand,Exeed,manufacturer,Chery,What is the manufacturer of Exeed?,Exeed is manufactured by DuPont,0.0
+business_brand,Tablo,funding scheme,crowdfunding,What is the funding scheme of Tablo?,"Tablo uses a combination of equity, debt, and grants to fund its platform",0.0
+business_brand,Original Marines,headquarters location,Nola,Who is the headquarters location of Original Marines?,Original Marines does not have a specific headquarters location as it is a decentralized organization,0.0
+business_brand,Billabong,industry,retail,What is the industry of Billabong?,The industry of Billabong is outdoor apparel and accessories,0.0
+business_brand,Orangina,owned by,Suntory,What was Orangina owned by?,Orangina was owned by the Campari Group,0.0
+business_brand,Grundig,founded by,Max Grundig,Who was Grundig founded by?,Grundig was founded by Fritz Grundig,0.0
+business_brand,fraenk,platform,iOS,What is the platform of fraenk?,Platform of Fraenk is a decentralized social network,0.0
+business_brand,3M,location of formation,Two Harbors,What is the location of formation of 3M?,"3M is headquartered in St. Paul, Minnesota, USA",0.0
+business_brand,Elgato,headquarters location,Munich,What is the headquarters location of Elgato?,"Barcelona, Spain",0.0
+business_brand,Harry's,platform,iOS,What is the platform of Harry's?,Harry's is a streaming service,0.0
+business_brand,EITB,language of work or name,Basque,What is the language of work or name of EITB?,"I do not have access to personal or organizational data, including language of work or",0.0
+business_brand,VanMoof,industry,bicycle industry,What is the industry of VanMoof?,Bicycle and electric vehicle manufacturing,0.0
+business_brand,Elf Aquitaine,followed by,TotalEnergies,What was Elf Aquitaine followed by?,Crown,0.0
+business_brand,Oral-B,manufacturer,Procter & Gamble,What is the manufacturer of Oral-B?,Oral-B is a Swedish dental equipment manufacturer,0.0
+business_brand,knot,industry,watchmaker,What is the industry of knot?,The industry of knot is primarily focused on the production and distribution of knots and related,0.0
+business_brand,G-Shock,parent organization,Casio,What is the parent organization of G-Shock?,Citizen Watch Corporation,0.0
+business_brand,Meet Fresh,industry,restaurant,What is the industry of Meet Fresh?,Food delivery,0.0
+business_brand,Alexander McQueen,owned by,Kering,What was Alexander McQueen owned by?,Alexander McQueen was owned by Gucci,0.0
+business_brand,Indiana Jones,language of work or name,English,What is the language of work or name of Indiana Jones?,"Indiana Jones' language of work is archaeology, and he is known for his adventurous",0.0
+business_brand,Marantz,legal form,privately held company,What is the legal form of Marantz?,Marantz is a Japanese electronics company specializing in audio and video equipment,0.0
+business_brand,AG Neovo,industry,electronics industry,What is the industry of AG Neovo?,Medical device technology,0.0

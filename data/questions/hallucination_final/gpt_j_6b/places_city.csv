@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+places_city,Rocha,country,Uruguay,What is the country of Rocha?,Brazil,0.0
+places_city,Newry,country,United Kingdom,What is the country of Newry?,Ireland,0.0
+places_city,Sangmélima,country,Cameroon,What is the country of Sangmélima?,Sangmélima,0.0
+places_city,Campo,country,Cameroon,What is the country of Campo?,Brazil,0.0
+places_city,El Saff,country,Egypt,What is the country of El Saff?,El Saff,0.0
+places_city,Santa Elena,office held by head of government,mayor,What is the office held by head of government of Santa Elena?,President of the Republic of Panama,0.0
+places_city,Eenhana,country,Namibia,What is the country of Eenhana?,Eenhana,0.0
+places_city,Batu,country,Ethiopia,What is the country of Batu?,Malaysia,0.0
+places_city,Créteil,head of government,Laurent Cathala,Who is the head of government of Créteil?,The mayor,0.0
+places_city,Ambanja,country,Madagascar,What is the country of Ambanja?,Ambanja,0.0
+places_city,Pakruojis,country,Lithuania,What is the country of Pakruojis?,Latvia,0.0
+places_city,Aberdeen,located in time zone,Greenwich Mean Time,What is the located in time zone of Aberdeen?,Aberdeen is located in the time zone of GMT,0.0
+places_city,Southampton,country,United Kingdom,What is the country of Southampton?,Southampton,0.0
+places_city,Bambey,country,Senegal,What is the country of Bambey?,Bambey,0.0
+places_city,Ocotal,country,Nicaragua,What is the country of Ocotal?,Ocotal,0.0
+places_city,Burao,country,Somaliland,What is the country of Burao?,Burundi,0.0
+places_city,Buchanan,named after,Thomas Buchanan,Who was Buchanan named after?,James Buchanan,0.0
+places_city,Esperanza,patron saint,Mary,Who is the patron saint of Esperanza?,St. Joseph ,0.0
+places_city,Chitré,country,Panama,What is the country of Chitré?,Chitré,0.0
+places_city,Ai,country,State of Palestine,What is the country of Ai?,China,0.0
+places_city,Sangolquí,patron saint,John the Baptist,Who is the patron saint of Sangolquí?,Saint Francis of Assisi,0.0
+places_city,Soubré,country,Ivory Coast,What is the country of Soubré?,Soubré,0.0
+places_city,Kontagora,country,Nigeria,What is the country of Kontagora?,Kontagora,0.0
+places_city,Verona,head of government,Damiano Tommasi,Who is the head of government of Verona?,The head of government of Verona is the mayor,0.0
+places_city,Okene,operating area,north,What is the operating area of Okene?,The operating area of Okene is the area of the country where the Okene,0.0
+places_city,Grand-Lahou,located in time zone,Greenwich Mean Time,What is the located in time zone of Grand-Lahou?,The located in time zone of Grand-Lahou is the located in time,0.0
+places_city,Milagro,patron saint,Francis of Assisi,Who is the patron saint of Milagro?,Saint Joseph ,0.0
+places_city,Cotuí,country,Dominican Republic,What is the country of Cotuí?,Cotuí,0.0
+places_city,Havana,patron saint,Saint Christopher,Who is the patron saint of Havana?,Christopher Columbus,0.0
+places_city,Rutana,country,Burundi,What is the country of Rutana?,Rutana,0.0
+places_city,Rehoboth,country,Namibia,What is the country of Rehoboth?,Rehoboth is a city in the state of Delaware.  Question,0.0
+places_city,El Hiba,country,Egypt,What is the country of El Hiba?,El Hiba,0.0
+places_city,Cabo San Lucas,country,Mexico,What is the country of Cabo San Lucas?,Cabo San Lucas,0.0
+places_city,Whitehorse,country,Canada,What is the country of Whitehorse?,Australia,0.0
+places_city,General Villamil,office held by head of government,mayor,What is the office held by head of government of General Villamil?,President of the Republic,0.0
+places_city,Settat,country,Morocco,What is the country of Settat?,Settat,0.0
+places_city,Bonoua,located in time zone,Greenwich Mean Time,What is the located in time zone of Bonoua?,Bonoua is located in the time zone of Africa/Nouakch,0.0
+places_city,Kfar Saba,head of government,Rafi Saar,Who is the head of government of Kfar Saba?,The mayor,0.0
+places_city,Le Tampon,head of government,André Thien Ah Koon,Who is the head of government of Le Tampon?,The head of government of Le Tampon is the President of the Republic,0.0
+places_city,Seda,country,Lithuania,What is the country of Seda?,Seda,0.0
+places_city,Chania,replaces,Kydonia,What does Chania replace?,Chania replaces the city of Crete,0.0
+places_city,Pillaro,country,Ecuador,What is the country of Pillaro?,Spain,0.0
+places_city,Bingerville,country,Ivory Coast,What is the country of Bingerville?,Bingerville,0.0
+places_city,Moca,country,Dominican Republic,What is the country of Moca?,Moca,0.0
+places_city,Arnhem,head of government,Ahmed Marcouch,Who is the head of government of Arnhem?,The Queen,0.0
+places_city,Vaasa,founded by,Charles IX of Sweden,Who was Vaasa founded by?,The first settlers were the Finns,0.0
+places_city,Katerini,patron saint,Catherine of Alexandria,Who is the patron saint of Katerini?,Saint Dimitrios,0.0
+places_city,Kenscoff,country,Haiti,What is the country of Kenscoff?,Canada,0.0
+places_city,Yola,native language,Hausa,What is the native language of Yola?,English,0.0
+places_city,Lichinga,official language,Portuguese,What is the official language of Lichinga?,English,0.0
+places_city,Minas,official language,Spanish,What is the official language of Minas?,English,0.0
+places_city,Emery,located in time zone,Mountain Time Zone,What is the located in time zone of Emery?,The located in time zone of Emery is the located in time zone of the,0.0
+places_city,Borsippa,time period,Ancient Near East,What is the time period of Borsippa?,Borsippa is a city in the Roman Empire.  ,0.0
+places_city,Ongwediva,country,Namibia,What is the country of Ongwediva?,South Africa,0.0
+places_city,Al Bayda,country,Libya,What is the country of Al Bayda?,Yemen,0.0
+places_city,Wolverhampton,located in time zone,Greenwich Mean Time,What is the located in time zone of Wolverhampton?,Wolverhampton is located in the United Kingdom,0.0
+places_city,Gurúè,country,Mozambique,What is the country of Gurúè?,India,0.0
+places_city,Port Said,named after,Sa'id of Egypt,Who was Port Said named after?,The Suez Canal,0.0
+places_city,Atlántida,country,Uruguay,What is the country of Atlántida?,Atlantis,0.0
+places_city,Esil,country,Kazakhstan,What is the country of Esil?,Esil,0.0
+places_city,Girga,country,Egypt,What is the country of Girga?,Girga,0.0
+places_city,Formosa,founded by,Luis Jorge Fontana,Who was Formosa founded by?,Formosa was founded by the Formosa Group,0.0
+places_city,Mek'ele,country,Ethiopia,What is the country of Mek'ele?,Mek'ele,0.0
+places_city,Mežica,country,Slovenia,What is the country of Mežica?,Serbia,0.0
+places_city,Tampere,head of government,Kalervo Kummola,Who is the head of government of Tampere?,The mayor of Tampere,0.0
+places_city,Santiago de Cuba,founded by,Diego Velazquez de Cuéllar,Who was Santiago de Cuba founded by?,Christopher Columbus,0.0
+places_city,Niagara Falls,country,Canada,What is the country of Niagara Falls?,Niagara Falls,0.0
+places_city,Mikkeli,named after,Michael,Who was Mikkeli named after?,The city was named after the Finnish Mikkeli,0.0
+places_city,Sarh,country,Chad,What is the country of Sarh?,Sarh,0.0
+places_city,Angren,country,Uzbekistan,What is the country of Angren?,Angren,0.0
+places_city,Toronto,location,Greater Toronto Area,What is the location of Toronto?,Toronto is in Canada,0.0
+places_city,Osogbo,official language,Yoruba,What is the official language of Osogbo?,Osogbo is the official language of Osogbo.  ,0.0
+places_city,Parma,nominated for,Italian capital of culture C.E.2016,What was Parma nominated for?,Best Italian Restaurant in the World,0.0
+places_city,La Esperanza,country,Honduras,What is the country of La Esperanza?,Mexico,0.0
+places_city,Saint Thomas of Castilla,country,Guatemala,What is the country of Saint Thomas of Castilla?,Spain,0.0
+places_city,Bethlehem,official language,Arabic,What is the official language of Bethlehem?,Hebrew,0.0
+places_city,Darganata,country,Turkmenistan,What is the country of Darganata?,Darganata,0.0
+places_city,Bathurst,located in time zone,Atlantic Time Zone,What is the located in time zone of Bathurst?,Bathurst is located in the time zone of Australia,0.0
+places_city,Priverno,patron saint,Thomas Aquinas,Who is the patron saint of Priverno?,Saint Anthony,0.0
+places_city,Palermo,patron saint,Saint Rosalia,Who is the patron saint of Palermo?,Saint Agatha,0.0
+places_city,Frederikssund,named after,Frederick III of Denmark,Who was Frederikssund named after?,Frederikssund is named after Frederik IV of Denmark,0.0
+places_city,Macas,office held by head of government,mayor,What is the office held by head of government of Macas?,President of the Republic of Macas,0.0
+places_city,Kapurthala,official language,Punjabi,What is the official language of Kapurthala?,Hindi,0.0
+places_city,Coca,named after,Erythroxylum coca,What was Coca named after?,Coca-Cola,0.0
+places_city,Serebryansk,country,Kazakhstan,What is the country of Serebryansk?,Russia,0.0
+places_city,Białystok,founded by,Gediminas,Who was Białystok founded by?,The city was founded by the Polish king Casimir III the Great in 1335,0.0
+places_city,Murzuk,country,Libya,What is the country of Murzuk?,Murzuk,0.0
+places_city,London,office held by head of government,Mayor of London,What is the office held by head of government of London?,Prime Minister,0.0
+places_city,Shibin Al Kawm,country,Egypt,What is the country of Shibin Al Kawm?,Saudi Arabia,0.0
+places_city,Azogues,patron saint,Francis of Assisi,Who is the patron saint of Azogues?,Saint Anthony of Padua,0.0
+places_city,Machala,office held by head of government,mayor,What is the office held by head of government of Machala?,President of the Republic of Ecuador,0.0
+places_city,Bangor,located in time zone,Greenwich Mean Time,What is the located in time zone of Bangor?,Bangor is located in the time zone of Eastern Standard Time.  Question,0.0
+places_city,Garfield,located in time zone,Pacific Time Zone,What is the located in time zone of Garfield?,The located in time zone of Garfield is the located in time zone of the located,0.0
+places_city,Julfa,official language,Azerbaijani,What is the official language of Julfa?,Persian,0.0
+places_city,"Dura, Hebron",country,State of Palestine,"What is the country of Dura, Hebron?",Israel,0.0
+places_city,Markham,legal form,municipal corporation,What is the legal form of Markham?,A corporation,0.0
+places_city,Macas,country,Ecuador,What is the country of Macas?,Macas,0.0
+places_city,Huaquillas,patron saint,Virgin of Mercy,What is the patron saint of Huaquillas?,Saint Anthony,0.0
+places_city,San Pedro Town,country,Belize,What is the country of San Pedro Town?,Puerto Rico,0.0
+places_city,Shahrisabz,heritage designation,World Heritage Site,What is the heritage designation of Shahrisabz?,Shahrisabz is a city in the province of Mazandaran,0.0
+places_city,Kong,country,Ivory Coast,What is the country of Kong?,Kong,0.0
+places_city,Attapư̄,country,Laos,What is the country of Attapư̄?,Attapư̄,0.0
+places_city,Bartica,country,Guyana,What is the country of Bartica?,Bartica,0.0
+places_city,La Paz,country,Honduras,What is the country of La Paz?,Bolivia,0.0
+places_city,Tianjin,head of government,Huang Xingguo,Who is the head of government of Tianjin?,The head of government of Tianjin is the mayor of Tianjin,0.0

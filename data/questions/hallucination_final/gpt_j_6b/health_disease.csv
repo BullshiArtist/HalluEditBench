@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+health_disease,cervical intraepithelial neoplasia,health specialty,oncology,What is the health specialty of cervical intraepithelial neoplasia?,Gynecology,0.0
+health_disease,diverticulum,health specialty,gastroenterology,What is the health specialty of diverticulum?,Diverticulitis,0.0
+health_disease,abnormal uterine bleeding,health specialty,gynaecology,What is the health specialty of abnormal uterine bleeding?,OBGYN  ,0.0
+health_disease,dwarfism,model item,Peter Dinklage,Who is the model item of dwarfism?,Dwarfism,0.0
+health_disease,dysplasia,health specialty,oncology,What is the health specialty of dysplasia?,Gastroenterology,0.0
+health_disease,pigeon toe,health specialty,medical genetics,What is the health specialty of pigeon toe?,Podiatry,0.0
+health_disease,radiation burn,has cause,irradiation,What does radiation burn have cause?,Radiation burns are caused by radiation,0.0
+health_disease,hypertriglyceridemia,health specialty,endocrinology,What is the health specialty of hypertriglyceridemia?,Lipidology,0.0
+health_disease,pulmonary cryptococcosis,drug or therapy used for treatment,5-fluorocytosine,What is the drug or therapy used for treatment of pulmonary cryptococcosis?,Fluconazole ,0.0
+health_disease,femoral hernia,health specialty,gastroenterology,What is the health specialty of femoral hernia?,Surgery ,0.0
+health_disease,type-1 diabetes,afflicts,Homo sapiens,What does type-1 diabetes afflict?,Type-1 diabetes is a chronic disease that affects the body’s ability,0.0
+health_disease,upper respiratory tract infection,health specialty,pulmonology,What is the health specialty of upper respiratory tract infection?,ENT ,0.0
+health_disease,Lujan–Fryns syndrome,genetic association,MED12,What is the genetic association of Lujan–Fryns syndrome?,The genetic association of Lujan–Fryns syndrome is X-linked recess,0.0
+health_disease,accessory nerve injury,health specialty,neurology,What is the health specialty of accessory nerve injury?,Accessory nerve injury,0.0
+health_disease,radiation burn,health specialty,dermatology,What is the health specialty of radiation burn?,Radiation burns are burns caused by radiation.  The following is a list of,0.0
+health_disease,splenomegaly,health specialty,general surgery,What is the health specialty of splenomegaly?,Hematology,0.0
+health_disease,postterm pregnancy,has characteristic,gestational age,What does postterm pregnancy have characteristic?,It is a pregnancy that occurs after the 40th week of pregnancy,0.0
+health_disease,myoclonic epilepsy,drug or therapy used for treatment,clonazepam,What is the drug or therapy used for treatment of myoclonic epilepsy?,Valproic acid,0.0
+health_disease,sarcopenia,health specialty,geriatrics,What is the health specialty of sarcopenia?,Sarcopenia is a condition in which there is a loss of muscle mass,0.0
+health_disease,blastocystosis,has cause,Blastocystis hominis,What does blastocystosis have cause?,Blastocystosis is caused by a parasite,0.0
+health_disease,threatened abortion,health specialty,obstetrics and gynaecology,What is the health specialty of threatened abortion?,Obstetrics ,0.0
+health_disease,lacunar stroke,discoverer or inventor,Miller Fisher,Who is the discoverer or inventor of lacunar stroke?,Dr. James M. Todd,0.0
+health_disease,alveolitis,health specialty,pulmonology,What is the health specialty of alveolitis?,Alveolitis is a lung disease,0.0
+health_disease,X-linked recessive chondrodysplasia punctata,health specialty,medical genetics,What is the health specialty of X-linked recessive chondrodysplasia punctata?,X-linked recessive chondrodysplasia punctata,0.0
+health_disease,clostridial necrotizing enteritis,has cause,infection,What does clostridial necrotizing enteritis have cause?,Clostridium difficile,0.0
+health_disease,mesenteric ischemia,afflicts,small intestine,What does mesenteric ischemia afflict?,The patient has mesenteric ischemia,0.0
+health_disease,tarsal coalition,health specialty,rheumatology,What is the health specialty of tarsal coalition?,Podiatry,0.0
+health_disease,alcoholic liver disease,has cause,alcohol consumption,What does alcoholic liver disease have cause?,Alcoholic liver disease has a cause,0.0
+health_disease,fluoride toxicity,health specialty,emergency medicine,What is the health specialty of fluoride toxicity?,Fluoride toxicity is a health specialty,0.0
+health_disease,alcohol withdrawal seizure,health specialty,neurology,What is the health specialty of alcohol withdrawal seizure?,Alcohol withdrawal seizure,0.0
+health_disease,urogenital neoplasm,health specialty,oncology,What is the health specialty of urogenital neoplasm?,Urology,0.0
+health_disease,persistent pupillary membrane,health specialty,ophthalmology,What is the health specialty of persistent pupillary membrane?,Eye,0.0
+health_disease,folate deficiency,health specialty,endocrinology,What is the health specialty of folate deficiency?,Folate deficiency,0.0
+health_disease,scaphocephaly,health specialty,medical genetics,What is the health specialty of scaphocephaly?,Scaphocephaly is a rare congenital disorder of the skull,0.0
+health_disease,Vulvar vestibulitis,health specialty,obstetrics and gynaecology,What is the health specialty of Vulvar vestibulitis?,Vulvar vestibulitis is a condition that causes pain in the vulva,0.0
+health_disease,mucinous cystadenoma,health specialty,oncology,What is the health specialty of mucinous cystadenoma?,Mucinous cystadenoma is a benign tumor of the pancreas,0.0
+health_disease,De Quervain's thyroiditis,health specialty,endocrinology,What is the health specialty of De Quervain's thyroiditis?,Thyroiditis,0.0
+health_disease,myoclonic epilepsy,health specialty,neurology,What is the health specialty of myoclonic epilepsy?,Epilepsy,0.0
+health_disease,neonatal abstinence syndrome,has cause,drug-induced abnormality,What does neonatal abstinence syndrome have cause?,Neonatal abstinence syndrome is caused by the withdrawal of a drug or alcohol from the,0.0
+health_disease,Morton's neuroma,health specialty,neurology,What is the health specialty of Morton's neuroma?,Podiatry,0.0
+health_disease,Micromastia,health specialty,medical genetics,What is the health specialty of Micromastia?,Breast,0.0
+health_disease,microtia,health specialty,medical genetics,What is the health specialty of microtia?,"Ear, nose, and throat (ENT)",0.0
+health_disease,jet lag,health specialty,neurology,What is the health specialty of jet lag?,Sleep medicine,0.0
+health_disease,torsion dystonia,genetic association,TOR1A,What is the genetic association of torsion dystonia?,Torsion dystonia is a genetic disorder that causes involuntary muscle contractions,0.0
+health_disease,dust mite allergy,afflicts,Homo sapiens,What does dust mite allergy afflict?,Allergies,0.0
+health_disease,venous ulcer,anatomical location,lower leg,What is the anatomical location of venous ulcer?,The venous ulcer is located on the leg,0.0
+health_disease,hookworm disease,health specialty,infectious diseases,What is the health specialty of hookworm disease?,Hookworm disease is a parasitic disease caused by the hookworm parasite,0.0
+health_disease,cyst,health specialty,oncology,What is the health specialty of cyst?,Urology,0.0
+health_disease,congenital torticollis,health specialty,medical genetics,What is the health specialty of congenital torticollis?,Orthopedics,0.0
+health_disease,Lujan–Fryns syndrome,health specialty,psychiatry,What is the health specialty of Lujan–Fryns syndrome?,Genetic disorders.  • **Step 3:** Answer the question with a,0.0
+health_disease,pulmonary cryptococcosis,health specialty,infectious diseases,What is the health specialty of pulmonary cryptococcosis?,Pulmonary cryptococcosis is a fungal infection of the lungs,0.0
+health_disease,Adnexal and skin appendage neoplasms,health specialty,oncology,What is the health specialty of Adnexal and skin appendage neoplasms?,Dermatology,0.0
+health_disease,cerebral toxoplasmosis,health specialty,infectious diseases,What is the health specialty of cerebral toxoplasmosis?,Neurology,0.0
+health_disease,Conradi–Hünermann syndrome,health specialty,medical genetics,What is the health specialty of Conradi–Hünermann syndrome?,Congenital disorder of glycosylation,0.0
+health_disease,acute abdomen,health specialty,gastroenterology,What is the health specialty of acute abdomen?,Acute abdomen,0.0
+health_disease,airway obstruction,"handled, mitigated, or managed by",airway management,"What did airway obstruction handle , mitigated , or managed by?",airway obstruction,0.0
+health_disease,dwarfism,health specialty,medical genetics,What is the health specialty of dwarfism?,Endocrinology,0.0
+health_disease,dysarthria,drug or therapy used for treatment,clonazepam,What is the drug or therapy used for treatment of dysarthria?,Dysarthria is a disorder of speech,0.0
+health_disease,adenovirus infection,has cause,Adenoviridae,What does adenovirus infection have cause?,Adenovirus infection has cause,0.0
+health_disease,microtia,studied in,audiology,What was microtia studied in?,Microtia was studied in the field of genetics,0.0
+health_disease,infection of the central nervous system,health specialty,neurology,What is the health specialty of infection of the central nervous system?,Infectious Diseases,0.0
+health_disease,rotator cuff tear,drug or therapy used for treatment,Diclofenac,What is the drug or therapy used for treatment of rotator cuff tear?,Rotator cuff tear,0.0
+health_disease,ventilator-associated pneumonia,health specialty,pulmonology,What is the health specialty of ventilator-associated pneumonia?,Infectious Diseases,0.0
+health_disease,recurrent miscarriage,health specialty,obstetrics,What is the health specialty of recurrent miscarriage?,Reproductive endocrinology,0.0
+health_disease,preterm birth,has characteristic,gestational age,What does preterm birth have characteristic?,"Preterm birth has characteristic of low birth weight, low Apgar score, and",0.0
+health_disease,Conradi–Hünermann syndrome,genetic association,EBP,What is the genetic association of Conradi–Hünermann syndrome?,The genetic association of Conradi–Hünermann syndrome is X-linked,0.0
+health_disease,aphakia,health specialty,medical genetics,What is the health specialty of aphakia?,Ophthalmology,0.0
+health_disease,anopsia,medical examination,visual field test,What is the medical examination of anopsia?,The medical examination of anopsia is the examination of the eyes,0.0
+health_disease,spasticity,health specialty,neurology,What is the health specialty of spasticity?,Spasticity is a neurological disorder that causes muscle stiffness and spasms,0.0
+health_disease,osteophyte,health specialty,rheumatology,What is the health specialty of osteophyte?,Osteophyte,0.0
+health_disease,foodborne illness,has cause,food contaminant,What does foodborne illness have cause?,Foodborne illness has a cause,0.0
+health_disease,kyphoscoliosis,health specialty,medical genetics,What is the health specialty of kyphoscoliosis?,Orthopedics,0.0
+health_disease,hysteria,measurement scale,Minnesota Multiphasic Personality Inventory,What is the measurement scale of hysteria?,Hysteria is a measurement scale,0.0
+health_disease,Jarisch-Herxheimer reaction,health specialty,infectious diseases,What is the health specialty of Jarisch-Herxheimer reaction?,Jarisch-Herxheimer reaction is a side effect of the antibiotic treatment of,0.0
+health_disease,urinary tract infection during pregnancy,health specialty,obstetrics,What is the health specialty of urinary tract infection during pregnancy?,Urology,0.0
+health_disease,aboulia,afflicts,human,What does aboulia afflict?,Aboulia is a condition that causes a person to have a loss of control,0.0
+health_disease,stenosing tenosynovitis,health specialty,rheumatology,What is the health specialty of stenosing tenosynovitis?,Hand Surgery,0.0
+health_disease,auditory neuropathy,afflicts,cochlear nerve,What does auditory neuropathy afflict?,Hearing loss,0.0
+health_disease,pulicosis,has cause,infestation,What does pulicosis have cause?,It has no cause,0.0
+health_disease,osteochondritis,health specialty,rheumatology,What is the health specialty of osteochondritis?,Osteochondritis is a condition that affects the growth of bones,0.0
+health_disease,trigonocephaly,health specialty,medical genetics,What is the health specialty of trigonocephaly?,Neurosurgery,0.0
+health_disease,aspergilloma,health specialty,infectious diseases,What is the health specialty of aspergilloma?,Aspergilloma is a fungal infection of the lung,0.0
+health_disease,venous ulcer,health specialty,dermatology,What is the health specialty of venous ulcer?,Venous ulcer,0.0
+health_disease,mycobacterium infectious disease,health specialty,infectious diseases,What is the health specialty of mycobacterium infectious disease?,Tuberculosis,0.0
+health_disease,spinal disc herniation,health specialty,neurosurgery,What is the health specialty of spinal disc herniation?,Spinal disc herniation,0.0
+health_disease,fibromuscular dysplasia,health specialty,cardiology,What is the health specialty of fibromuscular dysplasia?,Vascular,0.0
+health_disease,rhabdomyolysis,health specialty,emergency medicine,What is the health specialty of rhabdomyolysis?,Rhabdomyolysis is a condition in which muscle tissue is damaged and,0.0
+health_disease,cerebrospinal fluid leak,has cause,blunt trauma,What does cerebrospinal fluid leak have cause?,Cerebrospinal fluid leak can be caused by a number of things. It,0.0
+health_disease,conjoined twins,health specialty,medical genetics,What is the health specialty of conjoined twins?,Conjoined twins are a type of birth defect in which two babies are joined at,0.0
+health_disease,bone cyst,health specialty,rheumatology,What is the health specialty of bone cyst?,Orthopedics,0.0
+health_disease,venous ulcer,drug or therapy used for treatment,becaplermin,What is the drug or therapy used for treatment of venous ulcer?,The drug or therapy is used for treatment of venous ulcer,0.0
+health_disease,ventilator-associated pneumonia,has cause,mechanical ventilation,What does ventilator-associated pneumonia have cause?,Ventilator-associated pneumonia (VAP) is a type of pneumonia that,0.0
+health_disease,amoebic dysentery,drug or therapy used for treatment,iodoquinol,What is the drug or therapy used for treatment of amoebic dysentery?,Metronidazole ,0.0
+health_disease,periodontal abscess,health specialty,dentistry,What is the health specialty of periodontal abscess?,Periodontal abscess,0.0
+health_disease,staphylococcal meningitis,health specialty,neurology,What is the health specialty of staphylococcal meningitis?,Meningitis,0.0
+health_disease,air embolism,afflicts,diver,What does air embolism afflict?,A person who has an air embolism is in danger of dying,0.0
+health_disease,hypovolemia,health specialty,emergency medicine,What is the health specialty of hypovolemia?,Hypovolemia is a condition in which there is a decrease in the amount,0.0
+health_disease,"Niemann–Pick disease, SMPD1-associated",health specialty,endocrinology,"What is the health specialty of Niemann–Pick disease, SMPD1-associated?",Neurology,0.0
+health_disease,border disease,has cause,infection,What does border disease have cause?,It has no cause,0.0
+health_disease,intestinal parasite infection,health specialty,infectious diseases,What is the health specialty of intestinal parasite infection?,Parasitology,0.0
+health_disease,hallux rigidus,health specialty,rheumatology,What is the health specialty of hallux rigidus?,Podiatric Medicine,0.0
+health_disease,hookworm disease,drug or therapy used for treatment,imidacloprid,What is the drug or therapy used for treatment of hookworm disease?,Ivermectin ,0.0
+health_disease,X-linked congenital stationary night blindness,health specialty,ophthalmology,What is the health specialty of X-linked congenital stationary night blindness?,X-linked congenital stationary night blindness,0.0
+health_disease,lymph node metastasis,health specialty,oncology,What is the health specialty of lymph node metastasis?,Lymph node metastasis ,0.0
+health_disease,pancreatic neoplasm,afflicts,pancreas,What does pancreatic neoplasm afflict?,Pancreatic cancer,0.0

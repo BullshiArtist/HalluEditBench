@@ -1,0 +1,96 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+event_film,British Film Festival Dinard,month of the year,September,When is the month of the year of British Film Festival Dinard?,The provided text does not contain any information regarding the month of the year for the,0.0
+event_film,Sitges Film Festival,month of the year,October,When is the month of the year of Sitges Film Festival?,Sitges Film Festival occurs in July,0.0
+event_film,Valladolid International Film Festival,month of the year,October,When is the month of the year of Valladolid International Film Festival?,"The month of Valladolid International Film Festival is not specified in the given context, so",0.0
+event_film,Fajr International Film Festival,month of the year,February,When is the month of the year of Fajr International Film Festival?,The month of the Fajr International Film Festival is not specified in the given context,0.0
+event_film,Tampere Film Festival,month of the year,March,When is the month of the year of Tampere Film Festival?,Tampere Film Festival occurs annually in January,0.0
+event_film,Fajr International Film Festival,location,Tehran,What is the location of Fajr International Film Festival?,"Dubai, United Arab Emirates",0.0
+event_film,Festival d'Automne à Paris,field of work,performing arts,What is the field of work of Festival d'Automne à Paris?,The field of work of Festival d'Automne à Paris is contemporary art and,0.0
+event_film,Festival d'Automne à Paris,location,Palais Galliera,What is the location of Festival d'Automne à Paris?,"Festival d'Automne à Paris is held in Paris, France",0.0
+event_film,Cairo International Film Festival,month of the year,November,When is the month of the year of Cairo International Film Festival?,"The month of the Cairo International Film Festival is not specified in the given context,",0.0
+event_film,Valladolid International Film Festival,location,Teatro Calderón,Who is the location of Valladolid International Film Festival?,"Valladolid International Film Festival is held in Valladolid, Spain",0.0
+event_film,Tampere Film Festival,main subject,short film,What is the main subject of Tampere Film Festival?,Tampere Film Festival showcases Finnish and international cinema,0.0
+event_film,Fajr International Film Festival,country,Iran,What is the country of Fajr International Film Festival?,Saudi Arabia,0.0
+event_film,Cairo International Film Festival,chairperson,Mohamed Hefzy,Who is the chairperson of Cairo International Film Festival?,"The provided text does not specify the chairperson of the Cairo International Film Festival, so",0.0
+event_film,Hamptons International Film Festival,month of the year,October,When is the month of the year of Hamptons International Film Festival?,I do not have access to real-time or up-to-date information,0.0
+event_film,Berlin International Film Festival,month of the year,February,When is the month of the year of Berlin International Film Festival?,Berlin International Film Festival occurs in January,0.0
+event_film,Cairo International Film Festival,location,Cairo Opera House,What is the location of Cairo International Film Festival?,"Cairo, Egypt",0.0
+event_film,Stockholm International Film Festival,month of the year,November,When is the month of the year of Stockholm International Film Festival?,January,0.0
+event_film,Berlin International Film Festival,discoverer or inventor,Oscar Martay,Who is the discoverer or inventor of Berlin International Film Festival?,The Berlin International Film Festival was founded by Walter G. Richter,0.0
+event_film,Berlin International Film Festival,country,Germany,What is the country of Berlin International Film Festival?,Berlin,0.0
+event_film,Taormina Film Fest,month of the year,June,When is the month of the year of Taormina Film Fest?,I do not have access to real-time or up-to-date information,0.0
+event_film,Chicago International Film Festival,month of the year,October,When is the month of the year of Chicago International Film Festival?,Chicago International Film Festival occurs annually in September,0.0
+event_film,Chicago International Film Festival,located in the administrative territorial entity,Cook County,What is the located in the administrative territorial entity of Chicago International Film Festival?,"Chicago International Film Festival is located in Chicago, Illinois",0.0
+event_film,Taormina Film Fest,located in the administrative territorial entity,Province of Messina,What is the located in the administrative territorial entity of Taormina Film Fest?,"Taormina Film Fest is located in the administrative territorial entity of Messina, Sicily",0.0
+event_film,Sydney Film Festival,month of the year,June,When is the month of the year of Sydney Film Festival?,Sydney Film Festival occurs annually in July,0.0
+event_film,Carthage Film Festival,month of the year,November,When is the month of the year of Carthage Film Festival?,I do not have access to real-time or up-to-date information,0.0
+event_film,Carthage Film Festival,founded by,Tahar Cheriaa,Who was Carthage Film Festival founded by?,Carthage Film Festival was founded by the Tunisian government,0.0
+event_film,Crossing Europe,month of the year,April,When is the month of the year of Crossing Europe?,"Crossing Europe is not a real event, so I cannot provide a response regarding its",0.0
+event_film,Yerevan International Film Festival,month of the year,July,When is the month of the year of Yerevan International Film Festival?,Yerevan International Film Festival occurs annually in November,0.0
+event_film,Crossing Europe,director / manager,Christine Dollhofer,Who is the director / manager of Crossing Europe?,"The provided text does not specify the director / manager of Crossing Europe, so I",0.0
+event_film,Yerevan International Film Festival,conferred by,Armenian Apostolic Church,What was Yerevan International Film Festival conferred by?,Yerevan International Film Festival is conferred by the Yerevan International Film Festival Foundation,0.0
+event_film,Crossing Europe,location,Linz,What is the location of Crossing Europe?,The location of Crossing Europe is located between the Baltic Sea and the Mediterranean Sea,0.0
+event_film,Yerevan International Film Festival,founded by,Harutyun Khachatryan,Who was Yerevan International Film Festival founded by?,Yerevan International Film Festival was founded by the Armenian National Committee of the Soviet Union,0.0
+event_film,Singapore International Film Festival,month of the year,November,When is the month of the year of Singapore International Film Festival?,Singapore International Film Festival occurs annually in August,0.0
+event_film,BFI London Film Festival,month of the year,October,When is the month of the year of BFI London Film Festival?,BFI London Film Festival occurs annually in December,0.0
+event_film,Cottbus Festival of East European Cinema,country,Germany,What is the country of Cottbus Festival of East European Cinema?,Cottbus Festival of East European Cinema,0.0
+event_film,Toronto International Film Festival,has part(s),TIFF Cinematheque,What does Toronto International Film Festival have part(s )?,Toronto International Film Festival has a film festival component and a cinematic component,0.0
+event_film,Film Fest Gent,month of the year,October,When is the month of the year of Film Fest Gent?,Film Fest Gent occurs annually in February,0.0
+event_film,Karlovy Vary International Film Festival,month of the year,July,When is the month of the year of Karlovy Vary International Film Festival?,The month of the year for Karlovy Vary International Film Festival is not specified,0.0
+event_film,BFI London Film Festival,country,United Kingdom,What is the country of BFI London Film Festival?,"BFI London Film Festival is held in London, England",0.0
+event_film,Midnight Sun Film Festival,month of the year,June,When is the month of the year of Midnight Sun Film Festival?,I do not have access to real-time or up-to-date information,0.0
+event_film,Midnight Sun Film Festival,country,Finland,What is the country of Midnight Sun Film Festival?,"Alaska, USA",0.0
+event_film,Film Fest Gent,main subject,film score,What is the main subject of Film Fest Gent?,Film Fest Gent focuses on showcasing and celebrating international and local filmmakers,0.0
+event_film,Edinburgh International Film Festival,located in the administrative territorial entity,City of Edinburgh,What is the located in the administrative territorial entity of Edinburgh International Film Festival?,Edinburgh International Film Festival is located in the Scottish capital of Edinburgh,0.0
+event_film,Edinburgh International Film Festival,country,United Kingdom,What is the country of Edinburgh International Film Festival?,Edinburgh,0.0
+event_film,Edinburgh International Film Festival,month of the year,June,When is the month of the year of Edinburgh International Film Festival?,Edinburgh International Film Festival occurs in August,0.0
+event_film,Clermont-Ferrand International Short Film Festival,month of the year,February,When is the month of the year of Clermont-Ferrand International Short Film Festival?,The month of the Clermont-Ferrand International Short Film Festival is not specified in,0.0
+event_film,International Film Festival of India,headquarters location,Goa,What is the headquarters location of International Film Festival of India?,"Mumbai, India",0.0
+event_film,Göteborg Film Festival,location,Gothenburg,What is the location of Göteborg Film Festival?,"Göteborg Film Festival is located in Göteborg, Sweden",0.0
+event_film,International Film Festival of India,location,Goa,What is the location of International Film Festival of India?,"Mumbai, India",0.0
+event_film,Göteborg Film Festival,headquarters location,Gothenburg,What is the headquarters location of Göteborg Film Festival?,"Göteborg, Sweden",0.0
+event_film,Kolkata International Film Festival,month of the year,December,When is the month of the year of Kolkata International Film Festival?,Kolkata International Film Festival occurs in November,0.0
+event_film,Shanghai International Film Festival,month of the year,June,When is the month of the year of Shanghai International Film Festival?,Shanghai International Film Festival occurs annually in November,0.0
+event_film,Annecy International Animation Film Festival,month of the year,June,When is the month of the year of Annecy International Animation Film Festival?,Annecy International Animation Film Festival occurs in July,0.0
+event_film,Fantasy Filmfest,country,Germany,What is the country of Fantasy Filmfest?,Fantasy Filmfest is held in the United States,0.0
+event_film,Locarno Film Festival,month of the year,August,When is the month of the year of Locarno Film Festival?,September,0.0
+event_film,Shanghai International Film Festival,main subject,world cinema,What is the main subject of Shanghai International Film Festival?,Shanghai International Film Festival focuses on showcasing and celebrating international and Chinese cinema,0.0
+event_film,International Film Festival Rotterdam,month of the year,January,When is the month of the year of International Film Festival Rotterdam?,February,0.0
+event_film,Munich International Film Festival,month of the year,June,When is the month of the year of Munich International Film Festival?,Munich International Film Festival occurs in September,0.0
+event_film,International Istanbul Film Festival,month of the year,April,When is the month of the year of International Istanbul Film Festival?,"The month of the International Istanbul Film Festival is not specified in the given context,",0.0
+event_film,Filmfestival Max Ophuels Prize,country,Germany,What is the country of Filmfestival Max Ophuels Prize?,France,0.0
+event_film,Filmfestival Max Ophuels Prize,sponsor,Federal Government Commissioner for Culture and Media,What does Filmfestival Max Ophuels Prize sponsor?,Filmfestival Max Ophuels Prize supports emerging filmmakers,0.0
+event_film,Vienna International Film Festival,month of the year,October,When is the month of the year of Vienna International Film Festival?,Vienna International Film Festival occurs in January,0.0
+event_film,Visions du Réel,month of the year,April,When is the month of the year of Visions du Réel?,Visions du Réel is an annual event in December,0.0
+event_film,Visions du Réel,location,Nyon,What is the location of Visions du Réel?,"Visions du Réel is located in Paris, France",0.0
+event_film,LET'S CEE Film Festival,location,Vienna,What is the location of LET'S CEE Film Festival?,"Bangkok, Thailand",0.0
+event_film,Tribeca Film Festival,month of the year,April,When is the month of the year of Tribeca Film Festival?,Tribeca Film Festival occurs in June,0.0
+event_film,DOK Leipzig - International Leipzig Festival for Documentary and Animated Film,month of the year,October,When is the month of the year of DOK Leipzig - International Leipzig Festival for Documentary and Animated Film?,"The month of DOK Leipzig is not specified in the given context, so I",0.0
+event_film,Diagonale,month of the year,March,When is the month of the year of Diagonale?,"Diagonale is not a month of the year, so I cannot provide an",0.0
+event_film,Tricky Women,month of the year,March,When is the month of the year of Tricky Women?,I am unable to provide information related to mythical or superstitious beliefs,0.0
+event_film,DOK Leipzig - International Leipzig Festival for Documentary and Animated Film,country,Germany,What is the country of DOK Leipzig - International Leipzig Festival for Documentary and Animated Film?,DOK Leipzig,0.0
+event_film,Tricky Women,main subject,animated film,What is the main subject of Tricky Women?,Tricky Women explores the complexities and contradictions of female sexuality and relationships,0.0
+event_film,Diagonale,location,Graz,What is the location of Diagonale?,"Diagonale is located in London, England",0.0
+event_film,Temporada Alta,field of work,performing arts,What is the field of work of Temporada Alta?,Seasonals Alta is a creative agency specializing in experiential storytelling and visual content production,0.0
+event_film,Tricky Women,location,Vienna,What is the location of Tricky Women?,"Tricky Women are not located anywhere, so I cannot provide an answer",0.0
+event_film,Jacksonville Film Festival,month of the year,February,When is the month of the year of Jacksonville Film Festival?,The provided text does not contain any information regarding the month of the Jacksonville Film Festival,0.0
+event_film,ShortCutz Amsterdam,main subject,short film,What is the main subject of ShortCutz Amsterdam?,ShortCutz Amsterdam focuses on providing affordable and convenient hair care services for men and,0.0
+event_film,Minimalen Short Film Festival,month of the year,January,When is the month of the year of Minimalen Short Film Festival?,I do not have access to real-time or up-to-date information,0.0
+event_film,Ottawa Canadian Film Festival,month of the year,November,When is the month of the year of Ottawa Canadian Film Festival?,"The month of the Ottawa Canadian Film Festival is not specified in the given context,",0.0
+event_film,Minimalen Short Film Festival,country,Norway,What is the country of Minimalen Short Film Festival?,Minimalen Short Film Festival is held in Luxembourg,0.0
+event_film,Leeds International Film Festival,month of the year,November,When is the month of the year of Leeds International Film Festival?,Leeds International Film Festival occurs annually in October,0.0
+event_film,Minimalen Short Film Festival,location,Trondheim,What is the location of Minimalen Short Film Festival?,"Minimalen Short Film Festival is held in Lucerne, Switzerland",0.0
+event_film,Minimalen Short Film Festival,headquarters location,Trondheim municipality,What is the headquarters location of Minimalen Short Film Festival?,"Tokyo, Japan",0.0
+event_film,Ottawa Canadian Film Festival,country,Canada,What is the country of Ottawa Canadian Film Festival?,Ottawa International Film Festival,0.0
+event_film,Leeds International Film Festival,country,United Kingdom,What is the country of Leeds International Film Festival?,"Leeds International Film Festival is held in Leeds, England",0.0
+event_film,Ottawa Canadian Film Festival,founded by,Jith Paul,Who was Ottawa Canadian Film Festival founded by?,Ottawa International Film Festival was founded by the National Film Board of Canada,0.0
+event_film,Frameline Film Festival,headquarters location,San Francisco,What is the headquarters location of Frameline Film Festival?,"Los Angeles, CA",0.0
+event_film,Frameline Film Festival,legal form,501(c)(3) organization,What is the legal form of Frameline Film Festival?,Frameline Film Festival is a cinematic arts festival,0.0
+event_film,Frameline Film Festival,main subject,LGBT,What is the main subject of Frameline Film Festival?,Frameline Film Festival showcases and supports emerging filmmakers,0.0
+event_film,Pacific Meridian - International Film Festivals of Asian Pacific countries in Vladivostok,country,Russia,What is the country of Pacific Meridian - International Film Festivals of Asian Pacific countries in Vladivostok?,Pacific Meridian - International Film Festivals of Asian Pacific countries in Vladivostok,0.0
+event_film,ABYCINE Independent Cinema,location,Albacete,What is the location of ABYCINE Independent Cinema?,"ABYCINE Independent Cinema is located in Los Angeles, California",0.0
+event_film,This Human World,location,Vienna,What is the location of This Human World?,Earth,0.0
+event_film,Youki International Youth Media Festival,location,Wels,Who is the location of Youki International Youth Media Festival?,"Tokyo, Japan",0.0
+event_film,Moscow Jewish Film Festival,month of the year,June,When is the month of the year of Moscow Jewish Film Festival?,"The month of the Moscow Jewish Film Festival is not specified in the given context,",0.0
+event_film,It's All True – International Documentary Film Festival,country,Brazil,What is the country of It's All True – International Documentary Film Festival?,Canada,0.0
+event_film,Moscow Jewish Film Festival,country,Russia,What is the country of Moscow Jewish Film Festival?,Moscow Jewish Film Festival,0.0

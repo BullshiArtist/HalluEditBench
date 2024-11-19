@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+human_athlete,Jeb Corliss,residence,Venice,What is the residence of Jeb Corliss?,Jeb Corliss' residence is not publicly disclosed,0.0
+human_athlete,Wladimir Klitschko,place of birth,Semey,What is the place of birth of Wladimir Klitschko?,"Moscow, Russia",0.0
+human_athlete,Tadeusz Łopuszański,sex or gender,male,What is the sex or gender of Tadeusz Łopuszański?,The provided text does not contain any information regarding Tadeusz Łopuszański's,0.0
+human_athlete,Roger Bannister,sport,athletics,What is the sport of Roger Bannister?,Chess,0.0
+human_athlete,"Neville Bulwer-Lytton, 3rd Earl of Lytton",conflict,World War I,"What is the conflict of Neville Bulwer-Lytton, 3rd Earl of Lytton?",Neville Bulwer-Lytton faced criticism and ridicule for his perceived offensive,0.0
+human_athlete,Martin Ticháček,sport,association football,What is the sport of Martin Ticháček?,Ice hockey,0.0
+human_athlete,Dominik Hašek,sex or gender,male,What is the sex or gender of Dominik Hašek?,The provided text does not contain any information regarding Dominik Hašek's sex or,0.0
+human_athlete,Jim Bush,place of death,Culver City,What is the place of death of Jim Bush?,Jim Bush's place of death is not publicly known,0.0
+human_athlete,Tomáš Pospíchal,place of death,Prague,What is the place of death of Tomáš Pospíchal?,No information regarding the place of death of Tomáš Pospíchal is provided in,0.0
+human_athlete,Calvin Bricker,sex or gender,male,What is the sex or gender of Calvin Bricker?,The provided text does not contain any information regarding Calvin Bricker's sex or,0.0
+human_athlete,Gautier Makunda,sex or gender,male,What is the sex or gender of Gautier Makunda?,The provided text does not contain any information regarding the sex or gender of Gautier Mak,0.0
+human_athlete,Věra Čáslavská,occupation,athlete,What is the occupation of Věra Čáslavská?,Physician,0.0
+human_athlete,Terry Kelly,country of citizenship,Canada,What is the country of citizenship of Terry Kelly?,The provided text does not contain any information regarding Terry Kelly's country of citizenship,0.0
+human_athlete,Rory Stewart,sex or gender,male,What is the sex or gender of Rory Stewart?,The provided text does not contain any information regarding Rory Stewart's sex or gender,0.0
+human_athlete,Echembrotus,sex or gender,male,What is the sex or gender of Echembrotus?,"Gender information is not provided in the given context, so I cannot answer this question",0.0
+human_athlete,Miloslav Hořava,drafted by,Edmonton Oilers,What was Miloslav Hořava drafted by?,Miloslav Hořava was drafted by the Pittsburgh Pirates,0.0
+human_athlete,Dana Zátopková,godparent,Sergej Ingr,Who is the godparent of Dana Zátopková?,"Dana Zátopková is not mentioned to have a godparent, so I cannot",0.0
+human_athlete,Hana Mandlíková,sexual orientation,non-heterosexuality,What is the sexual orientation of Hana Mandlíková?,"I am unable to provide personal or sensitive information, including sexual orientation, of individuals",0.0
+human_athlete,István Kovács,sex or gender,male,What is the sex or gender of István Kovács?,The provided text does not contain any information regarding István Kovács' sex or gender,0.0
+human_athlete,Tadeusz Huciński,occupation,athlete,What is the occupation of Tadeusz Huciński?,Tadeusz Huciński is a software engineer and entrepreneur,0.0
+human_athlete,Alipi Kostadinov,sex or gender,male,What is the sex or gender of Alipi Kostadinov?,The provided text does not contain any information regarding Alipi Kostadinov's,0.0
+human_athlete,"Jacobo Fitz-James Stuart, 17th Duke of Alba",mother,María del Rosario Falcó y Osorio,"Who is the mother of Jacobo Fitz-James Stuart, 17th Duke of Alba?",The provided text does not contain any information regarding the mother of Jacobo Fitz-,0.0
+human_athlete,Sakyong Mipham,father,Chögyam Trungpa,Who is the father of Sakyong Mipham?,Sakyong Mipham's father is Tsong,0.0
+human_athlete,David Limberský,sport,association football,What is the sport of David Limberský?,Table tennis,0.0
+human_athlete,Ronda Rousey,spouse,Travis Browne,Who is the spouse of Ronda Rousey?,Ronda Rousey is currently single,0.0
+human_athlete,Lenka Ledvinová,sex or gender,female,What is the sex or gender of Lenka Ledvinová?,The provided text does not contain any information regarding Lenka Ledvinová's,0.0
+human_athlete,Věra Suková,handedness,right-handedness,What is the handedness of Věra Suková?,Věra Suková is right-handed,0.0
+human_athlete,Joe Gold,place of birth,Boyle Heights,What is the place of birth of Joe Gold?,"Joe Gold was born in Los Angeles, California",0.0
+human_athlete,Léonce Deprez,place of birth,Béthune,What is the place of birth of Léonce Deprez?,"Lyon, France",0.0
+human_athlete,Václav Chalupa,sex or gender,male,What is the sex or gender of Václav Chalupa?,The provided text does not contain any information regarding Václav Chalupa's,0.0
+human_athlete,Miroslav Dvořák,drafted by,Philadelphia Flyers,What was Miroslav Dvořák drafted by?,Miroslav Dvořák was drafted by the Austro-Hungarian Empire,0.0
+human_athlete,George Genereux,sex or gender,male,What is the sex or gender of George Genereux?,The provided text does not contain any information regarding George Genereux's sex,0.0
+human_athlete,Petr Čáslava,sex or gender,male,What is the sex or gender of Petr Čáslava?,The provided text does not contain any information regarding Petr Čáslava's sex,0.0
+human_athlete,Ivan Hlinka,sex or gender,male,What is the sex or gender of Ivan Hlinka?,The provided text does not contain any information regarding Ivan Hlinka's sex,0.0
+human_athlete,Helmut Reichmann,occupation,athlete,What is the occupation of Helmut Reichmann?,Politician,0.0
+human_athlete,Ivan Hlinka,place of birth,Most,What is the place of birth of Ivan Hlinka?,"Prague, Czech Republic",0.0
+human_athlete,Torsten Tegnér,mother,Alice Tegnér,Who is the mother of Torsten Tegnér?,"This information is not available in the given context, so I am unable to answer",0.0
+human_athlete,Kateřina Emmons,sex or gender,female,What is the sex or gender of Kateřina Emmons?,The provided text does not contain any information regarding Kateřina Emmons' sex,0.0
+human_athlete,Jiří Kormaník,place of death,Chomutov,What is the place of death of Jiří Kormaník?,He died in a car accident in 2019,0.0
+human_athlete,Milovan Zoričić,place of death,Zagreb,What is the place of death of Milovan Zoričić?,"He is buried in Novo Brdo, Serbia",0.0
+human_athlete,Bill Rodgers,sex or gender,male,What is the sex or gender of Bill Rodgers?,"This information is not available, and I am unable to provide it",0.0
+human_athlete,Aleksandr Kurlovich,sport,weightlifting,What is the sport of Aleksandr Kurlovich?,Chess,0.0
+human_athlete,Frank Shorter,sport,athletics,What is the sport of Frank Shorter?,Frank Shorter is a professional boxer,0.0
+human_athlete,Georg Lurich,sex or gender,male,What is the sex or gender of Georg Lurich?,The provided text does not contain any information regarding Georg Lurich's sex or,0.0
+human_athlete,Mariano Haro,sex or gender,male,What is the sex or gender of Mariano Haro?,The provided text does not contain any information regarding Mariano Haro's sex or,0.0
+human_athlete,Echembrotus,place of birth,Arcadia Regional Unit,What is the place of birth of Echembrotus?,Greece,0.0
+human_athlete,Jaroslav Šilhavý,sex or gender,male,What is the sex or gender of Jaroslav Šilhavý?,The provided text does not contain any information regarding Jaroslav Šilhavý's sex,0.0
+human_athlete,Barbora Strýcová,sex or gender,female,What is the sex or gender of Barbora Strýcová?,The provided text does not contain any information regarding Barbora Strýcová's,0.0
+human_athlete,Martin Straka,field of work,ice hockey,What is the field of work of Martin Straka?,"Martin Straka is a software engineer and entrepreneur, known for his work in cloud",0.0
+human_athlete,Béla Rajki,sex or gender,male,What is the sex or gender of Béla Rajki?,The provided text does not contain any information regarding Béla Rajki's sex or,0.0
+human_athlete,Kateřina Emmons,occupation,athlete,What is the occupation of Kateřina Emmons?,Kateřina Emmons is a fashion designer,0.0
+human_athlete,Mandy François-Elie,sport,athletics,What is the sport of Mandy François-Elie?,Tennis,0.0
+human_athlete,Werner Hoeger,sport,luge,What is the sport of Werner Hoeger?,Werner Hoeger is a German professional football player known for his long-range passing,0.0
+human_athlete,Dominik Hašek,place of birth,Pardubice,What is the place of birth of Dominik Hašek?,"Prague, Czech Republic",0.0
+human_athlete,Jaroslav Benák,sport,ice hockey,What is the sport of Jaroslav Benák?,Tennis,0.0
+human_athlete,Iloosh Khoshabe,country of citizenship,Iran,What is the country of citizenship of Iloosh Khoshabe?,Iloosh Khoshabe is a citizen of the United States,0.0
+human_athlete,Josef Beránek,sex or gender,male,What is the sex or gender of Josef Beránek?,The provided text does not contain any information regarding Josef Beránek's sex,0.0
+human_athlete,Chuck Liddell,place of birth,Santa Barbara,What is the place of birth of Chuck Liddell?,"Chuck Liddell was born in San Diego, California",0.0
+human_athlete,Petr Čáslava,member of sports team,HC Pardubice,What is the member of sports team of Petr Čáslava?,CSK,0.0
+human_athlete,Václav Kozák,sport,rowing,What is the sport of Václav Kozák?,Václav Kozák is a professional tennis player known for his powerful serve and aggressive,0.0
+human_athlete,Martyna Wojciechowska,sex or gender,female,What is the sex or gender of Martyna Wojciechowska?,The provided text does not contain any information regarding Martyna Wojciechowska's sex,0.0
+human_athlete,Magnús Scheving,country of citizenship,Iceland,What is the country of citizenship of Magnús Scheving?,"Not provided in the given context, so I cannot answer this question from the provided",0.0
+human_athlete,Bernard Hinault,place of birth,Yffiniac,What is the place of birth of Bernard Hinault?,"Paris, France",0.0
+human_athlete,Heide Rosendahl,sex or gender,female,What is the sex or gender of Heide Rosendahl?,The provided text does not contain any information regarding Heide Rosendahl's sex,0.0
+human_athlete,József Várszegi,sport,athletics,What is the sport of József Várszegi?,Hungarian football,0.0
+human_athlete,Robert Lang,sex or gender,male,What is the sex or gender of Robert Lang?,The provided text does not contain any information regarding Robert Lang's sex or gender,0.0
+human_athlete,Arnaud Assoumani,sex or gender,male,What is the sex or gender of Arnaud Assoumani?,The provided text does not contain any information regarding Arnaud Assoumani's sex,0.0
+human_athlete,Martin Ručinský,sex or gender,male,What is the sex or gender of Martin Ručinský?,The provided text does not contain any information regarding Martin Ručinský's,0.0
+human_athlete,Gyula Halasy,place of birth,Kisvárda,Who is the place of birth of Gyula Halasy?,"Gyula Halasy was born in Budapest, Hungary",0.0
+human_athlete,Natascha Badmann,sport,triathlon,What is the sport of Natascha Badmann?,Natascha Badmann is a figure skater,0.0
+human_athlete,Jim Henderson,sex or gender,male,What is the sex or gender of Jim Henderson?,The provided text does not contain any information regarding Jim Henderson's sex or gender,0.0
+human_athlete,Georg Lurich,place of burial,Estonia,What is the place of burial of Georg Lurich?,"St. Stephen's Cathedral, Zurich",0.0
+human_athlete,Neus Garriga Turón,sport,sailing,What is the sport of Neus Garriga Turón?,Neus Garriga Turón is a sport of throwing stones at targets,0.0
+human_athlete,"Jacobo Fitz-James Stuart, 17th Duke of Alba",father,"Carlos María Fitz-James Stuart, 16th Duke of Alba","Who is the father of Jacobo Fitz-James Stuart, 17th Duke of Alba?",The provided text does not contain any information regarding the father of Jacobo Fitz-,0.0
+human_athlete,Fritz R. Huitfeldt,place of death,Oslo,What is the place of death of Fritz R. Huitfeldt?,The provided text does not contain any information regarding Fritz R. Huitfeldt',0.0
+human_athlete,Eusébio,sport,association football,What is the sport of Eusébio?,"Eusébio is a sport of speed, agility, and ball control",0.0
+human_athlete,Callias II,time period,classical antiquity,What is the time period of Callias II?,384-415 CE,0.0
+human_athlete,Adam Wolff,sport,rowing,What is the sport of Adam Wolff?,Golf,0.0
+human_athlete,Yevgeniy Abalakov,sport,mountaineering,What is the sport of Yevgeniy Abalakov?,Yevgeniy Abalakov is a Russian professional ice hockey player,0.0
+human_athlete,Věra Čáslavská,place of burial,Černošice,What is the place of burial of Věra Čáslavská?,Kutná Hora,0.0
+human_athlete,Helmut Reichmann,sex or gender,male,What is the sex or gender of Helmut Reichmann?,The provided text does not contain any information regarding Helmut Reichmann's sex or,0.0
+human_athlete,Mark Verstegen,field of work,physical fitness,What is the field of work of Mark Verstegen?,"Mark Verstegen is a cybersecurity expert and author, focusing on digital forensics,",0.0
+human_athlete,Henryk Dobrzański,field of work,military service,What is the field of work of Henryk Dobrzański?,"Polish composer, conductor, and academic",0.0
+human_athlete,Josef Černý,place of birth,Rožmitál pod Třemšínem,What is the place of birth of Josef Černý?,"Prague, Czech Republic",0.0
+human_athlete,Yevgeniy Abalakov,place of birth,Krasnoyarsk,What is the place of birth of Yevgeniy Abalakov?,"Yevgeniy Abalakov was born in Leningrad, Russia",0.0
+human_athlete,Chuck Liddell,sex or gender,male,What is the sex or gender of Chuck Liddell?,The provided text does not contain any information regarding Chuck Liddell's sex or,0.0
+human_athlete,Miroslav Dvořák,cause of death,esophageal cancer,What is the cause of death of Miroslav Dvořák?,Cardiovascular disease was the primary cause of death for Miroslav Dvořák,0.0
+human_athlete,Hugó Payr,place of death,Budapest,What is the place of death of Hugó Payr?,"Granada, Spain",0.0
+human_athlete,Andrea Sestini Hlaváčková,residence,Monte Carlo,Who is the residence of Andrea Sestini Hlaváčková?,"Andrea Sestini Hlaváčková resides in Prague, Czech Republic",0.0
+human_athlete,Kevin Peter Hall,sex or gender,male,What is the sex or gender of Kevin Peter Hall?,The provided text does not contain any information regarding Kevin Peter Hall's sex or,0.0
+human_athlete,Alexandros I of Macedon,place of death,Macedonia,What is the place of death of Alexandros I of Macedon?,"Alexandros I of Macedon died in Pella, Greece",0.0
+human_athlete,Antal Róka,sex or gender,male,What is the sex or gender of Antal Róka?,The provided text does not contain any information regarding Antal Róka's sex or,0.0
+human_athlete,Ana Mendieta,ethnic group,Cuban Americans,What is the ethnic group of Ana Mendieta?,The provided text does not contain any information regarding Ana Mendieta's ethnic group,0.0
+human_athlete,Gustl Berauer,sex or gender,male,What is the sex or gender of Gustl Berauer?,The provided text does not contain any information regarding Gustl Berauer's sex,0.0
+human_athlete,Christian Hosoi,field of work,skateboarding,What is the field of work of Christian Hosoi?,"Christian Hosoi is a software engineer and entrepreneur, known for his work on open",0.0
+human_athlete,Jean-Baptiste Charcot,place of death,Iceland,What is the place of death of Jean-Baptiste Charcot?,"Paris, France",0.0
+human_athlete,George Genereux,country for sport,Canada,What is the country for sport of George Genereux?,France,0.0
+human_athlete,Lubor Tesař,sport,cycle sport,What is the sport of Lubor Tesař?,Lubor Tesař is a professional ice hockey player,0.0
+human_athlete,Milan Kajkl,sport,ice hockey,What is the sport of Milan Kajkl?,Milan Kajkl is a water sport involving kayaking with a blade,0.0
+human_athlete,Andrea Sestini Hlaváčková,playing hand,right-handedness,What is the playing hand of Andrea Sestini Hlaváčková?,Andrea Sestini Hlaváčková has a strong suit-playing hand,0.0
+human_athlete,Jim Bush,occupation,athlete,What is the occupation of Jim Bush?,Businessman,0.0
+human_athlete,Karl Majcen,sex or gender,male,What is the sex or gender of Karl Majcen?,The provided text does not contain any information regarding Karl Majcen's sex or,0.0
+human_athlete,Christine Theiss,family name,Hennig,Who is the family name of Christine Theiss?,Christine Theiss is a member of the Theiss family,0.0
+human_athlete,Jiří Mužík,sex or gender,male,What is the sex or gender of Jiří Mužík?,The provided text does not contain any information regarding Jiří Mužík's sex,0.0
+human_athlete,Libor Podmol,place of birth,Ostrava,What is the place of birth of Libor Podmol?,"Prague, Czech Republic",0.0

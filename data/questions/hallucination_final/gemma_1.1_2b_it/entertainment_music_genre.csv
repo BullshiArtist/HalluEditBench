@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+entertainment_music_genre,synthwave,country of origin,United Kingdom,What is the country of origin of synthwave?,United States,0.0
+entertainment_music_genre,Romantic music,follows,Classical period,What does Romantic music follow?,"Romantic music follows emotional expression, storytelling, and a sense of grandeur",0.0
+entertainment_music_genre,glam rock,country of origin,United Kingdom,What is the country of origin of glam rock?,United States,0.0
+entertainment_music_genre,choral music,practiced by,choir director,What was choral music practiced by?,Choral music was practiced by religious groups and communities,0.0
+entertainment_music_genre,Christmas music,has characteristic,Christmas tradition,When does Christmas music have characteristic?,"Christmas music is characterized by festive melodies, seasonal themes, and holiday-specific lyrics",0.0
+entertainment_music_genre,grime,country of origin,United Kingdom,What is the country of origin of grime?,"The country of origin of grime is not specified in the given context, so I",0.0
+entertainment_music_genre,art rock,country of origin,United Kingdom,What is the country of origin of art rock?,United States,0.0
+entertainment_music_genre,calypso,country of origin,Trinidad and Tobago,What is the country of origin of calypso?,Calypso is a musical and cultural tradition originating from the Caribbean islands,0.0
+entertainment_music_genre,dubstep,based on,UK garage,What was dubstep based on?,Dubstep was rooted in breakbeat music and heavy basslines,0.0
+entertainment_music_genre,Baroque music,follows,Renaissance music,What does Baroque music follow?,"Baroque music follows the principles of counterpoint, elaborate ornamentation, and religious inspiration",0.0
+entertainment_music_genre,folk punk,country of origin,United Kingdom,What is the country of origin of folk punk?,Punk rock originated in the United States,0.0
+entertainment_music_genre,broken beat,country of origin,United Kingdom,What is the country of origin of broken beat?,United States,0.0
+entertainment_music_genre,sardana,location of creation,Catalonia,What is the location of creation of sardana?,Spain,0.0
+entertainment_music_genre,clausula,said to be the same as,cadence,What did clausula say to be the same as?,Nothing stated in the provided context indicates what Clausula said to be the same as,0.0
+entertainment_music_genre,zouk,country of origin,French West Indies,What is the country of origin of zouk?,Morocco,0.0
+entertainment_music_genre,descant,said to be the same as,soprano,What did descant say to be the same as?,"Descant suggests ""analogy.""",0.0
+entertainment_music_genre,no wave,location of creation,New York City,What is the location of creation of no wave?,The location of creation of no wave is the universe,0.0
+entertainment_music_genre,overture,followed by,allemande,What was overture followed by?,"I do not have access to real-time information, therefore I am unable to",0.0
+entertainment_music_genre,cantata,language of work or name,Italian,What is the language of work or name of cantata?,"I do not have access to real-time information, therefore I am unable to",0.0
+entertainment_music_genre,lovers rock,country of origin,United Kingdom,What is the country of origin of lovers rock?,Jamaica,0.0
+entertainment_music_genre,heavy metal,country of origin,United Kingdom,What is the country of origin of heavy metal?,Heavy metal has its roots in the United States and England,0.0
+entertainment_music_genre,raï,location of creation,Oran,What is the location of creation of raï?,Raï is created in the Sahara Desert region of North Africa,0.0
+entertainment_music_genre,progressive rock,influenced by,classical music,What was progressive rock influenced by?,"Progressive rock drew inspiration from various genres such as classical, jazz, and electronic music",0.0
+entertainment_music_genre,progressive rock,country of origin,United Kingdom,What is the country of origin of progressive rock?,Progressive rock originated in the United States,0.0
+entertainment_music_genre,acid jazz,country of origin,United Kingdom,What is the country of origin of acid jazz?,United States,0.0
+entertainment_music_genre,music of Japan,culture,culture of Japan,What is the culture of music of Japan?,"Japanese music is renowned for its unique blend of tradition and innovation, incorporating elements of",0.0
+entertainment_music_genre,vocal music,has cause,singing,What does vocal music have cause?,"Vocal music has caused emotional and psychological effects, fostering connection, expression, and cath",0.0
+entertainment_music_genre,bikutsi,country of origin,Cameroon,What is the country of origin of bikutsi?,Bikutsi is a cultural and ethnic group from Central Africa,0.0
+entertainment_music_genre,modern classical music,followed by,contemporary classical music,What was modern classical music followed by?,Modern classical music was followed by contemporary music,0.0
+entertainment_music_genre,Latin trap,country of origin,Puerto Rico,What is the country of origin of Latin trap?,Latin trap is associated with Latin America,0.0
+entertainment_music_genre,drone metal,influenced by,drone music,What was drone metal influenced by?,Heavy metal and industrial music,0.0
+entertainment_music_genre,lambada,country of origin,Brazil,What is the country of origin of lambada?,Lebanon,0.0
+entertainment_music_genre,overtone singing,uses,harmonic,What does overtone singing use?,Overtone singing uses the intentional use of higher-pitched notes to create a distinctive,0.0
+entertainment_music_genre,Latin pop,has part(s),Latin ballad,What does Latin pop have part(s )?,Latin pop has Latin influences and dance elements,0.0
+entertainment_music_genre,zouk,derivative work,kuduro,What is the derivative work of zouk?,"Zouk has a complex and nuanced derivative work, influenced by its rhythmic and melodic",0.0
+entertainment_music_genre,speed metal,country of origin,United Kingdom,What is the country of origin of speed metal?,Germany,0.0
+entertainment_music_genre,sertanejo,named after,Sertão,What was sertanejo named after?,"Sertanejo was named after the Portuguese word for ""sergeant.""",0.0
+entertainment_music_genre,stride piano,movement,Harlem Renaissance,What is the movement of stride piano?,"Stride piano movement is a rhythmic, syncopated approach to playing that emphasizes the",0.0
+entertainment_music_genre,breakbeat,country of origin,United Kingdom,What is the country of origin of breakbeat?,United States,0.0
+entertainment_music_genre,doom metal,named after,Epicus Doomicus Metallicus,What was doom metal named after?,Doom metal was named after the feeling of impending doom or destruction,0.0
+entertainment_music_genre,Christian hymn,religion or worldview,Christianity,What is the religion or worldview of Christian hymn?,Christian hymn typically conveys religious faith and spiritual values,0.0
+entertainment_music_genre,jungle,country of origin,United Kingdom,What is the country of origin of jungle?,Tropical,0.0
+entertainment_music_genre,Renaissance music,followed by,Baroque music,What was Renaissance music followed by?,"Classical music.  The Renaissance was a period of great cultural and artistic advancement,",0.0
+entertainment_music_genre,Hokkien pop,country of origin,Taiwan,What is the country of origin of Hokkien pop?,Hokkien pop has its roots in Singapore and Malaysia,0.0
+entertainment_music_genre,Romantic music,followed by,modern classical music,What was Romantic music followed by?,Romanticism was followed by Romanticism,0.0
+entertainment_music_genre,trip hop,country of origin,United Kingdom,What is the country of origin of trip hop?,United States,0.0
+entertainment_music_genre,city pop,named after,city,What was city pop named after?,Inspired by Japanese electronic music,0.0
+entertainment_music_genre,enka,country of origin,Japan,What is the country of origin of enka?,Peru,0.0
+entertainment_music_genre,Gregorian chant,named after,Gregory I,Who was Gregorian chant named after?,Gregorian chant was named after Pope Gregory XIII,0.0
+entertainment_music_genre,amapiano,country of origin,South Africa,What is the country of origin of amapiano?,Brazil,0.0
+entertainment_music_genre,intelligent dance music,country of origin,United Kingdom,What is the country of origin of intelligent dance music?,The country of origin of intelligent dance music is predominantly the United States and Europe,0.0
+entertainment_music_genre,Rabindra Sangeet,language of work or name,Bangla,What is the language of work or name of Rabindra Sangeet?,Rabindra Sangeet is a language of poetry and music,0.0
+entertainment_music_genre,music of Germany,country,Germany,What is the country of music of Germany?,German country music is not a recognized genre,0.0
+entertainment_music_genre,UK rap,country of origin,United Kingdom,What is the country of origin of UK rap?,UK rap has its roots in the Caribbean and African American communities,0.0
+entertainment_music_genre,country rap,influenced by,country music,What was country rap influenced by?,Hip-hop,0.0
+entertainment_music_genre,J-pop,named after,J-Wave,What was J-pop named after?,Japanese pop music,0.0
+entertainment_music_genre,bluegrass music,discoverer or inventor,Bill Monroe,Who is the discoverer or inventor of bluegrass music?,Bluegrass music originated with African American communities in the Appalachian Mountains,0.0
+entertainment_music_genre,jota,language of work or name,Spanish,What is the language of work or name of jota?,"I do not have access to personal or contextual data, including language of work or",0.0
+entertainment_music_genre,Minnesang,practiced by,Minnesänger,What was Minnesang practiced by?,"Minnesang was practiced by the Minnesotan people, an indigenous group of",0.0
+entertainment_music_genre,dubstep,influenced by,dub music,What was dubstep influenced by?,"Dubstep was heavily influenced by breakbeat, drum and bass, and hip hop",0.0
+entertainment_music_genre,twelve-tone technique,uses,tone row,What does twelve-tone technique use?,Twelve-tone technique uses to create a sense of ambiguity and depth in sound,0.0
+entertainment_music_genre,dubstep,named after,dub music,What was dubstep named after?,"Dubstep was named after the Dub Foundation, a record label and production company",0.0
+entertainment_music_genre,choral music,instrumentation,choir,What is the instrumentation of choral music?,"Choral music is typically characterized by vocal harmonies, complex polyphony, and a",0.0
+entertainment_music_genre,shoegaze,country of origin,United Kingdom,What is the country of origin of shoegaze?,United States,0.0
+entertainment_music_genre,jazz rap,influenced by,jazz,What was jazz rap influenced by?,Hip hop,0.0
+entertainment_music_genre,Carnatic music,country of origin,Karnataka,What is the country of origin of Carnatic music?,Carnatic music originates from South India,0.0
+entertainment_music_genre,turntablism,named after,phonograph,What was turntablism named after?,Turntablism was named after the American composer and record producer Thomas Turntable,0.0
+entertainment_music_genre,bongo flava,country of origin,Tanzania,What is the country of origin of bongo flava?,Congo,0.0
+entertainment_music_genre,Celtic rock,country of origin,Celtic nations,What is the country of origin of Celtic rock?,Celtic rock originated in the Celtic region of Europe,0.0
+entertainment_music_genre,modern classical music,follows,Romantic music,What does modern classical music follow?,"Classical music follows established forms, structures, and compositional techniques",0.0
+entertainment_music_genre,rockabilly,derivative work,swamp rock,What is the derivative work of rockabilly?,"Rockabilly's derivative work is a fusion of rock and roll, country",0.0
+entertainment_music_genre,Gregorian chant,language of work or name,Latin,What is the language of work or name of Gregorian chant?,"I do not have access to real-time information, therefore I am unable to",0.0
+entertainment_music_genre,gwo ka,location of creation,Guadeloupe,What is the location of creation of gwo ka?,China,0.0
+entertainment_music_genre,industrial music,country of origin,United Kingdom,What is the country of origin of industrial music?,Industrial music originated in Europe and North America,0.0
+entertainment_music_genre,hip hop music,has part(s),rapping,What does hip hop music have part(s )?,"Hip hop music has rhythm, rhyme, and cultural significance",0.0
+entertainment_music_genre,music hall,said to be the same as,vaudeville,What did music hall say to be the same as?,Entertainment,0.0
+entertainment_music_genre,jazz,practiced by,jazz musician,What was jazz practiced by?,Jazz was practiced by African Americans in the late 19th and early,0.0
+entertainment_music_genre,Classical period,followed by,Romantic music,What was Classical period followed by?,The Classical period was followed by the Middle Ages,0.0
+entertainment_music_genre,instrumental music,has cause,musical instrument,What does instrumental music have cause?,"Instrumental music aims to evoke specific emotions, convey narrative, or express technical proficiency",0.0
+entertainment_music_genre,nightcore,country of origin,Norway,What is the country of origin of nightcore?,Nightcore has its roots in the United States,0.0
+entertainment_music_genre,estampie,form of creative work,poem,What is the form of creative work of estampie?,Stampie is a form of creative work that utilizes stamps as a medium for artistic,0.0
+entertainment_music_genre,oi!,country of origin,United Kingdom,What is the country of origin of oi!?,Malaysia,0.0
+entertainment_music_genre,steel band music,uses,steelpan,What does steel band music use?,Steel band music uses percussive elements and soulful melodies,0.0
+entertainment_music_genre,Latin trap,language of work or name,Spanish,What is the language of work or name of Latin trap?,Latin trap,0.0
+entertainment_music_genre,traditional folk music,practiced by,traditional folk singer,What was traditional folk music practiced by?,"Traditional folk music was typically practiced by communities for cultural expression, storytelling, and social",0.0
+entertainment_music_genre,hyperpop,has characteristic,eclecticism,What does hyperpop have characteristic?,"Hyperpop is characterized by experimental sounds, distorted aesthetics, and a playful approach to",0.0
+entertainment_music_genre,canzona,said to be the same as,canzone,What did canzona say to be the same as?,"""Ditto.""",0.0
+entertainment_music_genre,reggaeton,country of origin,Puerto Rico,What is the country of origin of reggaeton?,Dominican Republic,0.0
+entertainment_music_genre,mento,country of origin,Jamaica,What is the country of origin of mento?,Italy,0.0
+entertainment_music_genre,Benga music,country of origin,Kenya,What is the country of origin of Benga music?,Benga music originates from Congo,0.0
+entertainment_music_genre,doom metal,country of origin,United Kingdom,What is the country of origin of doom metal?,Doom metal originated from the United States,0.0
+entertainment_music_genre,contemporary classical music,follows,modern classical music,What does contemporary classical music follow?,Evolution of classical music from the past,0.0
+entertainment_music_genre,nagauta,uses,Shamisen,Who does nagauta use?,Nagauta primarily uses her fans and assistants,0.0
+entertainment_music_genre,G-funk,discoverer or inventor,Above the Law,What is the discoverer or inventor of G-funk?,The discoverer or inventor of G-funk is not explicitly mentioned in the provided,0.0
+entertainment_music_genre,chanson,named after,song,What was chanson named after?,"The provided text does not specify the name of the chanson, so I cannot answer",0.0
+entertainment_music_genre,divertimento,said to be the same as,divertissement,What did divertimento say to be the same as?,Nothing stated in the provided context,0.0
+entertainment_music_genre,lounge music,country of origin,United Kingdom,What is the country of origin of lounge music?,The country of origin for lounge music is the United States,0.0
+entertainment_music_genre,zouk,location of creation,French West Indies,What is the location of creation of zouk?,"The location of creation of zouk is the Middle East, specifically in the Levant",0.0
+entertainment_music_genre,salon music,said to be the same as,light music,What did salon music say to be the same as?,Tempo,0.0
+entertainment_music_genre,Russian music,ethnic group,Russians,What is the ethnic group of Russian music?,"Russian music has a rich and diverse ethnic heritage, influenced by various groups such as",0.0
+entertainment_music_genre,big beat,country of origin,United Kingdom,What is the country of origin of big beat?,United States,0.0
+entertainment_music_genre,country music,practiced by,country musician,What was country music practiced by?,Country music was primarily practiced by rural communities in the United States,0.0
+entertainment_music_genre,trance,country of origin,Germany,What is the country of origin of trance?,"Trance has its roots in various cultures around the world, including India, Africa",0.0
+entertainment_music_genre,fandango,country of origin,Brazil,What is the country of origin of fandango?,Mexico,0.0
+entertainment_music_genre,rocksteady,based on,ska,What was rocksteady based on?,Rocksteady was based on the idea of a relatively stable and unchanging state of the,0.0

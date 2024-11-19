@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+business_brand,Cervélo,country,Canada,What is the country of Cervélo?,France,0.0
+business_brand,Maxell,parent organization,Hitachi,What is the parent organization of Maxell?,Maxell is a division of the Maxell Corporation,0.0
+business_brand,Dasani,owned by,The Coca-Cola Company,What was Dasani owned by?,Dasani,0.0
+business_brand,Dasani,distributed by,The Coca-Cola Company,What was Dasani distributed by?,Dasani was distributed by the company,0.0
+business_brand,La Vie Claire,headquarters location,Montagny,Who is the headquarters location of La Vie Claire?,The headquarters of La Vie Claire is located in the United States.  Question,0.0
+business_brand,Lump of Sugar,language of work or name,Japanese,What is the language of work or name of Lump of Sugar?,Sugar,0.0
+business_brand,Unicoop Firenze,industry,mass-market retailing,What is the industry of Unicoop Firenze?,The industry of Unicoop Firenze is the production of firenze,0.0
+business_brand,Lambretta,headquarters location,Lambrate,What is the headquarters location of Lambretta?,The headquarters of Lambretta is in Italy,0.0
+business_brand,Ziaja,industry,cosmetics industry,What is the industry of Ziaja?,Ziaja is a company that makes and sells products,0.0
+business_brand,Billa,industry,retail,What is the industry of Billa?,Billa is a mobile payment service provider,0.0
+business_brand,Harman Kardon,owned by,Samsung,What was Harman Kardon owned by?,Harman Kardon,0.0
+business_brand,National Book Store,headquarters location,Mandaluyong,What is the headquarters location of National Book Store?,National Book Store is located at 5th Avenue and Broadway.  ,0.0
+business_brand,Det Nye,headquarters location,Oslo,What is the headquarters location of Det Nye?,Det Nye is located in the United States,0.0
+business_brand,Alexander McQueen,owned by,Kering,What was Alexander McQueen owned by?,Alexander McQueen,0.0
+business_brand,knot,country,Japan,What is the country of knot?,Knot,0.0
+business_brand,TDK,country,Japan,What is the country of TDK?,India,0.0
+business_brand,Vilebrequin,headquarters location,Geneva,What is the headquarters location of Vilebrequin?,Vilebrequin is headquartered in the United States,0.0
+business_brand,Mobil,creator,anonymous,What is the creator of Mobil?,The creator of Mobil is the Mobil Corporation,0.0
+business_brand,ASPESI,legal form,joint-stock company,What is the legal form of ASPESI?,ASPESI is a registered trade mark,0.0
+business_brand,Christian Louboutin Ltd.,legal form,privately held company,What is the legal form of Christian Louboutin Ltd.?,The legal form of Christian Louboutin Ltd. is limited partnership. Question,0.0
+business_brand,Cappellini  S.p.A.,legal form,joint-stock company,What is the legal form of Cappellini  S.p.A.?,Cappellini S.p.A. is a company incorporated in Italy,0.0
+business_brand,Lancôme,parent organization,L'Oréal,What is the parent organization of Lancôme?,Lancôme,0.0
+business_brand,Vox,industry,musical instrument making,What is the industry of Vox?,Media,0.0
+business_brand,Fiat,stock exchange,Italian Stock Exchange,What is the stock exchange of Fiat?,Fiat is the stock exchange of Fiat,0.0
+business_brand,Listerine,owned by,Johnson & Johnson,What was Listerine owned by?,Listerine,0.0
+business_brand,Nike,legal form,joint-stock company,What is the legal form of Nike?,Nike,0.0
+business_brand,Braun,industry,electrical industry,What is the industry of Braun?,Braun is a manufacturer of consumer products,0.0
+business_brand,TDK,stock exchange,Tokyo Stock Exchange,What is the stock exchange of TDK?,TDK,0.0
+business_brand,Moulinex,parent organization,Groupe SEB,What is the parent organization of Moulinex?,Moulinex is a French company,0.0
+business_brand,Inc & Co Group,board member,Dave Antrobus,Who is the board member of Inc & Co Group?,Inc & Co Group,0.0
+business_brand,zahracleaning,manufacturer,Johnson & Johnson,What is the manufacturer of zahracleaning?,zahracleaning,0.0
+business_brand,Esso,named after,Standard Oil,What was Esso named after?,Exxon,0.0
+business_brand,Parker Brothers,owned by,Hasbro,What was Parker Brothers owned by?,Parker Brothers,0.0
+business_brand,Tropicana Products,director / manager,Vincent Prolongeau,Who is the director / manager of Tropicana Products?,I am the director / manager of Tropicana Products.  ,0.0
+business_brand,Key,country,Japan,What is the country of Key?,United States,0.0
+business_brand,Arri,headquarters location,Munich,What is the headquarters location of Arri?,The headquarters of Arri is in the United States,0.0
+business_brand,fraenk,platform,iOS,What is the platform of fraenk?,The platform of fraenk is a platform for the exchange of digital assets,0.0
+business_brand,BMW Motorrad,headquarters location,Berlin,What is the headquarters location of BMW Motorrad?,"Munich, Germany",0.0
+business_brand,Ford Motor Company,stock exchange,New York Stock Exchange,What is the stock exchange of Ford Motor Company?,Ford Motor Company is a stock exchange,0.0
+business_brand,Snickers,owned by,"Mars, Incorporated",What was Snickers owned by?,Mars ,0.0
+business_brand,Minute Maid,parent organization,The Coca-Cola Company,What is the parent organization of Minute Maid?,Minute Maid,0.0
+business_brand,Syndicate Bank,headquarters location,Manipal,What is the headquarters location of Syndicate Bank?,Mumbai,0.0
+business_brand,ASPESI,headquarters location,Legnano,What is the headquarters location of ASPESI?,The headquarters of ASPESI is located in the United States.  Question,0.0
+business_brand,Diet Mountain Dew,manufacturer,PepsiCo,What is the manufacturer of Diet Mountain Dew?,Diet Mountain Dew,0.0
+business_brand,Pantene,manufacturer,Procter & Gamble,What is the manufacturer of Pantene?,Pantene,0.0
+business_brand,Vox,parent organization,Korg,What is the parent organization of Vox?,Vox Media,0.0
+business_brand,Microsoft Surface,manufacturer,Pegatron,What is the manufacturer of Microsoft Surface?,Microsoft,0.0
+business_brand,Orangina,founded by,Jean-Claude Beton,Who was Orangina founded by?,Orangina was founded by a man named Pierre Orangina,0.0
+business_brand,Kidz Bop,genre,pop music,What is the genre of Kidz Bop?,Music ,0.0
+business_brand,TED,curator,Chris Anderson,Who is the curator of TED?,TED is a nonprofit organization that produces conferences and media events,0.0
+business_brand,Harry's,platform,iOS,What is the platform of Harry's?,Platform,0.0
+business_brand,Nivea,founded by,Paul Carl Beiersdorf,Who was Nivea founded by?,Nivea was founded by the Nivea family,0.0
+business_brand,Cannondale Bicycle Corporation,industry,bicycle industry,What is the industry of Cannondale Bicycle Corporation?,Bicycle,0.0
+business_brand,LG Electronics,owned by,LG Group,What was LG Electronics owned by?,LG Electronics was owned by LG Corporation,0.0
+business_brand,Jetour,owned by,Chery,What was Jetour owned by?,Jetour was owned by the Jetour Corporation,0.0
+business_brand,Harman Kardon,founded by,Sidney Harman,Who was Harman Kardon founded by?,Harman Kardon was founded by Harman Kardon.  ,0.0
+business_brand,Marantz,headquarters location,Kawasaki,What is the headquarters location of Marantz?,Marantz,0.0
+business_brand,ASPESI,field of work,clothing,What is the field of work of ASPESI?,ASPESI is a non-profit organization that provides services to people with disabilities,0.0
+business_brand,Penny,industry,retail,What is the industry of Penny?,Penny is a coin,0.0
+business_brand,Exide,industry,energy industry,What is the industry of Exide?,Battery,0.0
+business_brand,Nike,stock exchange,New York Stock Exchange,What is the stock exchange of Nike?,Nike,0.0
+business_brand,Malibu,manufacturer,Pernod Ricard,Who is the manufacturer of Malibu?,Malibu is a brand of automobile,0.0
+business_brand,SThree,country,United Kingdom,What is the country of SThree?,SThree,0.0
+business_brand,Ring,owned by,Amazon,What was Ring owned by?,Ring,0.0
+business_brand,Conoco,legal form,public company,What is the legal form of Conoco?,Conoco is a legal form of petroleum,0.0
+business_brand,Tropicana Products,founded by,Anthony T. Rossi,Who was Tropicana Products founded by?,The founder of Tropicana Products was Frank W. Tropicana,0.0
+business_brand,Tetra Pak,founded by,Ruben Rausing,Who was Tetra Pak founded by?,Tetra Pak was founded by Lars Magnus Ericsson,0.0
+business_brand,knot,legal form,joint-stock company,What is the legal form of knot?,A knot,0.0
+business_brand,Coca-Cola Freestyle,uses,touchscreen,What does Coca-Cola Freestyle use?,Coca-Cola Freestyle uses a machine that mixes different flavors of Coca-Cola,0.0
+business_brand,National Book Store,country,Philippines,What is the country of National Book Store?,Japan,0.0
+business_brand,Giant Bicycles,founded by,King Liu,Who was Giant Bicycles founded by?,"Giant Bicycles was founded by John and Robert L. ""Jack"" Giant",0.0
+business_brand,TDK,headquarters location,Minato,What is the headquarters location of TDK?,"Tokyo, Japan",0.0
+business_brand,Indiana Jones,owned by,Lucasfilm,What was Indiana Jones owned by?,His hat,0.0
+business_brand,Bell Resources,director / manager,Mark Avery,Who is the director / manager of Bell Resources?,Bell Resources,0.0
+business_brand,Brionvega,headquarters location,Pordenone,What is the headquarters location of Brionvega?,Brionvega is headquartered in the United States,0.0
+business_brand,Logitech,location of formation,Apples,What is the location of formation of Logitech?,The location of formation of Logitech is in the United States.  Question,0.0
+business_brand,Aeon,country,Japan,What is the country of Aeon?,Aeon,0.0
+business_brand,Zelmotor,replaces,Zelmer S.A.,What does Zelmotor replace?,A motor,0.0
+business_brand,Petzone,legal form,private limited company,What is the legal form of Petzone?,Petzone is a legal form of business,0.0
+business_brand,Irshad,country,Azerbaijan,What is the country of Irshad?,Pakistan,0.0
+business_brand,Royal Copenhagen,owned by,Fiskars,What was Royal Copenhagen owned by?,Royal Copenhagen,0.0
+business_brand,Oakpont,director / manager,Brenton Avery,Who is the director / manager of Oakpont?,The director / manager of Oakpont is Mr. John Smith,0.0
+business_brand,Nivea,country,Germany,What is the country of Nivea?,France,0.0
+business_brand,Marantz,location of formation,New York City,What is the location of formation of Marantz?,Marantz is a city in the state of Maharashtra,0.0
+business_brand,Toshiba,headquarters location,Minato,What is the headquarters location of Toshiba?,"Tokyo, Japan",0.0
+business_brand,Codere,stock exchange,Nasdaq,What is the stock exchange of Codere?,Codere is a stock exchange,0.0
+business_brand,Yangwang,owned by,BYD Auto,What was Yangwang owned by?,Yangwang,0.0
+business_brand,Saizeriya,stock exchange,Tokyo Stock Exchange,What is the stock exchange of Saizeriya?,The stock exchange of Saizeriya is the Saizeriya Stock Exchange,0.0
+business_brand,Red Rooster,industry,fast food,What is the industry of Red Rooster?,Restaurant,0.0
+business_brand,Elysium Health,legal form,privately held company,What is the legal form of Elysium Health?,The legal form of Elysium Health is a corporation,0.0
+business_brand,Oakpont,chief executive officer,Brenton Avery,Who is the chief executive officer of Oakpont?,The CEO of Oakpont is John Smith,0.0
+business_brand,PULLTOP,industry,video game industry,What is the industry of PULLTOP?,PULLTOP is a manufacturer of pull-top beverage containers,0.0
+business_brand,Vogue,language of work or name,English,What is the language of work or name of Vogue?,Fashion,0.0
+business_brand,ZETA DIVISION,sponsor,Nissin Food Products,What does ZETA DIVISION sponsor?,ZETA DIVISION is a division of the National Association of Broadcasters,0.0
+business_brand,TexVoz,country,United Kingdom,What is the country of TexVoz?,Mexico,0.0
+business_brand,Vespa,named after,wasps,What was Vespa named after?,Vespa is a type of scooter,0.0
+business_brand,Telefunken,founded by,Georg von Arco,Who was Telefunken founded by?,Telefunken was founded by the German company Telefunken,0.0
+business_brand,ASUS,legal form,joint-stock company,What is the legal form of ASUS?,ASUS is a registered trademark of ASUS Corporation,0.0
+business_brand,Vault-Tec Corporation,owned by,Bethesda Softworks,What was Vault-Tec Corporation owned by?,The United States government,0.0
+business_brand,BASF,legal form,Societas Europaea,What is the legal form of BASF?,BASF is a German chemical company,0.0
+business_brand,Billabong,location of formation,Gold Coast,What is the location of formation of Billabong?,The formation of Billabong is in the middle of the ocean,0.0
+business_brand,Tupperware,stock exchange,New York Stock Exchange,What is the stock exchange of Tupperware?,Tupperware,0.0
+business_brand,HEMA,industry,retail,What is the industry of HEMA?,HEMA is a martial art,0.0
+business_brand,Biocoop,headquarters location,Paris,What is the headquarters location of Biocoop?,Biocoop is headquartered in the United States,0.0
+business_brand,Absolut Vodka,owned by,Pernod Ricard,Who was Absolut Vodka owned by?,Absolut Vodka was owned by the Swedish company AB Svenska Cell,0.0

@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+technology_software,Deep Dungeons of Doom,developer,Bossa Studios,What is the developer of Deep Dungeons of Doom?,I am the developer of Deep Dungeons of Doom,0.0
+technology_software,Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay,publisher,"LCG Entertainment, Inc.",What is the publisher of Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay?,Telltale Games.  The game is a point-and-click adventure,0.0
+technology_software,Cainiao,parent organization,Alibaba Group,What is the parent organization of Cainiao?,Cainiao,0.0
+technology_software,Wartile,software engine,Unreal Engine 4,What is the software engine of Wartile?,Wartile is a software engine,0.0
+technology_software,The Adventures of Tintin: The Secret of the Unicorn,genre,action-adventure game,What is the genre of The Adventures of Tintin: The Secret of the Unicorn?,Comic book ,0.0
+technology_software,Chuchel,developer,Amanita Design,What is the developer of Chuchel?,"Chuchel is a free, open-source, cross-platform, cross",0.0
+technology_software,Zapier,investor,Y Combinator,What does Zapier investor?,I am an investor in Zapier,0.0
+technology_software,Xiaohongshu,legal form,public company,What is the legal form of Xiaohongshu?,"The legal form of Xiaohongshu is ""Xiaohongsh",0.0
+technology_software,Google Arts & Culture,used by,National Portrait Gallery,What was Google Arts & Culture used by?,Google Arts & Culture was used by Google to help people find art and culture,0.0
+technology_software,Hieroglyphika,distributed by,Steam,What was Hieroglyphika distributed by?,The Hieroglyphika project was distributed by the Hieroglyphika project,0.0
+technology_software,Flame Over,has characteristic,indie game,What does Flame Over have characteristic?,Flame Over has characteristic of a flame,0.0
+technology_software,Dragon NaturallySpeaking,operating system,Microsoft Windows,What is the operating system of Dragon NaturallySpeaking?,Dragon NaturallySpeaking,0.0
+technology_software,Bob Came in Pieces,game mode,single-player video game,What is the game mode of Bob Came in Pieces?,"""Bob Came in Pieces"" is a game mode in which Bob is a playable",0.0
+technology_software,Tintin in Tibet,publisher,Infogrames,What is the publisher of Tintin in Tibet?,The publisher of Tintin in Tibet is the Hergé Foundation,0.0
+technology_software,Plotly,industry,software industry,What is the industry of Plotly?,Plotly is a data visualization platform,0.0
+technology_software,Kahoot!,country,Norway,What is the country of Kahoot!?,Kahoot!,0.0
+technology_software,certbot,language of work or name,English,What is the language of work or name of certbot?,certbot,0.0
+technology_software,ZFS on Linux,based on,OpenZFS,What was ZFS on Linux based on?,ZFS on Linux is based on the ZFS file system.  Question,0.0
+technology_software,News Channel,distributed by,Nintendo,What was News Channel distributed by?,News Channel,0.0
+technology_software,mystride,complies with,privacy policy,What does mystride comply with?,It complies with the ISO/IEC 27001:2013 standard. Question,0.0
+technology_software,Freeglut,copyright license,MIT License,What is the copyright license of Freeglut?,Freeglut is released under the GNU General Public License (GPL). Question,0.0
+technology_software,MechanicalSoup,copyright license,MIT License,What is the copyright license of MechanicalSoup?,Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License,0.0
+technology_software,NoxPlayer,copyright license,adware,What is the copyright license of NoxPlayer?,NoxPlayer is a free software,0.0
+technology_software,The Adventures of Tintin: The Secret of the Unicorn,composer,Christophe Héral,Who is the composer of The Adventures of Tintin: The Secret of the Unicorn?,Hergé ,0.0
+technology_software,The Hat Man: Shadow Ward,game mode,single-player video game,What is the game mode of The Hat Man: Shadow Ward?,"""Shadow Ward""",0.0
+technology_software,Lisk,copyright license,MIT License,What is the copyright license of Lisk?,Lisk is a decentralized blockchain platform,0.0
+technology_software,Power DoLLS: Detachment of Limited Line Service,genre,turn-based tactics,What is the genre of Power DoLLS: Detachment of Limited Line Service?,Limited Line Service,0.0
+technology_software,pnpm,operating system,cross-platform,What is the operating system of pnpm?,Linux,0.0
+technology_software,rabbitmq-c,copyright license,MIT License,What is the copyright license of rabbitmq-c?,"The copyright license of rabbitmq-c is the Apache License, Version 2",0.0
+technology_software,Java,has characteristic,Turing completeness,What does Java have characteristic?,Java is a programming language,0.0
+technology_software,EiskaltDC++,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of EiskaltDC++?,EiskaltDC++ is a GUI toolkit for Windows.  Question,0.0
+technology_software,Mango TV,parent organization,Hunan Broadcasting System,What is the parent organization of Mango TV?,Mango TV is a subsidiary of Mango Media Group.  ,0.0
+technology_software,Pixel Game Maker MV,distributed by,Steam,What was Pixel Game Maker MV distributed by?,It was distributed by the company Pixelberry,0.0
+technology_software,Super Cloudbuilt,game mode,single-player video game,What is the game mode of Super Cloudbuilt?,Arcade ,0.0
+technology_software,runc,programmed in,Go,What was runc programmed in?,Docker,0.0
+technology_software,J-Pilot,programmed in,GTK,What was J-Pilot programmed in?,J-Pilot was programmed in the C64,0.0
+technology_software,Keras,language of work or name,English,What is the language of work or name of Keras?,Keras,0.0
+technology_software,KDiskFree,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of KDiskFree?,KDiskFree is a GUI toolkit for the KDE desktop environment. ,0.0
+technology_software,pnpm,copyright license,MIT License,What is the copyright license of pnpm?,pnpm is free software,0.0
+technology_software,Pharo,programming paradigm,object-oriented programming,What is the programming paradigm of Pharo?,Functional programming,0.0
+technology_software,Praat,developer,Paul Boersma,Who is the developer of Praat?,Praat is developed by the University of Amsterdam,0.0
+technology_software,Everyday Genius: SquareLogic,distributed by,Steam,What was Everyday Genius: SquareLogic distributed by?,SquareLogic,0.0
+technology_software,KuGou,distributed by,App Store,What was KuGou distributed by?,KuGou was distributed by the KuGou team.  ,0.0
+technology_software,REBOL,programmed in,C,What was REBOL programmed in?,REBOL,0.0
+technology_software,Google Arts & Culture,access restriction status,open access,What is the access restriction status of Google Arts & Culture?,The access restriction status of Google Arts & Culture is restricted,0.0
+technology_software,Singularity,operating system,Linux,What is the operating system of Singularity?,Singularity is an operating system,0.0
+technology_software,popt,programmed in,C,What was popt programmed in?,Python,0.0
+technology_software,Delve Deeper,has characteristic,indie game,What does Delve Deeper have characteristic?,Delve Deeper has characteristic of a tool,0.0
+technology_software,Plotly,operating system,cross-platform,What is the operating system of Plotly?,Plotly is an open-source Python library for creating interactive plots,0.0
+technology_software,Cannon Brawl,has characteristic,indie game,What does Cannon Brawl have characteristic?,Cannon Brawl has characteristic of a cannon,0.0
+technology_software,Crystal Reports,operating system,Microsoft Windows,What is the operating system of Crystal Reports?,Crystal Reports,0.0
+technology_software,Backblaze,headquarters location,San Mateo,What is the headquarters location of Backblaze?,"San Jose, CA",0.0
+technology_software,Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay,developer,"LCG Entertainment, Inc.",What is the developer of Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay?,The developer is Telltale Games.  The game is a point-and,0.0
+technology_software,Pixel Game Maker MV,genre,action game,What is the genre of Pixel Game Maker MV?,Pixel Game Maker MV is a game development tool,0.0
+technology_software,BioPerl,copyright license,Artistic License,What is the copyright license of BioPerl?,The BioPerl license is BSD-style,0.0
+technology_software,TILA App,country of origin,Mexico,What is the country of origin of TILA App?,United States,0.0
+technology_software,Ben and Ed,genre,platform game,What is the genre of Ben and Ed?,Comedy,0.0
+technology_software,Fortix 2,genre,action game,What is the genre of Fortix 2?,Action ,0.0
+technology_software,Zen,copyright license,freeware,What is the copyright license of Zen?,Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License,0.0
+technology_software,GameSpy,industry,video game,What is the industry of GameSpy?,GameSpy is a game-industry service provider,0.0
+technology_software,Deep Dungeons of Doom,distributed by,Steam,What was Deep Dungeons of Doom distributed by?,The publisher,0.0
+technology_software,Contraption Maker,has characteristic,indie game,What does Contraption Maker have characteristic?,It is a tool for making contraptions,0.0
+technology_software,Battlezone 98 Redux,developer,Big Boat Interactive,What is the developer of Battlezone 98 Redux?,The developer of Battlezone 98 Redux is me,0.0
+technology_software,TVer,country,Japan,What is the country of TVer?,The country of TVer is the United States,0.0
+technology_software,Cannon Brawl,software engine,Microsoft XNA,What is the software engine of Cannon Brawl?,Cannon Brawl is a game engine,0.0
+technology_software,Encarta,based on,Funk & Wagnalls,What was Encarta based on?,Microsoft Encarta,0.0
+technology_software,Super Puzzle Platformer Deluxe,game mode,single-player video game,What is the game mode of Super Puzzle Platformer Deluxe?,Puzzle ,0.0
+technology_software,Forecast Channel,genre,journalism,What is the genre of Forecast Channel?,Weather,0.0
+technology_software,Backblaze,stock exchange,Nasdaq,What is the stock exchange of Backblaze?,Backblaze is a cloud storage service,0.0
+technology_software,Ragel,programmed in,C++,What was Ragel programmed in?,Ragel,0.0
+technology_software,Vite,operating system,cross-platform,What is the operating system of Vite?,Vite is an operating system for mobile phones,0.0
+technology_software,Swvl,headquarters location,Dubai,What is the headquarters location of Swvl?,The headquarters of Swvl is located in the United States.  ,0.0
+technology_software,Archeblade,language of work or name,English,What is the language of work or name of Archeblade?,Archeblade,0.0
+technology_software,flask-cors,copyright license,MIT License,What is the copyright license of flask-cors?,Flask-Cors is a Python package that allows you to easily add cross-,0.0
+technology_software,Delve Deeper,distributed by,Steam,What was Delve Deeper distributed by?,Delve Deeper was distributed by the National Science Foundation,0.0
+technology_software,Bun,copyright license,MIT License,What is the copyright license of Bun?,CC BY-NC-SA,0.0
+technology_software,Mitsurugi Kamui Hikae,game mode,single-player video game,What is the game mode of Mitsurugi Kamui Hikae?,"""Mitsurugi Kamui Hikae"" is a game mode in which",0.0
+technology_software,The Marvellous Miss Take,has characteristic,indie game,What does The Marvellous Miss Take have characteristic?,It is a book about a girl who is a detective.  ,0.0
+technology_software,libev,operating system,Linux,What is the operating system of libev?,libev is an event loop library,0.0
+technology_software,JDiskReport,operating system,Microsoft Windows,What is the operating system of JDiskReport?,JDiskReport is a disk usage analyzer,0.0
+technology_software,The Hat Man: Shadow Ward,distributed by,Steam,What was The Hat Man: Shadow Ward distributed by?,The Hat Man: Shadow Ward was distributed by the Hat Man,0.0
+technology_software,ffmpegsource,copyright license,MIT License,What is the copyright license of ffmpegsource?,The ffmpeg source code is released under the GNU General Public License (GPL,0.0
+technology_software,Uber,industry,information technology,What is the industry of Uber?,Transportation,0.0
+technology_software,Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood,developer,"LCG Entertainment, Inc.",What is the developer of Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood?,The developer is Telltale Games,0.0
+technology_software,GameSpy,owned by,IGN,What was GameSpy owned by?,Activision,0.0
+technology_software,Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood,game mode,single-player video game,What is the game mode of Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood?,"""The Trial and Execution of Guybrush Threepwood"" is a game",0.0
+technology_software,SentiOne,location of formation,Gdańsk,What is the location of formation of SentiOne?,The formation of SentiOne is in the United States.  ,0.0
+technology_software,Lumina Desktop,operating system,Unix,What is the operating system of Lumina Desktop?,Lumina Desktop is a Linux distribution,0.0
+technology_software,Filecoin,developer,Protocol Labs,What is the developer of Filecoin?,Filecoin is a decentralized protocol for storing and sharing data,0.0
+technology_software,Forecast Channel,country of origin,Japan,What is the country of origin of Forecast Channel?,Forecast Channel is a television channel based in the United States.  Question,0.0
+technology_software,Mailchimp,founded by,Ben Chestnut,Who was Mailchimp founded by?,Jason Lemkin,0.0
+technology_software,Juno,industry,information technology,What is the industry of Juno?,The Juno industry is the industry of Juno,0.0
+technology_software,Relic Hunters Zero,has characteristic,indie game,What does Relic Hunters Zero have characteristic?,It is a game that is easy to play and easy to learn,0.0
+technology_software,News Channel,developer,Nintendo,What is the developer of News Channel?,News Channel is a news channel,0.0
+technology_software,Uber,chief executive officer,Dara Khosrowshahi,Who is the chief executive officer of Uber?,Travis Kalanick,0.0
+technology_software,Hieroglyphika,game mode,single-player video game,What is the game mode of Hieroglyphika?,"""Hieroglyphika is a game mode in which you can play with",0.0
+technology_software,ITVX,developer,ITV plc,What is the developer of ITVX?,ITVX is a company that develops and sells a software product called ITVX,0.0
+technology_software,Verilator,programmed in,C++,What was Verilator programmed in?,Verilator,0.0
+technology_software,Flame Over,game mode,single-player video game,What is the game mode of Flame Over?,"""Flame Over is a game mode where you have to defend your base from",0.0
+technology_software,Google+,chief executive officer,Bradley Horowitz,Who is the chief executive officer of Google+?,Larry Page,0.0
+technology_software,Adobe InDesign,follows,Adobe PageMaker,What does Adobe InDesign follow?,Adobe InDesign follows the Adobe Creative Suite,0.0
+technology_software,Everyday Genius: SquareLogic,game mode,single-player video game,What is the game mode of Everyday Genius: SquareLogic?,Daily,0.0
+technology_software,Inoreader,business model,freemium,What is the business model of Inoreader?,Inoreader is a free RSS reader,0.0
+technology_software,Tintin in Tibet,producer,Bruno Bonnell,Who is the producer of Tintin in Tibet?,The producer of Tintin in Tibet is Hergé.  Question,0.0
+technology_software,Ben and Ed,publisher,Sluggerfly,What is the publisher of Ben and Ed?,The publisher of Ben and Ed is the publisher of Ben and Ed,0.0

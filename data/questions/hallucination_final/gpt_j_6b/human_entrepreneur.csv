@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+human_entrepreneur,Michael Jackson,voice type,tenor,What is the voice type of Michael Jackson?,Michael Jackson is a male,0.0
+human_entrepreneur,Margarete Steiff,place of birth,Giengen an der Brenz,Who is the place of birth of Margarete Steiff?,Germany,0.0
+human_entrepreneur,Konstantin Stanislavski,place of burial,Novodevichy Cemetery,What is the place of burial of Konstantin Stanislavski?,The place of burial of Konstantin Stanislavski is the Moscow State,0.0
+human_entrepreneur,Herbert Quandt,medical condition,blindness,What is the medical condition of Herbert Quandt?,He is a patient in the hospital,0.0
+human_entrepreneur,Henry Clay Frick,notable work,The Frick Collection,What is the notable work of Henry Clay Frick?,Frick was the founder of the Carnegie Steel Company,0.0
+human_entrepreneur,Sebastián Piñera,member of political party,independent politician,What is the member of political party of Sebastián Piñera?,The member of political party of Sebastián Piñera is the Chilean Socialist,0.0
+human_entrepreneur,David O. Selznick,manner of death,natural causes,What is the manner of death of David O. Selznick?,He died,0.0
+human_entrepreneur,Michael Braungart,place of birth,Schwäbisch Gmünd,What is the place of birth of Michael Braungart?,Germany,0.0
+human_entrepreneur,Friedrich Jahn,place of death,Bad Wiessee,What is the place of death of Friedrich Jahn?,The place of death of Friedrich Jahn is the place of death of Friedrich J,0.0
+human_entrepreneur,Eric Schmidt,family name,Schmidt,Who is the family name of Eric Schmidt?,Google,0.0
+human_entrepreneur,Friedrich Wilhelm Schindler,place of birth,Mollis,Who is the place of birth of Friedrich Wilhelm Schindler?,Germany,0.0
+human_entrepreneur,Albert Ballin,occupation,entrepreneur,What is the occupation of Albert Ballin?,Ballin is a banker,0.0
+human_entrepreneur,Marco Polo,father,Niccolò Polo,Who is the father of Marco Polo?,Marco Polo,0.0
+human_entrepreneur,Lothar von Faber,work location,Stein,Who is the work location of Lothar von Faber?,The work location of Lothar von Faber is in the United States,0.0
+human_entrepreneur,Henry Ford,sport,auto racing,What is the sport of Henry Ford?,Fordism,0.0
+human_entrepreneur,Christine Kaufmann,spouse,Tony Curtis,Who is the spouse of Christine Kaufmann?,Her husband,0.0
+human_entrepreneur,Lasse Virén,country for sport,Finland,What is the country for sport of Lasse Virén?,Sweden,0.0
+human_entrepreneur,James Clark,residence,Bangkok,What is the residence of James Clark?,The residence of James Clark is in the city of New York.  Question,0.0
+human_entrepreneur,Arnold Schwarzenegger,influenced by,Yury Vlasov,Who was Arnold Schwarzenegger influenced by?,Arnold Schwarzenegger was influenced by his father,0.0
+human_entrepreneur,Carl Hahn,employer,Westsächsische Hochschule Zwickau - University of Applied Sciences,What is the employer of Carl Hahn?,The employer of Carl Hahn is the United States government.  ,0.0
+human_entrepreneur,Anders Behring Breivik,residence,Oslo,What is the residence of Anders Behring Breivik?,Norway,0.0
+human_entrepreneur,Werner Nachmann,place of birth,Karlsruhe,What is the place of birth of Werner Nachmann?,Germany,0.0
+human_entrepreneur,Otto Krebs,member of political party,Nazi Party,What is the member of political party of Otto Krebs?,The member of political party of Otto Krebs is Otto Krebs. ,0.0
+human_entrepreneur,Udo Proksch,place of birth,Rostock,What is the place of birth of Udo Proksch?,Germany,0.0
+human_entrepreneur,Otto Krebs,manner of death,natural causes,What is the manner of death of Otto Krebs?,Suicide,0.0
+human_entrepreneur,"Prince Bernhard, Margrave of Baden",mother,"Princess Valerie, Margravine of Baden","Who is the mother of Prince Bernhard, Margrave of Baden?",The mother of Prince Bernhard is Princess Sophie of Baden.  Question,0.0
+human_entrepreneur,Kurt von Kleefeld,place of death,Karlshorst,What is the place of death of Kurt von Kleefeld?,Kurt von Kleefeld died in the Battle of the Bulge,0.0
+human_entrepreneur,Claudius Dornier,place of death,Zug,What is the place of death of Claudius Dornier?,The place of death of Claudius Dornier is the place of death of,0.0
+human_entrepreneur,Clancy Brown,notable role,Mr. Krabs,Who is the notable role of Clancy Brown?,The actor is best known for his role as the voice of the title character in,0.0
+human_entrepreneur,Walter Cramer,work location,Leipzig,What is the work location of Walter Cramer?,Cramer is a programmer,0.0
+human_entrepreneur,"Friedrich Wilhelm, Prince of Hohenzollern",occupation,entrepreneur,"What is the occupation of Friedrich Wilhelm, Prince of Hohenzollern?",King of Prussia,0.0
+human_entrepreneur,Klaus-Michael Kühne,place of birth,Hamburg,What is the place of birth of Klaus-Michael Kühne?,Germany,0.0
+human_entrepreneur,Denis Thatcher,military branch,British Army,What is the military branch of Denis Thatcher?,The Royal Navy,0.0
+human_entrepreneur,Sebastián Piñera,doctoral advisor,Kenneth Arrow,Who is the doctoral advisor of Sebastián Piñera?,The doctoral advisor of Sebastián Piñera is the president of Chile,0.0
+human_entrepreneur,Keith R. Kernspecht,country of citizenship,Germany,What is the country of citizenship of Keith R. Kernspecht?,United States of America,0.0
+human_entrepreneur,Karel Schwarzenberg,spouse,Therese Schwarzenberg,Who is the spouse of Karel Schwarzenberg?,His wife is the former Czechoslovakian President Václav Havel,0.0
+human_entrepreneur,Karel Schwarzenberg,mother,Antonia Schwarzenberg,Who is the mother of Karel Schwarzenberg?,The mother of Karel Schwarzenberg is the Czech Republic.  Question,0.0
+human_entrepreneur,Max Duttenhofer,manner of death,natural causes,What is the manner of death of Max Duttenhofer?,Suicide,0.0
+human_entrepreneur,William Ralph Merton,religion or worldview,Judaism,What is the religion or worldview of William Ralph Merton?,Christian,0.0
+human_entrepreneur,Corny Littmann,sport,association football,What is the sport of Corny Littmann?,Corny Littmann is a sport that is played by two people. One,0.0
+human_entrepreneur,Ferdinand Schichau,religion or worldview,Lutheranism,What is the religion or worldview of Ferdinand Schichau?,Christian,0.0
+human_entrepreneur,Andrus Ansip,country of citizenship,Estonia,What is the country of citizenship of Andrus Ansip?,The Netherlands,0.0
+human_entrepreneur,Yulia Tymoshenko,religion or worldview,Eastern Orthodoxy,What is the religion or worldview of Yulia Tymoshenko?,I am a Christian,0.0
+human_entrepreneur,Paul Mauser,work location,Berlin,What is the work location of Paul Mauser?,The work location of Paul Mauser is in the United States.  Question,0.0
+human_entrepreneur,Christine Kaufmann,cause of death,leukemia,What is the cause of death of Christine Kaufmann?,Suicide,0.0
+human_entrepreneur,Konstantin Stanislavski,spouse,Maria Petrovna Lilina,Who is the spouse of Konstantin Stanislavski?,His wife,0.0
+human_entrepreneur,Asif Ali Zardari,convicted of,money laundering,What was Asif Ali Zardari convicted of?,Corruption,0.0
+human_entrepreneur,Karlheinz Steinmüller,spouse,Angela Steinmüller,Who is the spouse of Karlheinz Steinmüller?,He is the husband of the wife of Karlheinz Steinmüller,0.0
+human_entrepreneur,Lothar von Faber,father,Georg Leonhard Faber,Who is the father of Lothar von Faber?,Lothar von Faber,0.0
+human_entrepreneur,Peter Voigtländer,place of birth,Vienna,What is the place of birth of Peter Voigtländer?,Germany,0.0
+human_entrepreneur,Walter Cramer,manner of death,capital punishment,What is the manner of death of Walter Cramer?,He was murdered,0.0
+human_entrepreneur,Meg Whitman,affiliation,Hewlett Packard Enterprise,What is the affiliation of Meg Whitman?,CEO of Hewlett-Packard,0.0
+human_entrepreneur,Robert Bosch,place of birth,Albeck,Who is the place of birth of Robert Bosch?,Germany,0.0
+human_entrepreneur,Bill Lawrence,genre,jazz,What is the genre of Bill Lawrence?,Comedy,0.0
+human_entrepreneur,Arnold Schwarzenegger,spouse,Maria Shriver,Who is the spouse of Arnold Schwarzenegger?,His wife,0.0
+human_entrepreneur,Klaus Tschira,place of death,Heidelberg,What is the place of death of Klaus Tschira?,Klaus Tschira died in the year of 1848.  ,0.0
+human_entrepreneur,Steve Coast,notable work,OpenStreetMap,What is the notable work of Steve Coast?,The notable work of Steve Coast is the development of the first commercially successful computer game,0.0
+human_entrepreneur,Heinrich Emanuel Merck,place of death,Darmstadt,What is the place of death of Heinrich Emanuel Merck?,The place of death of Heinrich Emanuel Merck is the cemetery of the city,0.0
+human_entrepreneur,Seth Bullock,spouse,Martha Bullock,Who is the spouse of Seth Bullock?,Seth Bullock,0.0
+human_entrepreneur,Louis Victor Robert Schwartzkopff,occupation,entrepreneur,What is the occupation of Louis Victor Robert Schwartzkopff?,A lawyer,0.0
+human_entrepreneur,Werner Otto,place of death,Berlin,What is the place of death of Werner Otto?,The place of death of Werner Otto is the place of death of Werner Otto,0.0
+human_entrepreneur,Julius Pintsch,place of death,Fürstenwalde,What is the place of death of Julius Pintsch?,Julius Pintsch died in the year 1887,0.0
+human_entrepreneur,Adolf Rosenberger,sport,auto racing,What is the sport of Adolf Rosenberger?,Soccer,0.0
+human_entrepreneur,Hans Georg Klamroth,country of citizenship,German Reich,What is the country of citizenship of Hans Georg Klamroth?,Germany,0.0
+human_entrepreneur,Guido Henckel von Donnersmarck,father,Carl Lazarus Henckel von Donnersmarck,Who is the father of Guido Henckel von Donnersmarck?,The father of Guido Henckel von Donnersmarck is the father,0.0
+human_entrepreneur,Rolf Gerling,occupation,entrepreneur,What is the occupation of Rolf Gerling?,I am a teacher,0.0
+human_entrepreneur,Franz Xaver von Ballestrem,father,Carl Wolfgang von Ballestrem,Who is the father of Franz Xaver von Ballestrem?,Franz Xaver von Ballestrem,0.0
+human_entrepreneur,Jason Lee,place of birth,Orange,What is the place of birth of Jason Lee?,Jason Lee was born in the United States,0.0
+human_entrepreneur,"Prince Bernhard, Margrave of Baden",father,"Prince Maximilian, Margrave of Baden","Who is the father of Prince Bernhard, Margrave of Baden?",Prince Bernhard is the son of Prince Louis of Hesse and Princess Sophie of,0.0
+human_entrepreneur,Craig McCaw,place of birth,Centralia,What is the place of birth of Craig McCaw?,Craig McCaw was born in the United States,0.0
+human_entrepreneur,James Simon,work location,Berlin,What is the work location of James Simon?,The work location of James Simon is in the United States.  ,0.0
+human_entrepreneur,Bill Gates,medical condition,color blindness,What is the medical condition of Bill Gates?,He has a bad cold,0.0
+human_entrepreneur,Thomas Edison,employer,General Electric,What is the employer of Thomas Edison?,The employer of Thomas Edison is the United States government,0.0
+human_entrepreneur,Friedrich Wilhelm Schindler,place of death,Kennelbach,Who is the place of death of Friedrich Wilhelm Schindler?,The place of death of Friedrich Wilhelm Schindler is the cemetery of the city,0.0
+human_entrepreneur,Ignaz Ginzkey,occupation,entrepreneur,What is the occupation of Ignaz Ginzkey?,Doctor ,0.0
+human_entrepreneur,Hans Georg Klamroth,cause of death,hanging,What is the cause of death of Hans Georg Klamroth?,He died of a heart attack,0.0
+human_entrepreneur,Mohamed Sheikh,member of political party,Conservative Party,What is the member of political party of Mohamed Sheikh?,Sheikh,0.0
+human_entrepreneur,Konstantin Stanislavski,employer,Moscow Art Theatre,What is the employer of Konstantin Stanislavski?,The actor,0.0
+human_entrepreneur,Albert Böhler,place of birth,Frankfurt,What is the place of birth of Albert Böhler?,Germany,0.0
+human_entrepreneur,Denis Thatcher,cause of death,pancreatic cancer,What is the cause of death of Denis Thatcher?,He died of a heart attack,0.0
+human_entrepreneur,Christof Ebert,sex or gender,male,What is the sex or gender of Christof Ebert?,Jesus Christ,0.0
+human_entrepreneur,Victor Mayer,place of birth,Pforzheim,What is the place of birth of Victor Mayer?,Victor Mayer was born in the United States,0.0
+human_entrepreneur,Robert Bosch,family name,Bosch,What is the family name of Robert Bosch?,Robert,0.0
+human_entrepreneur,John Jacob Astor I,spouse,Sarah Todd,Who is the spouse of John Jacob Astor I?,His wife is named Mary,0.0
+human_entrepreneur,Dieter Zetsche,academic degree,doctorate,What is the academic degree of Dieter Zetsche?,Bachelor of Science,0.0
+human_entrepreneur,Barbara Uthmann,spouse,Christoph Uthmann,Who is the spouse of Barbara Uthmann?,Her husband,0.0
+human_entrepreneur,James Simon,religion or worldview,Judaism,What is the religion or worldview of James Simon?,Christian,0.0
+human_entrepreneur,August Horch,place of birth,Winningen,What is the place of birth of August Horch?,Germany,0.0
+human_entrepreneur,Otto Fahr,conflict,World War I,What is the conflict of Otto Fahr?,The conflict of Otto Fahr is that he is a good man. ,0.0
+human_entrepreneur,Bill Lawrence,place of birth,Wahn,What is the place of birth of Bill Lawrence?,Bill was born in the United States,0.0
+human_entrepreneur,Anton Magnis,father,Wilhelm von Magnis,Who is the father of Anton Magnis?,Anton Magnis is the father of Anton Magnis,0.0
+human_entrepreneur,Heinrich Schliemann,native language,German,What is the native language of Heinrich Schliemann?,Greek,0.0
+human_entrepreneur,Roberta Williams,spouse,Ken Williams,Who is the spouse of Roberta Williams?,Roberta Williams,0.0
+human_entrepreneur,Ferdinand Schichau,academic major,engineering,What is the academic major of Ferdinand Schichau?,Chemistry,0.0
+human_entrepreneur,James Simon,place of birth,Berlin,What is the place of birth of James Simon?,James Simon was born in the United States,0.0
+human_entrepreneur,Tom Enders,field of work,aviation,What is the field of work of Tom Enders?,He is the CEO of the US Navy,0.0
+human_entrepreneur,Henry Ford,place of death,Dearborn,What is the place of death of Henry Ford?,Ford died in a car crash,0.0
+human_entrepreneur,"Prince Friedrich Wilhelm, 7th Prince of Wied",spouse,Princess Guda of Waldeck and Pyrmont,"Who is the spouse of Prince Friedrich Wilhelm, 7th Prince of Wied?",The Prince is married to Princess Marie of Saxe-Coburg and Goth,0.0
+human_entrepreneur,James Goodnight,affiliation,SAS Institute,What is the affiliation of James Goodnight?,The James Goodnight Affiliation is the James Goodnight Affiliation,0.0
+human_entrepreneur,Victor Mayer,residence,Pforzheim,What is the residence of Victor Mayer?,Victor Mayer lives in the United States,0.0
+human_entrepreneur,Moritz Hochschild,industry,mining,What is the industry of Moritz Hochschild?,The industry of Moritz Hochschild is the industry of Moritz Hoch,0.0
+human_entrepreneur,Götz Werner,place of birth,Heidelberg,What is the place of birth of Götz Werner?,Germany,0.0
+human_entrepreneur,Johannes Hevelius,spouse,Elisabeth Hevelius,Who is the spouse of Johannes Hevelius?,His wife,0.0
+human_entrepreneur,Nikita Mikhalkov,instrument,voice,What is the instrument of Nikita Mikhalkov?,The instrument of Nikita Mikhalkov is the camera.  Question,0.0
+human_entrepreneur,Ferdinand Porsche,manner of death,natural causes,What is the manner of death of Ferdinand Porsche?,He died in a car accident,0.0

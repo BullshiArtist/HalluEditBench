@@ -1,0 +1,96 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+business_industry,floristry,practiced by,florist,What was floristry practiced by?,The ancient Egyptians,0.0
+business_industry,television,practiced by,announcer,What was television practiced by?,Television was practiced by people,0.0
+business_industry,biotechnology,practiced by,biotechnologist,What was biotechnology practiced by?,Biotechnology was practiced by the people of the past,0.0
+business_industry,technology,practiced by,technologist,What was technology practiced by?,The ancient Greeks,0.0
+business_industry,technology,is the study of,technique,What does technology be the study of?,Technology is the study of how to make things work,0.0
+business_industry,technology,uses,technique,What does technology use?,Technology uses electricity,0.0
+business_industry,technology,has characteristic,technological singularity,What does technology have characteristic?,Technology has characteristic,0.0
+business_industry,financial audit,practiced by,statutory auditor,What was financial audit practiced by?,Financial audit is a process of verifying the financial statements of a company. ,0.0
+business_industry,mass media,practiced by,media profession,What was mass media practiced by?,Mass media was practiced by the people,0.0
+business_industry,construction industry,said to be the same as,construction,What did construction industry say to be the same as?,The same as,0.0
+business_industry,dairy industry,field of work,dairying,What is the field of work of dairy industry?,Dairy industry is a field of work,0.0
+business_industry,land transport,uses,land vehicle,What does land transport use?,Land transport uses land,0.0
+business_industry,plant breeding,practiced by,plant breeder,What was plant breeding practiced by?,Plant breeding was practiced by the farmers to increase the yield of crops,0.0
+business_industry,health care industry,said to be the same as,human health activities,What did health care industry say to be the same as?,The same as,0.0
+business_industry,printing,used by,Protestant Reformation,What was printing used by?,Printing,0.0
+business_industry,printing,uses,printing machine,What does printing use?,Printing uses ink to transfer information from a computer to a physical object,0.0
+business_industry,metallurgy,practiced by,metallurgist,What was metallurgy practiced by?,The ancient Egyptians,0.0
+business_industry,metallurgy,said to be the same as,metal industry,What did metallurgy say to be the same as?,The same as,0.0
+business_industry,electronics,studied in,engineering,What was electronics studied in?,Electronics,0.0
+business_industry,life sciences,said to be the same as,biology,What did life sciences say to be the same as?,The same as,0.0
+business_industry,electronics,practiced by,electrical engineer,What was electronics practiced by?,The first electronic devices were invented in the late 1800s.  ,0.0
+business_industry,public utility,studied in,economics,What was public utility studied in?,Public utility,0.0
+business_industry,house-building,said to be the same as,home construction,What did house-building say to be the same as?,The same as,0.0
+business_industry,coining,uses,die,What does coining use?,Coining is a process of making a new coin,0.0
+business_industry,furniture construction,practiced by,furniture maker,What was furniture construction practiced by?,The furniture was constructed by the people,0.0
+business_industry,footwear industry,practiced by,cobbler,What was footwear industry practiced by?,The footwear industry was practiced by the footwear industry,0.0
+business_industry,passenger transport,object class of occurrence,passenger,What is the object class of occurrence of passenger transport?,Vehicle,0.0
+business_industry,voice acting,practiced by,voice actor,What was voice acting practiced by?,The Japanese,0.0
+business_industry,brewing,practiced by,brewer,What was brewing practiced by?,Brewing,0.0
+business_industry,brewing,industry,stimulant foodstuff,What is the industry of brewing?,Beer,0.0
+business_industry,artificial intelligence,model item,machine learning,What is the model item of artificial intelligence?,Artificial intelligence is a model of intelligence,0.0
+business_industry,artificial intelligence,has characteristic,artificiality,What does artificial intelligence have characteristic?,Artificial intelligence has characteristic of intelligence,0.0
+business_industry,energy industry,said to be the same as,energy supply,What did energy industry say to be the same as?,The same as,0.0
+business_industry,software industry,has characteristic,software development,What does software industry have characteristic?,"Software industry has characteristic of being a fast-paced, high-growth, high",0.0
+business_industry,home industry,uses,putting-out system,What does home industry use?,Home industry uses the Internet,0.0
+business_industry,tobacco industry,significant event,settlement,What is the significant event of tobacco industry?,The tobacco industry is a significant event in the history of the world,0.0
+business_industry,tobacco industry,uses,nicotine marketing,What does tobacco industry use?,Tobacco industry uses tobacco,0.0
+business_industry,home industry,said to be the same as,family and consumer science,What did home industry say to be the same as?,The same as,0.0
+business_industry,architecture,studied in,architectural theory,What was architecture studied in?,Architecture,0.0
+business_industry,architecture,has characteristic,architectural style,What does architecture have characteristic?,Characteristic of architecture is that it is a science,0.0
+business_industry,architecture,uses,architectural engineering,What does architecture use?,"Architecture uses the building to create a structure that is safe, comfortable, and functional",0.0
+business_industry,architecture,practiced by,architect,What was architecture practiced by?,The Romans,0.0
+business_industry,fishing,practiced by,fisher,What was fishing practiced by?,Fishing,0.0
+business_industry,road construction,uses,roadworks,What does road construction use?,asphalt,0.0
+business_industry,information services,practiced by,information scientist,What was information services practiced by?,Information services was practiced by the information technology department,0.0
+business_industry,human resource management,field of work,performance management,What is the field of work of human resource management?,Human resource management is the field of work of human resource management.  Question,0.0
+business_industry,confectionery,industry,food product,What is the industry of confectionery?,Candy,0.0
+business_industry,health care,has characteristic,health care quality,What does health care have characteristic?,It is a service that is provided to people,0.0
+business_industry,news,practiced by,news presenter,What was news practiced by?,News,0.0
+business_industry,furniture industry,practiced by,furniture maker,What was furniture industry practiced by?,Furniture industry was practiced by the furniture industry,0.0
+business_industry,research,said to be the same as,study,What did research say to be the same as?,Research said that the same is the same,0.0
+business_industry,research,studied in,metascience,What was research studied in?,Research was studied in the field of,0.0
+business_industry,research,practiced by,researcher,What was research practiced by?,Research was practiced by,0.0
+business_industry,upholstery,uses,antimacassar,What does upholstery use?,Fabric,0.0
+business_industry,book industry,said to be the same as,book publishing,What did book industry say to be the same as?,The same as,0.0
+business_industry,upholstery,practiced by,upholsterer,What was upholstery practiced by?,Upholstery was practiced by the Romans,0.0
+business_industry,leather crafting,practiced by,leatherworker,What was leather crafting practiced by?,Leather crafting was practiced by the people of the ancient world,0.0
+business_industry,insurance,practiced by,insurance broker,What was insurance practiced by?,Insurance was practiced by the Romans,0.0
+business_industry,cartography,practiced by,cartographer,What was cartography practiced by?,"Cartography was practiced by the ancient Egyptians, the ancient Greeks, the ancient Romans",0.0
+business_industry,plumbing,location of discovery,Crete,What is the location of discovery of plumbing?,The location of discovery of plumbing is the bathroom,0.0
+business_industry,plumbing,practiced by,plumber,What was plumbing practiced by?,Plumbing was practiced by the Romans,0.0
+business_industry,plumbing,country of origin,Egypt,What is the country of origin of plumbing?,United States,0.0
+business_industry,plumbing,discoverer or inventor,Egyptians,What is the discoverer or inventor of plumbing?,Benjamin Franklin,0.0
+business_industry,rail transport,uses,railway,What does rail transport use?,Rail transport uses rail transport,0.0
+business_industry,rail transport,practiced by,station master,What was rail transport practiced by?,Rail transport was practiced by the British,0.0
+business_industry,retail,practiced by,retail worker,What was retail practiced by?,Retail was practiced by the retail industry,0.0
+business_industry,geodesy,practiced by,geodesist,What was geodesy practiced by?,Geodesy was practiced by the study of the Earth.  ,0.0
+business_industry,publishing,practiced by,publisher,What was publishing practiced by?,Publishing was practiced by the Romans,0.0
+business_industry,publishing,said to be the same as,publishing industry,What did publishing say to be the same as?,The same as,0.0
+business_industry,hospitality industry,practiced by,bellhop,What was hospitality industry practiced by?,The hospitality industry was practiced by the hospitality industry,0.0
+business_industry,hospitality industry,said to be the same as,horeca,What did hospitality industry say to be the same as?,The same as,0.0
+business_industry,recycling,practiced by,Rag-picker,What was recycling practiced by?,Recycling was practiced by,0.0
+business_industry,lithography,practiced by,lithographer,What was lithography practiced by?,The printing press,0.0
+business_industry,water transport,practiced by,sailor,What was water transport practiced by?,Water transport was practiced by the Romans,0.0
+business_industry,water transport,uses,watercraft,What does water transport use?,Water transport uses water,0.0
+business_industry,coachbuilder,industry,automotive industry,What is the industry of coachbuilder?,Coachbuilder,0.0
+business_industry,waste management,practiced by,garbage collector,What was waste management practiced by?,Waste management was practiced by the government,0.0
+business_industry,automation,is the study of,process,What does automation be the study of?,Automation is the study of how to make things happen automatically.  Question,0.0
+business_industry,screen printing,time period,Song dynasty,What is the time period of screen printing?,Screen printing is a printing process that uses a mesh screen to create a pattern on,0.0
+business_industry,forging,practiced by,metalsmith,What was forging practiced by?,Forging was practiced by the ancient Egyptians,0.0
+business_industry,agricultural technology,practiced by,agricultural engineer,What was agricultural technology practiced by?,Farming,0.0
+business_industry,social media,uses,Internet,What does social media use?,Social media is a way to connect with people,0.0
+business_industry,animal breeding,practiced by,animal breeder,What was animal breeding practiced by?,Animal breeding was practiced by the Romans,0.0
+business_industry,civil aviation,practiced by,flight attendant,What was civil aviation practiced by?,Aviation,0.0
+business_industry,papermaking,practiced by,papermaker,What was papermaking practiced by?,The papermaking process was practiced by the Chinese,0.0
+business_industry,winemaking,made from material,grape,What is the made from material of winemaking?,Wood,0.0
+business_industry,agribusiness,field of work,agriculture,What is the field of work of agribusiness?,Agribusiness is the field of work of agribusiness,0.0
+business_industry,rail transport modelling,industry,toy industry,What is the industry of rail transport modelling?,Rail transport modelling,0.0
+business_industry,show business,said to be the same as,entertainment industry,What did show business say to be the same as?,The same as,0.0
+business_industry,food processing,made from material,raw food,What is the made from material of food processing?,Food processing material is made from food,0.0
+business_industry,Colgate-Palmolive Company,founded by,William Colgate,Who was Colgate-Palmolive Company founded by?,Colgate-Palmolive Company was founded by Colgate and Palmolive,0.0
+business_industry,Colgate-Palmolive Company,stock exchange,New York Stock Exchange,What is the stock exchange of Colgate-Palmolive Company?,Colgate-Palmolive Company is a consumer products company.  Question,0.0
+business_industry,Colgate-Palmolive Company,legal form,joint-stock company,What is the legal form of Colgate-Palmolive Company?,Colgate-Palmolive Company is a Delaware corporation,0.0
+business_industry,Colgate-Palmolive Company,industry,personal care product,What is the industry of Colgate-Palmolive Company?,Colgate-Palmolive Company is a consumer products company,0.0
+business_industry,pharmaceutical industry,has characteristic,drug development,What does pharmaceutical industry have characteristic?,Pharmaceutical industry has characteristic of being a business,0.0

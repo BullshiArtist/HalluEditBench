@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+geography_volcano,Mount Kirishima,located in protected area,Kirishima-Kinkōwan National Park,What is the located in protected area of Mount Kirishima?,The located in protected area of Mount Kirishima is the volcano,0.0
+geography_volcano,Tecuamburro,country,Guatemala,What is the country of Tecuamburro?,Argentina,0.0
+geography_volcano,Ankaratra,country,Madagascar,What is the country of Ankaratra?,Ankaratra,0.0
+geography_volcano,Mount Iwate,located in protected area,Towada-Hachimantai National Park,What is the located in protected area of Mount Iwate?,Iwate-san,0.0
+geography_volcano,Antuco,continent,Americas,What is the continent of Antuco?,Antuco,0.0
+geography_volcano,San José,continent,Americas,What is the continent of San José?,South America,0.0
+geography_volcano,Esjufjöll,located in protected area,Vatnajökull National Park,What is the located in protected area of Esjufjöll?,The located in protected area of Esjufjöll is the protected area,0.0
+geography_volcano,Gunung Merbabu,volcano observatory,Volcanological Survey of Indonesia,What is the volcano observatory of Gunung Merbabu?,Gunung Merbabu volcano observatory,0.0
+geography_volcano,Volcán Tacaná,continent,Americas,What is the continent of Volcán Tacaná?,The continent of Volcán Tacaná is located in the Pacific Ocean,0.0
+geography_volcano,Mount Wrangell,named after,Ferdinand von Wrangel,Who was Mount Wrangell named after?,Mount Wrangell was named after a man named Wrangell,0.0
+geography_volcano,Tacora,country,Chile,What is the country of Tacora?,Tacora,0.0
+geography_volcano,Puracé,made from material,andesite,What is the made from material of Puracé?,Puracé is made from a mixture of wood and plastic,0.0
+geography_volcano,Central Island,country,Kenya,What is the country of Central Island?,Central Island,0.0
+geography_volcano,Ardoukoba,significant event,volcanic eruption,What is the significant event of Ardoukoba?,The Ardoukoba is the first significant event of the Algerian War. Question,0.0
+geography_volcano,North Head,country,New Zealand,What is the country of North Head?,Australia,0.0
+geography_volcano,Tecuamburro,continent,Americas,What is the continent of Tecuamburro?,South America,0.0
+geography_volcano,Mount Mihara,located in/on physical feature,Izu Ōshima,What is the located in/on physical feature of Mount Mihara?,The mountain is located in/on the physical feature of Mount Mihara,0.0
+geography_volcano,Mount Cleveland,made from material,andesite,What is the made from material of Mount Cleveland?,Steel,0.0
+geography_volcano,Atlasov Island,highest point,Alaid,What is the highest point of Atlasov Island?,The highest point is the summit of the island,0.0
+geography_volcano,Beerenberg,located in/on physical feature,Jan Mayen,Who is the located in/on physical feature of Beerenberg?,The Beerenberg is located in the Netherlands,0.0
+geography_volcano,Gareloi Volcano,mountain range,Aleutian Range,What is the mountain range of Gareloi Volcano?,Gareloi Volcano,0.0
+geography_volcano,Taapaca,country,Chile,What is the country of Taapaca?,Peru,0.0
+geography_volcano,Puracé,continent,Americas,What is the continent of Puracé?,Puracé,0.0
+geography_volcano,Mount Nantai,made from material,andesite,What is the made from material of Mount Nantai?,Steel,0.0
+geography_volcano,Mount Kusatsu-Shirane,volcano observatory,Geospatial Information Authority of Japan,What is the volcano observatory of Mount Kusatsu-Shirane?,Kusatsu-Shirane volcano observatory,0.0
+geography_volcano,Gareloi Volcano,volcano observatory,Alaska Volcano Observatory,What is the volcano observatory of Gareloi Volcano?,The volcano observatory of Gareloi Volcano is a research facility,0.0
+geography_volcano,Michinmahuida,country,Chile,What is the country of Michinmahuida?,Michinmahuida,0.0
+geography_volcano,Mount Yake,located in protected area,Chūbu-Sangaku National Park,What is the located in protected area of Mount Yake?,The Mount Yake is located in the protected area of Mount Yake,0.0
+geography_volcano,Mount Erciyes,time period,Miocene,What is the time period of Mount Erciyes?,Erciyes is a mountain range in Turkey,0.0
+geography_volcano,Ichinsky,volcano observatory,Institute of Volcanology and Seismology,What is the volcano observatory of Ichinsky?,The volcano observatory of Ichinsky is a volcano observatory,0.0
+geography_volcano,San Cristóbal Volcano,made from material,andesite,What is the made from material of San Cristóbal Volcano?,Volcano,0.0
+geography_volcano,Mount Okmok,volcano observatory,Alaska Volcano Observatory,What is the volcano observatory of Mount Okmok?,Volcano observatory of Mount Okmok,0.0
+geography_volcano,Mount Ontake,made from material,andesite,What is the made from material of Mount Ontake?,Steel,0.0
+geography_volcano,Citerne,mountain range,Basse-Terre Island,What is the mountain range of Citerne?,The Citerne Mountains,0.0
+geography_volcano,Chaitén,time period,Holocene,What is the time period of Chaitén?,The time period of Chaitén is the time period of the Chaitén,0.0
+geography_volcano,Maderas,volcano observatory,Nicaraguan Institute for Territorial Studies,What is the volcano observatory of Maderas?,The volcano observatory of Maderas is a volcano observatory. ,0.0
+geography_volcano,Atlasov Island,country,Russia,What is the country of Atlasov Island?,Atlasov Island,0.0
+geography_volcano,Mount Norikura,located in protected area,Chūbu-Sangaku National Park,What is the located in protected area of Mount Norikura?,The Mount Norikura is located in the protected area of Mount Norikura,0.0
+geography_volcano,Alaid,located in/on physical feature,Atlasov Island,What is the located in/on physical feature of Alaid?,The Alaid is located in the physical feature of the body.  Question,0.0
+geography_volcano,Rangitoto Island,located in/on physical feature,New Zealand,What is the located in/on physical feature of Rangitoto Island?,Rangitoto Island is located in/on the Cook Strait,0.0
+geography_volcano,Taapaca,made from material,andesite,What is the made from material of Taapaca?,Steel,0.0
+geography_volcano,Concepción,country,Nicaragua,What is the country of Concepción?,Chile,0.0
+geography_volcano,Calbuco,continent,Americas,What is the continent of Calbuco?,Calbuco,0.0
+geography_volcano,Mount Haku,located in protected area,Hakusan National Park,What is the located in protected area of Mount Haku?,The Mount Haku is located in the protected area of Mount Haku.  Question,0.0
+geography_volcano,Beerenberg,country,Norway,What is the country of Beerenberg?,Belgium,0.0
+geography_volcano,Mocho-Choshuenco,made from material,andesite,What is the made from material of Mocho-Choshuenco?,Mocho-Choshuenco is made from wood.  Question,0.0
+geography_volcano,Isluga,country,Chile,What is the country of Isluga?,Isluga,0.0
+geography_volcano,Mount Tarumae,located in protected area,Shikotsu-Tōya National Park,What is the located in protected area of Mount Tarumae?,The Mount Tarumae is located in the protected area of Mount Tarumae,0.0
+geography_volcano,Mauna Ulu,located in/on physical feature,Hawaii,What is the located in/on physical feature of Mauna Ulu?,The Mauna Ulu is located in/on the summit of Mauna Ke,0.0
+geography_volcano,Mount Kirishima,highest point,Mount Karakuni,What is the highest point of Mount Kirishima?,Mount Kirishima is the highest point of Mount Fuji.  ,0.0
+geography_volcano,Lonquimay,made from material,andesite,What is the made from material of Lonquimay?,Steel,0.0
+geography_volcano,Tristan da Cunha,highest point,Queen Mary's Peak,What is the highest point of Tristan da Cunha?,The highest point of Tristan da Cunha is the summit of Mount In,0.0
+geography_volcano,Mount Haku,named after,white,What was Mount Haku named after?,Mount Haku,0.0
+geography_volcano,Novarupta,located in protected area,Katmai National Park and Preserve,What is the located in protected area of Novarupta?,The Novarupta is located in the protected area of Novarupta. Question,0.0
+geography_volcano,Öræfajökull,highest point,Hvannadalshnúkur,What is the highest point of Öræfajökull?,The highest point of Öræfajökull is the summit of,0.0
+geography_volcano,Taapaca,mountain range,Cordillera Occidental,What is the mountain range of Taapaca?,Taapaca,0.0
+geography_volcano,Sarychev Peak,volcano observatory,Institute of Volcanology and Seismology,What is the volcano observatory of Sarychev Peak?,The volcano observatory of Sarychev Peak is a scientific research center,0.0
+geography_volcano,Mount Taftan,country,Iran,What is the country of Mount Taftan?,United States,0.0
+geography_volcano,Hanish Islands,country,Yemen,What is the country of Hanish Islands?,Hanish Islands,0.0
+geography_volcano,Ankaratra,made from material,trachyte,What is the made from material of Ankaratra?,Ankaratra is made from the wood of the Ankaratra tree,0.0
+geography_volcano,Acamarachi,country,Chile,What is the country of Acamarachi?,Acamarachi,0.0
+geography_volcano,Merelava,country,Vanuatu,What is the country of Merelava?,Russia,0.0
+geography_volcano,Momotombo,volcano observatory,Nicaraguan Institute for Territorial Studies,What is the volcano observatory of Momotombo?,Volcano observatory of Momotombo,0.0
+geography_volcano,Mount Scenery,made from material,andesite,What is the made from material of Mount Scenery?,Wood,0.0
+geography_volcano,Merelava,located in/on physical feature,Banks Islands,What is the located in/on physical feature of Merelava?,The Merelava is located in the physical feature of the Earth,0.0
+geography_volcano,Volcán Tacaná,country,Guatemala,What is the country of Volcán Tacaná?,Ecuador,0.0
+geography_volcano,Mocho-Choshuenco,country,Chile,What is the country of Mocho-Choshuenco?,Mexico,0.0
+geography_volcano,Silay,located in/on physical feature,Negros,What is the located in/on physical feature of Silay?,The Silay is located in the Philippines,0.0
+geography_volcano,Volcán de Fuego,country,Guatemala,What is the country of Volcán de Fuego?,Nicaragua,0.0
+geography_volcano,Antuco,country,Chile,What is the country of Antuco?,Antuco,0.0
+geography_volcano,Sotará,made from material,andesite,What is the made from material of Sotará?,Steel,0.0
+geography_volcano,Cerro Macá,made from material,basalt,What is the made from material of Cerro Macá?,Cerro Macá is made from a mixture of clay and sand. ,0.0
+geography_volcano,Tolbachik,made from material,basalt,What is the made from material of Tolbachik?,Tolbachik is made from ice,0.0
+geography_volcano,Kelut,volcano observatory,Volcanological Survey of Indonesia,What is the volcano observatory of Kelut?,Kelut volcano observatory,0.0
+geography_volcano,Mauna Kea,offers view on,Hawaiian Islands,What does Mauna Kea offer view on?,Mauna Kea offers a view of the stars,0.0
+geography_volcano,Mount Boucherie,made from material,rhyolite,What is the made from material of Mount Boucherie?,Wood,0.0
+geography_volcano,Mocho-Choshuenco,continent,Americas,What is the continent of Mocho-Choshuenco?,The continent of Mocho-Choshuenco is the continent of the,0.0
+geography_volcano,Popocatépetl,mountain range,Trans-Mexican Volcanic Belt,What is the mountain range of Popocatépetl?,Popocatépetl,0.0
+geography_volcano,Pular,made from material,andesite,What is the made from material of Pular?,Pular is made from plastic,0.0
+geography_volcano,Mount Wrangell,located in protected area,Wrangell–St. Elias National Park and Preserve,What is the located in protected area of Mount Wrangell?,The Mount Wrangell is located in the protected area of Mount Wrangell,0.0
+geography_volcano,Santiago Island,country,Ecuador,What is the country of Santiago Island?,Chile,0.0
+geography_volcano,Öræfajökull,located in protected area,Vatnajökull National Park,What is the located in protected area of Öræfajökull?,The area is located in the protected area of Öræfajök,0.0
+geography_volcano,Tromen,continent,Americas,What is the continent of Tromen?,Africa,0.0
+geography_volcano,Tolbachik,volcano observatory,Institute of Volcanology and Seismology,What is the volcano observatory of Tolbachik?,Tolbachik volcano observatory,0.0
+geography_volcano,Mount Iwate,made from material,basalt,What is the made from material of Mount Iwate?,Steel,0.0
+geography_volcano,Zavodovski Island,country,United Kingdom,What is the country of Zavodovski Island?,Zavodovski Island,0.0
+geography_volcano,Cantal mountains,made from material,volcanic rock,What is the made from material of Cantal mountains?,stone,0.0
+geography_volcano,Mauna Ulu,volcano observatory,Hawaiian Volcano Observatory,What is the volcano observatory of Mauna Ulu?,The volcano observatory of Mauna Ulu is a volcano observatory in Hawaii,0.0
+geography_volcano,Kverkfjöll,located in protected area,Vatnajökull National Park,What is the located in protected area of Kverkfjöll?,The Kverkfjöll is located in the protected area of K,0.0
+geography_volcano,Gorely,mountain range,Eastern Range,What is the mountain range of Gorely?,Gorely,0.0
+geography_volcano,Volcán Tolimán,continent,Americas,What is the continent of Volcán Tolimán?,Tolima,0.0
+geography_volcano,Mount Hudson,country,Chile,What is the country of Mount Hudson?,Canada,0.0
+geography_volcano,Zhupanovsky,made from material,andesite,What is the made from material of Zhupanovsky?,Steel,0.0
+geography_volcano,Nevado del Ruiz,time period,Pleistocene,What is the time period of Nevado del Ruiz?,The Nevado del Ruiz volcano is located in the Andes Mountains of Colombia,0.0
+geography_volcano,Nevado del Ruiz,made from material,andesite,What is the made from material of Nevado del Ruiz?,Nevado del Ruiz is a volcano,0.0
+geography_volcano,Puy de Dôme,volcano observatory,Observatoire de physique du globe de Clermont-Ferrand,What is the volcano observatory of Puy de Dôme?,The volcano observatory of Puy de Dôme is a volcano observatory,0.0
+geography_volcano,Izalco,mountain range,Cordillera de Apaneca-Lamatepec,What is the mountain range of Izalco?,The Izalco mountain range is located in the state of Jalisco,0.0
+geography_volcano,Mount Chiginagak,mountain range,Aleutian Range,What is the mountain range of Mount Chiginagak?,Chiginagak,0.0
+geography_volcano,Mount Oku,country,Cameroon,What is the country of Mount Oku?,Japan,0.0
+geography_volcano,Mount Azuma-kofuji,located in protected area,Bandai-Asahi National Park,What is the located in protected area of Mount Azuma-kofuji?,The Mount Azuma-kofuji is located in the protected area of,0.0
+geography_volcano,Torfajökull,time period,Pleistocene,What is the time period of Torfajökull?,The time period of Torfajökull is the last ice age,0.0
+geography_volcano,Mount Garibaldi,named after,Giuseppe Garibaldi,Who was Mount Garibaldi named after?,The first European to see the mountain was a British explorer named James Cook,0.0
+geography_volcano,Pacaya,continent,Americas,What is the continent of Pacaya?,Pacific,0.0
+geography_volcano,"Guallatiri, Chile",continent,Americas,"What is the continent of Guallatiri, Chile?",South America,0.0
+geography_volcano,Mount Cleveland,mountain range,Aleutian Range,What is the mountain range of Mount Cleveland?,The Rocky Mountains,0.0

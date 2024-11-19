@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+human_scientist,Guglielmo Marconi,conflict,World War I,What is the conflict of Guglielmo Marconi?,The conflict of Guglielmo Marconi was his opposition to the interference of religious authorities in,0.0
+human_scientist,Ömer Özsoy,field of work,digital humanities,What is the field of work of Ömer Özsoy?,"Ömer Özsoy is a software engineer and entrepreneur, known for his work in",0.0
+human_scientist,S. Yizhar,spouse,Noemi Smilansky,Who is the spouse of S. Yizhar?,"This information is not provided in the given context, so I am unable to answer",0.0
+human_scientist,Carl Dorno,occupation,scientist,What is the occupation of Carl Dorno?,Psychologist,0.0
+human_scientist,Lewis Elton,country of citizenship,United Kingdom,What is the country of citizenship of Lewis Elton?,"Lewis Elton is an American singer and songwriter, so he is a US citizen",0.0
+human_scientist,Benedikt Buchner,country of citizenship,Germany,What is the country of citizenship of Benedikt Buchner?,The provided text does not contain any information regarding Benedikt Buchner's country of,0.0
+human_scientist,Guglielmo Marconi,place of death,Rome,What is the place of death of Guglielmo Marconi?,"Genoa, Italy",0.0
+human_scientist,Leonardo da Vinci,country of citizenship,Republic of Florence,What is the country of citizenship of Leonardo da Vinci?,Italian,0.0
+human_scientist,Andre Geim,spouse,Irina Grigorieva,Who is the spouse of Andre Geim?,"The provided text does not contain any information regarding Andre Geim's spouse,",0.0
+human_scientist,Camillo Golgi,sex or gender,male,What is the sex or gender of Camillo Golgi?,"Gender information for Camillo Golgi is not provided in the given context, so I",0.0
+human_scientist,Brigitte Jockusch,sex or gender,female,What is the sex or gender of Brigitte Jockusch?,The provided text does not contain any information regarding Brigitte Jockusch's sex or,0.0
+human_scientist,Boris Vladimirtsov,place of death,Siversky,Who is the place of death of Boris Vladimirtsov?,"Boris Vladimirtsov died in London, England",0.0
+human_scientist,Melvil Dewey,place of death,Lake Placid,What is the place of death of Melvil Dewey?,Melvil Dewey died in New York City,0.0
+human_scientist,Bert Vogelstein,sex or gender,male,What is the sex or gender of Bert Vogelstein?,"This information is not available in the provided context, so I am unable to answer",0.0
+human_scientist,S. Yizhar,father,Ze'ev Smilanski,Who is the father of S. Yizhar?,His father's name is Rabbi Eliezer ben Solomon ben Eliezer,0.0
+human_scientist,Barbara Lenz,sex or gender,female,What is the sex or gender of Barbara Lenz?,"I am unable to provide personal or sensitive information, including gender, of individuals",0.0
+human_scientist,Abbé Faria,religion or worldview,Catholic Church,What is the religion or worldview of Abbé Faria?,"Abbé Faria identifies as a spiritual seeker and humanist, emphasizing the interconnectedness",0.0
+human_scientist,David Peakall,country of citizenship,United Kingdom,What is the country of citizenship of David Peakall?,The provided text does not contain any information regarding David Peakall's country of,0.0
+human_scientist,Karl Wien,place of birth,Würzburg,What is the place of birth of Karl Wien?,"Karl Wien was born in Vienna, Austria",0.0
+human_scientist,Anatoli Blagonravov,sex or gender,male,What is the sex or gender of Anatoli Blagonravov?,The provided text does not contain any information regarding Anatoli Blagonravov,0.0
+human_scientist,Paul Dirac,sex or gender,male,What is the sex or gender of Paul Dirac?,The provided text does not contain any information regarding Paul Dirac's sex or gender,0.0
+human_scientist,Marcos Soares Tatagiba,academic degree,doctorate,What is the academic degree of Marcos Soares Tatagiba?,Marcos Soares Tatagiba holds a Master's degree in Public Administration from the,0.0
+human_scientist,Andreas Heldrich,sex or gender,male,What is the sex or gender of Andreas Heldrich?,The provided text does not contain any information regarding Andreas Heldrich's sex or,0.0
+human_scientist,Vladimir Shukhov,movement,constructivist architecture,What is the movement of Vladimir Shukhov?,Vladimir Shukhov is facing charges of embezzlement and fraud,0.0
+human_scientist,Dēmētrios Nikolaou Darvaris,place of birth,Kleisoura,What is the place of birth of Dēmētrios Nikolaou Darvaris?,"Athens, Greece",0.0
+human_scientist,Hugh H. Young,sex or gender,male,What is the sex or gender of Hugh H. Young?,The provided text does not contain any information regarding Hugh H. Young's sex,0.0
+human_scientist,Alberto Granado,second family name in Spanish name,Romero,Who is the second family name in Spanish name of Alberto Granado?,The provided text does not specify the second family name in Spanish name of Alberto Gran,0.0
+human_scientist,Jim Simons,doctoral advisor,Bertram Kostant,Who is the doctoral advisor of Jim Simons?,"Jim Simons' doctoral advisor is not explicitly mentioned in the provided context, so I",0.0
+human_scientist,Alberto Santos-Dumont,place of burial,Cemitério de São João Batista,Who is the place of burial of Alberto Santos-Dumont?,"Monte Cristo Cemetery, Paris",0.0
+human_scientist,Roland Kirstein,employer,University of Magdeburg,What is the employer of Roland Kirstein?,Roland Kirstein is employed by Deutsche Bank,0.0
+human_scientist,David Kay,occupation,scientist,What is the occupation of David Kay?,David Kay is an American television personality and former investment banker,0.0
+human_scientist,Nasir al-Din al-Tusi,religion or worldview,Shia Islam,What is the religion or worldview of Nasir al-Din al-Tusi?,Nasir al-Din al-Tusi was a Muslim theologian and philosopher who,0.0
+human_scientist,Andrea Prader,sex or gender,male,What is the sex or gender of Andrea Prader?,The provided text does not contain any information regarding Andrea Prader's sex or,0.0
+human_scientist,Max Factor,sex or gender,male,What is the sex or gender of Max Factor?,"I am unable to provide personal or sensitive information, including gender, of individuals",0.0
+human_scientist,Susumu Tonegawa,affiliation,Massachusetts Institute of Technology,What is the affiliation of Susumu Tonegawa?,Susumu Tonegawa is affiliated with the University of Tokyo as a Professor of Political,0.0
+human_scientist,Andrea M. Ghez,employer,"University of California, Los Angeles",What is the employer of Andrea M. Ghez?,NASA,0.0
+human_scientist,Catherine Coleman,astronaut mission,STS-93,What is the astronaut mission of Catherine Coleman?,"Catherine Coleman's astronaut mission is not specified in the given context, so I",0.0
+human_scientist,Frans van Schooten,employer,Leiden University,What is the employer of Frans van Schooten?,"Not provided in the given context, so I cannot answer this question from the provided",0.0
+human_scientist,Werner Riess,doctoral advisor,Géza Alföldy,Who is the doctoral advisor of Werner Riess?,"Werner Riess's doctoral advisor is not mentioned in the provided context, so",0.0
+human_scientist,Charles K. Kao,work location,Hong Kong,What is the work location of Charles K. Kao?,"Charles K. Kao's work location is not specified in the provided context,",0.0
+human_scientist,John Paul Wild,sex or gender,male,What is the sex or gender of John Paul Wild?,The provided text does not contain any information regarding John Paul Wild's sex or,0.0
+human_scientist,Lawrence Summers,mother,Anita Summers,Who is the mother of Lawrence Summers?,"This information is not provided in the given context, so I am unable to answer",0.0
+human_scientist,Karl Friedrich Wilhelm Peters,sex or gender,male,What is the sex or gender of Karl Friedrich Wilhelm Peters?,The provided text does not contain any information regarding Karl Friedrich Wilhelm Peters' sex or,0.0
+human_scientist,Lawrence Summers,place of birth,New Haven,What is the place of birth of Lawrence Summers?,Lawrence Summers was born in New York City,0.0
+human_scientist,Elias Chacour,religion or worldview,Catholic Church,What is the religion or worldview of Elias Chacour?,No information regarding Elias Chacour's religion or worldview is provided in the given,0.0
+human_scientist,Martin Karplus,place of birth,Vienna,What is the place of birth of Martin Karplus?,Martin Karplus was born in New York City,0.0
+human_scientist,Innocenzo Manzetti,place of birth,Aosta,What is the place of birth of Innocenzo Manzetti?,"Bologna, Italy",0.0
+human_scientist,Moshe Arens,conflict,World War II,What is the conflict of Moshe Arens?,The conflict of Moshe Arens is the struggle between the preservation of Jewish identity and,0.0
+human_scientist,Leonhard Euler,medical condition,blindness,What is the medical condition of Leonhard Euler?,"Leonhard Euler suffered from a severe mental and physical illness, including epilepsy, dementia",0.0
+human_scientist,Telford Taylor,sex or gender,male,What is the sex or gender of Telford Taylor?,The provided text does not contain any information regarding Telford Taylor's sex or,0.0
+human_scientist,Andrea Prader,employer,University of Zurich,What is the employer of Andrea Prader?,"Information not provided in the given context, so I cannot answer this question from the",0.0
+human_scientist,John Gorrie,sex or gender,male,What is the sex or gender of John Gorrie?,The provided text does not contain any information regarding John Gorrie's sex or,0.0
+human_scientist,Shing-Tung Yau,place of birth,Shantou,What is the place of birth of Shing-Tung Yau?,"Shanghai, China",0.0
+human_scientist,Olympia Fulvia Morata,manner of death,natural causes,What is the manner of death of Olympia Fulvia Morata?,The provided text does not contain any information regarding the manner of death of Olympia Ful,0.0
+human_scientist,Berthold Vogl,sex or gender,male,What is the sex or gender of Berthold Vogl?,The provided text does not contain any information regarding Berthold Vogl's sex,0.0
+human_scientist,Vitaly Ginzburg,employer,Lebedev Physical Institute,What is the employer of Vitaly Ginzburg?,Vitaly Ginzburg is employed by Meta Platforms,0.0
+human_scientist,Otto Immisch,writing language,German,What is the writing language of Otto Immisch?,"Otto Immisch writes in a concise and precise style, often employing short phrases and",0.0
+human_scientist,Lazare Carnot,place of death,Magdeburg,What is the place of death of Lazare Carnot?,"Lyon, France",0.0
+human_scientist,Donna Nelson,doctoral advisor,Michael J. S. Dewar,Who is the doctoral advisor of Donna Nelson?,"The provided text does not specify Donna Nelson's doctoral advisor, so I cannot",0.0
+human_scientist,Donna Nelson,residence,Norman,Who is the residence of Donna Nelson?,"She does not specify her residence, so I cannot answer this question from the provided",0.0
+human_scientist,Horace Wells,sex or gender,male,What is the sex or gender of Horace Wells?,"The provided text does not contain any information regarding Horace Wells' sex or gender,",0.0
+human_scientist,Gregory Goodwin Pincus,cause of death,leukemia,What is the cause of death of Gregory Goodwin Pincus?,The provided text does not contain information regarding the cause of death of Gregory Goodwin Pin,0.0
+human_scientist,Francesco Redi,place of birth,Arezzo,What is the place of birth of Francesco Redi?,"Francesco Redi was born in Siena, Italy",0.0
+human_scientist,Nasir al-Din al-Tusi,place of birth,Tus,What is the place of birth of Nasir al-Din al-Tusi?,"Cairo, Egypt",0.0
+human_scientist,Louis Nirenberg,doctoral advisor,James J. Stoker,Who is the doctoral advisor of Louis Nirenberg?,Louis Nirenberg is advised by Steven Pinker,0.0
+human_scientist,Lawrence Summers,field of work,economics,What is the field of work of Lawrence Summers?,Lawrence Summers is a physicist known for his work in condensed matter physics and materials science,0.0
+human_scientist,Nikolai Pirogov,field of work,medicine,What is the field of work of Nikolai Pirogov?,"Nikolai Pirogov is a Russian political scientist and analyst, specializing in international relations",0.0
+human_scientist,Viktor Makeyev,member of political party,Communist Party of the Soviet Union,What is the member of political party of Viktor Makeyev?,"The provided text does not specify the political party of Viktor Makeyev, so I",0.0
+human_scientist,Sámuel Mikoviny,sex or gender,male,What is the sex or gender of Sámuel Mikoviny?,The provided text does not contain any information regarding Sámuel Mikoviny's,0.0
+human_scientist,Valery Zorkin,employer,Constitutional Court of Russia,What is the employer of Valery Zorkin?,Valery Zorkin currently works at Meta Platforms,0.0
+human_scientist,Telford Taylor,place of death,Manhattan,What is the place of death of Telford Taylor?,Telford Taylor died in a car accident in 1995,0.0
+human_scientist,Nizam al-Mulk,place of birth,Tus,What is the place of birth of Nizam al-Mulk?,"Hyderabad, India",0.0
+human_scientist,Royal Rife,occupation,scientist,What is the occupation of Royal Rife?,Royal Rife was a medical experimenter and inventor known for his controversial claims of healing,0.0
+human_scientist,John Howard Northrop,place of death,Wickenburg,What is the place of death of John Howard Northrop?,"Not provided in the given context, so I cannot answer this question from the provided",0.0
+human_scientist,Francis Bacon,country of citizenship,Kingdom of England,What is the country of citizenship of Francis Bacon?,Francis Bacon was born in England,0.0
+human_scientist,Yury Pobedonostsev,occupation,scientist,What is the occupation of Yury Pobedonostsev?,Yury Pobedonostsev is a software engineer,0.0
+human_scientist,Diana Gabaldon,influenced by,Robert Louis Stevenson,Who was Diana Gabaldon influenced by?,"Diana Gabaldon was influenced by various writers, including James Joyce, Franz Kafka",0.0
+human_scientist,Lawrence Summers,religion or worldview,Judaism,What is the religion or worldview of Lawrence Summers?,"I am unable to access personal or religious information of individuals, including Lawrence Summers",0.0
+human_scientist,Alberto Granado,sex or gender,male,What is the sex or gender of Alberto Granado?,The provided text does not contain any information regarding Alberto Granado's sex or,0.0
+human_scientist,John D. Clark,place of death,New Jersey,What is the place of death of John D. Clark?,"Clark's place of death is not specified in the provided context, so I",0.0
+human_scientist,Benjamin List,employer,Max Planck Institute for Coal Research,What is the employer of Benjamin List?,"Not provided in the given context, so I cannot answer this question from the provided",0.0
+human_scientist,Berthold Vogl,employer,University of Salzburg,What is the employer of Berthold Vogl?,"Information not provided in the given context, so I cannot answer this question from the",0.0
+human_scientist,Ben Goldacre,sex or gender,male,What is the sex or gender of Ben Goldacre?,The provided text does not contain any information regarding Ben Goldacre's sex or,0.0
+human_scientist,Leonardo da Vinci,place of death,Clos Lucé,Who is the place of death of Leonardo da Vinci?,"Leonardo da Vinci died in Florence, Italy",0.0
+human_scientist,Abraham von Humbert,place of birth,Berlin,What is the place of birth of Abraham von Humbert?,Germany,0.0
+human_scientist,Vaclav Smil,employer,University of Manitoba,What is the employer of Vaclav Smil?,Vaclav Smil is currently employed by Meta Platforms,0.0
+human_scientist,Mary Somerville,spouse,William Somerville,Who is the spouse of Mary Somerville?,"Mary Somerville is not married, so I cannot provide information regarding her spouse",0.0
+human_scientist,Boris Vladimirtsov,sex or gender,male,What is the sex or gender of Boris Vladimirtsov?,The provided text does not contain any information regarding Boris Vladimirtsov's sex,0.0
+human_scientist,David P. Lane,sex or gender,male,What is the sex or gender of David P. Lane?,The provided text does not contain any information regarding David P. Lane's sex,0.0
+human_scientist,Stuart Hameroff,sex or gender,male,What is the sex or gender of Stuart Hameroff?,The provided text does not contain any information regarding Stuart Hameroff's sex,0.0
+human_scientist,Tamara Braun,sex or gender,female,What is the sex or gender of Tamara Braun?,The provided text does not contain any information regarding Tamara Braun's sex or gender,0.0
+human_scientist,Raymond Kurzweil,sex or gender,male,What is the sex or gender of Raymond Kurzweil?,The provided text does not contain any information regarding Raymond Kurzweil's sex or,0.0
+human_scientist,Carl Dorno,place of birth,Königsberg,What is the place of birth of Carl Dorno?,"Berlin, Germany",0.0
+human_scientist,Morton Deutsch,doctoral advisor,Ronald Lippitt,Who is the doctoral advisor of Morton Deutsch?,Morton Deutsch is advised by David Tannen,0.0
+human_scientist,Paul Dirac,influenced by,John Stuart Mill,Who was Paul Dirac influenced by?,"Dirac was influenced by the work of classical physicists such as Maxwell, Boltzmann,",0.0
+human_scientist,Max Factor,place of death,Beverly Hills,What is the place of death of Max Factor?,"Los Angeles, California",0.0
+human_scientist,Phil Jones,employer,University of East Anglia,What is the employer of Phil Jones?,Nike,0.0
+human_scientist,Guglielmo Marconi,manner of death,natural causes,What is the manner of death of Guglielmo Marconi?,Guglielmo Marconi died of heart failure on 24 November 19,0.0
+human_scientist,Frank Malina,doctoral advisor,Theodore von Kármán,Who is the doctoral advisor of Frank Malina?,"The provided text does not specify the doctoral advisor of Frank Malina, so I",0.0
+human_scientist,Harald Rose,sex or gender,male,What is the sex or gender of Harald Rose?,The provided text does not contain any information regarding Harald Rose's sex or gender,0.0
+human_scientist,Frank Malina,place of death,Boulogne-Billancourt,What is the place of death of Frank Malina?,Frank Malina died in a car accident in 1996,0.0
+human_scientist,Ludwik Fleck,employer,Lviv University,What is the employer of Ludwik Fleck?,BMW,0.0
+human_scientist,Thomas Sprat,sex or gender,male,What is the sex or gender of Thomas Sprat?,The provided text does not contain any information regarding Thomas Sprat's sex or,0.0
+human_scientist,Hans Rosling,cause of death,pancreatic cancer,What is the cause of death of Hans Rosling?,The provided text does not contain information regarding the cause of Hans Rosling's,0.0
+human_scientist,Anna Heer,sex or gender,female,What is the sex or gender of Anna Heer?,"I am unable to provide personal or sensitive information, including gender, of individuals",0.0

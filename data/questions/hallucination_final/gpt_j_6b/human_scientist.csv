@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+human_scientist,Aleksandr Norden,place of birth,Saratov,What is the place of birth of Aleksandr Norden?,Russia,0.0
+human_scientist,Leonhard Euler,medical condition,blindness,What is the medical condition of Leonhard Euler?,Euler was a mathematician,0.0
+human_scientist,Alberto Santos-Dumont,manner of death,suicide,What is the manner of death of Alberto Santos-Dumont?,He died in a plane crash,0.0
+human_scientist,Karl Friedrich Wilhelm Peters,place of death,Königsberg,What is the place of death of Karl Friedrich Wilhelm Peters?,Karl Friedrich Wilhelm Peters died in 1842,0.0
+human_scientist,Émile Coué,place of death,Nancy,Who is the place of death of Émile Coué?,The place of death of Émile Coué is the cemetery.  Question,0.0
+human_scientist,Louis Nirenberg,employer,"Courant Institute of Mathematical Sciences, NYU",What is the employer of Louis Nirenberg?,The University of Chicago,0.0
+human_scientist,Robert Winston,country of citizenship,United Kingdom,What is the country of citizenship of Robert Winston?,United States of America,0.0
+human_scientist,Hamao Umezawa,employer,University of Tokyo,What is the employer of Hamao Umezawa?,The employer of Hamao Umezawa is the Japanese government. Question,0.0
+human_scientist,James Rhyne Killian,employer,Massachusetts Institute of Technology,What is the employer of James Rhyne Killian?,The employer of James Rhyne Killian is the United States government,0.0
+human_scientist,Konstantin Tsiolkovskii,place of birth,Izhevskoe,Who is the place of birth of Konstantin Tsiolkovskii?,Russia,0.0
+human_scientist,Annie Scott Dill Maunder,spouse,Edward Walter Maunder,Who is the spouse of Annie Scott Dill Maunder?,Her husband,0.0
+human_scientist,Abbé Faria,place of death,Paris,What is the place of death of Abbé Faria?,The place of death of Abbé Faria is the cemetery of the Holy,0.0
+human_scientist,Christiaan Snouck,place of birth,Oosterhout,What is the place of birth of Christiaan Snouck?,Bethlehem,0.0
+human_scientist,Lazare Carnot,noble title,count,What is the noble title of Lazare Carnot?,"The title of Carnot is ""The Great Engineer.""",0.0
+human_scientist,Moshe Arens,place of death,Savyon,What is the place of death of Moshe Arens?,Moshe Arens died in the United States,0.0
+human_scientist,Riane Eisler,place of birth,Vienna,What is the place of birth of Riane Eisler?,Riane Eisler was born in New York City.  ,0.0
+human_scientist,Francis Bacon,spouse,Alice Barnham,Who is the spouse of Francis Bacon?,His wife,0.0
+human_scientist,Leonardo da Vinci,cause of death,cerebral hemorrhage,What is the cause of death of Leonardo da Vinci?,He died of old age,0.0
+human_scientist,Christiaan Snouck,sex or gender,male,What is the sex or gender of Christiaan Snouck?,Jesus,0.0
+human_scientist,Nikolai Pirogov,manner of death,natural causes,What is the manner of death of Nikolai Pirogov?,He died of a heart attack,0.0
+human_scientist,Christiaan Snouck,doctoral advisor,Michael Jan de Goeje,Who is the doctoral advisor of Christiaan Snouck?,Christiaan Snouck,0.0
+human_scientist,Serge Haroche,place of birth,Casablanca,What is the place of birth of Serge Haroche?,Paris,0.0
+human_scientist,Konstantin Tsiolkovskii,field of work,astronautics,What is the field of work of Konstantin Tsiolkovskii?,Electronics,0.0
+human_scientist,Leonardo da Vinci,place of burial,Château d'Amboise,Who is the place of burial of Leonardo da Vinci?,Leonardo da Vinci is buried in the church of Santa Maria delle Graz,0.0
+human_scientist,Leonardo da Vinci,country of citizenship,Republic of Florence,What is the country of citizenship of Leonardo da Vinci?,Italy,0.0
+human_scientist,Lewis Elton,country of citizenship,United Kingdom,What is the country of citizenship of Lewis Elton?,United States,0.0
+human_scientist,Leonardo da Vinci,handedness,left-handedness,What is the handedness of Leonardo da Vinci?,Right-handed,0.0
+human_scientist,Richard Smalley,cause of death,chronic lymphocytic leukemia,What is the cause of death of Richard Smalley?,Richard Smalley died of a heart attack,0.0
+human_scientist,Lawrence Summers,spouse,Elisa New,Who is the spouse of Lawrence Summers?,His wife,0.0
+human_scientist,Alberto Santos-Dumont,cause of death,hanging,What is the cause of death of Alberto Santos-Dumont?,He died of a broken heart,0.0
+human_scientist,Shing-Tung Yau,ethnic group,Chinese Americans,What is the ethnic group of Shing-Tung Yau?,Chinese,0.0
+human_scientist,Carl Dorno,occupation,scientist,What is the occupation of Carl Dorno?,A teacher,0.0
+human_scientist,Yury Pobedonostsev,place of death,Baku,What is the place of death of Yury Pobedonostsev?,He died in the Kremlin,0.0
+human_scientist,Hamza Hakimzade Niyazi,cause of death,stoning,What is the cause of death of Hamza Hakimzade Niyazi?,Hamza Hakimzade Niyazi died of a heart attack,0.0
+human_scientist,Royal Rife,occupation,scientist,What is the occupation of Royal Rife?,Doctor,0.0
+human_scientist,Paul Dirac,doctoral advisor,Ralph H. Fowwlerr,Who is the doctoral advisor of Paul Dirac?,Dirac,0.0
+human_scientist,John Gorrie,place of death,Apalachicola,What is the place of death of John Gorrie?,The place of death of John Gorrie is the place of death of John Gor,0.0
+human_scientist,Louis Nirenberg,doctoral advisor,James J. Stoker,Who is the doctoral advisor of Louis Nirenberg?,Nirenberg,0.0
+human_scientist,Jacques Curie,academic degree,professor,What is the academic degree of Jacques Curie?,Doctor,0.0
+human_scientist,Annie Scott Dill Maunder,employer,Royal Observatory,What is the employer of Annie Scott Dill Maunder?,The employer of Annie Scott Dill Maunder is the United States government,0.0
+human_scientist,Donna Nelson,residence,Norman,Who is the residence of Donna Nelson?,The residence of Donna Nelson is located at 123 Main Street,0.0
+human_scientist,Viktor Makeyev,place of burial,Novodevichy Cemetery,What is the place of burial of Viktor Makeyev?,The place of burial of Viktor Makeyev is in the cemetery of the village,0.0
+human_scientist,Paul Dirac,place of birth,Bristol,What is the place of birth of Paul Dirac?,"Cambridge, England",0.0
+human_scientist,Hans Rosling,place of burial,Uppsala Old Cemetery,What is the place of burial of Hans Rosling?,Sweden,0.0
+human_scientist,John Locke,movement,empiricism,What is the movement of John Locke?,Locke's movement is a movement of thought,0.0
+human_scientist,Viktor Makeyev,member of political party,Communist Party of the Soviet Union,What is the member of political party of Viktor Makeyev?,The member of political party of Viktor Makeyev is the leader of the party,0.0
+human_scientist,Edmond Frémy,place of birth,Versailles,What is the place of birth of Edmond Frémy?,Paris,0.0
+human_scientist,Maria Goeppert Mayer,place of death,San Diego,What is the place of death of Maria Goeppert Mayer?,She died in New York City,0.0
+human_scientist,Benjamin List,influenced by,Richard Lerner,Who was Benjamin List influenced by?,"Benjamin List was influenced by the work of the French philosopher, Jean-Jacques",0.0
+human_scientist,Viktor Makeyev,field of work,rocket science,What is the field of work of Viktor Makeyev?,Makeyev is a Russian artist,0.0
+human_scientist,Francis Bacon,father,Nicholas Bacon,Who is the father of Francis Bacon?,Francis Bacon,0.0
+human_scientist,Leonīds Ribickis,field of work,electrical engineering,What is the field of work of Leonīds Ribickis?,A. Physicist B. Chemist C. Mathematician D. Phys,0.0
+human_scientist,Vladimir Shukhov,place of burial,Novodevichy Cemetery,What is the place of burial of Vladimir Shukhov?,The place of burial of Vladimir Shukhov is in the Kremlin,0.0
+human_scientist,Nikolai Pirogov,cause of death,cancer,What is the cause of death of Nikolai Pirogov?,"""He died of a heart attack.""",0.0
+human_scientist,Faizi,writing language,Persian,What is the writing language of Faizi?,English,0.0
+human_scientist,Richard Kirwan,field of work,chemistry,What is the field of work of Richard Kirwan?,"He is a professor of English at the University of California, Berkeley",0.0
+human_scientist,Vitaly Ginzburg,doctoral advisor,Igor Tamm,Who is the doctoral advisor of Vitaly Ginzburg?,Vitaly Ginzburg,0.0
+human_scientist,Catherine Coleman,spouse,Josh Simpson,Who is the spouse of Catherine Coleman?,Catherine Coleman is the spouse of John Coleman,0.0
+human_scientist,Charles K. Kao,work location,Hong Kong,What is the work location of Charles K. Kao?,Kao's work location is in the United States,0.0
+human_scientist,Annie Scott Dill Maunder,notable work,astronomy,What is the notable work of Annie Scott Dill Maunder?,Annie Scott Dill Maunder was a prolific author of children's books. She wrote,0.0
+human_scientist,Janko Ferk,work location,Klagenfurt am Wörthersee,What is the work location of Janko Ferk?,The work location of Janko Ferk is the office of the company,0.0
+human_scientist,Semyon Lavochkin,conflict,Eastern Front,What is the conflict of Semyon Lavochkin?,The conflict of Semyon Lavochkin is the conflict between the Soviet Union,0.0
+human_scientist,Benedikt Buchner,employer,University of Bremen,What is the employer of Benedikt Buchner?,The employer of Benedikt Buchner is the Federal Republic of Germany,0.0
+human_scientist,John Howard Northrop,manner of death,suicide,What is the manner of death of John Howard Northrop?,He was murdered,0.0
+human_scientist,Sabina Jeschke,family name,Jeschke,Who is the family name of Sabina Jeschke?,Sabina,0.0
+human_scientist,Peter Debye,place of death,Ithaca,What is the place of death of Peter Debye?,Peter Debye died in Germany,0.0
+human_scientist,Jim Simons,spouse,Barbara Simons,Who is the spouse of Jim Simons?,His wife,0.0
+human_scientist,Anatoli Blagonravov,member of political party,Communist Party of the Soviet Union,What is the member of political party of Anatoli Blagonravov?,Blagonravov,0.0
+human_scientist,Paul Dirac,religion or worldview,deism,What is the religion or worldview of Paul Dirac?,He was a Christian,0.0
+human_scientist,Galileo Galilei,mother,Giulia Ammannati,Who is the mother of Galileo Galilei?,His mother was Vittoria,0.0
+human_scientist,Allan Snyder,residence,Sydney,What is the residence of Allan Snyder?,Allan Snyder lives in the United States,0.0
+human_scientist,Paul Séjourné,field of work,engineering,What is the field of work of Paul Séjourné?,Paul Séjourné is a French artist,0.0
+human_scientist,Gregory Goodwin Pincus,cause of death,leukemia,What is the cause of death of Gregory Goodwin Pincus?,Suicide,0.0
+human_scientist,Andrea M. Ghez,sex or gender,female,What is the sex or gender of Andrea M. Ghez?,Male,0.0
+human_scientist,Henry Heimlich,field of work,physician,What is the field of work of Henry Heimlich?,Heimlich Maneuver,0.0
+human_scientist,Lewis Elton,father,Victor Ehrenberg,Who is the father of Lewis Elton?,Lewis Elton is the father of Lewis Elton,0.0
+human_scientist,Andreas Vogel,employer,Free University Berlin,What is the employer of Andreas Vogel?,The employer of Andreas Vogel is the Federal Republic of Germany.  Question,0.0
+human_scientist,Heinrich Rantzau,military or police rank,general,What is the military or police rank of Heinrich Rantzau?,Lieutenant,0.0
+human_scientist,Étienne-Jules Marey,nominated for,Nobel Prize in Physiology or Medicine,What was Étienne-Jules Marey nominated for?,The Nobel Prize,0.0
+human_scientist,Galileo Galilei,religion or worldview,Latin Church,What is the religion or worldview of Galileo Galilei?,The religion of Galileo Galilei is the religion of science.  ,0.0
+human_scientist,Andreas Vogel,field of work,digital humanities,What is the field of work of Andreas Vogel?,Software developer,0.0
+human_scientist,Marcos Soares Tatagiba,field of work,neurosurgery,What is the field of work of Marcos Soares Tatagiba?,He is a professor of mathematics,0.0
+human_scientist,Nikolay Kamov,place of burial,Novodevichy Cemetery,What is the place of burial of Nikolay Kamov?,The place of burial of Nikolay Kamov is in the cemetery of the village,0.0
+human_scientist,David P. Lane,place of birth,Wimbledon,What is the place of birth of David P. Lane?,David P. Lane was born in the United States,0.0
+human_scientist,Donna Nelson,employer,University of Oklahoma,What is the employer of Donna Nelson?,The employer of Donna Nelson is the State of California,0.0
+human_scientist,Leonhard Euler,cause of death,cerebral hemorrhage,What is the cause of death of Leonhard Euler?,Euler died of a heart attack,0.0
+human_scientist,Richard Kirwan,place of birth,County Galway,What is the place of birth of Richard Kirwan?,Ireland,0.0
+human_scientist,Landell de Moura,religion or worldview,Catholic Church,What is the religion or worldview of Landell de Moura?,I am a Christian,0.0
+human_scientist,William Bates,place of death,New York City,What is the place of death of William Bates?,The place of death of William Bates is the cemetery,0.0
+human_scientist,Konstantin Tsiolkovskii,influenced by,Jules Verne,Who was Konstantin Tsiolkovskii influenced by?,He was influenced by the work of Nikola Tesla,0.0
+human_scientist,Yury Pobedonostsev,employer,Bauman Moscow State Technical University,What is the employer of Yury Pobedonostsev?,The Russian Orthodox Church,0.0
+human_scientist,Dēmētrios Nikolaou Darvaris,place of death,Vienna,What is the place of death of Dēmētrios Nikolaou Darvaris?,The place of death of Dēmētrios Nikolaou Darvaris,0.0
+human_scientist,Paul Dirac,influenced by,John Stuart Mill,Who was Paul Dirac influenced by?,He was influenced by the work of Einstein,0.0
+human_scientist,Tamara Braun,place of birth,Evanston,What is the place of birth of Tamara Braun?,Tamara Braun was born in the United States,0.0
+human_scientist,Nikolai Pirogov,field of work,medicine,What is the field of work of Nikolai Pirogov?,Physician,0.0
+human_scientist,Tytus Maksymilian Huber,field of work,mechanical engineering,What is the field of work of Tytus Maksymilian Huber?,Tytus Maksymilian Huber is a painter,0.0
+human_scientist,Lennart Nilsson,place of death,Stockholm,What is the place of death of Lennart Nilsson?,Lennart Nilsson died in the United States,0.0
+human_scientist,Franz-Josef Ulm,place of birth,Fürth,What is the place of birth of Franz-Josef Ulm?,Germany,0.0
+human_scientist,Vladimir Shukhov,employer,Branobel,What is the employer of Vladimir Shukhov?,The employer of Vladimir Shukhov is the Soviet Union.  ,0.0
+human_scientist,Louis de Jaucourt,place of death,Compiègne,What is the place of death of Louis de Jaucourt?,The place of death of Louis de Jaucourt is the cemetery of the village,0.0
+human_scientist,Peter Debye,manner of death,natural causes,What is the manner of death of Peter Debye?,He died of cancer,0.0
+human_scientist,John Howard Northrop,ancestral home,Germany,What is the ancestral home of John Howard Northrop?,The ancestral home of John Howard Northrop is the United States.  Question,0.0
+human_scientist,Jim Simons,place of death,New York City,What is the place of death of Jim Simons?,The place of death of Jim Simons is the place of death of Jim Sim,0.0
+human_scientist,Abraham of Worms,occupation,scientist,What is the occupation of Abraham of Worms?,Abraham of Worms was a shoemaker,0.0
+human_scientist,Boris Vladimirtsov,occupation,scientist,What is the occupation of Boris Vladimirtsov?,Actor,0.0

@@ -1,0 +1,35 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+health_medication,antibiotic,has characteristic,antibiotic resistance,What does antibiotic have characteristic?,"Antibiotics possess antibacterial properties, enabling them to combat and destroy harmful bacteria",0.0
+health_medication,botulinum toxin type A,subject has role,acetylcholine release inhibitors,What is the subject has role of botulinum toxin type A?,Botulinum toxin type A is responsible for muscle paralysis,0.0
+health_medication,corticotropin,encoded by,POMC,What was corticotropin encoded by?,Corticotropin is encoded by the pituitary gland,0.0
+health_medication,corticotropin,subject has role,hormone,What is the subject has role of corticotropin?,Corticotropin regulates the release of adrenocorticoids from the adrenal cortex,0.0
+health_medication,immunoglobulin G,subject has role,immunologic factor,What is the subject has role of immunoglobulin G?,Immunoglobulin G helps neutralize and eliminate viral and bacterial antigens,0.0
+health_medication,Serpin family A member 1,molecular function,protein binding,What is the molecular function of Serpin family A member 1?,Serpin family A member 1 is involved in blood coagulation and proteinase inhibition,0.0
+health_medication,Serpin family A member 1,subject has role,Trypsin inhibitor,What is the subject has role of Serpin family A member 1?,Serpin family A member 1 plays a role in blood coagulation by regulating the,0.0
+health_medication,aviptadil,has part(s),vasoactive intestinal peptide,What does aviptadil have part(s )?,Aviptadil has the part of a selective serotonin reuptake inhibitor (,0.0
+health_medication,calfactant,subject has role,pulmonary surfactant,What is the subject has role of calfactant?,Calfactant is responsible for the formation and maintenance of subcutaneous fat pads,0.0
+health_medication,beractant,subject has role,pulmonary surfactant,What is the subject has role of beractant?,The subject has a role of reactant,0.0
+health_medication,botulinum toxin Type B,subject has role,acetylcholine release inhibitors,What is the subject has role of botulinum toxin Type B?,Botulinum toxin Type B is responsible for muscle paralysis,0.0
+health_medication,abacavir/dolutegravir/lamivudine,route of administration,oral administration,What is the route of administration of abacavir/dolutegravir/lamivudine?,Triple combination therapy,0.0
+health_medication,tranylcypromine,significant drug interaction,procarbazine,What is the significant drug interaction of tranylcypromine?,Cardiovascular effects,0.0
+health_medication,insulin,has part(s),insulin B chain,What does insulin have part(s )?,Insulin has part of regulating blood sugar levels,0.0
+health_medication,ibritumomab,subject has role,radiopharmaceutical,What is the subject has role of ibritumomab?,"Ibritumomab targets and depletes B cells, enhancing the efficacy of immune",0.0
+health_medication,onasemnogene abeparvovec,manufacturer,Novartis,What is the manufacturer of onasemnogene abeparvovec?,BioMarin,0.0
+health_medication,candicidin,produced by,Streptomyces griseus,What was candicidin produced by?,Candicidin is produced by bacteria,0.0
+health_medication,phosphatidyl serine,has part(s),carbon,What does phosphatidyl serine have part(s )?,Phosphatidyl serine has a fatty acid moiety and serine group,0.0
+health_medication,xenon-133,subject has role,radiopharmaceutical,What is the subject has role of xenon-133?,Xenon-133 is used as a tracer gas in medical imaging to,0.0
+health_medication,chlorine,discoverer or inventor,Carl Wilhelm Scheele,Who is the discoverer or inventor of chlorine?,Chlorine was discovered by Henry Cavendish in 1774,0.0
+health_medication,calcium,discoverer or inventor,Humphry Davy,Who is the discoverer or inventor of calcium?,Calcium was discovered by Julius Lothar Meyer in 1846,0.0
+health_medication,calcium,named after,lime,What was calcium named after?,"Calcium was named after the Latin word ""calceum,"" meaning ""foot.""",0.0
+health_medication,calcium,subject has role,essential medicine,What is the subject has role of calcium?,"Calcium plays a crucial role in bone and teeth formation, muscle contraction, and nerve",0.0
+health_medication,chlorine,named after,green,What was chlorine named after?,"Chlorine was named after the Greek god of lightning, Hermes",0.0
+health_medication,Hepatitis B vaccine,discoverer or inventor,Baruch Samuel Blumberg,Who is the discoverer or inventor of Hepatitis B vaccine?,The Hepatitis B vaccine was developed by researchers at the Centers for Disease Control and Prevention,0.0
+health_medication,digestive enzyme,molecular function,catalysis,What is the molecular function of digestive enzyme?,"The molecular function of digestive enzymes is to break down complex food molecules into smaller,",0.0
+health_medication,digestive enzyme,subject has role,digestion,What is the subject has role of digestive enzyme?,The subject has a role in digestive enzyme production and secretion,0.0
+health_medication,hand sanitizer,has part(s),ethanol,What does hand sanitizer have part(s )?,Hand sanitizer contains alcohol or other ingredients that kill or inhibit the growth of bacteria and,0.0
+health_medication,peritoneal dialysis,health specialty,nephrology,What is the health specialty of peritoneal dialysis?,Peritoneal dialysis,0.0
+health_medication,polio vaccine,location of creation,University of Pittsburgh,What is the location of creation of polio vaccine?,The polio vaccine was developed in the United States,0.0
+health_medication,oxygen therapy,uses,dioxygen,What does oxygen therapy use?,Oxygen therapy uses to increase oxygen levels in the blood,0.0
+health_medication,varicella vaccine,developer,Michiaki Takahashi,Who is the developer of varicella vaccine?,The developer of the varicella vaccine is Merck & Co,0.0
+health_medication,hepatitis A vaccine,brand,Twinrix,What is the brand of hepatitis A vaccine?,The brand of hepatitis A vaccine is Hepatitis A vaccine (HAV),0.0
+health_medication,copper IUD,subject has role,essential medicine,What is the subject has role of copper IUD?,Copper IUD regulates menstrual bleeding by preventing ovulation,0.0

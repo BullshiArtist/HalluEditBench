@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+places_country,Poland,head of government,Donald Tusk,Who is the head of government of Poland?,The current head of government of Poland is Andrzej Duda,0.0
+places_country,Germany,head of state,Frank-Walter Steinmeier,Who is the head of state of Germany?,The current head of state of Germany is Olaf Scholz,0.0
+places_country,Norway,highest point,Galdhøpiggen,What is the highest point of Norway?,Mount Everest,0.0
+places_country,Ivory Coast,highest point,Mount Richard-Molard,What is the highest point of Ivory Coast?,Mount Nimba,0.0
+places_country,Libya,replaces,Great Socialist People's Libyan Arab Jamahiriya,What does Libya replace?,Libya replaces oil,0.0
+places_country,Portugal,anthem,A Portuguesa,What does Portugal anthem?,"Portugal anthem is ""Brazil, meu Brasil""",0.0
+places_country,Mali,lowest point,Senegal River,What is the lowest point of Mali?,Koroto,0.0
+places_country,Dominica,head of government,Roosevelt Skerrit,Who is the head of government of Dominica?,Dominica is governed by a Prime Minister and a Cabinet of Ministers,0.0
+places_country,Central African Republic,central bank,Bank of Central African States,What is the central bank of Central African Republic?,Central Bank of the Republic of Central African Republic,0.0
+places_country,United States of America,top-level Internet domain,.us,What is the top-level Internet domain of United States of America?,.gov,0.0
+places_country,Federated States of Micronesia,highest point,Dolohmwar,What is the highest point of Federated States of Micronesia?,Palau,0.0
+places_country,France,railway traffic side,right,What is the railway traffic side of France?,"France has a complex and extensive railway traffic side, encompassing high-speed lines,",0.0
+places_country,France,head of government,Gabriel Attal,Who is the head of government of France?,Emmanuel Macron,0.0
+places_country,Sudan,head of state,Abdel Fattah al-Burhan,Who is the head of state of Sudan?,Ali Bashir,0.0
+places_country,India,head of state,Droupadi Murmu,Who is the head of state of India?,The current head of state of India is Narendra Modi,0.0
+places_country,Armenia,railway traffic side,right,What is the railway traffic side of Armenia?,Armenia Railways,0.0
+places_country,South Sudan,highest point,Kinyeti,Who is the highest point of South Sudan?,Mount Kilimanjaro,0.0
+places_country,Finland,driving side,right,What is the driving side of Finland?,Finnish identity and national pride,0.0
+places_country,Malta,head of government,Robert Abela,Who is the head of government of Malta?,Joseph Muscat,0.0
+places_country,Kingdom of the Netherlands,anthem,Wilhelmus,Who does Kingdom of the Netherlands anthem?,The Netherlands anthem is performed by the Royal Dutch National Orchestra,0.0
+places_country,Poland,main regulatory text,Constitution of Poland,What is the main regulatory text of Poland?,Polish Civil Code,0.0
+places_country,Belarus,driving side,right,What is the driving side of Belarus?,Belarus' driving side is its long history of Soviet influence and its desire to maintain,0.0
+places_country,Oman,basic form of government,absolute monarchy,What is the basic form of government of Oman?,Semi-presidential system,0.0
+places_country,Burundi,named after,Kirundi,What was Burundi named after?,"Burundi was named after the Burundian people, who are the indigenous population",0.0
+places_country,Vietnam,head of state,Võ Văn Thưởng,Who is the head of state of Vietnam?,Nguyen Xuan Phuc,0.0
+places_country,Liechtenstein,head of government,Daniel Risch,Who is the head of government of Liechtenstein?,The current head of government of Liechtenstein is Alexander Bach,0.0
+places_country,Turkmenistan,driving side,right,What is the driving side of Turkmenistan?,Turkmenistan's driving side is largely influenced by religious beliefs and cultural traditions,0.0
+places_country,Pakistan,basic form of government,federal republic,What is the basic form of government of Pakistan?,Presidential republic,0.0
+places_country,Kingdom of Denmark,located in time zone,Atlantic Time Zone,What is the located in time zone of Kingdom of Denmark?,Denmark is located in the Central European Time zone,0.0
+places_country,Saint Vincent and the Grenadines,head of state,Charles III of the United Kingdom,Who is the head of state of Saint Vincent and the Grenadines?,The current head of state is William Ralph,0.0
+places_country,Niger,replaces,French West Africa,What does Niger replace?,Niger replaces words or phrases that are lacking in meaning or context,0.0
+places_country,Zambia,head of state,Hakainde Hichilema,Who is the head of state of Zambia?,President Edgar Lungu,0.0
+places_country,Greece,head of government,Kyriakos Mitsotakis,Who is the head of government of Greece?,The current head of government of Greece is Nikos Christos,0.0
+places_country,Madagascar,head of state,Andry Rajoelina,Who is the head of state of Madagascar?,Hery Rajaonarimana,0.0
+places_country,Tanzania,central bank,Bank of Tanzania,What is the central bank of Tanzania?,Tanzania National Bank,0.0
+places_country,Belarus,railway traffic side,right,What is the railway traffic side of Belarus?,Railway traffic side of Belarus is Eastern,0.0
+places_country,Denmark,head of state,Frederik X of Denmark,Who is the head of state of Denmark?,King Charles III,0.0
+places_country,Finland,currency,Euro,What is the currency of Finland?,Finnish Krona (EUR),0.0
+places_country,Mauritania,currency,Mauritanian ouguiya,What is the currency of Mauritania?,Mauritania uses the Mauritanian franc (MGF),0.0
+places_country,Mauritania,highest point,Kediet ej Jill,Who is the highest point of Mauritania?,Mount Toubkal,0.0
+places_country,Sweden,driving side,right,What is the driving side of Sweden?,Innovation and sustainability,0.0
+places_country,Chile,railway traffic side,right,What is the railway traffic side of Chile?,Chilean Railways,0.0
+places_country,India,office held by head of government,Prime Minister of India,What is the office held by head of government of India?,President,0.0
+places_country,Qatar,driving side,right,What is the driving side of Qatar?,Qatar's driving side is based on the left side,0.0
+places_country,Benin,basic form of government,representative democracy,What is the basic form of government of Benin?,Republic,0.0
+places_country,Benin,head of government,Patrice Talon,Who is the head of government of Benin?,Édouard Philippe,0.0
+places_country,Nicaragua,currency,Nicaraguan córdoba,What is the currency of Nicaragua?,NIO,0.0
+places_country,Paraguay,driving side,right,What is the driving side of Paraguay?,Paraguay's driving side is predominantly the left,0.0
+places_country,Saint Lucia,basic form of government,constitutional monarchy,What is the basic form of government of Saint Lucia?,Parliamentary republic,0.0
+places_country,Chad,highest point,Emi Koussi,Who is the highest point of Chad?,Mount Nimba,0.0
+places_country,Eritrea,highest point,Emba Soira,Who is the highest point of Eritrea?,Mount Asmara,0.0
+places_country,People's Republic of China,driving side,right,What is the driving side of People's Republic of China?,Economic development and national rejuvenation,0.0
+places_country,Honduras,head of government,Xiomara Castro,Who is the head of government of Honduras?,Juan Orlando Hernández,0.0
+places_country,Zimbabwe,anthem,National Anthem of Zimbabwe,What does Zimbabwe anthem?,The Zimbabwe anthem is a national anthem that celebrates the country's independence and cultural,0.0
+places_country,Syria,madhhab,Malikism,What is the madhhab of Syria?,Syria adheres to the Sunni madhhab,0.0
+places_country,Morocco,head of government,Aziz Akhannouch,Who is the head of government of Morocco?,King Mohammed VI,0.0
+places_country,São Tomé and Príncipe,driving side,right,What is the driving side of São Tomé and Príncipe?,Economic diversification and political stability,0.0
+places_country,Senegal,railway traffic side,right,What is the railway traffic side of Senegal?,Senegal does not have a railway traffic side,0.0
+places_country,Iceland,head of state,Halla Tómasdóttir,Who is the head of state of Iceland?,Ólafur Ragnarsson,0.0
+places_country,Australia,discoverer or inventor,Willem Janszoon,Who is the discoverer or inventor of Australia?,Australia was discovered by the Aboriginal people,0.0
+places_country,Spain,official religion,non-denominational,What is the official religion of Spain?,Catholicism,0.0
+places_country,Mozambique,named after,Island of Mozambique,What was Mozambique named after?,Named after Portuguese explorers,0.0
+places_country,Peru,highest judicial authority,Constitutional Court of Peru,What is the highest judicial authority of Peru?,Supreme Court,0.0
+places_country,East Timor,head of government,Xanana Gusmão,Who is the head of government of East Timor?,"East Timor is currently governed by the President, Jose Ramos",0.0
+places_country,Sri Lanka,highest point,Pidurutalagala,What is the highest point of Sri Lanka?,Mount Everest,0.0
+places_country,Guatemala,head of government,Bernardo Arévalo de León,Who is the head of government of Guatemala?,Alejandro Giammattei,0.0
+places_country,Ivory Coast,replaces,French West Africa,What does Ivory Coast replace?,"Ivory Coast replaces resources such as cocoa, diamonds, and gold",0.0
+places_country,Slovakia,lowest point,Bodrog,What is the lowest point of Slovakia?,Triberg,0.0
+places_country,Republic of the Congo,driving side,right,What is the driving side of Republic of the Congo?,Economic development and political stability,0.0
+places_country,Ecuador,head of state,Daniel Noboa,Who is the head of state of Ecuador?,Guillermo Lasso,0.0
+places_country,Croatia,head of government,Andrej Plenković,Who is the head of government of Croatia?,The current head of government of Croatia is Borna Kačić,0.0
+places_country,Honduras,highest point,Cerro Las Minas,What is the highest point of Honduras?,Pico de Olancho,0.0
+places_country,Comoros,basic form of government,federal republic,What is the basic form of government of Comoros?,Semi-presidential republic,0.0
+places_country,Guinea,replaces,French West Africa,What does Guinea replace?,Guinea replaces silence,0.0
+places_country,Hungary,railway traffic side,right,What is the railway traffic side of Hungary?,Hungarian Railways,0.0
+places_country,Mexico,replaces,New Spain,What does Mexico replace?,"Mexico replaces nothing, as it is a country",0.0
+places_country,Burkina Faso,lowest point,Black Volta,What is the lowest point of Burkina Faso?,Ouagadougou,0.0
+places_country,Austria,lowest point,Neusiedl Lake,What is the lowest point of Austria?,The lowest point of Austria is the Danube River Valley at 183 meters,0.0
+places_country,Seychelles,named after,Jean Moreau de Séchelles,Who was Seychelles named after?,Seychelles was named after the French explorer and navigator Jean-Baptiste du Seyche,0.0
+places_country,Peru,head of government,Dina Boluarte,Who is the head of government of Peru?,Pedro Castillo,0.0
+places_country,Sint Maarten,driving side,right,What is the driving side of Sint Maarten?,Economic diversification and tourism,0.0
+places_country,Tunisia,driving side,right,What is the driving side of Tunisia?,Tunisia's driving side is largely on the left,0.0
+places_country,Mongolia,official observer status in organisation,Shanghai Cooperation Organisation,What is the official observer status in organisation of Mongolia?,"The official observer status in Mongolia is ""Observer of the United Nations""",0.0
+places_country,Burundi,currency,Burundian franc,What is the currency of Burundi?,Burundi uses the franc,0.0
+places_country,Tajikistan,lowest point,Syr Darya,Who is the lowest point of Tajikistan?,Pamir Plateau,0.0
+places_country,People's Republic of China,office held by head of state,President of the People's Republic of China,What is the office held by head of state of People's Republic of China?,Office of the President,0.0
+places_country,Nigeria,driving side,right,What is the driving side of Nigeria?,Economic development and political stability,0.0
+places_country,Lithuania,head of state,Gitanas Nausėda,Who is the head of state of Lithuania?,Gitanas Naučkis,0.0
+places_country,Ireland,replaces,Irish Free State,What does Ireland replace?,Ireland replaces nothing. It is a country,0.0
+places_country,Vanuatu,head of state,Nikenike Vurobaravu,Who is the head of state of Vanuatu?,Emmanuel Maungawatu,0.0
+places_country,Ethiopia,lowest point,Danakil Depression,What is the lowest point of Ethiopia?,"The lowest point of Ethiopia is the Great Rift Valley, at approximately 1,",0.0
+places_country,Poland,driving side,right,What is the driving side of Poland?,Polish nationalism,0.0
+places_country,Oman,replaces,Oman proper,What does Oman replace?,Oman replaces oil,0.0
+places_country,Belgium,driving side,right,What is the driving side of Belgium?,Culture and history,0.0
+places_country,Kingdom of Denmark,head of state,Frederik X of Denmark,Who is the head of state of Kingdom of Denmark?,King Charles III,0.0
+places_country,Slovakia,driving side,right,What is the driving side of Slovakia?,Slovakia's driving side is primarily on the left,0.0
+places_country,Lithuania,basic form of government,semi-presidential system,What is the basic form of government of Lithuania?,Republic,0.0
+places_country,Costa Rica,head of state,Rodrigo Chaves,Who is the head of state of Costa Rica?,Luis Guillermo Alvarado,0.0
+places_country,Oman,highest point,Jebel Shams,Who is the highest point of Oman?,Al Jalali Mountain,0.0
+places_country,Bulgaria,named after,Bulgars,What was Bulgaria named after?,"Bulgaria was named after the ancient Thracian tribe, the Belgae",0.0
+places_country,Cameroon,driving side,right,What is the driving side of Cameroon?,Cameroon's driving side is its rich cultural heritage and traditions,0.0
+places_country,Vatican City,named after,Vatican Hill,What was Vatican City named after?,"The city was named after Saint Peter, who is considered the founder of the Catholic",0.0
+places_country,Kyrgyzstan,railway traffic side,right,What is the railway traffic side of Kyrgyzstan?,"Kyrgyzstan has a well-developed railway traffic side, boasting a network of",0.0
+places_country,Nepal,head of government,Pushpa Kamal Dahal,Who is the head of government of Nepal?,King Gyanendra Shah,0.0
+places_country,United Arab Emirates,head of government,Mohammed bin Rashid Al Maktoum,Who is the head of government of United Arab Emirates?,Sheikh Khalifa bin Zayed Al Nahyan,0.0

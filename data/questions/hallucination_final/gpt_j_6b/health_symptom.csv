@@ -1,0 +1,29 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+health_symptom,tunnel vision,afflicts,peripheral vision,What does tunnel vision afflict?,Tunnel vision afflicts,0.0
+health_symptom,fatigue,health specialty,primary care,What is the health specialty of fatigue?,Fatigue is a symptom of many diseases,0.0
+health_symptom,bleeding gums,health specialty,oral and maxillofacial surgery,What is the health specialty of bleeding gums?,Periodontics,0.0
+health_symptom,gummatous syphilis,health specialty,infectious diseases,What is the health specialty of gummatous syphilis?,GUMMATOUS SYPHILIS,0.0
+health_symptom,red eye,afflicts,conjunctiva,What does red eye afflict?,Red eye afflicts the eyes,0.0
+health_symptom,bone fracture,health specialty,osteology,What is the health specialty of bone fracture?,Orthopedics,0.0
+health_symptom,hostility,said to be the same as,aggression,What did hostility say to be the same as?,The same as,0.0
+health_symptom,distraction,does not have characteristic,intention,What does distraction do not have characteristic?,It does not have characteristic,0.0
+health_symptom,Webbed neck,health specialty,medical genetics,What is the health specialty of Webbed neck?,Webbed neck is a condition in which the neck is webbed,0.0
+health_symptom,heat exhaustion,has cause,hot,What does heat exhaustion have cause?,Heat exhaustion is caused by the body losing too much fluid.  ,0.0
+health_symptom,metal poisoning,health specialty,neurology,What is the health specialty of metal poisoning?,Toxicology,0.0
+health_symptom,metal poisoning,has cause,metal element,What does metal poisoning have cause?,Poisoning,0.0
+health_symptom,dysphoria,said to be the same as,sadness,What did dysphoria say to be the same as?,"""I'm the same as you.""",0.0
+health_symptom,logorrhea,health specialty,psychology,What is the health specialty of logorrhea?,Medicine,0.0
+health_symptom,tension headache,medical examination,physical examination,What is the medical examination of tension headache?,The medical examination of tension headache is to determine whether the patient has a headache,0.0
+health_symptom,asthenia,drug or therapy used for treatment,mesocarb,What is the drug or therapy used for treatment of asthenia?,Asthenia is a condition of fatigue,0.0
+health_symptom,torticollis,health specialty,rheumatology,What is the health specialty of torticollis?,Neurology,0.0
+health_symptom,Braxton Hicks contraction,health specialty,obstetrics,What is the health specialty of Braxton Hicks contraction?,"Braxton Hicks contraction is a normal, non-pathological, non-danger",0.0
+health_symptom,chemical burn,health specialty,emergency medicine,What is the health specialty of chemical burn?,Chemical burns are burns caused by chemicals,0.0
+health_symptom,absence seizure,health specialty,neurology,What is the health specialty of absence seizure?,Epilepsy,0.0
+health_symptom,stereotypy,health specialty,psychiatry,What is the health specialty of stereotypy?,Stereotypy is a disorder of movement,0.0
+health_symptom,laryngospasm,health specialty,pulmonology,What is the health specialty of laryngospasm?,Laryngospasm is a condition in which the vocal cords close involuntarily,0.0
+health_symptom,suicidal ideation,has cause,mental disorder,What does suicidal ideation have cause?,Suicide is a permanent solution to a temporary problem,0.0
+health_symptom,suicidal ideation,possible treatment,psychotherapy,What is the possible treatment of suicidal ideation?,Treatment of suicidal ideation is to provide the patient with the necessary support and resources,0.0
+health_symptom,suicidal ideation,health specialty,clinical psychology,What is the health specialty of suicidal ideation?,Psychiatry,0.0
+health_symptom,runny nose,health specialty,pulmonology,What is the health specialty of runny nose?,Allergies,0.0
+health_symptom,odynophagia,health specialty,gastroenterology,What is the health specialty of odynophagia?,Otolaryngology,0.0
+health_symptom,hearing disorder,health specialty,neurology,What is the health specialty of hearing disorder?,Audiology,0.0

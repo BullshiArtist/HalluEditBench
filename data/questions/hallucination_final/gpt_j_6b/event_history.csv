@@ -1,0 +1,84 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+event_history,French Revolution,has part(s),Reign of Terror,What does French Revolution have part(s )?,The French Revolution was a series of events that took place in France from 1789,0.0
+event_history,Glorious Revolution,location,British Isles,What is the location of Glorious Revolution?,England,0.0
+event_history,Velvet Revolution,has cause,totalitarianism,What does Velvet Revolution have cause?,Velvet Revolution has cause to be a revolutionary organization,0.0
+event_history,Xinhai Revolution,location,Qing dynasty,What is the location of Xinhai Revolution?,Xinhai Revolution is located in China,0.0
+event_history,Russian Revolution of 1905,followed by,Russian Revolution,What was Russian Revolution of 1905 followed by?,Revolution of 1905,0.0
+event_history,February Revolution,has cause,World War I,What does February Revolution have cause?,February Revolution,0.0
+event_history,April Revolution,country,First Republic of South Korea,What is the country of April Revolution?,Cuba,0.0
+event_history,neolithic revolution,location,Fertile Crescent,What is the location of neolithic revolution?,The neolithic revolution was the transition from the hunter-gatherer lifestyle to the,0.0
+event_history,Cuban Revolution,participant,26th of July Movement,When is the participant of Cuban Revolution?,The Cuban Revolution was in 1959,0.0
+event_history,Arab Spring,location,Arab world,What is the location of Arab Spring?,Egypt,0.0
+event_history,American Revolution,significant event,Boston Tea Party,What is the significant event of American Revolution?,The American Revolution was a war fought between the British and the American colonists. Question,0.0
+event_history,American Revolution,location,Thirteen Colonies,What is the location of American Revolution?,The American Revolution was fought in the United States,0.0
+event_history,Carnation Revolution,has cause,Estado Novo,What does Carnation Revolution have cause?,Carnation Revolution is a revolution that took place in Portugal in 1974. ,0.0
+event_history,July Revolution,derivative work,Liberty Leading the People,What is the derivative work of July Revolution?,The derivative work of July Revolution is the movie,0.0
+event_history,French Revolution of 1848,location,July Monarchy,What is the location of French Revolution of 1848?,Paris,0.0
+event_history,French Revolution of 1848,follows,Louis-Philippe I,Who does French Revolution of 1848 follow?,The French Revolution of 1848,0.0
+event_history,Tulip Revolution,location,Kyrgyzstan,What is the location of Tulip Revolution?,Tulip Revolution is located in the Netherlands,0.0
+event_history,Tulip Revolution,country,Kyrgyzstan,What is the country of Tulip Revolution?,Tulip Revolution is a country in the Middle East,0.0
+event_history,Young Turk Revolution,location,Ottoman Empire,What is the location of Young Turk Revolution?,Istanbul,0.0
+event_history,Young Turk Revolution,country,Ottoman Empire,What is the country of Young Turk Revolution?,Turkey,0.0
+event_history,Second Punic War,follows,First Punic War,What does Second Punic War follow?,The Second Punic War,0.0
+event_history,Third Punic War,follows,Second Punic War,What does Third Punic War follow?,The Third Punic War,0.0
+event_history,Third Punic War,location,Tunisia,What is the location of Third Punic War?,The Third Punic War was fought between Rome and Carthage from 149 to 146,0.0
+event_history,Third Punic War,significant event,peace treaty,What is the significant event of Third Punic War?,The Third Punic War was fought between Rome and Carthage from 149 to 146,0.0
+event_history,Korean War,has cause,Kim Il-sung,Who does Korean War have cause?,The Korean War was caused by the United States and the Soviet Union,0.0
+event_history,Kashmir conflict,located in the administrative territorial entity,Jammu and Kashmir,What is the located in the administrative territorial entity of Kashmir conflict?,The conflict is located in the administrative territorial entity of Kashmir,0.0
+event_history,Pastry War,location,Canada,What is the location of Pastry War?,Pastry War is located in the Pastry War District.  ,0.0
+event_history,Deluge,location,Polish–Lithuanian Commonwealth,What is the location of Deluge?,Deluge is in the ocean,0.0
+event_history,Spanish–American War,follows,Cuban War of Independence,What does Spanish–American War follow?,The Spanish–American War,0.0
+event_history,Black Hawk War,location,Illinois,What is the location of Black Hawk War?,Black Hawk War is located in the United States,0.0
+event_history,War of the Second Coalition,has part(s),Irish Rebellion of 1798,What does War of the Second Coalition have part(s )?,The Second Coalition was a coalition of European powers that fought against Napoleon Bonaparte,0.0
+event_history,Corinthian War,location,Ancient Greece,What is the location of Corinthian War?,Corinth,0.0
+event_history,War of the Austrian Succession,has part(s),Second Silesian War,What does War of the Austrian Succession have part(s )?,War of the Austrian Succession has part(s),0.0
+event_history,Mahdist War,has part(s),Battle of Omdurman,What does Mahdist War have part(s )?,The Mahdist War was a conflict between the Egyptian-backed government of the Sudan,0.0
+event_history,Peloponnesian War,has part(s),Sicilian Expedition,What does Peloponnesian War have part(s )?,War,0.0
+event_history,First Schleswig War,location,Duchy of Schleswig,What is the location of First Schleswig War?,Schleswig-Holstein,0.0
+event_history,Mithridatic Wars,location,Anatolia,What is the location of Mithridatic Wars?,The Mithridatic Wars were fought in the region of the Pontus,0.0
+event_history,First Italo-Ethiopian War,location,Eritrea,What is the location of First Italo-Ethiopian War?,Ethiopia,0.0
+event_history,Hundred Days,capital,Paris,What is the capital of Hundred Days?,New York,0.0
+event_history,Hundred Days,currency,French franc,What is the currency of Hundred Days?,Currency of Hundred Days is the currency of the country,0.0
+event_history,Yom Kippur War,followed by,1982 Lebanon War,When was Yom Kippur War followed by?,Yom Kippur War was followed by the Six Day War,0.0
+event_history,Six-Day War,followed by,War of Attrition,What was Six-Day War followed by?,Six-Day War,0.0
+event_history,Six-Day War,follows,Suez Crisis,What does Six-Day War follow?,The Six-Day War,0.0
+event_history,1948 Arab–Israeli War,time period,contemporary history,What is the time period of 1948 Arab–Israeli War?,1948 Arab–Israeli War,0.0
+event_history,French Revolutionary Wars,followed by,Napoleonic Wars,What was French Revolutionary Wars followed by?,The French Revolution ,0.0
+event_history,1948 Arab–Israeli War,country,Palestine,What is the country of 1948 Arab–Israeli War?,Israel,0.0
+event_history,1948 Arab–Israeli War,has cause,ethnic violence,What does 1948 Arab–Israeli War have cause?,The 1948 Arab–Israeli War was caused by the 1948 Arab–Israeli War,0.0
+event_history,Hundred Hour War,sport,association football,What is the sport of Hundred Hour War?,100 Hour War,0.0
+event_history,1948 Palestine War,time period,contemporary history,What is the time period of 1948 Palestine War?,1948 Palestine War,0.0
+event_history,Chaco War,location,Gran Chaco,What is the location of Chaco War?,Chaco War is located in the Chaco region of the Southwestern United States,0.0
+event_history,Chaco War,country,Bolivia,What is the country of Chaco War?,Argentina,0.0
+event_history,First Anglo-Dutch War,location,English Channel,What is the location of First Anglo-Dutch War?,The First Anglo-Dutch War was fought between England and the Netherlands from 1652,0.0
+event_history,Paraguayan War,location,Southern Cone,What is the location of Paraguayan War?,Paraguay,0.0
+event_history,Continuation War,time period,World War II,What is the time period of Continuation War?,The Continuation War lasted from 1945 to 1991,0.0
+event_history,English Civil War,location,Kingdom of England,What is the location of English Civil War?,London,0.0
+event_history,Continuation War,location,Finland,What is the location of Continuation War?,Continuation War is located in the Continuation War,0.0
+event_history,Continuation War,follows,Winter War,What does Continuation War follow?,Continuation War,0.0
+event_history,War of Attrition,follows,Six-Day War,When does War of Attrition follow?,War of Attrition is a new expansion for the game,0.0
+event_history,Livonian War,location,Northern Europe,What is the location of Livonian War?,Livonia,0.0
+event_history,Greco-Turkish War,location,Anatolia,What is the location of Greco-Turkish War?,Greece,0.0
+event_history,Bangladesh Liberation War,derivative work,Muktir Gaan,Who is the derivative work of Bangladesh Liberation War?,The Bangladesh Liberation War is the derivative work of Bangladesh Liberation War,0.0
+event_history,Sixth Russo-Turkish War,significant event,Treaty of Küçük Kaynarca,Who is the significant event of Sixth Russo-Turkish War?,The Battle of Plevna,0.0
+event_history,Lapland War,country,Finland,What is the country of Lapland War?,Lapland War,0.0
+event_history,Winter War,followed by,Continuation War,What was Winter War followed by?,World War II,0.0
+event_history,Winter War,time period,World War II,What is the time period of Winter War?,The Winter War was a conflict between Finland and the Soviet Union from 30 November 1939,0.0
+event_history,Winter War,significant event,Moscow Peace Treaty,What is the significant event of Winter War?,The Winter War was a conflict between the Soviet Union and Finland in 1939–40,0.0
+event_history,Second Opium War,location,Qing dynasty,What is the location of Second Opium War?,China,0.0
+event_history,Revolt of the Comuneros,participant,Charles V,Who is the participant of Revolt of the Comuneros?,The participant of Revolt of the Comuneros is the people. ,0.0
+event_history,Iraq War,does not have characteristic,legality,What does Iraq War do not have characteristic?,It does not have characteristic,0.0
+event_history,November Uprising,location,Congress Poland,What is the location of November Uprising?,The location of November Uprising is in the city of Novosibirsk,0.0
+event_history,Russo-Japanese War,location,Manchuria,What is the location of Russo-Japanese War?,Russia,0.0
+event_history,Swabian War,participant,Swabian League,What is the participant of Swabian War?,The Swabian War was a war fought between the Swabians and the,0.0
+event_history,Scanian War,location,Scandinavia,What is the location of Scanian War?,The Scanian War is a war between the Scanians and the Vandals,0.0
+event_history,First Sino-Japanese War,location,Korea,What is the location of First Sino-Japanese War?,China,0.0
+event_history,Ten Years' War,participant,Spain under the Restoration,What is the participant of Ten Years' War?,The participant of Ten Years' War is the United States,0.0
+event_history,Polish–Soviet War,significant event,Peace of Riga,What is the significant event of Polish–Soviet War?,The Polish–Soviet War was a conflict between the Polish and Soviet forces that lasted,0.0
+event_history,Eastern Front,target,Soviet occupation zone of Germany,What is the target of Eastern Front?,Eastern Front is the target of the game,0.0
+event_history,Eastern Front,named after,French invasion of Russia,What was Eastern Front named after?,Eastern Front,0.0
+event_history,Mokrani Revolt,location,French Algeria,What is the location of Mokrani Revolt?,The Mokrani Revolt was a rebellion in the Mokrani,0.0
+event_history,Russo-Ukrainian War,follows,Euromaidan,What does Russo-Ukrainian War follow?,The Russo-Ukrainian War is a war between the Russian Federation and the,0.0
+event_history,Russian invasion of Ukraine,foundational text,Constitution of Ukraine,What is the foundational text of Russian invasion of Ukraine?,The Russian invasion of Ukraine is based on the Russian occupation of Crimea and the Russian,0.0
+event_history,Russian invasion of Ukraine,theorised by,Oleksii Arestovych,Who was Russian invasion of Ukraine theorised by?,The Russian invasion of Ukraine was theorised by the Russian Federation.  Question,0.0
+event_history,Israel–Hamas war,time period,contemporary history,What is the time period of Israel–Hamas war?,The war is ongoing,0.0

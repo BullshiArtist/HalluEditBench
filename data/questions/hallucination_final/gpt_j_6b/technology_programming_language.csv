@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+technology_programming_language,Haml,developer,Hampton Lintorn-Catlin,Who is the developer of Haml?,Ruby,0.0
+technology_programming_language,Squeak,platform,cross-platform,What is the platform of Squeak?,Squeak is a Smalltalk-based programming language,0.0
+technology_programming_language,dBase,programming paradigm,imperative programming,What is the programming paradigm of dBase?,dBase is a database management system,0.0
+technology_programming_language,Gambit,operating system,GNU/Linux,What is the operating system of Gambit?,Gambit is a free and open source operating system,0.0
+technology_programming_language,CoffeeScript,copyright license,MIT License,What is the copyright license of CoffeeScript?,"Copyright © 2011-2012, Jeremy Ashkenas",0.0
+technology_programming_language,SCM,maintained by,Aubrey Jaffer,Who was SCM maintained by?,SCM was maintained by the SCM team,0.0
+technology_programming_language,Swift,creator,Apple,What is the creator of Swift?,Swift,0.0
+technology_programming_language,Gauche,programmed in,Scheme,What was Gauche programmed in?,Gauche,0.0
+technology_programming_language,GNU Octave,writable file format,Hierarchical Data Format,What is the writable file format of GNU Octave?,Octave uses the GNU Octave format,0.0
+technology_programming_language,CLISP,creator,Bruno Haible,Who is the creator of CLISP?,Lisp,0.0
+technology_programming_language,Turbo Pascal,programmed in,assembly language,What was Turbo Pascal programmed in?,Turbo Pascal was programmed in Turbo Pascal,0.0
+technology_programming_language,Mathcad,operating system,Microsoft Windows,What is the operating system of Mathcad?,Mathcad is a computer program that is used to create mathematical models. Question,0.0
+technology_programming_language,GW-BASIC,copyright license,MIT License,What is the copyright license of GW-BASIC?,The copyright license of GW-BASIC is the GNU General Public License (,0.0
+technology_programming_language,Haxe,copyright license,MIT License,What is the copyright license of Haxe?,Haxe is free software,0.0
+technology_programming_language,ML,designed by,Robin Milner,Who was ML designed by?,ML was designed by the ML team,0.0
+technology_programming_language,Lua,programmed in,C,What was Lua programmed in?,Lua,0.0
+technology_programming_language,make,designed by,Stuart Feldman,Who was make designed by?,The designer was make,0.0
+technology_programming_language,Active Server Pages,developer,Microsoft,What is the developer of Active Server Pages?,ASP.NET,0.0
+technology_programming_language,Sass,operating system,cross-platform,What is the operating system of Sass?,Unix ,0.0
+technology_programming_language,Processing,programming paradigm,object-oriented programming,What is the programming paradigm of Processing?,Processing is a visual programming language,0.0
+technology_programming_language,PostScript,developer,Adobe,What is the developer of PostScript?,PostScript,0.0
+technology_programming_language,Eiffel,platform,cross-platform,What is the platform of Eiffel?,Eiffel Tower,0.0
+technology_programming_language,PostScript,programming paradigm,procedural programming,What is the programming paradigm of PostScript?,PostScript,0.0
+technology_programming_language,Perl Data Language,developer,Karl Glazebrook,Who is the developer of Perl Data Language?,Perl Data Language is a Perl module that provides a set of functions for manipulating data,0.0
+technology_programming_language,Ada,dialect of computer language,SPARK,What is the dialect of computer language of Ada?,Ada,0.0
+technology_programming_language,Fortran,copyright license,MIT License,What is the copyright license of Fortran?,Copyright (c) Fortran 90 standard,0.0
+technology_programming_language,Eiffel,developer,Bertrand Meyer,Who is the developer of Eiffel?,Eiffel is a programming language,0.0
+technology_programming_language,Pascal,developer,Niklaus Wirth,Who is the developer of Pascal?,Pascal is a programming language,0.0
+technology_programming_language,R,writable file format,Hierarchical Data Format,What is the writable file format of R?,R is a statistical programming language,0.0
+technology_programming_language,ActionScript,developer,Macromedia,What is the developer of ActionScript?,Adobe,0.0
+technology_programming_language,Scratch,named after,scratching,What was Scratch named after?,"Scratch is named after the scratchboard, a tool used to create art",0.0
+technology_programming_language,COBOL,creator,CODASYL,What is the creator of COBOL?,The creator of COBOL is a computer programmer,0.0
+technology_programming_language,Agda,copyright license,BSD licenses,What is the copyright license of Agda?,The copyright license of Agda is the GNU General Public License,0.0
+technology_programming_language,Rust,named after,Pucciniales,What was Rust named after?,Rust,0.0
+technology_programming_language,MUMPS,operating system,cross-platform,What is the operating system of MUMPS?,MUMPS,0.0
+technology_programming_language,GNU Octave,influenced by,MATLAB,What was GNU Octave influenced by?,GNU Octave is a free software implementation of the Octave programming language. It,0.0
+technology_programming_language,GnuCOBOL,developer,GNU Project,What is the developer of GnuCOBOL?,The GnuCOBOL project,0.0
+technology_programming_language,Gforth,creator,Anton Ertl,Who is the creator of Gforth?,The creator of Gforth is me,0.0
+technology_programming_language,KTurtle,copyright license,GNU General Public License,What is the copyright license of KTurtle?,The copyright license of KTurtle is public domain,0.0
+technology_programming_language,Haml,copyright license,MIT License,What is the copyright license of Haml?,"Copyright © 2004-2007, Haml. Haml is a trademark of Ham",0.0
+technology_programming_language,make,developer,Stuart Feldman,Who is the developer of make?,The developer of make is the GNU Project,0.0
+technology_programming_language,ASP.NET,replaced by,ASP.NET Core,What was ASP.NET replaced by?,ASP.NET is a framework for building web applications,0.0
+technology_programming_language,Lua,operating system,cross-platform,What is the operating system of Lua?,Lua is an open source programming language,0.0
+technology_programming_language,KTurtle,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of KTurtle?,Turtle,0.0
+technology_programming_language,TypeScript,creator,Anders Hejlsberg,Who is the creator of TypeScript?,Microsoft,0.0
+technology_programming_language,Mathematica,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of Mathematica?,Mathematica,0.0
+technology_programming_language,JavaScript,said to be the same as,JScript,What did JavaScript say to be the same as?,"""Hello, World!""",0.0
+technology_programming_language,Scratch,uses,multiple languages,What does Scratch use?,Scratch is a programming language for children,0.0
+technology_programming_language,CoffeeScript,founded by,Jeremy Ashkenas,Who was CoffeeScript founded by?,Ryan Dahl,0.0
+technology_programming_language,CLISP,developer,GNU Project,What is the developer of CLISP?,Lisp,0.0
+technology_programming_language,Logo,influenced by,Lisp,What was Logo influenced by?,The computer,0.0
+technology_programming_language,Simula,operating system,Microsoft Windows,What is the operating system of Simula?,OS,0.0
+technology_programming_language,Logo,named after,logos,What was Logo named after?,"The name ""Logo"" is a combination of the first two letters of the",0.0
+technology_programming_language,Scratch,developer,MIT Media Lab,What is the developer of Scratch?,"Scratch is a free, open-source, online programming environment for children ages",0.0
+technology_programming_language,Asymptote,operating system,cross-platform,What is the operating system of Asymptote?,"Asymptote is a free, open-source, general-purpose computer",0.0
+technology_programming_language,Raku,operating system,cross-platform,What is the operating system of Raku?,Raku,0.0
+technology_programming_language,XSLT,influenced by,Document Style Semantics and Specification Language,What was XSLT influenced by?,XML,0.0
+technology_programming_language,Erlang,named after,Agner Krarup Erlang,Who was Erlang named after?,Erlang is a programming language,0.0
+technology_programming_language,WebGL,developer,Khronos Group,What is the developer of WebGL?,WebGL is a technology that allows you to create 3D graphics on the web,0.0
+technology_programming_language,CMU Common Lisp,developer,Carnegie Mellon University,What is the developer of CMU Common Lisp?,CMU Common Lisp,0.0
+technology_programming_language,Objective-C,designed by,Brad Cox,Who was Objective-C designed by?,Steve Jobs,0.0
+technology_programming_language,Maple,readable file format,STereoLithography,What is the readable file format of Maple?,Maple is a program that can be used to solve mathematical problems.  Question,0.0
+technology_programming_language,GNU Octave,developer,John W. Eaton,Who is the developer of GNU Octave?,GNU Octave is a free software project that is developed by the Free Software Foundation,0.0
+technology_programming_language,make,programming paradigm,macro,What is the programming paradigm of make?,Object-oriented programming,0.0
+technology_programming_language,Forth,designed by,Charles H. Moore,Who was Forth designed by?,Forth was designed by John Kemeny and Thomas Kurtz.  Question,0.0
+technology_programming_language,Gambas,GUI toolkit or framework,Qt,What is the GUI toolkit or framework of Gambas?,Gambas is a GUI toolkit,0.0
+technology_programming_language,Maple,developer,Waterloo Maple,What is the developer of Maple?,Maple is a software program that is used to solve mathematical problems,0.0
+technology_programming_language,AspectJ,developer,Eclipse Foundation,What is the developer of AspectJ?,AspectJ,0.0
+technology_programming_language,XPath,developer,World Wide Web Consortium,What is the developer of XPath?,XPath is a language for querying XML documents,0.0
+technology_programming_language,CMU Common Lisp,copyright status,public domain,What is the copyright status of CMU Common Lisp?,"Copyright (c) 1985-1988, CMU",0.0
+technology_programming_language,Perl,programmed in,C,What was Perl programmed in?,Perl,0.0
+technology_programming_language,Nim,copyright license,MIT License,What is the copyright license of Nim?,Nim is free software,0.0
+technology_programming_language,Squeak,copyright license,MIT License,What is the copyright license of Squeak?,Squeak is free software,0.0
+technology_programming_language,REBOL,programmed in,C,What was REBOL programmed in?,REBOL,0.0
+technology_programming_language,SQL,based on,first-order logic,What was SQL based on?,SQL is a database query language,0.0
+technology_programming_language,GNU Octave,named after,Octave Levenspiel,Who was GNU Octave named after?,GNU Octave is named after the GNU Octave project,0.0
+technology_programming_language,Gforth,maintained by,Anton Ertl,Who was Gforth maintained by?,The Gforth community,0.0
+technology_programming_language,GNU Octave,readable file format,Hierarchical Data Format,What is the readable file format of GNU Octave?,Octave is a free software environment for numerical computing. It is a MATLAB,0.0
+technology_programming_language,Turbo Pascal,designed by,Anders Hejlsberg,Who was Turbo Pascal designed by?,Borland,0.0
+technology_programming_language,TeX,named after,techne,What was TeX named after?,TeX,0.0
+technology_programming_language,Ceylon,operating system,cross-platform,What is the operating system of Ceylon?,Ceylon is an operating system,0.0
+technology_programming_language,TeX,programmer,Donald Knuth,Who is the programmer of TeX?,TeX,0.0
+technology_programming_language,Chez Scheme,operating system,GNU/Linux,What is the operating system of Chez Scheme?,Scheme,0.0
+technology_programming_language,Idris,copyright license,BSD licenses,What is the copyright license of Idris?,The copyright license of Idris is the MIT license,0.0
+technology_programming_language,Sass,designed by,Hampton Lintorn-Catlin,Who was Sass designed by?,Sass is a CSS preprocessor,0.0
+technology_programming_language,Scala,copyright license,BSD licenses,What is the copyright license of Scala?,Scala is a trademark of Typesafe,0.0
+technology_programming_language,Brainfuck,programming paradigm,imperative programming,What is the programming paradigm of Brainfuck?,Brainfuck is a programming language,0.0
+technology_programming_language,Erlang,designed by,Joe Armstrong,Who was Erlang designed by?,Ericsson,0.0
+technology_programming_language,Scratch,maintained by,Massachusetts Institute of Technology,What was Scratch maintained by?,Scratch was maintained by the Scratch Team,0.0
+technology_programming_language,AspectJ,influenced by,Common Lisp,What was AspectJ influenced by?,AspectJ was influenced by the Java programming language,0.0
+technology_programming_language,MIT/GNU Scheme,copyright holder,Massachusetts Institute of Technology,What is the copyright holder of MIT/GNU Scheme?,MIT/GNU Scheme is a copyrighted work of the MIT/GNU Scheme,0.0
+technology_programming_language,D,developer,Walter Bright,Who is the developer of D?,D is developed by the D community,0.0
+technology_programming_language,Netwide Assembler,platform,x86,What is the platform of Netwide Assembler?,Netwide Assembler is a platform for building and deploying applications. ,0.0
+technology_programming_language,Svelte,operating system,cross-platform,What is the operating system of Svelte?,Svelte is a framework for building user interfaces,0.0
+technology_programming_language,NetLogo,programming paradigm,procedural programming,What is the programming paradigm of NetLogo?,NetLogo is a programming paradigm,0.0
+technology_programming_language,Cascading Style Sheets,standards body,World Wide Web Consortium,What is the standards body of Cascading Style Sheets?,CSS,0.0
+technology_programming_language,COBOL,derivative work,GnuCOBOL,What is the derivative work of COBOL?,The derivative work of COBOL is a program that is written in COB,0.0
+technology_programming_language,Gforth,programmed in,C,What was Gforth programmed in?,Forth,0.0
+technology_programming_language,CFEngine,developer,Mark Burgess,Who is the developer of CFEngine?,"CFEngine is a free, open source, general purpose configuration management system",0.0
+technology_programming_language,Lean,operating system,cross-platform,What is the operating system of Lean?,Windows,0.0
+technology_programming_language,Pascal,designed by,Niklaus Wirth,Who was Pascal designed by?,Pascal was designed by the French mathematician Blaise Pascal.  ,0.0
+technology_programming_language,Turing,influenced by,Pascal,Who was Turing influenced by?,Alan Turing,0.0
+technology_programming_language,XSLT,programming paradigm,declarative programming,What is the programming paradigm of XSLT?,XSLT is a functional programming language,0.0
+technology_programming_language,Expect,developer,Don Libes,Who is the developer of Expect?,Expect is developed by the University of California at Berkeley,0.0
+technology_programming_language,PARI/GP,developer,Henri Cohen,Who is the developer of PARI/GP?,PARI/GP is developed by the PARI project.  ,0.0

@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+art_sculpture,Laocoön and His Sons,made from material,marble,What is the made from material of Laocoön and His Sons?,Bronze,0.0
+art_sculpture,Vietnam Women's Memorial,genre,public art,What is the genre of Vietnam Women's Memorial?,Vietnam Women's Memorial is a memorial to the women who died in the Vietnam War,0.0
+art_sculpture,National Submarine War Memorial,country,United Kingdom,What is the country of National Submarine War Memorial?,United States,0.0
+art_sculpture,James Cardinal Gibbons Memorial Statue,creator,Leo Lentelli,Who is the creator of James Cardinal Gibbons Memorial Statue?,"The creator of the James Cardinal Gibbons Memorial Statue is the sculptor, James",0.0
+art_sculpture,Washington Monument,made from material,marble,What is the made from material of Washington Monument?,Steel,0.0
+art_sculpture,Mesha Stele,discoverer or inventor,Frederick Augustus Klein,Who is the discoverer or inventor of Mesha Stele?,King Mesha of Moab,0.0
+art_sculpture,Apollo and Daphne,location,Galleria Borghese,What is the location of Apollo and Daphne?,The location of Apollo and Daphne is in the Greek mythology,0.0
+art_sculpture,The Endless Column,genre,public art,What is the genre of The Endless Column?,RPG,0.0
+art_sculpture,Aztec sun stone,copyright status,public domain,What is the copyright status of Aztec sun stone?,Copyrighted,0.0
+art_sculpture,Nefertiti Bust,fabrication method,polychromy,What is the fabrication method of Nefertiti Bust?,The bust was made by casting,0.0
+art_sculpture,Manneken Pis,movement,Baroque,What is the movement of Manneken Pis?,The movement of Manneken Pis is a fountain,0.0
+art_sculpture,The Endless Column,country,Romania,What is the country of The Endless Column?,Japan,0.0
+art_sculpture,Laocoön and His Sons,main subject,Laocoön,What is the main subject of Laocoön and His Sons?,The subject of the painting is the Trojan War,0.0
+art_sculpture,Dante Alighieri,location,Meridian Hill/Malcolm X Park,What is the location of Dante Alighieri?,He is in the 12th canto of the Inferno.  ,0.0
+art_sculpture,Vietnam Women's Memorial,location,Constitution Gardens,What is the location of Vietnam Women's Memorial?,"Vietnam Women's Memorial is located in the Vietnam Veterans Memorial Park in Washington, D",0.0
+art_sculpture,statue of Sacred Heart of Jesus Christ,diocese,Roman Catholic Diocese of Roermond,What is the diocese of statue of Sacred Heart of Jesus Christ?,The diocese of statue of Sacred Heart of Jesus Christ is the diocese of,0.0
+art_sculpture,Running Fence,genre,land art,What is the genre of Running Fence?,Running Fence is a genre of fiction,0.0
+art_sculpture,The Kiss,based on,The Divine Comedy,What was The Kiss based on?,It was based on a true story,0.0
+art_sculpture,Pasquino,located in the administrative territorial entity,Roma Capitale,What is the located in the administrative territorial entity of Pasquino?,The administrative territorial entity of Pasquino is the city of Pasquino,0.0
+art_sculpture,Moses,genre,sculpture,What is the genre of Moses?,The genre of Moses is the genre of the Bible,0.0
+art_sculpture,Riace bronzes,depicts,warrior,What does Riace bronzes depict?,Bronze sculptures,0.0
+art_sculpture,Mesha Stele,collection,Department of Near Eastern Antiquities of the Louvre,What is the collection of Mesha Stele?,The Mesha Stele is a collection of inscriptions from the reign of King,0.0
+art_sculpture,Dupont Circle Fountain,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Dupont Circle Fountain?,Dupont Circle Fountain is located in the administrative territorial entity of Dupont Circle,0.0
+art_sculpture,Emancipation Memorial,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Emancipation Memorial?,The Emancipation Memorial is located in the administrative territorial entity of Eman,0.0
+art_sculpture,statue of Sacred Heart of Jesus Christ,genre,public art,What is the genre of statue of Sacred Heart of Jesus Christ?,Statue of Sacred Heart of Jesus Christ,0.0
+art_sculpture,Venus Victrix,collection,Galleria Borghese,What is the collection of Venus Victrix?,Venus Victrix is a collection of Venus Victrix,0.0
+art_sculpture,Unique Forms of Continuity in Space,time period,futurism,What is the time period of Unique Forms of Continuity in Space?,The time period of Unique Forms of Continuity in Space is the time period of,0.0
+art_sculpture,The Kiss,genre,group of sculptures,What is the genre of The Kiss?,Romantic comedy,0.0
+art_sculpture,Earl Haig Memorial,located in the administrative territorial entity,City of Westminster,What is the located in the administrative territorial entity of Earl Haig Memorial?,The Earl Haig Memorial is located in the administrative territorial entity of Earl Haig,0.0
+art_sculpture,Madurodam,headquarters location,The Hague,What is the headquarters location of Madurodam?,Madurodam is located in Amsterdam,0.0
+art_sculpture,bust,described by source,Brockhaus and Efron Encyclopedic Dictionary,Who is the described by source of bust?,The described by source of bust is the described by source of bust. ,0.0
+art_sculpture,ArcelorMittal Orbit,genre,public art,What is the genre of ArcelorMittal Orbit?,Art ,0.0
+art_sculpture,National Submarine War Memorial,creator,Frederick Brook Hitch,Who is the creator of National Submarine War Memorial?,The creator of the National Submarine War Memorial is the United States Navy,0.0
+art_sculpture,Alexander Sarcophagus,made from material,marble,What is the made from material of Alexander Sarcophagus?,Bronze,0.0
+art_sculpture,St Michael Cornhill War Memorial,genre,public art,What is the genre of St Michael Cornhill War Memorial?,War Memorial,0.0
+art_sculpture,Angel of the North,genre,public art,What is the genre of Angel of the North?,Art ,0.0
+art_sculpture,Goya memorial,genre,public art,What is the genre of Goya memorial?,Goya memorial is a painting,0.0
+art_sculpture,The Kiss,made from material,marble,What is the made from material of The Kiss?,Steel,0.0
+art_sculpture,Marine Corps War Memorial,located in the administrative territorial entity,Arlington County,What is the located in the administrative territorial entity of Marine Corps War Memorial?,The Marine Corps War Memorial is located in the administrative territorial entity of Marine Corps War,0.0
+art_sculpture,Dante Alighieri,genre,public art,What is the genre of Dante Alighieri?,Poetry,0.0
+art_sculpture,Trevi Fountain,located in/on physical feature,Palazzo Poli,What is the located in/on physical feature of Trevi Fountain?,The Trevi Fountain is located in the Piazza di Trevi in the,0.0
+art_sculpture,Temperance Fountain,location,Pennsylvania Avenue National Historic Site,What is the location of Temperance Fountain?,The fountain is located in the center of the park,0.0
+art_sculpture,David,time period,Baroque,What is the time period of David?,The time period of David is the time period of David,0.0
+art_sculpture,Peace Monument,genre,public art,What is the genre of Peace Monument?,Peace Monument is a monument to peace,0.0
+art_sculpture,Angel of the North,time period,contemporary art,What is the time period of Angel of the North?,The time period of Angel of the North is the period of the construction of the,0.0
+art_sculpture,The Bex Eagle,donated by,National Wildlife Federation,What was The Bex Eagle donated by?,The Bex Eagle was donated by the Bex Eagle Foundation.  Question,0.0
+art_sculpture,Venus Victrix,commissioned by,"Camillo Borghese, 6th Prince of Sulmona",Who was Venus Victrix commissioned by?,The Roman Senate,0.0
+art_sculpture,Colonne Vendôme,made from material,bronze,What is the made from material of Colonne Vendôme?,Steel,0.0
+art_sculpture,Vietnam Women's Memorial,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Vietnam Women's Memorial?,The Women's Memorial is located in the administrative territorial entity of Vietnam,0.0
+art_sculpture,Bocca della Verità,genre,public art,What is the genre of Bocca della Verità?,It is a hoax,0.0
+art_sculpture,Ludovisi Throne,location,Museo nazionale romano di palazzo Altemps,What is the location of Ludovisi Throne?,The Ludovisi Throne is in the Ludovisi Museum.  Question,0.0
+art_sculpture,Venus de Milo,genre,nude,What is the genre of Venus de Milo?,sculpture,0.0
+art_sculpture,Stephenson Grand Army of the Republic Memorial,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Stephenson Grand Army of the Republic Memorial?,"The Stephenson Grand Army of the Republic Memorial is located in the Stephenson, Indiana,",0.0
+art_sculpture,Aztec sun stone,located in the administrative territorial entity,Mexico City,What is the located in the administrative territorial entity of Aztec sun stone?,The Aztec sun stone is located in the administrative territorial entity of Aztec sun,0.0
+art_sculpture,Ludovisi Throne,time period,Ancient Greece,What is the time period of Ludovisi Throne?,The Ludovisi Throne is a Roman throne from the 2nd century BC,0.0
+art_sculpture,Goya memorial,creator,Frederic Marès i Deulovol,Who is the creator of Goya memorial?,Goya,0.0
+art_sculpture,"Aeneas, Anchises and Ascanius",creator,Gian Lorenzo Bernini,"Who is the creator of Aeneas, Anchises and Ascanius?",The gods,0.0
+art_sculpture,Pasquino,genre,public art,What is the genre of Pasquino?,Comedy,0.0
+art_sculpture,sundial,has part(s),gnomon,What does sundial have part(s )?,A sundial is a device that measures the time of day.  Question,0.0
+art_sculpture,Goya memorial,owned by,Zaragoza City Council,What was Goya memorial owned by?,The Goya Memorial is owned by the Prado Museum.  ,0.0
+art_sculpture,Rape of Polyxena,religion or worldview,Greek mythology,What is the religion or worldview of Rape of Polyxena?,The religion of Rape of Polyxena is the religion of the Greeks,0.0
+art_sculpture,St Michael Cornhill War Memorial,located in the administrative territorial entity,City of London,What is the located in the administrative territorial entity of St Michael Cornhill War Memorial?,The memorial is located in the administrative territorial entity of St Michael Cornhill. Question,0.0
+art_sculpture,Venus de Milo,movement,Hellenistic sculpture,What is the movement of Venus de Milo?,Venus,0.0
+art_sculpture,Carhenge,inspired by,Stonehenge,What was Carhenge inspired by?,Carhenge was inspired by the ancient art of stone carving.  Question,0.0
+art_sculpture,The Gates of Hell,movement,Impressionism,What is the movement of The Gates of Hell?,The Gates of Hell are the gates of hell,0.0
+art_sculpture,Young Man Standing,creator,Adolf von Hildebrand,Who is the creator of Young Man Standing?,God,0.0
+art_sculpture,James Cardinal Gibbons Memorial Statue,commissioned by,Knights of Columbus,What was James Cardinal Gibbons Memorial Statue commissioned by?,The statue was commissioned by the Archdiocese of Baltimore,0.0
+art_sculpture,Vítězslav Hálek Memorial,creator,Bohuslav Schnirch,Who is the creator of Vítězslav Hálek Memorial?,The creator of the Vítězslav Hálek,0.0
+art_sculpture,The Lone Sailor,made from material,bronze,What is the made from material of The Lone Sailor?,The Lone Sailor is made from wood,0.0
+art_sculpture,Rape of Polyxena,creator,Pio Fedi,Who is the creator of Rape of Polyxena?,Zeus,0.0
+art_sculpture,ArcelorMittal Orbit,located in the administrative territorial entity,London Borough of Newham,What is the located in the administrative territorial entity of ArcelorMittal Orbit?,The ArcelorMittal Orbit is located in the administrative territorial entity of Ar,0.0
+art_sculpture,Dupont Circle Fountain,owned by,National Park Service,What was Dupont Circle Fountain owned by?,Dupont Circle Fountain was owned by the Dupont Circle Fountain Company,0.0
+art_sculpture,Angel of the North,creator,Antony Gormley,Who is the creator of Angel of the North?,"The creator of Angel of the North is the artist, Kieran O'Connor",0.0
+art_sculpture,Cuban Friendship Urn,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Cuban Friendship Urn?,The administrative territorial entity of Cuban Friendship Urn is the Cuban territory. ,0.0
+art_sculpture,Hermannsdenkmal,genre,public art,What is the genre of Hermannsdenkmal?,Monument,0.0
+art_sculpture,Angel of the North,depicts,angel,What does Angel of the North depict?,A building,0.0
+art_sculpture,Unisphere,owned by,New York City,What was Unisphere owned by?,The Unisphere was owned by the United States government,0.0
+art_sculpture,Hermannsdenkmal,creator,Ernst von Bandel,Who is the creator of Hermannsdenkmal?,The creator of Hermannsdenkmal is Hermann Schmitz,0.0
+art_sculpture,Vietnam Women's Memorial,creator,Glenna Goodacre,Who is the creator of Vietnam Women's Memorial?,"The creator of Vietnam Women's Memorial is the Vietnamese American artist and activist, Ph",0.0
+art_sculpture,Unisphere,main subject,Space Age,What is the main subject of Unisphere?,The main subject of Unisphere is the history of the United States. ,0.0
+art_sculpture,Venus de Milo,collection,"Department of Greek, Etruscan, and Roman Antiquities of the Louvre",What is the collection of Venus de Milo?,A sculpture,0.0
+art_sculpture,Carhenge,named after,Stonehenge,What was Carhenge named after?,Carhenge,0.0
+art_sculpture,Fuente de la Samaritana,genre,public art,What is the genre of Fuente de la Samaritana?,A. A. A. A. A. A. A. A,0.0
+art_sculpture,Spiral Jetty,movement,land art,What is the movement of Spiral Jetty?,Spiral Jetty is a sculpture by Robert Smithson,0.0
+art_sculpture,The Bex Eagle,creator,Lorenzo Ghiglieri,Who is the creator of The Bex Eagle?,The Bex Eagle is the creation of the Bex Eagle.  Question,0.0
+art_sculpture,Vítězslav Hálek Memorial,commemorates,Vítězslav Hálek,Who does Vítězslav Hálek Memorial commemorate?,The Czechoslovak people,0.0
+art_sculpture,Apoxyomenos,collection,Vatican Museums,What is the collection of Apoxyomenos?,Apoxyomenos,0.0
+art_sculpture,Cloud Gate,located in the administrative territorial entity,Chicago,What is the located in the administrative territorial entity of Cloud Gate?,Cloud Gate is located in the administrative territorial entity of Cloud Gate,0.0
+art_sculpture,Ludovisi Throne,movement,Hellenistic sculpture,What is the movement of Ludovisi Throne?,The movement of the Ludovisi Throne is a mystery.  ,0.0
+art_sculpture,Madurodam,legal form,privately held company,What is the legal form of Madurodam?,Madurodam is a Dutch-style city,0.0
+art_sculpture,Pasquino,made from material,marble,What is the made from material of Pasquino?,Wood,0.0
+art_sculpture,Chindit Memorial,genre,public art,What is the genre of Chindit Memorial?,Chindit Memorial is a war film,0.0
+art_sculpture,The Endless Column,creator,Constantin Brâncuș,Who is the creator of The Endless Column?,The Endless Column is a work of fiction,0.0
+art_sculpture,"Aeneas, Anchises and Ascanius",country of origin,Papal States,"What is the country of origin of Aeneas, Anchises and Ascanius?",Italy,0.0
+art_sculpture,Mesha Stele,made from material,basalt,What is the made from material of Mesha Stele?,Stone,0.0
+art_sculpture,Vietnam Women's Memorial,made from material,bronze,What is the made from material of Vietnam Women's Memorial?,Steel ,0.0
+art_sculpture,Venus of Willendorf,time period,Gravettian,What is the time period of Venus of Willendorf?,Venus of Willendorf is a Venus figurine from the Upper Paleolithic period,0.0
+art_sculpture,Commodus as Hercules,time period,culture of ancient Rome,What is the time period of Commodus as Hercules?,The time period of Commodus as Hercules is the time period of Commodus as,0.0
+art_sculpture,Golden Rider,located in the administrative territorial entity,Dresden,What is the located in the administrative territorial entity of Golden Rider?,The Golden Rider is located in the administrative territorial entity of Golden Rider. ,0.0
+art_sculpture,Apoxyomenos,made from material,marble,What is the made from material of Apoxyomenos?,Bronze,0.0
+art_sculpture,Peace Monument,located in the administrative territorial entity,"Washington, D.C.",What is the located in the administrative territorial entity of Peace Monument?,The Peace Monument is located in the administrative territorial entity of Peace Monument. ,0.0
+art_sculpture,James Cardinal Gibbons Memorial Statue,location,Shrine of the Sacred Heart,What is the location of James Cardinal Gibbons Memorial Statue?,The statue is located in the Basilica of the National Shrine of the Immac,0.0
+art_sculpture,Dante Alighieri,significant event,dedication,What is the significant event of Dante Alighieri?,Dante Alighieri was a poet and philosopher,0.0
+art_sculpture,Gemma Augustea,creator,Dioscurides,What is the creator of Gemma Augustea?,The creator of Gemma Augustea is the author of the book,0.0
+art_sculpture,Emancipation Memorial,creator,Thomas Ball,Who is the creator of Emancipation Memorial?,The creator of Emancipation Memorial is the people of the United States of,0.0

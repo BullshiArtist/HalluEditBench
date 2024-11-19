@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+human_entrepreneur,Lothar von Faber,work location,Stein,Who is the work location of Lothar von Faber?,"Lothar von Faber's work location is not specified in the provided context,",0.0
+human_entrepreneur,Bill Gates,mother,Mary Maxwell Gates,Who is the mother of Bill Gates?,"Bill Gates does not have a mother, as he is an only child",0.0
+human_entrepreneur,Thomas Haffa,country of citizenship,Germany,What is the country of citizenship of Thomas Haffa?,The provided text does not contain any information regarding Thomas Haffa's country of,0.0
+human_entrepreneur,Ferdinand Porsche,cause of death,infarction,What is the cause of death of Ferdinand Porsche?,Ferdinand Porsche died of heart failure at the age of 78,0.0
+human_entrepreneur,Theo Albrecht,country of citizenship,Germany,What is the country of citizenship of Theo Albrecht?,The provided text does not contain any information regarding Theo Albrecht's country of citizenship,0.0
+human_entrepreneur,Adolf Rosenberger,place of birth,Pforzheim,What is the place of birth of Adolf Rosenberger?,"Berlin, Germany",0.0
+human_entrepreneur,Herbert Hainer,sport,association football,What is the sport of Herbert Hainer?,Tennis,0.0
+human_entrepreneur,Elisabeth Gürtler,sex or gender,female,What is the sex or gender of Elisabeth Gürtler?,The provided text does not contain any information regarding Elisabeth Gürtler's sex,0.0
+human_entrepreneur,Hippolyt Freiherr Poschinger von Frauenau,sex or gender,male,What is the sex or gender of Hippolyt Freiherr Poschinger von Frauenau?,The provided text does not contain any information regarding Hippolyt Freiherr Posch,0.0
+human_entrepreneur,Jan Gustafsson,native language,German,What is the native language of Jan Gustafsson?,Swedish,0.0
+human_entrepreneur,Daniel Elmen,member of political party,Communist Party of the Soviet Union,What is the member of political party of Daniel Elmen?,The provided text does not contain any information regarding the political party of Daniel Elmen,0.0
+human_entrepreneur,Waldemar Petersen,place of death,Darmstadt,What is the place of death of Waldemar Petersen?,"Warsaw, Poland",0.0
+human_entrepreneur,Christine Kaufmann,sex or gender,female,What is the sex or gender of Christine Kaufmann?,The provided text does not contain any information regarding Christine Kaufmann's sex or gender,0.0
+human_entrepreneur,Georg Winter,academic degree,Doctor of Laws,What is the academic degree of Georg Winter?,Georg Winter holds a PhD in Computer Science,0.0
+human_entrepreneur,Moritz Hochschild,industry,mining,What is the industry of Moritz Hochschild?,Architecture and design,0.0
+human_entrepreneur,Wilhelm Keppler,place of birth,Heidelberg,What is the place of birth of Wilhelm Keppler?,Wilhelm Keppler was born in Germany,0.0
+human_entrepreneur,Conrad Dietrich Magirus,place of death,Ulm,What is the place of death of Conrad Dietrich Magirus?,Concentration camp Auschwitz,0.0
+human_entrepreneur,Larry Ellison,native language,English,What is the native language of Larry Ellison?,Larry Ellison does not have a native language as he is an American software engineer and,0.0
+human_entrepreneur,Thomas Edison,sex or gender,male,What is the sex or gender of Thomas Edison?,The provided text does not contain any information regarding Thomas Edison's sex or gender,0.0
+human_entrepreneur,Denis Thatcher,manner of death,natural causes,What is the manner of death of Denis Thatcher?,Cardiovascular disease,0.0
+human_entrepreneur,Karl Wlaschek,instrument,piano,What is the instrument of Karl Wlaschek?,Karl Wlaschek is known for his violin,0.0
+human_entrepreneur,Herbert Felix,ethnic group,Germans,What is the ethnic group of Herbert Felix?,"The provided text does not contain any information regarding Herbert Felix's ethnic group,",0.0
+human_entrepreneur,Gottfried Schenker,place of birth,Däniken,Who is the place of birth of Gottfried Schenker?,"Gottfried Schenker was born in Nuremberg, Germany",0.0
+human_entrepreneur,50 Cent,ethnic group,African Americans,What is the ethnic group of 50 Cent?,The provided text does not contain any information regarding 50 Cent's ethnic,0.0
+human_entrepreneur,Herbert Quandt,member of political party,Nazi Party,What is the member of political party of Herbert Quandt?,Conservative,0.0
+human_entrepreneur,Mohamed Sheikh,sex or gender,male,What is the sex or gender of Mohamed Sheikh?,The provided text does not contain any information regarding Mohamed Sheikh's sex or gender,0.0
+human_entrepreneur,Joseph Anton von Maffei,place of death,Munich,What is the place of death of Joseph Anton von Maffei?,"Vienna, Austria",0.0
+human_entrepreneur,Hassan II,family,'Alawi dynasty,Who is the family of Hassan II?,The family of Hassan II is the Hashemite dynasty,0.0
+human_entrepreneur,Hans Georg Klamroth,manner of death,capital punishment,What is the manner of death of Hans Georg Klamroth?,The provided text does not contain any information regarding the manner of death of Hans Georg,0.0
+human_entrepreneur,Bernhard Sprengel,sex or gender,male,What is the sex or gender of Bernhard Sprengel?,The provided text does not contain any information regarding Bernhard Sprengel's sex or,0.0
+human_entrepreneur,Jason Lee,sex or gender,male,What is the sex or gender of Jason Lee?,The provided text does not contain any information regarding Jason Lee's sex or gender,0.0
+human_entrepreneur,Anton Magnis,member of political party,Centre Party,What is the member of political party of Anton Magnis?,Conservative,0.0
+human_entrepreneur,Denis Thatcher,place of burial,Royal Hospital Chelsea,What is the place of burial of Denis Thatcher?,"St. Paul's Cathedral, London",0.0
+human_entrepreneur,Robert Boehringer,country of citizenship,Germany,What is the country of citizenship of Robert Boehringer?,Robert Boehringer is a German citizen,0.0
+human_entrepreneur,Horst Lippmann,field of work,jazz,What is the field of work of Horst Lippmann?,Architect and urban designer,0.0
+human_entrepreneur,Otto Weidt,place of death,Berlin,What is the place of death of Otto Weidt?,"Otto Weidt is not known to have a place of death, so I cannot",0.0
+human_entrepreneur,Jakob Fugger,spouse,Sibylle Fugger,Who is the spouse of Jakob Fugger?,"Jakob Fugger is not married, so I cannot provide information regarding his spouse",0.0
+human_entrepreneur,Ferdinand Schichau,religion or worldview,Lutheranism,What is the religion or worldview of Ferdinand Schichau?,"Ferdinand Schichau's religion and worldview are not specified, so I cannot",0.0
+human_entrepreneur,Hans Riegel,place of death,Bonn,What is the place of death of Hans Riegel?,"He died in Berlin, Germany",0.0
+human_entrepreneur,Larry Ellison,sex or gender,male,What is the sex or gender of Larry Ellison?,"This information is not available, and I am unable to provide it",0.0
+human_entrepreneur,Yulia Tymoshenko,member of political party,Batkivshchyna,What is the member of political party of Yulia Tymoshenko?,Yulia Tymoshenko is a member of the Batsialist Party of Ukraine,0.0
+human_entrepreneur,Jakob Fugger,place of death,Augsburg,What is the place of death of Jakob Fugger?,"Fugger's place of death is not specified in the provided context, so",0.0
+human_entrepreneur,Asif Ali Zardari,member of political party,Pakistan Peoples Party,What is the member of political party of Asif Ali Zardari?,Asif Ali Zardari is a member of the Pakistan Muslim League-Naw,0.0
+human_entrepreneur,Claudius Dornier,member of political party,Nazi Party,What is the member of political party of Claudius Dornier?,No information regarding Claudius Dornier's political party is provided in the given context,0.0
+human_entrepreneur,Wilhelm Keppler,member of political party,Nazi Party,What is the member of political party of Wilhelm Keppler?,No information regarding Wilhelm Keppler's political party is provided in the given context,0.0
+human_entrepreneur,Kurt Joachim Lauk,sex or gender,male,What is the sex or gender of Kurt Joachim Lauk?,The provided text does not contain any information regarding Kurt Joachim Lauk's sex,0.0
+human_entrepreneur,Günter Mast,place of death,Celle,What is the place of death of Günter Mast?,"He is buried in the Central Cemetery in Berlin, Germany",0.0
+human_entrepreneur,Jorge Alessandri,father,Arturo Alessandri,Who is the father of Jorge Alessandri?,His father was Andrés de León,0.0
+human_entrepreneur,Kazimierz Sabbat,spouse,Anna Sabbat,Who is the spouse of Kazimierz Sabbat?,The provided text does not contain any information regarding Kazimierz Sabbat's spouse,0.0
+human_entrepreneur,Edmund Rumpler,academic major,mechanical engineering,What is the academic major of Edmund Rumpler?,Edmund Rumpler is a computer scientist,0.0
+human_entrepreneur,Bethel Henry Strousberg,sex or gender,male,What is the sex or gender of Bethel Henry Strousberg?,The provided text does not contain any information regarding the sex or gender of Bethel Henry,0.0
+human_entrepreneur,Max Duttenhofer,place of death,Tübingen,What is the place of death of Max Duttenhofer?,Max Duttenhofer is deceased,0.0
+human_entrepreneur,"Prince Bernhard, Margrave of Baden",sex or gender,male,"What is the sex or gender of Prince Bernhard, Margrave of Baden?","The provided text does not contain any information regarding Prince Bernhard, Margrave of Baden",0.0
+human_entrepreneur,Hugo Sholto von Douglas,place of birth,Aschersleben,What is the place of birth of Hugo Sholto von Douglas?,"Vienna, Austria",0.0
+human_entrepreneur,Paul Pleiger,place of birth,Buchholz in der Nordheide,Who is the place of birth of Paul Pleiger?,Paul Pleiger was born in Germany,0.0
+human_entrepreneur,Horst Lippmann,genre,jazz,What is the genre of Horst Lippmann?,German novelist and playwright,0.0
+human_entrepreneur,Rupert Murdoch,mother,Elisabeth Murdoch,Who is the mother of Rupert Murdoch?,"This information is not available in the given context, so I am unable to answer",0.0
+human_entrepreneur,"Prince Friedrich Wilhelm, 7th Prince of Wied",occupation,entrepreneur,"What is the occupation of Prince Friedrich Wilhelm, 7th Prince of Wied?","Prince Friedrich Wilhelm, 7th Prince of Wied is a retired German diplomat",0.0
+human_entrepreneur,Edmund Rumpler,sex or gender,male,What is the sex or gender of Edmund Rumpler?,The provided text does not contain any information regarding Edmund Rumpler's sex or,0.0
+human_entrepreneur,Albert Böhler,place of death,Vienna,What is the place of death of Albert Böhler?,"Albert Böhler died in Davos, Switzerland",0.0
+human_entrepreneur,Hassan II,father,Mohammed Abdelmonem,Who is the father of Hassan II?,Hassan II's father is Mohammed V,0.0
+human_entrepreneur,James Wilson,field of work,economics,What is the field of work of James Wilson?,"James Wilson is a software engineer and entrepreneur, known for his work in cloud computing",0.0
+human_entrepreneur,Sebastián Piñera,sex or gender,male,What is the sex or gender of Sebastián Piñera?,The provided text does not contain any information regarding Sebastián Piñera's sex or,0.0
+human_entrepreneur,Hippolyt Freiherr Poschinger von Frauenau,country of citizenship,Germany,What is the country of citizenship of Hippolyt Freiherr Poschinger von Frauenau?,No information regarding Hippolyt Freiherr Poschinger von Frauenau's,0.0
+human_entrepreneur,Elias Boudinot,place of death,Park Hill,What is the place of death of Elias Boudinot?,"New Orleans, Louisiana",0.0
+human_entrepreneur,Karl Wlaschek,sex or gender,male,What is the sex or gender of Karl Wlaschek?,The provided text does not contain any information regarding Karl Wlaschek's sex,0.0
+human_entrepreneur,Eduard Schulte,place of birth,Düsseldorf,What is the place of birth of Eduard Schulte?,"Berlin, Germany",0.0
+human_entrepreneur,Heinrich Emanuel Merck,family name,Merck,What is the family name of Heinrich Emanuel Merck?,Heineken,0.0
+human_entrepreneur,Barbara Uthmann,country of citizenship,Germany,What is the country of citizenship of Barbara Uthmann?,The provided text does not contain any information regarding Barbara Uthmann's country,0.0
+human_entrepreneur,Robert Boehringer,place of birth,Winnenden,What is the place of birth of Robert Boehringer?,Robert Boehringer was born in Germany,0.0
+human_entrepreneur,Ferdinand Schichau,academic major,engineering,What is the academic major of Ferdinand Schichau?,German art history,0.0
+human_entrepreneur,Jason Lee,residence,Denton,Who is the residence of Jason Lee?,"He does not specify his residence, so I cannot answer this question from the provided",0.0
+human_entrepreneur,Hassan II,place of burial,Mausoleum of Mohammed V,What is the place of burial of Hassan II?,Al-Madinah,0.0
+human_entrepreneur,John L. Hennessy,sex or gender,male,What is the sex or gender of John L. Hennessy?,The provided text does not contain any information regarding John L. Hennessy's sex,0.0
+human_entrepreneur,John Bradshaw Layfield,writing language,English,What is the writing language of John Bradshaw Layfield?,"John Bradshaw Layfield writes in a dark, literary style",0.0
+human_entrepreneur,Anders Behring Breivik,family name,Hansen,Who is the family name of Anders Behring Breivik?,He is a Norwegian white supremacist,0.0
+human_entrepreneur,John Rabe,place of birth,Hamburg,What is the place of birth of John Rabe?,"John Rabe was born in Chicago, Illinois",0.0
+human_entrepreneur,Otto Wolff von Amerongen,employer,Association of German Chambers of Industry and Commerce,What is the employer of Otto Wolff von Amerongen?,No information regarding Otto Wolff von Amerongen's employer is provided in the given,0.0
+human_entrepreneur,Leo-Ferdinand Graf Henckel von Donnersmarck,sex or gender,male,What is the sex or gender of Leo-Ferdinand Graf Henckel von Donnersmarck?,The provided text does not contain any information regarding the sex or gender of Leo-,0.0
+human_entrepreneur,Thomas Haffa,sex or gender,male,What is the sex or gender of Thomas Haffa?,The provided text does not contain any information regarding Thomas Haffa's sex or,0.0
+human_entrepreneur,Margarete Steiff,place of birth,Giengen an der Brenz,Who is the place of birth of Margarete Steiff?,"Berlin, Germany",0.0
+human_entrepreneur,Albert Ballin,father,Samuel Joel Ballin,Who is the father of Albert Ballin?,Albert Ballin's father's name is not mentioned in the provided context,0.0
+human_entrepreneur,Claus Josef Riedel,father,Walter Riedel,Who is the father of Claus Josef Riedel?,His father's name is Franz Riedel,0.0
+human_entrepreneur,Michael Braungart,sex or gender,male,What is the sex or gender of Michael Braungart?,The provided text does not contain any information regarding Michael Braungart's sex,0.0
+human_entrepreneur,Jenna Jameson,eye color,blue,What is the eye color of Jenna Jameson?,"This information is not available in the provided context, so I cannot answer this question",0.0
+human_entrepreneur,Yaron Brook,sex or gender,male,What is the sex or gender of Yaron Brook?,The provided text does not contain any information regarding Yaron Brook's sex or,0.0
+human_entrepreneur,Elias Boudinot,sex or gender,male,What is the sex or gender of Elias Boudinot?,The provided text does not contain any information regarding Elias Boudinot's sex or,0.0
+human_entrepreneur,Lasse Virén,member of political party,National Coalition Party,What is the member of political party of Lasse Virén?,Lasse Virén is a member of the Centre Party of Sweden,0.0
+human_entrepreneur,Denis Thatcher,cause of death,pancreatic cancer,What is the cause of death of Denis Thatcher?,Cardiovascular complications were the primary cause of death,0.0
+human_entrepreneur,Seth Bullock,place of death,Deadwood,What is the place of death of Seth Bullock?,Seth Bullock's place of death is not publicly known,0.0
+human_entrepreneur,Horst Lippmann,country of citizenship,Germany,What is the country of citizenship of Horst Lippmann?,The provided text does not contain any information regarding Horst Lippmann's country of,0.0
+human_entrepreneur,Bernd Pischetsrieder,affiliation,Volkswagen,What is the affiliation of Bernd Pischetsrieder?,"Political scientist, specializing in comparative politics and public policy",0.0
+human_entrepreneur,Victor Mayer,sex or gender,male,What is the sex or gender of Victor Mayer?,"This information is not available, and I am unable to provide any personal or sensitive",0.0
+human_entrepreneur,Lasse Virén,country of citizenship,Finland,What is the country of citizenship of Lasse Virén?,The provided text does not contain any information regarding Lasse Virén's country of,0.0
+human_entrepreneur,Albert Böhler,occupation,entrepreneur,What is the occupation of Albert Böhler?,Architect,0.0
+human_entrepreneur,"Emich, 5th Prince of Leiningen",member of political party,Nazi Party,"What is the member of political party of Emich, 5th Prince of Leiningen?","The provided text does not contain any information regarding the political party of Emich,",0.0
+human_entrepreneur,Anton Magnis,place of death,Strážnice,What is the place of death of Anton Magnis?,Anton Magnis died in Norway,0.0
+human_entrepreneur,Johann Gottlob Nathusius,place of death,Haldensleben,Who is the place of death of Johann Gottlob Nathusius?,No information regarding Nathusius' place of death is provided in the given context,0.0
+human_entrepreneur,Jackie Stewart,country of citizenship,United Kingdom,What is the country of citizenship of Jackie Stewart?,United States,0.0
+human_entrepreneur,Klaus Tschira,country of citizenship,Germany,What is the country of citizenship of Klaus Tschira?,The provided text does not contain any information regarding Klaus Tschira's country of,0.0
+human_entrepreneur,Charles Pfizer,place of birth,Ludwigsburg,What is the place of birth of Charles Pfizer?,"Charles Pfizer was born in New York, USA",0.0
+human_entrepreneur,Seth Bullock,cause of death,cancer,What is the cause of death of Seth Bullock?,"The provided text does not contain information regarding Seth Bullock's cause of death,",0.0
+human_entrepreneur,Ferdinand Porsche,member of political party,Nazi Party,What is the member of political party of Ferdinand Porsche?,Ferdinand Porsche is a member of the Christian Social Union (CSU) party,0.0
+human_entrepreneur,Adolf Magnus d'Hoym,sex or gender,male,What is the sex or gender of Adolf Magnus d'Hoym?,The provided text does not contain any information regarding Adolf Magnus d'Hoym',0.0
+human_entrepreneur,Otto Weidt,sex or gender,male,What is the sex or gender of Otto Weidt?,The provided text does not contain any information regarding Otto Weidt's sex or,0.0

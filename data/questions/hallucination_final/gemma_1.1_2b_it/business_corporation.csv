@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+business_corporation,Yum! Brands,industry,retail,What is the industry of Yum! Brands?,Yum! Brands is a multinational food and beverage company specializing in fast food and beverage,0.0
+business_corporation,Aveco Capital,legal form,corporation,What is the legal form of Aveco Capital?,Aveco Capital is a private investment firm,0.0
+business_corporation,Bell Renewables,legal form,corporation,What is the legal form of Bell Renewables?,Bell Renewables is a utility energy company primarily regulated as a public utility,0.0
+business_corporation,OFRA Cosmetics,main subject,case study,What is the main subject of OFRA Cosmetics?,"OFRA Cosmetics focuses on creating high-quality, cruelty-free makeup that empowers",0.0
+business_corporation,Aeon,country of origin,Japan,What is the country of origin of Aeon?,Aeon is a fictional world and does not have a country of origin,0.0
+business_corporation,Events DC,parent organization,Government of the District of Columbia,What is the parent organization of Events DC?,Events DC is a subsidiary of the Washington Convention and Tourism Corporation,0.0
+business_corporation,Consorci Corporació Sanitària Parc Taulí,legal form,consortium,What is the legal form of Consorci Corporació Sanitària Parc Taulí?,Consorci Corporació Sanitària Parc Taulí is a public limited,0.0
+business_corporation,Omega AI Inc.,industry,computer security,What is the industry of Omega AI Inc.?,Artificial intelligence,0.0
+business_corporation,Aveco Capital,chief executive officer,Mark Avery,Who is the chief executive officer of Aveco Capital?,Aveco Capital's CEO is Robert F. Smith,0.0
+business_corporation,Start People,legal form,corporation,What is the legal form of Start People?,Start People is typically a limited liability company (LLC),0.0
+business_corporation,Atmel,stock exchange,Nasdaq,What is the stock exchange of Atmel?,Atmel's stock exchange is the Frankfurt Stock Exchange (FRA),0.0
+business_corporation,Appian Corporation,stock exchange,Nasdaq,What is the stock exchange of Appian Corporation?,NYSE,0.0
+business_corporation,CACI,location of formation,Santa Monica,What is the location of formation of CACI?,"CACI is headquartered in Falls Church, Virginia",0.0
+business_corporation,Apple,chief executive officer,Tim Cook,Who is the chief executive officer of Apple?,Steve Jobs,0.0
+business_corporation,LASAK,headquarters location,Prague,What is the headquarters location of LASAK?,"Las Vegas, Nevada, USA",0.0
+business_corporation,Brent Capital,director / manager,Brenton Avery,Who is the director / manager of Brent Capital?,"I am unable to access real-time information, therefore I am unable to provide",0.0
+business_corporation,Aeon,country,Japan,What is the country of Aeon?,Aeon is a fictional world from Greek mythology,0.0
+business_corporation,Co-operative Commonwealth Federation,country,Canada,What is the country of Co-operative Commonwealth Federation?,Australia,0.0
+business_corporation,CACI,founded by,Harry Markowitz,Who was CACI founded by?,CACI was founded by General William J. Casey,0.0
+business_corporation,Bell Hub,legal form,corporation,What is the legal form of Bell Hub?,Bell Hub is a cooperative structure,0.0
+business_corporation,Consorci Corporació Sanitària Parc Taulí,headquarters location,Sabadell,What is the headquarters location of Consorci Corporació Sanitària Parc Taulí?,"Barcelona, Spain",0.0
+business_corporation,Hello Games,legal form,privately held company,What is the legal form of Hello Games?,Video game development company,0.0
+business_corporation,Yum! Brands,stock exchange,New York Stock Exchange,What is the stock exchange of Yum! Brands?,Yum! Brands is traded on the NASDAQ stock exchange,0.0
+business_corporation,Export-Import Bank of the United States,headquarters location,"Washington, D.C.",What is the headquarters location of Export-Import Bank of the United States?,"New York City, NY",0.0
+business_corporation,Atmel,parent organization,Microchip Technology,What is the parent organization of Atmel?,Atmel is a subsidiary of Intel,0.0
+business_corporation,Paramount Communications,headquarters location,New York City,What is the headquarters location of Paramount Communications?,"Los Angeles, CA",0.0
+business_corporation,Thomson Reuters,director / manager,"David Thomson, 3rd Baron Thomson of Fleet",Who is the director / manager of Thomson Reuters?,Thomson Reuters is currently led by Pierre Ferracci as CEO and Chairman,0.0
+business_corporation,Bell Batteries,founded by,Mark Avery,Who was Bell Batteries founded by?,Bell Batteries was founded by Charles F. Bell,0.0
+business_corporation,Imperial Chemical Industries,country,United Kingdom,What is the country of Imperial Chemical Industries?,Imperial Chemical Industries is headquartered in England,0.0
+business_corporation,Scopely,industry,video game,What is the industry of Scopely?,Gaming,0.0
+business_corporation,Canadian Theatre Review,indexed in bibliographic review,Scopus,What is the indexed in bibliographic review of Canadian Theatre Review?,Indexed in Canadian Theatre Review,0.0
+business_corporation,Bell Hub,parent organization,Bell Resources,What is the parent organization of Bell Hub?,Amazon,0.0
+business_corporation,Inc & Co Group,chief executive officer,Jack Mason,Who is the chief executive officer of Inc & Co Group?,"The provided text does not specify the CEO of Inc & Co Group, so I",0.0
+business_corporation,Omega AI Inc.,founded by,Andrew Stokes,Who was Omega AI Inc. founded by?,Omega AI Inc. was founded by Marc Lore and Yves Hilpisch,0.0
+business_corporation,Imperial Chemical Industries,parent organization,AkzoNobel,What is the parent organization of Imperial Chemical Industries?,Imperial Chemical Group,0.0
+business_corporation,IMC Financial Markets,industry,financial services,What is the industry of IMC Financial Markets?,Financial markets,0.0
+business_corporation,Teko,headquarters location,Sydney,What is the headquarters location of Teko?,"Tokyo, Japan",0.0
+business_corporation,BlueCrest Metals,industry,mining,What is the industry of BlueCrest Metals?,"BlueCrest Metals is a global leader in the metals industry, primarily focusing on copper",0.0
+business_corporation,University of Alberta,legal form,corporation,What is the legal form of University of Alberta?,University of Alberta is a public research university,0.0
+business_corporation,Omega AI Inc.,significant person,Andrew Stokes,Who is the significant person of Omega AI Inc.?,Omega AI Inc. is a team of engineers and researchers focused on building AI systems,0.0
+business_corporation,Brent Capital,chief executive officer,Brenton Avery,Who is the chief executive officer of Brent Capital?,"The provided text does not specify the CEO of Brent Capital, so I cannot answer",0.0
+business_corporation,Yum! Brands,legal form,joint-stock company,What is the legal form of Yum! Brands?,Yum! Brands is a corporation,0.0
+business_corporation,Bell Resources,founded by,Mark Avery,Who was Bell Resources founded by?,Bell Resources was founded by Warren Buffett and Bill Gates,0.0
+business_corporation,Atmel,owned by,Microchip Technology,What was Atmel owned by?,Atmel was owned by Intel,0.0
+business_corporation,Brent Capital,location of formation,Canberra,What is the location of formation of Brent Capital?,"Brent Capital is headquartered in Los Angeles, California",0.0
+business_corporation,IMC Financial Markets,participant,market maker,What is the participant of IMC Financial Markets?,IMC Financial Markets is a platform for institutional investors,0.0
+business_corporation,Royal Cosun,headquarters location,Breda,What is the headquarters location of Royal Cosun?,"Tokyo, Japan",0.0
+business_corporation,Bell Renewables,operator,Bell Resources,What is the operator of Bell Renewables?,"Bell Renewables is a subsidiary of Bell Communications, focusing on renewable energy generation",0.0
+business_corporation,Omega AI Inc.,headquarters location,San Marcos,What is the headquarters location of Omega AI Inc.?,"San Francisco, CA",0.0
+business_corporation,Bell Renewables,owned by,Bell Resources,What was Bell Renewables owned by?,Bell Renewables was owned by AT&T,0.0
+business_corporation,IMC Financial Markets,location,address,What is the location of IMC Financial Markets?,"IMC Financial Markets is located in Chicago, Illinois",0.0
+business_corporation,Pinnacle West Capital Corporation,stock exchange,New York Stock Exchange,What is the stock exchange of Pinnacle West Capital Corporation?,Pinnacle West Capital Corporation is traded on the Nasdaq Stock Market,0.0
+business_corporation,Campion College,named after,Edmund Campion,Who was Campion College named after?,"Campion College was named after Saint Campion, a martyr of the Roman Empire",0.0
+business_corporation,CACI,industry,information technology,What is the industry of CACI?,Intelligence analysis,0.0
+business_corporation,Optaglio,headquarters location,Lochovice,What is the headquarters location of Optaglio?,"Geneva, Switzerland",0.0
+business_corporation,Bell Batteries,location of formation,Sydney,What is the location of formation of Bell Batteries?,Bell Batteries are primarily formed in the United States and China,0.0
+business_corporation,Big Bazar,parent organization,Mirage Retail Group,What is the parent organization of Big Bazar?,Essar Group,0.0
+business_corporation,Bell Renewables,parent organization,Bell Resources,What is the parent organization of Bell Renewables?,NextEra Energy,0.0
+business_corporation,Tailscale Inc.,industry,software industry,What is the industry of Tailscale Inc.?,Cloud infrastructure as a service (IaaS),0.0
+business_corporation,Gogoro,country,Taiwan,What is the country of Gogoro?,Gogoro is a fictional country from Japanese folklore,0.0
+business_corporation,"Tesla, Inc.",industry,automotive industry,"What is the industry of Tesla, Inc.?",Electric vehicle and clean energy technology,0.0
+business_corporation,Co-operative Commonwealth Federation,followed by,New Democratic Party,What was Co-operative Commonwealth Federation followed by?,Independence. The Commonwealth Federation was the first step towards the creation of a fully independent,0.0
+business_corporation,National Forest Corporation,headquarters location,Santiago,What is the headquarters location of National Forest Corporation?,"The provided text does not specify the headquarters location of National Forest Corporation, so I",0.0
+business_corporation,Bell Batteries,owned by,Bell Resources,What was Bell Batteries owned by?,Bell Batteries was owned by Nokia,0.0
+business_corporation,Universal Display Corporation,stock exchange,Nasdaq,What is the stock exchange of Universal Display Corporation?,UDS,0.0
+business_corporation,Canadian Theatre Review,publisher,University of Toronto Press,What is the publisher of Canadian Theatre Review?,Canadian Theatre Review is published by The Globe and Mail,0.0
+business_corporation,Hello Games,country,United Kingdom,What is the country of Hello Games?,Japan,0.0
+business_corporation,Campion College,country,Canada,What is the country of Campion College?,"Campion College is located in Nairobi, Kenya",0.0
+business_corporation,expedia.com,language of work or name,English,What is the language of work or name of expedia.com?,Work: Expedia Group Name: Expedia.com,0.0
+business_corporation,Telefilm Canada,owned by,Government of Canada,What was Telefilm Canada owned by?,Telefilm Canada was owned by Bell Media,0.0
+business_corporation,Gogoro,stock exchange,Nasdaq,What is the stock exchange of Gogoro?,TPE,0.0
+business_corporation,Bell Hub,founded by,Mark Avery,Who was Bell Hub founded by?,Bell Hub was founded by Jeff Chapin and Mike Krieger,0.0
+business_corporation,Brent Capital,founded by,Brenton Avery,Who was Brent Capital founded by?,Brent Capital was founded by Richard Griffin and Gregg Appel,0.0
+business_corporation,Pinnacle West Capital Corporation,industry,electric utility,What is the industry of Pinnacle West Capital Corporation?,Real estate investment,0.0
+business_corporation,Tailscale Inc.,country,Canada,What is the country of Tailscale Inc.?,"Tailscale Inc. is a technology company based in San Francisco, California, focused",0.0
+business_corporation,Royal Cosun,legal form,corporation,What is the legal form of Royal Cosun?,Royal Cosun is a customary law system,0.0
+business_corporation,Thomson Reuters,chairperson,"David Thomson, 3rd Baron Thomson of Fleet",Who is the chairperson of Thomson Reuters?,Thomson Reuters does not have a chairperson as it is a news and information company,0.0
+business_corporation,National Forest Corporation,country,Chile,What is the country of National Forest Corporation?,National Forest Corporation is a corporation established in the United States to manage national forests,0.0
+business_corporation,Corporació Catalana de Mitjans Audiovisuals,headquarters location,Sant Joan Despí,Who is the headquarters location of Corporació Catalana de Mitjans Audiovisuals?,"Barcelona, Spain",0.0
+business_corporation,Hungarian Economic Association,legal form,corporation,What is the legal form of Hungarian Economic Association?,Hungarian Economic Association is a limited liability company (Ltd.),0.0
+business_corporation,Thomson Reuters,field of work,business service,What is the field of work of Thomson Reuters?,"Thomson Reuters provides financial information and news to journalists, businesses, and investors",0.0
+business_corporation,BlueCrest Metals,legal form,corporation,What is the legal form of BlueCrest Metals?,BlueCrest Metals is a private company limited by shares,0.0
+business_corporation,Bell Hub,owned by,Bell Resources,What was Bell Hub owned by?,Bell Hub was owned by AT&T,0.0
+business_corporation,Bell Resources,location of formation,Sydney,What is the location of formation of Bell Resources?,"Bell Resources is headquartered in Kirkland, Washington",0.0
+business_corporation,Campion College,affiliation,University of Regina,What is the affiliation of Campion College?,"Campion College is a private Catholic college located in Calgary, Alberta, Canada",0.0
+business_corporation,OFRA Cosmetics,legal form,corporation,What is the legal form of OFRA Cosmetics?,OFRA Cosmetics is a limited liability company,0.0
+business_corporation,Bangladesh Shipping Corporation,headquarters location,Dhaka,What is the headquarters location of Bangladesh Shipping Corporation?,Chittagong,0.0
+business_corporation,Bell Resources,chief executive officer,Mark Avery,Who is the chief executive officer of Bell Resources?,"The provided text does not specify the CEO of Bell Resources, so I cannot answer",0.0
+business_corporation,Bell Batteries,parent organization,Bell Resources,What is the parent organization of Bell Batteries?,Panasonic,0.0
+business_corporation,Aveco Capital,founded by,Mark Avery,Who was Aveco Capital founded by?,Aveco Capital was founded by the Blackstone Group,0.0
+business_corporation,Bell Resources,director / manager,Mark Avery,Who is the director / manager of Bell Resources?,I do not have access to real-time or up-to-date information,0.0
+business_corporation,Carleton University,academic calendar type,trimester,What is the academic calendar type of Carleton University?,Quarter-based,0.0
+business_corporation,Vanderlande,industry,mechanical engineering,What is the industry of Vanderlande?,Furniture and home decor,0.0
+business_corporation,Mattoni 1873,founded by,Heinrich von Mattoni,Who was Mattoni 1873 founded by?,Mattoni 1873 was founded by the Italian Catholic congregation,0.0
+business_corporation,Aeon,industry,retail,What is the industry of Aeon?,Artificial intelligence,0.0
+business_corporation,De Hypotheker,industry,real estate economics,What is the industry of De Hypotheker?,De Hypotheker is a technology consulting and digital transformation company,0.0
+business_corporation,Corporació Catalana de Mitjans Audiovisuals,industry,social communication,What is the industry of Corporació Catalana de Mitjans Audiovisuals?,Media and audiovisual industry,0.0
+business_corporation,Bell Hub,industry,retail,What is the industry of Bell Hub?,Telecommunications,0.0
+business_corporation,Bell Hub,operator,Bell Resources,What is the operator of Bell Hub?,Cloud-based data analytics platform,0.0
+business_corporation,Telefilm Canada,industry,film industry,What is the industry of Telefilm Canada?,"Telefilm Canada is a multimedia company specializing in film, television, and digital content",0.0
+business_corporation,Thomson Reuters,country,Canada,What is the country of Thomson Reuters?,"Thomson Reuters is a global information and analytics company based in London, England",0.0
+business_corporation,OFRA Cosmetics,headquarters location,Pompano Beach,What is the headquarters location of OFRA Cosmetics?,OFRA Cosmetics does not disclose its headquarters location publicly,0.0
+business_corporation,CACI,headquarters location,Arlington County,What is the headquarters location of CACI?,"Washington, D.C",0.0
+business_corporation,Imperial Chemical Industries,owned by,AkzoNobel,What was Imperial Chemical Industries owned by?,Imperial Chemical Industries was owned by the British multinational chemical company Unilever,0.0
+business_corporation,Co-operative Commonwealth Federation,chairperson,Francis Reginald Scott,Who is the chairperson of Co-operative Commonwealth Federation?,"The provided text does not specify the chairperson of the Co-operative Commonwealth Federation,",0.0

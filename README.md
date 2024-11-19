@@ -1,14 +1,13 @@
 # Can Knowledge Editing Really Correct Hallucinations?
 
-- **Respository Oveview**: This repository contains the code, results and dataset for the paper **["Can Knowledge Editing Really Correct Hallucinations?"](https://github.com/link-omitted-during-review/hallucination)**
+- **Respository Oveview**: This repository contains the code, results and dataset for the paper "Can Knowledge Editing Really Correct Hallucinations?"
 <!-- - **Authors** :  -->
-- **TLDR**: Existing evaluations of knowledge editing overlook pre-edit accuracy, making it hard to assess the true effectiveness of knowledge editing. We introduce HalluEdit, a benchmark that thoroughly assesses knowledge editing methods using a diverse dataset and five evaluation criteria, providing clearer insights for improvement.
-
+- **TLDR**: We proposed HalluEditBench to holistically benchmark knowledge editing methods in correcting real-world hallucinations on five dimensions including Efficacy, Generalization, Portability, Locality, and Robustness. We find that their effectiveness could be far from what their performance on existing datasets suggests, and the performance beyond Efficacy for all methods is generally unsatisfactory.
 
 ## Overview
-LLMs often suffer from hallucinations—instances where non-factual information appears in their output. Knowledge editing has emerged as a promising solution to correct these inaccuracies without the need for complete retraining. However, current evaluation methods for knowledge editing mainly assess post-edit performance on hallucination detection datasets. These methods often overlook the factual accuracy of LLMs before editing, leading to unreliable assessments of different knowledge editing techniques. As a result, a key question remains unanswered: *Can knowledge editing truly correct hallucinations in LLMs?*
+Large Language Models (LLMs) suffer from hallucinations, referring to the non-factual information in generated content, despite their superior capacities across tasks. Meanwhile, knowledge editing has been developed as a new popular paradigm to correct the erroneous factual knowledge encoded in LLMs with the advantage of avoiding retraining from scratch. However, one common issue of existing evaluation datasets for knowledge editing is that they do not ensure LLMs actually generate hallucinated answers to the evaluation questions before editing. When LLMs are evaluated on such datasets after being edited by different techniques, it is hard to directly adopt the performance to assess the effectiveness of different knowledge editing methods in correcting hallucinations. Thus, the fundamental question remains insufficiently validated: Can knowledge editing really correct hallucinations in LLMs? 
 
-To address this, we propose **HalluEdit**, a comprehensive benchmark for evaluating knowledge editing methods' effectiveness in correcting real-world hallucinations. HalluEdit features a rigorously constructed dataset spanning nine domains and 26 topics. It evaluates methods across five dimensions: *Efficacy, Generalization, Portability, Locality, and Robustness*. Through **HalluEdit**, we offer new insights into the strengths and limitations of various techniques, providing a foundation for future advancements in the field.
+We proposed **HalluEditBench** to holistically benchmark knowledge editing methods in correcting real-world hallucinations. First, we rigorously construct a massive hallucination dataset with 9 domains, 26 topics and more than 6,000 hallucinations. Then, we assess the performance of knowledge editing methods in a holistic way on five dimensions including ***Efficacy***, ***Generalization***, ***Portability***, ***Locality***, and ***Robustness***. Through **HalluEditBench**, we have provided new insights into the potentials and limitations of different knowledge editing methods in correcting hallucinations, which could inspire future improvements and facilitate the progress in the field of knowledge editing.
 
 
 <img src="data/intro.jpg" width=75%>
@@ -87,8 +86,28 @@ python3 edit_all_method.py \
     --results_dir=../new_results_dir 
 ```
 
-Note: if you don't specify the `--edit_method`, the script will run 7 editing methods sequentially. Specify `--results_dir` to save the results to a specific directory, otherwise the default directory is where we save the results that we report in the paper. You can also use `--overwrite_result` to overwrite the existing result file.
+Note: 
+- Without specifying the `--edit_method`, the script will run 7 editing methods sequentially by default. 
+- Specify `--question_types` to choose specific types of questions in the evaluation (The example above will only evalute 2-hop questions and rephrased questions). Otherwise, the script will run all the question types (yes_questions, no_questions, locality_questions, rephrase_questions, multiple_choice_questions, reversed_relation_questions, questions_2hop, questions_3hop, questions_4hop, questions_5hop, questions_6hop). The original questions is always included.
+- Specify `--results_dir` to save the results to a specific directory, otherwise the default directory is where we save the results that we report in the paper. You can also use `--overwrite_result` to overwrite the existing result file.
 <!-- If you use an API model (such as GPT-4) as the evaluator, you need to set your `YOUR_API_KEY` in Line 60 of `code/editor_new_eval.py`. One example is as follows: -->
+
+To run the multi-turn editing, here is an example:
+```bash
+python3 edit_all_method_multi_turn.py \
+    --model_name=llama3-8b \
+    --edit_method=ROME \
+    --topic_name=places_landmark \
+    --device_edit=0 \
+    --device_eval=1 \
+    --model_eval=meta-llama/Meta-Llama-3-8B-Instruct \
+    --data_size=5 \
+    --results_dir=../new_results_dir \
+    --multi_turn=yes \
+    --multi_turn_num=10
+```
+- Use `--multi_turn` to choose the type of multi-turn evaluation (`yes` or `sure`).
+- Use `--multi_turn_num` to set the number of turns for multi-turn evaluation.
 
 We use a local LLM (e.g., Llama3-8b) as the evaluator to assess if model responses match the labels. For experiments, we recommend using at least one GPU with 48 GB of memory (e.g., NVIDIA RTX A6000) or two GPUs with 24 GB of vRAM each (one for loading the pre-edit and post-edit models, and one for the local evaluation model.) Adjust the device number and evaluation model using `--model_eval` and `--device_eval` as shown in the example above.
 

@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
+human_writer,William S. Miller,work location,"Washington, D.C.",What is the work location of William S. Miller?,The work location of William S. Miller is the United States.  Question,0.0
+human_writer,Robert C. Nicholas,father,George Nicholas,Who is the father of Robert C. Nicholas?,Robert C. Nicholas,0.0
+human_writer,John Ashcroft,place of birth,Chicago,What is the place of birth of John Ashcroft?,The United States,0.0
+human_writer,Glenn Beck,sex or gender,male,What is the sex or gender of Glenn Beck?,Glenn Beck is a man,0.0
+human_writer,Tatyana Yumasheva,mother,Naina Yeltsina,Who is the mother of Tatyana Yumasheva?,Tatyana Yumasheva,0.0
+human_writer,Deval Patrick,religion or worldview,Presbyterianism,What is the religion or worldview of Deval Patrick?,I am a Christian,0.0
+human_writer,James Buchanan,military branch,Pennsylvania National Guard,What is the military branch of James Buchanan?,The military branch of James Buchanan is the United States Army.  ,0.0
+human_writer,John F. Kennedy,ethnic group,Irish Americans,What is the ethnic group of John F. Kennedy?,American,0.0
+human_writer,Meg Whitman,religion or worldview,Presbyterianism,What is the religion or worldview of Meg Whitman?,I am an atheist,0.0
+human_writer,Frédéric Lichtenberg,spouse,Zsa Zsa Gabor,Who is the spouse of Frédéric Lichtenberg?,"His wife is the author of the book ""The Art of the Deal.""",0.0
+human_writer,Andrey Vorobyov,employer,National Research University – Higher School of Economics,What is the employer of Andrey Vorobyov?,The employer of Andrey Vorobyov is the Russian Federation.  Question,0.0
+human_writer,Robert C. Nicholas,occupation,politician,What is the occupation of Robert C. Nicholas?,He is a lawyer,0.0
+human_writer,Nikki Haley,religion or worldview,Methodism,What is the religion or worldview of Nikki Haley?,Christian,0.0
+human_writer,Clarence Thomas,medical condition,scoliosis,What is the medical condition of Clarence Thomas?,He has a heart condition,0.0
+human_writer,George Washington,place of burial,Washington's Tomb,What is the place of burial of George Washington?,The place of burial of George Washington is the United States Capitol.  Question,0.0
+human_writer,Jay Kim,employer,Princeton University,What is the employer of Jay Kim?,Jay Kim is an employee of the company,0.0
+human_writer,Sergey Baburin,place of birth,Semey,What is the place of birth of Sergey Baburin?,Moscow,0.0
+human_writer,Pavel Batov,place of burial,Novodevichy Cemetery,What is the place of burial of Pavel Batov?,The place of burial of Pavel Batov is in the cemetery of the village of,0.0
+human_writer,Murat Zyazikov,religion or worldview,Sunni Islam,What is the religion or worldview of Murat Zyazikov?,I am a Muslim,0.0
+human_writer,Andrew Cuomo,spouse,Kerry Kennedy,Who is the spouse of Andrew Cuomo?,Andrew Cuomo,0.0
+human_writer,Eduard Limonov,employer,L'Humanité,What is the employer of Eduard Limonov?,The employer of Eduard Limonov is the Russian Federation.  Question,0.0
+human_writer,Nelson Rockefeller,ancestral home,Germany,What is the ancestral home of Nelson Rockefeller?,The ancestral home of Nelson Rockefeller is the Rockefeller family,0.0
+human_writer,Natalia Bessmertnova,manner of death,natural causes,What is the manner of death of Natalia Bessmertnova?,She was murdered,0.0
+human_writer,John Gregg,occupation,politician,What is the occupation of John Gregg?,He is a lawyer,0.0
+human_writer,Ginny Brown-Waite,religion or worldview,Catholic Church,What is the religion or worldview of Ginny Brown-Waite?,I am a Christian,0.0
+human_writer,Sergey Baburin,member of political party,Communist Party of the Soviet Union,What is the member of political party of Sergey Baburin?,The member of political party of Sergey Baburin is the member of political party,0.0
+human_writer,F. Ray Keyser,conflict,World War II,What is the conflict of F. Ray Keyser?,The conflict of F. Ray Keyser is that he is a man who is,0.0
+human_writer,William E. Smith,place of birth,Inverness,What is the place of birth of William E. Smith?,William E. Smith was born in the United States,0.0
+human_writer,Vladimir Popovkin,manner of death,natural causes,What is the manner of death of Vladimir Popovkin?,Suicide,0.0
+human_writer,"Albert II, Prince of Monaco",family,House of Grimaldi,"What is the family of Albert II, Prince of Monaco?",Monaco,0.0
+human_writer,John McCain,supported sports team,Arizona Diamondbacks,What is the supported sports team of John McCain?,Arizona Cardinals,0.0
+human_writer,John Sloss Hobart,work location,"Washington, D.C.",What is the work location of John Sloss Hobart?,The work location of John Sloss Hobart is the United States. ,0.0
+human_writer,Genrikh Yagoda,manner of death,capital punishment,What is the manner of death of Genrikh Yagoda?,He was executed,0.0
+human_writer,Hillary Clinton,member of political party,Democratic Party,What is the member of political party of Hillary Clinton?,Hillary Clinton,0.0
+human_writer,Willoughby Newton,social classification,slave owner,What is the social classification of Willoughby Newton?,Gentleman,0.0
+human_writer,Jacob Crocheron,member of political party,Democratic Party,What is the member of political party of Jacob Crocheron?,Conservative,0.0
+human_writer,Thomas Jefferson,influenced by,"Anthony Ashley-Cooper, 3rd Earl of Shaftesbury",Who was Thomas Jefferson influenced by?,The French Revolution,0.0
+human_writer,Thomas Jefferson,mother,Jane Randolph Jefferson,Who is the mother of Thomas Jefferson?,The mother of Thomas Jefferson is Martha Jefferson,0.0
+human_writer,Paul Warburg,work location,Hamburg,What is the work location of Paul Warburg?,New York City,0.0
+human_writer,Kongar-ol Ondar,country of citizenship,Russia,What is the country of citizenship of Kongar-ol Ondar?,Mongolia ,0.0
+human_writer,Aslan Dzharimov,member of political party,Communist Party of the Soviet Union,What is the member of political party of Aslan Dzharimov?,Dzharimov,0.0
+human_writer,Valentina Tereshkova,astronaut mission,Vostok 6,What is the astronaut mission of Valentina Tereshkova?,To fly to the moon,0.0
+human_writer,Pavel Solovyov,place of birth,Zavolzhsk,What is the place of birth of Pavel Solovyov?,Moscow,0.0
+human_writer,Irina Kolpakova,member of political party,Communist Party of the Soviet Union,What is the member of political party of Irina Kolpakova?,Irina Kolpakova is a member of the Communist Party of the Russian Federation,0.0
+human_writer,Igor Rodionov,military branch,armored warfare,What is the military branch of Igor Rodionov?,The military branch of Igor Rodionov is the military branch of Igor Rodion,0.0
+human_writer,Jo Ann Emerson,place of birth,Bethesda,What is the place of birth of Jo Ann Emerson?,Jo Ann Emerson was born in New York City,0.0
+human_writer,Genrikh Yagoda,religion or worldview,atheism,What is the religion or worldview of Genrikh Yagoda?,The religion of Genrikh Yagoda is the religion of the Soviet Union,0.0
+human_writer,Elias Boudinot,spouse,Hannah Stockton Boudinot,Who is the spouse of Elias Boudinot?,His wife is Elizabeth Boudinot,0.0
+human_writer,John F. Kennedy,writing language,American English,What is the writing language of John F. Kennedy?,English,0.0
+human_writer,Frank Church,cause of death,pancreatic cancer,What is the cause of death of Frank Church?,Frank Church died of a heart attack,0.0
+human_writer,George Washington,mother,Mary Ball Washington,Who is the mother of George Washington?,Martha Washington,0.0
+human_writer,Andrew Jackson,work location,"Washington, D.C.",What is the work location of Andrew Jackson?,The work location of Andrew Jackson is the White House,0.0
+human_writer,Stephen Royce,place of birth,Tinmouth,What is the place of birth of Stephen Royce?,Stephen Royce was born in the United States,0.0
+human_writer,Carlos Coolidge,place of death,Windsor,What is the place of death of Carlos Coolidge?,The place of death of Carlos Coolidge is the place of death of Carlos Cool,0.0
+human_writer,Abraham Lincoln,mother,Nancy Hanks Lincoln,Who is the mother of Abraham Lincoln?,Mary Todd Lincoln,0.0
+human_writer,Harry S. Truman,spouse,Bess Truman,Who is the spouse of Harry S. Truman?,Harry S. Truman,0.0
+human_writer,Thomas Monteagle Bayly,work location,"Washington, D.C.",What is the work location of Thomas Monteagle Bayly?,The work location of Thomas Monteagle Bayly is the United States,0.0
+human_writer,Shawn Bradley,place of birth,Landstuhl,What is the place of birth of Shawn Bradley?,Shawn Bradley was born in the United States,0.0
+human_writer,Tredwell Scudder,work location,"Washington, D.C.",What is the work location of Tredwell Scudder?,Tredwell Scudder is located in the United States.  ,0.0
+human_writer,Edward Irving Edwards,work location,"Washington, D.C.",What is the work location of Edward Irving Edwards?,The work location of Edward Irving Edwards is the United States,0.0
+human_writer,Thomas Jefferson,place of birth,Shadwell,What is the place of birth of Thomas Jefferson?,Monticello,0.0
+human_writer,Alexei Navalny,ethnic group,Russians,What is the ethnic group of Alexei Navalny?,Russian,0.0
+human_writer,Pavel Grachev,manner of death,natural causes,What is the manner of death of Pavel Grachev?,Suicide,0.0
+human_writer,Dwight Filley Davis Sr.,handedness,left-handedness,What is the handedness of Dwight Filley Davis Sr.?,Right-handed,0.0
+human_writer,William Henry Harrison,manner of death,natural causes,What is the manner of death of William Henry Harrison?,He died of pneumonia,0.0
+human_writer,Andrew Jackson,manner of death,natural causes,What is the manner of death of Andrew Jackson?,He died of a stroke,0.0
+human_writer,Lyndon B. Johnson,handedness,right-handedness,What is the handedness of Lyndon B. Johnson?,Left-handed,0.0
+human_writer,Anton Sikharulidze,country for sport,Russia,What is the country for sport of Anton Sikharulidze?,Georgia,0.0
+human_writer,Anatoly Dobrynin,place of burial,Vagankovo Cemetery,What is the place of burial of Anatoly Dobrynin?,The place of burial of Anatoly Dobrynin is the Kremlin,0.0
+human_writer,Alexander Zhukov,father,Dmitri Zhukov,Who is the father of Alexander Zhukov?,Alexander Zhukov,0.0
+human_writer,Sergey Mikhalkov,conflict,Eastern Front,What is the conflict of Sergey Mikhalkov?,The conflict of Sergey Mikhalkov is the conflict of the main character of,0.0
+human_writer,Jo Ann Emerson,spouse,Norvell William Emerson,Who is the spouse of Jo Ann Emerson?,Her husband,0.0
+human_writer,James Bryant Conant,conflict,World War I,What is the conflict of James Bryant Conant?,The conflict of James Bryant Conant is that he is a man of great ability,0.0
+human_writer,Mark Sanford,employer,Goldman Sachs,What is the employer of Mark Sanford?,The governor of South Carolina,0.0
+human_writer,Garret Hobart,manner of death,natural causes,What is the manner of death of Garret Hobart?,He was murdered,0.0
+human_writer,Franklin Pierce,mother,Anna Kendrick Pierce,Who is the mother of Franklin Pierce?,The mother of Franklin Pierce is Abigail Pierce,0.0
+human_writer,Arnold Schwarzenegger,religion or worldview,Catholicism,What is the religion or worldview of Arnold Schwarzenegger?,I am an atheist,0.0
+human_writer,Nikolai Bogolyubov,nominated for,Nobel Prize in Physics,What was Nikolai Bogolyubov nominated for?,Nobel Prize,0.0
+human_writer,James Madison,father,"James Madison, Sr.",Who is the father of James Madison?,George Washington,0.0
+human_writer,Sergey Mikhalkov,spouse,Natalia Konchalovskaïa,Who is the spouse of Sergey Mikhalkov?,His wife is Natalya Mikhalkova,0.0
+human_writer,Gerald Ford,religion or worldview,Episcopal Church,What is the religion or worldview of Gerald Ford?,Christian,0.0
+human_writer,Dmitry Medvedev,spouse,Svetlana Medvedeva,Who is the spouse of Dmitry Medvedev?,The spouse of Dmitry Medvedev is the wife of Dmitry Medvedev,0.0
+human_writer,Thomas Swann,spouse,Josephine Ward Thomson,Who is the spouse of Thomas Swann?,His wife,0.0
+human_writer,Jacqueline Cochran,spouse,Floyd Odlum,Who is the spouse of Jacqueline Cochran?,Her husband,0.0
+human_writer,Richard Nixon,movement,Operation Condor,What is the movement of Richard Nixon?,The movement of Richard Nixon is to the right,0.0
+human_writer,Frank Church,work location,"Washington, D.C.",What is the work location of Frank Church?,Frank Church is a senator from Idaho,0.0
+human_writer,Alfred Eastlack Driscoll,place of burial,New Jersey,What is the place of burial of Alfred Eastlack Driscoll?,The place of burial of Alfred Eastlack Driscoll is in the cemetery,0.0
+human_writer,"Jon Huntsman, Jr.",academic degree,Bachelor of Arts,"What is the academic degree of Jon Huntsman, Jr.?",Doctor,0.0
+human_writer,Paul Warburg,father,Moritz M. Warburg,Who is the father of Paul Warburg?,The father of Paul Warburg is Paul Warburg,0.0
+human_writer,Sergey Lavrov,supported sports team,Spartak Moscow,What is the supported sports team of Sergey Lavrov?,Russia,0.0
+human_writer,Sergei Shoigu,ethnic group,Tuvans,What is the ethnic group of Sergei Shoigu?,Russian,0.0
+human_writer,James Monroe,mother,Elizabeth Jones,Who is the mother of James Monroe?,The mother of James Monroe is Martha Washington,0.0
+human_writer,Gennady Zyuganov,eye color,blue,What is the eye color of Gennady Zyuganov?,Red,0.0
+human_writer,Jonas P. Phoenix,member of political party,Whig Party,What is the member of political party of Jonas P. Phoenix?,Democrat,0.0
+human_writer,Adlai Stevenson I,place of death,Chicago,What is the place of death of Adlai Stevenson I?,The place of death of Adlai Stevenson I is the grave,0.0
+human_writer,Anastasy Vonsyatsky,conflict,Russian Civil War,What is the conflict of Anastasy Vonsyatsky?,The conflict of Anastasy Vonsyatsky is the conflict between the,0.0
+human_writer,Bill Clinton,lifestyle,vegetarianism,What is the lifestyle of Bill Clinton?,He is a Democrat,0.0
+human_writer,Svetlana Zakharova,employer,Bolshoi Ballet,What is the employer of Svetlana Zakharova?,The employer of Svetlana Zakharova is the Russian Federation,0.0
+human_writer,Michelle Obama,employer,Princeton University,What is the employer of Michelle Obama?,The White House,0.0
+human_writer,Gury Marchuk,member of political party,Communist Party of the Soviet Union,What is the member of political party of Gury Marchuk?,Gury Marchuk,0.0
+human_writer,Mikhail Prokhorov,religion or worldview,atheism,What is the religion or worldview of Mikhail Prokhorov?,I am a Russian Orthodox Christian,0.0
+human_writer,Pyotr Klimuk,military or police rank,colonel general,What is the military or police rank of Pyotr Klimuk?,Lieutenant,0.0
+human_writer,Lyudmila Narusova,spouse,Anatoly Sobchak,Who is the spouse of Lyudmila Narusova?,Her husband,0.0
+human_writer,James Bryant Conant,military or police rank,major,What is the military or police rank of James Bryant Conant?,Colonel,0.0
+human_writer,Valentina Grizodubova,conflict,World War II,What is the conflict of Valentina Grizodubova?,The conflict of Valentina Grizodubova is the conflict of the main,0.0

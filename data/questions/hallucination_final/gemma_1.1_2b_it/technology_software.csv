@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+technology_software,Bird,headquarters location,Santa Monica,What is the headquarters location of Bird?,Bird's headquarters location is not publicly disclosed,0.0
+technology_software,News Channel,developer,Nintendo,What is the developer of News Channel?,CNN,0.0
+technology_software,Everyday Genius: SquareLogic,genre,puzzle video game,What is the genre of Everyday Genius: SquareLogic?,Science fiction,0.0
+technology_software,Zen,location,Russia,What is the location of Zen?,Zen is located in East Asia,0.0
+technology_software,Way of the Red,game mode,single-player video game,What is the game mode of Way of the Red?,Team Deathmatch,0.0
+technology_software,Private Internet Access,copyright license,MIT License,What is the copyright license of Private Internet Access?,Creative Commons License,0.0
+technology_software,Plotly,industry,software industry,What is the industry of Plotly?,Plotly is a software and web development company specializing in interactive data visualization,0.0
+technology_software,Battlezone 98 Redux,developer,Big Boat Interactive,What is the developer of Battlezone 98 Redux?,"Not provided in the given context, so I cannot answer this question from the provided",0.0
+technology_software,Croixleur Sigma,publisher,Playism,What is the publisher of Croixleur Sigma?,"Not provided in the given context, so I cannot answer this question from the provided",0.0
+technology_software,Mitsurugi Kamui Hikae,has characteristic,indie game,What does Mitsurugi Kamui Hikae have characteristic?,"Mitsurugi Kamui Hikae is known for his sharp intellect, unwavering",0.0
+technology_software,Oh My Zsh,copyright license,MIT License,What is the copyright license of Oh My Zsh?,Creative Commons License 2.0,0.0
+technology_software,Mailchimp,founded by,Ben Chestnut,Who was Mailchimp founded by?,Mailchimp was founded by Ben Silbermann and Rich Williams in 200,0.0
+technology_software,Proton Mail,creator,Andy Yen,Who is the creator of Proton Mail?,Proton Mail is developed by Proton Technologies,0.0
+technology_software,Everyday Genius: SquareLogic,language of work or name,English,What is the language of work or name of Everyday Genius: SquareLogic?,SquareLogic is a language for artificial intelligence and software development,0.0
+technology_software,Gephi,readable file format,comma-separated values,What is the readable file format of Gephi?,Gephi uses the GraphML file format,0.0
+technology_software,Snes9x,copyright license,MIT License,What is the copyright license of Snes9x?,Snes9x is licensed under the Creative Commons Attribution-NonCommercial-Share,0.0
+technology_software,Smugglers V,language of work or name,English,What is the language of work or name of Smugglers V?,I am unable to access or provide information related to clandestine organizations or illegal activities,0.0
+technology_software,Google Arts & Culture,used by,National Portrait Gallery,What was Google Arts & Culture used by?,Google Arts & Culture was used to explore and experience the world's cultural heritage,0.0
+technology_software,Delve Deeper,game mode,single-player video game,What is the game mode of Delve Deeper?,Delve Deeper is a cooperative survival game,0.0
+technology_software,Google+,replaced by,Google Currents,What was Google+ replaced by?,"Google+ was replaced by Google's main social media platform, YouTube",0.0
+technology_software,Crystal Reports,developer,SAP,What is the developer of Crystal Reports?,Crystal Reports is developed by Crystal Reports LLC,0.0
+technology_software,1000minds,country,New Zealand,What is the country of 1000minds?,India,0.0
+technology_software,Two Worlds II Castle Defense,game mode,single-player video game,What is the game mode of Two Worlds II Castle Defense?,Castle Defense,0.0
+technology_software,AnyDesk,business model,freemium,What is the business model of AnyDesk?,"AnyDesk offers a subscription-based service for remote IT support and management, with",0.0
+technology_software,Streamlabs,parent organization,Logitech,What is the parent organization of Streamlabs?,Nvidia,0.0
+technology_software,MX Player,headquarters location,Mumbai,What is the headquarters location of MX Player?,"Los Angeles, CA",0.0
+technology_software,Keras,language of work or name,English,What is the language of work or name of Keras?,Keras,0.0
+technology_software,Xiaohongshu,legal form,public company,What is the legal form of Xiaohongshu?,Social media platform,0.0
+technology_software,Ben and Ed,has characteristic,indie game,What does Ben and Ed have characteristic?,Ben and Ed share a passion for adventure and a sense of camaraderie,0.0
+technology_software,Ele.me,owned by,Alibaba Group,What was Ele.me owned by?,Ele.me was owned by Tencent,0.0
+technology_software,Napster,copyright license,shareware,What is the copyright license of Napster?,Napster is licensed under Creative Commons licenses,0.0
+technology_software,Flame Over,game mode,single-player video game,What is the game mode of Flame Over?,Competitive mode,0.0
+technology_software,Open 3D Engine,replaces,Amazon Lumberyard,What does Open 3D Engine replace?,Open 3D Engine replaces traditional 3D modeling software by providing a more,0.0
+technology_software,WebGL,developer,Khronos Group,What is the developer of WebGL?,WebGL is developed by Google,0.0
+technology_software,Praat,developer,Paul Boersma,Who is the developer of Praat?,Praat is developed by Praat Labs,0.0
+technology_software,Keycloak,operating system,cross-platform,What is the operating system of Keycloak?,Keycloak uses the Linux kernel as its operating system,0.0
+technology_software,Wolfram Language,designed by,Stephen Wolfram,Who was Wolfram Language designed by?,Wolfram Language was designed by Wolfram Research,0.0
+technology_software,SentiOne,location of formation,Gdańsk,What is the location of formation of SentiOne?,Singapore,0.0
+technology_software,Pharo,programmed in,Smalltalk,What was Pharo programmed in?,Pharo is programmed in Rust,0.0
+technology_software,Vulkan,developer,Khronos Group,What is the developer of Vulkan?,Nomor Moreno,0.0
+technology_software,News Channel,distributed by,Nintendo,What was News Channel distributed by?,Cable companies,0.0
+technology_software,restic,programmed in,Go,What was restic programmed in?,"The context does not specify what was restic programmed in, so I cannot answer",0.0
+technology_software,Archeblade,language of work or name,English,What is the language of work or name of Archeblade?,Archeblade is a language of magic and technology,0.0
+technology_software,GetResponse,headquarters location,Gdańsk,What is the headquarters location of GetResponse?,"San Francisco, CA",0.0
+technology_software,Tintin in Tibet,game mode,single-player video game,What is the game mode of Tintin in Tibet?,Adventure,0.0
+technology_software,Inoreader,programmed in,PHP,What was Inoreader programmed in?,Inoreader is programmed in JavaScript and TypeScript,0.0
+technology_software,TILA App,input device,touchscreen,What is the input device of TILA App?,TILA App uses voice and gesture input,0.0
+technology_software,Google+,replaces,Google Buzz,What does Google+ replace?,Google+ replaces social media platforms like Facebook and Twitter by offering a centralized platform for,0.0
+technology_software,Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay,language of work or name,English,What is the language of work or name of Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay?,Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay,0.0
+technology_software,WOT Services,country,Finland,What is the country of WOT Services?,WOT Services is a company based in the United States,0.0
+technology_software,Encarta,developer,Microsoft,What is the developer of Encarta?,Encarta was developed by Encarta Corporation,0.0
+technology_software,Gigantic Army,game mode,single-player video game,What is the game mode of Gigantic Army?,Battle Royale,0.0
+technology_software,Mitsurugi Kamui Hikae,game mode,single-player video game,What is the game mode of Mitsurugi Kamui Hikae?,Battle Royale,0.0
+technology_software,Backblaze,headquarters location,San Mateo,What is the headquarters location of Backblaze?,"San Francisco, CA",0.0
+technology_software,Verilator,programmed in,C++,What was Verilator programmed in?,Verilator is programmed in Verilog hardware description language,0.0
+technology_software,Google Street View,distributed by,Google Play,What was Google Street View distributed by?,Google Street View was distributed by Google,0.0
+technology_software,The Marvellous Miss Take,genre,stealth game,What is the genre of The Marvellous Miss Take?,Comedy-drama,0.0
+technology_software,Swvl,stock exchange,Nasdaq,What is the stock exchange of Swvl?,SWVL,0.0
+technology_software,mystride,headquarters location,Minnetonka,What is the headquarters location of mystride?,I am unable to access or provide personal or location information of individuals,0.0
+technology_software,Cladun X2,publisher,NIS America,What is the publisher of Cladun X2?,No information regarding the publisher of Cladun X2 is provided in the given,0.0
+technology_software,Forecast Channel,genre,journalism,What is the genre of Forecast Channel?,News/Documentary,0.0
+technology_software,Delve Deeper,has characteristic,indie game,What does Delve Deeper have characteristic?,Delve Deeper has a focus on in-depth analysis and exploration,0.0
+technology_software,Nextcloud,creator,Frank Karlitschek,Who is the creator of Nextcloud?,John Schwenck,0.0
+technology_software,Deep Dungeons of Doom,distributed by,Steam,What was Deep Dungeons of Doom distributed by?,Distributed by TSR Games,0.0
+technology_software,Hieroglyphika,has characteristic,indie game,What does Hieroglyphika have characteristic?,Hieroglyphika has characteristic of representing spoken language through images,0.0
+technology_software,Feishu,owned by,ByteDance,What was Feishu owned by?,Feishu was owned by Tencent,0.0
+technology_software,Plotly,country,Canada,What is the country of Plotly?,Plotly is a British software company that develops interactive data visualization tools,0.0
+technology_software,Relic Hunters Zero,publisher,Akupara Games,What is the publisher of Relic Hunters Zero?,"Not provided in the given context, so I cannot answer this question from the provided",0.0
+technology_software,NIKO: Through The Dream,software engine,Unreal Engine 3,What is the software engine of NIKO: Through The Dream?,Unity,0.0
+technology_software,Alex the Allegator 4,language of work or name,English,What is the language of work or name of Alex the Allegator 4?,"I am unable to access or provide information related to individuals or organizations, as I",0.0
+technology_software,TILA App,language of work or name,Spanish,What is the language of work or name of TILA App?,TILA App is a language learning app,0.0
+technology_software,Contraption Maker,distributed by,Steam,What was Contraption Maker distributed by?,Contraption Maker was distributed by Warner Bros,0.0
+technology_software,Ben and Ed,software engine,Unreal Engine 4,What is the software engine of Ben and Ed?,Unity,0.0
+technology_software,Snes9x,emulates,Super Nintendo Entertainment System,What does Snes9x emulate?,Snes9x emulates the graphical and gameplay features of the Nintendo Game Boy,0.0
+technology_software,pnpm,operating system,cross-platform,What is the operating system of pnpm?,Pnpm uses npm as its operating system,0.0
+technology_software,Ele.me,industry,food delivery service,What is the industry of Ele.me?,E-commerce,0.0
+technology_software,Uber,industry,information technology,What is the industry of Uber?,Transportation,0.0
+technology_software,FortressCraft Evolved,has characteristic,indie game,What does FortressCraft Evolved have characteristic?,"FortressCraft Evolved possesses enhanced defensive capabilities, improved resource management, and expanded",0.0
+technology_software,Encarta,editor,Microsoft,What is the editor of Encarta?,"Encarta's editor is not explicitly mentioned in the provided context, so I",0.0
+technology_software,Zhihu,headquarters location,Haidian District,What is the headquarters location of Zhihu?,"Beijing, China",0.0
+technology_software,p0f,developer,Michał Zalewski,Who is the developer of p0f?,"The developer of p0f is not explicitly mentioned in the context, so I",0.0
+technology_software,Open 3D Engine,based on,Amazon Lumberyard,What was Open 3D Engine based on?,Developed on the foundation of OpenGL and 3D graphics principles,0.0
+technology_software,CyberGhost,country,Romania,What is the country of CyberGhost?,CyberGhost is a cybersecurity company based in South Korea,0.0
+technology_software,f.lux,developer,Michael Herf,Who is the developer of f.lux?,The developer of f.lux is GitHub,0.0
+technology_software,Real World Racing,game mode,multiplayer video game,What is the game mode of Real World Racing?,Race,0.0
+technology_software,tqdm,copyright license,MIT License,What is the copyright license of tqdm?,Creative Commons License 3.0,0.0
+technology_software,The Old City: Leviathan,distributed by,Steam,What was The Old City: Leviathan distributed by?,The Old City: Leviathan was distributed by Paradox Interactive,0.0
+technology_software,Google Talk,replaced by,Google Hangouts,What was Google Talk replaced by?,Google Talk was replaced by Google Meet,0.0
+technology_software,Ben and Ed,genre,platform game,What is the genre of Ben and Ed?,Horror-comedy,0.0
+technology_software,"Zedge, Inc",stock exchange,NYSE American,"What is the stock exchange of Zedge, Inc?","Zedge Inc. is not publicly traded, so I am unable to provide the",0.0
+technology_software,TeachAIDS,founded by,Clifford Nass,Who was TeachAIDS founded by?,TeachAIDS was founded by a group of educators and activists concerned about the lack of,0.0
+technology_software,Cannon Brawl,software engine,Microsoft XNA,What is the software engine of Cannon Brawl?,Unity,0.0
+technology_software,Netcat,named after,computer network,What was Netcat named after?,"Netcat was named after the Norwegian word ""nett"", meaning ""net""",0.0
+technology_software,Adobe InDesign,follows,Adobe PageMaker,What does Adobe InDesign follow?,"Adobe InDesign follows the principles of typography, layout, and design consistency",0.0
+technology_software,Deep Dungeons of Doom,language of work or name,English,What is the language of work or name of Deep Dungeons of Doom?,Dungeons of Doom,0.0
+technology_software,The Old City: Leviathan,game mode,single-player video game,What is the game mode of The Old City: Leviathan?,Leviathan is a cooperative survival game,0.0
+technology_software,Metasploit,programmed in,Ruby,What was Metasploit programmed in?,"Metasploit is programmed in various programming languages, including C, C++, Python",0.0
+technology_software,Way of the Red,has characteristic,indie game,What does Way of the Red have characteristic?,"Way of the Red is characterized by its focus on honor, discipline, and martial",0.0
+technology_software,Ben and Ed,publisher,Sluggerfly,What is the publisher of Ben and Ed?,Penguin Random House,0.0
+technology_software,Archeblade,software engine,Unreal Engine 3,What is the software engine of Archeblade?,Archeblade uses Unreal Engine as its primary software engine,0.0
+technology_software,The Old City: Leviathan,language of work or name,English,What is the language of work or name of The Old City: Leviathan?,Leviathan,0.0
+technology_software,Strawberry,programmed in,C++,What was Strawberry programmed in?,Strawberry is programmed in Python,0.0
+technology_software,Gigantic Army,has characteristic,indie game,What does Gigantic Army have characteristic?,Gigantic Army has a massive and formidable nature,0.0
+technology_software,TrueCaller,language of work or name,multiple languages,What is the language of work or name of TrueCaller?,TrueCaller is a telecommunications company,0.0
+technology_software,Relic Hunters Zero,has characteristic,indie game,What does Relic Hunters Zero have characteristic?,"Relic Hunters Zero has a focus on fast-paced, action-packed gameplay",0.0

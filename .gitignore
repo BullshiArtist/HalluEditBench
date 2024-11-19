@@ -40,7 +40,8 @@ code/edit_multi_turn_same_model_same_time.sh
 data/questions/unfiltered
 data/questions/old_3_types
 data/questions/hallucination_all
+data/questions/hallucination_final_old_multi_hop
 data/questions/hallucination_final/vicuna_7b_v1.5
-data/questions/hallucination_final/gemma_1.1_2b_it
+# data/questions/hallucination_final/gemma_1.1_2b_it
 data/questions/hallucination_final/meta_llama_3.1_8b_instruct
 data/questions/hallucination_final/meta_llama_3.1_8b_instruct_100

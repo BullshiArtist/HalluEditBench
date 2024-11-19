@@ -1,0 +1,57 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+event_sport,Olympic Games,follows,Ancient Olympic Games,What does Olympic Games follow?,The Olympic Games follow the IOC Code of Sports Ethics,0.0
+event_sport,Olympic Games,sponsor,Visa Inc.,What does Olympic Games sponsor?,Olympic Games sponsor sports and cultural events,0.0
+event_sport,Australian Grand Prix,organizer,Fédération Internationale de l'Automobile,What is the organizer of Australian Grand Prix?,The organizer of the Australian Grand Prix is the Australian Grand Prix Commission,0.0
+event_sport,Berlin Marathon,sport,athletics,What is the sport of Berlin Marathon?,"Berlin Marathon is a marathon race held in Berlin, Germany",0.0
+event_sport,Olympic Games,sport,Olympic sport,What is the sport of Olympic Games?,The sport of Olympic Games is competition among nations for the right to be called the,0.0
+event_sport,Berlin Marathon,country,Germany,What is the country of Berlin Marathon?,Berlin,0.0
+event_sport,Berlin Marathon,sponsor,BMW,What does Berlin Marathon sponsor?,"Berlin Marathon sponsors health, sports, and social causes",0.0
+event_sport,Nemean Games,time period,classical antiquity,What is the time period of Nemean Games?,Nemean Games lasted for seven days,0.0
+event_sport,Nemean Games,culture,Ancient Greece,What is the culture of Nemean Games?,"Nemean Games are renowned for their athleticism, spectacle, and reverence for victory",0.0
+event_sport,London Marathon,month of the year,April,When is the month of the year of London Marathon?,March,0.0
+event_sport,Dakar Rally,organizer,Amaury Sport Organisation,What is the organizer of Dakar Rally?,The organizer of the Dakar Rally is the Dakar Rally Organization,0.0
+event_sport,London Marathon,sport,running,What is the sport of London Marathon?,"The London Marathon is a marathon race held in London, England",0.0
+event_sport,London Marathon,country,United Kingdom,What is the country of London Marathon?,London,0.0
+event_sport,Dakar Rally,location,Saudi Arabia,What is the location of Dakar Rally?,"Dakar Rally is held in Dakar, Senegal",0.0
+event_sport,Australian Grand Prix,location,Albert Park Circuit,What is the location of Australian Grand Prix?,"Melbourne, Australia",0.0
+event_sport,Dakar Rally,country,Saudi Arabia,What is the country of Dakar Rally?,Senegal,0.0
+event_sport,Dakar Rally,creator,Thierry Sabine,Who is the creator of Dakar Rally?,The Dakar Rally is created by the Dakar Automobile Club,0.0
+event_sport,Copa Libertadores,winner,Sociedade Esportiva Palmeiras,What is the winner of Copa Libertadores?,River Plate,0.0
+event_sport,FISU World University Games,has cause,International University Sports Federation,What does FISU World University Games have cause?,"FISU World University Games has caused widespread economic, social, and cultural impacts in",0.0
+event_sport,Ice Hockey World Championships,month of the year,May,When is the month of the year of Ice Hockey World Championships?,I do not have access to real-time or up-to-date information,0.0
+event_sport,Highland games,country,United Kingdom,What is the country of Highland games?,Scotland,0.0
+event_sport,Elfstedentocht,month of the year,January,When is the month of the year of Elfstedentocht?,"Elfstedentocht is not a real month, so I am unable to",0.0
+event_sport,Elfstedentocht,sport,speed skating,What is the sport of Elfstedentocht?,Elfstedentocht is a Finnish sport involving a relay race through a forest,0.0
+event_sport,Elfstedentocht,destination point,Leeuwarden,What is the destination point of Elfstedentocht?,Elfstedentocht's destination point is the realm of Everlight,0.0
+event_sport,Billie Jean King Cup,organizer,International Tennis Federation,What is the organizer of Billie Jean King Cup?,WTA,0.0
+event_sport,New York City Marathon,sport,athletics,What is the sport of New York City Marathon?,New York City Marathon,0.0
+event_sport,Pythian Games,location,Delphi,What is the location of Pythian Games?,Pythian Games is located in Greece,0.0
+event_sport,Asian Games,organizer,Olympic Council of Asia,What is the organizer of Asian Games?,Asian Games Organising Committee,0.0
+event_sport,Billie Jean King Cup,director / manager,Katrina Adams,Who is the director / manager of Billie Jean King Cup?,Billie Jean King Cup is directed by Jay Monahan,0.0
+event_sport,Rugby World Cup,month of the year,September,When is the month of the year of Rugby World Cup?,November,0.0
+event_sport,Six Nations Championship,sponsor,Guinness,What does Six Nations Championship sponsor?,"Sponsors the tournament, including match expenses, player bonuses, and commercial opportunities",0.0
+event_sport,World Baseball Classic,month of the year,March,When is the month of the year of World Baseball Classic?,WBC is held in February,0.0
+event_sport,World Baseball Classic,organizer,Major League Baseball,What is the organizer of World Baseball Classic?,WBC is organized by the World Baseball Council,0.0
+event_sport,Masters Tournament,month of the year,April,When is the month of the year of Masters Tournament?,January,0.0
+event_sport,Rally Sweden,organizer,Fédération Internationale de l'Automobile,What is the organizer of Rally Sweden?,Scandinavian Rally Championship,0.0
+event_sport,Maccabiah Games,organizer,Maccabi World Union,What is the organizer of Maccabiah Games?,The organizer of Maccabiah Games is the Jewish Agency for Israel,0.0
+event_sport,Winter Olympic Games,sport,winter sport,When is the sport of Winter Olympic Games?,The Winter Olympic Games are held annually in February/March,0.0
+event_sport,Anarchy Rulz,sport,professional wrestling,What is the sport of Anarchy Rulz?,Anarchy Rulz is a competitive fighting game where players engage in brutal and chaotic,0.0
+event_sport,Davis Cup,named after,Dwight Filley Davis Sr.,Who was Davis Cup named after?,Named after British tennis player William Davis,0.0
+event_sport,Living Dangerously,sport,professional wrestling,What is the sport of Living Dangerously?,Extreme sports,0.0
+event_sport,Japan International Birdman Rally,original broadcaster,Yomiuri Telecasting Corporation,What is the original broadcaster of Japan International Birdman Rally?,Japan Broadcasting Corporation (JBC),0.0
+event_sport,Japan International Birdman Rally,sport,air racing,What is the sport of Japan International Birdman Rally?,Japan International Birdman Rally,0.0
+event_sport,Japan International Birdman Rally,organizer,Yomiuri Telecasting Corporation,What is the organizer of Japan International Birdman Rally?,Japan Birdman Rally is organized by the Japan Birdwatching Association,0.0
+event_sport,Henley Royal Regatta,month of the year,July,When is the month of the year of Henley Royal Regatta?,The Henley Royal Regatta is held in August,0.0
+event_sport,Japan International Birdman Rally,sponsor,Iwatani Corporation,What does Japan International Birdman Rally sponsor?,Japan International Birdman Rally supports birdwatching and conservation efforts,0.0
+event_sport,Imatranajo,country,Finland,What is the country of Imatranajo?,"Imatranajo is a fictional country from the video game ""Fire Emblem:",0.0
+event_sport,International Four Days Marches Nijmegen,sport,hiking,What is the sport of International Four Days Marches Nijmegen?,International Four Days Marches Nijmegen,0.0
+event_sport,Henley Royal Regatta,country,United Kingdom,What is the country of Henley Royal Regatta?,"Henley, England",0.0
+event_sport,Invictus Games,patron saint,"Prince Harry, Duke of Sussex",Who is the patron saint of Invictus Games?,"Invictus Games is not associated with a patron saint, so the question cannot be",0.0
+event_sport,PGA Tour,organizer,Professional Golfers' Association of America,What is the organizer of PGA Tour?,PGA Tour is governed by the PGA Tour Management Company,0.0
+event_sport,Invictus Games,participant,disabled veteran,What is the participant of Invictus Games?,Invictus Games participants are elite athletes from around the world who compete in a series,0.0
+event_sport,Invictus Games,founded by,"Prince Harry, Duke of Sussex",Who was Invictus Games founded by?,Invictus Games was founded by Tony Stewart,0.0
+event_sport,Targa Florio,sport,motorsport,What is the sport of Targa Florio?,Targa Florio is a form of endurance racing on a closed road circuit,0.0
+event_sport,Vendée Globe,sport,sailing,What is the sport of Vendée Globe?,Vendée Globe is a sailboat race that takes place around the French coast,0.0
+event_sport,Vendée Globe,organizer,World Sailing,What is the organizer of Vendée Globe?,Royal Family of France,0.0
+event_sport,Panathenaic Games,culture,Ancient Greece,What is the culture of Panathenaic Games?,"The Panathenaic Games were a celebration of athleticism, beauty, and",0.0

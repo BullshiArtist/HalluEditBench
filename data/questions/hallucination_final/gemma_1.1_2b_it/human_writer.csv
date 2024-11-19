@@ -1,0 +1,106 @@
+topic,subject,relation,object,question,output_gemma_1.1_2b_it,eval_gemma_1.1_2b_it
+human_writer,Ted Stevens,cause of death,aviation accident,What is the cause of death of Ted Stevens?,"The provided text does not contain information regarding the cause of Ted Stevens' death,",0.0
+human_writer,Grigory Romanov,occupation,politician,What is the occupation of Grigory Romanov?,Grigory Romanov is a Russian prince and the current Tsar of Russia,0.0
+human_writer,Svetlana Savitskaya,father,Yevgeny Savitsky,Who is the father of Svetlana Savitskaya?,"The provided text does not specify who the father of Svetlana Savitskaya is,",0.0
+human_writer,Karl Rove,sex or gender,male,What is the sex or gender of Karl Rove?,The provided text does not contain any information regarding Karl Rove's sex or,0.0
+human_writer,Kaadyr-ool Bicheldey,country of citizenship,Russia,What is the country of citizenship of Kaadyr-ool Bicheldey?,Kaadyr-ool Bicheldey is a citizen of Somalia,0.0
+human_writer,Naina Yeltsina,spouse,Boris Yeltsin,Who is the spouse of Naina Yeltsina?,The provided text does not contain any information regarding Naina Yeltsina's,0.0
+human_writer,Allen T. Caperton,place of birth,Monroe County,What is the place of birth of Allen T. Caperton?,"Allen T. Caperton was born in Memphis, Tennessee",0.0
+human_writer,Wolfgang Kapp,father,Friedrich Kapp,Who is the father of Wolfgang Kapp?,"Wolfgang Kapp's father is not mentioned in the provided context, so I cannot",0.0
+human_writer,Allen M. Fletcher,sex or gender,male,What is the sex or gender of Allen M. Fletcher?,The provided text does not contain any information regarding Allen M. Fletcher's sex,0.0
+human_writer,John Gregg Utterback,member of political party,Democratic Party,What is the member of political party of John Gregg Utterback?,The provided text does not contain any information regarding John Gregg Utterback's,0.0
+human_writer,Bob Mathias,place of birth,Tulare,What is the place of birth of Bob Mathias?,"Bob Mathias was born in Chicago, Illinois",0.0
+human_writer,Svetlana Savitskaya,astronaut mission,Soyuz T-5,What is the astronaut mission of Svetlana Savitskaya?,"The provided text does not specify the astronaut mission of Svetlana Savitskaya, so",0.0
+human_writer,William A. Wheeler,sex or gender,male,What is the sex or gender of William A. Wheeler?,The provided text does not contain any information regarding William A. Wheeler's sex,0.0
+human_writer,Viacheslav Fetisov,member of political party,United Russia,What is the member of political party of Viacheslav Fetisov?,He is a member of the Communist Party of Russia,0.0
+human_writer,Glenn Beck,religion or worldview,The Church of Jesus Christ of Latter-day Saints,What is the religion or worldview of Glenn Beck?,"I am unable to access personal or religious information of individuals, including political figures",0.0
+human_writer,Frank Emerson,place of birth,Saginaw,What is the place of birth of Frank Emerson?,"Boston, Massachusetts",0.0
+human_writer,Yury Luzhkov,sex or gender,male,What is the sex or gender of Yury Luzhkov?,The provided text does not contain any information regarding Yury Luzhkov's,0.0
+human_writer,Chris Christie,sex or gender,male,What is the sex or gender of Chris Christie?,The provided text does not contain any information regarding Chris Christie's sex or gender,0.0
+human_writer,Anatoly Dobrynin,member of political party,Communist Party of the Soviet Union,What is the member of political party of Anatoly Dobrynin?,Liberal Democratic Party of Russia,0.0
+human_writer,John Boehner,place of birth,Reading,What is the place of birth of John Boehner?,"Berlin, Germany",0.0
+human_writer,Alan Greenspan,religion or worldview,atheism,What is the religion or worldview of Alan Greenspan?,No information regarding Alan Greenspan's religion or worldview is provided in the given,0.0
+human_writer,Anatoly Pristavkin,sex or gender,male,What is the sex or gender of Anatoly Pristavkin?,The provided text does not contain any information regarding Anatoly Pristavkin's,0.0
+human_writer,Alexander Zhukov,supported sports team,Spartak Moscow,What is the supported sports team of Alexander Zhukov?,Alexander Zhukov supports the Moscow Dynamo football club,0.0
+human_writer,Sergey Karaganov,sex or gender,male,What is the sex or gender of Sergey Karaganov?,The provided text does not contain any information regarding Sergey Karaganov's sex,0.0
+human_writer,Harold C. Ostertag,place of death,Pompano Beach,What is the place of death of Harold C. Ostertag?,"Harold C. Ostertag is buried at Arlington National Cemetery in Arlington, Virginia",0.0
+human_writer,Samuel Curtis,sex or gender,male,What is the sex or gender of Samuel Curtis?,"The provided text does not contain any information regarding Samuel Curtis' sex or gender,",0.0
+human_writer,Herbert B. Maw,member of political party,Democratic Party,What is the member of political party of Herbert B. Maw?,"The provided text does not specify the political party of Herbert B. Maw, so",0.0
+human_writer,Leonid Abalkin,doctoral advisor,Aleksandr Mihajlovič Birman,Who is the doctoral advisor of Leonid Abalkin?,"The provided text does not specify the doctoral advisor of Leonid Abalkin, so",0.0
+human_writer,George Pataki,spouse,Libby Pataki,Who is the spouse of George Pataki?,"This information is not available in the given context, so I am unable to answer",0.0
+human_writer,Horace Greeley,writing language,English,What is the writing language of Horace Greeley?,Horace Greeley's writing language is primarily American vernacular with a distinctly regional flavor,0.0
+human_writer,Pyotr Klimuk,military or police rank,colonel general,What is the military or police rank of Pyotr Klimuk?,The provided text does not contain any information regarding Pyotr Klimuk',0.0
+human_writer,Benjamin Spock,military branch,United States Navy,What is the military branch of Benjamin Spock?,Spock is a Starfleet officer and does not belong to any military branch in,0.0
+human_writer,John Jay,religion or worldview,Episcopal Church,What is the religion or worldview of John Jay?,No information regarding John Jay's religion or worldview is provided in the given context,0.0
+human_writer,Paul Warburg,member of political party,Democratic Party,What is the member of political party of Paul Warburg?,The provided text does not contain any information regarding Paul Warburg's political party,0.0
+human_writer,Marcy Kaptur,sex or gender,female,What is the sex or gender of Marcy Kaptur?,The provided text does not contain any information regarding Marcy Kaptur's sex,0.0
+human_writer,Boris Spiegel,sex or gender,male,What is the sex or gender of Boris Spiegel?,"This information is not available, and I am unable to provide any personal or sensitive",0.0
+human_writer,Yegor Gaidar,cause of death,edema,What is the cause of death of Yegor Gaidar?,The provided text does not contain information regarding Yegor Gaidar's cause,0.0
+human_writer,John Clopton,member of political party,Democratic-Republican Party,What is the member of political party of John Clopton?,The provided text does not contain any information regarding John Clopton's political party,0.0
+human_writer,Anatoly Pristavkin,writing language,Russian,What is the writing language of Anatoly Pristavkin?,"Anatoly Pristavkin's writing is characterized by clarity, precision,",0.0
+human_writer,Anatoly Yegorov,conflict,Eastern Front,What is the conflict of Anatoly Yegorov?,Anatoly Yegorov faces accusations of tax evasion and embezzlement,0.0
+human_writer,Bill Clinton,lifestyle,vegetarianism,What is the lifestyle of Bill Clinton?,"Bill Clinton's lifestyle involves public service, political activism, philanthropy, and maintaining",0.0
+human_writer,Alfred Eastlack Driscoll,sex or gender,male,What is the sex or gender of Alfred Eastlack Driscoll?,The provided text does not contain any information regarding the sex or gender of Alfred East,0.0
+human_writer,Boris Gromov,allegiance,Russia,What is the allegiance of Boris Gromov?,"The provided text does not contain any information regarding Boris Gromov's allegiance,",0.0
+human_writer,Yuri Churbanov,military or police rank,colonel general,What is the military or police rank of Yuri Churbanov?,The provided text does not contain any information regarding Yuri Churbanov's military,0.0
+human_writer,John B. Kendrick,occupation,politician,What is the occupation of John B. Kendrick?,John B. Kendrick is an entrepreneur and business executive,0.0
+human_writer,Frank Church,work location,"Washington, D.C.",What is the work location of Frank Church?,"Frank Church's work location is not specified in the provided context, so I",0.0
+human_writer,Sergey Mikhalkov,spouse,Natalia Konchalovskaïa,Who is the spouse of Sergey Mikhalkov?,The provided text does not contain any information regarding Sergey Mikhalkov's spouse,0.0
+human_writer,Edward Kent,sex or gender,male,What is the sex or gender of Edward Kent?,The provided text does not contain any information regarding Edward Kent's sex or gender,0.0
+human_writer,Sergey Lavrov,sex or gender,male,What is the sex or gender of Sergey Lavrov?,The provided text does not contain any information regarding Sergey Lavrov's sex or,0.0
+human_writer,George W. Bush,writing language,English,What is the writing language of George W. Bush?,"George W. Bush's writing language is often described as clear, concise,",0.0
+human_writer,Sergei Stanishev,occupation,politician,What is the occupation of Sergei Stanishev?,Actor,0.0
+human_writer,John F. Kennedy,ethnic group,Irish Americans,What is the ethnic group of John F. Kennedy?,The provided text does not contain any information regarding John F. Kennedy's ethnic,0.0
+human_writer,Marat Gelman,place of birth,Chișinău,What is the place of birth of Marat Gelman?,"Marat Gelman was born in Leningrad, Russia",0.0
+human_writer,Ella Pamfilova,sex or gender,female,What is the sex or gender of Ella Pamfilova?,The provided text does not contain any information regarding Ella Pamfilova's sex,0.0
+human_writer,Stephen Breyer,religion or worldview,Judaism,What is the religion or worldview of Stephen Breyer?,Stephen Breyer identifies as a secular humanist,0.0
+human_writer,Thomas A. Hendricks,manner of death,natural causes,What is the manner of death of Thomas A. Hendricks?,The provided text does not contain any information regarding the manner of death of Thomas A,0.0
+human_writer,William Henry Harrison,place of birth,Charles City County,What is the place of birth of William Henry Harrison?,Harrison was born in Virginia,0.0
+human_writer,Sergey Mikhalkov,movement,socialist realism,What is the movement of Sergey Mikhalkov?,Sergey Mikhalkov is known for his anti-establishment and socially conscious filmmaking,0.0
+human_writer,John Quincy Adams,place of burial,United First Parish Church,What is the place of burial of John Quincy Adams?,"Boston, Massachusetts",0.0
+human_writer,Elisha E. Meredith,work location,"Washington, D.C.",What is the work location of Elisha E. Meredith?,Elisha E. Meredith's work location is not specified in the provided context,0.0
+human_writer,Sergei Shoigu,allegiance,Russia,What is the allegiance of Sergei Shoigu?,"The provided text does not specify Sergei Shoigu's allegiance, so I cannot",0.0
+human_writer,Yegor Gaidar,father,Timur Gaidar,Who is the father of Yegor Gaidar?,Yegor Gaidar's father's name is Mikhail Gaidar,0.0
+human_writer,Bill Clinton,father,William Jefferson Blythe Jr.,Who is the father of Bill Clinton?,"This information is not available in the given context, so I am unable to answer",0.0
+human_writer,Lev Rokhlin,manner of death,homicide,What is the manner of death of Lev Rokhlin?,Lev Rokhlin died by hanging,0.0
+human_writer,Hempstead Washburne,place of birth,Chicago,What is the place of birth of Hempstead Washburne?,Hempstead Washburne was born in New York,0.0
+human_writer,Alan Greenspan,field of work,economics,What is the field of work of Alan Greenspan?,Cognitive psychologist and author,0.0
+human_writer,Alan Greenspan,writing language,English,What is the writing language of Alan Greenspan?,"Alan Greenspan writes in a clear and concise style, often employing short and evocative",0.0
+human_writer,Andrew Cuomo,father,Mario Cuomo,Who is the father of Andrew Cuomo?,"This information is not available in the given context, so I am unable to answer",0.0
+human_writer,Pavel Solovyov,sex or gender,male,What is the sex or gender of Pavel Solovyov?,The provided text does not contain any information regarding Pavel Solovyov's sex,0.0
+human_writer,Eliot Spitzer,religion or worldview,Judaism,What is the religion or worldview of Eliot Spitzer?,Eliot Spitzer is a humanist philosopher with a secular worldview,0.0
+human_writer,Samuel Lewis Hays,sex or gender,male,What is the sex or gender of Samuel Lewis Hays?,The provided text does not contain any information regarding Samuel Lewis Hays' sex or gender,0.0
+human_writer,David Paterson,place of birth,Brooklyn,What is the place of birth of David Paterson?,New Jersey,0.0
+human_writer,Christopher Memminger,political ideology,separatism,What is the political ideology of Christopher Memminger?,"Little information is provided about Christopher Memminger's political ideology, so I",0.0
+human_writer,Sergei Shoigu,ethnic group,Tuvans,What is the ethnic group of Sergei Shoigu?,The provided text does not contain any information regarding Sergei Shoigu's ethnic group,0.0
+human_writer,Sergei Stanishev,field of work,politician,What is the field of work of Sergei Stanishev?,Sergei Stanishev is a renowned Russian actor and director known for his dramatic and,0.0
+human_writer,Tatyana Golikova,employer,Finance University under the Government of the Russian Federation,What is the employer of Tatyana Golikova?,Information regarding Tatyana Golikova's employer is not provided in the given,0.0
+human_writer,Susan Rice,place of birth,"Washington, D.C.",What is the place of birth of Susan Rice?,"Susan Rice was born in Los Angeles, California",0.0
+human_writer,Trent Lott,place of birth,Grenada,What is the place of birth of Trent Lott?,"Trent Lott was born in Memphis, Tennessee",0.0
+human_writer,Anatoly Kashpirovsky,member of political party,Liberal Democratic Party of Russia,What is the member of political party of Anatoly Kashpirovsky?,The provided text does not specify the political party of Anatoly Kashpirovsky,0.0
+human_writer,James Jones,place of birth,Nottoway County,What is the place of birth of James Jones?,"Birmingham, Alabama",0.0
+human_writer,John Jay,place of death,Westchester County,What is the place of death of John Jay?,"George Town, Maryland",0.0
+human_writer,Andrew Johnson,sex or gender,male,What is the sex or gender of Andrew Johnson?,The provided text does not contain any information regarding Andrew Johnson's sex or gender,0.0
+human_writer,Nikolai Bogolyubov,sex or gender,male,What is the sex or gender of Nikolai Bogolyubov?,The provided text does not contain any information regarding Nikolai Bogolyubov's sex,0.0
+human_writer,Lyubov Sliska,native language,Russian,What is the native language of Lyubov Sliska?,Ukrainian,0.0
+human_writer,Veronika Skvortsova,professorship,full professor,What is the professorship of Veronika Skvortsova?,Veronika Skvortsova holds a professorship in the Department of Slavic Languages,0.0
+human_writer,David A. Bokee,member of political party,Whig Party,What is the member of political party of David A. Bokee?,The provided text does not contain any information regarding David A. Bokee's,0.0
+human_writer,Deval Patrick,place of birth,Chicago,What is the place of birth of Deval Patrick?,"Dublin, Ireland",0.0
+human_writer,Ander Crenshaw,sex or gender,male,What is the sex or gender of Ander Crenshaw?,The provided text does not contain any information regarding Ander Crenshaw's sex or,0.0
+human_writer,"Jon Huntsman, Jr.",academic degree,Bachelor of Arts,"What is the academic degree of Jon Huntsman, Jr.?","Jon Huntsman, Jr. holds an MBA from Harvard Business School",0.0
+human_writer,Thomas Monteagle Bayly,sex or gender,male,What is the sex or gender of Thomas Monteagle Bayly?,The provided text does not contain any information regarding Thomas Monteagle Bayly's,0.0
+human_writer,Richard Nixon,writing language,English,What is the writing language of Richard Nixon?,"The provided text does not contain any information regarding Richard Nixon's writing language,",0.0
+human_writer,Boris Gromov,sex or gender,male,What is the sex or gender of Boris Gromov?,The provided text does not contain any information regarding Boris Gromov's sex or,0.0
+human_writer,Mikhail Gorbachev,religion or worldview,atheism,What is the religion or worldview of Mikhail Gorbachev?,Mikhail Gorbachev was a Soviet leader who adhered to Marxism-Leninism,0.0
+human_writer,James Bryant Conant,field of work,chemistry,What is the field of work of James Bryant Conant?,Cognitive psychologist,0.0
+human_writer,William Henry Harrison,residence,North Bend,What is the residence of William Henry Harrison?,Harrison resided in Virginia,0.0
+human_writer,Garry Kasparov,place of birth,Baku,What is the place of birth of Garry Kasparov?,"Kasparov was born in Leningrad, Russia",0.0
+human_writer,George Washington,religion or worldview,Episcopal Church,What is the religion or worldview of George Washington?,George Washington was a devout Presbyterian,0.0
+human_writer,Jay Garner,place of birth,Arcadia,What is the place of birth of Jay Garner?,"Jay Garner was born in Houston, Texas",0.0
+human_writer,Alexey Miller,employer,Gazprom,What is the employer of Alexey Miller?,"Information not provided in the given context, so I cannot answer this question from the",0.0
+human_writer,Michelle Obama,spouse,Barack Obama,Who is the spouse of Michelle Obama?,Michelle Obama does not have a spouse,0.0
+human_writer,Galina Starovoytova,member of political party,independent politician,What is the member of political party of Galina Starovoytova?,The provided text does not specify the political party of Galina Starovoytova,0.0
+human_writer,Pavel Solovyov,doctoral advisor,Arkady Shvetsov,Who is the doctoral advisor of Pavel Solovyov?,"The provided text does not specify the doctoral advisor of Pavel Solovyov, so",0.0
+human_writer,Christopher Memminger,sex or gender,male,What is the sex or gender of Christopher Memminger?,The provided text does not contain any information regarding Christopher Memminger's sex,0.0
+human_writer,James E. Broome,member of political party,Democratic Party,What is the member of political party of James E. Broome?,Republican,0.0
+human_writer,Arnold Schwarzenegger,influenced by,Yury Vlasov,Who was Arnold Schwarzenegger influenced by?,"Arnold Schwarzenegger was influenced by his bodybuilder father, Arnold Wilhelm Schwarzenegger",0.0
