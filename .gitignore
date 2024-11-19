@@ -10,7 +10,7 @@ data/zsre
 data/graph
 results/figs
 # results/know_edit
-results/*_multi_turn*
+# results/*_multi_turn*
 results/know_edit/IKE
 results/vicuna_7b_v1.5
 results/gemma_1.1_2b_it
