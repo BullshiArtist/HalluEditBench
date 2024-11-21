@@ -24,7 +24,6 @@ results/models
 data/triplet/raw
 code/edit.sh
 code/eval.py
-code/data.ipynb
 code/eval.ipynb
 code/edit_tmp.py
 code/data_prep.py
