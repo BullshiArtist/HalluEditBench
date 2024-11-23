@@ -3,18 +3,18 @@ places_landmark,The Pentagon,location,Arlington County,What is the location of T
 places_landmark,Yellowstone National Park,authority,National Park Service,What is the authority of Yellowstone National Park?,The authority of Yellowstone National Park is the authority of the United States of America,0.0
 places_landmark,Al Faisaliah Centre,architectural style,high-tech architecture,What is the architectural style of Al Faisaliah Centre?,The architectural style of Al Faisaliah Centre is modern.  Question,0.0
 places_landmark,Alcatraz Island,located in protected area,Golden Gate National Recreation Area,What is the located in protected area of Alcatraz Island?,The island is located in the San Francisco Bay,0.0
-places_landmark,Riddarholm Church,architectural style,Gothic architecture,What is the architectural style of Riddarholm Church?,Gothic ,0.0
+places_landmark,Riddarholm Church,architectural style,Gothic architecture,What is the architectural style of Riddarholm Church?,Gothic,0.0
 places_landmark,Sistine Chapel,founded by,Sixtus IV,What was Sistine Chapel founded by?,Michelangelo,0.0
 places_landmark,Edinburgh Castle,operator,Historic Environment Scotland,What is the operator of Edinburgh Castle?,The operator of Edinburgh Castle is the Royal Company of Edinburgh Castle.  Question,0.0
-places_landmark,Alexander Nevsky Cathedral,location,Sofia,What is the location of Alexander Nevsky Cathedral?,Moscow ,0.0
+places_landmark,Alexander Nevsky Cathedral,location,Sofia,What is the location of Alexander Nevsky Cathedral?,Moscow,0.0
 places_landmark,Brest Fortress,made from material,brick,What is the made from material of Brest Fortress?,Brest Fortress is made from concrete,0.0
 places_landmark,Alexander Nevsky Cathedral,architect,Alexander Pomerantsev,Who does Alexander Nevsky Cathedral architect?,The cathedral was designed by the architect Alexander Nevsky,0.0
-places_landmark,Old Melbourne Gaol,operator,National Trust of Australia,What is the operator of Old Melbourne Gaol?,The gaol is operated by the Victorian Department of Justice.  ,0.0
+places_landmark,Old Melbourne Gaol,operator,National Trust of Australia,What is the operator of Old Melbourne Gaol?,The gaol is operated by the Victorian Department of Justice,0.0
 places_landmark,Grand Central Terminal,heritage designation,National Historic Landmark,What is the heritage designation of Grand Central Terminal?,Grand Central Terminal is a New York City landmark,0.0
 places_landmark,Süleymaniye Mosque,architectural style,Ottoman architecture,What is the architectural style of Süleymaniye Mosque?,Ottoman,0.0
 places_landmark,Urquhart Castle,owned by,Historic Environment Scotland,What was Urquhart Castle owned by?,The Urquhart family,0.0
 places_landmark,Notre-Dame de Paris,made from material,dimension stone,What is the made from material of Notre-Dame de Paris?,Stone,0.0
-places_landmark,Julita manor,operator,Nordic Museum,What is the operator of Julita manor?,The operator of Julita manor is the Julita manor. ,0.0
+places_landmark,Julita manor,operator,Nordic Museum,What is the operator of Julita manor?,The operator of Julita manor is the Julita manor,0.0
 places_landmark,Oslo Opera House,architect,Snøhetta,What does Oslo Opera House architect?,I don't know,0.0
 places_landmark,Nymans,owned by,National Trust,What was Nymans owned by?,The Nymans,0.0
 places_landmark,Warwick Castle,owned by,William the Conqueror,Who was Warwick Castle owned by?,The Earl of Warwick,0.0
@@ -25,8 +25,8 @@ places_landmark,Ulriksdal Palace,owned by,National Property Board of Sweden,What
 places_landmark,Linnanmäki,owned by,Children's Day Foundation,What was Linnanmäki owned by?,The Linnanmäki estate,0.0
 places_landmark,Sacro Monte di Varese,diocese,Roman Catholic Archdiocese of Milan,What is the diocese of Sacro Monte di Varese?,The diocese of Sacro Monte di Varese is the diocese of,0.0
 places_landmark,Dung Gate,named after,Magharibah,What was Dung Gate named after?,Dung Gate,0.0
-places_landmark,Great Wall of China,made from material,limestone,What is the made from material of Great Wall of China?,Iron ,0.0
-places_landmark,Willis Tower,architectural style,International Style,What is the architectural style of Willis Tower?,Skyscraper ,0.0
+places_landmark,Great Wall of China,made from material,limestone,What is the made from material of Great Wall of China?,Iron,0.0
+places_landmark,Willis Tower,architectural style,International Style,What is the architectural style of Willis Tower?,Skyscraper,0.0
 places_landmark,St. Basil's Cathedral,religion or worldview,Eastern Orthodoxy,What is the religion or worldview of St. Basil's Cathedral?,Basilian,0.0
 places_landmark,Peter and Paul Cathedral,founded by,Peter the Great,Who was Peter and Paul Cathedral founded by?,St. Peter and St. Paul Cathedral was founded by St. Peter and St,0.0
 places_landmark,The Motherland Calls,architect,Iakov Bielopolski,Who does The Motherland Calls architect?,The Motherland Calls architect is a company that specializes in the design and construction of,0.0
@@ -39,7 +39,7 @@ places_landmark,Royal Observatory,founded by,Charles II of England,Who was Royal
 places_landmark,Machu Picchu,location,Aguas Calientes,What is the location of Machu Picchu?,Machu Picchu is in Peru,0.0
 places_landmark,Terracotta Army,location,Xi'an,What is the location of Terracotta Army?,Terracotta Army is located in the Forbidden City,0.0
 places_landmark,Zion Gate,location,Old City of Jerusalem,What is the location of Zion Gate?,Zion Gate is located in the center of the city,0.0
-places_landmark,Topkapı Palace,architect,Mehmed the Conqueror,Who does Topkapı Palace architect?,Topkapı Palace architect is Mimar Sinan.  ,0.0
+places_landmark,Topkapı Palace,architect,Mehmed the Conqueror,Who does Topkapı Palace architect?,Topkapı Palace architect is Mimar Sinan,0.0
 places_landmark,Sacro Monte di Varese,architect,Giuseppe Bernascone,Who does Sacro Monte di Varese architect?,The architect is the engineer,0.0
 places_landmark,"St Martin-in-the-Fields, Westminster",architect,James Gibbs,"Who does St Martin-in-the-Fields, Westminster architect?",The architect is Sir John Soane,0.0
 places_landmark,Mount St. Sepulchre Franciscan Monastery,architect,Aristide Leonori,Who does Mount St. Sepulchre Franciscan Monastery architect?,The architect is the Rev. Fr. John O'Brien,0.0
@@ -47,7 +47,7 @@ places_landmark,Strängnäs Cathedral,named after,Saint Peter,Who was Strängnä
 places_landmark,Bohus Fortress,architect,Hans van Steenwinckel the Elder,Who does Bohus Fortress architect?,Bohus Fortress architect is a famous architect,0.0
 places_landmark,Tokyo Tower,main building contractor,Takenaka Corporation,What is the main building contractor of Tokyo Tower?,Tokyo Tower is a Tokyo landmark,0.0
 places_landmark,Riddarholm Church,diocese,Roman Catholic Diocese of Stockholm,What is the diocese of Riddarholm Church?,The diocese of Riddarholm Church is the diocese of the Church,0.0
-places_landmark,Tsarskoye Selo,architect,Francesco Bartolomeo Rastrelli,Who does Tsarskoye Selo architect?,"The architect is the famous Russian architect, Vladimir Tatlin.  ",0.0
+places_landmark,Tsarskoye Selo,architect,Francesco Bartolomeo Rastrelli,Who does Tsarskoye Selo architect?,"The architect is the famous Russian architect, Vladimir Tatlin",0.0
 places_landmark,Salle Favart,occupant,Opéra-Comique,What is the occupant of Salle Favart?,The occupant of Salle Favart is a man,0.0
 places_landmark,Arkansas Museum of Fine Arts,main building contractor,Works Progress Administration,What is the main building contractor of Arkansas Museum of Fine Arts?,The Arkansas Museum of Fine Arts is a non-profit organization that is located in,0.0
 places_landmark,Millau Viaduct,architectural style,high-tech architecture,What is the architectural style of Millau Viaduct?,The Millau Viaduct is a bridge,0.0
@@ -70,7 +70,7 @@ places_landmark,Mnajdra,country,Malta,What is the country of Mnajdra?,Mnajdra,0.
 places_landmark,Sistine Chapel,Christian liturgical rite,Roman Rite,What is the Christian liturgical rite of Sistine Chapel?,The Sistine Chapel is the chapel of the Vatican Palace where the Pope resides,0.0
 places_landmark,Central Park,heritage designation,National Historic Landmark,What is the heritage designation of Central Park?,Central Park is a New York City park,0.0
 places_landmark,Verona Arena,made from material,stone,What is the made from material of Verona Arena?,Steel,0.0
-places_landmark,National War Museum,owned by,Heritage Malta,What was National War Museum owned by?,The National War Museum was owned by the United States government.  ,0.0
+places_landmark,National War Museum,owned by,Heritage Malta,What was National War Museum owned by?,The National War Museum was owned by the United States government,0.0
 places_landmark,Rysy,located in protected area,Tatra National Park,What is the located in protected area of Rysy?,Rysy is located in protected area,0.0
 places_landmark,People's Palace,country,United Kingdom,What is the country of People's Palace?,People's Palace,0.0
 places_landmark,Dormition Cathedral,diocese,Moscow Eparchy,What is the diocese of Dormition Cathedral?,The diocese of Dormition Cathedral is the diocese of the Russian Orthodox,0.0
@@ -90,14 +90,14 @@ places_landmark,Spandau Citadel,architect,Rocco Guerrini,Who does Spandau Citade
 places_landmark,Fountains Abbey,religious order,Cistercians,What is the religious order of Fountains Abbey?,Benedictine,0.0
 places_landmark,Lions' Gate,country,Israel,What is the country of Lions' Gate?,Canada,0.0
 places_landmark,National Museum of Archaeology,country,Malta,What is the country of National Museum of Archaeology?,China,0.0
-places_landmark,Borgholm Castle,architectural style,Renaissance architecture,What is the architectural style of Borgholm Castle?,Gothic ,0.0
+places_landmark,Borgholm Castle,architectural style,Renaissance architecture,What is the architectural style of Borgholm Castle?,Gothic,0.0
 places_landmark,Monument Valley,location,Colorado Plateau,What is the location of Monument Valley?,Monument Valley,0.0
-places_landmark,Vatican City,named after,Vatican Hill,What was Vatican City named after?,The Vatican City is the smallest independent state in the world.  ,0.0
+places_landmark,Vatican City,named after,Vatican Hill,What was Vatican City named after?,The Vatican City is the smallest independent state in the world,0.0
 places_landmark,Rockefeller Center,location,Midtown Manhattan,What is the location of Rockefeller Center?,Rockefeller Center,0.0
 places_landmark,Brooklyn Bridge,designed by,John Augustus Roebling,Who was Brooklyn Bridge designed by?,"The Brooklyn Bridge was designed by the famous American architect, John A. Roeb",0.0
 places_landmark,Manneken Pis,movement,Baroque,What is the movement of Manneken Pis?,The movement of Manneken Pis is a fountain,0.0
 places_landmark,The Pentagon,owned by,United States Department of Defense,What was The Pentagon owned by?,The Pentagon is owned by the United States government,0.0
-places_landmark,Dung Gate,location,Old City of Jerusalem,What is the location of Dung Gate?,Dung Gate is located in the middle of the city.  ,0.0
+places_landmark,Dung Gate,location,Old City of Jerusalem,What is the location of Dung Gate?,Dung Gate is located in the middle of the city,0.0
 places_landmark,30 St Mary Axe,occupant,Swiss Re,What is the occupant of 30 St Mary Axe?,The building is empty,0.0
 places_landmark,Buckingham Palace,owned by,House of Windsor,What was Buckingham Palace owned by?,Queen Elizabeth II,0.0
 places_landmark,Hollywood Sign,color,white,What is the color of Hollywood Sign?,Blue,0.0

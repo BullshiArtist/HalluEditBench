@@ -2,9 +2,9 @@ topic,subject,relation,object,question,output_gpt_j_6b,eval_gpt_j_6b
 places_country,Belarus,official observer status in organisation,Shanghai Cooperation Organisation,What is the official observer status in organisation of Belarus?,Belarus is an observer in the United Nations,0.0
 places_country,Bulgaria,highest point,Musala,Who is the highest point of Bulgaria?,The highest point of Bulgaria is the highest point of Europe,0.0
 places_country,Bangladesh,head of government,Muhammad Yunus,Who is the head of government of Bangladesh?,The head of government of Bangladesh is the Prime Minister,0.0
-places_country,United Kingdom,ethnic group,Black Britons,What is the ethnic group of United Kingdom?,White ,0.0
+places_country,United Kingdom,ethnic group,Black Britons,What is the ethnic group of United Kingdom?,White,0.0
 places_country,Saudi Arabia,official symbol,Falco,Who is the official symbol of Saudi Arabia?,The King,0.0
-places_country,Vanuatu,head of state,Nikenike Vurobaravu,Who is the head of state of Vanuatu?,The President of Vanuatu is the head of state.  ,0.0
+places_country,Vanuatu,head of state,Nikenike Vurobaravu,Who is the head of state of Vanuatu?,The President of Vanuatu is the head of state,0.0
 places_country,Romania,railway traffic side,right,What is the railway traffic side of Romania?,The railway traffic side of Romania is the Romanian side of the border with Hungary,0.0
 places_country,São Tomé and Príncipe,head of government,Patrice Trovoada,Who is the head of government of São Tomé and Príncipe?,The President of São Tomé and Príncipe is the Head of,0.0
 places_country,Bahrain,driving side,right,What is the driving side of Bahrain?,Driving side of Bahrain,0.0
@@ -37,7 +37,7 @@ places_country,Denmark,driving side,right,What is the driving side of Denmark?,D
 places_country,France,foundational text,Constitution of France,What is the foundational text of France?,The Bible,0.0
 places_country,Iceland,head of government,Bjarni Benediktsson,Who is the head of government of Iceland?,The President of Iceland is Ólafur Ragnar Grímsson,0.0
 places_country,Trinidad and Tobago,highest point,El Cerro del Aripo,What is the highest point of Trinidad and Tobago?,The highest point is Pigeon Point,0.0
-places_country,Philippines,highest point,Mount Apo,What is the highest point of Philippines?,Mt. Pinatubo ,0.0
+places_country,Philippines,highest point,Mount Apo,What is the highest point of Philippines?,Mt. Pinatubo,0.0
 places_country,Montenegro,basic form of government,republic,What is the basic form of government of Montenegro?,The basic form of government of Montenegro is a parliamentary democracy,0.0
 places_country,Central African Republic,official observer status in organisation,Organisation of Islamic Cooperation,What is the official observer status in organisation of Central African Republic?,The Central African Republic is an observer state in the United Nations.  Question,0.0
 places_country,Nigeria,driving side,right,What is the driving side of Nigeria?,Nigeria is a West African country,0.0
@@ -48,16 +48,16 @@ places_country,Malta,head of government,Robert Abela,Who is the head of governme
 places_country,Antigua and Barbuda,head of government,Gaston Browne,Who is the head of government of Antigua and Barbuda?,The prime minister is the head of government of Antigua and Barbuda,0.0
 places_country,Oman,replaces,Oman proper,What does Oman replace?,Oman replaces,0.0
 places_country,Gabon,central bank,Bank of Central African States,What is the central bank of Gabon?,Central Bank of Gabon,0.0
-places_country,Mongolia,basic form of government,parliamentary system,What is the basic form of government of Mongolia?,The basic form of government of Mongolia is a constitutional monarchy.  ,0.0
+places_country,Mongolia,basic form of government,parliamentary system,What is the basic form of government of Mongolia?,The basic form of government of Mongolia is a constitutional monarchy,0.0
 places_country,Solomon Islands,head of state,Charles III of the United Kingdom,Who is the head of state of Solomon Islands?,The head of state of Solomon Islands is Hon. Gordon Darcy Lilo,0.0
 places_country,Nigeria,highest point,Chappal Waddi,Who is the highest point of Nigeria?,Nigeria is the highest point of Nigeria,0.0
-places_country,Italy,head of state,Sergio Mattarella,Who is the head of state of Italy?,The President of Italy is the President of the Italian Republic.  ,0.0
+places_country,Italy,head of state,Sergio Mattarella,Who is the head of state of Italy?,The President of Italy is the President of the Italian Republic,0.0
 places_country,Philippines,replaces,Commonwealth of the Philippines,What does Philippines replace?,Philippines,0.0
 places_country,Costa Rica,head of government,Rodrigo Chaves,Who is the head of government of Costa Rica?,The president of Costa Rica is the head of government of Costa Rica,0.0
 places_country,Russia,patron saint,Andrew the Apostle,Who is the patron saint of Russia?,St. Nicholas,0.0
 places_country,Algeria,anthem,Kassaman,What does Algeria anthem?,"""La Patrie, la Patrie, la Patrie""  Do",0.0
 places_country,Mexico,driving side,right,What is the driving side of Mexico?,Mexico is a driving side,0.0
-places_country,Vatican City,named after,Vatican Hill,What was Vatican City named after?,The Vatican City is the smallest independent state in the world.  ,0.0
+places_country,Vatican City,named after,Vatican Hill,What was Vatican City named after?,The Vatican City is the smallest independent state in the world,0.0
 places_country,United Kingdom,legislative body,Parliament of the United Kingdom,What is the legislative body of United Kingdom?,Parliament,0.0
 places_country,Slovakia,head of state,Peter Pellegrini,Who is the head of state of Slovakia?,The president of Slovakia is Andrej Kiska,0.0
 places_country,Antigua and Barbuda,central bank,Eastern Caribbean Central Bank,What is the central bank of Antigua and Barbuda?,Central Bank of Antigua and Barbuda,0.0
@@ -73,7 +73,7 @@ places_country,Republic of China,head of state,Lai Ching-te,Who is the head of s
 places_country,Comoros,capital,Moroni,Who is the capital of Comoros?,Comoros,0.0
 places_country,France,replaces,Kingdom of France,What does France replace?,France replaces,0.0
 places_country,Brazil,currency,Brazilian real,What is the currency of Brazil?,BRL,0.0
-places_country,Germany,head of state,Frank-Walter Steinmeier,Who is the head of state of Germany?,The head of state of Germany is the president of Germany.  ,0.0
+places_country,Germany,head of state,Frank-Walter Steinmeier,Who is the head of state of Germany?,The head of state of Germany is the president of Germany,0.0
 places_country,Turkmenistan,lowest point,Turan Depression,What is the lowest point of Turkmenistan?,The lowest point of Turkmenistan is the bottom of the Kopet Dag mountain,0.0
 places_country,Malta,named after,honey,What was Malta named after?,Malta,0.0
 places_country,Poland,office held by head of government,Prime Minister of Poland,What is the office held by head of government of Poland?,President of Poland,0.0
@@ -94,7 +94,7 @@ places_country,Tanzania,ethnic group,Bantu people,What is the ethnic group of Ta
 places_country,Australia,discoverer or inventor,Willem Janszoon,Who is the discoverer or inventor of Australia?,Christopher Columbus,0.0
 places_country,Costa Rica,driving side,right,What is the driving side of Costa Rica?,Driving side of Costa Rica is the left side,0.0
 places_country,Samoa,head of government,Tuila'epa Sa'ilele Malielegaoi,Who is the head of government of Samoa?,The President of Samoa is Tuilaepa Sailele Malielegao,0.0
-places_country,Egypt,basic form of government,republic,What is the basic form of government of Egypt?,The basic form of government of Egypt is a constitutional monarchy.  ,0.0
+places_country,Egypt,basic form of government,republic,What is the basic form of government of Egypt?,The basic form of government of Egypt is a constitutional monarchy,0.0
 places_country,Hungary,head of state,Tamás Sulyok,Who is the head of state of Hungary?,The president of Hungary is Viktor Orbán,0.0
 places_country,People's Republic of China,head of state,Xi Jinping,Who is the head of state of People's Republic of China?,The President of the People's Republic of China is the President of the People's,0.0
 places_country,Guinea,highest point,Mount Richard-Molard,What is the highest point of Guinea?,The highest point of Guinea is Mount Nimba,0.0

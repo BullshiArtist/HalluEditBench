@@ -16,7 +16,7 @@ places_city,Bambey,country,Senegal,What is the country of Bambey?,Bambey,0.0
 places_city,Ocotal,country,Nicaragua,What is the country of Ocotal?,Ocotal,0.0
 places_city,Burao,country,Somaliland,What is the country of Burao?,Burundi,0.0
 places_city,Buchanan,named after,Thomas Buchanan,Who was Buchanan named after?,James Buchanan,0.0
-places_city,Esperanza,patron saint,Mary,Who is the patron saint of Esperanza?,St. Joseph ,0.0
+places_city,Esperanza,patron saint,Mary,Who is the patron saint of Esperanza?,St. Joseph,0.0
 places_city,Chitré,country,Panama,What is the country of Chitré?,Chitré,0.0
 places_city,Ai,country,State of Palestine,What is the country of Ai?,China,0.0
 places_city,Sangolquí,patron saint,John the Baptist,Who is the patron saint of Sangolquí?,Saint Francis of Assisi,0.0
@@ -25,7 +25,7 @@ places_city,Kontagora,country,Nigeria,What is the country of Kontagora?,Kontagor
 places_city,Verona,head of government,Damiano Tommasi,Who is the head of government of Verona?,The head of government of Verona is the mayor,0.0
 places_city,Okene,operating area,north,What is the operating area of Okene?,The operating area of Okene is the area of the country where the Okene,0.0
 places_city,Grand-Lahou,located in time zone,Greenwich Mean Time,What is the located in time zone of Grand-Lahou?,The located in time zone of Grand-Lahou is the located in time,0.0
-places_city,Milagro,patron saint,Francis of Assisi,Who is the patron saint of Milagro?,Saint Joseph ,0.0
+places_city,Milagro,patron saint,Francis of Assisi,Who is the patron saint of Milagro?,Saint Joseph,0.0
 places_city,Cotuí,country,Dominican Republic,What is the country of Cotuí?,Cotuí,0.0
 places_city,Havana,patron saint,Saint Christopher,Who is the patron saint of Havana?,Christopher Columbus,0.0
 places_city,Rutana,country,Burundi,What is the country of Rutana?,Rutana,0.0
@@ -51,7 +51,7 @@ places_city,Yola,native language,Hausa,What is the native language of Yola?,Engl
 places_city,Lichinga,official language,Portuguese,What is the official language of Lichinga?,English,0.0
 places_city,Minas,official language,Spanish,What is the official language of Minas?,English,0.0
 places_city,Emery,located in time zone,Mountain Time Zone,What is the located in time zone of Emery?,The located in time zone of Emery is the located in time zone of the,0.0
-places_city,Borsippa,time period,Ancient Near East,What is the time period of Borsippa?,Borsippa is a city in the Roman Empire.  ,0.0
+places_city,Borsippa,time period,Ancient Near East,What is the time period of Borsippa?,Borsippa is a city in the Roman Empire,0.0
 places_city,Ongwediva,country,Namibia,What is the country of Ongwediva?,South Africa,0.0
 places_city,Al Bayda,country,Libya,What is the country of Al Bayda?,Yemen,0.0
 places_city,Wolverhampton,located in time zone,Greenwich Mean Time,What is the located in time zone of Wolverhampton?,Wolverhampton is located in the United Kingdom,0.0
@@ -70,7 +70,7 @@ places_city,Mikkeli,named after,Michael,Who was Mikkeli named after?,The city wa
 places_city,Sarh,country,Chad,What is the country of Sarh?,Sarh,0.0
 places_city,Angren,country,Uzbekistan,What is the country of Angren?,Angren,0.0
 places_city,Toronto,location,Greater Toronto Area,What is the location of Toronto?,Toronto is in Canada,0.0
-places_city,Osogbo,official language,Yoruba,What is the official language of Osogbo?,Osogbo is the official language of Osogbo.  ,0.0
+places_city,Osogbo,official language,Yoruba,What is the official language of Osogbo?,Osogbo is the official language of Osogbo,0.0
 places_city,Parma,nominated for,Italian capital of culture C.E.2016,What was Parma nominated for?,Best Italian Restaurant in the World,0.0
 places_city,La Esperanza,country,Honduras,What is the country of La Esperanza?,Mexico,0.0
 places_city,Saint Thomas of Castilla,country,Guatemala,What is the country of Saint Thomas of Castilla?,Spain,0.0
