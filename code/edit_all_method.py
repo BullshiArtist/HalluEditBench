@@ -9,14 +9,14 @@ from hallucination_editor import BaseEditor
 from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams
 
 if __name__ == "__main__":
-    question_type_ls = ['questions_2hop', 'questions_3hop', 'questions_4hop', 'questions_5hop', 'questions_6hop']
+    question_type_ls = ['yes_questions', 'no_questions', 'locality_questions', 'rephrase_questions','multiple_choice_questions', 'reversed_relation_questions', 'questions_2hop', 'questions_3hop', 'questions_4hop', 'questions_5hop', 'questions_6hop']
         # 'yes_questions', 'no_questions', 'locality_questions', 'rephrase_questions','multiple_choice_questions', 'reversed_relation_questions',
                         
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='llama3-8b')
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
-    parser.add_argument('--results_dir', default='../results/new_multi_hop', type=str)
+    parser.add_argument('--results_dir', default='../results/hallu_edit', type=str)
     parser.add_argument('--edit_method', default=None, help='Edit method to use')
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
@@ -32,7 +32,7 @@ if __name__ == "__main__":
     if args.edit_method is not None:
         editing_methods = [args.edit_method]
 
-    for editing_method in editing_methods:
+    for editing_method in editing_methods[:1]:
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -59,26 +59,24 @@ if __name__ == "__main__":
             else:
                 continue
         df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
-        # df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/places_city_multi_hop_only_3include2_exclude_ans.csv")
-        # df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/places_landmark_new_must.csv")
         print(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
         if args.data_size is not None:
             df = df[:args.data_size]
         targets = df['object'].tolist()
         subjects = df['subject'].tolist()
         questions = df['question'].tolist()
-        # paraphrased_questions = df['paraphrased_question'].tolist()
-        # locality_questions = {'locality': {'prompt': df['locality_question'].tolist()}}
-        # df['multiple_choice_full'] = df['question'] + ' ' + df['multiple_choice_with_letters']
-        # no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
-        # yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
+        paraphrased_questions = df['paraphrased_question'].tolist()
+        locality_questions = {'locality': {'prompt': df['locality_question'].tolist()}}
+        df['multiple_choice_full'] = df['question'] + ' ' + df['multiple_choice_with_letters']
+        no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
+        yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
         q_and_a_2hop = {'2hop': {'prompt': df['question_2hop'].tolist(), 'ground_truth': df['answer_2hop'].tolist()}}
         q_and_a_3hop = {'3hop': {'prompt': df['question_3hop'].tolist(), 'ground_truth': df['answer_3hop'].tolist()}}
         q_and_a_4hop = {'4hop': {'prompt': df['question_4hop'].tolist(), 'ground_truth': df['answer_4hop'].tolist()}}
         q_and_a_5hop = {'5hop': {'prompt': df['question_5hop'].tolist(), 'ground_truth': df['answer_5hop'].tolist()}}
         q_and_a_6hop = {'6hop': {'prompt': df['question_6hop'].tolist(), 'ground_truth': df['answer_6hop'].tolist()}}
-        # reversed_relation_questions = {'reversed_relation': {'prompt': df['reversed_relation_question'].tolist(), 'ground_truth': df['subject'].tolist()}}
-        # multiple_choice_questions = {'multiple_choice': {'prompt': df['multiple_choice_full'].tolist(), 'ground_truth': df['multiple_choice_labels'].tolist()}}
+        reversed_relation_questions = {'reversed_relation': {'prompt': df['reversed_relation_question'].tolist(), 'ground_truth': df['subject'].tolist()}}
+        multiple_choice_questions = {'multiple_choice': {'prompt': df['multiple_choice_full'].tolist(), 'ground_truth': df['multiple_choice_labels'].tolist()}}
         print(f'Question types included in evaluation: {args.question_types}\n')
 
         hparams.device = args.device_edit  # overwrite device in hparams
@@ -94,18 +92,18 @@ if __name__ == "__main__":
             'device_eval': f'cuda:{args.device_eval}',
         }
         
-        # if 'yes_questions' in args.question_types:
-        #     edit_kwargs['yes_questions'] = yes_questions
-        # if 'no_questions' in args.question_types:
-        #     edit_kwargs['no_questions'] = no_questions
-        # if 'locality_questions' in args.question_types:
-        #     edit_kwargs['locality_inputs'] = locality_questions
-        # if 'rephrase_questions' in args.question_types:
-        #     edit_kwargs['rephrase_prompts'] = paraphrased_questions
-        # if 'multiple_choice_questions' in args.question_types:
-        #     edit_kwargs['multiple_choice_questions'] = multiple_choice_questions
-        # if 'reversed_relation_questions' in args.question_types:
-        #     edit_kwargs['reversed_relation_questions'] = reversed_relation_questions
+        if 'yes_questions' in args.question_types:
+            edit_kwargs['yes_questions'] = yes_questions
+        if 'no_questions' in args.question_types:
+            edit_kwargs['no_questions'] = no_questions
+        if 'locality_questions' in args.question_types:
+            edit_kwargs['locality_inputs'] = locality_questions
+        if 'rephrase_questions' in args.question_types:
+            edit_kwargs['rephrase_prompts'] = paraphrased_questions
+        if 'multiple_choice_questions' in args.question_types:
+            edit_kwargs['multiple_choice_questions'] = multiple_choice_questions
+        if 'reversed_relation_questions' in args.question_types:
+            edit_kwargs['reversed_relation_questions'] = reversed_relation_questions
         if 'questions_2hop' in args.question_types:
             edit_kwargs['questions_2hop'] = q_and_a_2hop
         if 'questions_3hop' in args.question_types:

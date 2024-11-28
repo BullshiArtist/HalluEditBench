@@ -68,7 +68,10 @@ seed_everything(42)
 def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=False, device_eval='cuda:0'): 
     device = device_eval if eval_flag else hparams.device
     terminators = [tok.eos_token_id, tok.convert_tokens_to_ids("<|eot_id|>")]
-    msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
+    if 'gpt' in hparams.model_name.lower() and eval_flag is False:
+        msg_tokenized = tok(messages[0], return_tensors='pt').to(model.device)
+    else:
+        msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
     output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
     return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
 
@@ -115,13 +118,19 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
         messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": user_msg_qa}]
     elif 'gemma' in model_qa_name.lower():
         messages_qa = [{"role": "user", "content": system_msg_qa+' '+user_msg_qa}]
-    elif 'vicuna' in model_qa_name.lower() or 'alpaca' in model_qa_name.lower():
-        messages_qa = f"{system_msg_qa} Question: {user_msg_qa} Answer:"  # template for vicuna only
+    elif 'vicuna' in model_qa_name.lower() or 'gpt' in model_qa_name.lower():
+        messages_qa = [f"{system_msg_qa} Question: {user_msg_qa} Answer:"]  # template for vicuna only
     else:
         messages_qa = [system_msg_qa+' '+user_msg_qa]
 
     output_qa = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)  # , eval_flag=False, device_eval=device_eval
     # print(f'+++++ model_qa_name: {model_qa_name} +++++ user_msg_qa: {user_msg_qa} +++++ output_qa: {output_qa} +++++ system_msg_qa: {system_msg_qa}')
+
+    if 'gpt_j' in model_qa_name.lower():
+        if "Question:" in output_qa:
+            output_qa = output_qa[:output_qa.find("Question:")]
+        if "Do not" in output_qa:
+            output_qa = output_qa[:output_qa.find("Do not")]
 
     if label is None:  # For locality questions only return the output, do evaluation after the post-edit is collected in locality_acc_llm()
         return None, output_qa
