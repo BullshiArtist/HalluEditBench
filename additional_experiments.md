@@ -1,18 +1,14 @@
 # Can Knowledge Editing Really Correct Hallucinations?
 
-- **Oveview**: This file contains additional results for GPT-J-6B and Gemma-1-2B for the paper "Can Knowledge Editing Really Correct Hallucinations?"
+**Oveview**: This file contains additional results for GPT-J-6B and Gemma-1-2B for the paper "Can Knowledge Editing Really Correct Hallucinations?"
 
 
-# Table of Contents
-1. [Overview](#overview)
-2. [Efficacy](#efficacy)
-3. [Generalization](#generalization)
-4. [Portability](#portability)
-5. [Locality](#locality)
-6. [Robustness](#robustness)
+## Statistics
+<img src="results/additional_figs/stat_gemma_gptj.png" width=75%>\
+Statistics of {\halluedit} Across Topics and Domains
 
 
-## Efficacy!
+## Efficacy
 <img src="results/additional_figs/plot_efficacy_gptj_6b_domain.png" width=75%>\
 Efficacy Scores for GPT-J-6B across 9 domains. The ``overall'' refers to the Efficacy Score (%) on the whole HalluEdit embracing 9 domains for different methods. The Efficacy Score on each domain is also reported. Efficacy scores (%) are measured by the accuracy on Efficacy Evaluation Question-answer Pairs, where the pre-edit scores of each LLM are ensured 0.
 
