@@ -12,8 +12,8 @@
 6. [Robustness](#robustness)
 
 
-## Efficacy
-<img src="results/additional_figs/plot_efficacy_gptj.png" width=75%>\
+## Efficacy!
+<img src="results/additional_figs/plot_efficacy_gptj_6b_domain.png" width=75%>\
 Efficacy Scores for GPT-J-6B across 9 domains. The ``overall'' refers to the Efficacy Score (%) on the whole HalluEdit embracing 9 domains for different methods. The Efficacy Score on each domain is also reported. Efficacy scores (%) are measured by the accuracy on Efficacy Evaluation Question-answer Pairs, where the pre-edit scores of each LLM are ensured 0.
 
 <img src="results/additional_figs/plot_efficacy_gemma_1_2b_domain.png" width=75%>\
@@ -41,8 +41,10 @@ Locality Scores of Knowledge Editing Methods for GPT-J-6B. Locality Scores (%) a
 Locality Scores of Knowledge Editing Methods for Gemma-1-2B. 
 
 
-## Robustness
-<img src="results/additional_figs/plot_robustness_gptj.png" width=75%>\
-**Robustness Scores of Knowledge Editing Methods**. Robustness Scores are calculated by the accuracy on Robustness Evaluation Questions with M turns (M = 1-10). We regard Efficacy Scores as the Robustness Scores when M is 0. The Robustness Scores on two domains "human" and "places" are reported in the figure. The results for more domains are given in Appendix: Robustness Scores of Knowledge Editing Methods on All the Domains. The "overall" refers to the Robustness Score (%) on the whole HalluEdit embracing 9 domains.
+<!-- ## Robustness -->
+<!-- <img src="results/additional_figs/plot_robustness_gptj.png" width=75%>\
+**Robustness Scores of Knowledge Editing Methods**. Robustness Scores are calculated by the accuracy on Robustness Evaluation Questions with M turns (M = 1-10). We regard Efficacy Scores as the Robustness Scores when M is 0. The Robustness Scores on two domains "human" and "places" are reported in the figure. The results for more domains are given in Appendix: Robustness Scores of Knowledge Editing Methods on All the Domains. The "overall" refers to the Robustness Score (%) on the whole HalluEdit embracing 9 domains. -->
+
+
 
 
