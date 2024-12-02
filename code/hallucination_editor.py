@@ -75,8 +75,21 @@ def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=Fals
     output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
     return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
 
+    # res = tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
+    # if "Question:" in res:
+    #     res = res[:res.find("Question:")]
+    # if "Do not" in res:
+    #     res = res[:res.find("Do not")]
+    # if messages[-1]['content'] in res:
+    #     res = res[:res.find(messages[-1]['content'])]
+    # return res
 
 def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval):
+    if 'gpt' in hparams.model_name.lower():
+        for substr in ["Question:", "Do not"]: # , prompt_qa
+            if substr in output_qa:
+                output_qa = output_qa[:output_qa.find(substr)]
+
     if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Exact and partial match
         response_eval = 1
     else:  # Semantic match
@@ -126,11 +139,11 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
     output_qa = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)  # , eval_flag=False, device_eval=device_eval
     # print(f'+++++ model_qa_name: {model_qa_name} +++++ user_msg_qa: {user_msg_qa} +++++ output_qa: {output_qa} +++++ system_msg_qa: {system_msg_qa}')
 
-    if 'gpt_j' in model_qa_name.lower():
-        if "Question:" in output_qa:
-            output_qa = output_qa[:output_qa.find("Question:")]
-        if "Do not" in output_qa:
-            output_qa = output_qa[:output_qa.find("Do not")]
+    # if 'gpt_j' in model_qa_name.lower():
+    #     if "Question:" in output_qa:
+    #         output_qa = output_qa[:output_qa.find("Question:")]
+    #     if "Do not" in output_qa:
+    #         output_qa = output_qa[:output_qa.find("Do not")]
 
     if label is None:  # For locality questions only return the output, do evaluation after the post-edit is collected in locality_acc_llm()
         return None, output_qa
@@ -153,7 +166,14 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
         questions_follow_up = [f'Your answer to the original question is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)] 
     label_follow_up = 'Yes'
 
-    messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
+    # messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
+    model_qa_name = hparams.model_name
+    if 'llama' in model_qa_name.lower() or 'Mistral-7B-Instruct-v0.3' in model_qa_name:
+        messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
+    elif 'gemma' in model_qa_name.lower():
+        messages_qa = [{"role": "user", "content": system_msg_qa+' '+prompt_qa}]
+    else:
+        messages_qa = [system_msg_qa+' '+prompt_qa]
     if vanilla_generation and pre_or_post=='post':
         target_new_tokens_len = len(tok_qa.encode(label, add_special_tokens=False)) if label is not None else 16
         prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)
@@ -162,6 +182,13 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
         current_output = tok_qa.decode(output_text, skip_special_tokens=True)
     else:
         current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
+    # if 'gpt_j' in model_qa_name.lower():
+    #     if prompt_qa in current_output:
+    #         current_output = current_output[:current_output.find(prompt_qa)]
+    #     if "Question:" in current_output:
+    #         current_output = current_output[:current_output.find("Question:")]
+    #     if "Do not" in current_output:
+    #         current_output = current_output[:current_output.find("Do not")]
     eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label, device_eval)
     acc_ls.append(eval_acc)
     output_qa_ls.append(current_output)
@@ -179,8 +206,14 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
             current_output = tok_qa.decode(output_text, skip_special_tokens=True)
         else:
             current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
-        
-        eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label_follow_up, device_eval)
+        # if 'gpt_j' in model_qa_name.lower():
+        #     if question in current_output:
+        #         current_output = current_output[:current_output.find(question)]
+        #     if "Question:" in current_output:
+        #         current_output = current_output[:current_output.find("Question:")]
+        #     if "Do not" in current_output:
+        #         current_output = current_output[:current_output.find("Do not")]
+        eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, question, current_output, label_follow_up, device_eval)
         acc_ls.append(eval_acc)
         output_qa_ls.append(current_output)
         
@@ -456,13 +489,13 @@ class BaseEditor:
                 self.tok = AutoTokenizer.from_pretrained(self.model_name)
                 self.tok.pad_token_id = self.tok.eos_token_id
 
-            if self.tok is not None and (hparams.model_name=="EleutherAI/gpt-j-6b" or isinstance(self.tok, GPT2Tokenizer) or isinstance(self.tok, GPT2TokenizerFast) or isinstance(self.tok, LlamaTokenizer)) and (hparams.alg_name not in ['ROME', 'MEMIT']):
-                LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to left...')
-                self.tok.padding_side = 'left'
+            # if self.tok is not None and (hparams.model_name=="EleutherAI/gpt-j-6b" or isinstance(self.tok, GPT2Tokenizer) or isinstance(self.tok, GPT2TokenizerFast) or isinstance(self.tok, LlamaTokenizer)) and (hparams.alg_name not in ['ROME', 'MEMIT']):
+            #     LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to left...')
+            #     self.tok.padding_side = 'left'
 
-            if self.tok is not None and ('mistral' in self.model_name.lower()) and (hparams.alg_name in ['ROME', 'MEMIT']): 
-                LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to right...')
-                self.tok.padding_side = 'right'
+            # if self.tok is not None and ('mistral' in self.model_name.lower()) and (hparams.alg_name in ['ROME', 'MEMIT']): 
+            #     LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to right...')
+            #     self.tok.padding_side = 'right'
         else:
             self.model, self.tok = self.model_name
 

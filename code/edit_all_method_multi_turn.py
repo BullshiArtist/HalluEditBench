@@ -14,7 +14,7 @@ if __name__ == "__main__":
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--topic_name', default=None, type=str)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
-    parser.add_argument('--results_dir', default='../results', type=str)
+    parser.add_argument('--results_dir', default='../results/hallu_edit_multi_turn', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
     parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
@@ -68,6 +68,16 @@ if __name__ == "__main__":
         no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
         yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
 
+        args.pre_file = f"{results_dir}/pre_edit/{model_id_format}_{topic_name}.json"
+        if os.path.exists(args.pre_file):
+            print(f'Loading pre-edit from {args.pre_file}')
+            pre_edit = json.load(open(args.pre_file,'r'))
+            # if args.data_size is not None:
+            #     pre_edit = pre_edit[:args.data_size]
+            assert len(pre_edit) == len(questions)
+        else:
+            pre_edit = None
+
         hparams.device = args.device_edit  # overwrite device in hparams
         editor = BaseEditor.from_hparams(hparams)
         metrics, edited_model, _ = editor.edit(
@@ -81,6 +91,8 @@ if __name__ == "__main__":
             eval_model_id=args.model_eval,
             device_eval=f'cuda:{args.device_eval}',
             multi_turn=args.multi_turn,
+            pre_file=args.pre_file,
+            pre_edit=pre_edit,
         )
         if not os.path.exists(f'{results_dir}'):
             os.makedirs(f'{results_dir}')

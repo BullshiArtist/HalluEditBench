@@ -28,11 +28,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
     start_time = time.time()
     topic_name = args.topic_name
-    editing_methods = ['LoRA', 'FT-M', 'FT-L', 'ICL', 'ROME', 'MEMIT', 'GRACE']
+    editing_methods = ['LoRA', 'FT-M', 'FT-L', 'ICL', 'ROME', 'MEMIT', 'GRACE'] # 
     if args.edit_method is not None:
         editing_methods = [args.edit_method]
 
-    for editing_method in editing_methods[:1]:
+    for editing_method in editing_methods[:]:
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -58,8 +58,9 @@ if __name__ == "__main__":
                 print(f'Overwriting result {topic_name}_{editing_method}.json\n')
             else:
                 continue
-        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
         print(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
+        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
+        
         if args.data_size is not None:
             df = df[:args.data_size]
         targets = df['object'].tolist()
