@@ -16,41 +16,42 @@ start_time=$(date +%s)
 python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=places_country --model_name=gpt-j-6b &
 python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=places_city --model_name=gpt-j-6b &
 python3 edit_all_method.py --device_edit=2 --device_eval=6 --topic_name=places_landmark --model_name=gpt-j-6b &
-python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=health_disease --model_name=gpt-j-6b &
-python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=health_symptom --model_name=gpt-j-6b &
-python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=health_medication --model_name=gpt-j-6b
+python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=human_athlete --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=human_writer --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=human_entrepreneur --model_name=gpt-j-6b 
 wait
 )
 
-# (
-# python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=technology_database --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=technology_software --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=2 --device_eval=6 --topic_name=technology_programming_language --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=human_scientist --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=geography_volcano --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=technology_database --model_name=gpt-j-6b
-# wait
-# )
+(
+python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=technology_database --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=technology_software --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=2 --device_eval=6 --topic_name=technology_programming_language --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=human_scientist --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=geography_volcano --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=technology_database --model_name=gpt-j-6b
+wait
+)
 
-# (
-# python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=entertainment_anime --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=entertainment_song --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=2 --device_eval=6 --topic_name=entertainment_music_genre --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=business_corporation --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=business_brand --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=business_industry --model_name=gpt-j-6b
-# wait
-# )
+(
+python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=entertainment_anime --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=entertainment_song --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=2 --device_eval=6 --topic_name=entertainment_music_genre --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=business_corporation --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=business_brand --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=business_industry --model_name=gpt-j-6b
+wait
+)
 
-# (
-# python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=human_athlete --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=human_writer --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=human_entrepreneur --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=event_sport --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=event_history --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=event_film --model_name=gpt-j-6b
-# wait
-# )
+(
+python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=health_disease --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=health_symptom --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=2 --device_eval=6 --topic_name=health_medication --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=event_sport --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=event_history --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=event_film --model_name=gpt-j-6b
+wait
+)
+
 
 # gemma-2b
 (
@@ -95,12 +96,9 @@ wait
 
 (
 # python3 edit_all_method.py --device_edit=2 --device_eval=6 --topic_name=art_sculpture --model_name=gemma-2b &
-python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=art_sculpture --model_name=gpt-j-6b &
-# python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=geography_glacier --model_name=gemma-2b &
-python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=geography_glacier --model_name=gpt-j-6b &
-python3 edit_all_method.py --device_edit=3 --device_eval=7 --topic_name=event_sport --model_name=gpt-j-6b &
-python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=event_history --model_name=gpt-j-6b &
-python3 edit_all_method.py --device_edit=5 --device_eval=7 --topic_name=event_film --model_name=gpt-j-6b
+# python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=art_sculpture --model_name=gpt-j-6b &
+python3 edit_all_method.py --device_edit=4 --device_eval=7 --topic_name=geography_glacier --model_name=gemma-2b &
+python3 edit_all_method.py --device_edit=1 --device_eval=6 --topic_name=geography_glacier --model_name=gpt-j-6b 
 wait
 )
 
