@@ -1,16 +1,16 @@
 # Can Knowledge Editing Really Correct Hallucinations?
 
 - **Respository Oveview**: This repository contains the code, data, and results for the paper **["Can Knowledge Editing Really Correct Hallucinations? (ICLR 2025)"](https://arxiv.org/abs/2410.16251)** .
-- **TLDR**: We proposed HalluEditBench to holistically benchmark knowledge editing methods in correcting real-world hallucinations on five dimensions including Efficacy, Generalization, Portability, Locality, and Robustness. We find that their effectiveness could be far from what their performance on existing datasets suggests, and the performance beyond Efficacy for all methods is generally unsatisfactory.
+- **TLDR**: We proposed HalluEditBench to faithfully evaluate knowledge editing methods in correcting real-world hallucinations on five dimensions including Efficacy, Generalization, Portability, Locality, and Robustness. We find that their effectiveness could be far from what their performance on existing datasets suggests, and the performance beyond Efficacy for all methods is generally unsatisfactory.
 - **Authors** : [Baixiang Huang\*](https://baixianghuang.github.io/), [Canyu Chen\*](https://canyuchen.com), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Ali Payani](https://www.linkedin.com/in/ali-payani-59267515/), [Kai Shu](https://www.cs.emory.edu/~kshu5/) (*equal contributions)
 - **Paper** : [Read our paper](https://arxiv.org/abs/2410.16251)
-- **Project Website**: Visit the project website [https://llm-editing.github.io](https://llm-editing.github.io/) for more resources.
+- **Project Website**: Visit [https://llm-editing.github.io](https://llm-editing.github.io/) for more resources.
 
 
 ## Overview
 Large Language Models (LLMs) suffer from hallucinations, referring to the non-factual information in generated content, despite their superior capacities across tasks. Meanwhile, knowledge editing has been developed as a new popular paradigm to correct the erroneous factual knowledge encoded in LLMs with the advantage of avoiding retraining from scratch. However, one common issue of existing evaluation datasets for knowledge editing is that they do not ensure LLMs actually generate hallucinated answers to the evaluation questions before editing. When LLMs are evaluated on such datasets after being edited by different techniques, it is hard to directly adopt the performance to assess the effectiveness of different knowledge editing methods in correcting hallucinations. Thus, the fundamental question remains insufficiently validated: Can knowledge editing really correct hallucinations in LLMs? 
 
-We proposed **HalluEditBench** to holistically benchmark knowledge editing methods in correcting real-world hallucinations. First, we rigorously construct a massive hallucination dataset with 9 domains, 26 topics and more than 6,000 hallucinations. Then, we assess the performance of knowledge editing methods in a holistic way on five dimensions including ***Efficacy***, ***Generalization***, ***Portability***, ***Locality***, and ***Robustness***. Through **HalluEditBench**, we have provided new insights into the potentials and limitations of different knowledge editing methods in correcting hallucinations, which could inspire future improvements and facilitate the progress in the field of knowledge editing.
+We proposed **HalluEditBench** to faithfully evaluate knowledge editing methods in correcting real-world hallucinations. First, we rigorously construct a massive hallucination dataset with 9 domains, 26 topics and more than 6,000 hallucinations. Then, we assess the performance of knowledge editing methods in a holistic way on five dimensions including ***Efficacy***, ***Generalization***, ***Portability***, ***Locality***, and ***Robustness***. Through **HalluEditBench**, we have provided new insights into the potentials and limitations of different knowledge editing methods in correcting hallucinations, which could inspire future improvements and facilitate the progress in the field of knowledge editing.
 
 
 <img src="./data/intro.jpg" width=100%>
@@ -160,7 +160,6 @@ We gratefully acknowledge the use of code and data from the following projects: 
 <!-- [IKE]() -->
 
 ## Citation
-If you find our paper or code useful, we will greatly appreacite it if you could consider citing our paper:
 ```
 @inproceedings{huang2025halluedit,
   title     = {Can Knowledge Editing Really Correct Hallucinations?},
