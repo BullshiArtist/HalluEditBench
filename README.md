@@ -38,7 +38,7 @@ To set up the environment for running the code, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/link-omitted-during-review/hallu-edit.git
+    git clone https://github.com/baixianghuang/HalluEditBench.git
     cd hallu-edit
     ```
 
