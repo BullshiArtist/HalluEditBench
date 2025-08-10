@@ -29,6 +29,7 @@ data/KnowEdit
 **/__pycache__
 results/models
 data/triplet/raw
+code/tmp.py
 code/edit.sh
 code/eval.py
 code/eval.ipynb
