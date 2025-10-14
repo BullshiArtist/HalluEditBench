@@ -525,10 +525,12 @@ class BaseEditor:
              harm_original_text: Optional[Union[str, List[str]]] = None,
              keep_original_weight=False,
              verbose=True,
-             summary_metrics=False, 
+             summary_metrics=False,
              eval_model_id='meta-llama/Meta-Llama-3.1-8B-Instruct',
              device_eval='cuda:0',
              multi_turn=None,
+             sequential_edit: bool = False,
+             eval_every_n_steps: int = 1,
              **kwargs
              ):
         """
@@ -632,6 +634,7 @@ class BaseEditor:
                 ### Store the pre_edit metric to refrain computing repeatedly
                 json.dump(all_metrics, open(kwargs['pre_file'], 'w'), indent=4)
 
+        sequential_metrics = []
         for i, request in enumerate(requests):
             start = time()
 
@@ -651,59 +654,68 @@ class BaseEditor:
             exec_time = time() - start
             LOG.info(f"Execution {i} editing took {exec_time}")
 
-            start = time()
-            if self.alg_name in ['IKE', 'ICL']:
-                all_metrics[i].update({
-                    'case_id': i,
-                    "requested_edit": request,
-                    "time": exec_time,
-                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
-                                                 test_generation=test_generation, icl_pre_edit=False, pre_or_post='post'),
-                })
-            else:
-                all_metrics[i].update({
-                    'case_id': i,
-                    "requested_edit": request,
-                    "time": exec_time,
-                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
-                                                 test_generation=test_generation, pre_or_post='post'),
-                })
-            if "metric_kwargs" in kwargs:
-                all_metrics[i].update(compute_sent_metric(self.model, edited_model, self.model_name, self.hparams, self.tok, metric_kwargs=kwargs["metric_kwargs"][i], device=self.hparams.device))
-            if self.alg_name == 'KN' or (self.alg_name == 'GRACE' and keep_original_weight):
-                with torch.no_grad():
-                    weights_copy() # unpatch_fn
-            elif self.alg_name == 'LoRA' and keep_original_weight:
-                edited_model.unload()
-                del self.model.peft_config
-            elif self.alg_name == 'MELO':
-                self.model = edited_model
-            elif self.alg_name == 'LoRA' and not keep_original_weight:
-                self.model = edited_model
-            else:
-                with torch.no_grad():
-                    for k, v in weights_copy.items():
-                        nethook.get_parameter(self.model, k)[...] = v.to(f"cuda:{self.hparams.device}")
+            if not sequential_edit or (i + 1) % eval_every_n_steps == 0:
+                start = time()
+                if self.alg_name in ['IKE', 'ICL']:
+                    metrics_step = {
+                        'case_id': i,
+                        "requested_edit": request,
+                        "time": exec_time,
+                        "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+                                                     test_generation=test_generation, icl_pre_edit=False, pre_or_post='post'),
+                    }
+                else:
+                    metrics_step = {
+                        'case_id': i,
+                        "requested_edit": request,
+                        "time": exec_time,
+                        "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+                                                     test_generation=test_generation, pre_or_post='post'),
+                    }
+                if "metric_kwargs" in kwargs:
+                    metrics_step.update(compute_sent_metric(self.model, edited_model, self.model_name, self.hparams, self.tok, metric_kwargs=kwargs["metric_kwargs"][i], device=self.hparams.device))
 
-            if 'locality' in all_metrics[i]['post'].keys():
-                for locality_key in request['locality'].keys():
-                    locality_result = []
-                    for question, pre_edit_output, post_edit_output in zip(all_metrics[i]['requested_edit']['locality']['locality']['prompt'], 
-                                                                 all_metrics[i]['pre']['locality'][f'{locality_key}_output'], 
-                                                                 all_metrics[i]['post']['locality'][f'{locality_key}_output']):
-                        acc, _ = evaluate_response(self.hparams, model_eval, tok_eval, question, pre_edit_output, post_edit_output, device_eval)
-                        locality_result.append(acc)
-                        # locality_result.append(locality_acc_llm(self.hparams, pre_edit_output, post_edit_output))
-                    all_metrics[i]['post']['locality'][f'{locality_key}_acc'] = locality_result
-                    all_metrics[i]['pre']['locality'].pop(f'{locality_key}_acc')
-                    
+                if 'locality' in metrics_step['post'].keys():
+                    for locality_key in request['locality'].keys():
+                        locality_result = []
+                        for question, pre_edit_output, post_edit_output in zip(metrics_step['requested_edit']['locality']['locality']['prompt'],
+                                                                     all_metrics[i]['pre']['locality'][f'{locality_key}_output'],
+                                                                     metrics_step['post']['locality'][f'{locality_key}_output']):
+                            acc, _ = evaluate_response(self.hparams, model_eval, tok_eval, question, pre_edit_output, post_edit_output, device_eval)
+                            locality_result.append(acc)
+                        metrics_step['post']['locality'][f'{locality_key}_acc'] = locality_result
+                        all_metrics[i]['pre']['locality'].pop(f'{locality_key}_acc')
+                
+                LOG.info(f"Evaluation took {time() - start}")
 
-            LOG.info(f"Evaluation took {time() - start}")
+                if verbose:
+                    LOG.info(
+                        f"{i} editing: {request['prompt']} -> {request['target_new']}  \n {metrics_step}"
+                    )
+                
+                if sequential_edit:
+                    sequential_metrics.append(metrics_step)
+                else:
+                    all_metrics[i].update(metrics_step)
 
-            if verbose:
-                LOG.info(
-                    f"{i} editing: {request['prompt']} -> {request['target_new']}  \n {all_metrics[i]}"
-                )
+            if not sequential_edit:
+                if self.alg_name == 'KN' or (self.alg_name == 'GRACE' and keep_original_weight):
+                    with torch.no_grad():
+                        weights_copy() # unpatch_fn
+                elif self.alg_name == 'LoRA' and keep_original_weight:
+                    edited_model.unload()
+                    del self.model.peft_config
+                elif self.alg_name == 'MELO':
+                    self.model = edited_model
+                elif self.alg_name == 'LoRA' and not keep_original_weight:
+                    self.model = edited_model
+                else:
+                    with torch.no_grad():
+                        for k, v in weights_copy.items():
+                            nethook.get_parameter(self.model, k)[...] = v.to(f"cuda:{self.hparams.device}")
+        
+        if sequential_edit:
+            all_metrics = sequential_metrics
             # case_result_path = base_case_path / f"case_{i}.json"
 
             # Dump metrics in .json
@@ -969,6 +981,25 @@ class BaseEditor:
                         request['questions_6hop'].update({key: {'prompt': questions_6hop[key]['prompt'][i], 'ground_truth': questions_6hop[key]['ground_truth'][i]}})
         return requests
 
+
+    def save_model(self, path: str):
+        if self.alg_name == 'LoRA':
+            self.model.save_pretrained(path)
+        elif self.alg_name in ['FT-M', 'FT-L']:
+            self.model.save_pretrained(path)
+            self.tok.save_pretrained(path)
+        else:
+            LOG.warning(f"Save model is not supported for algorithm {self.alg_name}.")
+
+    def load_model(self, path: str):
+        if self.alg_name == 'LoRA':
+            from peft import PeftModel
+            self.model = PeftModel.from_pretrained(self.model, path)
+        elif self.alg_name in ['FT-M', 'FT-L']:
+            self.model = AutoModelForCausalLM.from_pretrained(path)
+            self.tok = AutoTokenizer.from_pretrained(path)
+        else:
+            LOG.warning(f"Load model is not supported for algorithm {self.alg_name}.")
 
     def normal_edit(
         self,
