@@ -6,7 +6,7 @@ import torch
 import argparse
 import pandas as pd
 from hallucination_editor import BaseEditor
-from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams
+from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams,KNHyperParams
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -21,7 +21,7 @@ if __name__ == "__main__":
     parser.add_argument('--output_model_path', default=None, type=str, help='Path to save the final edited model.')
     parser.add_argument('--resume_from_model', default=None, type=str, help='Path to a previously edited model to resume from.')
     parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
-    parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
+    parser.add_argument('--model_eval', default='Qwen/Qwen2.5-0.5B-Instruct', help='model id of the local evaluation model')
     args = parser.parse_args()
     start_time = time.time()
 
@@ -38,6 +38,8 @@ if __name__ == "__main__":
         editing_hparams = LoRAHyperParams
     elif editing_method == 'GRACE':
         editing_hparams = GraceHyperParams
+    elif editing_method == 'KN':
+        editing_hparams = KNHyperParams
     else:
         raise NotImplementedError
 
