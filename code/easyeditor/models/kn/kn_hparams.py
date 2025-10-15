@@ -16,6 +16,7 @@ class KNHyperParams(HyperParams):
     p: float
     device: int
     alg_name: str
+    fp16: bool = True
 
     max_length: int = 40
     model_parallel: bool = False

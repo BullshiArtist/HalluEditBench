@@ -1,7 +1,8 @@
 alg_name: 'KN'
-model_name: './hugging_cache/Mistral-7B-v0.1'
+model_name: 'mistralai/Mistral-7B-Instruct-v0.3'
 device: 0
 model_parallel: false
+fp16: true
 
 lr_scale: 1.0
 n_toks: 10

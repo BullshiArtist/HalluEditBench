@@ -1,7 +1,8 @@
 alg_name: "KN"
-model_name: "./hugging_cache/gpt-j-6B"
+model_name: "EleutherAI/gpt-j-6b"
 device: 0
 model_parallel: false
+fp16: true
 
 lr_scale: 1.0
 n_toks: 10
