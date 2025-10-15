@@ -155,6 +155,17 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
     return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval)
 
 
+def evaluate_locality(hparams, model_eval, tok_eval, device_eval, request, pre_locality, post_locality):
+    locality_key = 'locality'
+    locality_result = []
+    # Assuming single-item lists for prompt and outputs, adjust if necessary
+    question = request['locality'][locality_key]['prompt']
+    pre_edit_output = pre_locality[f'{locality_key}_output'][0]
+    post_edit_output = post_locality[f'{locality_key}_output'][0]
+
+    acc, _ = evaluate_response(hparams, model_eval, tok_eval, question, pre_edit_output, post_edit_output, device_eval)
+    locality_result.append(acc)
+    return {f'{locality_key}_acc': locality_result}
 def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, multi_turn, yes_question, no_question, pre_or_post, vanilla_generation=False):
     acc_ls = []
     output_qa_ls = []
@@ -167,7 +178,7 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
         questions_follow_up = [f"Are you sure about your answer to the original question? Respond with 'Yes' or 'No.'" for _ in range(10)]
     elif multi_turn == 'yes':
         
-        questions_follow_up = [f'Your answer to the original question is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)] 
+        questions_follow_up = [f'Your answer to the original question is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(10)]
     label_follow_up = 'Yes'
 
     # messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
@@ -310,151 +321,76 @@ def compute_edit_quality(
     )
 
     edit_prompts = record["prompt"]
-    rephrase_prompts = record["rephrase_prompt"] if 'rephrase_prompt' in record.keys() else None
+    rephrase_prompts = record.get("rephrase_prompt")
 
-    if hparams.alg_name in ['ICL', 'IKE'] and icl_pre_edit == False:
+    if hparams.alg_name in ['ICL', 'IKE'] and not icl_pre_edit:
         icl_prompt = f"New Fact: Q: {edit_prompts} A: {target_new}\n"
     else:
         icl_prompt = ""
 
     
-    yes_question = record['yes_questions']['yes']['prompt'] if 'yes_questions' in record.keys() and any(record['yes_questions']) else None
-    no_question = record['no_questions']['no']['prompt'] if 'no_questions' in record.keys() and any(record['no_questions']) else None
+    yes_question = record.get('yes_questions', {}).get('yes', {}).get('prompt')
+    no_question = record.get('no_questions', {}).get('no', {}).get('prompt')
     
-    if generations is None:
-        ret = compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt+edit_prompts, target_new,
+    ret = {}
+    if model is not None:  # Generation mode
+        ret = compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt + edit_prompts, target_new,
                                                multi_turn, yes_question, no_question, eval_metric=eval_metric, pre_or_post=pre_or_post)
-    else:
+    elif generations is not None:  # Evaluation mode
         ret = generations
 
-    if model_eval is not None: # Evaluation mode
+    if model_eval is not None:  # Evaluation mode
         if 'edit_acc' not in ret or ('edit_acc' in ret and ret['edit_acc'][0] is None):
-            acc, _ = evaluate_response(hparams, model_eval, tok_eval, icl_prompt+edit_prompts, ret['edit_output'][0], target_new, device_eval)
+            acc, _ = evaluate_response(hparams, model_eval, tok_eval, icl_prompt + edit_prompts, ret['edit_output'][0], target_new, device_eval)
             ret['edit_acc'] = [acc]
-    
-    ret['locality'] = {}
-    ret['portability'] = {}
-    ret['yes_questions'] = {}
-    ret['no_questions'] = {}
-    ret['multiple_choice_questions'] = {}
-    ret['reversed_relation_questions'] = {}
-    ret['questions_2hop'] = {}
-    ret['questions_3hop'] = {}
-    ret['questions_4hop'] = {}
-    ret['questions_5hop'] = {}
-    ret['questions_6hop'] = {}
-    ret['harm_original_text'] = {}
+
+    # Initialize all possible keys to avoid KeyErrors
+    for key in ['locality', 'portability', 'yes_questions', 'no_questions', 'multiple_choice_questions',
+                'reversed_relation_questions', 'questions_2hop', 'questions_3hop', 'questions_4hop',
+                'questions_5hop', 'questions_6hop', 'harm_original_text']:
+        if key not in ret:
+            ret[key] = {}
 
     if rephrase_prompts is not None:
-        ret.update(
-            compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt+rephrase_prompts, target_new,
-                                             multi_turn, test_rephrase=True, eval_metric=eval_metric, pre_or_post=pre_or_post)
-        )
-
-    if 'locality' in record.keys() and any(record['locality']):
-        for locality_key in record['locality'].keys():
-            locality_prompt = record['locality'][locality_key]['prompt']
-            if isinstance(locality_prompt, list):
-                locality_prompt = [e+icl_prompt for e in locality_prompt]
-            else:
-                locality_prompt = icl_prompt + locality_prompt
-            ret['locality'].update(
-                compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, locality_key, locality_prompt, None, pre_or_post=pre_or_post)  # record['locality'][locality_key]['ground_truth'] ground_truth is not used in locality evaluation
+        if model is not None:
+            ret.update(
+                compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt + rephrase_prompts, target_new,
+                                                 multi_turn, test_rephrase=True, eval_metric=eval_metric, pre_or_post=pre_or_post)
             )
+        elif model_eval is not None and 'rephrase_output' in ret:
+            acc, _ = evaluate_response(hparams, model_eval, tok_eval, icl_prompt + rephrase_prompts, ret['rephrase_output'][0], target_new, device_eval)
+            ret['rephrase_acc'] = [acc]
 
-    if 'portability' in record.keys() and any(record['portability']):
-        for portability_key in record['portability'].keys():
-            portability_prompt = record['portability'][portability_key]['prompt']
-            if isinstance(portability_prompt, list):
-                portability_prompt = [e+icl_prompt for e in portability_prompt]
-            else:
-                portability_prompt = icl_prompt + portability_prompt
-            ret['portability'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, portability_key, portability_prompt, record['portability'][portability_key]['ground_truth'], pre_or_post))
-    
-    if 'yes_questions' in record.keys() and any(record['yes_questions']):
-        for key in record['yes_questions'].keys():
-            yes_question = record['yes_questions'][key]['prompt']
-            if isinstance(yes_question, list):
-                yes_question = [e+icl_prompt for e in yes_question]
-            else:
-                yes_question = icl_prompt + yes_question
-            ret['yes_questions'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, yes_question, record['yes_questions'][key]['ground_truth'], pre_or_post))
 
-    if 'no_questions' in record.keys() and any(record['no_questions']):
-        for key in record['no_questions'].keys():
-            no_question = record['no_questions'][key]['prompt']
-            if isinstance(no_question, list):
-                no_question = [e+icl_prompt for e in no_question]
-            else:
-                no_question = icl_prompt + no_question
-            ret['no_questions'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, no_question, record['no_questions'][key]['ground_truth'], pre_or_post))
+    question_types = {
+        'locality': None, 'portability': 'ground_truth', 'yes_questions': 'ground_truth',
+        'no_questions': 'ground_truth', 'multiple_choice_questions': 'ground_truth',
+        'reversed_relation_questions': 'ground_truth', 'questions_2hop': 'ground_truth',
+        'questions_3hop': 'ground_truth', 'questions_4hop': 'ground_truth',
+        'questions_5hop': 'ground_truth', 'questions_6hop': 'ground_truth'
+    }
 
-    if 'multiple_choice_questions' in record.keys() and any(record['multiple_choice_questions']):
-        for key in record['multiple_choice_questions'].keys():
-            multiple_choice_question = record['multiple_choice_questions'][key]['prompt']
-            if isinstance(multiple_choice_question, list):
-                multiple_choice_question = [e+icl_prompt for e in multiple_choice_question]
-            else:
-                multiple_choice_question = icl_prompt + multiple_choice_question
-            ret['multiple_choice_questions'].update(compute_multiple_choice_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, multiple_choice_question, record['multiple_choice_questions'][key]['ground_truth'], pre_or_post))
+    for q_type, truth_key in question_types.items():
+        if q_type in record and any(record[q_type]):
+            for key, value in record[q_type].items():
+                prompt = value['prompt']
+                ground_truth_val = value.get(truth_key) if truth_key else None
+                
+                if model is not None:
+                    if q_type == 'multiple_choice_questions':
+                        ret[q_type].update(compute_multiple_choice_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, icl_prompt + prompt, ground_truth_val, pre_or_post))
+                    else:
+                        ret[q_type].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, icl_prompt + prompt, ground_truth_val, pre_or_post))
+                elif model_eval is not None and f"{key}_output" in ret.get(q_type, {}):
+                    output = ret[q_type][f"{key}_output"][0]
+                    if ground_truth_val is not None:
+                        acc, _ = evaluate_response(hparams, model_eval, tok_eval, icl_prompt + prompt, output, ground_truth_val, device_eval)
+                        ret[q_type][f"{key}_acc"] = [acc]
 
-    if 'reversed_relation_questions' in record.keys() and any(record['reversed_relation_questions']):
-        for key in record['reversed_relation_questions'].keys():
-            reversed_relation_question = record['reversed_relation_questions'][key]['prompt']
-            if isinstance(reversed_relation_question, list):
-                reversed_relation_question = [e+icl_prompt for e in reversed_relation_question]
-            else:
-                reversed_relation_question = icl_prompt + reversed_relation_question
-            ret['reversed_relation_questions'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, reversed_relation_question, record['reversed_relation_questions'][key]['ground_truth'], pre_or_post))
 
-    if 'questions_2hop' in record.keys() and any(record['questions_2hop']):
-        for key in record['questions_2hop'].keys():
-            question = record['questions_2hop'][key]['prompt']
-            if isinstance(question, list):
-                question = [e+icl_prompt for e in question]
-            else:
-                question = icl_prompt + question
-            ret['questions_2hop'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, question, record['questions_2hop'][key]['ground_truth'], pre_or_post))
-
-    if 'questions_3hop' in record.keys() and any(record['questions_3hop']):
-        for key in record['questions_3hop'].keys():
-            question = record['questions_3hop'][key]['prompt']
-            if isinstance(question, list):
-                question = [e+icl_prompt for e in question]
-            else:
-                question = icl_prompt + question
-            ret['questions_3hop'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, question, record['questions_3hop'][key]['ground_truth'], pre_or_post))
-
-    if 'questions_4hop' in record.keys() and any(record['questions_4hop']):
-        for key in record['questions_4hop'].keys():
-            question = record['questions_4hop'][key]['prompt']
-            if isinstance(question, list):
-                question = [e+icl_prompt for e in question]
-            else:
-                question = icl_prompt + question
-            ret['questions_4hop'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, question, record['questions_4hop'][key]['ground_truth'], pre_or_post))
-
-    if 'questions_5hop' in record.keys() and any(record['questions_5hop']):
-        for key in record['questions_5hop'].keys():
-            question = record['questions_5hop'][key]['prompt']
-            if isinstance(question, list):
-                question = [e+icl_prompt for e in question]
-            else:
-                question = icl_prompt + question
-
-            ret['questions_5hop'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, question, record['questions_5hop'][key]['ground_truth'], pre_or_post))
-
-    if 'questions_6hop' in record.keys() and any(record['questions_6hop']):
-        for key in record['questions_6hop'].keys():
-            question = record['questions_6hop'][key]['prompt']
-            if isinstance(question, list):
-                question = [e+icl_prompt for e in question]
-            else:
-                question = icl_prompt + question
-            ret['questions_6hop'].update(compute_general_quality(hparams, model, tok, model_eval, tok_eval, device_eval, key, question, record['questions_6hop'][key]['ground_truth'], pre_or_post))
-
-    if test_generation:
-        ret['fluency'] = test_generation_quality(model=model,tok=tok,prefixes=edit_prompts if isinstance(edit_prompts,list) else [edit_prompts,], max_out_len=100, vanilla_generation=False)
+    if test_generation and model is not None:
+        ret['fluency'] = test_generation_quality(model=model, tok=tok, prefixes=[icl_prompt + edit_prompts], max_out_len=100)
+        
     return ret
 
 
@@ -656,7 +592,7 @@ class BaseEditor:
             # Evaluate "pre" stage outputs
             if 'pre' in request_with_outputs and request_with_outputs['pre']:
                 request_with_outputs['pre'] = compute_edit_quality(
-                    self.hparams, None, self.tok,
+                    self.hparams, None, tok_eval,
                     model_eval, tok_eval, device_eval,
                     request_with_outputs['requested_edit'],
                     request_with_outputs['multi_turn'],
@@ -666,7 +602,7 @@ class BaseEditor:
             # Evaluate "post" stage outputs
             if 'post' in request_with_outputs and request_with_outputs['post']:
                 request_with_outputs['post'] = compute_edit_quality(
-                    self.hparams, None, self.tok,
+                    self.hparams, None, tok_eval,
                     model_eval, tok_eval, device_eval,
                     request_with_outputs['requested_edit'],
                     request_with_outputs['multi_turn'],
@@ -795,9 +731,8 @@ class BaseEditor:
             for locality_key in locality_inputs.keys():
                 if isinstance(locality_inputs[locality_key]['prompt'], str):
                     locality_inputs[locality_key]['prompt'] = [locality_inputs[locality_key]['prompt'],]
-                #     locality_inputs[locality_key]['ground_truth'] = [locality_inputs[locality_key]['ground_truth'], ]
-                # assert len(locality_inputs[locality_key]['prompt']) == len(locality_inputs[locality_key]['ground_truth']) \
-                # == len(requests), print('One Edit instance needs one locality input.....')
+                    locality_inputs[locality_key]['ground_truth'] = [locality_inputs[locality_key]['ground_truth'], ]
+                assert len(locality_inputs[locality_key]['prompt']) == len(locality_inputs[locality_key]['ground_truth'])                 == len(requests), print('One Edit instance needs one locality input.....')
 
                 for i, request in enumerate(requests):
                     if locality_inputs[locality_key]['prompt'][i] is not None:
@@ -805,7 +740,7 @@ class BaseEditor:
                             {
                                 locality_key: {
                                     f'prompt': locality_inputs[locality_key]['prompt'][i],
-                                    # f'ground_truth': locality_inputs[locality_key]['ground_truth'][i]
+                                    f'ground_truth': locality_inputs[locality_key]['ground_truth'][i]
                                 }
                             }
                         )
