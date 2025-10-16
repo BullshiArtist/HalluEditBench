@@ -25,6 +25,7 @@ results/hallu_edit_multi_turn/gemma_1.1_2b_it_multi_turn
 results/hallu_edit_multi_turn/llama_2_7b_chat_hf_multi_turn/*_sure.json
 results/hallu_edit_multi_turn/llama_2_7b_chat_hf_multi_turn/places_country_ICL_sure.json
 results/meta_llama_3.1_8b_instruct_no_topic_prompt
+results/separate
 data/KnowEdit
 **/__pycache__
 results/models
