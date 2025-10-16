@@ -608,6 +608,39 @@ class BaseEditor:
                     request_with_outputs['multi_turn'],
                     generations=request_with_outputs['post']  # Pass post-generated outputs
                 )
+            
+            print("Evaluating locality consistency...")
+            for request_with_outputs in tqdm(all_metrics, desc="Evaluating Locality"):
+                # Ensure all necessary keys exist to prevent errors
+                if ('pre' in request_with_outputs and request_with_outputs['pre'] and
+                    'post' in request_with_outputs and request_with_outputs['post'] and
+                    'locality' in request_with_outputs['pre'] and request_with_outputs['pre']['locality'] and
+                    'locality' in request_with_outputs['post'] and request_with_outputs['post']['locality']):
+
+                    # Extract pre- and post-edit answers
+                    pre_locality_output = request_with_outputs['pre']['locality'].get('locality_output', [None])[0]
+                    post_locality_output = request_with_outputs['post']['locality'].get('locality_output', [None])[0]
+                    
+                    # Extract the original locality question
+                    locality_question = request_with_outputs['requested_edit']['locality']['locality']['prompt']
+
+                    if pre_locality_output is not None and post_locality_output is not None:
+                        # Call the evaluation function for comparison
+                        # Use pre_locality_output as the "ground truth"
+                        acc, _ = evaluate_response(
+                            self.hparams,
+                            model_eval,
+                            tok_eval,
+                            locality_question,
+                            post_locality_output,  # Prediction
+                            pre_locality_output,   # Label
+                            device_eval
+                        )
+                        
+                        # Store the calculated accuracy in the post-edit locality metrics
+                        if 'locality_acc' not in request_with_outputs['post']['locality']:
+                            request_with_outputs['post']['locality']['locality_acc'] = []
+                        request_with_outputs['post']['locality']['locality_acc'] = [acc]
 
         if kwargs.get('summary_metrics', False) and len(all_metrics) != 0:
             mean_metrics = dict()
