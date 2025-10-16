@@ -86,16 +86,64 @@ if __name__ == "__main__":
         print(f'Result {results_file} already exists, skipping.\n')
         exit()
 
-    # Consolidate all requests from all topics
+    # --- Step 1: Initialize all data containers ---
     all_prompts = []
     all_targets = []
     all_subjects = []
-    
+    all_rephrase_prompts = []
+    all_locality_inputs = {'locality': {'prompt': [], 'ground_truth': []}}
+    all_portability_inputs = {} # Will be populated dynamically if columns exist
+    all_yes_questions = {'yes': {'prompt': [], 'ground_truth': []}}
+    all_no_questions = {'no': {'prompt': [], 'ground_truth': []}}
+    all_reversed_relation_questions = {'reversed': {'prompt': [], 'ground_truth': []}}
+    all_multiple_choice_questions = {'multiple_choice': {'prompt': [], 'ground_truth': []}}
+    all_questions_2hop = {'2hop': {'prompt': [], 'ground_truth': []}}
+    all_questions_3hop = {'3hop': {'prompt': [], 'ground_truth': []}}
+    all_questions_4hop = {'4hop': {'prompt': [], 'ground_truth': []}}
+    all_questions_5hop = {'5hop': {'prompt': [], 'ground_truth': []}}
+    all_questions_6hop = {'6hop': {'prompt': [], 'ground_truth': []}}
+
+    # --- Step 2: Load all data from CSV ---
     for topic_file in args.topics:
         df = pd.read_csv(topic_file)
         all_prompts.extend(df['question'].tolist())
         all_targets.extend(df['object'].tolist())
         all_subjects.extend(df['subject'].tolist())
+        all_rephrase_prompts.extend(df['paraphrased_question'].tolist())
+        all_locality_inputs['locality']['prompt'].extend(df['locality_question'].tolist())
+        all_locality_inputs['locality']['ground_truth'].extend(df['subject'].tolist())
+
+        # Load robustness data
+        all_yes_questions['yes']['prompt'].extend(df['yes_question'].tolist())
+        all_yes_questions['yes']['ground_truth'].extend(['Yes'] * len(df))
+        all_no_questions['no']['prompt'].extend(df['no_question'].tolist())
+        all_no_questions['no']['ground_truth'].extend(['No'] * len(df))
+
+        # Load reversed relation data
+        if 'reversed_relation_question' in df.columns:
+            all_reversed_relation_questions['reversed']['prompt'].extend(df['reversed_relation_question'].tolist())
+            all_reversed_relation_questions['reversed']['ground_truth'].extend(df['subject'].tolist())
+
+        # Load multiple choice data
+        if 'multiple_choice_with_letters' in df.columns and 'multiple_choice_labels' in df.columns:
+            all_multiple_choice_questions['multiple_choice']['prompt'].extend(df['multiple_choice_with_letters'].tolist())
+            all_multiple_choice_questions['multiple_choice']['ground_truth'].extend(df['multiple_choice_labels'].tolist())
+
+        # Load multi-hop questions data
+        hop_questions = {
+            'questions_2hop': all_questions_2hop,
+            'questions_3hop': all_questions_3hop,
+            'questions_4hop': all_questions_4hop,
+            'questions_5hop': all_questions_5hop,
+            'questions_6hop': all_questions_6hop,
+        }
+        for i in range(2, 7):
+            hop_key = f'questions_{i}hop'
+            prompt_col = f'question_{i}hop'
+            answer_col = f'answer_{i}hop'
+            if prompt_col in df.columns and answer_col in df.columns:
+                hop_questions[hop_key][f'{i}hop']['prompt'].extend(df[prompt_col].tolist())
+                hop_questions[hop_key][f'{i}hop']['ground_truth'].extend(df[answer_col].tolist())
 
     hparams.device = args.device_edit
     editor = BaseEditor.from_hparams(hparams)
@@ -104,10 +152,22 @@ if __name__ == "__main__":
         print(f"Resuming from model at {args.resume_from_model}")
         editor.load_model(args.resume_from_model)
 
+    # --- Step 3: Pass all loaded data to the editor ---
     edit_kwargs = {
         'prompts': all_prompts,
         'target_new': all_targets,
         'subject': all_subjects,
+        'rephrase_prompts': all_rephrase_prompts,
+        'locality_inputs': all_locality_inputs,
+        'yes_questions': all_yes_questions,
+        'no_questions': all_no_questions,
+        'reversed_relation_questions': all_reversed_relation_questions,
+        'multiple_choice_questions': all_multiple_choice_questions,
+        'questions_2hop': all_questions_2hop,
+        'questions_3hop': all_questions_3hop,
+        'questions_4hop': all_questions_4hop,
+        'questions_5hop': all_questions_5hop,
+        'questions_6hop': all_questions_6hop,
         'sequential_edit': True,
         'eval_every_n_steps': args.eval_every_n_steps,
         'summary_metrics': True,
@@ -136,4 +196,4 @@ if __name__ == "__main__":
     torch.cuda.empty_cache()
 
     total_time = (time.time() - start_time) / 60 
-    print(f'\nOverall running time for edit_sequential.py: {total_time:.2f} minutes')
+    print(f'\nOverall running time for edit_sequential_seperate.py: {total_time:.2f} minutes')
